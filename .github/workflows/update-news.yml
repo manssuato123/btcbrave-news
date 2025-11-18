@@ -3,7 +3,7 @@ name: Update RSS News
 on:
   schedule:
     - cron: "0 * * * *"   # roda todo começo de hora
-  workflow_dispatch:      # rodar manualmente
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # precisa do histórico completo p/ poder dar pull
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
