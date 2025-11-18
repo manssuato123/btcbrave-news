@@ -419,87 +419,53 @@ articleView.addEventListener('click', (e) => {
 </script>
 
 <script>
-// ============================
-// RSS AUTO NEWS SYSTEM (até 10 notícias de cada site)
-// ============================
-// ============================
-
-const rssFeeds = [
-  "https://api.rss2json.com/v1/api.json?rss_url=https://cointelegraph.com/rss",
-  "https://api.rss2json.com/v1/api.json?rss_url=https://cryptonews.com/news/feed",
-  "https://api.rss2json.com/v1/api.json?rss_url=https://www.coindesk.com/arc/outboundfeeds/rss/",
-  "https://api.rss2json.com/v1/api.json?rss_url=https://finance.yahoo.com/news/rssindex",
-  "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/rss.xml",
-  "https://api.rss2json.com/v1/api.json?rss_url=https://rss.cnn.com/rss/edition.rss",
-  "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-sectors=crypto"
-];
+// NOVO SISTEMA 24H: LÊ O ARQUIVO news.json GERADO PELO ROBÔ DO GITHUB
 
 const grid = document.querySelector('.grid');
 
-// Remove notícias mais antigas que 36 horas
-function cleanupOldNews(){
-  const now = Date.now();
-  const maxAge = 36 * 60 * 60 * 1000; // 36 horas
+function renderNews(items) {
+  grid.innerHTML = "";
 
-  const cards = grid.querySelectorAll('.card');
-  cards.forEach(card => {
-    const pub = card.dataset.pubdate;
-    if (!pub) return;
-    const diff = now - new Date(pub).getTime();
-    if (diff > maxAge) {
-      card.remove();
-    }
-  });
-}
-
-
-async function loadRSS(url){
-  try{
-    const resp = await fetch(url);
-    const data = await resp.json();
-
-    if(!data.items || data.items.length === 0) return;
-
-    // PEGAR AS 10 PRIMEIRAS NOTÍCIAS DE CADA SITE
-    data.items.slice(0,10).forEach(item => {
+  items.forEach(item => {
     const pubDate = item.pubDate ? new Date(item.pubDate) : new Date();
 
-    // cria card automático
     const card = document.createElement('article');
     card.classList.add('card');
-    card.setAttribute('data-url', item.link);
+    card.setAttribute('data-url', item.link || "");
     card.dataset.pubdate = pubDate.toISOString();
 
     card.innerHTML = `
       <img src="${item.thumbnail || 'Breve.PNG'}" class="card-img-medium" />
       <div class="card-body">
-        <div class="title"><strong>${item.title}</strong></div>
-        <div class="desc">${item.description.substring(0, 120)}...</div>
+        <div class="title"><strong>${item.title || ''}</strong></div>
+        <div class="desc">${(item.description || '').substring(0, 120)}...</div>
         <div class="meta-row">
           <span>${pubDate.toLocaleDateString()} • RSS</span>
         </div>
       </div>`;
 
-    // coloca no TOPO (antes de tudo)
-    grid.prepend(card);
+    grid.appendChild(card);
   });
-
-  // depois de carregar este feed, limpa notícias muito antigas
-  cleanupOldNews();
-
-  } catch(e){ console.log("RSS ERROR", e); }
 }
 
-// Carrega notícias na abertura do site
-rssFeeds.forEach(f => loadRSS(f));
+async function loadNewsFromJson() {
+  try {
+    const resp = await fetch('news.json?_=' + Date.now());
+    if (!resp.ok) {
+      console.log("Erro ao carregar news.json:", resp.status);
+      return;
+    }
+    const items = await resp.json();
+    renderNews(items);
+  } catch (e) {
+    console.log("NEWS JSON ERROR", e);
+  }
+}
 
-// Atualiza automaticamente a cada 1 hora
-setInterval(() => {
-  rssFeeds.forEach(f => loadRSS(f));
-  cleanupOldNews();
-}, 3600000);
+// Carrega na abertura
+loadNewsFromJson();
 
+// Atualiza a cada 1 hora (opcional)
+setInterval(loadNewsFromJson, 3600000);
 </script>
 
-</body>
-</html>
