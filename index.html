@@ -419,54 +419,53 @@ articleView.addEventListener('click', (e) => {
 </script>
 
 <script>
-// NOVO SISTEMA 24H: LÊ O ARQUIVO news.json GERADO PELO ROBÔ DO GITHUB
-
+// NOVO SISTEMA 24H (usa news.json)
 const grid = document.querySelector('.grid');
 
-function renderNews(items) {
-  grid.innerHTML = "";
+function renderCard(item) {
+  const pub = new Date(item.pubDate || Date.now());
 
-  items.forEach(item => {
-    const pubDate = item.pubDate ? new Date(item.pubDate) : new Date();
+  // se tiver thumbnail boa, usa. Se não tiver, usa Breve.PNG (genérica)
+  const thumb = item.thumbnail && item.thumbnail.startsWith('http')
+    ? item.thumbnail
+    : 'Breve.PNG';
 
-    const card = document.createElement('article');
-    card.classList.add('card');
-    card.setAttribute('data-url', item.link || "");
-    card.dataset.pubdate = pubDate.toISOString();
+  const card = document.createElement('article');
+  card.classList.add('card');
+  card.setAttribute('data-url', item.link || '');
+  card.dataset.pubdate = pub.toISOString();
 
-    card.innerHTML = `
-       <img src="${item.thumbnail && item.thumbnail.startsWith('http') ? item.thumbnail : 'Breve.PNG'}" class="card-img-medium" />
-       <div class="card-body">
-         <div class="title"><strong>${item.title || ''}</strong></div>
-         <div class="desc">${(item.description || '').substring(0, 120)}...</div>
-         <div class="meta-row">
-           <span>${pub.toLocaleDateString()} • RSS</span>
-         </div>
-       </div>
-       `;
+  card.innerHTML = `
+    <img src="${thumb}" class="card-img-medium" />
+    <div class="card-body">
+      <div class="title"><strong>${item.title || ''}</strong></div>
+      <div class="desc">${(item.description || '').substring(0, 120)}...</div>
+      <div class="meta-row">
+        <span>${pub.toLocaleDateString()} • RSS</span>
+      </div>
+    </div>
+  `;
 
-    grid.appendChild(card);
-  });
+  grid.appendChild(card);
 }
 
 async function loadNewsFromJson() {
   try {
-    const resp = await fetch('news.json?_=' + Date.now());
-    if (!resp.ok) {
-      console.log("Erro ao carregar news.json:", resp.status);
-      return;
-    }
-    const items = await resp.json();
-    renderNews(items);
+    const r = await fetch('news.json?_=' + Date.now());
+    if (!r.ok) return;
+
+    const items = await r.json();
+    grid.innerHTML = '';
+
+    items.forEach(renderCard);
   } catch (e) {
-    console.log("NEWS JSON ERROR", e);
+    console.log('NEWS JSON ERROR', e);
   }
 }
 
 // Carrega na abertura
 loadNewsFromJson();
-
-// Atualiza a cada 1 hora (opcional)
+// Atualiza a cada 1 hora
 setInterval(loadNewsFromJson, 3600000);
 </script>
 
