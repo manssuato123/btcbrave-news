@@ -3,7 +3,7 @@ name: Update RSS News
 on:
   schedule:
     - cron: "0 * * * *"   # roda todo começo de hora
-  workflow_dispatch:      # permite rodar manualmente
+  workflow_dispatch:      # permite rodar manualmente no botão
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: pip install requests
 
       - name: Build news.json
         run: python build_news.py
