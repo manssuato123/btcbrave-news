@@ -3,6 +3,8 @@ import re
 import requests
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
 
 # Lista de feeds convertidos via rss2json
 RSS_FEEDS = [
@@ -37,28 +39,79 @@ def clean_html(text):
     """Remove tags HTML básicas da descrição."""
     if not text:
         return ""
-    # remove tags HTML simples
     text = re.sub(r"<[^>]+>", "", text)
-    # troca múltiplos espaços/linhas por 1 espaço
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+def fetch_article_image(link):
+    """
+    Tenta pegar a imagem principal da página:
+    1) <meta property="og:image">
+    2) <meta name="twitter:image">
+    3) primeira <img>
+    """
+    if not link:
+        return ""
+
+    try:
+        resp = requests.get(link, timeout=20, headers=HEADERS)
+        resp.raise_for_status()
+    except Exception as e:
+        print("Error fetching article HTML:", link, e)
+        return ""
+
+    html = resp.text
+    soup = BeautifulSoup(html, "html.parser")
+
+    # 1) og:image
+    og = soup.find("meta", property="og:image")
+    if og and og.get("content"):
+        src = og["content"].strip()
+        if src.startswith("//"):
+            src = "https:" + src
+        if src.startswith("/"):
+            src = urljoin(link, src)
+        if src.startswith("http"):
+            return src
+
+    # 2) twitter:image
+    tw = soup.find("meta", attrs={"name": "twitter:image"})
+    if tw and tw.get("content"):
+        src = tw["content"].strip()
+        if src.startswith("//"):
+            src = "https:" + src
+        if src.startswith("/"):
+            src = urljoin(link, src)
+        if src.startswith("http"):
+            return src
+
+    # 3) primeira <img>
+    img = soup.find("img")
+    if img and img.get("src"):
+        src = img["src"].strip()
+        if src.startswith("//"):
+            src = "https:" + src
+        if src.startswith("/"):
+            src = urljoin(link, src)
+        if src.startswith("http"):
+            return src
+
+    return ""
+
 def main():
     all_items = []
-    seen_links = set()  # evita duplicados
+    seen_links = set()
     now = datetime.now(timezone.utc)
-
-    # pega notícias das últimas 36h
     max_age = timedelta(hours=36)
 
     for url in RSS_FEEDS:
-        print("Fetching:", url)
+        print("Fetching RSS:", url)
         try:
             r = requests.get(url, timeout=25, headers=HEADERS)
             r.raise_for_status()
             data = r.json()
         except Exception as e:
-            print("Error fetching", url, e)
+            print("Error fetching RSS:", url, e)
             continue
 
         items = data.get("items", [])[:10]  # até 10 de cada feed
@@ -71,17 +124,24 @@ def main():
             if now - pub_dt > max_age:
                 continue
 
-            link = item.get("link", "")
+            link = item.get("link", "").strip()
             if not link or link in seen_links:
-                # sem link ou duplicada
                 continue
             seen_links.add(link)
+
+            # thumbnail vinda do RSS
+            thumb = (item.get("thumbnail") or "").strip()
+
+            # se não for uma URL http válida, tenta buscar da página
+            if not (thumb.startswith("http://") or thumb.startswith("https://")):
+                print("  No valid thumbnail in RSS, fetching from article:", link)
+                thumb = fetch_article_image(link)
 
             all_items.append({
                 "title": item.get("title", "").strip(),
                 "description": clean_html(item.get("description", "")),
                 "link": link,
-                "thumbnail": item.get("thumbnail", ""),
+                "thumbnail": thumb,
                 "pubDate": pub_dt.isoformat()
             })
 
