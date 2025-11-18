@@ -422,33 +422,6 @@ articleView.addEventListener('click', (e) => {
 // NOVO SISTEMA 24H (usa news.json)
 const grid = document.querySelector('.grid');
 
-function renderCard(item) {
-  const pub = new Date(item.pubDate || Date.now());
-
-  // se tiver thumbnail boa, usa. Se não tiver, usa Breve.PNG (genérica)
-  const thumb = item.thumbnail && item.thumbnail.startsWith('http')
-    ? item.thumbnail
-    : 'Breve.PNG';
-
-  const card = document.createElement('article');
-  card.classList.add('card');
-  card.setAttribute('data-url', item.link || '');
-  card.dataset.pubdate = pub.toISOString();
-
-  card.innerHTML = `
-    <img src="${thumb}" class="card-img-medium" />
-    <div class="card-body">
-      <div class="title"><strong>${item.title || ''}</strong></div>
-      <div class="desc">${(item.description || '').substring(0, 120)}...</div>
-      <div class="meta-row">
-        <span>${pub.toLocaleDateString()} • RSS</span>
-      </div>
-    </div>
-  `;
-
-  grid.appendChild(card);
-}
-
 async function loadNewsFromJson() {
   try {
     const r = await fetch('news.json?_=' + Date.now());
@@ -457,15 +430,40 @@ async function loadNewsFromJson() {
     const items = await r.json();
     grid.innerHTML = '';
 
-    items.forEach(renderCard);
+    items.forEach(item => {
+      const pub = new Date(item.pubDate || Date.now());
+
+      // Se tiver thumbnail HTTP, usa a imagem da notícia.
+      // Se não tiver, usa só a imagem genérica Breve.PNG
+      const imgSrc =
+        item.thumbnail && item.thumbnail.startsWith('http')
+          ? item.thumbnail
+          : 'Breve.PNG';
+
+      const card = document.createElement('article');
+      card.classList.add('card');
+      card.setAttribute('data-url', item.link || '');
+      card.dataset.pubdate = pub.toISOString();
+
+      card.innerHTML = `
+        <img src="${imgSrc}" class="card-img-medium" />
+        <div class="card-body">
+          <div class="title"><strong>${item.title || ''}</strong></div>
+          <div class="desc">${(item.description || '').substring(0, 120)}...</div>
+          <div class="meta-row">
+            <span>${pub.toLocaleDateString()} • RSS</span>
+          </div>
+        </div>
+      `;
+
+      grid.appendChild(card);
+    });
   } catch (e) {
     console.log('NEWS JSON ERROR', e);
   }
 }
 
-// Carrega na abertura
 loadNewsFromJson();
-// Atualiza a cada 1 hora
 setInterval(loadNewsFromJson, 3600000);
 </script>
 
