@@ -435,10 +435,7 @@ async function loadNewsFromJson() {
 
       // Se tiver thumbnail HTTP, usa a imagem da notícia.
       // Se não tiver, usa só a imagem genérica Breve.PNG
-      const imgSrc =
-        item.thumbnail && item.thumbnail.startsWith('http')
-          ? item.thumbnail
-          : 'Breve.PNG';
+      const hasImage = item.thumbnail && item.thumbnail.startsWith('http');
 
       const card = document.createElement('article');
       card.classList.add('card');
@@ -446,7 +443,7 @@ async function loadNewsFromJson() {
       card.dataset.pubdate = pub.toISOString();
 
       card.innerHTML = `
-        <img src="${imgSrc}" class="card-img-medium" />
+        ${hasImage ? `<img src="${item.thumbnail}" class="card-img-medium" />` : ``}
         <div class="card-body">
           <div class="title"><strong>${item.title || ''}</strong></div>
           <div class="desc">${(item.description || '').substring(0, 120)}...</div>
@@ -466,4 +463,3 @@ async function loadNewsFromJson() {
 loadNewsFromJson();
 setInterval(loadNewsFromJson, 3600000);
 </script>
-
