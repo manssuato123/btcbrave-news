@@ -3,6 +3,7 @@ import requests
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
+# LISTA DE RSS PARA PUXAR AS NOTÍCIAS
 RSS_FEEDS = [
     "https://api.rss2json.com/v1/api.json?rss_url=https://cointelegraph.com/rss",
     "https://api.rss2json.com/v1/api.json?rss_url=https://cryptonews.com/news/feed",
@@ -13,6 +14,7 @@ RSS_FEEDS = [
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-sectors=crypto"
 ]
 
+# TENTAR ENTENDER A DATA DO FEED
 def parse_pubdate(s, now):
     if not s:
         return now
@@ -27,7 +29,7 @@ def parse_pubdate(s, now):
 def main():
     all_items = []
     now = datetime.now(timezone.utc)
-    max_age = timedelta(hours=36)
+    max_age = timedelta(hours=36)  # notícias até 36 horas
 
     for url in RSS_FEEDS:
         print("Fetching:", url)
@@ -38,10 +40,14 @@ def main():
             print("Error fetching", url, e)
             continue
 
+        # PEGAR AS 10 NOTÍCIAS MAIS RECENTES DE CADA SITE
         items = data.get("items", [])[:10]
+
         for item in items:
             pub_raw = item.get("pubDate")
             pub_dt = parse_pubdate(pub_raw, now)
+
+            # descartar notícias muito antigas
             if now - pub_dt > max_age:
                 continue
 
@@ -53,9 +59,13 @@ def main():
                 "pubDate": pub_dt.isoformat()
             })
 
+    # ordenar por data
     all_items.sort(key=lambda x: x["pubDate"], reverse=True)
+
+    # limitar a 300 notícias
     all_items = all_items[:300]
 
+    # salvar news.json
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_items, f, ensure_ascii=False, indent=2)
 
