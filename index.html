@@ -435,15 +435,15 @@ function renderNews(items) {
     card.dataset.pubdate = pubDate.toISOString();
 
     card.innerHTML = `
-  <img src="${item.thumbnail && item.thumbnail.startsWith('http') ? item.thumbnail : 'Breve.PNG'}" class="card-img-medium" />
-  <div class="card-body">
-    <div class="title"><strong>${item.title || ''}</strong></div>
-    <div class="desc">${(item.description || '').substring(0, 120)}...</div>
-    <div class="meta-row">
-      <span>${pub.toLocaleDateString()} • RSS</span>
-    </div>
-  </div>`;
-
+       <img src="${item.thumbnail && item.thumbnail.startsWith('http') ? item.thumbnail : 'Breve.PNG'}" class="card-img-medium" />
+       <div class="card-body">
+         <div class="title"><strong>${item.title || ''}</strong></div>
+         <div class="desc">${(item.description || '').substring(0, 120)}...</div>
+         <div class="meta-row">
+           <span>${pub.toLocaleDateString()} • RSS</span>
+         </div>
+       </div>
+       `;
 
     grid.appendChild(card);
   });
