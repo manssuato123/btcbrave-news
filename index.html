@@ -1,0 +1,505 @@
+<!-- Cole<!-- Cole aqui o seu código HTML para editar. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BTCBRAVE – New Financial Freedom</title>
+  <style>
+    :root {
+      --bg-main: #05060a;
+      --bg-card: #111318;
+      --accent: #d4af37;
+      --accent-soft: #ffdd70;
+      --text-main: #f5f5f5;
+      --text-muted: #a0a4b8;
+      --border-soft: #252837;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      background: radial-gradient(circle at top, #151827 0, #05060a 40%, #020308 100%);
+      color: var(--text-main);
+    }
+
+    header {
+      background: rgba(5, 6, 10, 0.96);
+      padding: 10px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border-soft);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(14px);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      text-transform: none;
+      color: var(--accent);
+      font-size: 18px;
+    }
+
+    .logo-badge {
+      width: 30px;
+      height: 30px;
+      border-radius: 999px;
+      border: 2px solid var(--accent);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+    }
+
+    header nav a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: var(--text-muted);
+      font-weight: 500;
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding-bottom: 4px;
+      border-bottom: 2px solid transparent;
+      transition: 0.2s;
+    }
+
+    header nav a:hover {
+      color: var(--accent-soft);
+      border-bottom-color: var(--accent);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 16px;
+      padding: 18px;
+      max-width: 1600px;
+      margin: auto;
+    }
+
+    @media (max-width: 1100px) {
+      .grid {
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      }
+    }
+
+    /* PADRÃO AUTOMÁTICO DE ALTURAS DAS BOXES (3 IGUAIS + 1 DIFERENTE em ciclo de 4) */
+    .grid > .card:not(.hero) {
+      min-height: 220px;
+    }
+
+    /* 3 primeiras de cada bloco de 4: tamanho médio */
+    .grid > .card:not(.hero):nth-child(4n+1),
+    .grid > .card:not(.hero):nth-child(4n+2),
+    .grid > .card:not(.hero):nth-child(4n+3) {
+      min-height: 240px;
+    }
+
+    /* 4ª do bloco: box mais alta (destaque) */
+    .grid > .card:not(.hero):nth-child(4n+4) {
+      min-height: 320px;
+    }
+
+    .card {
+      background: radial-gradient(circle at top left, #202538 0, #111318 45%, #05060a 100%);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 22px 40px rgba(0,0,0,0.6);
+      border: 2px solid rgba(255,255,255,0.18); /* LINHA AO REDOR DO QUADRADO */
+      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+      position: relative;
+      cursor: pointer; /* Deixa claro que a box é clicável */
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 30px 60px rgba(0,0,0,0.8);
+      border-color: rgba(255, 221, 112, 0.4);
+    }
+
+    .card.hero {
+      grid-row: span 2;
+      min-height: 320px;
+      display: grid;
+      grid-template-rows: 1.3fr auto;
+    }
+
+    .hero-media {
+      background: radial-gradient(circle at 20% 0, rgba(255, 221, 112, 0.2) 0, transparent 46%),
+                  radial-gradient(circle at 80% 0, rgba(0, 255, 194, 0.2) 0, transparent 52%);
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      padding: 18px 18px 10px;
+    }
+
+    .hero-chart {
+      flex: 1;
+      height: 180px;
+      border-radius: 12px;
+      border: 1px solid rgba(255,255,255,0.08);
+      background-image: linear-gradient(to top, rgba(5, 6, 10, 0.95), rgba(5, 6, 10, 0.7)),
+                        linear-gradient(120deg, #27e1ff 0, #00ffb0 40%, #ffe066 80%, #ff6b6b 100%);
+      background-size: 100% 100%, 200% 100%;
+      background-blend-mode: overlay;
+    }
+
+    .hero-price-tag {
+      margin-left: 16px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: rgba(5, 6, 10, 0.86);
+      border: 1px solid rgba(212, 175, 55, 0.75);
+      font-size: 13px;
+      line-height: 1.4;
+      min-width: 150px;
+    }
+
+    .hero-price-tag strong {
+      color: var(--accent-soft);
+    }
+
+    .card-body {
+      padding: 16px 18px 18px;
+    }
+
+    .eyebrow { display:none; }
+
+    .title {
+      font-size: 19px;
+      font-weight: 700;
+      margin-bottom: 6px;
+      color: #fdfdfd;
+    }
+
+    .desc {
+      color: var(--text-muted);
+      font-size: 14px;
+      line-height: 1.5;
+      max-height: 72px; /* 3 linhas aproximadamente */
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+    }
+
+    .meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 10px;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .tag-pill {
+      padding: 3px 9px;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,0.16);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+
+    .pill-buy {
+      border-color: rgba(0, 255, 194, 0.7);
+      color: #b2fff2;
+    }
+
+    .pill-defi {
+      border-color: rgba(212, 175, 55, 0.7);
+      color: var(--accent-soft);
+    }
+
+    .pill-learn {
+      border-color: rgba(104, 116, 255, 0.7);
+      color: #c2c7ff;
+    }
+
+    .pill-community {
+      border-color: rgba(255, 107, 107, 0.7);
+      color: #ffc9c9;
+    }
+
+    .badge-live {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(220, 53, 69, 0.96);
+      color: #fff;
+      font-size: 10px;
+      padding: 3px 8px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+    }
+
+    /* FULL ARTICLE VIEW (ABRE A NOTÍCIA NA PÁGINA INTEIRA) */
+    .article-view {
+      width: 100%;
+      background: radial-gradient(circle at top, #111318 0, #05060a 40%, #020308 100%);
+      display: none;
+      flex-direction: column;
+      padding: 40px 18px 32px;
+      position: relative;
+    }
+
+    .article-view.open {
+      display: flex;
+    }
+
+    .article-inner {
+      max-width: 960px;
+      margin: 0 auto;
+      background: #05060a;
+      border-radius: 18px;
+      padding: 28px 22px 26px;
+      border: 1px solid rgba(212, 175, 55, 0.4);
+      box-shadow: 0 30px 70px rgba(0,0,0,0.9);
+    }
+
+    .article-title {
+      font-size: 28px;
+      line-height: 1.3;
+      font-weight: 800;
+      margin-bottom: 12px;
+      color: #ffffff;
+    }
+
+    .article-body {
+      font-size: 18px;
+      line-height: 1.7;
+      color: var(--text-muted);
+    }
+
+    .article-close {
+      position: absolute;
+      top: 20px;
+      right: 24px;
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.3);
+      color: #ffffff;
+      border-radius: 999px;
+      width: 34px;
+      height: 34px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 18px;
+    }
+
+    .article-close:hover {
+      background: rgba(255,255,255,0.1);
+    }
+  
+    /* Ajuste para texto sobre a imagem */
+    /* Removido o tamanho global das imagens dos cards */
+.card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
+.card-img-medium { height:120px; width:100%; object-fit:cover; }
+.card-img-large { height:200px; width:100%; object-fit:cover; }
+    .card .card-body {
+      margin-top: 0; /* TEXTO AGORA DESCE E FICA MAIS EMBAIXO */
+      background: linear-gradient(to top, rgba(5,6,10,0.85), transparent);
+      padding: 26px 18px 18px; /* MAIS ESPAÇO EM CIMA PARA DESLOCAR O TEXTO */
+    }
+</style>
+  <!-- OneSignal Push Notifications -->
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+  <script>
+    window.OneSignal = window.OneSignal || [];
+    OneSignal.push(function() {
+      OneSignal.init({
+        appId: "COLOQUE_SEU_APP_ID_AQUI",
+        safari_web_id: "",
+        notifyButton: {
+          enable: true,
+          size: 'medium',
+          position: 'bottom-right',
+          theme: 'default',
+          text: {
+            'tip.state.unsubscribed': 'Clique para receber notificações',
+            'tip.state.subscribed': 'Você está inscrito!',
+            'message.prenotify': 'Clique para ativar as notificações da BTCBRAVE',
+            'message.action.subscribed': 'Obrigado por se inscrever!',
+            'message.action.resubscribed': 'Notificações ativadas novamente!',
+            'message.action.unsubscribed': 'Notificações desativadas'
+          }
+        }
+      });
+    });
+  </script>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-badge" style="width:34px; height:34px; border-radius:999px; border:2px solid var(--accent); display:flex; align-items:center; justify-content:center; padding:0;">
+      <img src="borboleta.png" alt="BTCBRAVE Butterfly Logo" style="width:32px; height:32px; border-radius:50%; object-fit:cover; object-position: center; background:var(--bg-main);" />
+    </div>
+    <span style="background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316); -webkit-background-clip:text; color:transparent; font-weight:800; font-size:22px;">BTCBRAVE News</span>
+  </div>
+  <nav>
+    <a href="https://btcbrave.store" target="_blank" rel="noopener noreferrer">
+      <img src="btcbrave.png" alt="BTCBRAVE Logo" style="width:45px; height:45px; object-fit:cover; object-position: center; border-radius:50%; cursor:pointer;" />
+    </a>
+  </nav>
+</header>
+
+<!-- ÁREA DA NOTÍCIA ABERTA EMBAIXO DO BTCBRAVE NEWS -->
+<div class="article-view" id="articleView">
+  <button class="article-close" id="articleClose">×</button>
+  <div class="article-inner">
+    <div class="article-title" id="articleTitle"></div>
+    <div class="article-body" id="articleBody"></div>
+  </div>
+</div>
+
+<div class="grid">
+    <!-- CARD – NOTÍCIA -->
+
+
+ 
+ 
+    <!-- FIM DO MODELO – COPIE ESTE BLOCO, COLE MAIS ACIMA E EDITE OS TEXTOS -->
+</div>
+
+<script>
+// SISTEMA DE CLIQUE — FUNCIONA PARA TODAS AS BOXES (manuais + RSS)
+const articleView = document.getElementById('articleView');
+const articleTitle = document.getElementById('articleTitle');
+const articleBody  = document.getElementById('articleBody');
+const articleClose = document.getElementById('articleClose');
+const gridEl       = document.querySelector('.grid');
+
+// DELEGAÇÃO → pega clique em QUALQUER .card, mesmo criado depois
+gridEl.addEventListener('click', (event) => {
+  const card = event.target.closest('.card');
+  if (!card) return;
+
+  // Se tiver URL externa → abre o site da notícia original (mesma aba para não ser bloqueado)
+  const externalUrl = card.getAttribute('data-url');
+  if (externalUrl) {
+    window.location.href = externalUrl;
+    return;
+  }
+
+  // Se não tiver URL → abre notícia dentro do site
+  const title = card.querySelector('.title')?.innerHTML || '';
+  const full  = card.getAttribute('data-full');
+  const desc  = card.querySelector('.desc')?.innerHTML || '';
+
+  articleTitle.innerHTML = title;
+  articleBody.innerHTML  = full || desc;
+  articleView.classList.add('open');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+// Botão FECHAR
+articleClose.addEventListener('click', () => {
+  articleView.classList.remove('open');
+});
+
+// Fechar clicando fora
+articleView.addEventListener('click', (e) => {
+  if (e.target === articleView) articleView.classList.remove('open');
+});
+</script>
+
+<script>
+// ============================
+// RSS AUTO NEWS SYSTEM (até 10 notícias de cada site)
+// ============================
+// ============================
+
+const rssFeeds = [
+  "https://api.rss2json.com/v1/api.json?rss_url=https://cointelegraph.com/rss",
+  "https://api.rss2json.com/v1/api.json?rss_url=https://cryptonews.com/news/feed",
+  "https://api.rss2json.com/v1/api.json?rss_url=https://www.coindesk.com/arc/outboundfeeds/rss/",
+  "https://api.rss2json.com/v1/api.json?rss_url=https://finance.yahoo.com/news/rssindex",
+  "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/rss.xml",
+  "https://api.rss2json.com/v1/api.json?rss_url=https://rss.cnn.com/rss/edition.rss",
+  "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-sectors=crypto"
+];
+
+const grid = document.querySelector('.grid');
+
+// Remove notícias mais antigas que 36 horas
+function cleanupOldNews(){
+  const now = Date.now();
+  const maxAge = 36 * 60 * 60 * 1000; // 36 horas
+
+  const cards = grid.querySelectorAll('.card');
+  cards.forEach(card => {
+    const pub = card.dataset.pubdate;
+    if (!pub) return;
+    const diff = now - new Date(pub).getTime();
+    if (diff > maxAge) {
+      card.remove();
+    }
+  });
+}
+
+
+async function loadRSS(url){
+  try{
+    const resp = await fetch(url);
+    const data = await resp.json();
+
+    if(!data.items || data.items.length === 0) return;
+
+    // PEGAR AS 10 PRIMEIRAS NOTÍCIAS DE CADA SITE
+    data.items.slice(0,10).forEach(item => {
+    const pubDate = item.pubDate ? new Date(item.pubDate) : new Date();
+
+    // cria card automático
+    const card = document.createElement('article');
+    card.classList.add('card');
+    card.setAttribute('data-url', item.link);
+    card.dataset.pubdate = pubDate.toISOString();
+
+    card.innerHTML = `
+      <img src="${item.thumbnail || 'Breve.PNG'}" class="card-img-medium" />
+      <div class="card-body">
+        <div class="title"><strong>${item.title}</strong></div>
+        <div class="desc">${item.description.substring(0, 120)}...</div>
+        <div class="meta-row">
+          <span>${pubDate.toLocaleDateString()} • RSS</span>
+        </div>
+      </div>`;
+
+    // coloca no TOPO (antes de tudo)
+    grid.prepend(card);
+  });
+
+  // depois de carregar este feed, limpa notícias muito antigas
+  cleanupOldNews();
+
+  } catch(e){ console.log("RSS ERROR", e); }
+}
+
+// Carrega notícias na abertura do site
+rssFeeds.forEach(f => loadRSS(f));
+
+// Atualiza automaticamente a cada 1 hora
+setInterval(() => {
+  rssFeeds.forEach(f => loadRSS(f));
+  cleanupOldNews();
+}, 3600000);
+
+</script>
+
+</body>
+</html>
