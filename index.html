@@ -80,6 +80,15 @@
       border-bottom-color: var(--accent);
     }
 
+    .loading-news {
+      max-width: 1600px;
+      margin: 16px auto 0;
+      padding: 8px 18px;
+      font-size: 13px;
+      color: var(--text-muted);
+      display: none;
+    }
+
     .grid {
       display: grid;
       grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -367,6 +376,8 @@
   </div>
 </div>
 
+<div id="loadingNews" class="loading-news">Carregando as últimas notícias de cripto e mercado...</div>
+
 <div class="grid">
     <!-- CARD – NOTÍCIA -->
 
@@ -421,8 +432,28 @@ articleView.addEventListener('click', (e) => {
 <script>
 // NOVO SISTEMA 24H (usa news.json)
 const grid = document.querySelector('.grid');
+const loading = document.getElementById('loadingNews');
+
+function getSourceName(url) {
+  if (!url) return 'NEWS';
+  try {
+    const u = new URL(url);
+    let host = u.hostname.replace('www.', '');
+    if (host.includes('cointelegraph')) return 'Cointelegraph';
+    if (host.includes('cryptonews')) return 'CryptoNews';
+    if (host.includes('coindesk')) return 'CoinDesk';
+    if (host.includes('yahoo')) return 'Yahoo Finance';
+    if (host.includes('bbc')) return 'BBC News';
+    if (host.includes('cnn')) return 'CNN';
+    if (host.includes('reuters')) return 'Reuters';
+    return host.toUpperCase();
+  } catch (e) {
+    return 'NEWS';
+  }
+}
 
 async function loadNewsFromJson() {
+  if (loading) loading.style.display = 'block';
   try {
     const r = await fetch('news.json?_=' + Date.now());
     if (!r.ok) return;
@@ -432,10 +463,8 @@ async function loadNewsFromJson() {
 
     items.forEach(item => {
       const pub = new Date(item.pubDate || Date.now());
-
-      // Se tiver thumbnail HTTP, usa a imagem da notícia.
-      // Se não tiver, usa só a imagem genérica Breve.PNG
       const hasImage = item.thumbnail && item.thumbnail.startsWith('http');
+      const sourceName = getSourceName(item.link || '');
 
       const card = document.createElement('article');
       card.classList.add('card');
@@ -448,7 +477,7 @@ async function loadNewsFromJson() {
           <div class="title"><strong>${item.title || ''}</strong></div>
           <div class="desc">${(item.description || '').substring(0, 120)}...</div>
           <div class="meta-row">
-            <span>${pub.toLocaleDateString()} • RSS</span>
+            <span>${pub.toLocaleDateString()} • ${sourceName}</span>
           </div>
         </div>
       `;
@@ -457,6 +486,8 @@ async function loadNewsFromJson() {
     });
   } catch (e) {
     console.log('NEWS JSON ERROR', e);
+  } finally {
+    if (loading) loading.style.display = 'none';
   }
 }
 
