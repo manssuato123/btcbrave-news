@@ -42,8 +42,6 @@ def main():
         for item in items:
             pub_raw = item.get("pubDate")
             pub_dt = parse_pubdate(pub_raw, now)
-
-            # pula notícias muito antigas
             if now - pub_dt > max_age:
                 continue
 
@@ -55,10 +53,7 @@ def main():
                 "pubDate": pub_dt.isoformat()
             })
 
-    # ordena por data (mais novas primeiro)
     all_items.sort(key=lambda x: x["pubDate"], reverse=True)
-
-    # limita a 300 notícias
     all_items = all_items[:300]
 
     with open("news.json", "w", encoding="utf-8") as f:
