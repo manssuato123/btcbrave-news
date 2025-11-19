@@ -453,23 +453,25 @@ function getSourceName(url) {
     const u = new URL(url);
     let host = u.hostname.replace('www.', '');
 
+    function getSourceNameFromUrl(urlString) {
+  try {
+    const url = new URL(urlString);
+    const host = url.hostname.toLowerCase();
+
     if (host.includes('cointelegraph')) return 'Cointelegraph';
-    if (host.includes('cryptonews'))   return 'CryptoNews';
-    if (host.includes('coindesk'))     return 'CoinDesk';
-    if (host.includes('yahoo'))        return 'Yahoo Finance';
-    if (host.includes('bbc'))          return 'BBC News';
-    if (host.includes('cnn'))          return 'CNN';
-    if (host.includes('reuters'))      return 'Reuters';
+    if (host.includes('reuters'))       return 'Reuters';
+    if (host.includes('aljazeera'))     return 'Al Jazeera';
+    if (host.includes('yahoo'))         return 'Yahoo Finance';
+    if (host.includes('bbc'))           return 'BBC News';
+    if (host.includes('cnn'))           return 'CNN';
+    if (host.includes('gamespot'))      return 'GameSpot';
+    if (host.includes('polygon'))       return 'Polygon';
+    if (host.includes('thespruceeats')) return 'The Spruce Eats';
 
-    if (host.includes('gamespot'))     return 'GameSpot';
-    if (host.includes('polygon'))      return 'Polygon';
-
-    if (host.includes('allrecipes'))   return 'AllRecipes';
-    if (host.includes('thespruceeats'))  return 'Serious Eats';
-
-    if (host.includes('aljazeera'))    return 'Al Jazeera';
-
-    if (host.includes('github.io') && host.includes('manssuato123')) return 'BTCBRAVE Blog';
+    // Seu blog no GitHub continua:
+    if (host.includes('github.io') && host.includes('manssuato123')) {
+      return 'BTCBRAVE Blog';
+    }
 
     return host.toUpperCase();
   } catch (e) {
