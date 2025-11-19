@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 # Lista de feeds convertidos via rss2json
 RSS_FEEDS = [
     "https://api.rss2json.com/v1/api.json?rss_url=https://cointelegraph.com/rss",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://cryptonews.com/news/feed",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-topics=conflict&post_type=best",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.aljazeera.com/xml/rss/all.xml",
     "https://api.rss2json.com/v1/api.json?rss_url=https://finance.yahoo.com/news/rssindex",
     "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/rss.xml",
     "https://api.rss2json.com/v1/api.json?rss_url=https://rss.cnn.com/rss/edition.rss",
