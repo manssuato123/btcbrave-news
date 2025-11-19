@@ -448,14 +448,17 @@ function getCategory(url) {
       return 'games';
     }
 
-    // World / War news  (AGORA INCLUI COMIDA TAMBÉM)
+    // Food 🍽️
+    if (host.includes('bonappetit') || host.includes('foodandwine')) {
+      return 'food';
+    }
+
+    // World / War news
     if (
-      host.includes('reuters')     ||
-      host.includes('bbc')         ||
-      host.includes('cnn')         ||
-      host.includes('aljazeera')   ||
-      host.includes('bonappetit')  ||   // 👈 comida
-      host.includes('foodandwine')      // 👈 comida
+      host.includes('reuters')   ||
+      host.includes('bbc')       ||
+      host.includes('cnn')       ||
+      host.includes('aljazeera')
     ) {
       return 'world';
     }
