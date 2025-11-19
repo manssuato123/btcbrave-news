@@ -447,23 +447,29 @@ const loading = document.getElementById('loadingNews');
 // URL do seu blog no GitHub Pages
 const BLOG_POSTS_URL = "https://manssuato123.github.io/btcbrave-blog/posts.json";
 
-function getSourceName(urlString) {
-  if (!urlString) return 'NEWS';
+function getSourceName(url) {
+  if (!url) return 'NEWS';
+
   try {
-    const url  = new URL(urlString);
-    const host = url.hostname.toLowerCase().replace('www.', '');
+    const u = new URL(url);
+    const host = u.hostname.replace('www.', '').toLowerCase();
 
     if (host.includes('cointelegraph')) return 'Cointelegraph';
-    if (host.includes('reuters'))       return 'Reuters';
-    if (host.includes('aljazeera'))     return 'Al Jazeera';
+    if (host.includes('cryptonews'))    return 'CryptoNews';
+    if (host.includes('coindesk'))      return 'CoinDesk';
     if (host.includes('yahoo'))         return 'Yahoo Finance';
     if (host.includes('bbc'))           return 'BBC News';
     if (host.includes('cnn'))           return 'CNN';
+    if (host.includes('reuters'))       return 'Reuters';
+
     if (host.includes('gamespot'))      return 'GameSpot';
     if (host.includes('polygon'))       return 'Polygon';
-    if (host.includes('thespruceeats')) return 'The Spruce Eats';
 
-    // Seu blog no GitHub
+    if (host.includes('allrecipes'))    return 'AllRecipes';
+    if (host.includes('thespruceeats')) return 'Serious Eats';
+
+    if (host.includes('aljazeera'))     return 'Al Jazeera';
+
     if (host.includes('github.io') && host.includes('manssuato123')) {
       return 'BTCBRAVE Blog';
     }
@@ -473,7 +479,7 @@ function getSourceName(urlString) {
     return 'NEWS';
   }
 }
-
+  
 function getCategory(url) {
   if (!url) return 'other';
   try {
