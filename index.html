@@ -1,13 +1,10 @@
-<!-- Cole<!-- Cole aqui o seu código HTML para editar. -->
+<!-- Cole aqui o seu código HTML para editar. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>BTCBRAVE – New Financial Freedom</title>
-  <!-- FAVICON (falcon) -->
-  <link rel="icon" type="image/png" href="borboleta.png" />
-  <link rel="shortcut icon" type="image/png" href="borboleta.png" />
   <style>
     :root {
       --bg-main: #05060a;
@@ -83,6 +80,40 @@
       border-bottom-color: var(--accent);
     }
 
+    /* FILTER BAR */
+    .filter-bar {
+      max-width: 1600px;
+      margin: 10px auto 0;
+      padding: 8px 18px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .filter-btn {
+      background: #111318;
+      color: var(--text-muted);
+      border: 1px solid var(--border-soft);
+      border-radius: 999px;
+      padding: 6px 14px;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      cursor: pointer;
+      transition: 0.18s ease;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--accent-soft);
+      color: var(--accent-soft);
+    }
+
+    .filter-btn.active {
+      background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899, #f97316);
+      color: #ffffff;
+      border-color: transparent;
+    }
+
     .loading-news {
       max-width: 1600px;
       margin: 16px auto 0;
@@ -112,14 +143,12 @@
       min-height: 220px;
     }
 
-    /* 3 primeiras de cada bloco de 4: tamanho médio */
     .grid > .card:not(.hero):nth-child(4n+1),
     .grid > .card:not(.hero):nth-child(4n+2),
     .grid > .card:not(.hero):nth-child(4n+3) {
       min-height: 240px;
     }
 
-    /* 4ª do bloco: box mais alta (destaque) */
     .grid > .card:not(.hero):nth-child(4n+4) {
       min-height: 320px;
     }
@@ -133,7 +162,7 @@
       transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
       position: relative;
       cursor: pointer;
-      display: flex;            /* NOVO: card vira coluna */
+      display: flex;
       flex-direction: column;   /* imagem em cima, texto embaixo */
     }
 
@@ -143,53 +172,11 @@
       border-color: rgba(255, 221, 112, 0.4);
     }
 
-    .card.hero {
-      grid-row: span 2;
-      min-height: 320px;
-      display: grid;
-      grid-template-rows: 1.3fr auto;
-    }
-
-    .hero-media {
-      background: radial-gradient(circle at 20% 0, rgba(255, 221, 112, 0.2) 0, transparent 46%),
-                  radial-gradient(circle at 80% 0, rgba(0, 255, 194, 0.2) 0, transparent 52%);
-      display: flex;
-      align-items: flex-end;
-      justify-content: space-between;
-      padding: 18px 18px 10px;
-    }
-
-    .hero-chart {
-      flex: 1;
-      height: 180px;
-      border-radius: 12px;
-      border: 1px solid rgba(255,255,255,0.08);
-      background-image: linear-gradient(to top, rgba(5, 6, 10, 0.95), rgba(5, 6, 10, 0.7)),
-                        linear-gradient(120deg, #27e1ff 0, #00ffb0 40%, #ffe066 80%, #ff6b6b 100%);
-      background-size: 100% 100%, 200% 100%;
-      background-blend-mode: overlay;
-    }
-
-    .hero-price-tag {
-      margin-left: 16px;
-      padding: 10px 14px;
-      border-radius: 999px;
-      background: rgba(5, 6, 10, 0.86);
-      border: 1px solid rgba(212, 175, 55, 0.75);
-      font-size: 13px;
-      line-height: 1.4;
-      min-width: 150px;
-    }
-
-    .hero-price-tag strong {
-      color: var(--accent-soft);
-    }
-
     .card-body {
       padding: 16px 18px 18px;
+      background: transparent;
+      margin-top: auto;
     }
-
-    .eyebrow { display:none; }
 
     .title {
       font-size: 19px;
@@ -202,7 +189,7 @@
       color: var(--text-muted);
       font-size: 14px;
       line-height: 1.5;
-      max-height: 72px; /* 3 linhas aproximadamente */
+      max-height: 72px;
       overflow: hidden;
       display: -webkit-box;
       -webkit-line-clamp: 3;
@@ -216,35 +203,6 @@
       margin-top: 10px;
       font-size: 12px;
       color: var(--text-muted);
-    }
-
-    .tag-pill {
-      padding: 3px 9px;
-      border-radius: 999px;
-      border: 1px solid rgba(255,255,255,0.16);
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-    }
-
-    .pill-buy {
-      border-color: rgba(0, 255, 194, 0.7);
-      color: #b2fff2;
-    }
-
-    .pill-defi {
-      border-color: rgba(212, 175, 55, 0.7);
-      color: var(--accent-soft);
-    }
-
-    .pill-learn {
-      border-color: rgba(104, 116, 255, 0.7);
-      color: #c2c7ff;
-    }
-
-    .pill-community {
-      border-color: rgba(255, 107, 107, 0.7);
-      color: #ffc9c9;
     }
 
     .badge-live {
@@ -318,18 +276,12 @@
     .article-close:hover {
       background: rgba(255,255,255,0.1);
     }
-  
-    /* Ajuste para texto sobre a imagem */
-    /* Removido o tamanho global das imagens dos cards */
-.card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
-.card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08);}
-.card-img-large { height:200px; width:100%; object-fit:cover; }
-    .card .card-body {
-      background: transparent;
-      padding: 16px 18px 18px;
-      margin-top: auto;   /* NOVO: empurra o texto para o fundo da box */
-    }
-</style>
+
+    .card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
+    .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08);}
+    .card-img-large { height:200px; width:100%; object-fit:cover; }
+  </style>
+
   <!-- OneSignal Push Notifications -->
   <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
   <script>
@@ -372,6 +324,16 @@
   </nav>
 </header>
 
+<!-- FILTER BAR -->
+<div class="filter-bar">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="crypto">Crypto</button>
+  <button class="filter-btn" data-filter="world">World News</button>
+  <button class="filter-btn" data-filter="games">Games</button>
+  <button class="filter-btn" data-filter="food">Food</button>
+  <button class="filter-btn" data-filter="blog">BTCBRAVE Blog</button>
+</div>
+
 <!-- ÁREA DA NOTÍCIA ABERTA EMBAIXO DO BTCBRAVE NEWS -->
 <div class="article-view" id="articleView">
   <button class="article-close" id="articleClose">×</button>
@@ -381,40 +343,35 @@
   </div>
 </div>
 
-<div id="loadingNews" class="loading-news">Carregando as últimas notícias de cripto e mercado...</div>
+<div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
 
 <div class="grid">
-    <!-- CARD – NOTÍCIA -->
-
-
- 
- 
-    <!-- FIM DO MODELO – COPIE ESTE BLOCO, COLE MAIS ACIMA E EDITE OS TEXTOS -->
+  <!-- Cards são criados via JavaScript -->
 </div>
 
 <script>
-// SISTEMA DE CLIQUE — FUNCIONA PARA TODAS AS BOXES (manuais + RSS)
+// SISTEMA DE CLIQUE — FUNCIONA PARA TODAS AS BOXES (manuais + RSS + BLOG)
 const articleView = document.getElementById('articleView');
 const articleTitle = document.getElementById('articleTitle');
 const articleBody  = document.getElementById('articleBody');
 const articleClose = document.getElementById('articleClose');
 const gridEl       = document.querySelector('.grid');
 
-// DELEGAÇÃO → pega clique em QUALQUER .card, mesmo criado depois
 gridEl.addEventListener('click', (event) => {
   const card = event.target.closest('.card');
   if (!card) return;
 
-  // Se tiver URL externa → abre o site da notícia original (mesma aba para não ser bloqueado)
   const externalUrl = card.getAttribute('data-url');
-  if (externalUrl) {
+
+  // Se tiver URL externa e NÃO tiver fullText -> abre o site original
+  const full = card.getAttribute('data-full');
+  if (externalUrl && !full) {
     window.location.href = externalUrl;
     return;
   }
 
-  // Se não tiver URL → abre notícia dentro do site
+  // Se tiver fullText ou descrição -> abre dentro do site
   const title = card.querySelector('.title')?.innerHTML || '';
-  const full  = card.getAttribute('data-full');
   const desc  = card.querySelector('.desc')?.innerHTML || '';
 
   articleTitle.innerHTML = title;
@@ -423,12 +380,10 @@ gridEl.addEventListener('click', (event) => {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
 
-// Botão FECHAR
 articleClose.addEventListener('click', () => {
   articleView.classList.remove('open');
 });
 
-// Fechar clicando fora
 articleView.addEventListener('click', (e) => {
   if (e.target === articleView) articleView.classList.remove('open');
 });
@@ -436,7 +391,6 @@ articleView.addEventListener('click', (e) => {
 
 <script>
 // SISTEMA 24H – news.json + btcbrave-blog/posts.json
-
 const grid = document.querySelector('.grid');
 const loading = document.getElementById('loadingNews');
 
@@ -448,17 +402,65 @@ function getSourceName(url) {
   try {
     const u = new URL(url);
     let host = u.hostname.replace('www.', '');
+
     if (host.includes('cointelegraph')) return 'Cointelegraph';
-    if (host.includes('cryptonews')) return 'CryptoNews';
-    if (host.includes('coindesk')) return 'CoinDesk';
-    if (host.includes('yahoo')) return 'Yahoo Finance';
-    if (host.includes('bbc')) return 'BBC News';
-    if (host.includes('cnn')) return 'CNN';
-    if (host.includes('reuters')) return 'Reuters';
+    if (host.includes('cryptonews'))   return 'CryptoNews';
+    if (host.includes('coindesk'))     return 'CoinDesk';
+    if (host.includes('yahoo'))        return 'Yahoo Finance';
+    if (host.includes('bbc'))          return 'BBC News';
+    if (host.includes('cnn'))          return 'CNN';
+    if (host.includes('reuters'))      return 'Reuters';
+
+    if (host.includes('gamespot'))     return 'GameSpot';
+    if (host.includes('polygon'))      return 'Polygon';
+
+    if (host.includes('allrecipes'))   return 'AllRecipes';
+    if (host.includes('seriouseats'))  return 'Serious Eats';
+
+    if (host.includes('aljazeera'))    return 'Al Jazeera';
+
     if (host.includes('github.io') && host.includes('manssuato123')) return 'BTCBRAVE Blog';
+
     return host.toUpperCase();
   } catch (e) {
     return 'NEWS';
+  }
+}
+
+function getCategory(url) {
+  if (!url) return 'other';
+  try {
+    const u = new URL(url);
+    const host = u.hostname.replace('www.', '');
+
+    // Crypto
+    if (host.includes('cointelegraph') || host.includes('cryptonews') || host.includes('coindesk') || host.includes('yahoo')) {
+      return 'crypto';
+    }
+
+    // Games
+    if (host.includes('gamespot') || host.includes('polygon')) {
+      return 'games';
+    }
+
+    // Food
+    if (host.includes('allrecipes') || host.includes('seriouseats')) {
+      return 'food';
+    }
+
+    // World / War news
+    if (host.includes('reuters') || host.includes('bbc') || host.includes('cnn') || host.includes('aljazeera')) {
+      return 'world';
+    }
+
+    // BTCBRAVE Blog
+    if (host.includes('github.io') && host.includes('manssuato123')) {
+      return 'blog';
+    }
+
+    return 'other';
+  } catch (e) {
+    return 'other';
   }
 }
 
@@ -475,7 +477,6 @@ async function loadAllNews() {
   try {
     const now = new Date();
 
-    // Busca news.json (RSS) e posts.json (btcbrave-blog) em paralelo
     const [rssResp, blogResp] = await Promise.all([
       fetch('news.json?_=' + Date.now()),
       fetch(BLOG_POSTS_URL + '?_=' + Date.now())
@@ -493,31 +494,37 @@ async function loadAllNews() {
       items = items.concat(blogItems);
     }
 
-    // Filtra posts com data no futuro (post programado)
+    // Remove posts com data no futuro
     items = items.filter(it => {
       const d = parseDate(it.pubDate);
       return d <= now;
     });
 
-    // Ordena por data (mais recente primeiro)
+    // Ordena (mais recente primeiro)
     items.sort((a, b) => {
       const da = parseDate(b.pubDate).getTime();
       const db = parseDate(a.pubDate).getTime();
       return da - db;
     });
 
-    // Limpa grid e recria tudo
     grid.innerHTML = '';
 
     items.forEach(item => {
       const pub = parseDate(item.pubDate);
-      const hasImage = item.thumbnail && item.thumbnail.startsWith('http');
+      const hasImage   = item.thumbnail && item.thumbnail.startsWith('http');
       const sourceName = getSourceName(item.link || '');
+      const category   = getCategory(item.link || '');
+      const fullText   = item.fullText || '';
 
       const card = document.createElement('article');
       card.classList.add('card');
       card.setAttribute('data-url', item.link || '');
-      card.dataset.pubdate = pub.toISOString();
+      card.dataset.pubdate  = pub.toISOString();
+      card.dataset.category = category;
+
+      if (fullText) {
+        card.setAttribute('data-full', fullText);
+      }
 
       card.innerHTML = `
         ${hasImage
@@ -534,6 +541,12 @@ async function loadAllNews() {
 
       grid.appendChild(card);
     });
+
+    // Aplica o filtro atual (caso o usuário já tenha clicado em algum)
+    const activeBtn = document.querySelector('.filter-btn.active');
+    const currentFilter = activeBtn ? activeBtn.dataset.filter : 'all';
+    applyFilter(currentFilter);
+
   } catch (e) {
     console.log('NEWS MERGE ERROR', e);
   } finally {
@@ -541,8 +554,40 @@ async function loadAllNews() {
   }
 }
 
-// Carrega na abertura do site e atualiza a cada 1h
+// SISTEMA DE FILTRO
+const filterBar = document.querySelector('.filter-bar');
+
+function applyFilter(filter) {
+  const cards = document.querySelectorAll('.grid .card');
+  cards.forEach(card => {
+    const cat = card.dataset.category || 'other';
+    if (filter === 'all' || filter === cat) {
+      card.style.display = '';
+    } else {
+      card.style.display = 'none';
+    }
+  });
+}
+
+if (filterBar) {
+  filterBar.addEventListener('click', (e) => {
+    const btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+
+    const filter = btn.dataset.filter || 'all';
+
+    document.querySelectorAll('.filter-btn').forEach(b => {
+      b.classList.toggle('active', b === btn);
+    });
+
+    applyFilter(filter);
+  });
+}
+
+// Carrega na abertura e atualiza a cada 1h
 loadAllNews();
 setInterval(loadAllNews, 3600000);
 </script>
 
+</body>
+</html>
