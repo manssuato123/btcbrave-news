@@ -2,7 +2,7 @@ name: Update RSS News
 
 on:
   schedule:
-    - cron: "0 * * * *"   # roda todo começo de hora
+    - cron: "*/10 * * * *"   # roda todo começo de hora
   workflow_dispatch:
 
 permissions:
