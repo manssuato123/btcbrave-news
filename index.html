@@ -434,7 +434,12 @@ function getCategory(url) {
     const host = u.hostname.replace('www.', '');
 
     // Crypto
-    if (host.includes('cointelegraph') || host.includes('cryptonews') || host.includes('coindesk') || host.includes('yahoo')) {
+    if (
+      host.includes('cointelegraph') ||
+      host.includes('cryptonews')   ||
+      host.includes('coindesk')     ||
+      host.includes('yahoo')
+    ) {
       return 'crypto';
     }
 
@@ -443,13 +448,15 @@ function getCategory(url) {
       return 'games';
     }
 
-    // Food
-    if (host.includes('allrecipes') || host.includes('seriouseats')) {
-      return 'food';
-    }
-
-    // World / War news
-    if (host.includes('reuters') || host.includes('bbc') || host.includes('cnn') || host.includes('aljazeera')) {
+    // World / War news  (AGORA INCLUI COMIDA TAMBÉM)
+    if (
+      host.includes('reuters')     ||
+      host.includes('bbc')         ||
+      host.includes('cnn')         ||
+      host.includes('aljazeera')   ||
+      host.includes('bonappetit')  ||   // 👈 comida
+      host.includes('foodandwine')      // 👈 comida
+    ) {
       return 'world';
     }
 
