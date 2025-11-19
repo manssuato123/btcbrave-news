@@ -17,8 +17,8 @@ RSS_FEEDS = [
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-sectors=crypto",
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.gamespot.com/feeds/news/",
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.polygon.com/rss/index.xml",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.allrecipes.com/feed/",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.seriouseats.com/rss"
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.foodandwine.com/rss",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.bonappetit.com/feed/rss"
 ]
 
 HEADERS = {
