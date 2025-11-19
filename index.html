@@ -311,46 +311,51 @@
 <body>
 
 <header>
-  <div class="logo" style="display:flex; flex-direction:column; align-items:flex-start;">
-    
-    <!-- BORBOLETA 40px -->
-    <div class="logo-badge" 
-         style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
-                display:flex; align-items:center; justify-content:center; padding:0;">
-      <img src="borboleta.png" 
-           alt="BTCBRAVE Butterfly Logo" 
-           style="width:38px; height:38px; border-radius:50%; object-fit:cover; 
-                  object-position:center; background:var(--bg-main);" />
+  <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
+
+    <!-- LINHA 1: BORBOLETA + BTCBRAVE NEWS -->
+    <div style="display:flex; align-items:center; gap:10px;">
+      
+      <!-- BORBOLETA 40PX -->
+      <div class="logo-badge" 
+           style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
+                  display:flex; align-items:center; justify-content:center; padding:0;">
+        <img src="borboleta.png" 
+             alt="BTCBRAVE Butterfly Logo" 
+             style="width:38px; height:38px; border-radius:50%; object-fit:cover; 
+                    object-position:center; background:var(--bg-main);" />
+      </div>
+
+      <!-- BTCBRAVE NEWS -->
+      <span style="
+          background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
+          -webkit-background-clip:text;
+          color:#d4af37;
+          font-weight:800;
+          font-size:22px;">
+        BTCBRAVE News
+      </span>
+
     </div>
 
-    <!-- TITULO BTCBRAVE NEWS -->
-    <span style="
-        background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-        -webkit-background-clip:text;
-        color:#d4af37; /* fallback */
-        font-weight:800;
-        font-size:22px;
-        margin-top:4px;">
-      BTCBRAVE News
-    </span>
-
-    <!-- EMAIL EMBAIXO DO TÍTULO -->
+    <!-- LINHA 2: EMAIL EMBAIXO -->
     <a href="mailto:news@btcbrave.store"
        style="
+         margin-left:50px;    /* alinha embaixo do texto */
+         margin-top:2px;
          font-size:12px;
          color:var(--text-muted);
          text-decoration:none;
          display:flex;
          align-items:center;
-         gap:6px;
-         margin-top:2px;">
-      <span style="font-size:16px;">📩</span>
+         gap:6px;">
+      <span style="font-size:14px;">📩</span>
       news@btcbrave.store
     </a>
 
   </div>
 
-  <!-- LOGO DA DIREITA MENOR -->
+  <!-- LOGO DA DIREITA -->
   <nav>
     <a href="https://btcbrave.store" target="_blank" rel="noopener noreferrer">
       <img src="btcbrave.png" 
@@ -359,8 +364,6 @@
     </a>
   </nav>
 </header>
-
-
 
 <!-- FILTER BAR -->
 <div class="filter-bar">
