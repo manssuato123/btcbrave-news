@@ -480,6 +480,7 @@ function getSourceName(url) {
     if (host.includes('yahoo'))         return 'Yahoo Finance';
     if (host.includes('bbc'))           return 'BBC News';
     if (host.includes('cnn'))           return 'CNN';
+    if (host.includes('msn'))           return 'MSN News';
     if (host.includes('reuters'))       return 'Reuters';
 
     if (host.includes('gamespot'))      return 'GameSpot';
@@ -488,7 +489,7 @@ function getSourceName(url) {
     if (host.includes('allrecipes'))    return 'AllRecipes';
     if (host.includes('thespruceeats')) return 'thespruceeats';
 
-    if (host.includes('aljazeera'))     return 'Al Jazeera';
+    if (host.includes('aljazeera') || host.includes('msn'))     return 'Al Jazeera';
 
     if (host.includes('github.io') && host.includes('manssuato123')) {
       return 'BTCBRAVE Blog';
