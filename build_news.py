@@ -10,12 +10,12 @@ from bs4 import BeautifulSoup
 RSS_FEEDS = [
     # CRYPTO NEWS
     "https://api.rss2json.com/v1/api.json?rss_url=https://cointelegraph.com/rss",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://cryptonews.com/news/feed",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://Xcryptonews.com/news/feed",
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.coindesk.com/arc/outboundfeeds/rss/",
 
     # FINANCE / BUSINESS
     "https://api.rss2json.com/v1/api.json?rss_url=https://finance.yahoo.com/news/rssindex",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.investing.com/rss/news.rss",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://Xwww.investing.com/rss/news.rss",
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.marketwatch.com/feeds/topstories",
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.bloomberg.com/feed/podcast/businessweek.xml",
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.cnbc.com/id/100003114/device/rss/rss.html",
@@ -29,7 +29,7 @@ RSS_FEEDS = [
     "https://api.rss2json.com/v1/api.json?rss_url=https://rss.msn.com/en-us/",
     "https://api.rss2json.com/v1/api.json?rss_url=https://apnews.com/hub/apf-topnews?output=xml",
     "https://api.rss2json.com/v1/api.json?rss_url=https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.washingtonpost.com/rss/national",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://Xfeeds.washingtonpost.com/rss/national",
 
     # GAMES
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.gamespot.com/feeds/news/",
