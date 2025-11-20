@@ -436,7 +436,7 @@ gridEl.addEventListener('click', (event) => {
   articleBody.innerHTML  = full || desc;
   gridEl.style.display = "none";
   articleView.classList.add('open');
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  /* REMOVIDO: não desce o texto dentro da notícia */
 });
 
 articleClose.addEventListener('click', () => {
