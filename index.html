@@ -432,7 +432,7 @@ gridEl.addEventListener('click', (event) => {
   articleBody.innerHTML  = full || desc;
   gridEl.style.display = "none";
   articleView.classList.add('open');
-  /* removido para não subir a página ao abrir a notícia */
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 });
 
 articleClose.addEventListener('click', () => {
