@@ -82,7 +82,7 @@ def fetch_article_image(link):
         return ""
 
     try:
-        resp = requests.get(link, timeout=20, headers=HEADERS)
+        resp = requests.get(link, timeout=60, headers=HEADERS)
         resp.raise_for_status()
     except Exception as e:
         print("Error fetching article HTML:", link, e)
@@ -130,7 +130,7 @@ def main():
     all_items = []
     seen_links = set()
     now = datetime.now(timezone.utc)
-    max_age = timedelta(hours=24)
+    max_age = timedelta(days=7)
 
     for url in RSS_FEEDS:
         print("Fetching RSS:", url)
@@ -142,7 +142,7 @@ def main():
             print("Error fetching RSS:", url, e)
             continue
 
-        items = data.get("items", [])[:50]  # até 10 de cada feed
+        items = data.get("items", [])[:300]  # até 10 de cada feed
 
         for item in items:
             pub_raw = item.get("pubDate")
@@ -177,7 +177,7 @@ def main():
     all_items.sort(key=lambda x: x["pubDate"], reverse=True)
 
     # limita a no máximo 1000 notícias
-    all_items = all_items[:1000]
+    all_items = all_items[:3000]
 
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_items, f, ensure_ascii=False, indent=2)
