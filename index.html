@@ -407,10 +407,14 @@ const articleTitle = document.getElementById('articleTitle');
 const articleBody  = document.getElementById('articleBody');
 const articleClose = document.getElementById('articleClose');
 const gridEl       = document.querySelector('.grid');
+let lastScrollY = 0;
 
 gridEl.addEventListener('click', (event) => {
   const card = event.target.closest('.card');
   if (!card) return;
+
+  // Guarda a posição atual da tela antes de abrir a notícia
+  lastScrollY = window.scrollY;
 
   const externalUrl = card.getAttribute('data-url');
 
@@ -438,10 +442,16 @@ gridEl.addEventListener('click', (event) => {
 articleClose.addEventListener('click', () => {
   articleView.classList.remove('open');
   gridEl.style.display = "grid";
+  // Volta exatamente para o ponto onde o usuário estava na grade
+  window.scrollTo(0, lastScrollY);
 });
 
 articleView.addEventListener('click', (e) => {
-  if (e.target === articleView) articleView.classList.remove('open');
+  if (e.target === articleView) {
+    articleView.classList.remove('open');
+    gridEl.style.display = "grid";
+    window.scrollTo(0, lastScrollY);
+  }
 });
 </script>
 
