@@ -436,16 +436,12 @@ gridEl.addEventListener('click', (event) => {
   const imgSrc = card.querySelector('img')?.src || '';
   document.getElementById('articleImage').innerHTML = imgSrc ? `<img src="${imgSrc}" style="width:100%; border-radius:12px; margin-bottom:20px;" />` : '';
 
-   articleTitle.innerHTML = title;
+  articleTitle.innerHTML = title;
   articleBody.innerHTML  = full || desc;
   gridEl.style.display = "none";
   articleView.classList.add('open');
-
-  // Garante que, mesmo no ALL lá embaixo, a notícia comece pela foto
-  articleView.scrollIntoView({
-    behavior: 'auto',
-    block: 'start'
-  });
+  /* REMOVIDO: não desce o texto dentro da notícia */
+});
 
 articleClose.addEventListener('click', () => {
   articleView.classList.remove('open');
