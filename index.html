@@ -388,6 +388,7 @@
 <div class="article-view" id="articleView">
   <button class="article-close" id="articleClose">×</button>
   <div class="article-inner">
+    <div id="articleImage"></div>
     <div class="article-title" id="articleTitle"></div>
     <div class="article-body" id="articleBody"></div>
   </div>
@@ -423,6 +424,9 @@ gridEl.addEventListener('click', (event) => {
   // Se tiver fullText ou descrição -> abre dentro do site
   const title = card.querySelector('.title')?.innerHTML || '';
   const desc  = card.querySelector('.desc')?.innerHTML || '';
+
+  const imgSrc = card.querySelector('img')?.src || '';
+  document.getElementById('articleImage').innerHTML = imgSrc ? `<img src="${imgSrc}" style="width:100%; border-radius:12px; margin-bottom:20px;" />` : '';
 
   articleTitle.innerHTML = title;
   articleBody.innerHTML  = full || desc;
@@ -653,4 +657,4 @@ setInterval(loadAllNews, 86400000);
 </script>
 
 </body>
-</html>
+</html>Previe
