@@ -436,11 +436,15 @@ gridEl.addEventListener('click', (event) => {
   const imgSrc = card.querySelector('img')?.src || '';
   document.getElementById('articleImage').innerHTML = imgSrc ? `<img src="${imgSrc}" style="width:100%; border-radius:12px; margin-bottom:20px;" />` : '';
 
-  articleTitle.innerHTML = title;
-  articleBody.innerHTML  = full || desc;
-  gridEl.style.display = "none";
-  articleView.classList.add('open');
-  /* REMOVIDO: não desce o texto dentro da notícia */
+articleTitle.innerHTML = title;
+articleBody.innerHTML  = full || desc;
+gridEl.style.display = "none";
+articleView.classList.add('open');
+
+// Ao abrir a notícia, garante que começa lá na foto (topo da caixa bege)
+window.scrollTo({
+  top: articleView.offsetTop - 20,
+  behavior: 'auto'
 });
 
 articleClose.addEventListener('click', () => {
