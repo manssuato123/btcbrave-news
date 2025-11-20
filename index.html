@@ -436,18 +436,12 @@ gridEl.addEventListener('click', (event) => {
   const imgSrc = card.querySelector('img')?.src || '';
   document.getElementById('articleImage').innerHTML = imgSrc ? `<img src="${imgSrc}" style="width:100%; border-radius:12px; margin-bottom:20px;" />` : '';
 
-articleTitle.innerHTML = title;
-articleBody.innerHTML  = full || desc;
-gridEl.style.display = "none";
-articleView.classList.add('open');
-
-setTimeout(() => {
-  // Agora o topo da notícia aparece CORRETAMENTE
-  articleView.scrollIntoView({
-    behavior: 'auto',
-    block: 'start'
-  });
-}, 50);
+  articleTitle.innerHTML = title;
+  articleBody.innerHTML  = full || desc;
+  gridEl.style.display = "none";
+  articleView.classList.add('open');
+  /* REMOVIDO: não desce o texto dentro da notícia */
+});
 
 articleClose.addEventListener('click', () => {
   articleView.classList.remove('open');
