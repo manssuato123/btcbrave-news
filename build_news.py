@@ -8,17 +8,41 @@ from bs4 import BeautifulSoup
 
 # Lista de feeds convertidos via rss2json
 RSS_FEEDS = [
+    # CRYPTO NEWS
     "https://api.rss2json.com/v1/api.json?rss_url=https://cointelegraph.com/rss",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-topics=conflict&post_type=best",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.aljazeera.com/xml/rss/all.xml",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://cryptonews.com/news/feed",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.coindesk.com/arc/outboundfeeds/rss/",
+
+    # FINANCE / BUSINESS
     "https://api.rss2json.com/v1/api.json?rss_url=https://finance.yahoo.com/news/rssindex",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.investing.com/rss/news.rss",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.marketwatch.com/feeds/topstories",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.bloomberg.com/feed/podcast/businessweek.xml",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.investors.com/news/feed/",
+
+    # WORLD NEWS
     "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/rss.xml",
     "https://api.rss2json.com/v1/api.json?rss_url=https://rss.cnn.com/rss/edition.rss",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-sectors=crypto",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-topics=conflict&post_type=best",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.aljazeera.com/xml/rss/all.xml",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://rss.msn.com/en-us/",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://apnews.com/hub/apf-topnews?output=xml",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.washingtonpost.com/rss/national",
+
+    # GAMES
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.gamespot.com/feeds/news/",
     "https://api.rss2json.com/v1/api.json?rss_url=https://www.polygon.com/rss/index.xml",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://rss.msn.com/en-us/",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.bonappetit.com/feed/rss"
+
+    # FOOD / COOKING
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.bonappetit.com/feed/rss",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.allrecipes.com/feed/",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.thespruceeats.com/rss",
+
+    # EXTRA (opcionais)
+    "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.feedburner.com/forbes/business",
+    "https://api.rss2json.com/v1/api.json?rss_url=https://www.wsj.com/xml/rss/3_7014.xml"
 ]
 
 HEADERS = {
