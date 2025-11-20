@@ -440,8 +440,12 @@ gridEl.addEventListener('click', (event) => {
   articleBody.innerHTML  = full || desc;
   gridEl.style.display = "none";
   articleView.classList.add('open');
-  /* REMOVIDO: não desce o texto dentro da notícia */
-});
+
+  // Garante que, mesmo no ALL lá embaixo, a notícia comece pela foto
+  articleView.scrollIntoView({
+    behavior: 'auto',
+    block: 'start'
+  });
 
 articleClose.addEventListener('click', () => {
   articleView.classList.remove('open');
