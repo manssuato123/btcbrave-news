@@ -430,12 +430,14 @@ gridEl.addEventListener('click', (event) => {
 
   articleTitle.innerHTML = title;
   articleBody.innerHTML  = full || desc;
+  gridEl.style.display = "none";
   articleView.classList.add('open');
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
 
 articleClose.addEventListener('click', () => {
   articleView.classList.remove('open');
+  gridEl.style.display = "grid";
 });
 
 articleView.addEventListener('click', (e) => {
