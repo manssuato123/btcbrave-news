@@ -474,27 +474,44 @@ function getSourceName(url) {
     const u = new URL(url);
     const host = u.hostname.replace('www.', '').toLowerCase();
 
-    if (host.includes('cointelegraph')) return 'Cointelegraph';
-    if (host.includes('cryptonews'))    return 'CryptoNews';
-    if (host.includes('coindesk'))      return 'CoinDesk';
-    if (host.includes('yahoo'))         return 'Yahoo Finance';
-    if (host.includes('bbc'))           return 'BBC News';
-    if (host.includes('cnn'))           return 'CNN';
-    if (host.includes('msn'))           return 'MSN News';
-    if (host.includes('reuters'))       return 'Reuters';
+    // CRYPTO / FINANCE / BUSINESS
+    if (host.includes('cointelegraph'))  return 'Cointelegraph';
+    if (host.includes('cryptonews'))     return 'CryptoNews';
+    if (host.includes('coindesk'))       return 'CoinDesk';
+    if (host.includes('yahoo'))          return 'Yahoo Finance';
+    if (host.includes('investors.com'))  return 'Investors.com';
+    if (host.includes('wsj.com'))        return 'WSJ';
+    if (host.includes('investing.com'))  return 'Investing.com';
+    if (host.includes('marketwatch'))    return 'MarketWatch';
+    if (host.includes('bloomberg'))      return 'Bloomberg';
+    if (host.includes('cnbc'))           return 'CNBC';
+    if (host.includes('forbes'))         return 'Forbes';
 
-    if (host.includes('gamespot'))      return 'GameSpot';
-    if (host.includes('polygon'))       return 'Polygon';
+    // WORLD NEWS / GERAL
+    if (host.includes('bbc'))            return 'BBC News';
+    if (host.includes('cnn'))            return 'CNN';
+    if (host.includes('reuters'))        return 'Reuters';
+    if (host.includes('aljazeera'))      return 'Al Jazeera';
+    if (host.includes('msn'))            return 'MSN News';
+    if (host.includes('apnews'))         return 'AP News';
+    if (host.includes('nytimes'))        return 'The New York Times';
+    if (host.includes('washingtonpost')) return 'The Washington Post';
 
-    if (host.includes('allrecipes'))    return 'AllRecipes';
-    if (host.includes('thespruceeats')) return 'thespruceeats';
+    // GAMES
+    if (host.includes('gamespot'))       return 'GameSpot';
+    if (host.includes('polygon'))        return 'Polygon';
 
-    if (host.includes('aljazeera') || host.includes('msn'))     return 'Al Jazeera';
+    // FOOD
+    if (host.includes('allrecipes'))     return 'AllRecipes';
+    if (host.includes('thespruceeats'))  return 'The Spruce Eats';
+    if (host.includes('bonappetit'))     return 'Bon Appétit';
 
+    // BTCBRAVE Blog
     if (host.includes('github.io') && host.includes('manssuato123')) {
       return 'BTCBRAVE Blog';
     }
 
+    // fallback: mostra o domínio em maiúsculas
     return host.toUpperCase();
   } catch (e) {
     return 'NEWS';
@@ -502,37 +519,55 @@ function getSourceName(url) {
 }
   
 function getCategory(url) {
-  if (!url) return 'other';
+  if (!url) return 'all';
   try {
     const u = new URL(url);
-    const host = u.hostname.replace('www.', '');
+    const host = u.hostname.replace('www.', '').toLowerCase();
 
-    // Crypto
+    // Crypto / Finance
     if (
-      host.includes('cointelegraph') ||
-      host.includes('cryptonews')   ||
-      host.includes('coindesk')     ||
-      host.includes('yahoo')
+      host.includes('cointelegraph')  ||
+      host.includes('cryptonews')     ||
+      host.includes('coindesk')       ||
+      host.includes('yahoo')          ||
+      host.includes('investors.com')  ||
+      host.includes('wsj.com')        ||
+      host.includes('investing.com')  ||
+      host.includes('marketwatch')    ||
+      host.includes('bloomberg')      ||
+      host.includes('cnbc')           ||
+      host.includes('forbes')
     ) {
       return 'crypto';
     }
 
     // Games
-    if (host.includes('gamespot') || host.includes('polygon')) {
+    if (
+      host.includes('gamespot') ||
+      host.includes('polygon')
+    ) {
       return 'games';
     }
 
     // Food 🍽️
-    if (host.includes('bonappetit') || host.includes('foodandwine')) {
+    if (
+      host.includes('bonappetit')   ||
+      host.includes('thespruceeats')||
+      host.includes('allrecipes')
+    ) {
       return 'food';
     }
 
     // World / War news
     if (
-      host.includes('reuters')   ||
-      host.includes('bbc')       ||
-      host.includes('cnn')       ||
-      host.includes('aljazeera')
+      host.includes('reuters')       ||
+      host.includes('bbc')           ||
+      host.includes('cnn')           ||
+      host.includes('aljazeera')     ||
+      host.includes('msn')           ||
+      host.includes('apnews')        ||
+      host.includes('nytimes')       ||
+      host.includes('washingtonpost')
     ) {
       return 'world';
     }
@@ -542,11 +577,13 @@ function getCategory(url) {
       return 'blog';
     }
 
-    return 'other';
+    // Tudo o que não bate em nada cai no ALL
+    return 'all';
   } catch (e) {
-    return 'other';
+    return 'all';
   }
 }
+
 
 function parseDate(value) {
   if (!value) return new Date();
