@@ -142,7 +142,7 @@ def main():
             print("Error fetching RSS:", url, e)
             continue
 
-        items = data.get("items", [])[:300]  # até 10 de cada feed
+        items = data.get("items", [])[]  # até 10 de cada feed
 
         for item in items:
             pub_raw = item.get("pubDate")
