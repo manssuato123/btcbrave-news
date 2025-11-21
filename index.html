@@ -286,28 +286,34 @@
     .card-img-large { height:200px; width:100%; object-fit:cover; }
   </style>
 
-  <!-- OneSignal Push Notifications -->
+    <!-- OneSignal Push Notifications -->
   <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
   <script>
     window.OneSignal = window.OneSignal || [];
-    OneSignal.push(function() {
+    OneSignal.push(function () {
       OneSignal.init({
-        appId: appId: "cf3f8e05-ec5c-45b3-90fc-6fe67ba31ec2",
+        appId: "cf3f8e05-ec5c-45b3-90fc-6fe67ba31ec2",
         safari_web_id: "",
+        // vamos usar SÓ o botão personalizado, então desligo o botão padrão
         notifyButton: {
-          enable: true,
-          size: 'medium',
-          position: 'bottom-right',
-          theme: 'default',
-          text: {
-            'tip.state.unsubscribed': 'Clique para receber notificações',
-            'tip.state.subscribed': 'Você está inscrito!',
-            'message.prenotify': 'Clique para ativar as notificações da BTCBRAVE',
-            'message.action.subscribed': 'Obrigado por se inscrever!',
-            'message.action.resubscribed': 'Notificações ativadas novamente!',
-            'message.action.unsubscribed': 'Notificações desativadas'
-          }
+          enable: false
         }
+      });
+
+      const floatBtn = document.getElementById('floating-subscribe');
+
+      if (!floatBtn) return;
+
+      // se ainda não estiver inscrito, mostra o botão
+      OneSignal.isPushNotificationsEnabled(function (isEnabled) {
+        if (!isEnabled) {
+          floatBtn.style.display = 'flex'; // aparece na tela
+        }
+      });
+
+      // quando clicar no botão, pede permissão de notificação
+      floatBtn.addEventListener('click', function () {
+        OneSignal.registerForPushNotifications();
       });
     });
   </script>
