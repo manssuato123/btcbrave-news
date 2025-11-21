@@ -348,6 +348,54 @@
   <span>Receber notificações</span>
 </div>
 
+<!-- OneSignal Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function () {
+    OneSignal.init({
+      appId: "cf3f8e05-ec5c-45b3-90fc-6fe67ba31ec2",
+      safari_web_id: "",
+      notifyButton: {
+        enable: false // usamos só o botão personalizado
+      }
+    });
+
+    const floatBtn = document.getElementById('floating-subscribe');
+    if (!floatBtn) return;
+
+    // Função que mostra/esconde o botão
+    function updateButtonVisibility(isEnabled) {
+      if (isEnabled) {
+        // ✅ Já inscrito → botão some
+        floatBtn.style.display = 'none';
+      } else {
+        // ❌ Ainda não inscrito → mostra o botão flutuando
+        floatBtn.style.display = 'flex';
+      }
+    }
+
+    // Estado inicial ao carregar a página
+    OneSignal.isPushNotificationsEnabled(function (isEnabled) {
+      updateButtonVisibility(isEnabled);
+    });
+
+    // Quando o status de inscrição mudar (acabou de aceitar)
+    OneSignal.on('subscriptionChange', function (isSubscribed) {
+      updateButtonVisibility(isSubscribed);
+    });
+
+    // Clique no botão flutuante
+    floatBtn.addEventListener('click', function () {
+      OneSignal.isPushNotificationsEnabled(function (isEnabled) {
+        if (!isEnabled) {
+          // Pede permissão / inscrição
+          OneSignal.registerForPushNotifications();
+        }
+      });
+    });
+  });
+</script>
 <header>
   <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
 
