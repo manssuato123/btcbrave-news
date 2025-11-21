@@ -286,7 +286,7 @@
     .card-img-large { height:200px; width:100%; object-fit:cover; }
   </style>
 
-    <!-- OneSignal Push Notifications -->
+      <!-- OneSignal Push Notifications -->
   <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
   <script>
     window.OneSignal = window.OneSignal || [];
@@ -294,26 +294,42 @@
       OneSignal.init({
         appId: "cf3f8e05-ec5c-45b3-90fc-6fe67ba31ec2",
         safari_web_id: "",
-        // vamos usar SÓ o botão personalizado, então desligo o botão padrão
         notifyButton: {
-          enable: false
+          enable: false // usamos só o botão personalizado
         }
       });
 
       const floatBtn = document.getElementById('floating-subscribe');
-
       if (!floatBtn) return;
 
-      // se ainda não estiver inscrito, mostra o botão
-      OneSignal.isPushNotificationsEnabled(function (isEnabled) {
-        if (!isEnabled) {
-          floatBtn.style.display = 'flex'; // aparece na tela
+      function updateButtonVisibility(isEnabled) {
+        if (isEnabled) {
+          // já inscrito → esconde o botão
+          floatBtn.style.display = 'none';
+        } else {
+          // não inscrito → mostra o botão
+          floatBtn.style.display = 'flex';
         }
+      }
+
+      // Estado inicial ao carregar a página
+      OneSignal.isPushNotificationsEnabled(function (isEnabled) {
+        updateButtonVisibility(isEnabled);
       });
 
-      // quando clicar no botão, pede permissão de notificação
+      // Quando o status de inscrição mudar (ex: acabou de se inscrever)
+      OneSignal.on('subscriptionChange', function (isSubscribed) {
+        updateButtonVisibility(isSubscribed);
+      });
+
+      // Clique no botão flutuante
       floatBtn.addEventListener('click', function () {
-        OneSignal.registerForPushNotifications();
+        OneSignal.isPushNotificationsEnabled(function (isEnabled) {
+          if (!isEnabled) {
+            // Pede permissão / inscrição
+            OneSignal.registerForPushNotifications();
+          }
+        });
       });
     });
   </script>
