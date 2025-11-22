@@ -130,7 +130,6 @@
       padding: 18px;
       max-width: 1600px;
       margin: auto;
-      grid-auto-flow: dense; /* encaixa melhor os diferentes tamanhos */
     }
 
     @media (max-width: 1100px) {
@@ -139,41 +138,20 @@
       }
     }
 
-    /* ==========================================
-       ALTURA DAS BOXES – BLOG + NOTÍCIAS RSS
-       - BLOG: mantém padrão antigo (4 em 4)
-       - NOTÍCIAS RSS: mosaico suave pequena/média/grande
-    ========================================== */
-
-    /* Base: altura mínima padrão para TODAS as cards (blog + notícias) */
+    /* PADRÃO AUTOMÁTICO DE ALTURAS DAS BOXES (3 IGUAIS + 1 DIFERENTE em ciclo de 4) */
     .grid > .card:not(.hero) {
       min-height: 220px;
     }
 
-    /* BLOG – MANTÉM O SEU PADRÃO ANTIGO (3 iguais + 1 maior) */
-    .grid > .card[data-category="blog"]:not(.hero):nth-child(4n+1),
-    .grid > .card[data-category="blog"]:not(.hero):nth-child(4n+2),
-    .grid > .card[data-category="blog"]:not(.hero):nth-child(4n+3) {
+    .grid > .card:not(.hero):nth-child(4n+1),
+    .grid > .card:not(.hero):nth-child(4n+2),
+    .grid > .card:not(.hero):nth-child(4n+3) {
       min-height: 240px;
     }
 
-    .grid > .card[data-category="blog"]:not(.hero):nth-child(4n+4) {
+    .grid > .card:not(.hero):nth-child(4n+4) {
       min-height: 320px;
     }
-
-    /* NOTÍCIAS RSS (TUDO QUE NÃO FOR BLOG) – MOSAICO 3 EM 3 */
-
-    /* 2ª, 5ª, 8ª, ... notícias → MÉDIA */
-    .grid > .card:not(.hero):not([data-category="blog"]):nth-child(3n+2) {
-      min-height: 245px;
-    }
-
-    /* 3ª, 6ª, 9ª, ... notícias → MAIOR */
-    .grid > .card:not(.hero):not([data-category="blog"]):nth-child(3n+3) {
-      min-height: 280px;
-    }
-
-    /* As 1ª, 4ª, 7ª, ... ficam com 220px (regra base) */
 
     .card {
       background: radial-gradient(circle at top left, #202538 0, #111318 45%, #05060a 100%);
@@ -303,26 +281,9 @@
       background: rgba(255,255,255,0.1);
     }
 
-    .card-img-small {
-      height:50px;
-      width:100%;
-      object-fit:contain;
-      object-position:bottom;
-    }
-
-    .card-img-medium {
-      width:100%;
-      height:180px;
-      object-fit:cover;
-      display:block;
-      border-bottom:1px solid rgba(255,255,255,0.08);
-    }
-
-    .card-img-large {
-      height:200px;
-      width:100%;
-      object-fit:cover;
-    }
+    .card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
+    .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08);}
+    .card-img-large { height:200px; width:100%; object-fit:cover; }
 
     /* BTCBRAVE Alerts Panel (Android / iPhone) */
     .btcbrave-alerts-panel {
@@ -538,7 +499,7 @@
              style="width:30px; height:30px; object-fit:cover; border-radius:50%; cursor:pointer;" />
       </a>
 
-      <!-- TEXTO EMBAIXO DO LOGO -->
+            <!-- TEXTO EMBAIXO DO LOGO -->
       <span style="
           font-size:10px;
           color:var(--text-muted);
