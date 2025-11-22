@@ -1,4 +1,3 @@
-<!-- Cole aqui o seu código HTML para editar. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -284,524 +283,688 @@
     .card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
     .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08);}
     .card-img-large { height:200px; width:100%; object-fit:cover; }
+
+    /* BTCBRAVE Alerts Panel (Android / iPhone) */
+    .btcbrave-alerts-panel {
+      position: fixed;
+      bottom: 80px;
+      right: 20px;
+      z-index: 10000;
+    }
+
+    .btcbrave-alerts-inner {
+      background: #05060a;
+      padding: 16px 18px;
+      border-radius: 12px;
+      box-shadow: 0 4px 18px rgba(0,0,0,0.8);
+      max-width: 420px;
+      font-size: 14px;
+      border: 1px solid rgba(212, 175, 55, 0.4);
+    }
+
+    .btcbrave-alerts-inner h3 {
+      margin-top: 0;
+      margin-bottom: 8px;
+      font-size: 16px;
+      color: #ffffff;
+    }
+
+    .btcbrave-alerts-close {
+      background: transparent;
+      border: none;
+      font-size: 18px;
+      cursor: pointer;
+      float: right;
+      color: #ffffff;
+    }
+
+    .btcbrave-alerts-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 10px;
+    }
+
+    .btcbrave-alerts-card {
+      flex: 1 1 160px;
+      border-radius: 10px;
+      padding: 10px;
+      border: 1px solid #252837;
+      font-size: 13px;
+      background: radial-gradient(circle at top left, #202538 0, #111318 45%, #05060a 100%);
+    }
+
+    .btcbrave-alerts-card h4 {
+      margin: 8px 0 4px;
+      font-size: 14px;
+      color: #f5f5f5;
+    }
+
+    .btcbrave-alerts-card p {
+      margin: 4px 0;
+      color: #a0a4b8;
+    }
+
+    .btcbrave-alerts-icon {
+      border-radius: 8px;
+      padding: 10px 8px;
+      border: 1px solid #252837;
+      font-weight: 600;
+      text-align: center;
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+
+    .android-icon {
+      background: #0f172a;
+    }
+
+    .ios-icon {
+      background: #1e1b4b;
+    }
+
+    .btcbrave-small-btn {
+      margin-top: 6px;
+      width: 100%;
+      padding: 7px;
+      border-radius: 6px;
+      border: none;
+      font-weight: 600;
+      cursor: pointer;
+      background: linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
+      color: #ffffff;
+    }
+
+    #subscriberEmail {
+      width: 100%;
+      padding: 7px;
+      margin-top: 6px;
+      border-radius: 6px;
+      border: 1px solid #252837;
+      background:#05060a;
+      color:#f5f5f5;
+      font-size: 13px;
+    }
+
+    .btcbrave-email-message {
+      font-size: 11px;
+      margin-top: 4px;
+    }
   </style>
 
-      <!-- OneSignal Push Notifications -->
+  <!-- OneSignal Push Notifications SDK -->
   <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
-  <script>
-    window.OneSignal = window.OneSignal || [];
-    OneSignal.push(function () {
-      OneSignal.init({
-        appId: "cf3f8e05-ec5c-45b3-90fc-6fe67ba31ec2",
-        safari_web_id: "",
-        notifyButton: {
-          enable: false // usamos só o botão personalizado
-        }
-      });
-
-      const floatBtn = document.getElementById('floating-subscribe');
-      if (!floatBtn) return;
-
-      function updateButtonVisibility(isEnabled) {
-        if (isEnabled) {
-          // já inscrito → esconde o botão
-          floatBtn.style.display = 'none';
-        } else {
-          // não inscrito → mostra o botão
-          floatBtn.style.display = 'flex';
-        }
-      }
-
-      // Estado inicial ao carregar a página
-      OneSignal.isPushNotificationsEnabled(function (isEnabled) {
-        updateButtonVisibility(isEnabled);
-      });
-
-      // Quando o status de inscrição mudar (ex: acabou de se inscrever)
-      OneSignal.on('subscriptionChange', function (isSubscribed) {
-        updateButtonVisibility(isSubscribed);
-      });
-
-      // Clique no botão flutuante
-      floatBtn.addEventListener('click', function () {
-        OneSignal.isPushNotificationsEnabled(function (isEnabled) {
-          if (!isEnabled) {
-            // Pede permissão / inscrição
-            OneSignal.registerForPushNotifications();
-          }
-        });
-      });
-    });
-  </script>
 </head>
 <body>
   <!-- BOTÃO FLUTUANTE DE NOTIFICAÇÕES -->
-<div id="floating-subscribe" 
-     style="position:fixed; bottom:20px; right:20px; z-index:9999;
-            display:none; align-items:center; gap:6px;
-            background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-            color:#ffffff; padding:6px 12px; border-radius:999px;
-            font-size:12px; font-weight:700; letter-spacing:0.5px;
-            box-shadow:0 8px 20px rgba(0,0,0,0.6);
-            cursor:pointer; border:1px solid rgba(255,255,255,0.2);">
-  <span>🔔</span>
-  <span>Receber notificações</span>
-</div>
+  <div id="floating-subscribe" 
+       style="position:fixed; bottom:20px; right:20px; z-index:9999;
+              display:none; align-items:center; gap:6px;
+              background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
+              color:#ffffff; padding:6px 12px; border-radius:999px;
+              font-size:12px; font-weight:700; letter-spacing:0.5px;
+              box-shadow:0 8px 20px rgba(0,0,0,0.6);
+              cursor:pointer; border:1px solid rgba(255,255,255,0.2);">
+    <span>🔔</span>
+    <span>Get BRAVE alerts</span>
+  </div>
 
-<!-- OneSignal Push Notifications -->
-<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
-<script>
+  <!-- Painel BTCBRAVE Alerts (Android / iPhone) -->
+  <div id="alertsPanel" class="btcbrave-alerts-panel" style="display:none;">
+    <div class="btcbrave-alerts-inner">
+      <button id="alertsClose" class="btcbrave-alerts-close">×</button>
+
+      <h3>BTCBRAVE alerts</h3>
+
+      <div class="btcbrave-alerts-grid">
+        <!-- ANDROID / WINDOWS (PUSH) -->
+        <div class="btcbrave-alerts-card">
+          <div class="btcbrave-alerts-icon android-icon">
+            ANDROID
+          </div>
+          <h4>Android / Windows</h4>
+          <p>Enable push notifications on supported devices.</p>
+          <button id="androidPushBtn" class="btcbrave-small-btn">
+            Enable push
+          </button>
+        </div>
+
+        <!-- iPHONE / EMAIL -->
+        <div class="btcbrave-alerts-card">
+          <div class="btcbrave-alerts-icon ios-icon">
+            iPHONE
+          </div>
+          <h4>iPhone / Email</h4>
+          <p>Get BTCBRAVE alerts directly by email.</p>
+
+          <form id="emailForm">
+            <input
+              type="email"
+              id="subscriberEmail"
+              name="email"
+              placeholder="Enter your best email"
+              required
+            />
+            <button type="submit" class="btcbrave-small-btn">
+              Subscribe by email
+            </button>
+          </form>
+
+          <p id="emailMessage" class="btcbrave-email-message"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <header>
+    <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
+
+      <!-- LINHA 1: BORBOLETA + BTCBRAVE NEWS -->
+      <div style="display:flex; align-items:center; gap:10px;">
+        
+        <!-- BORBOLETA 40PX -->
+        <div class="logo-badge" 
+             style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
+                    display:flex; align-items:center; justify-content:center; padding:0;">
+          <img src="borboleta.png" 
+               alt="BTCBRAVE Butterfly Logo" 
+               style="width:38px; height:38px; border-radius:50%; object-fit:cover; 
+                      object-position:center; background:var(--bg-main);" />
+        </div>
+
+        <!-- BTCBRAVE NEWS -->
+        <span style="
+            background: linear-gradient(90deg,#1d4ed8,#7c3aed,#ec4899,#f59e0b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+            font-size: 22px;
+            text-shadow: 0 0 6px rgba(255,255,255,0.2);">
+          BTCBRAVE News
+        </span>
+
+      </div>
+
+      <!-- LINHA 2: EMAIL EMBAIXO -->
+      <a href="mailto:news@btcbrave.store"
+         style="
+           margin-left:80px;
+           margin-top:2px;
+           font-size:12px;
+           color:var(--text-muted);
+           text-decoration:none;
+           display:flex;
+           align-items:center;
+           gap:6px;">
+        <span style="font-size:14px;">📩</span>
+        news@btcbrave.store
+      </a>
+
+    </div>
+
+    <!-- LOGO DA DIREITA -->
+    <nav style="display:flex; flex-direction:column; align-items:center;">
+      <a href="https://btcbrave.store" target="_blank" rel="noopener noreferrer">
+        <img src="btcbrave.png" 
+             alt="BTCBRAVE Logo" 
+             style="width:30px; height:30px; object-fit:cover; border-radius:50%; cursor:pointer;" />
+      </a>
+
+      <!-- TEXTO EMBAIXO DO LOGO -->
+      <span style="
+          font-size:10px;
+          color:var(--text-muted);
+          margin-top:4px;
+          letter-spacing:0.5px;">
+        Official Page
+      </span>
+    </nav>
+  </header>
+
+  <!-- FILTER BAR -->
+  <div class="filter-bar">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="crypto">Crypto</button>
+    <button class="filter-btn" data-filter="world">World News</button>
+    <button class="filter-btn" data-filter="games">Games</button>
+    <button class="filter-btn" data-filter="food">Cooking News</button>
+    <button class="filter-btn" data-filter="blog">BTCBRAVE Blog</button>
+  </div>
+
+  <!-- ÁREA DA NOTÍCIA ABERTA EMBAIXO DO BTCBRAVE NEWS -->
+  <div class="article-view" id="articleView">
+    <button class="article-close" id="articleClose">×</button>
+    <div class="article-inner">
+      <div id="articleImage"></div>
+      <div class="article-title" id="articleTitle"></div>
+      <div class="article-body" id="articleBody"></div>
+    </div>
+  </div>
+
+  <div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
+
+  <div class="grid">
+    <!-- Cards são criados via JavaScript -->
+  </div>
+
+  <script>
+  // SISTEMA DE CLIQUE — FUNCIONA PARA TODAS AS BOXES (manuais + RSS + BLOG)
+  const articleView = document.getElementById('articleView');
+  const articleTitle = document.getElementById('articleTitle');
+  const articleBody  = document.getElementById('articleBody');
+  const articleClose = document.getElementById('articleClose');
+  const gridEl       = document.querySelector('.grid');
+  let lastScrollY = 0;
+
+  gridEl.addEventListener('click', (event) => {
+    const card = event.target.closest('.card');
+    if (!card) return;
+
+    // Guarda a posição atual da tela antes de abrir a notícia
+    lastScrollY = window.scrollY;
+
+    const externalUrl = card.getAttribute('data-url');
+
+    // Se tiver URL externa e NÃO tiver fullText -> abre o site original
+    const full = card.getAttribute('data-full');
+    if (externalUrl && !full) {
+      window.location.href = externalUrl;
+      return;
+    }
+
+    // Se tiver fullText ou descrição -> abre dentro do site
+    const title = card.querySelector('.title')?.innerHTML || '';
+    const desc  = card.querySelector('.desc')?.innerHTML || '';
+
+    const imgSrc = card.querySelector('img')?.src || '';
+    document.getElementById('articleImage').innerHTML = imgSrc
+      ? `<img src="${imgSrc}" style="width:100%; border-radius:12px; margin-bottom:20px;" />`
+      : '';
+
+    articleTitle.innerHTML = title;
+    articleBody.innerHTML  = full || desc;
+    gridEl.style.display = "none";
+    articleView.classList.add('open');
+
+    document.getElementById('articleImage').scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    });
+  });
+
+  articleClose.addEventListener('click', () => {
+    articleView.classList.remove('open');
+    gridEl.style.display = "grid";
+    window.scrollTo(0, lastScrollY);
+  });
+
+  articleView.addEventListener('click', (e) => {
+    if (e.target === articleView) {
+      articleView.classList.remove('open');
+      gridEl.style.display = "grid";
+      window.scrollTo(0, lastScrollY);
+    }
+  });
+  </script>
+
+  <script>
+  // SISTEMA 24H – news.json + btcbrave-blog/posts.json
+  const grid = document.querySelector('.grid');
+  const loading = document.getElementById('loadingNews');
+
+  // URL do seu blog no GitHub Pages
+  const BLOG_POSTS_URL = "https://blog.btcbrave.store/posts.json";
+
+  function getSourceName(url) {
+    if (!url) return 'NEWS';
+
+    try {
+      const u = new URL(url);
+      const host = u.hostname.replace('www.', '').toLowerCase();
+
+      // CRYPTO / FINANCE / BUSINESS
+      if (host.includes('cointelegraph'))  return 'Cointelegraph';
+      if (host.includes('cryptonews'))     return 'CryptoNews';
+      if (host.includes('coindesk'))       return 'CoinDesk';
+      if (host.includes('yahoo'))          return 'Yahoo Finance';
+      if (host.includes('investors.com'))  return 'Investors.com';
+      if (host.includes('wsj.com'))        return 'WSJ';
+      if (host.includes('investing.com'))  return 'Investing.com';
+      if (host.includes('marketwatch'))    return 'MarketWatch';
+      if (host.includes('bloomberg'))      return 'Bloomberg';
+      if (host.includes('cnbc'))           return 'CNBC';
+      if (host.includes('forbes'))         return 'Forbes';
+
+      // WORLD NEWS / GERAL
+      if (host.includes('bbc'))            return 'BBC News';
+      if (host.includes('cnn'))            return 'CNN';
+      if (host.includes('reuters'))        return 'Reuters';
+      if (host.includes('aljazeera'))      return 'Al Jazeera';
+      if (host.includes('msn'))            return 'MSN News';
+      if (host.includes('apnews'))         return 'AP News';
+      if (host.includes('nytimes'))        return 'The New York Times';
+      if (host.includes('washingtonpost')) return 'The Washington Post';
+
+      // GAMES
+      if (host.includes('gamespot'))       return 'GameSpot';
+      if (host.includes('polygon'))        return 'Polygon';
+
+      // FOOD
+      if (host.includes('allrecipes'))     return 'AllRecipes';
+      if (host.includes('thespruceeats'))  return 'The Spruce Eats';
+      if (host.includes('bonappetit'))     return 'Bon Appétit';
+
+      // BTCBRAVE Blog
+      if (host.includes('blog.btcbrave.store')) {
+        return 'BTCBRAVE Blog';
+      }
+
+      return host.toUpperCase();
+    } catch (e) {
+      return 'NEWS';
+    }
+  }
+    
+  function getCategory(url) {
+    if (!url) return 'all';
+    try {
+      const u = new URL(url);
+      const host = u.hostname.replace('www.', '').toLowerCase();
+
+      // Crypto / Finance
+      if (
+        host.includes('cointelegraph')  ||
+        host.includes('cryptonews')     ||
+        host.includes('coindesk')       ||
+        host.includes('yahoo')          ||
+        host.includes('investors.com')  ||
+        host.includes('wsj.com')        ||
+        host.includes('investing.com')  ||
+        host.includes('marketwatch')    ||
+        host.includes('bloomberg')      ||
+        host.includes('cnbc')           ||
+        host.includes('forbes')
+      ) {
+        return 'crypto';
+      }
+
+      // Games
+      if (
+        host.includes('gamespot') ||
+        host.includes('polygon')
+      ) {
+        return 'games';
+      }
+
+      // Food 🍽️
+      if (
+        host.includes('bonappetit')   ||
+        host.includes('thespruceeats')||
+        host.includes('allrecipes')
+      ) {
+        return 'food';
+      }
+
+      // World / War news
+      if (
+        host.includes('reuters')       ||
+        host.includes('bbc')           ||
+        host.includes('cnn')           ||
+        host.includes('aljazeera')     ||
+        host.includes('msn')           ||
+        host.includes('apnews')        ||
+        host.includes('nytimes')       ||
+        host.includes('washingtonpost')
+      ) {
+        return 'world';
+      }
+
+      // BTCBRAVE Blog
+      if (host.includes('blog.btcbrave.store')) {
+        return 'blog';
+      }
+
+      return 'all';
+    } catch (e) {
+      return 'all';
+    }
+  }
+
+  function parseDate(value) {
+    if (!value) return new Date();
+    const d = new Date(value);
+    if (isNaN(d.getTime())) return new Date();
+    return d;
+  }
+
+  async function loadAllNews() {
+    if (loading) loading.style.display = 'block';
+
+    try {
+      const now = new Date();
+
+      const [rssResp, blogResp] = await Promise.all([
+        fetch('news.json?_=' + Date.now()),
+        fetch(BLOG_POSTS_URL + '?_=' + Date.now())
+      ]);
+
+      let items = [];
+
+      if (rssResp.ok) {
+        const rssItems = await rssResp.json();
+        items = items.concat(rssItems);
+      }
+
+      if (blogResp.ok) {
+        const blogItems = await blogResp.json();
+        items = items.concat(blogItems);
+      }
+
+      // Remove posts com data no futuro
+      items = items.filter(it => {
+        const d = parseDate(it.pubDate);
+        return d <= now;
+      });
+
+      // Ordena (mais recente primeiro)
+      items.sort((a, b) => {
+        const da = parseDate(b.pubDate).getTime();
+        const db = parseDate(a.pubDate).getTime();
+        return da - db;
+      });
+
+      grid.innerHTML = '';
+
+      items.forEach(item => {
+        const pub = parseDate(item.pubDate);
+        const hasImage   = item.thumbnail && item.thumbnail.startsWith('http');
+        const sourceName = getSourceName(item.link || '');
+        const category   = getCategory(item.link || '');
+        const fullText   = item.fullText || '';
+
+        const card = document.createElement('article');
+        card.classList.add('card');
+        card.setAttribute('data-url', item.link || '');
+        card.dataset.pubdate  = pub.toISOString();
+        card.dataset.category = category;
+
+        if (fullText) {
+          card.setAttribute('data-full', fullText);
+        }
+
+        card.innerHTML = `
+          ${hasImage
+            ? `<img src="${item.thumbnail}" class="card-img-medium" />`
+            : `<div class="card-img-medium" style="background:#05060a;"></div>`}
+          <div class="card-body">
+            <div class="title"><strong>${item.title || ''}</strong></div>
+            <div class="desc">${(item.description || '').substring(0, 120)}...</div>
+            <div class="meta-row">
+              <span>${pub.toLocaleDateString()} • ${sourceName}</span>
+            </div>
+          </div>
+        `;
+
+        grid.appendChild(card);
+      });
+
+      const activeBtn = document.querySelector('.filter-btn.active');
+      const currentFilter = activeBtn ? activeBtn.dataset.filter : 'all';
+      applyFilter(currentFilter);
+
+    } catch (e) {
+      console.log('NEWS MERGE ERROR', e);
+    } finally {
+      if (loading) loading.style.display = 'none';
+    }
+  }
+
+  const filterBar = document.querySelector('.filter-bar');
+
+  function applyFilter(filter) {
+    const cards = document.querySelectorAll('.grid .card');
+    cards.forEach(card => {
+      const cat = card.dataset.category || 'other';
+      if (filter === 'all' || filter === cat) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+
+  if (filterBar) {
+    filterBar.addEventListener('click', (e) => {
+      const btn = e.target.closest('.filter-btn');
+      if (!btn) return;
+
+      const filter = btn.dataset.filter || 'all';
+
+      document.querySelectorAll('.filter-btn').forEach(b => {
+        b.classList.toggle('active', b === btn);
+      });
+
+      applyFilter(filter);
+    });
+  }
+
+  // Carrega na abertura e atualiza a cada 24h
+  loadAllNews();
+  setInterval(loadAllNews, 86400000);
+  </script>
+
+  <script>
+  // OneSignal + painel Android / iPhone / Email
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function () {
     OneSignal.init({
       appId: "cf3f8e05-ec5c-45b3-90fc-6fe67ba31ec2",
       safari_web_id: "",
       notifyButton: {
-        enable: false // usamos só o botão personalizado
+        enable: false
       }
     });
 
-    const floatBtn = document.getElementById('floating-subscribe');
+    const floatBtn       = document.getElementById('floating-subscribe');
+    const alertsPanel    = document.getElementById('alertsPanel');
+    const alertsClose    = document.getElementById('alertsClose');
+    const androidPushBtn = document.getElementById('androidPushBtn');
+
+    const emailForm      = document.getElementById('emailForm');
+    const emailInput     = document.getElementById('subscriberEmail');
+    const emailMessage   = document.getElementById('emailMessage');
+
     if (!floatBtn) return;
 
-    // Função que mostra/esconde o botão
     function updateButtonVisibility(isEnabled) {
       if (isEnabled) {
-        // ✅ Já inscrito → botão some
         floatBtn.style.display = 'none';
       } else {
-        // ❌ Ainda não inscrito → mostra o botão flutuando
         floatBtn.style.display = 'flex';
       }
     }
 
-    // Estado inicial ao carregar a página
     OneSignal.isPushNotificationsEnabled(function (isEnabled) {
       updateButtonVisibility(isEnabled);
     });
 
-    // Quando o status de inscrição mudar (acabou de aceitar)
     OneSignal.on('subscriptionChange', function (isSubscribed) {
       updateButtonVisibility(isSubscribed);
     });
 
-    // Clique no botão flutuante
+    // Abre painel quando clicar no botão flutuante
     floatBtn.addEventListener('click', function () {
-      OneSignal.isPushNotificationsEnabled(function (isEnabled) {
-        if (!isEnabled) {
-          // Pede permissão / inscrição
-          OneSignal.registerForPushNotifications();
+      if (alertsPanel) {
+        alertsPanel.style.display = 'block';
+      }
+    });
+
+    // Fecha painel
+    if (alertsClose && alertsPanel) {
+      alertsClose.addEventListener('click', function () {
+        alertsPanel.style.display = 'none';
+      });
+    }
+
+    // ANDROID / WINDOWS – ativa push
+    if (androidPushBtn) {
+      androidPushBtn.addEventListener('click', function () {
+        if (window.OneSignal) {
+          OneSignal.isPushNotificationsEnabled(function (isEnabled) {
+            if (!isEnabled) {
+              OneSignal.registerForPushNotifications();
+            }
+          });
         }
       });
-    });
-  });
-</script>
-<header>
-  <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
-
-    <!-- LINHA 1: BORBOLETA + BTCBRAVE NEWS -->
-    <div style="display:flex; align-items:center; gap:10px;">
-      
-      <!-- BORBOLETA 40PX -->
-      <div class="logo-badge" 
-           style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
-                  display:flex; align-items:center; justify-content:center; padding:0;">
-        <img src="borboleta.png" 
-             alt="BTCBRAVE Butterfly Logo" 
-             style="width:38px; height:38px; border-radius:50%; object-fit:cover; 
-                    object-position:center; background:var(--bg-main);" />
-      </div>
-
-      <!-- BTCBRAVE NEWS -->
-<span style="
-    background: linear-gradient(90deg,#1d4ed8,#7c3aed,#ec4899,#f59e0b);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-     font-weight: 800;
-     font-size: 22px;
-     text-shadow: 0 0 6px rgba(255,255,255,0.2);">
-  BTCBRAVE News
-</span>
-
-    </div>
-
-    <!-- LINHA 2: EMAIL EMBAIXO -->
-    <a href="mailto:news@btcbrave.store"
-       style="
-         margin-left:80px;    /* alinha embaixo do texto */
-         margin-top:2px;
-         font-size:12px;
-         color:var(--text-muted);
-         text-decoration:none;
-         display:flex;
-         align-items:center;
-         gap:6px;">
-      <span style="font-size:14px;">📩</span>
-      news@btcbrave.store
-    </a>
-
-</div>
-
-<!-- LOGO DA DIREITA -->
-<nav style="display:flex; flex-direction:column; align-items:center;">
-  <a href="https://btcbrave.store" target="_blank" rel="noopener noreferrer">
-    <img src="btcbrave.png" 
-         alt="BTCBRAVE Logo" 
-         style="width:30px; height:30px; object-fit:cover; border-radius:50%; cursor:pointer;" />
-  </a>
-
-  <!-- TEXTO EMBAIXO DO LOGO -->
-  <span style="
-      font-size:10px;
-      color:var(--text-muted);
-      margin-top:4px;
-      letter-spacing:0.5px;">
-    Official Page
-  </span>
-</nav>
-</header>
-
-<!-- FILTER BAR -->
-<div class="filter-bar">
-  <button class="filter-btn active" data-filter="all">All</button>
-  <button class="filter-btn" data-filter="crypto">Crypto</button>
-  <button class="filter-btn" data-filter="world">World News</button>
-  <button class="filter-btn" data-filter="games">Games</button>
-  <button class="filter-btn" data-filter="food">Cooking News</button>
-  <button class="filter-btn" data-filter="blog">BTCBRAVE Blog</button>
-</div>
-
-<!-- ÁREA DA NOTÍCIA ABERTA EMBAIXO DO BTCBRAVE NEWS -->
-<div class="article-view" id="articleView">
-  <button class="article-close" id="articleClose">×</button>
-  <div class="article-inner">
-    <div id="articleImage"></div>
-    <div class="article-title" id="articleTitle"></div>
-    <div class="article-body" id="articleBody"></div>
-  </div>
-</div>
-
-<div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
-
-<div class="grid">
-  <!-- Cards são criados via JavaScript -->
-</div>
-
-<script>
-// SISTEMA DE CLIQUE — FUNCIONA PARA TODAS AS BOXES (manuais + RSS + BLOG)
-const articleView = document.getElementById('articleView');
-const articleTitle = document.getElementById('articleTitle');
-const articleBody  = document.getElementById('articleBody');
-const articleClose = document.getElementById('articleClose');
-const gridEl       = document.querySelector('.grid');
-let lastScrollY = 0;
-
-gridEl.addEventListener('click', (event) => {
-  const card = event.target.closest('.card');
-  if (!card) return;
-
-  // Guarda a posição atual da tela antes de abrir a notícia
-  lastScrollY = window.scrollY;
-
-  const externalUrl = card.getAttribute('data-url');
-
-  // Se tiver URL externa e NÃO tiver fullText -> abre o site original
-  const full = card.getAttribute('data-full');
-  if (externalUrl && !full) {
-    window.location.href = externalUrl;
-    return;
-  }
-
-  // Se tiver fullText ou descrição -> abre dentro do site
-  const title = card.querySelector('.title')?.innerHTML || '';
-  const desc  = card.querySelector('.desc')?.innerHTML || '';
-
-  const imgSrc = card.querySelector('img')?.src || '';
-  document.getElementById('articleImage').innerHTML = imgSrc
-  ? `<img src="${imgSrc}" style="width:100%; border-radius:12px; margin-bottom:20px;" />`
-   : '';
-
-  articleTitle.innerHTML = title;
-  articleBody.innerHTML  = full || desc;
-  gridEl.style.display = "none";
-  articleView.classList.add('open');
-
-  // ⭐ AQUI É O SEGREDO:
-  // faz a tela ajustar pra mostrar a PARTE DE CIMA da notícia (foto grande)
-  document.getElementById('articleImage').scrollIntoView({
-    behavior: 'smooth',
-    block: 'start'
-  });
-
-  /* REMOVIDO: não desce o texto dentro da notícia */
-});
-
-articleClose.addEventListener('click', () => {
-  articleView.classList.remove('open');
-  gridEl.style.display = "grid";
-  // Volta exatamente para o ponto onde o usuário estava na grade
-  window.scrollTo(0, lastScrollY);
-});
-
-articleView.addEventListener('click', (e) => {
-  if (e.target === articleView) {
-    articleView.classList.remove('open');
-    gridEl.style.display = "grid";
-    window.scrollTo(0, lastScrollY);
-  }
-});
-</script>
-
-<script>
-// SISTEMA 24H – news.json + btcbrave-blog/posts.json
-const grid = document.querySelector('.grid');
-const loading = document.getElementById('loadingNews');
-
-// URL do seu blog no GitHub Pages
-const BLOG_POSTS_URL = "https://blog.btcbrave.store/posts.json";
-
-function getSourceName(url) {
-  if (!url) return 'NEWS';
-
-  try {
-    const u = new URL(url);
-    const host = u.hostname.replace('www.', '').toLowerCase();
-
-    // CRYPTO / FINANCE / BUSINESS
-    if (host.includes('cointelegraph'))  return 'Cointelegraph';
-    if (host.includes('cryptonews'))     return 'CryptoNews';
-    if (host.includes('coindesk'))       return 'CoinDesk';
-    if (host.includes('yahoo'))          return 'Yahoo Finance';
-    if (host.includes('investors.com'))  return 'Investors.com';
-    if (host.includes('wsj.com'))        return 'WSJ';
-    if (host.includes('investing.com'))  return 'Investing.com';
-    if (host.includes('marketwatch'))    return 'MarketWatch';
-    if (host.includes('bloomberg'))      return 'Bloomberg';
-    if (host.includes('cnbc'))           return 'CNBC';
-    if (host.includes('forbes'))         return 'Forbes';
-
-    // WORLD NEWS / GERAL
-    if (host.includes('bbc'))            return 'BBC News';
-    if (host.includes('cnn'))            return 'CNN';
-    if (host.includes('reuters'))        return 'Reuters';
-    if (host.includes('aljazeera'))      return 'Al Jazeera';
-    if (host.includes('msn'))            return 'MSN News';
-    if (host.includes('apnews'))         return 'AP News';
-    if (host.includes('nytimes'))        return 'The New York Times';
-    if (host.includes('washingtonpost')) return 'The Washington Post';
-
-    // GAMES
-    if (host.includes('gamespot'))       return 'GameSpot';
-    if (host.includes('polygon'))        return 'Polygon';
-
-    // FOOD
-    if (host.includes('allrecipes'))     return 'AllRecipes';
-    if (host.includes('thespruceeats'))  return 'The Spruce Eats';
-    if (host.includes('bonappetit'))     return 'Bon Appétit';
-
-    // BTCBRAVE Blog
-    if (host.includes('blog.btcbrave.store')) {
-    return 'BTCBRAVE Blog';
     }
 
-    // fallback: mostra o domínio em maiúsculas
-    return host.toUpperCase();
-  } catch (e) {
-    return 'NEWS';
-  }
-}
-  
-function getCategory(url) {
-  if (!url) return 'all';
-  try {
-    const u = new URL(url);
-    const host = u.hostname.replace('www.', '').toLowerCase();
-
-    // Crypto / Finance
-    if (
-      host.includes('cointelegraph')  ||
-      host.includes('cryptonews')     ||
-      host.includes('coindesk')       ||
-      host.includes('yahoo')          ||
-      host.includes('investors.com')  ||
-      host.includes('wsj.com')        ||
-      host.includes('investing.com')  ||
-      host.includes('marketwatch')    ||
-      host.includes('bloomberg')      ||
-      host.includes('cnbc')           ||
-      host.includes('forbes')
-    ) {
-      return 'crypto';
+    // Validação simples de email
+    function isValidEmail(email) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
     }
 
-    // Games
-    if (
-      host.includes('gamespot') ||
-      host.includes('polygon')
-    ) {
-      return 'games';
-    }
+    // EMAIL – subscribe (endpoint de teste)
+    if (emailForm && emailInput && emailMessage) {
+      emailForm.addEventListener('submit', function (e) {
+        e.preventDefault();
 
-    // Food 🍽️
-    if (
-      host.includes('bonappetit')   ||
-      host.includes('thespruceeats')||
-      host.includes('allrecipes')
-    ) {
-      return 'food';
-    }
+        const email = emailInput.value.trim();
+        emailMessage.textContent = '';
 
-    // World / War news
-    if (
-      host.includes('reuters')       ||
-      host.includes('bbc')           ||
-      host.includes('cnn')           ||
-      host.includes('aljazeera')     ||
-      host.includes('msn')           ||
-      host.includes('apnews')        ||
-      host.includes('nytimes')       ||
-      host.includes('washingtonpost')
-    ) {
-      return 'world';
-    }
+        if (!isValidEmail(email)) {
+          emailMessage.textContent = 'Please enter a valid email address.';
+          emailMessage.style.color = 'red';
+          return;
+        }
 
-    // BTCBRAVE Blog
-    if (host.includes('blog.btcbrave.store')) {
-      return 'blog';
-    }
-
-    // Tudo o que não bate em nada cai no ALL
-    return 'all';
-  } catch (e) {
-    return 'all';
-  }
-}
-
-
-function parseDate(value) {
-  if (!value) return new Date();
-  const d = new Date(value);
-  if (isNaN(d.getTime())) return new Date();
-  return d;
-}
-
-async function loadAllNews() {
-  if (loading) loading.style.display = 'block';
-
-  try {
-    const now = new Date();
-
-    const [rssResp, blogResp] = await Promise.all([
-      fetch('news.json?_=' + Date.now()),
-      fetch(BLOG_POSTS_URL + '?_=' + Date.now())
-    ]);
-
-    let items = [];
-
-    if (rssResp.ok) {
-      const rssItems = await rssResp.json();
-      items = items.concat(rssItems);
-    }
-
-    if (blogResp.ok) {
-      const blogItems = await blogResp.json();
-      items = items.concat(blogItems);
-    }
-
-    // Remove posts com data no futuro
-    items = items.filter(it => {
-      const d = parseDate(it.pubDate);
-      return d <= now;
-    });
-
-    // Ordena (mais recente primeiro)
-    items.sort((a, b) => {
-      const da = parseDate(b.pubDate).getTime();
-      const db = parseDate(a.pubDate).getTime();
-      return da - db;
-    });
-
-    grid.innerHTML = '';
-
-    items.forEach(item => {
-      const pub = parseDate(item.pubDate);
-      const hasImage   = item.thumbnail && item.thumbnail.startsWith('http');
-      const sourceName = getSourceName(item.link || '');
-      const category   = getCategory(item.link || '');
-      const fullText   = item.fullText || '';
-
-      const card = document.createElement('article');
-      card.classList.add('card');
-      card.setAttribute('data-url', item.link || '');
-      card.dataset.pubdate  = pub.toISOString();
-      card.dataset.category = category;
-
-      if (fullText) {
-        card.setAttribute('data-full', fullText);
-      }
-
-      card.innerHTML = `
-        ${hasImage
-          ? `<img src="${item.thumbnail}" class="card-img-medium" />`
-          : `<div class="card-img-medium" style="background:#05060a;"></div>`}
-        <div class="card-body">
-          <div class="title"><strong>${item.title || ''}</strong></div>
-          <div class="desc">${(item.description || '').substring(0, 120)}...</div>
-          <div class="meta-row">
-            <span>${pub.toLocaleDateString()} • ${sourceName}</span>
-          </div>
-        </div>
-      `;
-
-      grid.appendChild(card);
-    });
-
-    // Aplica o filtro atual (caso o usuário já tenha clicado em algum)
-    const activeBtn = document.querySelector('.filter-btn.active');
-    const currentFilter = activeBtn ? activeBtn.dataset.filter : 'all';
-    applyFilter(currentFilter);
-
-  } catch (e) {
-    console.log('NEWS MERGE ERROR', e);
-  } finally {
-    if (loading) loading.style.display = 'none';
-  }
-}
-
-// SISTEMA DE FILTRO
-const filterBar = document.querySelector('.filter-bar');
-
-function applyFilter(filter) {
-  const cards = document.querySelectorAll('.grid .card');
-  cards.forEach(card => {
-    const cat = card.dataset.category || 'other';
-    if (filter === 'all' || filter === cat) {
-      card.style.display = '';
-    } else {
-      card.style.display = 'none';
+        // TODO: trocar ESSA URL pelo seu serviço real (Brevo, Mailchimp, backend etc.)
+        fetch('https://example.com/subscribe', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ email: email, source: 'btcbrave_news' })
+        })
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json().catch(() => ({}));
+        })
+        .then(function () {
+          emailMessage.textContent = 'Thanks for subscribing!';
+          emailMessage.style.color = 'green';
+          emailInput.value = '';
+        })
+        .catch(function () {
+          emailMessage.textContent = 'Something went wrong. Please try again later.';
+          emailMessage.style.color = 'red';
+        });
+      });
     }
   });
-}
-
-if (filterBar) {
-  filterBar.addEventListener('click', (e) => {
-    const btn = e.target.closest('.filter-btn');
-    if (!btn) return;
-
-    const filter = btn.dataset.filter || 'all';
-
-    document.querySelectorAll('.filter-btn').forEach(b => {
-      b.classList.toggle('active', b === btn);
-    });
-
-    applyFilter(filter);
-  });
-}
-
-// Carrega na abertura e atualiza a cada 1h
-loadAllNews();
-setInterval(loadAllNews, 86400000);
-</script>
+  </script>
 
 </body>
-</html>Previe
+</html>
