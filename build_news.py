@@ -53,6 +53,25 @@ def parse_pubdate(s, now):
     """Converte texto de data do RSS em datetime (UTC)."""
     if not s:
         return now
+
+    s = s.strip()
+
+    # 1) Formato mais comum do rss2json: "2025-11-21 23:41:07"
+    for fmt in ("%Y-%m-%d %H:%M:%S",
+                "%Y-%m-%dT%H:%M:%S",
+                "%Y-%m-%dT%H:%M:%S%z",
+                "%Y-%m-%dT%H:%M:%S.%f%z"):
+        try:
+            dt = datetime.strptime(s, fmt)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            else:
+                dt = dt.astimezone(timezone.utc)
+            return dt
+        except Exception:
+            pass
+
+    # 2) Tenta o parser padrão (formato tipo: "Fri, 21 Nov 2025 12:34:56 GMT")
     try:
         dt = parsedate_to_datetime(s)
         if dt.tzinfo is None:
@@ -61,6 +80,7 @@ def parse_pubdate(s, now):
             dt = dt.astimezone(timezone.utc)
         return dt
     except Exception:
+        # 3) Se nada funcionar, cai pro "agora" como último recurso
         return now
 
 def clean_html(text):
