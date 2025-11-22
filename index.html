@@ -499,7 +499,7 @@
              style="width:30px; height:30px; object-fit:cover; border-radius:50%; cursor:pointer;" />
       </a>
 
-      <!-- TEXTO EMBAIXO DO LOGO -->
+            <!-- TEXTO EMBAIXO DO LOGO -->
       <span style="
           font-size:10px;
           color:var(--text-muted);
@@ -507,10 +507,25 @@
           letter-spacing:0.5px;">
         Official Page
       </span>
+
+      <!-- BOTÃO DE ALERTAS EMBAIXO DO LOGO -->
+      <div id="floating-subscribe" 
+           style="
+              margin-top:6px;
+              display:flex; align-items:center; gap:6px;
+              background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
+              color:#ffffff; padding:5px 10px; border-radius:999px;
+              font-size:10px; font-weight:700; letter-spacing:0.5px;
+              box-shadow:0 8px 20px rgba(0,0,0,0.6);
+              cursor:pointer; border:1px solid rgba(255,255,255,0.2);">
+        <span>🔔</span>
+        <span>Get BRAVE alerts</span>
+      </div>
+
     </nav>
   </header>
 
-  <!-- FILTER BAR + BOTÃO DE ALERTS À DIREITA -->
+  <!-- FILTER BAR -->
   <div class="filter-bar">
     <button class="filter-btn active" data-filter="all">All</button>
     <button class="filter-btn" data-filter="crypto">Crypto</button>
@@ -518,20 +533,7 @@
     <button class="filter-btn" data-filter="games">Games</button>
     <button class="filter-btn" data-filter="food">Cooking News</button>
     <button class="filter-btn" data-filter="blog">BTCBRAVE Blog</button>
-
-    <!-- BOTÃO DE ALERTAS FIXO NA BARRA (NÃO SOME) -->
-    <div id="floating-subscribe" 
-       style="
-              margin-left:auto;
-              display:flex; align-items:center; gap:6px;
-              background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-              color:#ffffff; padding:5px 10px; border-radius:999px;
-              font-size:10px; font-weight:700; letter-spacing:0.5px;
-              box-shadow:0 8px 20px rgba(0,0,0,0.6);
-              cursor:pointer; border:1px solid rgba(255,255,255,0.2);">
-  <span>🔔</span>
-  <span>Get BRAVE alerts</span>
-</div>
+  </div>
 
   <!-- ÁREA DA NOTÍCIA ABERTA EMBAIXO DO BTCBRAVE NEWS -->
   <div class="article-view" id="articleView">
