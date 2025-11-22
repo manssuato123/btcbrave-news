@@ -162,7 +162,7 @@ def main():
             print("Error fetching RSS:", url, e)
             continue
 
-        items = data.get("items", [])[]  # até 10 de cada feed
+        items = data.get("items", [])  # pega tudo que o rss2json devolver
 
         for item in items:
             pub_raw = item.get("pubDate")
