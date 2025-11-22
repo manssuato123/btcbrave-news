@@ -138,20 +138,41 @@
       }
     }
 
-    /* PADRÃO AUTOMÁTICO DE ALTURAS DAS BOXES (3 IGUAIS + 1 DIFERENTE em ciclo de 4) */
-    .grid > .card:not(.hero) {
-      min-height: 220px;
-    }
+    /* ==========================================
+   ALTURA DAS BOXES
+   - BLOG: mantém seu padrão antigo (4 em 4)
+   - NOTÍCIAS RSS: mosaico pequena/média/grande
+========================================== */
 
-    .grid > .card:not(.hero):nth-child(4n+1),
-    .grid > .card:not(.hero):nth-child(4n+2),
-    .grid > .card:not(.hero):nth-child(4n+3) {
-      min-height: 240px;
-    }
+/* Base: altura mínima padrão para TODAS as cards (blog + notícias) */
+.grid > .card:not(.hero) {
+  min-height: 220px;
+}
 
-    .grid > .card:not(.hero):nth-child(4n+4) {
-      min-height: 320px;
-    }
+/* BLOG – MANTÉM O SEU PADRÃO ANTIGO (3 iguais + 1 maior) */
+.grid > .card[data-category="blog"]:not(.hero):nth-child(4n+1),
+.grid > .card[data-category="blog"]:not(.hero):nth-child(4n+2),
+.grid > .card[data-category="blog"]:not(.hero):nth-child(4n+3) {
+  min-height: 240px;
+}
+
+.grid > .card[data-category="blog"]:not(.hero):nth-child(4n+4) {
+  min-height: 320px;
+}
+
+/* NOTÍCIAS RSS (TUDO QUE NÃO FOR BLOG) – MOSAICO 3 EM 3 */
+
+/* 2ª, 5ª, 8ª, ... notícias → MÉDIA */
+.grid > .card:not(.hero):not([data-category="blog"]):nth-child(3n+2) {
+  min-height: 260px;
+}
+
+/* 3ª, 6ª, 9ª, ... notícias → GRANDE */
+.grid > .card:not(.hero):not([data-category="blog"]):nth-child(3n+3) {
+  min-height: 320px;
+}
+
+/* As 1ª, 4ª, 7ª, ... notícias ficam com 220px (regra base) */
 
     .card {
       background: radial-gradient(circle at top left, #202538 0, #111318 45%, #05060a 100%);
