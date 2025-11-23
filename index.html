@@ -778,91 +778,46 @@
   setInterval(loadAllNews, 86400000);
   </script>
 
-    <script>
-document.addEventListener('DOMContentLoaded', function () {
-  const overlay   = document.getElementById('btcbraveLoginOverlay');
-  const closeBtn  = document.getElementById('btcbraveLoginClose');
-  const floatBtn  = document.getElementById('floating-subscribe');
-  const form      = document.getElementById('btcbraveLoginForm');
+  <script>
+  // POPUP LOGIN BTCBRAVE – abre/fecha + mensagem de sucesso
+  document.addEventListener('DOMContentLoaded', function () {
+    const overlay  = document.getElementById('btcbraveLoginOverlay');
+    const closeBtn = document.getElementById('btcbraveLoginClose');
+    const floatBtn = document.getElementById('floating-subscribe');
+    const form     = document.getElementById('btcbraveLoginForm');
+    const emailInp = document.getElementById('btcbraveLoginEmail');
 
-  function openLogin() {
-    if (!overlay) return;
-    overlay.style.display = 'flex';
-  }
-
-  function closeLogin() {
-    if (!overlay) return;
-    overlay.style.display = 'none';
-  }
-
-  // ✅ Quando a pessoa clicar em CONTINUE
-  if (form) {
-    form.addEventListener('submit', function() {
-      localStorage.setItem('btcbrave_subscribed', 'true');
-      setTimeout(() => {
-        closeLogin();
-      }, 500);
-    });
-  }
-
-  // ✅ Botão flutuante abre popup manualmente
-  if (floatBtn) {
-    floatBtn.addEventListener('click', function() {
-      openLogin();
-    });
-  }
-
-  // ✅ Só abre automático se ainda NÃO se inscreveu
-  const alreadySubscribed = localStorage.getItem('btcbrave_subscribed');
-
-  if (!alreadySubscribed) {
-    setTimeout(() => {
-      openLogin();
-    }, 2000); // abre em 2 segundos
-  }
-
-  // Fechar no X
-  if (closeBtn) {
-    closeBtn.addEventListener('click', closeLogin);
-  }
-
-  // Fechar clicando fora
-  if (overlay) {
-    overlay.addEventListener('click', function (e) {
-      if (e.target === overlay) {
-        closeLogin();
+    function openLogin() {
+      if (!overlay) return;
+      overlay.style.display = 'flex';
+      if (emailInp) {
+        setTimeout(() => emailInp.focus(), 80);
       }
-    });
-  }
-});
-</script>
-
-
-    // Validação + marcar como inscrito quando enviar o formulário
-    function isValidEmail(email) {
-      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
     }
 
-    if (form && emailInput) {
-      form.addEventListener('submit', function (e) {
-        const email = emailInput.value.trim();
+    function closeLogin() {
+      if (!overlay) return;
+      overlay.style.display = 'none';
+    }
 
-        // Se email for inválido, não deixa enviar
-        if (!isValidEmail(email)) {
-          e.preventDefault();
-          alert('Please enter a valid email address.');
-          return;
+    if (floatBtn) {
+      floatBtn.addEventListener('click', openLogin);
+    }
+
+    // Abrir automaticamente quando entrar no site
+    openLogin();
+
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closeLogin);
+    }
+
+    if (overlay) {
+      overlay.addEventListener('click', function (e) {
+        if (e.target === overlay) {
+          closeLogin();
         }
-
-        // Marca como inscrito no navegador
-        localStorage.setItem('btcbrave_subscribed', '1');
-
-        // Mensagem amigável (Brevo continua abrindo a página dela normal)
-        alert('Subscribed! Please check your inbox to confirm.');
       });
     }
-  });
-  </script>
 
     function isValidEmail(email) {
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
