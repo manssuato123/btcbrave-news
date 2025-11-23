@@ -463,24 +463,24 @@
       </span>
 
       <div id="floating-subscribe" 
-     style="
-      margin-top:6px;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      gap:6px;
-      background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-      background:#fff;
-      padding:2px 3px;
-      border-radius:999px;
-      font-size:16px;
-      font-weight:700;
-      letter-spacing:0.5px;
-      box-shadow:0 8px 20px rgba(0,0,0,0.6);
-      cursor:pointer;
-      border:1px solid rgba(255,255,255,0.2);">
-     🔔
-    </div>
+        style="
+          margin-top:6px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          gap:6px;
+          background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
+          background:#fff;
+          padding:2px 3px;
+          border-radius:999px;
+          font-size:16px;
+          font-weight:700;
+          letter-spacing:0.5px;
+          box-shadow:0 8px 20px rgba(0,0,0,0.6);
+          cursor:pointer;
+          border:1px solid rgba(255,255,255,0.2);">
+        🔔
+      </div>
 
     </nav>
   </header>
@@ -505,7 +505,8 @@
 
   <div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
 
-  <div class="grid"></div>
+  <!-- AQUI É A ÚNICA MUDANÇA: ADICIONEI btcbrave-grid -->
+  <div class="btcbrave-grid grid"></div>
 
   <script>
   const articleView = document.getElementById('articleView');
@@ -784,7 +785,7 @@
   setInterval(loadAllNews, 86400000);
   </script>
 
-<script>
+  <script>
   // LÓGICA DO POPUP + SUBSCRIBE (localStorage + alerta)
   document.addEventListener('DOMContentLoaded', function () {
     const overlay  = document.getElementById('btcbraveLoginOverlay');
@@ -864,4 +865,6 @@
       });
     }
   });
-</script>
+  </script>
+</body>
+</html>
