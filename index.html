@@ -364,32 +364,89 @@
       background: #1e1b4b;
     }
 
-    .btcbrave-small-btn {
-      margin-top: 6px;
+    /* NOVO: barra de label usada em ANDROID / WINDOWS e iPHONE */
+    .btcbrave-ios-label {
       width: 100%;
-      padding: 7px;
-      border-radius: 6px;
-      border: none;
-      font-weight: 600;
-      cursor: pointer;
-      background: linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-      color: #ffffff;
+      padding: 10px 14px;
+      border-radius: 10px;
+      background: linear-gradient(180deg,#1e1b4b,#020617);
+      border: 1px solid #1f2937;
+      text-align: center;
+      font-weight: 700;
+      font-size: 13px;
+      color: #e5e7eb;
+      margin-bottom: 8px;
+    }
+
+    /* Wrapper do campo de email (iPhone) */
+    .email-field-wrapper {
+      margin-top: 6px;
+    }
+
+    /* Esconde/mostra o campo de email e outros elementos */
+    .hidden-email {
+      display: none;
     }
 
     #subscriberEmail {
       width: 100%;
-      padding: 7px;
+      padding: 8px 10px;
       margin-top: 6px;
       border-radius: 6px;
       border: 1px solid #252837;
       background:#05060a;
       color:#f5f5f5;
       font-size: 13px;
+      outline: none;
+    }
+
+    #subscriberEmail:focus {
+      border-color: #3b82f6;
     }
 
     .btcbrave-email-message {
       font-size: 11px;
       margin-top: 4px;
+    }
+
+    /* Botão Subscribe com gradiente (os dois cards usam) */
+    .btcbrave-small-btn {
+      margin-top: 6px;
+      width: 100%;
+      padding: 8px 18px;
+      border-radius: 999px;
+      border: none;
+      font-weight: 700;
+      cursor: pointer;
+      background: linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
+      color: #ffffff;
+      font-size: 13px;
+      letter-spacing: 0.3px;
+      text-align: center;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+      transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+    }
+
+    .btcbrave-small-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 12px 26px rgba(0,0,0,0.7);
+      filter: brightness(1.03);
+    }
+
+    /* Estado "Subscribed" com sininho */
+    .btcbrave-subscribed {
+      width: 100%;
+      padding: 10px;
+      border-radius: 999px;
+      background: linear-gradient(180deg, #0f172a, #020617);
+      border: 1px solid #1f2937;
+      text-align: center;
+      font-weight: 700;
+      font-size: 13px;
+      color: #a5f3fc;
+      margin-top: 6px;
+      letter-spacing: 0.3px;
+      cursor: pointer;
     }
   </style>
 
@@ -406,41 +463,52 @@
       <h3>BTCBRAVE alerts</h3>
 
       <div class="btcbrave-alerts-grid">
-        <!-- ANDROID / WINDOWS (PUSH) -->
+
+        <!-- ANDROID / WINDOWS – só push + sino depois -->
         <div class="btcbrave-alerts-card">
-          <div class="btcbrave-alerts-icon android-icon">
-            ANDROID
+          <div class="btcbrave-ios-label">
+            ANDROID / WINDOWS
           </div>
-          <h4>Android / Windows</h4>
-          <p>Enable push notifications on supported devices.</p>
+
           <button id="androidPushBtn" class="btcbrave-small-btn">
-            Enable push
+            Subscribe
           </button>
+
+          <!-- Sininho escondido no início -->
+          <div id="androidSubscribedIcon" class="btcbrave-subscribed hidden-email" data-state="subscribed">
+            🔔 Subscribed
+          </div>
         </div>
 
-        <!-- iPHONE / EMAIL -->
+        <!-- iPHONE – email aparece só depois do clique, sininho depois -->
         <div class="btcbrave-alerts-card">
-          <div class="btcbrave-alerts-icon ios-icon">
+          <div class="btcbrave-ios-label">
             iPHONE
           </div>
-          <h4>iPhone / Email</h4>
-          <p>Get BTCBRAVE alerts directly by email.</p>
 
           <form id="emailForm">
-            <input
-              type="email"
-              id="subscriberEmail"
-              name="email"
-              placeholder="Enter your best email"
-              required
-            />
-            <button type="submit" class="btcbrave-small-btn">
-              Subscribe by email
+            <!-- campo de email começa escondido -->
+            <div id="emailFieldWrapper" class="email-field-wrapper hidden-email">
+              <input
+                type="email"
+                id="subscriberEmail"
+                name="email"
+                placeholder="Enter your email."
+                required
+              />
+            </div>
+
+            <button type="submit" id="iphoneSubscribeBtn" class="btcbrave-small-btn">
+              Subscribe
             </button>
           </form>
 
-          <p id="emailMessage" class="btcbrave-email-message"></p>
+          <!-- Sininho escondido no início -->
+          <div id="emailSubscribedIcon" class="btcbrave-subscribed hidden-email" data-state="subscribed">
+            🔔 Subscribed
+          </div>
         </div>
+
       </div>
     </div>
   </div>
@@ -499,7 +567,7 @@
              style="width:30px; height:30px; object-fit:cover; border-radius:50%; cursor:pointer;" />
       </a>
 
-            <!-- TEXTO EMBAIXO DO LOGO -->
+      <!-- TEXTO EMBAIXO DO LOGO -->
       <span style="
           font-size:10px;
           color:var(--text-muted);
@@ -641,7 +709,7 @@
 
       // WORLD NEWS / GERAL
       if (host.includes('bbc'))            return 'BBC News';
-      if (host.includes('cnn'))            return 'CNN';
+      if (host.includes('cnn'))           return 'CNN';
       if (host.includes('reuters'))        return 'Reuters';
       if (host.includes('aljazeera'))      return 'Al Jazeera';
       if (host.includes('msn'))            return 'MSN News';
@@ -858,7 +926,17 @@
   </script>
 
   <script>
-  // OneSignal + painel Android / iPhone / Email
+  // Abrir painel automaticamente ao carregar a página
+  document.addEventListener("DOMContentLoaded", function () {
+    var alertsPanel = document.getElementById("alertsPanel");
+    if (alertsPanel) {
+      alertsPanel.style.display = "block";
+    }
+  });
+  </script>
+
+  <script>
+  // OneSignal + painel Android / iPhone / Email (Brevo via backend depois)
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function () {
     OneSignal.init({
@@ -874,9 +952,15 @@
     const alertsClose    = document.getElementById('alertsClose');
     const androidPushBtn = document.getElementById('androidPushBtn');
 
-    const emailForm      = document.getElementById('emailForm');
-    const emailInput     = document.getElementById('subscriberEmail');
-    const emailMessage   = document.getElementById('emailMessage');
+    const emailForm         = document.getElementById('emailForm');
+    const emailInput        = document.getElementById('subscriberEmail');
+    const emailFieldWrapper = document.getElementById('emailFieldWrapper');
+
+    const androidSubscribedIcon = document.getElementById('androidSubscribedIcon');
+    const emailSubscribedIcon   = document.getElementById('emailSubscribedIcon');
+    const iphoneSubscribeBtn    = document.getElementById('iphoneSubscribeBtn');
+
+    let lastSubscribedEmail = null; // guardamos o email para o unsubscribe
 
     if (!floatBtn) return;
 
@@ -893,7 +977,7 @@
       updateButtonVisibility(isSubscribed);
     });
 
-    // Abre painel quando clicar no botão
+    // Abre painel quando clicar no botão flutuante
     floatBtn.addEventListener('click', function () {
       if (alertsPanel) {
         alertsPanel.style.display = 'block';
@@ -907,60 +991,131 @@
       });
     }
 
-    // ANDROID / WINDOWS – ativa push
-    if (androidPushBtn) {
+    // Validação simples de email
+    function isValidEmail(email) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+    }
+
+    // ANDROID / WINDOWS – só push, depois vira sininho
+    if (androidPushBtn && androidSubscribedIcon) {
       androidPushBtn.addEventListener('click', function () {
         if (window.OneSignal) {
           OneSignal.isPushNotificationsEnabled(function (isEnabled) {
             if (!isEnabled) {
               OneSignal.registerForPushNotifications();
             }
+            // Atualiza UI para "Subscribed"
+            androidPushBtn.style.display = 'none';
+            androidSubscribedIcon.classList.remove('hidden-email');
+            androidSubscribedIcon.dataset.state = 'subscribed';
+            androidSubscribedIcon.textContent = '🔔 Subscribed';
           });
         }
       });
-    }
 
-    // Validação simples de email
-    function isValidEmail(email) {
-      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-    }
+      // Clique no sininho Android: Subscribed -> Unsubscribe -> volta
+      androidSubscribedIcon.addEventListener('click', function () {
+        const state = androidSubscribedIcon.dataset.state || 'subscribed';
 
-    // EMAIL – subscribe (endpoint de teste)
-    if (emailForm && emailInput && emailMessage) {
-      emailForm.addEventListener('submit', function (e) {
-        e.preventDefault();
-
-        const email = emailInput.value.trim();
-        emailMessage.textContent = '';
-
-        if (!isValidEmail(email)) {
-          emailMessage.textContent = 'Please enter a valid email address.';
-          emailMessage.style.color = 'red';
+        if (state === 'subscribed') {
+          // 1º clique: só muda o texto
+          androidSubscribedIcon.dataset.state = 'confirm';
+          androidSubscribedIcon.textContent = '🔔 Unsubscribe';
           return;
         }
 
-        // TODO: trocar ESSA URL pelo seu serviço real (Brevo, Mailchimp, backend etc.)
+        // 2º clique: realmente desinscreve
+        if (window.OneSignal && OneSignal.setSubscription) {
+          OneSignal.setSubscription(false);
+        }
+
+        // volta ao estado inicial
+        androidSubscribedIcon.classList.add('hidden-email');
+        androidSubscribedIcon.dataset.state = 'subscribed';
+        androidSubscribedIcon.textContent = '🔔 Subscribed';
+        androidPushBtn.style.display = 'block';
+      });
+    }
+
+    // iPHONE – 1º submit mostra o campo, 2º envia, depois vira sininho
+    if (emailForm && emailInput && emailFieldWrapper && emailSubscribedIcon && iphoneSubscribeBtn) {
+      emailForm.addEventListener('submit', function (e) {
+        e.preventDefault();
+
+        // se o campo ainda está escondido, só mostra e não envia
+        if (emailFieldWrapper.classList.contains('hidden-email')) {
+          emailFieldWrapper.classList.remove('hidden-email');
+          emailInput.focus();
+          return;
+        }
+
+        const email = emailInput.value.trim();
+        if (!isValidEmail(email)) {
+          alert('Please enter a valid email address.');
+          return;
+        }
+
+        lastSubscribedEmail = email;
+
+        // 👉 TROCAR ESSA URL pelo endpoint real do seu backend/Brevo
         fetch('https://example.com/subscribe', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
           },
-          body: JSON.stringify({ email: email, source: 'btcbrave_news' })
+          body: JSON.stringify({ email: email })
         })
         .then(function (response) {
           if (!response.ok) {
             throw new Error('Network response was not ok');
           }
-          return response.json().catch(() => ({}));
-        })
-        .then(function () {
-          emailMessage.textContent = 'Thanks for subscribing!';
-          emailMessage.style.color = 'green';
+
+          // sucesso: some botão + campo, mostra sininho
           emailInput.value = '';
+          emailFieldWrapper.classList.add('hidden-email');
+          iphoneSubscribeBtn.style.display = 'none';
+          emailSubscribedIcon.classList.remove('hidden-email');
+          emailSubscribedIcon.dataset.state = 'subscribed';
+          emailSubscribedIcon.textContent = '🔔 Subscribed';
         })
         .catch(function () {
-          emailMessage.textContent = 'Something went wrong. Please try again later.';
-          emailMessage.style.color = 'red';
+          alert('Something went wrong. Please try again later.');
+        });
+      });
+
+      // Clique no sininho iPhone: Subscribed -> Unsubscribe -> volta
+      emailSubscribedIcon.addEventListener('click', function () {
+        const state = emailSubscribedIcon.dataset.state || 'subscribed';
+
+        if (state === 'subscribed') {
+          // 1º clique: mostra "Unsubscribe"
+          emailSubscribedIcon.dataset.state = 'confirm';
+          emailSubscribedIcon.textContent = '🔔 Unsubscribe';
+          return;
+        }
+
+        // 2º clique: UNSUBSCRIBE via backend/Brevo
+        const emailToRemove = lastSubscribedEmail || emailInput.value.trim();
+
+        fetch('https://example.com/unsubscribe', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ email: emailToRemove })
+        })
+        .catch(function () {
+          // se der erro, só ignora ou poderia colocar um alert
+        })
+        .finally(function () {
+          // volta pro estado inicial
+          emailSubscribedIcon.classList.add('hidden-email');
+          emailSubscribedIcon.dataset.state = 'subscribed';
+          emailSubscribedIcon.textContent = '🔔 Subscribed';
+
+          iphoneSubscribeBtn.style.display = 'block';
+          emailFieldWrapper.classList.add('hidden-email');
+          emailInput.value = '';
         });
       });
     }
