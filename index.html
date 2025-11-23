@@ -779,48 +779,64 @@
   </script>
 
     <script>
-  // POPUP LOGIN BTCBRAVE – abre/fecha, marca quando já se inscreveu
-  document.addEventListener('DOMContentLoaded', function () {
-    const overlay   = document.getElementById('btcbraveLoginOverlay');
-    const closeBtn  = document.getElementById('btcbraveLoginClose');
-    const floatBtn  = document.getElementById('floating-subscribe');
-    const form      = document.getElementById('btcbraveLoginForm');
-    const emailInput= document.getElementById('btcbraveLoginEmail');
+document.addEventListener('DOMContentLoaded', function () {
+  const overlay   = document.getElementById('btcbraveLoginOverlay');
+  const closeBtn  = document.getElementById('btcbraveLoginClose');
+  const floatBtn  = document.getElementById('floating-subscribe');
+  const form      = document.getElementById('btcbraveLoginForm');
 
-    function openLogin() {
-      if (!overlay) return;
-      overlay.style.display = 'flex';
-    }
+  function openLogin() {
+    if (!overlay) return;
+    overlay.style.display = 'flex';
+  }
 
-    function closeLogin() {
-      if (!overlay) return;
-      overlay.style.display = 'none';
-    }
+  function closeLogin() {
+    if (!overlay) return;
+    overlay.style.display = 'none';
+  }
 
-    // Botão “Get BRAVE alerts” SEMPRE abre o popup
-    if (floatBtn) {
-      floatBtn.addEventListener('click', openLogin);
-    }
+  // ✅ Quando a pessoa clicar em CONTINUE
+  if (form) {
+    form.addEventListener('submit', function() {
+      localStorage.setItem('btcbrave_subscribed', 'true');
+      setTimeout(() => {
+        closeLogin();
+      }, 500);
+    });
+  }
 
-    // Se AINDA NÃO se inscreveu, abre automaticamente na primeira vez
-    const alreadySubscribed = localStorage.getItem('btcbrave_subscribed') === '1';
-    if (!alreadySubscribed) {
+  // ✅ Botão flutuante abre popup manualmente
+  if (floatBtn) {
+    floatBtn.addEventListener('click', function() {
       openLogin();
-    }
+    });
+  }
 
-    // Fechar no X
-    if (closeBtn) {
-      closeBtn.addEventListener('click', closeLogin);
-    }
+  // ✅ Só abre automático se ainda NÃO se inscreveu
+  const alreadySubscribed = localStorage.getItem('btcbrave_subscribed');
 
-    // Fechar clicando fora do card
-    if (overlay) {
-      overlay.addEventListener('click', function (e) {
-        if (e.target === overlay) {
-          closeLogin();
-        }
-      });
-    }
+  if (!alreadySubscribed) {
+    setTimeout(() => {
+      openLogin();
+    }, 2000); // abre em 2 segundos
+  }
+
+  // Fechar no X
+  if (closeBtn) {
+    closeBtn.addEventListener('click', closeLogin);
+  }
+
+  // Fechar clicando fora
+  if (overlay) {
+    overlay.addEventListener('click', function (e) {
+      if (e.target === overlay) {
+        closeLogin();
+      }
+    });
+  }
+});
+</script>
+
 
     // Validação + marcar como inscrito quando enviar o formulário
     function isValidEmail(email) {
