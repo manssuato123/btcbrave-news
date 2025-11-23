@@ -79,7 +79,6 @@
       border-bottom-color: var(--accent);
     }
 
-    /* FILTER BAR */
     .filter-bar {
       max-width: 1600px;
       margin: 10px auto 0;
@@ -283,8 +282,6 @@
     .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08);}
     .card-img-large { height:200px; width:100%; object-fit:cover; }
 
-    /* ===== POPUP LOGIN ESTILO NYTIMES (BREVO) ===== */
-
     .btcbrave-login-overlay {
       position: fixed;
       inset: 0;
@@ -342,6 +339,9 @@
 </head>
 <body>
 
+  <!-- IFRAME ESCONDIDO PARA RECEBER O RETORNO DA BREVO -->
+  <iframe name="hiddenBrevoFrame" style="display:none;"></iframe>
+
   <!-- POPUP LOGIN / SUBSCRIBE BTCBRAVE (Brevo integrado) -->
   <div id="btcbraveLoginOverlay" class="btcbrave-login-overlay" style="display:none;">
     <div class="btcbrave-login-card">
@@ -357,7 +357,7 @@
         id="btcbraveLoginForm"
         action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA=="
         method="POST"
-        target="_blank"
+        target="hiddenBrevoFrame"
         novalidate
       >
         <label for="btcbraveLoginEmail" style="display:block; font-size:12px; font-weight:600; margin-bottom:4px; color:#374151;">
@@ -479,7 +479,6 @@
     </nav>
   </header>
 
-  <!-- FILTER BAR -->
   <div class="filter-bar">
     <button class="filter-btn active" data-filter="all">All</button>
     <button class="filter-btn" data-filter="crypto">Crypto</button>
@@ -489,7 +488,6 @@
     <button class="filter-btn" data-filter="blog">Blog</button>
   </div>
 
-  <!-- ARTICLE VIEW -->
   <div class="article-view" id="articleView">
     <button class="article-close" id="articleClose">×</button>
     <div class="article-inner">
@@ -501,12 +499,9 @@
 
   <div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
 
-  <div class="grid">
-    <!-- Cards via JS -->
-  </div>
+  <div class="grid"></div>
 
   <script>
-  // SISTEMA DE CLIQUE — FUNCIONA PARA TODAS AS BOXES
   const articleView = document.getElementById('articleView');
   const articleTitle = document.getElementById('articleTitle');
   const articleBody  = document.getElementById('articleBody');
@@ -521,7 +516,6 @@
     lastScrollY = window.scrollY;
 
     const externalUrl = card.getAttribute('data-url');
-
     const full = card.getAttribute('data-full');
     if (externalUrl && !full) {
       window.location.href = externalUrl;
@@ -563,15 +557,12 @@
   </script>
 
   <script>
-  // SISTEMA 24H – news.json + btcbrave-blog/posts.json
   const grid = document.querySelector('.grid');
   const loading = document.getElementById('loadingNews');
-
   const BLOG_POSTS_URL = "https://blog.btcbrave.store/posts.json";
 
   function getSourceName(url) {
     if (!url) return 'NEWS';
-
     try {
       const u = new URL(url);
       const host = u.hostname.replace('www.', '').toLowerCase();
@@ -636,18 +627,11 @@
         return 'crypto';
       }
 
-      if (
-        host.includes('gamespot') ||
-        host.includes('polygon')
-      ) {
+      if (host.includes('gamespot') || host.includes('polygon')) {
         return 'games';
       }
 
-      if (
-        host.includes('bonappetit')   ||
-        host.includes('thespruceeats')||
-        host.includes('allrecipes')
-      ) {
+      if (host.includes('bonappetit') || host.includes('thespruceeats') || host.includes('allrecipes')) {
         return 'food';
       }
 
@@ -795,15 +779,20 @@
   </script>
 
   <script>
-  // POPUP LOGIN BTCBRAVE – abre/fecha, Brevo cuida do submit
+  // POPUP LOGIN BTCBRAVE – abre/fecha + mensagem de sucesso
   document.addEventListener('DOMContentLoaded', function () {
     const overlay  = document.getElementById('btcbraveLoginOverlay');
     const closeBtn = document.getElementById('btcbraveLoginClose');
     const floatBtn = document.getElementById('floating-subscribe');
+    const form     = document.getElementById('btcbraveLoginForm');
+    const emailInp = document.getElementById('btcbraveLoginEmail');
 
     function openLogin() {
       if (!overlay) return;
       overlay.style.display = 'flex';
+      if (emailInp) {
+        setTimeout(() => emailInp.focus(), 80);
+      }
     }
 
     function closeLogin() {
@@ -827,6 +816,28 @@
         if (e.target === overlay) {
           closeLogin();
         }
+      });
+    }
+
+    function isValidEmail(email) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+    }
+
+    if (form && emailInp) {
+      form.addEventListener('submit', function (e) {
+        const email = emailInp.value.trim();
+
+        if (!isValidEmail(email)) {
+          e.preventDefault();
+          alert('Please enter a valid email address.');
+          return;
+        }
+
+        // Deixa enviar para a Brevo no iframe escondido
+        setTimeout(() => {
+          alert('Subscribed! Please check your inbox to confirm.');
+          closeLogin();
+        }, 1500);
       });
     }
   });
