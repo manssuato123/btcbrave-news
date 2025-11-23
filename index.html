@@ -285,231 +285,156 @@
     .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08);}
     .card-img-large { height:200px; width:100%; object-fit:cover; }
 
-    /* BTCBRAVE Alerts Panel (Android / iPhone) */
-    .btcbrave-alerts-panel {
+    /* ===== POPUP LOGIN ESTILO NYTIMES (BREVO) ===== */
+
+    .btcbrave-login-overlay {
       position: fixed;
-      bottom: 80px;
-      right: 20px;
-      z-index: 10000;
+      inset: 0;
+      background: rgba(0,0,0,0.75);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 12000;
     }
 
-    .btcbrave-alerts-inner {
-      background: #05060a;
-      padding: 16px 18px;
-      border-radius: 12px;
-      box-shadow: 0 4px 18px rgba(0,0,0,0.8);
+    .btcbrave-login-card {
+      background: #ffffff;
+      color: #111827;
+      width: 100%;
       max-width: 420px;
-      font-size: 14px;
-      border: 1px solid rgba(212, 175, 55, 0.4);
+      border-radius: 8px;
+      padding: 28px 30px 24px;
+      box-shadow: 0 25px 60px rgba(0,0,0,0.5);
+      position: relative;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
     }
 
-    .btcbrave-alerts-inner h3 {
-      margin-top: 0;
-      margin-bottom: 8px;
-      font-size: 16px;
-      color: #ffffff;
-    }
-
-    .btcbrave-alerts-close {
-      background: transparent;
+    .btcbrave-login-close {
+      position: absolute;
+      top: 10px;
+      right: 12px;
       border: none;
+      background: transparent;
       font-size: 18px;
       cursor: pointer;
-      float: right;
-      color: #ffffff;
     }
 
-    .btcbrave-alerts-grid {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin-top: 10px;
-    }
-
-    .btcbrave-alerts-card {
-      flex: 1 1 160px;
-      border-radius: 10px;
-      padding: 10px;
-      border: 1px solid #252837;
-      font-size: 13px;
-      background: radial-gradient(circle at top left, #202538 0, #111318 45%, #05060a 100%);
-    }
-
-    .btcbrave-alerts-card h4 {
-      margin: 8px 0 4px;
-      font-size: 14px;
-      color: #f5f5f5;
-    }
-
-    .btcbrave-alerts-card p {
-      margin: 4px 0;
-      color: #a0a4b8;
-    }
-
-    .btcbrave-alerts-icon {
-      border-radius: 8px;
-      padding: 10px 8px;
-      border: 1px solid #252837;
-      font-weight: 600;
-      text-align: center;
-      font-size: 12px;
-      margin-bottom: 6px;
-    }
-
-    .android-icon {
-      background: #0f172a;
-    }
-
-    .ios-icon {
-      background: #1e1b4b;
-    }
-
-    /* NOVO: barra de label usada em ANDROID / WINDOWS e iPHONE */
-    .btcbrave-ios-label {
-      width: 100%;
-      padding: 10px 14px;
-      border-radius: 10px;
-      background: linear-gradient(180deg,#1e1b4b,#020617);
-      border: 1px solid #1f2937;
-      text-align: center;
+    .btcbrave-login-title {
+      margin: 0 0 8px;
+      font-size: 20px;
       font-weight: 700;
+      text-align: center;
+    }
+
+    .btcbrave-login-subtitle {
+      margin: 0 0 18px;
       font-size: 13px;
-      color: #e5e7eb;
+      line-height: 1.4;
+      text-align: center;
+      color: #4b5563;
+    }
+
+    .btcbrave-login-label {
+      display: block;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 4px;
+      color: #374151;
+    }
+
+    #btcbraveLoginEmail {
+      width: 100%;
+      padding: 8px 10px;
+      border-radius: 4px;
+      border: 1px solid #d1d5db;
+      font-size: 14px;
+      outline: none;
+      box-sizing: border-box;
+    }
+
+    #btcbraveLoginEmail:focus {
+      border-color: #111827;
+    }
+
+    .btcbrave-login-primary {
+      width: 100%;
+      margin-top: 10px;
+      padding: 9px 0;
+      background: #111827;
+      color: #ffffff;
+      border-radius: 4px;
+      border: none;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .btcbrave-login-or {
+      text-align: center;
+      font-size: 11px;
+      color: #6b7280;
+      margin: 14px 0 10px;
+    }
+
+    .btcbrave-login-social {
+      width: 100%;
+      padding: 8px 0;
+      border-radius: 4px;
+      border: 1px solid #d1d5db;
+      background: #ffffff;
+      font-size: 13px;
+      cursor: pointer;
       margin-bottom: 8px;
     }
 
-    /* Wrapper do campo de email (iPhone) */
-    .email-field-wrapper {
-      margin-top: 6px;
-    }
-
-    /* Esconde/mostra o campo de email e outros elementos */
-    .hidden-email {
-      display: none;
-    }
-
-    #subscriberEmail {
-      width: 100%;
-      padding: 8px 10px;
-      margin-top: 6px;
-      border-radius: 6px;
-      border: 1px solid #252837;
-      background:#05060a;
-      color:#f5f5f5;
-      font-size: 13px;
-      outline: none;
-    }
-
-    #subscriberEmail:focus {
-      border-color: #3b82f6;
-    }
-
-    .btcbrave-email-message {
+    .btcbrave-login-footnote {
+      margin: 8px 0 0;
       font-size: 11px;
-      margin-top: 4px;
-    }
-
-    /* Botão Subscribe com gradiente (os dois cards usam) */
-    .btcbrave-small-btn {
-      margin-top: 6px;
-      width: 100%;
-      padding: 8px 18px;
-      border-radius: 999px;
-      border: none;
-      font-weight: 700;
-      cursor: pointer;
-      background: linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-      color: #ffffff;
-      font-size: 13px;
-      letter-spacing: 0.3px;
+      color: #6b7280;
       text-align: center;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.5);
-      transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
-    }
-
-    .btcbrave-small-btn:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 12px 26px rgba(0,0,0,0.7);
-      filter: brightness(1.03);
-    }
-
-    /* Estado "Subscribed" com sininho */
-    .btcbrave-subscribed {
-      width: 100%;
-      padding: 10px;
-      border-radius: 999px;
-      background: linear-gradient(180deg, #0f172a, #020617);
-      border: 1px solid #1f2937;
-      text-align: center;
-      font-weight: 700;
-      font-size: 13px;
-      color: #a5f3fc;
-      margin-top: 6px;
-      letter-spacing: 0.3px;
-      cursor: pointer;
     }
   </style>
-
-  <!-- OneSignal Push Notifications SDK -->
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
 </head>
 <body>
 
-  <!-- Painel BTCBRAVE Alerts (Android / iPhone) -->
-  <div id="alertsPanel" class="btcbrave-alerts-panel" style="display:none;">
-    <div class="btcbrave-alerts-inner">
-      <button id="alertsClose" class="btcbrave-alerts-close">×</button>
+  <!-- POPUP LOGIN / SUBSCRIBE BTCBRAVE (só Brevo) -->
+  <div id="btcbraveLoginOverlay" class="btcbrave-login-overlay" style="display:none;">
+    <div class="btcbrave-login-card">
+      <button id="btcbraveLoginClose" class="btcbrave-login-close">×</button>
 
-      <h3>BTCBRAVE alerts</h3>
+      <h2 class="btcbrave-login-title">Create your BTCBRAVE alerts</h2>
+      <p class="btcbrave-login-subtitle">
+        Get price moves, news alerts and updates directly in your inbox.
+      </p>
 
-      <div class="btcbrave-alerts-grid">
+      <form id="btcbraveLoginForm">
+        <label for="btcbraveLoginEmail" class="btcbrave-login-label">Email address</label>
+        <input
+          type="email"
+          id="btcbraveLoginEmail"
+          name="email"
+          placeholder="Enter your email"
+          required
+        />
 
-        <!-- ANDROID / WINDOWS – só push + sino depois -->
-        <div class="btcbrave-alerts-card">
-          <div class="btcbrave-ios-label">
-            ANDROID / WINDOWS
-          </div>
+        <button type="submit" class="btcbrave-login-primary">
+          Continue
+        </button>
 
-          <button id="androidPushBtn" class="btcbrave-small-btn">
-            Subscribe
-          </button>
+        <div class="btcbrave-login-or">or</div>
 
-          <!-- Sininho escondido no início -->
-          <div id="androidSubscribedIcon" class="btcbrave-subscribed hidden-email" data-state="subscribed">
-            🔔 Subscribed
-          </div>
-        </div>
+        <button type="button" class="btcbrave-login-social">
+          <span>Continue with Google</span>
+        </button>
 
-        <!-- iPHONE – email aparece só depois do clique, sininho depois -->
-        <div class="btcbrave-alerts-card">
-          <div class="btcbrave-ios-label">
-            iPHONE
-          </div>
+        <button type="button" class="btcbrave-login-social">
+          <span>Continue with Apple</span>
+        </button>
+      </form>
 
-          <form id="emailForm">
-            <!-- campo de email começa escondido -->
-            <div id="emailFieldWrapper" class="email-field-wrapper hidden-email">
-              <input
-                type="email"
-                id="subscriberEmail"
-                name="email"
-                placeholder="Enter your email."
-                required
-              />
-            </div>
-
-            <button type="submit" id="iphoneSubscribeBtn" class="btcbrave-small-btn">
-              Subscribe
-            </button>
-          </form>
-
-          <!-- Sininho escondido no início -->
-          <div id="emailSubscribedIcon" class="btcbrave-subscribed hidden-email" data-state="subscribed">
-            🔔 Subscribed
-          </div>
-        </div>
-
-      </div>
+      <p class="btcbrave-login-footnote">
+        By continuing, you agree to BTCBRAVE Terms of Use and Privacy Policy.
+      </p>
     </div>
   </div>
 
@@ -926,197 +851,83 @@
   </script>
 
   <script>
-  // Abrir painel automaticamente ao carregar a página
-  document.addEventListener("DOMContentLoaded", function () {
-    var alertsPanel = document.getElementById("alertsPanel");
-    if (alertsPanel) {
-      alertsPanel.style.display = "block";
-    }
-  });
-  </script>
-
-  <!-- SCRIPT 1: OneSignal (Android/Windows + botão flutuante + sino Android) -->
-  <script>
-  window.OneSignal = window.OneSignal || [];
-  OneSignal.push(function () {
-    OneSignal.init({
-      appId: "cf3f8e05-ec5c-45b3-90fc-6fe67ba31ec2",
-      safari_web_id: "",
-      notifyButton: {
-        enable: false
-      }
-    });
-
-    const floatBtn    = document.getElementById('floating-subscribe');
-    const alertsPanel = document.getElementById('alertsPanel');
-    const alertsClose = document.getElementById('alertsClose');
-
-    const androidPushBtn        = document.getElementById('androidPushBtn');
-    const androidSubscribedIcon = document.getElementById('androidSubscribedIcon');
-
-    if (floatBtn) {
-      // botão flutuante abre painel
-      floatBtn.addEventListener('click', function () {
-        if (alertsPanel) {
-          alertsPanel.style.display = 'block';
-        }
-      });
-    }
-
-    if (alertsClose && alertsPanel) {
-      alertsClose.addEventListener('click', function () {
-        alertsPanel.style.display = 'none';
-      });
-    }
-
-    // Sempre mostrar o botão flutuante
-    function updateButtonVisibility(isEnabled) {
-      if (floatBtn) {
-        floatBtn.style.display = 'flex';
-      }
-    }
-
-    OneSignal.isPushNotificationsEnabled(function (isEnabled) {
-      updateButtonVisibility(isEnabled);
-    });
-
-    OneSignal.on('subscriptionChange', function (isSubscribed) {
-      updateButtonVisibility(isSubscribed);
-    });
-
-    // ANDROID / WINDOWS – push + sininho
-    if (androidPushBtn && androidSubscribedIcon) {
-      androidPushBtn.addEventListener('click', function () {
-        if (window.OneSignal) {
-          OneSignal.isPushNotificationsEnabled(function (isEnabled) {
-            if (!isEnabled) {
-              OneSignal.registerForPushNotifications();
-            }
-            androidPushBtn.style.display = 'none';
-            androidSubscribedIcon.classList.remove('hidden-email');
-            androidSubscribedIcon.dataset.state = 'subscribed';
-            androidSubscribedIcon.textContent = '🔔 Subscribed';
-          });
-        }
-      });
-
-      androidSubscribedIcon.addEventListener('click', function () {
-        const state = androidSubscribedIcon.dataset.state || 'subscribed';
-
-        if (state === 'subscribed') {
-          androidSubscribedIcon.dataset.state = 'confirm';
-          androidSubscribedIcon.textContent = '🔔 Unsubscribe';
-          return;
-        }
-
-        // 2º clique: unsubscribe
-        if (window.OneSignal && OneSignal.setSubscription) {
-          OneSignal.setSubscription(false);
-        }
-
-        androidSubscribedIcon.classList.add('hidden-email');
-        androidSubscribedIcon.dataset.state = 'subscribed';
-        androidSubscribedIcon.textContent = '🔔 Subscribed';
-        androidPushBtn.style.display = 'block';
-      });
-    }
-  });
-  </script>
-
-  <!-- SCRIPT 2: iPhone (email / Brevo) separado do OneSignal -->
-  <script>
+  // POPUP LOGIN BTCBRAVE – só Brevo (email)
   document.addEventListener('DOMContentLoaded', function () {
-    const emailForm           = document.getElementById('emailForm');
-    const emailInput          = document.getElementById('subscriberEmail');
-    const emailFieldWrapper   = document.getElementById('emailFieldWrapper');
-    const emailSubscribedIcon = document.getElementById('emailSubscribedIcon');
-    const iphoneSubscribeBtn  = document.getElementById('iphoneSubscribeBtn');
+    const overlay  = document.getElementById('btcbraveLoginOverlay');
+    const closeBtn = document.getElementById('btcbraveLoginClose');
+    const form     = document.getElementById('btcbraveLoginForm');
+    const emailInp = document.getElementById('btcbraveLoginEmail');
 
-    let lastSubscribedEmail = null;
+    const floatBtn = document.getElementById('floating-subscribe');
+
+    function openLogin() {
+      if (!overlay) return;
+      overlay.style.display = 'flex';
+      if (emailInp) {
+        setTimeout(() => emailInp.focus(), 50);
+      }
+    }
+
+    function closeLogin() {
+      if (!overlay) return;
+      overlay.style.display = 'none';
+    }
+
+    // Abrir pelo botão flutuante
+    if (floatBtn) {
+      floatBtn.addEventListener('click', openLogin);
+    }
+
+    // Abrir automaticamente quando entrar no site
+    openLogin();
+
+    // Fechar no X
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closeLogin);
+    }
+
+    // Fechar clicando fora do card
+    if (overlay) {
+      overlay.addEventListener('click', function (e) {
+        if (e.target === overlay) {
+          closeLogin();
+        }
+      });
+    }
 
     function isValidEmail(email) {
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
     }
 
-    if (emailForm && emailInput && emailFieldWrapper && emailSubscribedIcon && iphoneSubscribeBtn) {
-      // 1º submit: mostra campo. 2º submit: envia.
-      emailForm.addEventListener('submit', function (e) {
+    if (form && emailInp) {
+      form.addEventListener('submit', function (e) {
         e.preventDefault();
+        const email = emailInp.value.trim();
 
-        // PRIMEIRO CLIQUE → só mostra a box
-        if (emailFieldWrapper.classList.contains('hidden-email')) {
-          emailFieldWrapper.classList.remove('hidden-email');
-          emailInput.focus();
-          return;
-        }
-
-        // SEGUNDO CLIQUE → envia
-        const email = emailInput.value.trim();
         if (!isValidEmail(email)) {
           alert('Please enter a valid email address.');
           return;
         }
 
-        lastSubscribedEmail = email;
-
-        // 👉 TROCAR ESSA URL PELO BACKEND/BREVO REAL
+        // 👉 TROCAR ESSA URL PELO ENDPOINT REAL (Brevo / backend)
         fetch('https://example.com/subscribe', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
           },
-          body: JSON.stringify({ email: email })
+          body: JSON.stringify({
+            email: email,
+            source: 'btcbrave_login_popup'
+          })
         })
-        .then(function (response) {
-          if (!response.ok) {
-            throw new Error('Network response was not ok');
-          }
-
-          // sucesso: some campo + botão, mostra sininho
-          emailInput.value = '';
-          emailFieldWrapper.classList.add('hidden-email');
-          iphoneSubscribeBtn.style.display = 'none';
-
-          emailSubscribedIcon.classList.remove('hidden-email');
-          emailSubscribedIcon.dataset.state = 'subscribed';
-          emailSubscribedIcon.textContent = '🔔 Subscribed';
+        .then(function (resp) {
+          if (!resp.ok) throw new Error('Network error');
+          alert('Thanks! You are now subscribed to BTCBRAVE alerts.');
+          emailInp.value = '';
+          closeLogin();
         })
         .catch(function () {
           alert('Something went wrong. Please try again later.');
-        });
-      });
-
-      // Sininho iPhone – Subscribed → Unsubscribe → volta
-      emailSubscribedIcon.addEventListener('click', function () {
-        const state = emailSubscribedIcon.dataset.state || 'subscribed';
-
-        if (state === 'subscribed') {
-          emailSubscribedIcon.dataset.state = 'confirm';
-          emailSubscribedIcon.textContent = '🔔 Unsubscribe';
-          return;
-        }
-
-        const emailToRemove = lastSubscribedEmail || emailInput.value.trim();
-
-        // 👉 TROCAR ESSA URL PELO BACKEND/BREVO REAL
-        fetch('https://example.com/unsubscribe', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({ email: emailToRemove })
-        })
-        .catch(function () {
-          // se der erro, ignora ou coloca alert depois
-        })
-        .finally(function () {
-          emailSubscribedIcon.classList.add('hidden-email');
-          emailSubscribedIcon.dataset.state = 'subscribed';
-          emailSubscribedIcon.textContent = '🔔 Subscribed';
-
-          iphoneSubscribeBtn.style.display = 'block';
-          emailFieldWrapper.classList.add('hidden-email');
-          emailInput.value = '';
         });
       });
     }
