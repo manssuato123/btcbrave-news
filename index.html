@@ -237,7 +237,6 @@
       border-radius: 18px;
       padding: 28px 22px 26px;
       border: 1px solid rgba(212, 175, 55, 0.4);
-      box-shadow: 0 30px 70px rgba(0,0,0,0.9);
     }
 
     .article-title {
@@ -352,55 +351,115 @@
         Get price moves, news alerts and updates directly in your inbox.
       </p>
 
-      <!-- FORM BREVO LIMPO DENTRO DO POPUP -->
-      <form
-        id="btcbraveLoginForm"
-        action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA=="
-        method="POST"
-        target="_blank"
-        novalidate
-      >
-        <label for="btcbraveLoginEmail" style="display:block; font-size:12px; font-weight:600; margin-bottom:4px; color:#374151;">
-          Email address
-        </label>
+      <!-- ===== BREVO FORM EMBED DENTRO DO POPUP ===== -->
+      <style>
+        #sib-container input::placeholder,
+        #sib-container textarea::placeholder {
+          text-align: left;
+          font-family: Helvetica, sans-serif;
+          color: #c0ccda;
+        }
+        #sib-container a {
+          text-decoration: underline;
+          color: #2BB2FC;
+        }
+      </style>
+      <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
 
-        <input
-          type="email"
-          id="btcbraveLoginEmail"
-          name="EMAIL"
-          placeholder="Enter your email"
-          required
-          style="
-            width:100%;
-            padding:10px;
-            border-radius:6px;
-            border:1px solid #d1d5db;
-            font-size:14px;
-            box-sizing:border-box;
-          "
-        />
+      <div class="sib-form" style="text-align:center; background-color:transparent;">
+        <div id="sib-form-container" class="sib-form-container">
 
-        <button
-          type="submit"
-          style="
-            width:100%;
-            margin-top:10px;
-            padding:10px 0;
-            border-radius:999px;
-            border:none;
-            background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-            color:#ffffff;
-            font-size:14px;
-            font-weight:700;
-            cursor:pointer;
-          "
-        >
-          Continue
-        </button>
+          <div id="error-message" class="sib-form-message-panel"
+               style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif;
+                      color:#661d1d; background-color:#ffeded; border-radius:3px;
+                      border-color:#ff4949; max-width:540px; margin:0 auto 8px; display:none;">
+            <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+              <span class="sib-form-message-panel__inner-text">
+                Your subscription could not be saved. Please try again.
+              </span>
+            </div>
+          </div>
 
-        <input type="text" name="email_address_check" value="" style="display:none;">
-        <input type="hidden" name="locale" value="en">
-      </form>
+          <div id="success-message" class="sib-form-message-panel"
+               style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif;
+                      color:#085229; background-color:#e7faf0; border-radius:3px;
+                      border-color:#13ce66; max-width:540px; margin:0 auto 8px; display:none;">
+            <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+              <span class="sib-form-message-panel__inner-text">
+                Your subscription has been successful.
+              </span>
+            </div>
+          </div>
+
+          <div id="sib-container" class="sib-container--large sib-container--vertical"
+               style="text-align:center; background-color:#ffffff; max-width:540px;
+                      border-radius:6px; border-width:1px; border-color:#C0CCD9;
+                      border-style:solid; direction:ltr; margin:0 auto;">
+            <form id="sib-form" method="POST"
+                  action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA=="
+                  data-type="subscription">
+              <div style="padding: 8px 16px 4px;">
+                <div class="sib-input sib-form-block">
+                  <div class="form__entry entry_block">
+                    <div class="entry__field">
+                      <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off"
+                             placeholder="EMAIL" data-required="true" required
+                             style="width:100%; border-radius:6px;"/>
+                    </div>
+
+                    <label class="entry__error entry__error--primary"
+                           style="font-size:12px; text-align:left; font-family:Helvetica, sans-serif;
+                                  color:#661d1d; background-color:#ffeded; border-radius:3px;
+                                  border-color:#ff4949; display:none;"></label>
+
+                    <label class="entry__specification"
+                           style="font-size:11px; text-align:left; font-family:Helvetica, sans-serif;
+                                  color:#8390A4; text-align:left">
+                      Provide your email address to subscribe. For e.g abc@xyz.com
+                    </label>
+                  </div>
+                </div>
+              </div>
+
+              <div style="padding: 4px 16px 12px;">
+                <button class="sib-form-block__button sib-form-block__button-with-loader"
+                        style="width:100%; font-size:14px; text-align:center; font-weight:700;
+                               font-family:Helvetica, sans-serif; color:#FFFFFF;
+                               background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
+                               border-radius:999px; border-width:0px; padding:10px 0; cursor:pointer;"
+                        form="sib-form" type="submit">
+                  SUBSCRIBE
+                </button>
+              </div>
+
+              <input type="text" name="email_address_check" value="" class="input--hidden">
+              <input type="hidden" name="locale" value="en">
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <script>
+        window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+        window.LOCALE = 'en';
+        window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE =
+          "The information provided is invalid. Please review the field format and try again.";
+        window.REQUIRED_ERROR_MESSAGE =
+          "This field cannot be left blank. ";
+        window.GENERIC_INVALID_MESSAGE =
+          "The information provided is invalid. Please review the field format and try again.";
+        window.translation = {
+          common: {
+            selectedList: '{quantity} list selected',
+            selectedLists: '{quantity} lists selected',
+            selectedOption: '{quantity} selected',
+            selectedOptions: '{quantity} selected',
+          }
+        };
+        var AUTOHIDE = Boolean(1);
+      </script>
+      <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+      <!-- ===== FIM BREVO FORM ===== -->
 
       <p class="btcbrave-login-footnote">
         By continuing, you agree to BTCBRAVE Terms of Use and Privacy Policy.
@@ -410,7 +469,6 @@
 
   <header>
     <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
-
       <div style="display:flex; align-items:center; gap:10px;">
         <div class="logo-badge" 
              style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
@@ -475,7 +533,6 @@
         <span>🔔</span>
         <span>Get BRAVE alerts</span>
       </div>
-
     </nav>
   </header>
 
@@ -521,8 +578,8 @@
     lastScrollY = window.scrollY;
 
     const externalUrl = card.getAttribute('data-url');
-
     const full = card.getAttribute('data-full');
+
     if (externalUrl && !full) {
       window.location.href = externalUrl;
       return;
@@ -636,10 +693,7 @@
         return 'crypto';
       }
 
-      if (
-        host.includes('gamespot') ||
-        host.includes('polygon')
-      ) {
+      if (host.includes('gamespot') || host.includes('polygon')) {
         return 'games';
       }
 
@@ -767,11 +821,7 @@
     const cards = document.querySelectorAll('.grid .card');
     cards.forEach(card => {
       const cat = card.dataset.category || 'other';
-      if (filter === 'all' || filter === cat) {
-        card.style.display = '';
-      } else {
-        card.style.display = 'none';
-      }
+      card.style.display = (filter === 'all' || filter === cat) ? '' : 'none';
     });
   }
 
