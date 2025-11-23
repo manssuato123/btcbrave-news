@@ -778,12 +778,14 @@
   setInterval(loadAllNews, 86400000);
   </script>
 
-  <script>
-    // POPUP LOGIN BTCBRAVE – abre/fecha, Brevo cuida do submit
-    document.addEventListener('DOMContentLoaded', function () {
-    const overlay  = document.getElementById('btcbraveLoginOverlay');
-    const closeBtn = document.getElementById('btcbraveLoginClose');
-    const floatBtn = document.getElementById('floating-subscribe');
+    <script>
+  // POPUP LOGIN BTCBRAVE – abre/fecha, marca quando já se inscreveu
+  document.addEventListener('DOMContentLoaded', function () {
+    const overlay   = document.getElementById('btcbraveLoginOverlay');
+    const closeBtn  = document.getElementById('btcbraveLoginClose');
+    const floatBtn  = document.getElementById('floating-subscribe');
+    const form      = document.getElementById('btcbraveLoginForm');
+    const emailInput= document.getElementById('btcbraveLoginEmail');
 
     function openLogin() {
       if (!overlay) return;
@@ -795,16 +797,15 @@
       overlay.style.display = 'none';
     }
 
-    // Botão “Get BRAVE alerts”
+    // Botão “Get BRAVE alerts” SEMPRE abre o popup
     if (floatBtn) {
       floatBtn.addEventListener('click', openLogin);
     }
 
-    // 🔔 Abrir automaticamente só na primeira visita
-    const alreadySeen = localStorage.getItem('btcbrave_popup_seen');
-    if (!alreadySeen) {
+    // Se AINDA NÃO se inscreveu, abre automaticamente na primeira vez
+    const alreadySubscribed = localStorage.getItem('btcbrave_subscribed') === '1';
+    if (!alreadySubscribed) {
       openLogin();
-      localStorage.setItem('btcbrave_popup_seen', '1');
     }
 
     // Fechar no X
@@ -820,8 +821,32 @@
         }
       });
     }
-  });
 
+    // Validação + marcar como inscrito quando enviar o formulário
+    function isValidEmail(email) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+    }
+
+    if (form && emailInput) {
+      form.addEventListener('submit', function (e) {
+        const email = emailInput.value.trim();
+
+        // Se email for inválido, não deixa enviar
+        if (!isValidEmail(email)) {
+          e.preventDefault();
+          alert('Please enter a valid email address.');
+          return;
+        }
+
+        // Marca como inscrito no navegador
+        localStorage.setItem('btcbrave_subscribed', '1');
+
+        // Mensagem amigável (Brevo continua abrindo a página dela normal)
+        alert('Subscribed! Please check your inbox to confirm.');
+      });
+    }
+  });
+  </script>
 
     function isValidEmail(email) {
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
