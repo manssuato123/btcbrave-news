@@ -935,8 +935,8 @@
   });
   </script>
 
+  <!-- SCRIPT 1: OneSignal (Android/Windows + botão flutuante + sino Android) -->
   <script>
-  // OneSignal + painel Android / iPhone / Email (Brevo via backend depois)
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function () {
     OneSignal.init({
@@ -947,26 +947,33 @@
       }
     });
 
-    const floatBtn       = document.getElementById('floating-subscribe');
-    const alertsPanel    = document.getElementById('alertsPanel');
-    const alertsClose    = document.getElementById('alertsClose');
-    const androidPushBtn = document.getElementById('androidPushBtn');
+    const floatBtn    = document.getElementById('floating-subscribe');
+    const alertsPanel = document.getElementById('alertsPanel');
+    const alertsClose = document.getElementById('alertsClose');
 
-    const emailForm         = document.getElementById('emailForm');
-    const emailInput        = document.getElementById('subscriberEmail');
-    const emailFieldWrapper = document.getElementById('emailFieldWrapper');
-
+    const androidPushBtn        = document.getElementById('androidPushBtn');
     const androidSubscribedIcon = document.getElementById('androidSubscribedIcon');
-    const emailSubscribedIcon   = document.getElementById('emailSubscribedIcon');
-    const iphoneSubscribeBtn    = document.getElementById('iphoneSubscribeBtn');
 
-    let lastSubscribedEmail = null; // guardamos o email para o unsubscribe
+    if (floatBtn) {
+      // botão flutuante abre painel
+      floatBtn.addEventListener('click', function () {
+        if (alertsPanel) {
+          alertsPanel.style.display = 'block';
+        }
+      });
+    }
 
-    if (!floatBtn) return;
+    if (alertsClose && alertsPanel) {
+      alertsClose.addEventListener('click', function () {
+        alertsPanel.style.display = 'none';
+      });
+    }
 
-    // Agora o botão NUNCA some: sempre fica visível
+    // Sempre mostrar o botão flutuante
     function updateButtonVisibility(isEnabled) {
-      floatBtn.style.display = 'flex';
+      if (floatBtn) {
+        floatBtn.style.display = 'flex';
+      }
     }
 
     OneSignal.isPushNotificationsEnabled(function (isEnabled) {
@@ -977,26 +984,7 @@
       updateButtonVisibility(isSubscribed);
     });
 
-    // Abre painel quando clicar no botão flutuante
-    floatBtn.addEventListener('click', function () {
-      if (alertsPanel) {
-        alertsPanel.style.display = 'block';
-      }
-    });
-
-    // Fecha painel
-    if (alertsClose && alertsPanel) {
-      alertsClose.addEventListener('click', function () {
-        alertsPanel.style.display = 'none';
-      });
-    }
-
-    // Validação simples de email
-    function isValidEmail(email) {
-      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-    }
-
-    // ANDROID / WINDOWS – só push, depois vira sininho
+    // ANDROID / WINDOWS – push + sininho
     if (androidPushBtn && androidSubscribedIcon) {
       androidPushBtn.addEventListener('click', function () {
         if (window.OneSignal) {
@@ -1004,7 +992,6 @@
             if (!isEnabled) {
               OneSignal.registerForPushNotifications();
             }
-            // Atualiza UI para "Subscribed"
             androidPushBtn.style.display = 'none';
             androidSubscribedIcon.classList.remove('hidden-email');
             androidSubscribedIcon.dataset.state = 'subscribed';
@@ -1013,42 +1000,57 @@
         }
       });
 
-      // Clique no sininho Android: Subscribed -> Unsubscribe -> volta
       androidSubscribedIcon.addEventListener('click', function () {
         const state = androidSubscribedIcon.dataset.state || 'subscribed';
 
         if (state === 'subscribed') {
-          // 1º clique: só muda o texto
           androidSubscribedIcon.dataset.state = 'confirm';
           androidSubscribedIcon.textContent = '🔔 Unsubscribe';
           return;
         }
 
-        // 2º clique: realmente desinscreve
+        // 2º clique: unsubscribe
         if (window.OneSignal && OneSignal.setSubscription) {
           OneSignal.setSubscription(false);
         }
 
-        // volta ao estado inicial
         androidSubscribedIcon.classList.add('hidden-email');
         androidSubscribedIcon.dataset.state = 'subscribed';
         androidSubscribedIcon.textContent = '🔔 Subscribed';
         androidPushBtn.style.display = 'block';
       });
     }
+  });
+  </script>
 
-    // iPHONE – 1º submit mostra o campo, 2º envia, depois vira sininho
+  <!-- SCRIPT 2: iPhone (email / Brevo) separado do OneSignal -->
+  <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const emailForm           = document.getElementById('emailForm');
+    const emailInput          = document.getElementById('subscriberEmail');
+    const emailFieldWrapper   = document.getElementById('emailFieldWrapper');
+    const emailSubscribedIcon = document.getElementById('emailSubscribedIcon');
+    const iphoneSubscribeBtn  = document.getElementById('iphoneSubscribeBtn');
+
+    let lastSubscribedEmail = null;
+
+    function isValidEmail(email) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+    }
+
     if (emailForm && emailInput && emailFieldWrapper && emailSubscribedIcon && iphoneSubscribeBtn) {
+      // 1º submit: mostra campo. 2º submit: envia.
       emailForm.addEventListener('submit', function (e) {
         e.preventDefault();
 
-        // se o campo ainda está escondido, só mostra e não envia
+        // PRIMEIRO CLIQUE → só mostra a box
         if (emailFieldWrapper.classList.contains('hidden-email')) {
           emailFieldWrapper.classList.remove('hidden-email');
           emailInput.focus();
           return;
         }
 
+        // SEGUNDO CLIQUE → envia
         const email = emailInput.value.trim();
         if (!isValidEmail(email)) {
           alert('Please enter a valid email address.');
@@ -1057,7 +1059,7 @@
 
         lastSubscribedEmail = email;
 
-        // 👉 TROCAR ESSA URL pelo endpoint real do seu backend/Brevo
+        // 👉 TROCAR ESSA URL PELO BACKEND/BREVO REAL
         fetch('https://example.com/subscribe', {
           method: 'POST',
           headers: {
@@ -1070,10 +1072,11 @@
             throw new Error('Network response was not ok');
           }
 
-          // sucesso: some botão + campo, mostra sininho
+          // sucesso: some campo + botão, mostra sininho
           emailInput.value = '';
           emailFieldWrapper.classList.add('hidden-email');
           iphoneSubscribeBtn.style.display = 'none';
+
           emailSubscribedIcon.classList.remove('hidden-email');
           emailSubscribedIcon.dataset.state = 'subscribed';
           emailSubscribedIcon.textContent = '🔔 Subscribed';
@@ -1083,20 +1086,19 @@
         });
       });
 
-      // Clique no sininho iPhone: Subscribed -> Unsubscribe -> volta
+      // Sininho iPhone – Subscribed → Unsubscribe → volta
       emailSubscribedIcon.addEventListener('click', function () {
         const state = emailSubscribedIcon.dataset.state || 'subscribed';
 
         if (state === 'subscribed') {
-          // 1º clique: mostra "Unsubscribe"
           emailSubscribedIcon.dataset.state = 'confirm';
           emailSubscribedIcon.textContent = '🔔 Unsubscribe';
           return;
         }
 
-        // 2º clique: UNSUBSCRIBE via backend/Brevo
         const emailToRemove = lastSubscribedEmail || emailInput.value.trim();
 
+        // 👉 TROCAR ESSA URL PELO BACKEND/BREVO REAL
         fetch('https://example.com/unsubscribe', {
           method: 'POST',
           headers: {
@@ -1105,10 +1107,9 @@
           body: JSON.stringify({ email: emailToRemove })
         })
         .catch(function () {
-          // se der erro, só ignora ou poderia colocar um alert
+          // se der erro, ignora ou coloca alert depois
         })
         .finally(function () {
-          // volta pro estado inicial
           emailSubscribedIcon.classList.add('hidden-email');
           emailSubscribedIcon.dataset.state = 'subscribed';
           emailSubscribedIcon.textContent = '🔔 Subscribed';
