@@ -352,7 +352,6 @@
         Get price moves, news alerts and updates directly in your inbox.
       </p>
 
-      <!-- FORM BREVO LIMPO DENTRO DO POPUP -->
       <form
         id="btcbraveLoginForm"
         action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA=="
@@ -779,54 +778,50 @@
   </script>
 
   <script>
-document.addEventListener('DOMContentLoaded', function () {
-  const overlay  = document.getElementById('btcbraveLoginOverlay');
-  const closeBtn = document.getElementById('btcbraveLoginClose');
-  const floatBtn = document.getElementById('floating-subscribe');
+  // LÓGICA DO POPUP + SUBSCRIBE (localStorage + alerta)
+  document.addEventListener('DOMContentLoaded', function () {
+    const overlay  = document.getElementById('btcbraveLoginOverlay');
+    const closeBtn = document.getElementById('btcbraveLoginClose');
+    const floatBtn = document.getElementById('floating-subscribe');
+    const form     = document.getElementById('btcbraveLoginForm');
+    const emailInp = document.getElementById('btcbraveLoginEmail');
 
-  if (!overlay) return;
+    if (!overlay) return;
 
-  function openLogin() {
-    overlay.style.display = 'flex';
-  }
-
-  function closeLogin() {
-    overlay.style.display = 'none';
-    localStorage.setItem('btcbraveSubscribed', 'true');
-  }
-
-  // Só abre se ainda NÃO estiver inscrito
-  if (!localStorage.getItem('btcbraveSubscribed')) {
-    setTimeout(openLogin, 1500);
-  }
-
-  if (floatBtn) {
-    floatBtn.addEventListener('click', function() {
-      localStorage.removeItem('btcbraveSubscribed');
-      openLogin();
-    });
-  }
-
-  if (closeBtn) {
-    closeBtn.addEventListener('click', closeLogin);
-  }
-
-  overlay.addEventListener('click', function (e) {
-    if (e.target === overlay) {
-      closeLogin();
+    function openLogin() {
+      overlay.style.display = 'flex';
     }
-  });
 
-  document.getElementById('btcbraveLoginForm')?.addEventListener('submit', function() {
-    localStorage.setItem('btcbraveSubscribed', 'true');
-    setTimeout(closeLogin, 1000);
-  });
-});
-</script>
+    function closeLogin() {
+      overlay.style.display = 'none';
+    }
 
     function isValidEmail(email) {
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
     }
+
+    const isSubscribed = localStorage.getItem('btcbraveSubscribed') === 'true';
+
+    // Só abre automaticamente se ainda NÃO estiver inscrito
+    if (!isSubscribed) {
+      setTimeout(openLogin, 1500);
+    }
+
+    if (floatBtn) {
+      floatBtn.addEventListener('click', function () {
+        openLogin();
+      });
+    }
+
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closeLogin);
+    }
+
+    overlay.addEventListener('click', function (e) {
+      if (e.target === overlay) {
+        closeLogin();
+      }
+    });
 
     if (form && emailInp) {
       form.addEventListener('submit', function (e) {
@@ -838,11 +833,13 @@ document.addEventListener('DOMContentLoaded', function () {
           return;
         }
 
-        // Deixa enviar para a Brevo no iframe escondido
-        setTimeout(() => {
+        // Marca como inscrito e deixa o formulário ir para a Brevo (no iframe oculto)
+        localStorage.setItem('btcbraveSubscribed', 'true');
+
+        setTimeout(function () {
           alert('Subscribed! Please check your inbox to confirm.');
           closeLogin();
-        }, 1500);
+        }, 800);
       });
     }
   });
