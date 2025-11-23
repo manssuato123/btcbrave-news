@@ -135,20 +135,25 @@
       .grid {
         grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
       }
+      /* No mobile todas voltam a ocupar 1 coluna */
+      .grid > .card {
+        grid-column: span 1 !important;
+      }
     }
 
-    .grid > .card:not(.hero) {
-      min-height: 220px;
-    }
-
-    .grid > .card:not(.hero):nth-child(4n+1),
-    .grid > .card:not(.hero):nth-child(4n+2),
-    .grid > .card:not(.hero):nth-child(4n+3) {
+    /* Altura padrão para todas as boxes */
+    .grid > .card {
       min-height: 240px;
     }
 
-    .grid > .card:not(.hero):nth-child(4n+4) {
-      min-height: 320px;
+    /* BOX GRANDES (largura 2x)
+       Padrão se repete a cada 15 cards (3 linhas):
+       - 1º da 1ª linha (15n+1)
+       - 3º da 3ª linha (15n+13)
+    */
+    .grid > .card:nth-child(15n + 1),
+    .grid > .card:nth-child(15n + 13) {
+      grid-column: span 2;
     }
 
     .card {
@@ -505,7 +510,6 @@
 
   <div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
 
-  <!-- AQUI É A ÚNICA MUDANÇA: ADICIONEI btcbrave-grid -->
   <div class="btcbrave-grid grid"></div>
 
   <script>
@@ -672,6 +676,18 @@
     return d;
   }
 
+  // Detecta se o item é da BBC (pra mandar pra primeira box)
+  function isBbcItem(item) {
+    if (!item || !item.link) return false;
+    try {
+      const u = new URL(item.link);
+      const host = u.hostname.replace('www.', '').toLowerCase();
+      return host.includes('bbc');
+    } catch (e) {
+      return false;
+    }
+  }
+
   async function loadAllNews() {
     if (loading) loading.style.display = 'block';
 
@@ -695,16 +711,25 @@
         items = items.concat(blogItems);
       }
 
+      // só o que já foi publicado
       items = items.filter(it => {
         const d = parseDate(it.pubDate);
         return d <= now;
       });
 
+      // ordena do mais novo pro mais antigo
       items.sort((a, b) => {
         const da = parseDate(b.pubDate).getTime();
         const db = parseDate(a.pubDate).getTime();
         return da - db;
       });
+
+      // BBC mais nova vai pra primeira posição (primeira box, que é grande)
+      const bbcIndex = items.findIndex(isBbcItem);
+      if (bbcIndex > 0) {
+        const [bbcItem] = items.splice(bbcIndex, 1);
+        items.unshift(bbcItem);
+      }
 
       grid.innerHTML = '';
 
