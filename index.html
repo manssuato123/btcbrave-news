@@ -334,59 +334,6 @@
       color: #4b5563;
     }
 
-    .btcbrave-login-label {
-      display: block;
-      font-size: 12px;
-      font-weight: 600;
-      margin-bottom: 4px;
-      color: #374151;
-    }
-
-    #btcbraveLoginEmail {
-      width: 100%;
-      padding: 8px 10px;
-      border-radius: 4px;
-      border: 1px solid #d1d5db;
-      font-size: 14px;
-      outline: none;
-      box-sizing: border-box;
-    }
-
-    #btcbraveLoginEmail:focus {
-      border-color: #111827;
-    }
-
-    .btcbrave-login-primary {
-      width: 100%;
-      margin-top: 10px;
-      padding: 9px 0;
-      background: #111827;
-      color: #ffffff;
-      border-radius: 4px;
-      border: none;
-      font-size: 14px;
-      font-weight: 600;
-      cursor: pointer;
-    }
-
-    .btcbrave-login-or {
-      text-align: center;
-      font-size: 11px;
-      color: #6b7280;
-      margin: 14px 0 10px;
-    }
-
-    .btcbrave-login-social {
-      width: 100%;
-      padding: 8px 0;
-      border-radius: 4px;
-      border: 1px solid #d1d5db;
-      background: #ffffff;
-      font-size: 13px;
-      cursor: pointer;
-      margin-bottom: 8px;
-    }
-
     .btcbrave-login-footnote {
       margin: 8px 0 0;
       font-size: 11px;
@@ -407,37 +354,16 @@
         Get price moves, news alerts and updates directly in your inbox.
       </p>
 
-      <!-- 🔗 FORM AGORA APONTA DIRETO PARA A BREVO (action oficial) -->
-      <form
-        id="btcbraveLoginForm"
-        action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA=="
-        method="POST"
-        target="_blank"
-        novalidate
-      >
-        <label for="btcbraveLoginEmail" class="btcbrave-login-label">Email address</label>
-        <input
-          type="email"
-          id="btcbraveLoginEmail"
-          name="email"
-          placeholder="Enter your email"
-          required
-        />
-
-        <button type="submit" class="btcbrave-login-primary">
-          Continue
-        </button>
-
-        <div class="btcbrave-login-or">or</div>
-
-        <button type="button" class="btcbrave-login-social">
-          <span>Continue with Google</span>
-        </button>
-
-        <button type="button" class="btcbrave-login-social">
-          <span>Continue with Apple</span>
-        </button>
+      <!-- ============================
+           COLE AQUI O FORMULÁRIO COMPLETO DA BREVO
+           (BTCBRAVE News – aquele HTML grande que a Brevo gerou)
+           ============================ -->
+      <!-- EXEMPLO:
+      <form ...>
+        ...código original da Brevo...
       </form>
+      -->
+      <!-- ============================ -->
 
       <p class="btcbrave-login-footnote">
         By continuing, you agree to BTCBRAVE Terms of Use and Privacy Policy.
@@ -450,8 +376,6 @@
 
       <!-- LINHA 1: BORBOLETA + BTCBRAVE NEWS -->
       <div style="display:flex; align-items:center; gap:10px;">
-        
-        <!-- BORBOLETA 40PX -->
         <div class="logo-badge" 
              style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
                     display:flex; align-items:center; justify-content:center; padding:0;">
@@ -461,7 +385,6 @@
                       object-position:center; background:var(--bg-main);" />
         </div>
 
-        <!-- BTCBRAVE NEWS -->
         <span style="
             background: linear-gradient(90deg,#1d4ed8,#7c3aed,#ec4899,#f59e0b);
             -webkit-background-clip: text;
@@ -471,10 +394,8 @@
             text-shadow: 0 0 6px rgba(255,255,255,0.2);">
           BTCBRAVE News
         </span>
-
       </div>
 
-      <!-- LINHA 2: EMAIL EMBAIXO -->
       <a href="mailto:news@btcbrave.store"
          style="
            margin-left:80px;
@@ -491,7 +412,6 @@
 
     </div>
 
-    <!-- LOGO DA DIREITA -->
     <nav style="display:flex; flex-direction:column; align-items:center;">
       <a href="https://btcbrave.store" target="_blank" rel="noopener noreferrer">
         <img src="btcbrave.png" 
@@ -499,7 +419,6 @@
              style="width:30px; height:30px; object-fit:cover; border-radius:50%; cursor:pointer;" />
       </a>
 
-      <!-- TEXTO EMBAIXO DO LOGO -->
       <span style="
           font-size:10px;
           color:var(--text-muted);
@@ -508,7 +427,6 @@
         BTCBRAVE
       </span>
 
-      <!-- BOTÃO DE ALERTAS EMBAIXO DO LOGO -->
       <div id="floating-subscribe" 
            style="
               margin-top:6px;
@@ -564,19 +482,16 @@
     const card = event.target.closest('.card');
     if (!card) return;
 
-    // Guarda a posição atual da tela antes de abrir a notícia
     lastScrollY = window.scrollY;
 
     const externalUrl = card.getAttribute('data-url');
 
-    // Se tiver URL externa e NÃO tiver fullText -> abre o site original
     const full = card.getAttribute('data-full');
     if (externalUrl && !full) {
       window.location.href = externalUrl;
       return;
     }
 
-    // Se tiver fullText ou descrição -> abre dentro do site
     const title = card.querySelector('.title')?.innerHTML || '';
     const desc  = card.querySelector('.desc')?.innerHTML || '';
 
@@ -616,7 +531,6 @@
   const grid = document.querySelector('.grid');
   const loading = document.getElementById('loadingNews');
 
-  // URL do seu blog no GitHub Pages
   const BLOG_POSTS_URL = "https://blog.btcbrave.store/posts.json";
 
   function getSourceName(url) {
@@ -626,7 +540,6 @@
       const u = new URL(url);
       const host = u.hostname.replace('www.', '').toLowerCase();
 
-      // CRYPTO / FINANCE / BUSINESS
       if (host.includes('cointelegraph'))  return 'Cointelegraph';
       if (host.includes('cryptonews'))     return 'CryptoNews';
       if (host.includes('coindesk'))       return 'CoinDesk';
@@ -639,9 +552,8 @@
       if (host.includes('cnbc'))           return 'CNBC';
       if (host.includes('forbes'))         return 'Forbes';
 
-      // WORLD NEWS / GERAL
       if (host.includes('bbc'))            return 'BBC News';
-      if (host.includes('cnn'))           return 'CNN';
+      if (host.includes('cnn'))            return 'CNN';
       if (host.includes('reuters'))        return 'Reuters';
       if (host.includes('aljazeera'))      return 'Al Jazeera';
       if (host.includes('msn'))            return 'MSN News';
@@ -649,16 +561,13 @@
       if (host.includes('nytimes'))        return 'The New York Times';
       if (host.includes('washingtonpost')) return 'The Washington Post';
 
-      // GAMES
       if (host.includes('gamespot'))       return 'GameSpot';
       if (host.includes('polygon'))        return 'Polygon';
 
-      // FOOD
       if (host.includes('allrecipes'))     return 'AllRecipes';
       if (host.includes('thespruceeats'))  return 'The Spruce Eats';
       if (host.includes('bonappetit'))     return 'Bon Appétit';
 
-      // BTCBRAVE Blog
       if (host.includes('blog.btcbrave.store')) {
         return 'BTCBRAVE Blog';
       }
@@ -675,7 +584,6 @@
       const u = new URL(url);
       const host = u.hostname.replace('www.', '').toLowerCase();
 
-      // Crypto / Finance
       if (
         host.includes('cointelegraph')  ||
         host.includes('cryptonews')     ||
@@ -692,7 +600,6 @@
         return 'crypto';
       }
 
-      // Games
       if (
         host.includes('gamespot') ||
         host.includes('polygon')
@@ -700,7 +607,6 @@
         return 'games';
       }
 
-      // Food 🍽️
       if (
         host.includes('bonappetit')   ||
         host.includes('thespruceeats')||
@@ -709,7 +615,6 @@
         return 'food';
       }
 
-      // World / War news
       if (
         host.includes('reuters')       ||
         host.includes('bbc')           ||
@@ -723,7 +628,6 @@
         return 'world';
       }
 
-      // BTCBRAVE Blog
       if (host.includes('blog.btcbrave.store')) {
         return 'blog';
       }
@@ -764,13 +668,11 @@
         items = items.concat(blogItems);
       }
 
-      // Remove posts com data no futuro
       items = items.filter(it => {
         const d = parseDate(it.pubDate);
         return d <= now;
       });
 
-      // Ordena (mais recente primeiro)
       items.sort((a, b) => {
         const da = parseDate(b.pubDate).getTime();
         const db = parseDate(a.pubDate).getTime();
@@ -852,27 +754,20 @@
     });
   }
 
-  // Carrega na abertura e atualiza a cada 24h
   loadAllNews();
   setInterval(loadAllNews, 86400000);
   </script>
 
   <script>
-  // POPUP LOGIN BTCBRAVE – integração Brevo (email)
+  // POPUP LOGIN BTCBRAVE – só abre/fecha, Brevo cuida do submit
   document.addEventListener('DOMContentLoaded', function () {
     const overlay  = document.getElementById('btcbraveLoginOverlay');
     const closeBtn = document.getElementById('btcbraveLoginClose');
-    const form     = document.getElementById('btcbraveLoginForm');
-    const emailInp = document.getElementById('btcbraveLoginEmail');
-
     const floatBtn = document.getElementById('floating-subscribe');
 
     function openLogin() {
       if (!overlay) return;
       overlay.style.display = 'flex';
-      if (emailInp) {
-        setTimeout(() => emailInp.focus(), 50);
-      }
     }
 
     function closeLogin() {
@@ -880,7 +775,6 @@
       overlay.style.display = 'none';
     }
 
-    // Abrir pelo botão flutuante
     if (floatBtn) {
       floatBtn.addEventListener('click', openLogin);
     }
@@ -888,37 +782,15 @@
     // Abrir automaticamente quando entrar no site
     openLogin();
 
-    // Fechar no X
     if (closeBtn) {
       closeBtn.addEventListener('click', closeLogin);
     }
 
-    // Fechar clicando fora do card
     if (overlay) {
       overlay.addEventListener('click', function (e) {
         if (e.target === overlay) {
           closeLogin();
         }
-      });
-    }
-
-    function isValidEmail(email) {
-      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-    }
-
-    // Validação simples antes de enviar para a Brevo
-    if (form && emailInp) {
-      form.addEventListener('submit', function (e) {
-        const email = emailInp.value.trim();
-
-        if (!isValidEmail(email)) {
-          e.preventDefault();
-          alert('Please enter a valid email address.');
-          return;
-        }
-
-        // Se for válido, o navegador envia direto para o endpoint da Brevo (action do form)
-        // e a Brevo mostra a página de confirmação/sucesso.
       });
     }
   });
