@@ -784,7 +784,7 @@
   setInterval(loadAllNews, 86400000);
   </script>
 
-  <script>
+<script>
   // LÓGICA DO POPUP + SUBSCRIBE (localStorage + alerta)
   document.addEventListener('DOMContentLoaded', function () {
     const overlay  = document.getElementById('btcbraveLoginOverlay');
@@ -814,9 +814,23 @@
       setTimeout(openLogin, 1500);
     }
 
+    // Clique no sininho
     if (floatBtn) {
       floatBtn.addEventListener('click', function () {
-        openLogin();
+        // Se JÁ estiver inscrito, oferece unsubscribe
+        if (localStorage.getItem('btcbraveSubscribed') === 'true') {
+          const confirmUnsub = confirm(
+            "You are already subscribed.\nDo you want to unsubscribe?"
+          );
+
+          if (confirmUnsub) {
+            localStorage.removeItem('btcbraveSubscribed');
+            alert('You are now unsubscribed.');
+          }
+        } else {
+          // Se NÃO estiver inscrito, abre o popup
+          openLogin();
+        }
       });
     }
 
@@ -850,7 +864,4 @@
       });
     }
   });
-  </script>
-
-</body>
-</html>
+</script>
