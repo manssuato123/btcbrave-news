@@ -397,7 +397,7 @@
 </head>
 <body>
 
-  <!-- POPUP LOGIN / SUBSCRIBE BTCBRAVE (só Brevo) -->
+  <!-- POPUP LOGIN / SUBSCRIBE BTCBRAVE (Brevo) -->
   <div id="btcbraveLoginOverlay" class="btcbrave-login-overlay" style="display:none;">
     <div class="btcbrave-login-card">
       <button id="btcbraveLoginClose" class="btcbrave-login-close">×</button>
@@ -407,7 +407,14 @@
         Get price moves, news alerts and updates directly in your inbox.
       </p>
 
-      <form id="btcbraveLoginForm">
+      <!-- 🔗 FORM AGORA APONTA DIRETO PARA A BREVO (action oficial) -->
+      <form
+        id="btcbraveLoginForm"
+        action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA=="
+        method="POST"
+        target="_blank"
+        novalidate
+      >
         <label for="btcbraveLoginEmail" class="btcbrave-login-label">Email address</label>
         <input
           type="email"
@@ -851,7 +858,7 @@
   </script>
 
   <script>
-  // POPUP LOGIN BTCBRAVE – só Brevo (email)
+  // POPUP LOGIN BTCBRAVE – integração Brevo (email)
   document.addEventListener('DOMContentLoaded', function () {
     const overlay  = document.getElementById('btcbraveLoginOverlay');
     const closeBtn = document.getElementById('btcbraveLoginClose');
@@ -899,36 +906,19 @@
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
     }
 
+    // Validação simples antes de enviar para a Brevo
     if (form && emailInp) {
       form.addEventListener('submit', function (e) {
-        e.preventDefault();
         const email = emailInp.value.trim();
 
         if (!isValidEmail(email)) {
+          e.preventDefault();
           alert('Please enter a valid email address.');
           return;
         }
 
-        // 👉 TROCAR ESSA URL PELO ENDPOINT REAL (Brevo / backend)
-        fetch('https://example.com/subscribe', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            email: email,
-            source: 'btcbrave_login_popup'
-          })
-        })
-        .then(function (resp) {
-          if (!resp.ok) throw new Error('Network error');
-          alert('Thanks! You are now subscribed to BTCBRAVE alerts.');
-          emailInp.value = '';
-          closeLogin();
-        })
-        .catch(function () {
-          alert('Something went wrong. Please try again later.');
-        });
+        // Se for válido, o navegador envia direto para o endpoint da Brevo (action do form)
+        // e a Brevo mostra a página de confirmação/sucesso.
       });
     }
   });
