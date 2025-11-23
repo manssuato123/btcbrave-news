@@ -784,53 +784,45 @@ document.addEventListener('DOMContentLoaded', function () {
   const closeBtn = document.getElementById('btcbraveLoginClose');
   const floatBtn = document.getElementById('floating-subscribe');
 
+  if (!overlay) return;
+
   function openLogin() {
-    if (!overlay) return;
     overlay.style.display = 'flex';
   }
 
   function closeLogin() {
-    if (!overlay) return;
     overlay.style.display = 'none';
+    localStorage.setItem('btcbraveSubscribed', 'true');
   }
 
-  // 🔔 Botão "Get BRAVE alerts" abre o popup sempre
+  // Só abre se ainda NÃO estiver inscrito
+  if (!localStorage.getItem('btcbraveSubscribed')) {
+    setTimeout(openLogin, 1500);
+  }
+
   if (floatBtn) {
-    floatBtn.addEventListener('click', openLogin);
+    floatBtn.addEventListener('click', function() {
+      localStorage.removeItem('btcbraveSubscribed');
+      openLogin();
+    });
   }
 
-  // 🧠 Verifica se o usuário já viu o popup
-  let alreadySeen = false;
-  try {
-    alreadySeen = localStorage.getItem('btcbrave_signup_seen') === '1';
-  } catch (e) {
-    alreadySeen = false;
-  }
-
-  // ✅ Só abre automaticamente NA PRIMEIRA VEZ nesse navegador
-  if (!alreadySeen) {
-    openLogin();
-    try {
-      localStorage.setItem('btcbrave_signup_seen', '1');
-    } catch (e) {}
-  }
-
-  // Fechar no X
   if (closeBtn) {
     closeBtn.addEventListener('click', closeLogin);
   }
 
-  // Fechar clicando fora do card branco
-  if (overlay) {
-    overlay.addEventListener('click', function (e) {
-      if (e.target === overlay) {
-        closeLogin();
-      }
-    });
-  }
+  overlay.addEventListener('click', function (e) {
+    if (e.target === overlay) {
+      closeLogin();
+    }
+  });
+
+  document.getElementById('btcbraveLoginForm')?.addEventListener('submit', function() {
+    localStorage.setItem('btcbraveSubscribed', 'true');
+    setTimeout(closeLogin, 1000);
+  });
 });
 </script>
-
 
     function isValidEmail(email) {
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
