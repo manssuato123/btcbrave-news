@@ -779,45 +779,58 @@
   </script>
 
   <script>
-  // POPUP LOGIN BTCBRAVE – abre/fecha + mensagem de sucesso
-  document.addEventListener('DOMContentLoaded', function () {
-    const overlay  = document.getElementById('btcbraveLoginOverlay');
-    const closeBtn = document.getElementById('btcbraveLoginClose');
-    const floatBtn = document.getElementById('floating-subscribe');
-    const form     = document.getElementById('btcbraveLoginForm');
-    const emailInp = document.getElementById('btcbraveLoginEmail');
+document.addEventListener('DOMContentLoaded', function () {
+  const overlay  = document.getElementById('btcbraveLoginOverlay');
+  const closeBtn = document.getElementById('btcbraveLoginClose');
+  const floatBtn = document.getElementById('floating-subscribe');
 
-    function openLogin() {
-      if (!overlay) return;
-      overlay.style.display = 'flex';
-      if (emailInp) {
-        setTimeout(() => emailInp.focus(), 80);
-      }
-    }
+  function openLogin() {
+    if (!overlay) return;
+    overlay.style.display = 'flex';
+  }
 
-    function closeLogin() {
-      if (!overlay) return;
-      overlay.style.display = 'none';
-    }
+  function closeLogin() {
+    if (!overlay) return;
+    overlay.style.display = 'none';
+  }
 
-    if (floatBtn) {
-      floatBtn.addEventListener('click', openLogin);
-    }
+  // 🔔 Botão "Get BRAVE alerts" abre o popup sempre
+  if (floatBtn) {
+    floatBtn.addEventListener('click', openLogin);
+  }
 
-    // Abrir automaticamente quando entrar no site
+  // 🧠 Verifica se o usuário já viu o popup
+  let alreadySeen = false;
+  try {
+    alreadySeen = localStorage.getItem('btcbrave_signup_seen') === '1';
+  } catch (e) {
+    alreadySeen = false;
+  }
+
+  // ✅ Só abre automaticamente NA PRIMEIRA VEZ nesse navegador
+  if (!alreadySeen) {
     openLogin();
+    try {
+      localStorage.setItem('btcbrave_signup_seen', '1');
+    } catch (e) {}
+  }
 
-    if (closeBtn) {
-      closeBtn.addEventListener('click', closeLogin);
-    }
+  // Fechar no X
+  if (closeBtn) {
+    closeBtn.addEventListener('click', closeLogin);
+  }
 
-    if (overlay) {
-      overlay.addEventListener('click', function (e) {
-        if (e.target === overlay) {
-          closeLogin();
-        }
-      });
-    }
+  // Fechar clicando fora do card branco
+  if (overlay) {
+    overlay.addEventListener('click', function (e) {
+      if (e.target === overlay) {
+        closeLogin();
+      }
+    });
+  }
+});
+</script>
+
 
     function isValidEmail(email) {
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
