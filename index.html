@@ -779,20 +779,15 @@
   </script>
 
   <script>
-  // POPUP LOGIN BTCBRAVE – abre/fecha + mensagem de sucesso
-  document.addEventListener('DOMContentLoaded', function () {
+    // POPUP LOGIN BTCBRAVE – abre/fecha, Brevo cuida do submit
+    document.addEventListener('DOMContentLoaded', function () {
     const overlay  = document.getElementById('btcbraveLoginOverlay');
     const closeBtn = document.getElementById('btcbraveLoginClose');
     const floatBtn = document.getElementById('floating-subscribe');
-    const form     = document.getElementById('btcbraveLoginForm');
-    const emailInp = document.getElementById('btcbraveLoginEmail');
 
     function openLogin() {
       if (!overlay) return;
       overlay.style.display = 'flex';
-      if (emailInp) {
-        setTimeout(() => emailInp.focus(), 80);
-      }
     }
 
     function closeLogin() {
@@ -800,17 +795,24 @@
       overlay.style.display = 'none';
     }
 
+    // Botão “Get BRAVE alerts”
     if (floatBtn) {
       floatBtn.addEventListener('click', openLogin);
     }
 
-    // Abrir automaticamente quando entrar no site
-    openLogin();
+    // 🔔 Abrir automaticamente só na primeira visita
+    const alreadySeen = localStorage.getItem('btcbrave_popup_seen');
+    if (!alreadySeen) {
+      openLogin();
+      localStorage.setItem('btcbrave_popup_seen', '1');
+    }
 
+    // Fechar no X
     if (closeBtn) {
       closeBtn.addEventListener('click', closeLogin);
     }
 
+    // Fechar clicando fora do card
     if (overlay) {
       overlay.addEventListener('click', function (e) {
         if (e.target === overlay) {
@@ -818,6 +820,8 @@
         }
       });
     }
+  });
+
 
     function isValidEmail(email) {
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
