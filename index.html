@@ -14,7 +14,7 @@
       --text-muted: #a0a4b8;
       --border-soft: #252837;
     }
-     
+
     * {
       box-sizing: border-box;
     }
@@ -25,7 +25,7 @@
       background: radial-gradient(circle at top, #151827 0, #05060a 40%, #020308 100%);
       color: var(--text-main);
     }
-     
+
     header {
       background: rgba(5, 6, 10, 0.96);
       padding: 10px 24px;
@@ -262,29 +262,25 @@
       margin-top: 15px;
     }
 
-    /* ===== NOVO: botão X fixo na lateral esquerda ===== */
     .article-close {
-      position: fixed;
-      top: 120px;          /* logo abaixo do header */
-      left: 18px;          /* perto da borda esquerda, onde está o “ponto amarelo” */
-      background: #ffffff;
-      border: 2px solid rgba(0,0,0,0.7);
-      color: #000;
+      position: absolute;
+      top: 20px;
+      right: 24px;
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.3);
+      color: #ffffff;
       border-radius: 999px;
-      width: 40px;
-      height: 40px;
+      width: 34px;
+      height: 34px;
       display: flex;
       align-items: center;
       justify-content: center;
       cursor: pointer;
-      font-size: 30px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.7);
-      z-index: 9999;
+      font-size: 18px;
     }
 
     .article-close:hover {
-      background: #ffe891;
-      transform: translateY(-1px);
+      background: rgba(255,255,255,0.1);
     }
 
     .card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
@@ -347,6 +343,7 @@
 
     /* ==============================
        FOTO FULL nas BOX GRANDES
+       (primeira box e a grande da 3ª linha)
        ============================== */
 
     /* garante posição relativa */
@@ -511,6 +508,14 @@
              alt="BTCBRAVE Logo" 
              style="width:30px; height:30px; object-fit:cover; border-radius:50%; cursor:pointer;" />
       </a>
+
+      <span style="
+          font-size:10px;
+          color:var(--text-muted);
+          margin-top:4px;
+          letter-spacing:0.5px;">
+        BTCBRAVE
+      </span>
 
       <div id="floating-subscribe" 
         style="
@@ -721,18 +726,17 @@
     return d;
   }
 
-  // Detecta se o item é da blog (pra mandar pra primeira box)
+  // Detecta se o item é da BBC (pra mandar pra primeira box)
   function isBbcItem(item) {
-  if (!item || !item.link) return false;
-  try {
-    const u = new URL(item.link);
-    const host = u.hostname.replace('www.', '').toLowerCase();
-    return host.includes('blog');
-  } catch (e) {
-    return false;
+    if (!item || !item.link) return false;
+    try {
+      const u = new URL(item.link);
+      const host = u.hostname.replace('www.', '').toLowerCase();
+      return host.includes('bbc');
+    } catch (e) {
+      return false;
+    }
   }
-}
-
 
   async function loadAllNews() {
     if (loading) loading.style.display = 'block';
