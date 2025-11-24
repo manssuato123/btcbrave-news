@@ -577,11 +577,7 @@
     lastScrollY = window.scrollY;
 
     const externalUrl = card.getAttribute('data-url');
-    const full = card.getAttribute('data-full');
-    if (externalUrl && !full) {
-      window.location.href = externalUrl;
-      return;
-    }
+    const full        = card.getAttribute('data-full') || '';
 
     const title = card.querySelector('.title')?.innerHTML || '';
     const desc  = card.querySelector('.desc')?.innerHTML || '';
@@ -592,7 +588,32 @@
       : '';
 
     articleTitle.innerHTML = title;
-    articleBody.innerHTML  = full || desc;
+
+    // SE TIVER fullText (blog) → usa o fullText
+    // SE NÃO TIVER → usa descrição + link "Abrir matéria completa"
+    let bodyHtml = '';
+    if (full) {
+      bodyHtml = full;
+    } else {
+      bodyHtml = `
+        <div>${desc}</div>
+        ${
+          externalUrl
+            ? `<p style="margin-top:16px;">
+                 <a href="${externalUrl}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style="color:#3b82f6; text-decoration:underline;">
+                   Open full article on original website
+                 </a>
+               </p>`
+            : ''
+        }
+      `;
+    }
+
+    articleBody.innerHTML = bodyHtml;
+
     gridEl.style.display = "none";
     articleView.classList.add('open');
 
@@ -615,7 +636,7 @@
       window.scrollTo(0, lastScrollY);
     }
   });
-  </script>
+</script>
 
   <script>
   const grid = document.querySelector('.grid');
