@@ -463,8 +463,9 @@
 
   <header>
 
-    <!-- BOTÃO DE IDIOMA EN | PT -->
-    <div id="langSwitcher" style="position:absolute; top:18px; right:18px; font-size:0.85rem; z-index:999;">
+    <!-- BOTÃO DE IDIOMA EN | PT (AGORA MAIS LONGE DO SINO) -->
+    <div id="langSwitcher"
+         style="position:absolute; top:18px; right:80px; font-size:0.85rem; z-index:999;">
       <button type="button" data-lang-btn="en"
         style="background:none;border:none;color:#f5f5f5;cursor:pointer;font-weight:600;">
         EN
@@ -518,7 +519,7 @@
 
     </div>
 
-    <!-- 🔔 SININHO NO CANTO DIREITO (onde estava a moedinha antes) -->
+    <!-- 🔔 SININHO NO CANTO DIREITO -->
     <div id="floating-subscribe" 
       style="
         position:absolute;
@@ -933,17 +934,14 @@
         }, 800);
       });
     }
-  });
-  </script>
 
-  <!-- SCRIPT DE IDIOMA EN / PT -->
-  <script>
+    /* ====== MULTILINGUE EN / PT NO TÍTULO ====== */
     const BTCBRAVE_TRANSLATIONS = {
       en: {
-        headline: "BTCBRAVE News – "
+        headline: "BTCBRAVE News – New Financial Freedom"
       },
       pt: {
-        headline: "BTCBRAVE News "
+        headline: "BTCBRAVE News – Nova Liberdade Financeira"
       }
     };
 
@@ -963,28 +961,29 @@
       } catch (e) {}
     }
 
-    document.addEventListener("DOMContentLoaded", function () {
-      let lang = "en";
+    // idioma inicial: salvo ou detectado
+    let lang = "en";
 
-      try {
-        const saved = localStorage.getItem("btcbraveNewsLang");
-        if (saved && BTCBRAVE_TRANSLATIONS[saved]) {
-          lang = saved;
-        } else {
-          const nav = navigator.language || navigator.userLanguage || "en";
-          if (nav.toLowerCase().startsWith("pt")) lang = "pt";
-        }
-      } catch (e) {}
+    try {
+      const saved = localStorage.getItem("btcbraveNewsLang");
+      if (saved && BTCBRAVE_TRANSLATIONS[saved]) {
+        lang = saved;
+      } else {
+        const nav = navigator.language || navigator.userLanguage || "en";
+        if (nav.toLowerCase().startsWith("pt")) lang = "pt";
+      }
+    } catch (e) {}
 
-      applyLanguage(lang);
+    applyLanguage(lang);
 
-      document.querySelectorAll("[data-lang-btn]").forEach(function (btn) {
-        btn.addEventListener("click", function () {
-          const selected = btn.getAttribute("data-lang-btn");
-          applyLanguage(selected);
-        });
+    // clique nos botões EN / PT
+    document.querySelectorAll("[data-lang-btn]").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        const selected = btn.getAttribute("data-lang-btn");
+        applyLanguage(selected);
       });
     });
+  });
   </script>
 
   <script>
