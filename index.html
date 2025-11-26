@@ -460,89 +460,70 @@
       </p>
     </div>
   </div>
-
   <header>
+  <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
 
-    <!-- BOTÃO DE IDIOMA EN | PT (AGORA MAIS LONGE DO SINO) -->
-    <div id="langSwitcher"
-         style="position:absolute; top:18px; right:80px; font-size:0.85rem; z-index:999;">
-      <button type="button" data-lang-btn="en"
-        style="background:none;border:none;color:#f5f5f5;cursor:pointer;font-weight:600;">
-        EN
-      </button>
-      <span style="color:#888;">|</span>
-      <button type="button" data-lang-btn="pt"
-        style="background:none;border:none;color:#f5f5f5;cursor:pointer;font-weight:600;">
-        PT
-      </button>
-    </div>
-
-    <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
-
-      <div style="display:flex; align-items:center; gap:10px;">
-        <div class="logo-badge" 
-             style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
-                    display:flex; align-items:center; justify-content:center; padding:0;">
-          <img src="borboleta.png" 
-               alt="BTCBRAVE Butterfly Logo" 
-               style="width:38px; height:38px; border-radius:50%; object-fit:cover; 
-                      object-position:center; background:var(--bg-main);" />
-        </div>
-
-        <!-- TÍTULO MULTILINGUE -->
-        <span
-          data-i18n="headline"
-          style="
-            background: linear-gradient(90deg,#1d4ed8,#7c3aed,#ec4899,#f59e0b);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            font-weight: 800;
-            font-size: 22px;
-            text-shadow: 0 0 6px rgba(255,255,255,0.2);">
-          BTCBRAVE News – New Financial Freedom
-        </span>
+    <div style="display:flex; align-items:center; gap:10px;">
+      <div class="logo-badge" 
+           style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
+                  display:flex; align-items:center; justify-content:center; padding:0;">
+        <img src="borboleta.png" 
+             alt="BTCBRAVE Butterfly Logo" 
+             style="width:38px; height:38px; border-radius:50%; object-fit:cover; 
+                    object-position:center; background:var(--bg-main);" />
       </div>
 
-      <a href="mailto:news@btcbrave.store"
-         style="
-           margin-left:80px;
-           margin-top:2px;
-           font-size:12px;
-           color:var(--text-muted);
-           text-decoration:none;
-           display:flex;
-           align-items:center;
-           gap:6px;">
-        <span style="font-size:14px;">📩</span>
-        news@btcbrave.store
-      </a>
-
+      <span style="
+          background: linear-gradient(90deg,#1d4ed8,#7c3aed,#ec4899,#f59e0b);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          font-weight: 800;
+          font-size: 22px;
+          text-shadow: 0 0 6px rgba(255,255,255,0.2);">
+        BTCBRAVE News
+      </span>
     </div>
 
-    <!-- 🔔 SININHO NO CANTO DIREITO -->
-    <div id="floating-subscribe" 
-      style="
-        position:absolute;
-        right:24px;
-        top:12px;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        width:24px;
-        height:24px;
-        background:#fff;
-        border-radius:999px;
-        font-size:12px;
-        font-weight:700;
-        letter-spacing:0.5px;
-        box-shadow:0 8px 20px rgba(0,0,0,0.6);
-        cursor:pointer;
-        border:1px solid rgba(255,255,255,0.25);">
-      🔔
-    </div>
+    <a href="mailto:news@btcbrave.store"
+       style="
+         margin-left:80px;
+         margin-top:2px;
+         font-size:12px;
+         color:var(--text-muted);
+         text-decoration:none;
+         display:flex;
+         align-items:center;
+         gap:6px;">
+      <span style="font-size:14px;">📩</span>
+      news@btcbrave.store
+    </a>
 
-    <!-- BTCBRAVE do canto foi removido, continua oculto -->
-    <nav style="display:none;"></nav>
+  </div>
+
+  <!-- 🔔 SININHO NO CANTO DIREITO (onde estava a moedinha antes) -->
+  <div id="floating-subscribe" 
+    style="
+      position:absolute;
+      right:24px;
+      top:12px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      width:24px;
+      height:24px;
+      background:#fff;
+      border-radius:999px;
+      font-size:12px;
+      font-weight:700;
+      letter-spacing:0.5px;
+      box-shadow:0 8px 20px rgba(0,0,0,0.6);
+      cursor:pointer;
+      border:1px solid rgba(255,255,255,0.25);">
+    🔔
+  </div>
+
+  <!-- BTCBRAVE do canto foi removido, continua oculto -->
+  <nav style="display:none;"></nav>
   </header>
 
   <div class="filter-bar">
@@ -934,59 +915,9 @@
         }, 800);
       });
     }
-
-    /* ====== MULTILINGUE EN / PT NO TÍTULO ====== */
-    const BTCBRAVE_TRANSLATIONS = {
-      en: {
-        headline: "BTCBRAVE News – New Financial Freedom"
-      },
-      pt: {
-        headline: "BTCBRAVE News – Nova Liberdade Financeira"
-      }
-    };
-
-    function applyLanguage(lang) {
-      const dict = BTCBRAVE_TRANSLATIONS[lang] || BTCBRAVE_TRANSLATIONS.en;
-      document.documentElement.lang = lang;
-
-      document.querySelectorAll("[data-i18n]").forEach(function (el) {
-        const key = el.getAttribute("data-i18n");
-        if (dict[key]) {
-          el.textContent = dict[key];
-        }
-      });
-
-      try {
-        localStorage.setItem("btcbraveNewsLang", lang);
-      } catch (e) {}
-    }
-
-    // idioma inicial: salvo ou detectado
-    let lang = "en";
-
-    try {
-      const saved = localStorage.getItem("btcbraveNewsLang");
-      if (saved && BTCBRAVE_TRANSLATIONS[saved]) {
-        lang = saved;
-      } else {
-        const nav = navigator.language || navigator.userLanguage || "en";
-        if (nav.toLowerCase().startsWith("pt")) lang = "pt";
-      }
-    } catch (e) {}
-
-    applyLanguage(lang);
-
-    // clique nos botões EN / PT
-    document.querySelectorAll("[data-lang-btn]").forEach(function (btn) {
-      btn.addEventListener("click", function () {
-        const selected = btn.getAttribute("data-lang-btn");
-        applyLanguage(selected);
-      });
-    });
   });
   </script>
-
-  <script>
+   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function() {
         navigator.serviceWorker.register('/service-worker.js')
@@ -998,3 +929,4 @@
 
 </body>
 </html>
+
