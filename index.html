@@ -138,22 +138,15 @@
       .grid {
         grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
       }
-      /* No mobile todas voltam a ocupar 1 coluna */
       .grid > .card {
         grid-column: span 1 !important;
       }
     }
 
-    /* Altura padrão para todas as boxes */
     .grid > .card {
       min-height: 240px;
     }
 
-    /* BOX GRANDES (largura 2x)
-       Padrão se repete a cada 15 cards (3 linhas):
-       - 1º da 1ª linha (15n+1)
-       - 3º da 3ª linha (15n+13)
-    */
     .grid > .card:nth-child(15n + 1),
     .grid > .card:nth-child(15n + 13) {
       grid-column: span 2;
@@ -265,7 +258,6 @@
       margin-top: 15px;
     }
 
-    /* ===== NOVO: botão X fixo na lateral esquerda ===== */
     .article-close {
       position: fixed;
       top: 120px;
@@ -348,7 +340,6 @@
       text-align: center;
     }
 
-    /* FOTO FULL nas BOX GRANDES */
     .grid > .card:nth-child(15n + 1),
     .grid > .card:nth-child(15n + 13) {
       position: relative;
@@ -393,10 +384,8 @@
 </head>
 <body>
 
-  <!-- IFRAME ESCONDIDO PARA RECEBER O RETORNO DA BREVO -->
   <iframe name="hiddenBrevoFrame" style="display:none;"></iframe>
 
-  <!-- POPUP LOGIN / SUBSCRIBE BTCBRAVE (Brevo integrado) -->
   <div id="btcbraveLoginOverlay" class="btcbrave-login-overlay" style="display:none;">
     <div class="btcbrave-login-card">
       <button id="btcbraveLoginClose" class="btcbrave-login-close">×</button>
@@ -500,7 +489,6 @@
 
   </div>
 
-  <!-- 🔔 SININHO NO CANTO DIREITO (onde estava a moedinha antes) -->
   <div id="floating-subscribe" 
     style="
       position:absolute;
@@ -522,7 +510,6 @@
     🔔
   </div>
 
-  <!-- BTCBRAVE do canto foi removido, continua oculto -->
   <nav style="display:none;"></nav>
   </header>
 
@@ -772,7 +759,9 @@
         const category   = getCategory(item.link || '');
         const fullText   = item.fullText || '';
 
-        const isBlog = category === 'blog';
+        const isBlog = sourceName === 'BTCBRAVE Blog' ||
+                       (item.link && item.link.includes('blog.btcbrave.store'));
+
         const titleSafe = (item.title || '').replace(/'/g, "\\'");
 
         const card = document.createElement('article');
@@ -793,7 +782,7 @@
           ${isBlog ? `
           <button class="share-btn"
                type="button"
-               onclick="shareBlogPost('${item.link}', '${titleSafe}')"
+               onclick="event.stopPropagation(); shareBlogPost('${item.link}', '${titleSafe}')"
                style="
                 position:absolute;
                 top:12px;
@@ -953,7 +942,6 @@
   });
   </script>
 
-  <!-- FUNÇÃO DE COMPARTILHAR APENAS PARA BOX DO BLOG -->
   <script>
   function shareBlogPost(url, title) {
     if (navigator.share) {
