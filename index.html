@@ -753,7 +753,7 @@
       grid.innerHTML = '';
 
       items.forEach(item => {
-        const pub = parseDate(item.pubDate);
+        const pub        = parseDate(item.pubDate);
         const hasImage   = item.thumbnail && item.thumbnail.startsWith('http');
         const sourceName = getSourceName(item.link || '');
         const category   = getCategory(item.link || '');
@@ -764,9 +764,22 @@
 
         const titleSafe = (item.title || '').replace(/'/g, "\\'");
 
+        // -----------------------------
+        // URL ORIGINAL + FALLBACK
+        // -----------------------------
+        const rawLink = item.link || '';
+
+        let shareUrl = rawLink;
+        if (!shareUrl) {
+          shareUrl = isBlog
+            ? 'https://blog.btcbrave.store'
+            : 'https://news.btcbrave.store';
+        }
+        const shareUrlSafe = shareUrl.replace(/'/g, "\\'");
+
         const card = document.createElement('article');
         card.classList.add('card');
-        card.setAttribute('data-url', item.link || '');
+        card.setAttribute('data-url', shareUrl);
         card.dataset.pubdate  = pub.toISOString();
         card.dataset.category = category;
 
@@ -782,7 +795,7 @@
           ${isBlog ? `
           <button class="share-btn"
                type="button"
-               onclick="event.stopPropagation(); shareBlogPost('${item.link}', '${titleSafe}')"
+               onclick="event.stopPropagation(); shareBlogPost('${shareUrlSafe}', '${titleSafe}')"
                style="
                 position:absolute;
                 top:12px;
@@ -944,17 +957,26 @@
 
   <script>
   function shareBlogPost(url, title) {
+    const text = `Check this article on BTCBRAVE News:\n${title}\n${url}`;
+
     if (navigator.share) {
       navigator.share({
         title: title,
-        text: "Check this news on BTCBRAVE News:",
+        text: text,
         url: url
       }).catch(err => {
         console.log("Share failed", err);
       });
-    } else {
-      prompt("Copy this link to share:", url);
+      return;
     }
+
+    if (/Android|iPhone|iPad/i.test(navigator.userAgent)) {
+      const whatsUrl = `https://wa.me/?text=${encodeURIComponent(text)}`;
+      window.open(whatsUrl, '_blank');
+      return;
+    }
+
+    prompt("Copy this link to share:", url);
   }
   </script>
 
