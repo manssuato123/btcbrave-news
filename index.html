@@ -591,7 +591,7 @@
   </script>
 
   <script>
-  const grid = document.querySelector('.grid');
+  const grid    = document.querySelector('.grid');
   const loading = document.getElementById('loadingNews');
   const BLOG_POSTS_URL = "https://blog.btcbrave.store/posts.json";
 
@@ -638,7 +638,7 @@
       return 'NEWS';
     }
   }
-    
+
   function getCategory(url) {
     if (!url) return 'all';
     try {
@@ -723,27 +723,61 @@
 
       let items = [];
 
+      // 🔹 Notícias externas (news.json)
       if (rssResp.ok) {
         const rssItems = await rssResp.json();
-        items = items.concat(rssItems);
+        const mappedRss = rssItems.map(it => {
+          // garante link para notícias também
+          const url = (it.link && it.link.trim())
+            ? it.link.trim()
+            : 'https://news.btcbrave.store';
+
+          const cat = it.category || getCategory(url);
+
+          return {
+            ...it,
+            link: url,            // <- sempre tem URL
+            category: cat || 'all',
+            isBlog: false,
+            sourceOverride: null
+          };
+        });
+        items = items.concat(mappedRss);
       }
 
+      // 🔹 Posts do BLOG (posts.json) → sempre blog, sempre tem link
       if (blogResp.ok) {
-        const blogItems = await blogResp.json();
+        let blogItems = await blogResp.json();
+        blogItems = blogItems.map(it => {
+          const url = (it.link && it.link.trim())
+            ? it.link.trim()
+            : 'https://blog.btcbrave.store';
+
+          return {
+            ...it,
+            link: url,                  // <- sempre tem URL
+            isBlog: true,
+            category: it.category || 'blog',
+            sourceOverride: 'BTCBRAVE Blog'
+          };
+        });
         items = items.concat(blogItems);
       }
 
+      // Só passado ou agora
       items = items.filter(it => {
         const d = parseDate(it.pubDate);
         return d <= now;
       });
 
+      // Ordena por data (mais novo primeiro)
       items.sort((a, b) => {
         const da = parseDate(b.pubDate).getTime();
         const db = parseDate(a.pubDate).getTime();
         return da - db;
       });
 
+      // Destaque BBC (mantive sua lógica antiga)
       const bbcIndex = items.findIndex(isBbcItem);
       if (bbcIndex > 0) {
         const [bbcItem] = items.splice(bbcIndex, 1);
@@ -755,33 +789,23 @@
       items.forEach(item => {
         const pub        = parseDate(item.pubDate);
         const hasImage   = item.thumbnail && item.thumbnail.startsWith('http');
-        const sourceName = getSourceName(item.link || '');
-        const category   = getCategory(item.link || '');
+        const sourceName = item.sourceOverride || getSourceName(item.link || '');
+        const category   = (item.category || 'all').toLowerCase();
         const fullText   = item.fullText || '';
 
-        const isBlog = sourceName === 'BTCBRAVE Blog' ||
-                       (item.link && item.link.includes('blog.btcbrave.store'));
+        const isBlog = !!item.isBlog;
 
         const titleSafe = (item.title || '').replace(/'/g, "\\'");
 
-        // -----------------------------
-        // URL ORIGINAL + FALLBACK
-        // -----------------------------
-        const rawLink = item.link || '';
-
-        let shareUrl = rawLink;
-        if (!shareUrl) {
-          shareUrl = isBlog
-            ? 'https://blog.btcbrave.store'
-            : 'https://news.btcbrave.store';
-        }
+        // Agora TODO item tem link garantido (mapeado lá em cima)
+        const shareUrl     = item.link || (isBlog ? 'https://blog.btcbrave.store' : 'https://news.btcbrave.store');
         const shareUrlSafe = shareUrl.replace(/'/g, "\\'");
 
         const card = document.createElement('article');
         card.classList.add('card');
-        card.setAttribute('data-url', shareUrl);
+        card.setAttribute('data-url', shareUrl);     // <- usada no clique
         card.dataset.pubdate  = pub.toISOString();
-        card.dataset.category = category;
+        card.dataset.category = category || 'all';
 
         if (fullText) {
           card.setAttribute('data-full', fullText);
@@ -877,7 +901,7 @@
 
   loadAllNews();
   setInterval(loadAllNews, 86400000);
-  </script>
+</script>
 
   <script>
   document.addEventListener('DOMContentLoaded', function () {
