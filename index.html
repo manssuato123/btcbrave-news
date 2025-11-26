@@ -772,6 +772,9 @@
         const category   = getCategory(item.link || '');
         const fullText   = item.fullText || '';
 
+        const isBlog = category === 'blog';
+        const titleSafe = (item.title || '').replace(/'/g, "\\'");
+
         const card = document.createElement('article');
         card.classList.add('card');
         card.setAttribute('data-url', item.link || '');
@@ -786,6 +789,38 @@
           ${hasImage
             ? `<img src="${item.thumbnail}" class="card-img-medium" />`
             : `<div class="card-img-medium" style="background:#05060a;"></div>`}
+
+          ${isBlog ? `
+          <button class="share-btn"
+               type="button"
+               onclick="shareBlogPost('${item.link}', '${titleSafe}')"
+               style="
+                position:absolute;
+                top:12px;
+                right:12px;
+                z-index:5;
+                background:#111;
+                padding:6px 12px;
+                border-radius:10px;
+                font-size:13px;
+                cursor:pointer;
+                border:1px solid #333;
+                color:#fff;
+                display:flex;
+                align-items:center;
+                gap:6px;
+               ">
+               <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+                    viewBox="0 0 24 24" fill="none" stroke="white"
+                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                 <path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path>
+                 <polyline points="16 6 12 2 8 6"></polyline>
+                 <line x1="12" y1="2" x2="12" y2="15"></line>
+               </svg>
+               Share
+          </button>
+          ` : ``}
+
           <div class="card-body">
             <div class="title"><strong>${item.title || ''}</strong></div>
             <div class="desc">${(item.description || '').substring(0, 120)}...</div>
@@ -917,7 +952,25 @@
     }
   });
   </script>
-   <script>
+
+  <!-- FUNÇÃO DE COMPARTILHAR APENAS PARA BOX DO BLOG -->
+  <script>
+  function shareBlogPost(url, title) {
+    if (navigator.share) {
+      navigator.share({
+        title: title,
+        text: "Check this news on BTCBRAVE News:",
+        url: url
+      }).catch(err => {
+        console.log("Share failed", err);
+      });
+    } else {
+      prompt("Copy this link to share:", url);
+    }
+  }
+  </script>
+
+  <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function() {
         navigator.serviceWorker.register('/service-worker.js')
@@ -929,4 +982,3 @@
 
 </body>
 </html>
-
