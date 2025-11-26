@@ -784,12 +784,12 @@
           return da - db;
         });
 
-        // BBC destaque
-        const bbcIndex = items.findIndex(isBbcItem);
-        if (bbcIndex > 0) {
-          const [bbcItem] = items.splice(bbcIndex, 1);
-          items.unshift(bbcItem);
-        }
+        // destaque: primeiro post do BLOG vira a primeira notícia
+      const pinnedIndex = items.findIndex(isPinnedItem);
+      if (pinnedIndex > 0) {
+        const [pinnedItem] = items.splice(pinnedIndex, 1);
+        items.unshift(pinnedItem);
+      }
 
         // Gera slug único para cada notícia
         const slugCount = {};
