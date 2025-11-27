@@ -283,7 +283,7 @@
     }
 
     .card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
-    .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08);}
+    .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08); }
     .card-img-large { height:200px; width:100%; object-fit:cover; }
 
     .btcbrave-login-overlay {
@@ -601,6 +601,18 @@
     const loading = document.getElementById('loadingNews');
     const BLOG_POSTS_URL = "https://blog.btcbrave.store/posts.json";
 
+    // 🔹 NOVO: função para gerar slug a partir do título
+    function createSlug(title) {
+      if (!title) return "";
+      return title
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9 ]/g, "")
+        .trim()
+        .replace(/\s+/g, "-");
+    }
+
     function getSourceName(url) {
       if (!url) return 'NEWS';
       try {
@@ -706,17 +718,17 @@
     }
 
     function isPinnedItem(item) {
-  if (!item) return false;
+      if (!item) return false;
 
-  // dá prioridade para os posts do BLOG
-  if (item.isBlog) return true;
+      // dá prioridade para os posts do BLOG
+      if (item.isBlog) return true;
 
-  if (item.category && item.category.toLowerCase() === 'blog') {
-    return true;
-  }
+      if (item.category && item.category.toLowerCase() === 'blog') {
+        return true;
+      }
 
-  return false;
-}
+      return false;
+    }
 
     async function loadAllNews() {
       if (loading) loading.style.display = 'block';
@@ -785,13 +797,13 @@
         });
 
         // destaque: primeiro post do BLOG vira a primeira notícia
-      const pinnedIndex = items.findIndex(isPinnedItem);
-      if (pinnedIndex > 0) {
-        const [pinnedItem] = items.splice(pinnedIndex, 1);
-        items.unshift(pinnedItem);
-      }
+        const pinnedIndex = items.findIndex(isPinnedItem);
+        if (pinnedIndex > 0) {
+          const [pinnedItem] = items.splice(pinnedIndex, 1);
+          items.unshift(pinnedItem);
+        }
 
-        // Gera slug único para cada notícia
+        // Gera slug único para cada notícia (para ?post=...)
         const slugCount = {};
         items.forEach((it, index) => {
           let base =
@@ -829,30 +841,52 @@
 
           const titleSafe = (item.title || '').replace(/'/g, "\\'");
 
-          const slug    = item._slug || '';
-          const permUrl = `https://news.btcbrave.store/?post=${encodeURIComponent(slug)}`;
-          const originalUrl = item.link || '';
+          // 🔹 slug básico para o blog (se precisar gerar link)
+          const basicSlug = item.slug || createSlug(item.title || '');
+
+          // 🔹 link final: se já tiver link no JSON, usa ele;
+          //     se não tiver, gera https://blog.btcbrave.store/slug.html
+          let finalLink = '';
+
+          if (item.link && item.link.trim()) {
+            finalLink = item.link.trim();
+          } else if (basicSlug) {
+            finalLink = `https://blog.btcbrave.store/${basicSlug}.html`;
+          }
+
+          // 🔹 slug único para permalinks (?post=...)
+          const slugUnique = item._slug || basicSlug || '';
+          const permUrl = slugUnique
+            ? `https://news.btcbrave.store/?post=${encodeURIComponent(slugUnique)}`
+            : '';
+
+          // vamos considerar finalLink como "url primária" da notícia
+          const originalUrl = finalLink || '';
 
           const card = document.createElement('article');
           card.classList.add('card');
 
-          // permalink sempre no data-url (para compartilhar / copiar / etc)
-          card.setAttribute('data-url', permUrl);
+          // permalink principal usado para compartilhar / copiar
+          card.setAttribute('data-url', originalUrl || permUrl || '');
 
-          // link original da fonte, se existir
-          if (originalUrl) {
+          // link externo (para Script 1 decidir se abre fora ou no reader)
+          if (!isBlog && originalUrl) {
+            // notícias externas (BBC, etc.) → vão pra fonte original
+            card.setAttribute('data-external', originalUrl);
+          } else if (isBlog && !fullText && originalUrl) {
+            // se for Blog SEM fullText, pode mandar pro link do blog
             card.setAttribute('data-external', originalUrl);
           }
 
           card.dataset.pubdate  = pub.toISOString();
           card.dataset.category = category || 'all';
-          card.dataset.slug     = slug;
+          card.dataset.slug     = slugUnique;
 
           if (fullText) {
             card.setAttribute('data-full', fullText);
           }
 
-          const shareUrl     = permUrl;
+          const shareUrl     = originalUrl || permUrl || '';
           const shareUrlSafe = shareUrl.replace(/'/g, "\\'");
 
           card.innerHTML = `
