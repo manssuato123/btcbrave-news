@@ -1,10 +1,38 @@
 [
   {
+    "title": "PlayStation just dropped its massive Cyber Monday sale",
+    "description": "Christmas has come early for PlayStation gamers. Sony's massive Cyber Monday sale offers almost 5000 games at discounted prices.",
+    "link": "https://www.polygon.com/playstation-store-cyber-monday-deals-game-discounts-ps4-ps5/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/playstation-sale.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2025-12-01T17:05:00+00:00"
+  },
+  {
+    "title": "A Surprise When Your Package Arrives: You Have to Pay the Tariff",
+    "description": "The end of a tariff exemption on goods worth $800 or less has left some U.S. shoppers with an extra shipping bill that must be paid before delivery.",
+    "link": "https://www.nytimes.com/2025/12/01/business/tariffs-customs-retail-shopping.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/01/multimedia/01biz-customes-duties-hcwk/01biz-customes-duties-hcwk-facebookJumbo.jpg",
+    "pubDate": "2025-12-01T16:49:02+00:00"
+  },
+  {
+    "title": "Hong Kong Contractors Used Unsafe Netting at Fire Site, Officials Say",
+    "description": "Investigators say contractors wrapped the buildings in substandard scaffolding netting and then sought to hide it from inspectors. The toll from the fire rose to 151.",
+    "link": "https://www.nytimes.com/2025/12/01/world/asia/hong-kong-fire.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/01/multimedia/01int-hongkong-fire-01-fjlp/01int-hongkong-fire-01-fjlp-facebookJumbo.jpg",
+    "pubDate": "2025-12-01T16:47:02+00:00"
+  },
+  {
     "title": "Nintendo Switch 2 Mario Kart World bundle is on sale for Cyber Monday",
     "description": "The discounted Nintendo Switch 2 bundle including Mario Kart World is on a rare sale at Walmart for Cyber Monday.",
     "link": "https://www.polygon.com/nintendo-switch-2-bundle-mario-kart-world-walmart-cyber-monday-sale/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/05/NintendoSwitch2_MarioKartWorld_SCRN_GrandPrix_01-1.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-01T16:46:44+00:00"
+  },
+  {
+    "title": "Indonesia races to find missing after massive floods, landslides",
+    "description": "More than 1,000 people have died in floods and landslides across south Asia after days of tropical storms.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/indonesia-races-to-find-missing-after-massive-floods-landslides?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1764607024.jpg?resize=1842%2C1080&quality=80",
+    "pubDate": "2025-12-01T16:37:19+00:00"
   },
   {
     "title": "All seasons of Haikyu!! are finally available with English dub on Crunchyroll",
@@ -56,11 +84,11 @@
     "pubDate": "2025-12-01T16:15:49+00:00"
   },
   {
-    "title": "It’s Your Duty to Pay the Duty: Buyers Hit With Extra Charges on Packages",
-    "description": "The end of a tariff exemption on goods worth $800 or less has left some U.S. shoppers with an extra shipping bill that must be paid before delivery.",
-    "link": "https://www.nytimes.com/2025/12/01/business/tariffs-customs-retail-shopping.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/01/multimedia/01biz-customes-duties-hcwk/01biz-customes-duties-hcwk-facebookJumbo.jpg",
-    "pubDate": "2025-12-01T16:09:53+00:00"
+    "title": "Bitcoin miners enter ‘harshest margin environment of all time’",
+    "description": "Mining revenue hits structural lows as hashprice sinks, costs rise and payback periods stretch past 1,000 days, squeezing even the largest operators.",
+    "link": "https://cointelegraph.com/news/bitcoin-miners-enter-harshest-margin-environment-of-all-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRhNzktYzBhYi03NDg5LTlkZDgtOTA4MTU2N2JhYmQy.jpg",
+    "pubDate": "2025-12-01T16:08:07+00:00"
   },
   {
     "title": "A fan-created Stranger Things season 5 Volume 2 trailer pulls together unseen scenes",
@@ -238,13 +266,6 @@
     "pubDate": "2025-12-01T15:14:52+00:00"
   },
   {
-    "title": "Hong Kong Contractors Used Unsafe Netting at Fire Site, Officials Say",
-    "description": "Investigators say contractors wrapped the buildings in substandard scaffolding netting and then sought to hide it from inspectors. The toll from the fire rose to 151.",
-    "link": "https://www.nytimes.com/2025/12/01/world/asia/hong-kong-fire.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/01/multimedia/01int-hongkong-fire-01-fjlp/01int-hongkong-fire-01-fjlp-facebookJumbo.jpg",
-    "pubDate": "2025-12-01T15:14:41+00:00"
-  },
-  {
     "title": "Nvidia takes $2 billion stake in Synopsys with expanded computing power partnership",
     "description": "The two companies are partnering to accelerate computing and AI engineering solutions.",
     "link": "https://www.cnbc.com/2025/12/01/nvidia-takes-2-billion-stake-in-synopsys.html",
@@ -406,13 +427,6 @@
     "pubDate": "2025-12-01T14:02:55+00:00"
   },
   {
-    "title": "Metroid Prime: Federation Force is unfortunately the worst Metroid game",
-    "description": "We revisited Metroid Prime: Federation Force to prepare for Metroid Prime 4: Beyond, and it was both agonizing and informative.",
-    "link": "https://www.polygon.com/metroid-prime-federation-force-re-review-2025/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_image/image/50581931/federation_force.0.0.0.0.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2025-12-01T14:00:15+00:00"
-  },
-  {
     "title": "Does GENIUS turn stablecoin issuers into stealth buyers of US debt?",
     "description": "The GENIUS Act promises safer, fully reserved dollar stablecoins and faster payments, but by steering issuers toward T-bills and cash, it may also hardwire a new demand engine for US debt.",
     "link": "https://cointelegraph.com/news/does-genius-turn-stablecoin-issuers-into-stealth-buyers-of-us-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -490,7 +504,7 @@
     "pubDate": "2025-12-01T13:00:00+00:00"
   },
   {
-    "title": "Russia-Ukraine war live: Four killed in Dnipro, Witkoff heading to Moscow",
+    "title": "Russia-Ukraine war live: Territory ‘biggest challenge’ in talks – Zelenskyy",
     "description": "Russian attacks on Ukraine continue even as diplomatic efforts to end the war gain momentum.",
     "link": "https://www.aljazeera.com/news/liveblog/2025/12/1/russia-ukraine-war-live-4-killed-in-dnipro-witkoff-heading-to-moscow?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-01T155757Z_1593011203_RC2R7IAXE348_RTRMADP_3_UKRAINE-CRISIS-FRANCE-1764606986.jpg?resize=1920%2C1440",
@@ -553,13 +567,6 @@
     "pubDate": "2025-12-01T12:05:37+00:00"
   },
   {
-    "title": "Palestinian students return to class at Gaza university",
-    "description": "After two years of war, students have returned to in-person classes at Gaza’s Islamic University.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/palestinian-students-return-to-class-at-gaza-university?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1764590403.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2025-12-01T12:00:51+00:00"
-  },
-  {
     "title": "Heads of UK Special Forces suppressed evidence of war crimes, officer tells inquiry",
     "description": "An officer tells the Independent Inquiry relating to Afghanistan UK Special Forces leadership was \"very much suppressing\" the allegations.",
     "link": "https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss",
@@ -586,13 +593,6 @@
     "link": "https://www.bbc.com/news/articles/cewjkv8jylko?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b05/live/95082820-cea9-11f0-8c06-f5d460985095.jpg",
     "pubDate": "2025-12-01T11:03:33+00:00"
-  },
-  {
-    "title": "Prediction markets bet on Coinbase-linked Hassett as top Fed pick",
-    "description": "Prediction markets Polymarket and Kalshi surge for the pro-crypto candidate as Trump’s likely Fed chair pick, just as internal Fed reforms spark pushback from veterans.",
-    "link": "https://cointelegraph.com/news/prediction-markets-bet-on-hassett-fed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWVjN2EtNjAyMC03ZWZkLWJiNGQtY2U0OWMyZGFlYjQ2.jpg",
-    "pubDate": "2025-12-01T10:53:35+00:00"
   },
   {
     "title": "Despite Supreme Court Wins, Elite D.O.J. Unit Has Seen Mass Turnover",
