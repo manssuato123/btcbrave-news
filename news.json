@@ -1,5 +1,54 @@
 [
   {
+    "title": "MongoDB stock skyrockets 25% on AI, cloud database platform growth",
+    "description": "MongoDB said its Atlas platform grew 30% from a year ago as it benefits from AI tailwinds",
+    "link": "https://www.cnbc.com/2025/12/02/mongodb-stock-ai-cloud-database-mdb.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108155155-1749127488227-gettyimages-2218096521-img_4606.jpeg?v=1764683058&w=1920&h=1080",
+    "pubDate": "2025-12-02T14:39:41+00:00"
+  },
+  {
+    "title": "Putin to Meet With Witkoff and Kushner as U.S. Pushes for Ukraine Deal",
+    "description": "In Moscow, Steve Witkoff, President Trump’s special envoy, and Jared Kushner, Mr. Trump’s son-in-law, are expected to present President Vladimir V. Putin with a revised proposal to end the war.",
+    "link": "https://www.nytimes.com/2025/12/02/world/europe/putin-witkoff-trump-ukraine-meeting.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/01/multimedia/00int-putin-witkoff-01-lbkp/00int-putin-witkoff-01-lbkp-facebookJumbo.jpg",
+    "pubDate": "2025-12-02T14:37:33+00:00"
+  },
+  {
+    "title": "Michael Burry calls Tesla 'ridiculously overvalued' and knocks tech industry for a widely used practice",
+    "description": "\"The Big Short\" investor Michael Burry put Tesla's valuation in the spotlight.",
+    "link": "https://www.cnbc.com/2025/12/02/burry-tesla-valuation.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108231762-1764085435434-108231762-1764085364402-gettyimages-498540380-88290117.jpg?v=1764683352&w=1920&h=1080",
+    "pubDate": "2025-12-02T14:37:18+00:00"
+  },
+  {
+    "title": "Property Play: Apartment rents drop further, with vacancies at record high",
+    "description": "A good supply of new multifamily units is coming online at a time of much weaker demand.",
+    "link": "https://www.cnbc.com/2025/12/02/apartment-rents-vacancies-november.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108235150-1764685029727-gettyimages-2235219115-ryanhousing4biz-001.jpeg?v=1764685128&w=1920&h=1080",
+    "pubDate": "2025-12-02T14:35:44+00:00"
+  },
+  {
+    "title": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
+    "description": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data, experts told CNBC.",
+    "link": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108174717-1753125936019-gettyimages-2225298349-zawrzel-bigcompa250720_npNf0.jpeg?v=1764625372&w=1920&h=1080",
+    "pubDate": "2025-12-02T14:33:00+00:00"
+  },
+  {
+    "title": "Vaccine Committee May Make Significant Changes to Childhood Schedule",
+    "description": "Comments by President Trump, Health Secretary Robert F. Kennedy Jr. and some panelists suggest the committee is likely to delay hepatitis B shots and discuss revising the use of other vaccines.",
+    "link": "https://www.nytimes.com/2025/12/02/health/vaccine-committee-hepatitis-b-children-trump-rfk-jr.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/03/11/multimedia/00HS-vaccines/WELL-MEASLES-BABIES1-mhqk-facebookJumbo.jpg",
+    "pubDate": "2025-12-02T14:28:42+00:00"
+  },
+  {
+    "title": "Former cyber spy raises $60 million to fight AI threats",
+    "description": "Zafran Security, a startup created by a former cyber spy whose story helped inspire the Apple TV series \"Tehran,\" has raised $60 million, the company told CNBC.",
+    "link": "https://www.cnbc.com/2025/12/02/cybersecurity-israel-tehran-starup-raise.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108232769-1764190196255-Ben_Seri_CTO_Sanaz_Yashar_CEO_Snir_Havdala_CPO_Credit-_Eric_Sultan.jpeg?v=1764190310&w=1920&h=1080",
+    "pubDate": "2025-12-02T14:23:25+00:00"
+  },
+  {
     "title": "OpenAI CEO Sam Altman declares 'code red' as ChatGPT competition mounts",
     "description": "",
     "link": "https://finance.yahoo.com/news/openai-ceo-sam-altman-declares-code-red-as-chatgpt-competition-mounts-141751345.html",
@@ -14,18 +63,18 @@
     "pubDate": "2025-12-02T14:13:46+00:00"
   },
   {
+    "title": "As regime change looms at the Fed, one candidate emerges as front-runner for chair",
+    "description": "President Donald Trump knows who he's going to select as the next Federal Reserve chair but isn't saying yet.",
+    "link": "https://www.cnbc.com/2025/12/01/as-regime-change-looms-at-the-fed-one-candidate-emerges-as-frontrunner-for-chair.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108216639-1761319773762-gettyimages-2242660501-WH_HASSETT.jpeg?v=1761319795&w=1920&h=1080",
+    "pubDate": "2025-12-02T14:12:17+00:00"
+  },
+  {
     "title": "Who Is Salim Ramji? The Executive Who Took BlackRock Into Bitcoin—And Just Opened Vanguard to Crypto",
     "description": "",
     "link": "https://finance.yahoo.com/news/salim-ramji-executive-took-blackrock-140834068.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/3fI3.eIguhXkptcNb2Qd0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/677985931d84e9d089fee39f47886af4",
     "pubDate": "2025-12-02T14:08:34+00:00"
-  },
-  {
-    "title": "Vaccine Committee May Make Significant Changes to Childhood Schedule",
-    "description": "Comments by President Trump, Health Secretary Robert F. Kennedy Jr. and some panelists suggest the committee is likely to delay hepatitis B shots and discuss revising the use of other vaccines.",
-    "link": "https://www.nytimes.com/2025/12/02/health/vaccine-committee-hepatitis-b-children-trump-rfk-jr.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/03/11/multimedia/00HS-vaccines/WELL-MEASLES-BABIES1-mhqk-facebookJumbo.jpg",
-    "pubDate": "2025-12-02T14:08:02+00:00"
   },
   {
     "title": "Jury trials scrapped for crimes with sentences of less than three years",
@@ -40,6 +89,13 @@
     "link": "https://finance.yahoo.com/news/mercadolibre-meli-slid-q3-despite-140608567.html",
     "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/e2ff2306320743bebbdc8073c032b4e9",
     "pubDate": "2025-12-02T14:06:08+00:00"
+  },
+  {
+    "title": "Maduro Faces His Ultimate Fight as Trump Threatens Military Action in Venezuela",
+    "description": "President Trump’s threat of military action has confronted President Nicolás Maduro of Venezuela with the gravest challenge of his crisis-ridden reign.",
+    "link": "https://www.nytimes.com/2025/12/02/world/americas/venezuela-nicolas-maduro-trump.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/02/multimedia/02venezuela-Maduro-kvmf/02venezuela-Maduro-kvmf-facebookJumbo.jpg",
+    "pubDate": "2025-12-02T14:02:54+00:00"
   },
   {
     "title": "Israel targeted Al Shifa Hospital “the same way” as military systems",
@@ -91,6 +147,13 @@
     "pubDate": "2025-12-02T13:50:57+00:00"
   },
   {
+    "title": "Digital Asset Treasuries are crypto's latest hype — and maybe its next bubble",
+    "description": "DATs are companies that hold cryptocurrency and attempt to outperform the underlying asset through various strategies.",
+    "link": "https://www.cnbc.com/2025/12/02/dat-digital-asset-treasury-companies-explained.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107212428-1679412407200-gettyimages-1243440706-raa-ethereum220922_npJS5.jpeg?v=1764671552&w=1920&h=1080",
+    "pubDate": "2025-12-02T13:50:12+00:00"
+  },
+  {
     "title": "Sudan’s paramilitary RSF claims control of key city of Babnusa",
     "description": "Sudan’s Rapid Support Forces say they have seized control of the city of Babnusa in West Kordofan.",
     "link": "https://www.aljazeera.com/video/newsfeed/2025/12/2/sudans-paramilitary-rsf-claims-control-of-key-city-of-babnusa?traffic_source=rss",
@@ -103,20 +166,6 @@
     "link": "https://www.polygon.com/marvel-cosmic-invasion-review/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/marvel_cosmic_invasion_phoenix_ironman_7.png?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-02T13:30:14+00:00"
-  },
-  {
-    "title": "How to maximize the bigger SALT deduction for 2025 under Trump’s ‘big beautiful bill’",
-    "description": "President Donald Trump's \"big beautiful bill\" increased the SALT deduction limit to $40,000 for 2025. Here's how to maximize the tax break.",
-    "link": "https://www.cnbc.com/2025/12/02/trump-bigger-salt-deduction-2025.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108035365-1726592780788-gettyimages-523153598-shot-9_487.jpeg?v=1764606464&w=1920&h=1080",
-    "pubDate": "2025-12-02T13:30:01+00:00"
-  },
-  {
-    "title": "What to Know About Trump Accounts for Children and Eligibility After Dell Donation",
-    "description": "Next year, Michael and Susan Dell plan to move $250 into the new Trump accounts of millions of children under 10. You’ll need to live in the right ZIP code.",
-    "link": "https://www.nytimes.com/2025/12/02/business/trump-accounts-children-dell.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/02/business/02biz-dellfaq-1/02biz-dellfaq-1-facebookJumbo.jpg",
-    "pubDate": "2025-12-02T13:26:33+00:00"
   },
   {
     "title": "Reeves did not mislead on challenges facing UK ahead of Budget, says OBR official",
@@ -161,13 +210,6 @@
     "pubDate": "2025-12-02T13:13:14+00:00"
   },
   {
-    "title": "What Michael Dell’s Blockbuster Donation Means for Philanthropy",
-    "description": "Michael Dell and his wife, Susan Dell, plan to give away billions of dollars to fund investment accounts for children in the United States.",
-    "link": "https://www.nytimes.com/2025/12/02/business/dealbook/dell-donation-trump-accounts.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/02/multimedia/02db-dell-cgwt/02db-dell-cgwt-facebookJumbo.jpg",
-    "pubDate": "2025-12-02T13:11:44+00:00"
-  },
-  {
     "title": "Is entertainment making us better or quietly reshaping us for the worse?",
     "description": "Is this truly the golden age of creativity or has entertainment lost the meaning it once offered?",
     "link": "https://www.aljazeera.com/video/doha-debates/2025/12/2/is-entertainment-making-us-better-or-quietly-reshaping-us-for-the-worse?traffic_source=rss",
@@ -194,13 +236,6 @@
     "link": "https://cointelegraph.com/news/cz-trust-wallet-debuts-prediction-markets-myriad?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1764683645%26nc%3D1764683645619%26cachebust%3Dtrue%26sid%3Df528684fc32bbd41&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019adeca-e716-7d3d-a869-679508894a70",
     "pubDate": "2025-12-02T13:06:17+00:00"
-  },
-  {
-    "title": "Putin to Meet With Witkoff and Kushner as U.S. Pushes for Ukraine Deal",
-    "description": "In Moscow, Steve Witkoff, President Trump’s special envoy, and Jared Kushner, Mr. Trump’s son-in-law, are expected to present President Vladimir V. Putin with a revised proposal to end the war.",
-    "link": "https://www.nytimes.com/2025/12/02/world/europe/putin-witkoff-trump-ukraine-meeting.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/01/multimedia/00int-putin-witkoff-01-lbkp/00int-putin-witkoff-01-lbkp-facebookJumbo.jpg",
-    "pubDate": "2025-12-02T13:05:16+00:00"
   },
   {
     "title": "Bitcoin's ‘more reliable’ RSI variant hits bear market bottom zone at $87K",
@@ -308,13 +343,6 @@
     "pubDate": "2025-12-02T12:00:14+00:00"
   },
   {
-    "title": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
-    "description": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data, experts told CNBC.",
-    "link": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108174717-1753125936019-gettyimages-2225298349-zawrzel-bigcompa250720_npNf0.jpeg?v=1764625372&w=1920&h=1080",
-    "pubDate": "2025-12-02T12:00:01+00:00"
-  },
-  {
     "title": "Poland's President Vetoes MiCA Bill, Cites Threats to 'Freedoms of Poles'",
     "description": "President Karol Narwocki was concerned that the Cryptoasset Market Act would allow the government to disable crypto companies websites \"with a single click.\"",
     "link": "https://www.coindesk.com/policy/2025/12/02/poland-s-president-vetos-crypto-market-bill-cites-threats-to-freedoms-of-poles",
@@ -413,25 +441,11 @@
     "pubDate": "2025-12-02T10:03:36+00:00"
   },
   {
-    "title": "SoftBank’s Son ‘was crying’ about the firm's need to sell its Nvidia stake",
-    "description": "SoftBank Group founder Masayoshi Son has downplayed his firm's decision to dump its Nvidia position, saying he \"was crying\" to sell the shares.",
-    "link": "https://www.cnbc.com/2025/12/02/softbank-masayoshi-son-crying-nvidia-stake-ai-bet-artificial-intelligence-bubble-vision-fund.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108224591-1762912260088-gettyimages-2224660139-JAPAN_SOFTBANK.jpeg?v=1764659874&w=1920&h=1080",
-    "pubDate": "2025-12-02T09:38:21+00:00"
-  },
-  {
     "title": "Anthropic Research Shows AI Agents Are Closing In on Real DeFi Attack Capability",
     "description": "Models tested by MATS and the Anthropic Fellows program generated turnkey exploit scripts and identified fresh vulnerabilities, suggesting automated exploitation is becoming technically and economically viable.",
     "link": "https://www.coindesk.com/tech/2025/12/02/anthropic-research-shows-ai-agents-are-closing-in-on-real-defi-attack-capability",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/393e84095965220999b35c44733c11906d628da7-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2025-12-02T09:11:52+00:00"
-  },
-  {
-    "title": "Tesla CEO Elon Musk bats for H-1B visas, says tariffs distort markets",
-    "description": "Tesla CEO raises concerns over Trump's tariff policy and says he does not support closing of the H-1B visa program.",
-    "link": "https://www.cnbc.com/2025/12/02/tesla-ceo-elon-musk-bats-for-h-1b-visa-says-tariffs-distort-markets-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108152755-17486318812025-05-30t185819z_1826852128_rc2iseaivnkr_rtrmadp_0_usa-trump.jpeg?v=1748633265&w=1920&h=1080",
-    "pubDate": "2025-12-02T08:54:58+00:00"
   },
   {
     "title": "Hegseth authorised Venezuelan boat strikes but admiral ordered second hit, White House says",
@@ -460,13 +474,6 @@
     "link": "https://www.gamespot.com/articles/lego-minifigures-marvel-spider-man-spider-verse-collection-2025-buying-guide/1100-6533603/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4541486-spider-manminifigures.jpg",
     "pubDate": "2025-12-02T07:06:00+00:00"
-  },
-  {
-    "title": "A 'seismic' Nvidia shift, AI chip shortages and how it's threatening to hike gadget prices",
-    "description": "The AI infrastructure buildout is creating shortages of components including various types of chips that are also used in consumer electronics.",
-    "link": "https://www.cnbc.com/2025/12/02/nvidia-shift-ai-chip-shortages-threatening-to-hike-gadget-prices.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108233306-1764322289679-gettyimages-2241962168-ECP_fc1300561.jpeg?v=1764322377&w=1920&h=1080",
-    "pubDate": "2025-12-02T06:30:08+00:00"
   },
   {
     "title": "Our teen daughter died from meningitis - we didn't know a booster jab would have saved her",
@@ -581,20 +588,6 @@
     "pubDate": "2025-12-01T22:40:55+00:00"
   },
   {
-    "title": "As regime change looms at the Fed, one candidate emerges as frontrunner for chair",
-    "description": "President Donald Trump knows who he's going to select as the next Federal Reserve chair but isn't saying yet.",
-    "link": "https://www.cnbc.com/2025/12/01/as-regime-change-looms-at-the-fed-one-candidate-emerges-as-frontrunner-for-chair.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108216639-1761319773762-gettyimages-2242660501-WH_HASSETT.jpeg?v=1761319795&w=1920&h=1080",
-    "pubDate": "2025-12-01T22:14:33+00:00"
-  },
-  {
-    "title": "Meta's Instagram orders employees back to the office 5 days a week",
-    "description": "The RTO policy only applies to Instagram and not to Meta's other family of apps, like Facebook and WhatsApp.",
-    "link": "https://www.cnbc.com/2025/12/01/meta-instagram-rto-return-to-office.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108036048-1726683556003-gettyimages-2172931780-bb2_5242_hfdmz6f1.jpeg?v=1764623254&w=1920&h=1080",
-    "pubDate": "2025-12-01T22:05:33+00:00"
-  },
-  {
     "title": "All Pump N' Run gas station locations in Fortnite Chapter 7 Season 1",
     "description": "Here's where to find all four Pump N' Run gas stations in Fortnite Chapter 7 Season 1, so you can fill up your car and complete your quests.",
     "link": "https://www.polygon.com/all-pump-n-run-gas-station-locations-in-fortnite-chapter-7/",
@@ -621,5 +614,12 @@
     "link": "https://www.polygon.com/mtg-avatar-earthbending-counter-eradicate/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/avatar-last-airbender-mtg-toph.jpg?w=1200&h=675&fit=crop",
     "pubDate": "2025-12-01T21:00:14+00:00"
+  },
+  {
+    "title": "The Ex-President Whom Trump Plans to Pardon Flooded America With Cocaine",
+    "description": "Juan Orlando Hernández, whom Mr. Trump called a victim of persecution, helped orchestrate a decades-long trafficking conspiracy. It ravaged his Central American country.",
+    "link": "https://www.nytimes.com/2025/11/29/nyregion/honduras-hernandez-drug-trafficking.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/11/29/multimedia/29met-honduras-hernandez-zpqc/29met-honduras-hernandez-zpqc-facebookJumbo.jpg",
+    "pubDate": "2025-11-30T00:16:05+00:00"
   }
 ]
