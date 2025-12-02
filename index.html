@@ -551,16 +551,23 @@
 
       lastScrollY = window.scrollY;
 
-      // link original da fonte (BBC, etc.)
       const externalUrl = card.getAttribute('data-external');
-      const full = card.getAttribute('data-full');
+      const full        = card.getAttribute('data-full');
+      const slug        = card.dataset.slug;
 
-      // se não tem texto interno (full) → manda pra fonte original
+      // 1) Notícias externas sem fullText → vão pra fonte original
       if (externalUrl && !full) {
         window.location.href = externalUrl;
         return;
       }
 
+      // 2) Se tiver slug → abre o leitor infinito em outra página
+      if (slug) {
+        window.location.href = 'reader.html?post=' + encodeURIComponent(slug);
+        return;
+      }
+
+      // 3) Se não tiver slug, usa o comportamento antigo (popup interno)
       const title = card.querySelector('.title')?.innerHTML || '';
       const desc  = card.querySelector('.desc')?.innerHTML || '';
 
@@ -571,7 +578,7 @@
 
       articleTitle.innerHTML = title;
       articleBody.innerHTML  = full || desc;
-      gridEl.style.display = "none";
+      gridEl.style.display   = "none";
       articleView.classList.add('open');
 
       document.getElementById('articleImage').scrollIntoView({
@@ -730,6 +737,46 @@
       return false;
     }
 
+    // 🔹 Card especial entre os outros (notícia no meio)
+    function createMiddleNewsCard() {
+      const card = document.createElement('article');
+      card.classList.add('card');
+
+      // aparece em todos filtros
+      card.dataset.category = 'all';
+
+      // se clicar, vai pro site principal (pode trocar o link)
+      card.setAttribute('data-external', 'https://btcbrave.store');
+
+      card.innerHTML = `
+        <div class="card-img-medium" style="
+          background: radial-gradient(circle at top, #1f2937 0, #020617 60%);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          color:#f9fafb;
+          font-weight:700;
+          font-size:16px;
+          text-transform:uppercase;
+          letter-spacing:0.12em;
+        ">
+          BTCBRAVE HIGHLIGHT
+        </div>
+        <div class="card-body">
+          <div class="title"><strong>Stay ahead of the next move</strong></div>
+          <div class="desc">
+            Extra curated insight from BTCBRAVE between the latest headlines. 
+            Tap to visit our main page and explore more tools, guides and market ideas.
+          </div>
+          <div class="meta-row">
+            <span>BTCBRAVE • Special</span>
+          </div>
+        </div>
+      `;
+
+      return card;
+    }
+
     async function loadAllNews() {
       if (loading) loading.style.display = 'block';
 
@@ -827,7 +874,7 @@
 
         grid.innerHTML = '';
 
-        items.forEach(item => {
+        items.forEach((item, index) => {
           const pub        = parseDate(item.pubDate);
           const hasImage   = item.thumbnail && item.thumbnail.startsWith('http');
           const sourceName = item.sourceOverride || getSourceName(item.link || '');
@@ -841,11 +888,8 @@
 
           const titleSafe = (item.title || '').replace(/'/g, "\\'");
 
-          // 🔹 slug básico para o blog (se precisar gerar link)
           const basicSlug = item.slug || createSlug(item.title || '');
 
-          // 🔹 link final: se já tiver link no JSON, usa ele;
-          //     se não tiver, gera https://blog.btcbrave.store/slug.html
           let finalLink = '';
 
           if (item.link && item.link.trim()) {
@@ -854,27 +898,21 @@
             finalLink = `https://blog.btcbrave.store/${basicSlug}.html`;
           }
 
-          // 🔹 slug único para permalinks (?post=...)
           const slugUnique = item._slug || basicSlug || '';
           const permUrl = slugUnique
             ? `https://news.btcbrave.store/?post=${encodeURIComponent(slugUnique)}`
             : '';
 
-          // vamos considerar finalLink como "url primária" da notícia
-          const originalUrl = finalLink || '';
+          const originalUrl = finalLink || permUrl || '';
 
           const card = document.createElement('article');
           card.classList.add('card');
 
-          // permalink principal usado para compartilhar / copiar
           card.setAttribute('data-url', originalUrl || permUrl || '');
 
-          // link externo (para Script 1 decidir se abre fora ou no reader)
           if (!isBlog && originalUrl) {
-            // notícias externas (BBC, etc.) → vão pra fonte original
             card.setAttribute('data-external', originalUrl);
           } else if (isBlog && !fullText && originalUrl) {
-            // se for Blog SEM fullText, pode mandar pro link do blog
             card.setAttribute('data-external', originalUrl);
           }
 
@@ -935,6 +973,12 @@
           `;
 
           grid.appendChild(card);
+
+          // 🔹 Depois do 5º card (index 4), coloca uma notícia especial no meio
+          if (index === 4) {
+            const middleCard = createMiddleNewsCard();
+            grid.appendChild(middleCard);
+          }
         });
 
         const activeBtn = document.querySelector('.filter-btn.active');
