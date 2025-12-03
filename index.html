@@ -4,10 +4,10 @@
   <meta charset="UTF-8" />
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#05060a">
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>BTCBRAVE – New </title>
   <style>
+    /* ---- seu CSS original vai aqui ---- */
     :root {
       --bg-main: #05060a;
       --bg-card: #111318;
@@ -17,500 +17,83 @@
       --text-muted: #a0a4b8;
       --border-soft: #252837;
     }
-     
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-      background: radial-gradient(circle at top, #151827 0, #05060a 40%, #020308 100%);
-      color: var(--text-main);
-    }
-     
-    header {
-      background: rgba(5, 6, 10, 0.96);
-      padding: 10px 24px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      border-bottom: 1px solid var(--border-soft);
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      backdrop-filter: blur(14px);
-    }
-
-    .logo {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      font-weight: 800;
-      letter-spacing: 0.06em;
-      text-transform: none;
-      color: var(--accent);
-      font-size: 18px;
-    }
-
-    .logo-badge {
-      width: 30px;
-      height: 30px;
-      border-radius: 999px;
-      border: 2px solid var(--accent);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 16px;
-    }
-
-    header nav a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: var(--text-muted);
-      font-weight: 500;
-      font-size: 14px;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      padding-bottom: 4px;
-      border-bottom: 2px solid transparent;
-      transition: 0.2s;
-    }
-
-    header nav a:hover {
-      color: var(--accent-soft);
-      border-bottom-color: var(--accent);
-    }
-
-    .filter-bar {
-      max-width: 1600px;
-      margin: 10px auto 0;
-      padding: 8px 18px 0;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-    }
-
-    .filter-btn {
-      background: #111318;
-      color: var(--text-muted);
-      border: 1px solid var(--border-soft);
-      border-radius: 999px;
-      padding: 6px 14px;
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      cursor: pointer;
-      transition: 0.18s ease;
-    }
-
-    .filter-btn:hover {
-      border-color: var(--accent-soft);
-      color: var(--accent-soft);
-    }
-
-    .filter-btn.active {
-      background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899, #f97316);
-      color: #ffffff;
-      border-color: transparent;
-    }
-
-    .loading-news {
-      max-width: 1600px;
-      margin: 16px auto 0;
-      padding: 8px 18px;
-      font-size: 13px;
-      color: var(--text-muted);
-      display: none;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(5, minmax(0, 1fr));
-      gap: 16px;
-      padding: 18px;
-      max-width: 1600px;
-      margin: auto;
-    }
-
-    @media (max-width: 1100px) {
-      .grid {
-        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      }
-      .grid > .card {
-        grid-column: span 1 !important;
-      }
-    }
-
-    .grid > .card {
-      min-height: 240px;
-    }
-
-    .grid > .card:nth-child(15n + 1),
-    .grid > .card:nth-child(15n + 13) {
-      grid-column: span 2;
-    }
-
-    .card {
-      background: radial-gradient(circle at top left, #202538 0, #111318 45%, #05060a 100%);
-      border-radius: 14px;
-      overflow: hidden;
-      box-shadow: 0 22px 40px rgba(0,0,0,0.6);
-      border: 2px solid rgba(255,255,255,0.18);
-      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
-      position: relative;
-      cursor: pointer;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 30px 60px rgba(0,0,0,0.8);
-      border-color: rgba(255, 221, 112, 0.4);
-    }
-
-    .card-body {
-      padding: 16px 18px 18px;
-      background: transparent;
-      margin-top: auto;
-    }
-
-    .title {
-      font-size: 19px;
-      font-weight: 700;
-      margin-bottom: 6px;
-      color: #fdfdfd;
-    }
-
-    .desc {
-      color: var(--text-muted);
-      font-size: 14px;
-      line-height: 1.5;
-      max-height: 72px;
-      overflow: hidden;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-    }
-
-    .meta-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 10px;
-      font-size: 12px;
-      color: var(--text-muted);
-    }
-
-    .badge-live {
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      background: rgba(220, 53, 69, 0.96);
-      color: #fff;
-      font-size: 10px;
-      padding: 3px 8px;
-      border-radius: 999px;
-      text-transform: uppercase;
-      letter-spacing: 0.16em;
-    }
-
-    .article-view {
-      width: 100%;
-      background: radial-gradient(circle at top, #111318 0, #05060a 40%, #020308 100%);
-      display: none;
-      flex-direction: column;
-      padding: 40px 18px 32px;
-      position: relative;
-    }
-
-    .article-view.open {
-      display: flex;
-    }
-
-    .article-inner {
-      max-width: 960px;
-      margin: 0 auto;
-      background: #05060a;
-      border-radius: 18px;
-      padding: 28px 22px 26px;
-      border: 1px solid rgba(212, 175, 55, 0.4);
-      box-shadow: 0 30px 70px rgba(0,0,0,0.9);
-    }
-
-    .article-title {
-      font-size: 28px;
-      line-height: 1.3;
-      font-weight: 800;
-      margin-bottom: 12px;
-      color: #ffffff;
-    }
-
-    .article-body {
-      font-size: 14px;
-      line-height: 1.7;
-      background: #fffcf2 !important;
-      color: #000000 !important;
-      padding: 20px;
-      border-radius: 12px;
-      margin-top: 15px;
-    }
-
-    .article-close {
-      position: fixed;
-      top: 120px;
-      left: 18px;
-      background: #ffffff;
-      border: 2px solid rgba(0,0,0,0.7);
-      color: #000;
-      border-radius: 999px;
-      width: 40px;
-      height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      font-size: 30px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.7);
-      z-index: 9999;
-    }
-
-    .article-close:hover {
-      background: #ffe891;
-      transform: translateY(-1px);
-    }
-
-    .card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
-    .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08); }
-    .card-img-large { height:200px; width:100%; object-fit:cover; }
-
-    .btcbrave-login-overlay {
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,0.75);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      z-index: 12000;
-    }
-
-    .btcbrave-login-card {
-      background: #ffffff;
-      color: #111827;
-      width: 100%;
-      max-width: 420px;
-      border-radius: 8px;
-      padding: 28px 30px 24px;
-      box-shadow: 0 25px 60px rgba(0,0,0,0.5);
-      position: relative;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-    }
-
-    .btcbrave-login-close {
-      position: absolute;
-      top: 10px;
-      right: 12px;
-      border: none;
-      background: transparent;
-      font-size: 18px;
-      cursor: pointer;
-    }
-
-    .btcbrave-login-title {
-      margin: 0 0 8px;
-      font-size: 20px;
-      font-weight: 700;
-      text-align: center;
-    }
-
-    .btcbrave-login-subtitle {
-      margin: 0 0 18px;
-      font-size: 13px;
-      line-height: 1.4;
-      text-align: center;
-      color: #4b5563;
-    }
-
-    .btcbrave-login-footnote {
-      margin: 8px 0 0;
-      font-size: 11px;
-      color: #6b7280;
-      text-align: center;
-    }
-
-    .grid > .card:nth-child(15n + 1),
-    .grid > .card:nth-child(15n + 13) {
-      position: relative;
-    }
-
-    .grid > .card:nth-child(15n + 1) .card-img-medium,
-    .grid > .card:nth-child(15n + 13) .card-img-medium {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center;
-      border-bottom: none;
-    }
-
-    .grid > .card:nth-child(15n + 1)::before,
-    .grid > .card:nth-child(15n + 13)::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(
-        to top,
-        rgba(0, 0, 0, 0.9) 0%,
-        rgba(0, 0, 0, 0.4) 50%,
-        rgba(0, 0, 0, 0.0) 100%
-      );
-      z-index: 1;
-    }
-
-    .grid > .card:nth-child(15n + 1) .card-body,
-    .grid > .card:nth-child(15n + 13) .card-body {
-      position: absolute;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      margin-top: 0;
-      z-index: 2;
-      padding: 18px 20px 20px;
-    }
+    *{box-sizing:border-box;}
+    body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:radial-gradient(circle at top,#151827 0,#05060a 40%,#020308 100%);color:var(--text-main);}
+    header{background:rgba(5,6,10,.96);padding:10px 24px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--border-soft);position:sticky;top:0;z-index:10;backdrop-filter:blur(14px);}
+    .logo{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.06em;text-transform:none;color:var(--accent);font-size:18px;}
+    .logo-badge{width:30px;height:30px;border-radius:999px;border:2px solid var(--accent);display:flex;align-items:center;justify-content:center;font-size:16px;}
+    header nav a{margin:0 10px;text-decoration:none;color:var(--text-muted);font-weight:500;font-size:14px;text-transform:uppercase;letter-spacing:.06em;padding-bottom:4px;border-bottom:2px solid transparent;transition:.2s;}
+    header nav a:hover{color:var(--accent-soft);border-bottom-color:var(--accent);}
+    .filter-bar{max-width:1600px;margin:10px auto 0;padding:8px 18px 0;display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
+    .filter-btn{background:#111318;color:var(--text-muted);border:1px solid var(--border-soft);border-radius:999px;padding:6px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.08em;cursor:pointer;transition:.18s ease;}
+    .filter-btn:hover{border-color:var(--accent-soft);color:var(--accent-soft);}
+    .filter-btn.active{background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);color:#fff;border-color:transparent;}
+    .loading-news{max-width:1600px;margin:16px auto 0;padding:8px 18px;font-size:13px;color:var(--text-muted);display:none;}
+    .grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;padding:18px;max-width:1600px;margin:auto;}
+    @media (max-width:1100px){.grid{grid-template-columns:repeat(auto-fill,minmax(320px,1fr));}.grid>.card{grid-column:span 1 !important;}}
+    .grid>.card{min-height:240px;}
+    .grid>.card:nth-child(15n+1),.grid>.card:nth-child(15n+13){grid-column:span 2;}
+    .card{background:radial-gradient(circle at top left,#202538 0,#111318 45%,#05060a 100%);border-radius:14px;overflow:hidden;box-shadow:0 22px 40px rgba(0,0,0,.6);border:2px solid rgba(255,255,255,.18);transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease;position:relative;cursor:pointer;display:flex;flex-direction:column;}
+    .card:hover{transform:translateY(-3px);box-shadow:0 30px 60px rgba(0,0,0,.8);border-color:rgba(255,221,112,.4);}
+    .card-body{padding:16px 18px 18px;background:transparent;margin-top:auto;}
+    .title{font-size:19px;font-weight:700;margin-bottom:6px;color:#fdfdfd;}
+    .desc{color:var(--text-muted);font-size:14px;line-height:1.5;max-height:72px;overflow:hidden;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;}
+    .meta-row{display:flex;justify-content:space-between;align-items:center;margin-top:10px;font-size:12px;color:var(--text-muted);}
+    .badge-live{position:absolute;top:10px;left:10px;background:rgba(220,53,69,.96);color:#fff;font-size:10px;padding:3px 8px;border-radius:999px;text-transform:uppercase;letter-spacing:.16em;}
+    .article-view{width:100%;background:radial-gradient(circle at top,#111318 0,#05060a 40%,#020308 100%);display:none;flex-direction:column;padding:40px 18px 32px;position:relative;}
+    .article-view.open{display:flex;}
+    .article-inner{max-width:960px;margin:0 auto;background:#05060a;border-radius:18px;padding:28px 22px 26px;border:1px solid rgba(212,175,55,.4);box-shadow:0 30px 70px rgba(0,0,0,.9);}
+    .article-title{font-size:28px;line-height:1.3;font-weight:800;margin-bottom:12px;color:#fff;}
+    .article-body{font-size:14px;line-height:1.7;background:#fffcf2 !important;color:#000 !important;padding:20px;border-radius:12px;margin-top:15px;}
+    .article-close{position:fixed;top:120px;left:18px;background:#fff;border:2px solid rgba(0,0,0,.7);color:#000;border-radius:999px;width:40px;height:40px;display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:30px;box-shadow:0 10px 25px rgba(0,0,0,.7);z-index:9999;}
+    .article-close:hover{background:#ffe891;transform:translateY(-1px);}
+    .card-img-small{height:50px;width:100%;object-fit:contain;object-position:bottom;}
+    .card-img-medium{width:100%;height:180px;object-fit:cover;display:block;border-bottom:1px solid rgba(255,255,255,.08);}
+    .card-img-large{height:200px;width:100%;object-fit:cover;}
+    .btcbrave-login-overlay{position:fixed;inset:0;background:rgba(0,0,0,.75);display:flex;align-items:center;justify-content:center;z-index:12000;}
+    .btcbrave-login-card{background:#fff;color:#111827;width:100%;max-width:420px;border-radius:8px;padding:28px 30px 24px;box-shadow:0 25px 60px rgba(0,0,0,.5);position:relative;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;}
+    .btcbrave-login-close{position:absolute;top:10px;right:12px;border:none;background:transparent;font-size:18px;cursor:pointer;}
+    .btcbrave-login-title{margin:0 0 8px;font-size:20px;font-weight:700;text-align:center;}
+    .btcbrave-login-subtitle{margin:0 0 18px;font-size:13px;line-height:1.4;text-align:center;color:#4b5563;}
+    .btcbrave-login-footnote{margin:8px 0 0;font-size:11px;color:#6b7280;text-align:center;}
+    .grid>.card:nth-child(15n+1),.grid>.card:nth-child(15n+13){position:relative;}
+    .grid>.card:nth-child(15n+1) .card-img-medium,.grid>.card:nth-child(15n+13) .card-img-medium{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;border-bottom:none;}
+    .grid>.card:nth-child(15n+1)::before,.grid>.card:nth-child(15n+13)::before{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.9) 0%,rgba(0,0,0,.4) 50%,rgba(0,0,0,0) 100%);z-index:1;}
+    .grid>.card:nth-child(15n+1) .card-body,.grid>.card:nth-child(15n+13) .card-body{position:absolute;left:0;right:0;bottom:0;margin-top:0;z-index:2;padding:18px 20px 20px;}
   </style>
 </head>
 <body>
-
   <iframe name="hiddenBrevoFrame" style="display:none;"></iframe>
 
   <div id="btcbraveLoginOverlay" class="btcbrave-login-overlay" style="display:none;">
     <div class="btcbrave-login-card">
       <button id="btcbraveLoginClose" class="btcbrave-login-close">×</button>
-
       <h2 class="btcbrave-login-title">Create your BTCBRAVE alerts</h2>
-      <p class="btcbrave-login-subtitle">
-        Get price moves, news alerts and updates directly in your inbox.
-      </p>
-
-      <form
-        id="btcbraveLoginForm"
-        action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA=="
-        method="POST"
-        target="hiddenBrevoFrame"
-        novalidate
-      >
-        <label for="btcbraveLoginEmail" style="display:block; font-size:12px; font-weight:600; margin-bottom:4px; color:#374151;">
-          Email address
-        </label>
-
-        <input
-          type="email"
-          id="btcbraveLoginEmail"
-          name="EMAIL"
-          placeholder="Enter your email"
-          required
-          style="
-            width:100%;
-            padding:10px;
-            border-radius:6px;
-            border:1px solid #d1d5db;
-            font-size:14px;
-            box-sizing:border-box;
-          "
-        />
-
-        <button
-          type="submit"
-          style="
-            width:100%;
-            margin-top:10px;
-            padding:10px 0;
-            border-radius:999px;
-            border:none;
-            background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-            color:#ffffff;
-            font-size:14px;
-            font-weight:700;
-            cursor:pointer;
-          "
-        >
-          Continue
-        </button>
-
+      <p class="btcbrave-login-subtitle">Get price moves, news alerts and updates directly in your inbox.</p>
+      <form id="btcbraveLoginForm" action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA==" method="POST" target="hiddenBrevoFrame" novalidate>
+        <label for="btcbraveLoginEmail" style="display:block;font-size:12px;font-weight:600;margin-bottom:4px;color:#374151;">Email address</label>
+        <input type="email" id="btcbraveLoginEmail" name="EMAIL" placeholder="Enter your email" required style="width:100%;padding:10px;border-radius:6px;border:1px solid #d1d5db;font-size:14px;box-sizing:border-box;">
+        <button type="submit" style="width:100%;margin-top:10px;padding:10px 0;border-radius:999px;border:none;background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);color:#ffffff;font-size:14px;font-weight:700;cursor:pointer;">Continue</button>
         <input type="text" name="email_address_check" value="" style="display:none;">
         <input type="hidden" name="locale" value="en">
       </form>
-
-      <p class="btcbrave-login-footnote">
-        By continuing, you agree to BTCBRAVE Terms of Use and Privacy Policy.
-      </p>
+      <p class="btcbrave-login-footnote">By continuing, you agree to BTCBRAVE Terms of Use and Privacy Policy.</p>
     </div>
   </div>
 
   <header>
-    <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
-
-      <div style="display:flex; align-items:center; gap:10px;">
-        <div class="logo-badge" 
-             style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
-                    display:flex; align-items:center; justify-content:center; padding:0;">
-          <img src="borboleta.png" 
-               alt="BTCBRAVE Butterfly Logo" 
-               style="width:38px; height:38px; border-radius:50%; object-fit:cover; 
-                      object-position:center; background:var(--bg-main);" />
+    <div class="logo" style="display:flex;flex-direction:column;justify-content:center;">
+      <div style="display:flex;align-items:center;gap:10px;">
+        <div class="logo-badge" style="width:40px;height:40px;border-radius:999px;border:2px solid var(--accent);display:flex;align-items:center;justify-content:center;padding:0;">
+          <img src="borboleta.png" alt="BTCBRAVE Butterfly Logo" style="width:38px;height:38px;border-radius:50%;object-fit:cover;object-position:center;background:var(--bg-main);" />
         </div>
-
-        <span style="
-            background: linear-gradient(90deg,#1d4ed8,#7c3aed,#ec4899,#f59e0b);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            font-weight: 800;
-            font-size: 22px;
-            text-shadow: 0 0 6px rgba(255,255,255,0.2);">
-          BTCBRAVE News
-        </span>
+        <span style="background:linear-gradient(90deg,#1d4ed8,#7c3aed,#ec4899,#f59e0b);-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-weight:800;font-size:22px;text-shadow:0 0 6px rgba(255,255,255,.2);">BTCBRAVE News</span>
       </div>
-
-      <a href="mailto:news@btcbrave.store"
-         style="
-           margin-left:80px;
-           margin-top:2px;
-           font-size:12px;
-           color:var(--text-muted);
-           text-decoration:none;
-           display:flex;
-           align-items:center;
-           gap:6px;">
-        <span style="font-size:14px;">📩</span>
-        news@btcbrave.store
+      <a href="mailto:news@btcbrave.store" style="margin-left:80px;margin-top:2px;font-size:12px;color:var(--text-muted);text-decoration:none;display:flex;align-items:center;gap:6px;">
+        <span style="font-size:14px;">📩</span>news@btcbrave.store
       </a>
-
     </div>
-
-    <div id="floating-subscribe" 
-      style="
-        position:absolute;
-        right:24px;
-        top:12px;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        width:24px;
-        height:24px;
-        background:#fff;
-        border-radius:999px;
-        font-size:12px;
-        font-weight:700;
-        letter-spacing:0.5px;
-        box-shadow:0 8px 20px rgba(0,0,0,0.6);
-        cursor:pointer;
-        border:1px solid rgba(255,255,255,0.25);">
-      🔔
-    </div>
-
+    <div id="floating-subscribe" style="position:absolute;right:24px;top:12px;display:flex;align-items:center;justify-content:center;width:24px;height:24px;background:#fff;border-radius:999px;font-size:12px;font-weight:700;letter-spacing:.5px;box-shadow:0 8px 20px rgba(0,0,0,.6);cursor:pointer;border:1px solid rgba(255,255,255,.25);">🔔</div>
     <nav style="display:none;"></nav>
   </header>
 
@@ -534,9 +117,9 @@
 
   <div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
 
-  <div class="btcbrave-grid grid"></div>
+  <div id="btcbraveGrid" class="btcbrave-grid grid"></div>
 
-  <!-- SCRIPT 1: Clique no card / articleView (usa data-external) -->
+  <!-- ==================== SCRIPT 1: Card click ==================== -->
   <script>
     const articleView = document.getElementById('articleView');
     const articleTitle = document.getElementById('articleTitle');
@@ -550,12 +133,9 @@
       if (!card) return;
 
       lastScrollY = window.scrollY;
-
-      // link original da fonte (BBC, etc.)
       const externalUrl = card.getAttribute('data-external');
       const full = card.getAttribute('data-full');
 
-      // se não tem texto interno (full) → manda pra fonte original
       if (externalUrl && !full) {
         window.location.href = externalUrl;
         return;
@@ -563,10 +143,10 @@
 
       const title = card.querySelector('.title')?.innerHTML || '';
       const desc  = card.querySelector('.desc')?.innerHTML || '';
-
       const imgSrc = card.querySelector('img')?.src || '';
+
       document.getElementById('articleImage').innerHTML = imgSrc
-        ? `<img src="${imgSrc}" style="width:100%; border-radius:12px; margin-bottom:20px;" />`
+        ? `<img src="${imgSrc}" style="width:100%;border-radius:12px;margin-bottom:20px;" />`
         : '';
 
       articleTitle.innerHTML = title;
@@ -595,13 +175,13 @@
     });
   </script>
 
-  <!-- SCRIPT 2: Carrega news + gera slug + permalink + botão Share no Blog -->
+  <!-- ==================== SCRIPT 2: Load news + filter ==================== -->
   <script>
     const grid    = document.querySelector('.grid');
     const loading = document.getElementById('loadingNews');
     const BLOG_POSTS_URL = "https://blog.btcbrave.store/posts.json";
 
-    // 🔹 NOVO: função para gerar slug a partir do título
+    /* ---------- Funções auxiliares ---------- */
     function createSlug(title) {
       if (!title) return "";
       return title
@@ -612,13 +192,11 @@
         .trim()
         .replace(/\s+/g, "-");
     }
-
     function getSourceName(url) {
       if (!url) return 'NEWS';
       try {
         const u = new URL(url);
         const host = u.hostname.replace('www.', '').toLowerCase();
-
         if (host.includes('cointelegraph'))  return 'Cointelegraph';
         if (host.includes('cryptonews'))     return 'CryptoNews';
         if (host.includes('coindesk'))       return 'CoinDesk';
@@ -630,7 +208,6 @@
         if (host.includes('bloomberg'))      return 'Bloomberg';
         if (host.includes('cnbc'))           return 'CNBC';
         if (host.includes('forbes'))         return 'Forbes';
-
         if (host.includes('bbc'))            return 'BBC News';
         if (host.includes('cnn'))            return 'CNN';
         if (host.includes('reuters'))        return 'Reuters';
@@ -639,103 +216,50 @@
         if (host.includes('apnews'))         return 'AP News';
         if (host.includes('nytimes'))        return 'The New York Times';
         if (host.includes('washingtonpost')) return 'The Washington Post';
-
         if (host.includes('gamespot'))       return 'GameSpot';
         if (host.includes('polygon'))        return 'Polygon';
-
         if (host.includes('allrecipes'))     return 'AllRecipes';
         if (host.includes('thespruceeats'))  return 'The Spruce Eats';
         if (host.includes('bonappetit'))     return 'Bon Appétit';
-
-        if (host.includes('blog.btcbrave.store')) {
-          return 'BTCBRAVE Blog';
-        }
-
+        if (host.includes('blog.btcbrave.store')) return 'BTCBRAVE Blog';
         return host.toUpperCase();
       } catch (e) {
         return 'NEWS';
       }
     }
-
     function getCategory(url) {
       if (!url) return 'all';
       try {
         const u = new URL(url);
         const host = u.hostname.replace('www.', '').toLowerCase();
-
-        if (
-          host.includes('cointelegraph')  ||
-          host.includes('cryptonews')     ||
-          host.includes('coindesk')       ||
-          host.includes('yahoo')          ||
-          host.includes('investors.com')  ||
-          host.includes('wsj.com')        ||
-          host.includes('investing.com')  ||
-          host.includes('marketwatch')    ||
-          host.includes('bloomberg')      ||
-          host.includes('cnbc')           ||
-          host.includes('forbes')
-        ) {
-          return 'crypto';
-        }
-
-        if (host.includes('gamespot') || host.includes('polygon')) {
-          return 'games';
-        }
-
-        if (host.includes('bonappetit') || host.includes('thespruceeats') || host.includes('allrecipes')) {
-          return 'food';
-        }
-
-        if (
-          host.includes('reuters')       ||
-          host.includes('bbc')           ||
-          host.includes('cnn')           ||
-          host.includes('aljazeera')     ||
-          host.includes('msn')           ||
-          host.includes('apnews')        ||
-          host.includes('nytimes')       ||
-          host.includes('washingtonpost')
-        ) {
-          return 'world';
-        }
-
-        if (host.includes('blog.btcbrave.store')) {
-          return 'blog';
-        }
-
+        if (['cointelegraph','cryptonews','coindesk','yahoo','investors.com','wsj.com','investing.com','marketwatch','bloomberg','cnbc','forbes'].some(v=>host.includes(v))) return 'crypto';
+        if (['gamespot','polygon'].some(v=>host.includes(v))) return 'games';
+        if (['bonappetit','thespruceeats','allrecipes'].some(v=>host.includes(v))) return 'food';
+        if (['reuters','bbc','cnn','aljazeera','msn','apnews','nytimes','washingtonpost'].some(v=>host.includes(v))) return 'world';
+        if (host.includes('blog.btcbrave.store')) return 'blog';
         return 'all';
       } catch (e) {
         return 'all';
       }
     }
-
     function parseDate(value) {
       if (!value) return new Date();
       const d = new Date(value);
       if (isNaN(d.getTime())) return new Date();
       return d;
     }
-
     function isPinnedItem(item) {
       if (!item) return false;
-
-      // dá prioridade para os posts do BLOG
       if (item.isBlog) return true;
-
-      if (item.category && item.category.toLowerCase() === 'blog') {
-        return true;
-      }
-
+      if (item.category && item.category.toLowerCase() === 'blog') return true;
       return false;
     }
 
+    /* ---------- Carrega todas as notícias ---------- */
     async function loadAllNews() {
       if (loading) loading.style.display = 'block';
-
       try {
         const now = new Date();
-
         const [rssResp, blogResp] = await Promise.all([
           fetch('news.json?_=' + Date.now()),
           fetch(BLOG_POSTS_URL + '?_=' + Date.now())
@@ -743,84 +267,50 @@
 
         let items = [];
 
-        // Notícias externas (news.json)
         if (rssResp.ok) {
           const rssItems = await rssResp.json();
           const mappedRss = rssItems.map(it => {
-            const url = (it.link && it.link.trim())
-              ? it.link.trim()
-              : '';
-
+            const url = (it.link && it.link.trim()) ? it.link.trim() : '';
             const cat = it.category || getCategory(url);
-
-            return {
-              ...it,
-              link: url,
-              category: cat || 'all',
-              isBlog: false,
-              sourceOverride: null
-            };
+            return { ...it, link: url, category: cat || 'all', isBlog: false, sourceOverride: null };
           });
           items = items.concat(mappedRss);
         }
 
-        // Posts do BLOG (posts.json)
         if (blogResp.ok) {
           let blogItems = await blogResp.json();
           blogItems = blogItems.map(it => {
-            const url = (it.link && it.link.trim())
-              ? it.link.trim()
-              : '';
-
-            return {
-              ...it,
-              link: url,
-              isBlog: true,
-              category: it.category || 'blog',
-              sourceOverride: 'BTCBRAVE Blog'
-            };
+            const url = (it.link && it.link.trim()) ? it.link.trim() : '';
+            return { ...it, link: url, isBlog: true, category: it.category || 'blog', sourceOverride: 'BTCBRAVE Blog' };
           });
           items = items.concat(blogItems);
         }
 
-        // Só passado ou agora
         items = items.filter(it => {
           const d = parseDate(it.pubDate);
           return d <= now;
         });
 
-        // Ordena por data (mais novo primeiro)
         items.sort((a, b) => {
           const da = parseDate(b.pubDate).getTime();
           const db = parseDate(a.pubDate).getTime();
           return da - db;
         });
 
-        // destaque: primeiro post do BLOG vira a primeira notícia
         const pinnedIndex = items.findIndex(isPinnedItem);
         if (pinnedIndex > 0) {
           const [pinnedItem] = items.splice(pinnedIndex, 1);
           items.unshift(pinnedItem);
         }
 
-        // Gera slug único para cada notícia (para ?post=...)
+        /* ---------- Slug único ---------- */
         const slugCount = {};
         items.forEach((it, index) => {
-          let base =
-            (it.slug || it.id || it.guid || it.title || ('post-' + index))
-              .toString()
-              .toLowerCase();
-
-          base = base
-            .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-            .replace(/[^a-z0-9]+/g, '-')
-            .replace(/(^-|-$)/g, '');
-
+          let base = (it.slug || it.id || it.guid || it.title || ('post-' + index)).toString().toLowerCase();
+          base = base.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
           if (!base) base = 'post-' + index;
-
           const count = (slugCount[base] || 0) + 1;
           slugCount[base] = count;
-
           const finalSlug = count > 1 ? `${base}-${count}` : base;
           it._slug = finalSlug;
         });
@@ -841,40 +331,27 @@
 
           const titleSafe = (item.title || '').replace(/'/g, "\\'");
 
-          // 🔹 slug básico para o blog (se precisar gerar link)
           const basicSlug = item.slug || createSlug(item.title || '');
 
-          // 🔹 link final: se já tiver link no JSON, usa ele;
-          //     se não tiver, gera https://blog.btcbrave.store/slug.html
           let finalLink = '';
-
           if (item.link && item.link.trim()) {
             finalLink = item.link.trim();
           } else if (basicSlug) {
             finalLink = `https://blog.btcbrave.store/${basicSlug}.html`;
           }
 
-          // 🔹 slug único para permalinks (?post=...)
           const slugUnique = item._slug || basicSlug || '';
-          const permUrl = slugUnique
-            ? `https://news.btcbrave.store/?post=${encodeURIComponent(slugUnique)}`
-            : '';
+          const permUrl = slugUnique ? `https://news.btcbrave.store/?post=${encodeURIComponent(slugUnique)}` : '';
 
-          // vamos considerar finalLink como "url primária" da notícia
           const originalUrl = finalLink || '';
-
           const card = document.createElement('article');
           card.classList.add('card');
 
-          // permalink principal usado para compartilhar / copiar
           card.setAttribute('data-url', originalUrl || permUrl || '');
 
-          // link externo (para Script 1 decidir se abre fora ou no reader)
           if (!isBlog && originalUrl) {
-            // notícias externas (BBC, etc.) → vão pra fonte original
             card.setAttribute('data-external', originalUrl);
           } else if (isBlog && !fullText && originalUrl) {
-            // se for Blog SEM fullText, pode mandar pro link do blog
             card.setAttribute('data-external', originalUrl);
           }
 
@@ -882,9 +359,7 @@
           card.dataset.category = category || 'all';
           card.dataset.slug     = slugUnique;
 
-          if (fullText) {
-            card.setAttribute('data-full', fullText);
-          }
+          if (fullText) card.setAttribute('data-full', fullText);
 
           const shareUrl     = originalUrl || permUrl || '';
           const shareUrlSafe = shareUrl.replace(/'/g, "\\'");
@@ -893,7 +368,6 @@
             ${hasImage
               ? `<img src="${item.thumbnail}" class="card-img-medium" />`
               : `<div class="card-img-medium" style="background:#05060a;"></div>`}
-
             ${isBlog ? `
             <button class="share-btn"
                  type="button"
@@ -912,8 +386,7 @@
                   color:#fff;
                   display:flex;
                   align-items:center;
-                  gap:6px;
-                 ">
+                  gap:6px;">
                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
                       viewBox="0 0 24 24" fill="none" stroke="white"
                       stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -924,7 +397,6 @@
                  Share
             </button>
             ` : ``}
-
             <div class="card-body">
               <div class="title"><strong>${item.title || ''}</strong></div>
               <div class="desc">${(item.description || '').substring(0, 120)}...</div>
@@ -941,19 +413,15 @@
         const currentFilter = activeBtn ? activeBtn.dataset.filter : 'all';
         applyFilter(currentFilter);
 
-        // Se chegar com ?post=slug na URL → abre a notícia certa
         const params = new URLSearchParams(window.location.search);
         const targetSlug = params.get('post');
         if (targetSlug) {
-          const targetCard = document.querySelector(
-            '.grid .card[data-slug="' + targetSlug + '"]'
-          );
+          const targetCard = document.querySelector('.grid .card[data-slug="' + targetSlug + '"]');
           if (targetCard) {
             targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
             targetCard.click();
           }
         }
-
       } catch (e) {
         console.log('NEWS MERGE ERROR', e);
       } finally {
@@ -962,7 +430,6 @@
     }
 
     const filterBar = document.querySelector('.filter-bar');
-
     function applyFilter(filter) {
       const cards = document.querySelectorAll('.grid .card');
       cards.forEach(card => {
@@ -979,21 +446,89 @@
       filterBar.addEventListener('click', (e) => {
         const btn = e.target.closest('.filter-btn');
         if (!btn) return;
-
         const filter = btn.dataset.filter || 'all';
-
-        document.querySelectorAll('.filter-btn').forEach(b => {
-          b.classList.toggle('active', b === btn);
-        });
-
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b === btn));
         applyFilter(filter);
       });
     }
 
     loadAllNews();
     setInterval(loadAllNews, 86400000);
+
+    /* ==================================================== */
+    /* --------- INFINITE SCROLL ADDED HERE --------- */
+    /* ==================================================== */
+    let loadingMore = false;   // controla requisições simultâneas
+    let page = 1;              // a primeira página já foi carregada por loadAllNews()
+
+    function isBottom() {
+      return window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 50;
+    }
+
+    async function loadMoreNews() {
+      if (loadingMore) return;
+      loadingMore = true;
+
+      const loadingIndicator = document.getElementById('loadingNews');
+      if (loadingIndicator) loadingIndicator.style.display = 'block';
+
+      try {
+        /* Substitua a URL abaixo pela rota real que devolve o próximo lote */
+        const response = await fetch(`/api/news?page=${page}`);
+        const data = await response.json();
+
+        if (data && data.length) {
+          data.forEach(item => {
+            const card = document.createElement('article');
+            card.classList.add('card');
+
+            const hasImage = item.thumbnail && item.thumbnail.startsWith('http');
+            const sourceName = item.sourceOverride || getSourceName(item.link || '');
+            const pub = parseDate(item.pubDate);
+
+            card.dataset.pubdate  = pub.toISOString();
+            card.dataset.category = item.category?.toLowerCase() || 'all';
+            card.dataset.slug     = item._slug || createSlug(item.title || '');
+
+            if (item.fullText) card.setAttribute('data-full', item.fullText);
+            if (item.link && item.link.trim()) card.setAttribute('data-external', item.link.trim());
+
+            card.innerHTML = `
+              ${hasImage
+                ? `<img src="${item.thumbnail}" class="card-img-medium" />`
+                : `<div class="card-img-medium" style="background:#05060a;"></div>`}
+              <div class="card-body">
+                <div class="title"><strong>${item.title || ''}</strong></div>
+                <div class="desc">${(item.description || '').substring(0, 120)}...</div>
+                <div class="meta-row"><span>${pub.toLocaleDateString()} • ${sourceName}</span></div>
+              </div>
+            `;
+
+            document.querySelector('.grid').appendChild(card);
+          });
+
+          page++;   // próximo lote
+        } else {
+          /* Se não houver mais dados, remove o listener de scroll */
+          window.removeEventListener('scroll', handleScroll);
+        }
+      } catch (err) {
+        console.error('Erro ao carregar mais notícias:', err);
+      } finally {
+        loadingMore = false;
+        if (loadingIndicator) loadingIndicator.style.display = 'none';
+      }
+    }
+
+    function handleScroll() {
+      if (isBottom()) loadMoreNews();
+    }
+
+    window.addEventListener('scroll', handleScroll);
+    /* -------------------------------------------------- */
   </script>
 
+  <!-- ==================== SCRIPT 3: Login / Float ==================== -->
   <script>
     document.addEventListener('DOMContentLoaded', function () {
       const overlay  = document.getElementById('btcbraveLoginOverlay');
@@ -1028,7 +563,6 @@
             const confirmUnsub = confirm(
               "You are already subscribed.\nDo you want to unsubscribe?"
             );
-
             if (confirmUnsub) {
               localStorage.removeItem('btcbraveSubscribed');
               alert('You are now unsubscribed.');
@@ -1039,28 +573,21 @@
         });
       }
 
-      if (closeBtn) {
-        closeBtn.addEventListener('click', closeLogin);
-      }
+      if (closeBtn) closeBtn.addEventListener('click', closeLogin);
 
       overlay.addEventListener('click', function (e) {
-        if (e.target === overlay) {
-          closeLogin();
-        }
+        if (e.target === overlay) closeLogin();
       });
 
       if (form && emailInp) {
         form.addEventListener('submit', function (e) {
           const email = emailInp.value.trim();
-
           if (!isValidEmail(email)) {
             e.preventDefault();
             alert('Please enter a valid email address.');
             return;
           }
-
           localStorage.setItem('btcbraveSubscribed', 'true');
-
           setTimeout(function () {
             alert('Subscribed! Please check your inbox to confirm.');
             closeLogin();
@@ -1070,6 +597,7 @@
     });
   </script>
 
+  <!-- ==================== SCRIPT 4: Share ==================== -->
   <script>
     function shareBlogPost(url, title) {
       const text = `Check this article on BTCBRAVE News:\n${title}\n${url}`;
@@ -1079,9 +607,7 @@
           title: title,
           text: text,
           url: url
-        }).catch(err => {
-          console.log("Share failed", err);
-        });
+        }).catch(err => console.log("Share failed", err));
         return;
       }
 
@@ -1095,6 +621,7 @@
     }
   </script>
 
+  <!-- ==================== SCRIPT 5: Service Worker ==================== -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function() {
@@ -1104,6 +631,5 @@
       });
     }
   </script>
-
 </body>
 </html>
