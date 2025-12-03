@@ -534,7 +534,7 @@
 
   <div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
 
-  <!-- NOVO: grids separados -->
+  <!-- Grids separados -->
   <section style="max-width:1600px; margin:10px auto 0; padding:0 18px;">
     <h2 style="
       font-size:18px;
@@ -561,7 +561,15 @@
 
   <div id="blogGrid" class="btcbrave-grid grid"></div>
 
-  <!-- SCRIPT 1: Clique no card / articleView (usa data-external) -->
+  <!-- variáveis globais para posts do Blog e reader infinito -->
+  <script>
+    let globalBlogItems = [];
+    let blogReaderActive = false;
+    let blogReaderOffset = 0;
+    const BLOG_BATCH_SIZE = 10;
+  </script>
+
+  <!-- SCRIPT 1: Clique no card / articleView (News normal + Blog 10 em 10 com fotos) -->
   <script>
     const articleView = document.getElementById('articleView');
     const articleTitle = document.getElementById('articleTitle');
@@ -570,6 +578,61 @@
     const articleImageBox = document.getElementById('articleImage');
     let lastScrollY = 0;
 
+    function renderBlogBatch(reset = false) {
+      if (!globalBlogItems || !globalBlogItems.length) return;
+      if (blogReaderOffset >= globalBlogItems.length) return;
+
+      if (reset) {
+        articleBody.innerHTML = '';
+      }
+
+      const slice = globalBlogItems.slice(blogReaderOffset, blogReaderOffset + BLOG_BATCH_SIZE);
+
+      slice.forEach((post, idx) => {
+        const t = post.title || '';
+        const bodyPost = post.fullText || post.description || '';
+        const pubDate = new Date(post.pubDate || Date.now()).toLocaleDateString();
+        const thumb = post.thumbnail && post.thumbnail.startsWith('http')
+          ? post.thumbnail
+          : '';
+
+        articleBody.innerHTML += `
+          <article style="margin-bottom:24px;">
+            ${thumb ? `
+              <img src="${thumb}"
+                   alt="${t}"
+                   style="width:100%; border-radius:10px; margin-bottom:8px; max-height:260px; object-fit:cover;" />
+            ` : ``}
+            <h3 style="
+              font-size:18px;
+              margin:${(reset && idx === 0 && blogReaderOffset === 0) ? '0 0 8px' : '16px 0 8px'};
+              font-weight:700;
+              color:#111827;
+            ">
+              ${t}
+            </h3>
+            <div style="margin-bottom:4px; font-size:12px; color:#4b5563;">
+              ${pubDate}
+            </div>
+            <div style="margin-bottom:4px;">
+              ${bodyPost}
+            </div>
+          </article>
+          <hr style="border:none; border-top:1px solid #e5e7eb; margin:0 0 16px;" />
+        `;
+      });
+
+      blogReaderOffset += slice.length;
+
+      if (blogReaderOffset >= globalBlogItems.length) {
+        articleBody.innerHTML += `
+          <div style="text-align:center; margin-top:10px; font-size:12px; color:#6b7280;">
+            No more blog posts for now.
+          </div>
+        `;
+      }
+    }
+
     document.addEventListener('click', (event) => {
       const card = event.target.closest('.card');
       if (!card) return;
@@ -577,14 +640,36 @@
       lastScrollY = window.scrollY;
 
       const externalUrl = card.getAttribute('data-external');
-      const full = card.getAttribute('data-full');
+      const full = card.getAttribute('data-full') || '';
+      const category = (card.dataset.category || '').toLowerCase();
+      const isBlog = category === 'blog';
 
-      // se não tem texto interno (full) → manda pra fonte original
-      if (externalUrl && !full) {
+      // NEWS normal: se não tem texto interno → vai pra fonte original
+      if (!isBlog && externalUrl && !full) {
         window.location.href = externalUrl;
         return;
       }
 
+      // BLOG: reader com várias notícias (10 em 10) + fotos
+      if (isBlog && globalBlogItems && globalBlogItems.length) {
+        blogReaderActive = true;
+        blogReaderOffset = 0;
+
+        articleImageBox.innerHTML = '';
+        articleTitle.innerHTML = 'BTCBRAVE Blog – latest posts';
+
+        renderBlogBatch(true);
+
+        articleView.classList.add('open');
+        articleView.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start'
+        });
+
+        return;
+      }
+
+      // Modo padrão (News ou Blog sem lista)
       const title = card.querySelector('.title')?.innerHTML || '';
       const desc  = card.querySelector('.desc')?.innerHTML || '';
 
@@ -606,18 +691,37 @@
 
     articleClose.addEventListener('click', () => {
       articleView.classList.remove('open');
+      blogReaderActive = false;
+      blogReaderOffset = 0;
       window.scrollTo(0, lastScrollY);
     });
 
     articleView.addEventListener('click', (e) => {
       if (e.target === articleView) {
         articleView.classList.remove('open');
+        blogReaderActive = false;
+        blogReaderOffset = 0;
         window.scrollTo(0, lastScrollY);
+      }
+    });
+
+    // Infinite scroll dentro do reader do Blog (rola a página → carrega mais 10)
+    window.addEventListener('scroll', () => {
+      if (!blogReaderActive) return;
+      if (!articleView.classList.contains('open')) return;
+      if (!globalBlogItems || !globalBlogItems.length) return;
+      if (blogReaderOffset >= globalBlogItems.length) return;
+
+      const rect = articleBody.getBoundingClientRect();
+      const distanceToBottom = rect.bottom - window.innerHeight;
+
+      if (distanceToBottom < 400) {
+        renderBlogBatch(false);
       }
     });
   </script>
 
-  <!-- SCRIPT 2: Carrega news + gera slug + permalink + botão Share no Blog -->
+  <!-- SCRIPT 2: Carrega news + separa NEWS / BLOG e alimenta globalBlogItems -->
   <script>
     const newsGrid   = document.getElementById('newsGrid');
     const blogGrid   = document.getElementById('blogGrid');
@@ -905,7 +1009,7 @@
               sourceOverride: 'BTCBRAVE Blog'
             };
 
-            assignSlug(item, 10000 + idx); // só p/ evitar clash de índice
+            assignSlug(item, 10000 + idx); // evitar clash
             return item;
           });
         }
@@ -917,6 +1021,9 @@
         // ordena por data desc
         newsItems.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
         blogItems.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
+
+        // salva posts do blog na variável global para o reader infinito
+        globalBlogItems = blogItems;
 
         // limpa grids
         if (newsGrid) newsGrid.innerHTML = '';
