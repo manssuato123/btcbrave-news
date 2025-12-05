@@ -131,7 +131,7 @@
       gap: 16px;
       padding: 18px;
       max-width: 1600px;
-      margin: auto;
+      margin: 10px auto 0;
     }
 
     @media (max-width: 1100px) {
@@ -523,6 +523,7 @@
     <button class="filter-btn" data-filter="blog">Blog</button>
   </div>
 
+  <!-- Reader -->
   <div class="article-view" id="articleView">
     <button class="article-close" id="articleClose">×</button>
     <div class="article-inner">
@@ -534,32 +535,10 @@
 
   <div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
 
-  <!-- Grids separados -->
-  <section style="max-width:1600px; margin:10px auto 0; padding:0 18px;">
-    <h2 style="
-      font-size:18px;
-      margin:0 0 10px;
-      font-weight:700;
-      color:var(--text-main);
-    ">
-      Latest News
-    </h2>
-  </section>
-
+  <!-- Um único grid para tudo (News + Blog intercalados) -->
   <div id="newsGrid" class="btcbrave-grid grid"></div>
-
-  <section style="max-width:1600px; margin:20px auto 0; padding:0 18px;">
-    <h2 style="
-      font-size:18px;
-      margin:0 0 10px;
-      font-weight:700;
-      color:var(--text-main);
-    ">
-      BTCBRAVE Blog
-    </h2>
-  </section>
-
-  <div id="blogGrid" class="btcbrave-grid grid"></div>
+  <!-- blogGrid fica só como reserva, mas vazio/sem uso visual -->
+  <div id="blogGrid" class="btcbrave-grid grid" style="display:none;"></div>
 
   <!-- variáveis globais para posts do Blog e reader infinito -->
   <script>
@@ -569,7 +548,7 @@
     const BLOG_BATCH_SIZE = 10;
   </script>
 
-  <!-- SCRIPT 1: Clique no card / articleView (News normal + Blog 10 em 10 com fotos) -->
+  <!-- SCRIPT 1: Clique no card / articleView -->
   <script>
     const articleView = document.getElementById('articleView');
     const articleTitle = document.getElementById('articleTitle');
@@ -605,7 +584,7 @@
             ` : ``}
             <h3 style="
               font-size:18px;
-              margin:${(reset && idx === 0 && blogReaderOffset === 0) ? '0 0 8px' : '16px 0 8px'};
+              margin:${reset && idx === 0 ? '0 0 8px' : '16px 0 8px'};
               font-weight:700;
               color:#111827;
             ">
@@ -650,13 +629,15 @@
         return;
       }
 
-      // BLOG: reader com várias notícias (10 em 10) + fotos
+      // BLOG: reader com várias notícias (10 em 10) + começando do card clicado
       if (isBlog && globalBlogItems && globalBlogItems.length) {
         blogReaderActive = true;
-        blogReaderOffset = 0;
+
+        const idxFromCard = parseInt(card.dataset.blogIndex || '0', 10);
+        blogReaderOffset = isNaN(idxFromCard) ? 0 : idxFromCard;
 
         articleImageBox.innerHTML = '';
-        articleTitle.innerHTML = 'BTCBRAVE Blog – latest posts';
+        articleTitle.innerHTML = '';
 
         renderBlogBatch(true);
 
@@ -669,13 +650,13 @@
         return;
       }
 
-      // Modo padrão (News ou Blog sem lista)
+      // Modo padrão (News ou Blog sem lista) – imagem menor e inteira
       const title = card.querySelector('.title')?.innerHTML || '';
       const desc  = card.querySelector('.desc')?.innerHTML || '';
 
       const imgSrc = card.querySelector('img')?.src || '';
       articleImageBox.innerHTML = imgSrc
-        ? `<img src="${imgSrc}" style="width:100%; border-radius:12px; margin-bottom:20px;" />`
+        ? `<img src="${imgSrc}" style="width:100%; max-height:420px; object-fit:contain; border-radius:12px; margin-bottom:20px; background:#000;" />`
         : '';
 
       articleTitle.innerHTML = title;
@@ -721,7 +702,7 @@
     });
   </script>
 
-  <!-- SCRIPT 2: Carrega news + separa NEWS / BLOG e alimenta globalBlogItems -->
+  <!-- SCRIPT 2: Carrega news + intercala NEWS / BLOG no mesmo grid -->
   <script>
     const newsGrid   = document.getElementById('newsGrid');
     const blogGrid   = document.getElementById('blogGrid');
@@ -1018,7 +999,7 @@
         newsItems = newsItems.filter(it => parseDate(it.pubDate) <= now);
         blogItems = blogItems.filter(it => parseDate(it.pubDate) <= now);
 
-        // ordena por data desc
+        // ordena por data desc (mantemos ordenação por data dentro de cada lista)
         newsItems.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
         blogItems.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
 
@@ -1029,29 +1010,39 @@
         if (newsGrid) newsGrid.innerHTML = '';
         if (blogGrid) blogGrid.innerHTML = '';
 
-        // monta cards de NEWS
-        newsItems.forEach(item => {
-          const card = buildCard(item, false);
+        // INTERCALAR: 1 do blog, 1 de news, e assim por diante
+        let combined = [];
+        let ni = 0, bi = 0;
+        while (ni < newsItems.length || bi < blogItems.length) {
+          if (bi < blogItems.length) {
+            combined.push({ item: blogItems[bi], isBlog: true, blogIndex: bi });
+            bi++;
+          }
+          if (ni < newsItems.length) {
+            combined.push({ item: newsItems[ni], isBlog: false });
+            ni++;
+          }
+        }
+
+        combined.forEach(({ item, isBlog, blogIndex }) => {
+          const card = buildCard(item, isBlog);
+          if (isBlog && typeof blogIndex !== 'undefined') {
+            card.dataset.blogIndex = blogIndex;
+          }
           newsGrid.appendChild(card);
         });
 
-        // monta cards do BLOG
-        blogItems.forEach(item => {
-          const card = buildCard(item, true);
-          blogGrid.appendChild(card);
-        });
-
-        // aplica filtro atual só no grid de NEWS
+        // aplica filtro atual no único grid
         const activeBtn = document.querySelector('.filter-btn.active');
         const currentFilter = activeBtn ? activeBtn.dataset.filter : 'all';
         applyFilter(currentFilter);
 
-        // ?post=slug → procura em qualquer grid
+        // ?post=slug → procura no grid
         const params = new URLSearchParams(window.location.search);
         const targetSlug = params.get('post');
         if (targetSlug) {
           const targetCard = document.querySelector(
-            '.grid .card[data-slug="' + targetSlug + '"]'
+            '#newsGrid .card[data-slug="' + targetSlug + '"]'
           );
           if (targetCard) {
             targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
