@@ -621,7 +621,7 @@
       const externalUrl = card.getAttribute('data-external');
       const full = card.getAttribute('data-full') || '';
       const category = (card.dataset.category || '').toLowerCase();
-      const isBlog = category === 'blog';
+      const isBlog = (card.dataset.source || '').toLowerCase() === 'blog' || category === 'blog';
 
       // NEWS normal: se não tem texto interno → vai pra fonte original
       if (!isBlog && externalUrl && !full) {
@@ -853,7 +853,17 @@
 
       const categoryFromField = (item.category || '').toLowerCase();
       const categoryDetected  = getCategory(item.link || '');
-      const category = isBlog ? 'blog' : (categoryFromField || categoryDetected || 'all').toLowerCase();
+      let category = 'all';
+
+      // BLOG → usa a categoria do JSON (ou "blog" se não tiver)
+      if (isBlog) {
+        category = categoryFromField || 'blog';
+      } else {
+        // NEWS → categoria do JSON, senão detecta pelo link
+        category = categoryFromField || categoryDetected || 'all';
+      }
+
+      category = category.toLowerCase();
 
       const fullText   = item.fullText || '';
       const titleSafe  = (item.title || '').replace(/'/g, "\\'");
@@ -888,6 +898,7 @@
       card.dataset.pubdate  = pub.toISOString();
       card.dataset.category = category || 'all';
       card.dataset.slug     = slugUnique;
+      card.dataset.source   = isBlog ? 'blog' : 'news';
 
       if (fullText) {
         card.setAttribute('data-full', fullText);
@@ -1061,13 +1072,24 @@
 
     function applyFilter(filter) {
       const cards = document.querySelectorAll('#newsGrid .card');
+
       cards.forEach(card => {
-        const cat = card.dataset.category || 'other';
-        if (filter === 'all' || filter === cat) {
-          card.style.display = '';
+        const cat    = (card.dataset.category || 'other').toLowerCase();
+        const source = (card.dataset.source || 'news').toLowerCase();
+
+        let show = false;
+
+        if (filter === 'all') {
+          show = true;
+        } else if (filter === 'blog') {
+          // Botão BLOG → só posts do blog
+          show = (source === 'blog');
         } else {
-          card.style.display = 'none';
+          // Crypto, World, Games, Cooking → pela categoria
+          show = (cat === filter.toLowerCase());
         }
+
+        card.style.display = show ? '' : 'none';
       });
     }
 
