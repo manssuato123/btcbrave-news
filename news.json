@@ -1,5 +1,19 @@
 [
   {
+    "title": "Young people on benefits to be offered construction and hospitality work",
+    "description": "The government says it will fund training and work experience for 350,000 not in work or education.",
+    "link": "https://www.bbc.com/news/articles/cqlke33rzplo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b44a/live/ebeedd30-d35b-11f0-a892-01d657345866.png",
+    "pubDate": "2025-12-07T11:09:12+00:00"
+  },
+  {
+    "title": "Nightclub fire in India's Goa kills 25 people including staff and tourists",
+    "description": "Eyewitnesses described scenes of panic in one of Goa's bustling nightlife areas.",
+    "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/41f760e0-d324-11f0-a892-01d657345866.jpg",
+    "pubDate": "2025-12-07T11:01:25+00:00"
+  },
+  {
     "title": "Drone strike on Sudan preschool by RSF and ally kills dozens of children",
     "description": "A drone attack by the RSF and its allied al-Hilou group on a preschool in Sudan has killed more than 100 people.",
     "link": "https://www.aljazeera.com/video/newsfeed/2025/12/7/drone-strike-on-sudan-preschool-by-rsf-and-ally-kills-dozens-of-children?traffic_source=rss",
@@ -28,7 +42,7 @@
     "pubDate": "2025-12-07T10:22:35+00:00"
   },
   {
-    "title": "German chancellor “signals business as usual” on Israel trip",
+    "title": "German Chancellor “Signals Business as Usual” On Israel Trip",
     "description": "“[German Chancellor’s visit to Israel] signals it’s business as usual again.”",
     "link": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/Quotable-thumbnail-16X9-1765102844.png?resize=1920%2C1080&quality=80",
@@ -140,8 +154,8 @@
     "pubDate": "2025-12-07T09:10:34+00:00"
   },
   {
-    "title": "Benin coup attempt live: Interior minister says coup attempt thwarted",
-    "description": "Government officials say situation under control after group of soldiers claimed they had overthrown President Talon.",
+    "title": "Benin coup attempt live: Soldiers on state TV claim to have toppled Talon",
+    "description": "Group of soldiers announce the removal of President Patrice Talon and all state institutions.",
     "link": "https://www.aljazeera.com/news/liveblog/2025/12/7/benin-attempt-coup-live-soldiers-on-state-tv-claim-to-have-toppled-talon?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/Screenshot-2025-12-07-at-12.03.19-PM-1765098223.png?resize=1920%2C1440",
     "pubDate": "2025-12-07T09:09:40+00:00"
@@ -150,28 +164,21 @@
     "title": "French banking giant BPCE to launch in-app crypto trading: Report",
     "description": "BPCE will let millions of customers buy and sell BTC, ETH, SOL and USDC directly inside its banking apps.",
     "link": "https://cointelegraph.com/news/french-bank-bpce-launches-in-app-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MGYtYWY0ZS03NzJlLWI0OWYtMDAxZDdmOTFlNTFh.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af80f-af4e-772e-b49f-001d7f91e51a",
     "pubDate": "2025-12-07T09:09:17+00:00"
-  },
-  {
-    "title": "Staff and tourists among 25 killed in Goa nightclub fire",
-    "description": "Officials believe a gas canister explosion triggered the fire which tore through the busy nightlife venue.",
-    "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/41f760e0-d324-11f0-a892-01d657345866.jpg",
-    "pubDate": "2025-12-07T08:22:36+00:00"
   },
   {
     "title": "South Korea to impose bank-level liability on crypto exchanges after Upbit hack: Report",
     "description": "South Korea plans to hold crypto exchanges to the same no-fault compensation standards as banks after an Upbit hack exposed major gaps in consumer protection.",
     "link": "https://cointelegraph.com/news/south-korea-upbit-hack-crypto-exchanges-bank-liability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY3OWYtY2RmMC03ZjgwLWE3ZWMtMWQ5ZTE2MzQ4NWJl.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af79f-cdf0-7f80-a7ec-1d9e163485be",
     "pubDate": "2025-12-07T07:07:20+00:00"
   },
   {
     "title": "Ether supply squeeze looms with exchanges holding lowest levels since 2015",
     "description": "Ether exchange balances dropped to a decade low of 8.7% as more ETH moved into staking and custody, setting up a potential supply squeeze.",
     "link": "https://cointelegraph.com/news/ether-exchange-balance-falls-to-an-unprecedented-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY3M2YtZDI1My03MDk3LWI1ZmQtOTg2YzkyYzNiYmRj.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af73f-d253-7097-b5fd-986c92c3bbdc",
     "pubDate": "2025-12-07T05:48:54+00:00"
   },
   {
@@ -192,15 +199,8 @@
     "title": "Bitcoin buries the tulip myth after 17 years of proven resilience says ETF expert",
     "description": "ETF expert Eric Balchunas argued Bitcoin's 17-year track record and multiple recoveries make tulip mania comparisons obsolete despite recent criticism.",
     "link": "https://cointelegraph.com/news/bitcoin-buries-the-tulip-myth-after-17-years-of-proven-resilience-balchunas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY3MGMtNGJiMC03NzBjLTljZTktMjNhYmFhYTVkYjIx.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af70c-4bb0-770c-9ce9-23abaaa5db21",
     "pubDate": "2025-12-07T04:24:35+00:00"
-  },
-  {
-    "title": "Young people on benefits to be offered construction and hospitality work",
-    "description": "The government says it will fund training and work experience for 350,000 not in work or education.",
-    "link": "https://www.bbc.com/news/articles/cqlke33rzplo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8886/live/ae722e40-d323-11f0-9fb5-5f3a3703a365.jpg",
-    "pubDate": "2025-12-07T04:18:41+00:00"
   },
   {
     "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
@@ -227,7 +227,7 @@
     "title": "Rising Bitcoin ‘liveliness’ indicator suggests bull market may continue: analysts",
     "description": "Bitcoin’s liveliness indicator reached new peaks, suggesting strong demand despite lower prices and signaling the bull market cycle may not be over yet.",
     "link": "https://cointelegraph.com/news/bitcoin-liveliness-metric-signals-bull-run-continuation-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY2NmUtM2I3ZS03YjU5LWIxM2UtY2I3N2E2YWQ1ZmEy.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af66e-3b7e-7b59-b13e-cb77a6ad5fa2",
     "pubDate": "2025-12-07T02:38:57+00:00"
   },
   {
@@ -241,7 +241,7 @@
     "title": "Can a new song really become Christmas number one?",
     "description": "This Christmas, to save you from tears, there’s some genuine competition, our music correspondent finds.",
     "link": "https://www.bbc.com/news/articles/cd9z7j57qnjo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a256/live/1fbb7350-d215-11f0-8c06-f5d460985095.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd42/live/fdaff550-d35a-11f0-9fb5-5f3a3703a365.png",
     "pubDate": "2025-12-07T00:17:29+00:00"
   },
   {
@@ -283,7 +283,7 @@
     "title": "BitMine buys $199M in Ether as smart money traders bet on ETH decline",
     "description": "The largest corporate Ether holder continues to buy the dip, as the industry’s most profitable traders continue to bet millions on ETH’s short-term decline.",
     "link": "https://cointelegraph.com/news/bitmine-buys-199m-eth-smart-money-traders-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY1OWUtYTdkMS03ZjYwLWFhMzItN2I3YWUwMWZkZDcz.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af59e-a7d1-7f60-aa32-7b7ae01fdd73",
     "pubDate": "2025-12-06T21:44:16+00:00"
   },
   {
@@ -311,7 +311,7 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
     "pubDate": "2025-12-06T18:41:27+00:00"
   },
   {
@@ -339,7 +339,7 @@
     "title": "‘European SEC’ proposal sparks licensing concerns, institutional ambitions",
     "description": "Legal experts are concerned that transforming ESMA into the “European SEC” may hinder the licensing of crypto and fintech in the region.",
     "link": "https://cointelegraph.com/news/european-sec-proposal-licensing-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY0YWItZjFhYi03YWY1LThlM2QtODE0NTQyMDQ1OWNi.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af4ab-f1ab-7af5-8e3d-8145420459cb",
     "pubDate": "2025-12-06T17:41:20+00:00"
   },
   {
@@ -353,7 +353,7 @@
     "title": "Bitcoin profit metric eyes 2-year lows in 'complete reset:' BTC analysis",
     "description": "Bitcoin long-term holders lost interest in selling at $90,000, new research showed, as profitability of their BTC supply dried up.",
     "link": "https://cointelegraph.com/news/bitcoin-profit-metric-eyes-2-year-lows-in-complete-reset-btc-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY0NDQtNDdkYi03MWFiLThhM2UtZWMyZjQyNmE5YjRj.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af444-47db-71ab-8a3e-ec2f426a9b4c",
     "pubDate": "2025-12-06T17:05:00+00:00"
   },
   {
@@ -367,7 +367,7 @@
     "title": "BTC poised for December recovery on ‘macro tailwinds,' Fed rate cut: Coinbase",
     "description": "Coinbase predicts a December recovery driven by rising global M2 liquidity and lower interest rates, but Fed Chair Powell’s remarks may limit upside, analysts say.",
     "link": "https://cointelegraph.com/news/bitcoin-december-recovery-macro-fed-rate-cut-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY0ODMtZjJiMC03ZWFhLTliZTUtYTQ1NTVkY2YxNTMy.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af483-f2b0-7eaa-9be5-a4555dcf1532",
     "pubDate": "2025-12-06T16:51:22+00:00"
   },
   {
@@ -462,6 +462,55 @@
     "pubDate": "2025-12-06T13:00:01+00:00"
   },
   {
+    "title": "Why Netflix Shareholders Aren’t Thrilled to Acquire Warner Bros.",
+    "description": "",
+    "link": "https://www.wsj.com/business/media/netflix-warner-bros-deal-investors-0cb6909f?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2025-12-06T10:30:00+00:00"
+  },
+  {
+    "title": "3 Catalysts That Can Spark a Stock Market Crash in 2026",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/3-catalysts-spark-stock-market-102600810.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/szCRRV1UDkQ.hqj3S1Wstw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/motleyfool.com/c1f7798ea37a712ccac7af5e459fdeb1",
+    "pubDate": "2025-12-06T10:26:00+00:00"
+  },
+  {
+    "title": "Here's Why Apple Is My Second Biggest Holding Going Into 2026",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/heres-why-apple-second-biggest-102500741.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/af5BSjD1peyJibFMQTkA4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/4bbb6fb5a7f315d66fb883344372c4ba",
+    "pubDate": "2025-12-06T10:25:00+00:00"
+  },
+  {
+    "title": "Winning at retirement may come down to dodging these 3 careless mistakes",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/winning-retirement-may-come-down-100700012.html",
+    "thumbnail": "https://media.zenfs.com/en/moneywise_ecomm_711/28d28388256bef52ee5bc673ff4a3ad9",
+    "pubDate": "2025-12-06T10:07:00+00:00"
+  },
+  {
+    "title": "Netflix (NFLX) Buys Warner Bros. for $72 Billion in Major Streaming Expansion Move",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/netflix-nflx-buys-warner-bros-094316608.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/tkG1VbfDa35L.8mqT6xPYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/66a8e58455fb93bb51095895bbff8b9f",
+    "pubDate": "2025-12-06T09:43:16+00:00"
+  },
+  {
+    "title": "CrowdStrike (CRWD) Delivers Upside Across Metrics; BMO Lifts Target to $555",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/crowdstrike-crwd-delivers-upside-across-093609031.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/F91v09nlD_7EycA09GshuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3fa929605158b8bf15ea0964443c4c2c",
+    "pubDate": "2025-12-06T09:36:09+00:00"
+  },
+  {
+    "title": "Marvell (MRVL) Wins $90 Target as Data Center Momentum Accelerates",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/marvell-mrvl-wins-90-target-093419702.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/3fVeTxOQETk5LzaOCi.uJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/520bd8f56e0f30096fb34661bc230e0f",
+    "pubDate": "2025-12-06T09:34:19+00:00"
+  },
+  {
     "title": "Arista Networks (ANET) Earns $155 Target as UBS Highlights Confident FY26 Outlook",
     "description": "",
     "link": "https://finance.yahoo.com/news/arista-networks-anet-earns-155-093206153.html",
@@ -483,60 +532,11 @@
     "pubDate": "2025-12-06T09:30:00+00:00"
   },
   {
-    "title": "TD Cowen Reiterates Buy on AMD, Calls Helios a Major AI Inflection Point",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/td-cowen-reiterates-buy-amd-092915152.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/6lwVtZO5F3k9iRB4pOCssA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/fd17ea33a8d3baa02e20febc55707f3e",
-    "pubDate": "2025-12-06T09:29:15+00:00"
-  },
-  {
-    "title": "Wells Fargo Initiates Oracle (ORCL) With Overweight, Sees Major AI Upside Ahead",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/wells-fargo-initiates-oracle-orcl-092516149.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/18lh8wR9MK04C0YicqFNtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/c2e756945297bbe626edf5a1612a7dd7",
-    "pubDate": "2025-12-06T09:25:16+00:00"
-  },
-  {
-    "title": "Apple (AAPL) Earns $320 Target as Services Strength Offsets App Store Slowdown",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/apple-aapl-earns-320-target-092119877.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/YgAIJN3m1ArKuxPobBS9JQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/6f2d4bfd3a5a01fd895b40b72d961662",
-    "pubDate": "2025-12-06T09:21:19+00:00"
-  },
-  {
-    "title": "Prediction: This Will Be Nvidia's Stock Price in 2026",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/prediction-nvidias-stock-price-2026-080100631.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/CNfsWWH33sIeGu0YRIdfPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/cb599d577ecea7489c15d4b3b0ab40de",
-    "pubDate": "2025-12-06T08:01:00+00:00"
-  },
-  {
-    "title": "Forget meme stocks: Why 'boring' investing may build the most wealth",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/forget-meme-stocks-why-boring-080052732.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Bq.5yaMtoyfy_I1lIWTNsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/ab4c4411420e66cae02974cb84652daa",
-    "pubDate": "2025-12-06T08:00:52+00:00"
-  },
-  {
-    "title": "Why Consumers May Keep Spending Despite Affordability Angst",
-    "description": "",
-    "link": "https://www.barrons.com/articles/consumer-spending-affordability-stocks-3e665b74?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2025-12-06T07:30:00+00:00"
-  },
-  {
     "title": "Godzilla 15-Film Criterion Box Set Restocked At Amazon With 50% Discount",
     "description": "Godzilla: The Showa-Era 15-Film Box Set: Criterion Collection $112.48 (was $225) See at Amazon Godzilla vs. Biollante Special Edition: Criterion Collection (4K) $20 (was $50) See at Amazon Godzilla (1954): Criterion Collection (4K) $25 (was $50) See at Amazon Amazon has restocked one of the most popular box sets in the Criterion Collection. Godzilla: The Showa-Era Films, 1954-1975 is in stock for $112.48 (was $225). This is great timing on Amazon's part, as the Criterion Collection half-off sale ends this weekend (December 7). At the time of writing, Amazon estimates orders placed today will arrive before Christmas. This gorgeous collection of 15 classic Godzilla movies routinely sells out during these 50% off sales at Amazon, but fortunately Amazon restocked its supply this time around. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/godzilla-blu-ray-box-sets-criterion-collection-4k-blu-ray-deals/1100-6527905/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4616917-4402817-godzillashowa.png",
     "pubDate": "2025-12-06T07:11:00+00:00"
-  },
-  {
-    "title": "AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.",
-    "description": "",
-    "link": "https://www.barrons.com/articles/ai-stocks-market-price-b6350469?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2025-12-06T07:00:00+00:00"
   },
   {
     "title": "Lego's New WALL-E &amp; EVE Disney Pixar Buildable Figure Set Is Discounted For The First Time",
