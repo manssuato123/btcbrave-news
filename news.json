@@ -1,10 +1,59 @@
 [
   {
+    "title": "Elden Ring Nightreign's fire-summoning beasts are ruining my life",
+    "description": "The fire summoning beasts of Sundered Tricephalos will chase you down, even if it means lagging or teleporting through The Forsaken Hollows' Limveld",
+    "link": "https://www.polygon.com/nightreign-forsaken-hollows-fire-summoning-beasts-sundered-tricephalos/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/12/elden-ring-nightreign-01.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2025-12-09T19:15:46+00:00"
+  },
+  {
+    "title": "Marvel Tokon Fighting Souls beta hands-on: timing is everything",
+    "description": "Marvel Tōkon: Fighting Souls brings dynamic 4v4 combat where assists, counters, and combos hinge on perfect timing in a fast, rhythm-infused brawler",
+    "link": "https://www.polygon.com/marvel-tokon-fighting-souls-beta-ps5-preview/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/spiderman.JPG?w=1600&h=900&fit=crop",
+    "pubDate": "2025-12-09T19:11:32+00:00"
+  },
+  {
+    "title": "Judge Says Ghislaine Maxwell Grand Jury Records Can Be Unsealed, Citing New Epstein Law",
+    "description": "The ruling cited a law signed last month by President Trump requiring the Justice Department to release its files on Jeffrey Epstein and his longtime companion, Ghislaine Maxwell.",
+    "link": "https://www.nytimes.com/2025/12/09/nyregion/ghislaine-maxwell-epstein-grand-jury-unsealed.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/09/multimedia/00Met-Epstein-Maxwell-grand-jury-records-tbhf/00Met-Epstein-Maxwell-grand-jury-records-tbhf-facebookJumbo.jpg",
+    "pubDate": "2025-12-09T19:11:19+00:00"
+  },
+  {
+    "title": "Wall Street Is Shaking Off Fears of an A.I. Bubble. For Now.",
+    "description": "The valuations of some artificial intelligence companies are approaching those of the dot-com boom. But investors worry that pulling money from today’s market risks future gains.",
+    "link": "https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/05/multimedia/2025-biz-standalone-promos-new-2025-12-08-ai-valuation-stocks/2025-biz-standalone-promos-new-2025-12-08-ai-valuation-stocks-facebookJumbo-v9.png",
+    "pubDate": "2025-12-09T18:58:27+00:00"
+  },
+  {
+    "title": "In L.A., $750 a Month to Live in a Backyard Storage Unit",
+    "description": "A landlord crowded tenants into his house and yard without running water or power. One, determined to find an alternative, was up against the city’s housing crisis.",
+    "link": "https://www.nytimes.com/2025/12/09/us/california-backyard-housing-rent-storage-unit.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/02/multimedia/00nat-storage-housing-01-vmcj/00nat-storage-housing-01-vmcj-facebookJumbo.jpg",
+    "pubDate": "2025-12-09T18:55:11+00:00"
+  },
+  {
+    "title": "UK crypto lobbying group joins Digital Chamber in cross-border policy push",
+    "description": "The partnership between the two advocacy groups was the latest move in efforts by US and UK policymakers to work closer together on crypto regulation.",
+    "link": "https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxYjYtOGVkZi03ZjRjLTk4NDQtYWEyMTljNTIwNzU5.jpg",
+    "pubDate": "2025-12-09T18:50:00+00:00"
+  },
+  {
     "title": "Ether Surges 8%, Outpacing Bitcoin Gains Amid Staking ETF, Tokenization Optimism",
     "description": "BlackRock's filing for a staking ether ETF earlier this week has contributed to ETH's relative strength to bitcoin, one market strategist noted.",
     "link": "https://www.coindesk.com/markets/2025/12/09/ether-surges-8-outpacing-bitcoin-gains-amid-staking-etf-tokenization-optimism",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/5d84574eebcb318192498ca353e8132d54727c59-700x430.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2025-12-09T18:47:33+00:00"
+  },
+  {
+    "title": "US judge approves bid to unseal Epstein grand jury documents",
+    "description": "While Judge Paul Engelmayer approved the Justice Department's request, he warned there are few new details in the files.",
+    "link": "https://www.aljazeera.com/news/2025/12/9/us-judge-approves-bid-to-unseal-epstein-grand-jury-documents?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25322671830772-1763495454.jpg?resize=1920%2C1440",
+    "pubDate": "2025-12-09T18:42:21+00:00"
   },
   {
     "title": "Trump administration moves to remove millions of student loan borrowers from payment pause",
@@ -66,7 +115,7 @@
     "title": "China is buying U.S. soybeans again — but falling short of goal set by Trump trade agreement",
     "description": "A trade war begun by President Donald Trump early in his second term led China to halt its purchases of American soybeans.",
     "link": "https://www.cnbc.com/2025/12/09/china-buys-us-soybeans-trump-trade-agreement.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108238609-1765227335419-gettyimages-2250794852-aw1a9411_bsd1c8wq.jpeg?v=1765227447&w=1920&h=1080",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108238609-1765227335419-gettyimages-2250794852-aw1a9411_bsd1c8wq.jpeg?v=1765307646&w=1920&h=1080",
     "pubDate": "2025-12-09T18:08:30+00:00"
   },
   {
@@ -108,7 +157,7 @@
     "title": "PlayStation 2025 Wrap-Up: See How Much You Played This Year",
     "description": "Yearly wraps have become an annual tradition across various platforms, and PlayStation is no exception. The PlayStation Wrap website has gone live, and once again, members of the PlayStation community can explore the total number of hours spent across single-player and multiplayer games. You'll have until January 8 to check out your stats--PlayStation Wrap-Up will continue to update until then--and users can redeem a unique glass-themed avatar once they complete their tour down memory lane. Check your PlayStation 2025 Wrap-Up This year's PlayStation Wrap-Up also includes a look at the number of games played on PS5 and PS4, a closer look at your gaming style, and even the DualSense controller you used the most. If you've used other PlayStation accessories, such as PlayStation VR2 or the PlayStation Portal handheld, those stats will also be included in your personal wrap-up. Additionally, you can get a brief look at how active you were on PlayStation Plus throughout the year, and Sony is also offering a curated list of recommended games to try out through the subscription service, if you're a member of the Premium or Extra tiers. Ghost of Yotei, Death Stranding 2: On the Beach, Blue Prince, and Clair Obscur: Expedition 33 were considerable timesinks, while other noteworthy releases included games like Ball x Pit, Elden Ring Nightreign, and Battlefield 6 kept players glued to their screens for many hours. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/playstation-2025-wrap-up-see-how-much-you-played-this-year/1100-6536799/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/original/1601/16018044/4619808-ps-wrap.jpg",
+    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4619808-ps-wrap.jpg",
     "pubDate": "2025-12-09T17:53:00+00:00"
   },
   {
@@ -180,13 +229,6 @@
     "link": "https://www.polygon.com/hollow-knight-silksong-trails-end-quest-walkthrough/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/hollow-knight-silksong-trails-end-1.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-09T17:05:22+00:00"
-  },
-  {
-    "title": "Judge Says Ghislaine Maxwell Grand Jury Records Can Be Unsealed, Citing New Epstein Law",
-    "description": "The ruling cited a law signed last month by President Trump requiring the Justice Department to release its files on Jeffrey Epstein and his longtime companion, Ghislaine Maxwell.",
-    "link": "https://www.nytimes.com/2025/12/09/nyregion/ghislaine-maxwell-epstein-grand-jury-unsealed.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/09/multimedia/00Met-Epstein-Maxwell-grand-jury-records-tbhf/00Met-Epstein-Maxwell-grand-jury-records-tbhf-facebookJumbo.jpg",
-    "pubDate": "2025-12-09T17:02:04+00:00"
   },
   {
     "title": "Michael Saylor Urges Middle East to Become the 'Switzerland of Bitcoin Banking'",
@@ -273,13 +315,6 @@
     "pubDate": "2025-12-09T16:37:08+00:00"
   },
   {
-    "title": "Wall Street Is Shaking Off Fears of an A.I. Bubble. For Now.",
-    "description": "The valuations of some artificial intelligence companies are approaching those of the dot-com boom. But investors worry that pulling money from today’s market risks future gains.",
-    "link": "https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/05/multimedia/2025-biz-standalone-promos-new-2025-12-08-ai-valuation-stocks/2025-biz-standalone-promos-new-2025-12-08-ai-valuation-stocks-facebookJumbo-v9.png",
-    "pubDate": "2025-12-09T16:36:14+00:00"
-  },
-  {
     "title": "Skyrim Is Now On Yet Another Platform, But There's A Way To Upgrade For Free",
     "description": "Yet another version of The Elder Scrolls V: Skyrim is here, with developer Bethesda Game Studios mega-hit RPG now available for Nintendo Switch 2. Skyrim continues to conquer every platform imaginable, and this time it's specifically 2021's Skyrim Anniversary Edition that's available on Nintendo's new console. This new version of the game does come with a few additional bells and whistles not found in the original Switch version, namely Joy-Con 2 mouse-control support. It also sports improved load times and performance in addition to features found in the original Switch version of Skyrim, like Legend of Zelda Amiibo support, Zelda-themed items, and motion controls. For those who already own the Anniversary Edition on the original Switch, the Switch 2 upgrade is available for free. Those who don't already own any version of Skyrim on Switch can buy it on Switch 2 for $60. Owners of the non-Anniversary Edition of Skyrim on Switch can upgrade to the Anniversary Edition for $20 and then receive the Switch 2 version for free. The Anniversary Edition includes the base game and its three official expansions, as well as access to Creation Club content made by players. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/skyrim-is-now-on-yet-another-platform-but-theres-a-way-to-upgrade-for-free/1100-6536793/?ftag=CAD-01-10abi2f",
@@ -301,13 +336,6 @@
     "pubDate": "2025-12-09T16:33:42+00:00"
   },
   {
-    "title": "As Prices Increase From Tariffs, Trump Administration Goes on the Defensive About Affordability",
-    "description": "The president rolled out a $12 billion bailout for farmers as he makes the case that his policy is working — or will soon.",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/08/multimedia/08DC-TRUMP-ASSESS-zbwq/08DC-TRUMP-ASSESS-zbwq-facebookJumbo.jpg",
-    "pubDate": "2025-12-09T16:32:32+00:00"
-  },
-  {
     "title": "Why the A.I. Boom Is Unlike the Dot-Com Boom",
     "description": "Silicon Valley is again betting everything on a new technology. But the mania is not a reboot of the late-1990s frenzy.",
     "link": "https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html",
@@ -322,25 +350,11 @@
     "pubDate": "2025-12-09T16:28:59+00:00"
   },
   {
-    "title": "Guillermo del Toro reveals his perfect vision for Justice League Dark",
-    "description": "Guillermo del Toro shares new details for the Justice League Dark movie he never got to develop.",
-    "link": "https://www.polygon.com/guillermo-del-toro-justice-league-dark-movie-new-details/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/4140304/jl.0.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2025-12-09T16:27:32+00:00"
-  },
-  {
     "title": "Mohamed Salah fans at Arab Cup react to his Liverpool benching",
     "description": "Mohamed Salah fans at the Arab Cup say he has done a lot for his club and shouldn’t be sidelined.",
     "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/mohamed-salah-fans-at-arab-cup-react-to-his-liverpool-benching?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-06T164043Z_1501526958_UP1ELC61ABUDI_RTRMADP_3_SOCCER-ENGLAND-LEE-LIV_cropped-1765297079.jpg?resize=1920%2C1440",
     "pubDate": "2025-12-09T16:26:46+00:00"
-  },
-  {
-    "title": "Ice Belt interactive map in Metroid Prime 4: Beyond",
-    "description": "Our Metroid Prime 4 Ice Belt interactive map shows you where to find Ice Belt collectibles, including TK Codes and more",
-    "link": "https://www.polygon.com/map/metroid-prime-4-ice-belt-interactive-map/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/metroid_prime_4_polygon_ice_belt_map_feature.png?w=1600&h=900&fit=crop",
-    "pubDate": "2025-12-09T16:15:23+00:00"
   },
   {
     "title": "Liverpool’s Mohamed Salah a transfer target for Saudi Arabia",
@@ -462,13 +476,6 @@
     "pubDate": "2025-12-09T15:26:18+00:00"
   },
   {
-    "title": "Tanzania tightens security, outlaws protests over disputed election",
-    "description": "Tanzania's prime minister asked all non-essential workers to stay home, and public transport was also stopped.",
-    "link": "https://www.aljazeera.com/news/2025/12/9/tanzania-tightens-security-bans-protests-against-disputed-election?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/afp_69380eb02562-1765281456.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-09T15:16:57+00:00"
-  },
-  {
     "title": "Bitcoin Hash Ribbons flash ‘buy’ signal at $90K: Will BTC price rebound?",
     "description": "Bitcoin miners offer a glimpse into potential BTC price upside to come as the historically accurate Hash Ribbons sent a buy signal.",
     "link": "https://cointelegraph.com/news/bitcoin-hash-ribbons-flash-buy-signal-90k-will-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -537,13 +544,6 @@
     "link": "https://www.cnbc.com/2025/12/08/trump-ban-on-wind-power-projects-overturned-by-federal-judge.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108172672-1752670603147-gettyimages-2223833483-6e6a2361_copy_pexbla4m.jpeg?v=1764845144&w=1920&h=1080",
     "pubDate": "2025-12-09T14:07:33+00:00"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
-    "pubDate": "2025-12-09T13:59:41+00:00"
   },
   {
     "title": "Ethereum’s P2P Layer Is Improving Just as Institutional ETH Buys Pick Up",
