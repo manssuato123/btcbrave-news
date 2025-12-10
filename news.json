@@ -1,10 +1,94 @@
 [
   {
+    "title": "Coca-Cola taps COO Henrique Braun to replace James Quincey as CEO in 2026",
+    "description": "Quincey has led Coca-Cola since 2017, seeing the company through the Covid pandemic and a focus on healthier beverages.",
+    "link": "https://www.cnbc.com/2025/12/10/coca-cola-coo-henrique-braun-ceo-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108240286-1765407388481-Untitled-1.jpg?v=1765407410&w=1920&h=1080",
+    "pubDate": "2025-12-10T23:08:32+00:00"
+  },
+  {
+    "title": "Oracle's stock slides 11% on revenue miss even as AI backlog soars",
+    "description": "Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.",
+    "link": "https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108239404-1765319257574-gettyimages-2223383256-2025_F1_British_GP_556932.jpeg?v=1765319383&w=1920&h=1080",
+    "pubDate": "2025-12-10T22:53:40+00:00"
+  },
+  {
+    "title": "The Fed Cut Rates Again but Deep Divisions Cloud Path Ahead",
+    "description": "The central bank’s decision to lower interest rates for a third straight meeting was highly contentious, reflecting an internal divide that will likely limit how much borrowing costs will fall next year.",
+    "link": "https://www.nytimes.com/2025/12/10/business/economy/fed-meeting-interest-rate-decision.html",
+    "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "pubDate": "2025-12-10T22:52:53+00:00"
+  },
+  {
+    "title": "Could others follow Australia banning social media for under-16s?",
+    "description": "Measure follows strong debate about online protections.",
+    "link": "https://www.aljazeera.com/video/inside-story/2025/12/10/could-others-follow-australia-banning-social-media-for-under-16s?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251209__87J23JP__v1__HighRes__AustraliaInternetBan-1765308551.jpg?resize=1920%2C1440",
+    "pubDate": "2025-12-10T22:42:03+00:00"
+  },
+  {
+    "title": "Manchester City beat Real Madrid 2-1 to pile pressure on Xabi Alonso",
+    "description": "Real Madrid beaten 2-1 at the Santiago Bernabeu, raising further questions about the beleaguered coach's future.",
+    "link": "https://www.aljazeera.com/sports/2025/12/10/manchester-city-beat-real-madrid-2-1-to-pile-pressure-on-xabi-alonso?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/reuters_6939dc6a-1765399658_6abbca-1765405183.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2025-12-10T22:37:14+00:00"
+  },
+  {
+    "title": "Trump says U.S. seized oil tanker off the coast of Venezuela",
+    "description": "The White House has undertaken a large military buildup in the Caribbean and launched deadly strikes against boats that it claims were trafficking drugs.",
+    "link": "https://www.cnbc.com/2025/12/10/us-venezuela-oil-tanker-seize.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108240177-1765397942077-gettyimages-2250480313-AFP_87QH8XW.jpeg?v=1765403103&w=1920&h=1080",
+    "pubDate": "2025-12-10T22:37:09+00:00"
+  },
+  {
     "title": "Venezuela’s Nobel Peace Prize Winner Raises Stakes in Stand off With Maduro",
     "description": "The decision by María Corina Machado, the Venezuelan opposition leader, to emerge from hiding and leave the country has electrified her movement but carries political risks.",
     "link": "https://www.nytimes.com/2025/12/10/world/europe/machado-nobel-venezuela-ceremony.html",
     "thumbnail": "https://static01.nyt.com/images/2025/12/10/multimedia/10int-nobel-machado-fpwt/10int-nobel-machado-fpwt-facebookJumbo.jpg",
     "pubDate": "2025-12-10T22:36:46+00:00"
+  },
+  {
+    "title": "Trump Says U.S. Seized Oil Tanker Off Venezuelan Coast",
+    "description": "The seizure comes as the United States builds up its forces in the Caribbean as part of a pressure campaign against Nicolás Maduro, the leader of Venezuela.",
+    "link": "https://www.nytimes.com/2025/12/10/us/politics/oil-tanker-seized-us-venezuela-trump.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/10/multimedia/10DC-MILITARY-cwjp/10DC-MILITARY-cwjp-facebookJumbo.jpg",
+    "pubDate": "2025-12-10T22:35:45+00:00"
+  },
+  {
+    "title": "Cisco's stock closes at record for first time since dot-com peak in 2000",
+    "description": "Cisco was at the center of the internet boom, but has a much different role in today's artificial intelligence craze.",
+    "link": "https://www.cnbc.com/2025/12/10/ciscos-stock-closes-at-record-for-first-time-since-dot-com-peak-2000.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107415547-1715802493761-gettyimages-1932183702-DAVOS_WEF_2024.jpeg?v=1765403389&w=1920&h=1080",
+    "pubDate": "2025-12-10T22:34:31+00:00"
+  },
+  {
+    "title": "State Street and Galaxy to Launch Tokenized Liquidity Fund on Solana in 2026",
+    "description": "The fund will run on Solana at launch and use PYUSD.",
+    "link": "https://www.coindesk.com/markets/2025/12/10/state-street-and-galaxy-to-launch-tokenized-liquidity-fund-on-solana-in-2026",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7a884e9850b2a472817666ef5353f3d78c885637-1080x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2025-12-10T22:30:00+00:00"
+  },
+  {
+    "title": "Here are the five big takeaways from Wednesday's Fed rate decision",
+    "description": "The Fed approved a much-anticipated quarter percentage point interest rate cut at a meeting that was packed with intrigue and surprises.",
+    "link": "https://www.cnbc.com/2025/12/10/here-are-the-five-big-takeaways-from-wednesdays-fed-rate-decision.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108240180-1765397941818-gettyimages-2251232938-_s019703_qvqntr7g.jpeg?v=1765398222&w=1920&h=1080",
+    "pubDate": "2025-12-10T22:23:30+00:00"
+  },
+  {
+    "title": "Crypto CEOs Join U.S. CFTC's Innovation Council to Steer Market Developments",
+    "description": "The chief executives of firms such as Gemini and Kraken will pitch in on U.S. policy efforts through the council's future, public discussions.",
+    "link": "https://www.coindesk.com/policy/2025/12/10/crypto-ceos-join-u-s-cftc-s-innovation-council-to-steer-market-developments",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/962f23ef1b4b7286e7b918eb3a60103dc4bf4bd3-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2025-12-10T22:22:08+00:00"
+  },
+  {
+    "title": "After Shutdown, Democrats Claim Credit for Funding They Opposed",
+    "description": "Several Democrats who fought to steer federal money to their states and districts have boasted about their success even after voting against the bill that provided the funds.",
+    "link": "https://www.nytimes.com/2025/12/10/us/politics/shutdown-earmarks-democrats.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/10/us/politics/10dc-earmarks/10dc-earmarks-facebookJumbo.jpg",
+    "pubDate": "2025-12-10T22:16:34+00:00"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -49,6 +133,13 @@
     "pubDate": "2025-12-10T22:00:51+00:00"
   },
   {
+    "title": "Stripe Acqui-Hires Crypto Payments Startup Valora, Venturing Further Into Stablecoins",
+    "description": "The team behind the Celo-based app is joining Stripe, while the intellectual property is returned to cLabs.",
+    "link": "https://www.coindesk.com/business/2025/12/10/stripe-acqui-hires-crypto-payments-startup-valora-venturing-further-into-stablecoins",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/81ec912ca9fa5c697fceb446c464895f91f7823b-1920x1080.jpg?auto=format",
+    "pubDate": "2025-12-10T22:00:48+00:00"
+  },
+  {
     "title": "Ex-Olympic swimmer Sharron Davies and Iceland boss Richard Walker among new peers",
     "description": "Downing Street announced 34 new peers to \"correct\" an imbalance against Labour in the House of Lords.",
     "link": "https://www.bbc.com/news/articles/cx23pxxl7yno?at_medium=RSS&at_campaign=rss",
@@ -56,25 +147,11 @@
     "pubDate": "2025-12-10T21:57:05+00:00"
   },
   {
-    "title": "Trump says U.S. seized oil tanker off the coast of Venezuela",
-    "description": "The White House has undertaken a large military buildup in the Caribbean and launched deadly strikes against boats that it claims were trafficking drugs.",
-    "link": "https://www.cnbc.com/2025/12/10/us-venezuela-oil-tanker-seize.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108240177-1765397942077-gettyimages-2250480313-AFP_87QH8XW.jpeg?v=1765403103&w=1920&h=1080",
-    "pubDate": "2025-12-10T21:53:13+00:00"
-  },
-  {
-    "title": "Southwest CEO says airline 'actively pursuing' network of airport lounges",
-    "description": "Southwest's CEO said the carrier is weighing a network of airport lounges",
-    "link": "https://www.cnbc.com/2025/12/10/southwest-airlines-airport-lounges-ceo-bob-jordan.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108240256-17654018362025-12-10t212048z_1714309574_rc2pdiakzuyn_rtrmadp_0_usa-stocks.jpeg?v=1765401916&w=1920&h=1080",
-    "pubDate": "2025-12-10T21:49:04+00:00"
-  },
-  {
-    "title": "Oracle's stock slides 7% on revenue miss even as AI backlog soars",
-    "description": "Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.",
-    "link": "https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108239404-1765319257574-gettyimages-2223383256-2025_F1_British_GP_556932.jpeg?v=1765319383&w=1920&h=1080",
-    "pubDate": "2025-12-10T21:40:10+00:00"
+    "title": "$2 Billion in Pentagon Funds Said to Go to Anti-Immigrant Operations",
+    "description": "Democratic lawmakers said in a report that shifting Defense Department funding to support the Trump administration’s immigration agenda has hurt military readiness.",
+    "link": "https://www.nytimes.com/2025/12/10/us/politics/defense-department-funds-immigration.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/10/multimedia/10dc-border-cgmk/10dc-border-cgmk-facebookJumbo.jpg",
+    "pubDate": "2025-12-10T21:54:24+00:00"
   },
   {
     "title": "Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models",
@@ -89,13 +166,6 @@
     "link": "https://www.aljazeera.com/news/2025/12/10/us-congressman-randy-fine-suggests-palestinians-should-be-destroyed-first?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25090504120327-1765395058.jpg?resize=1200%2C675",
     "pubDate": "2025-12-10T21:32:55+00:00"
-  },
-  {
-    "title": "The Fed Cut Rates Again but Deep Divisions Cloud Path Ahead",
-    "description": "The central bank’s decision to lower interest rates for a third straight meeting was highly contentious, reflecting an internal divide that will likely limit how much borrowing costs will fall next year.",
-    "link": "https://www.nytimes.com/2025/12/10/business/economy/fed-meeting-interest-rate-decision.html",
-    "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-    "pubDate": "2025-12-10T21:29:10+00:00"
   },
   {
     "title": "The Sopranos Complete Series Box Set Drops To Lowest Price Ever",
@@ -168,13 +238,6 @@
     "pubDate": "2025-12-10T20:54:29+00:00"
   },
   {
-    "title": "Divided Fed approves third rate cut this year, sees slower pace ahead",
-    "description": "The Federal Reserve on Wednesday made its final final interest rate move of the year.",
-    "link": "https://www.cnbc.com/2025/12/10/fed-interest-rate-decision-december-2025-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108200236-17581365432025-09-17t191227z_1013455012_rc2vtgah0h03_rtrmadp_0_usa-fed.jpeg?v=1758136641&w=1920&h=1080",
-    "pubDate": "2025-12-10T20:53:51+00:00"
-  },
-  {
     "title": "Tether launches privacy-focused health platform with on-device AI",
     "description": "Tether says the system is designed to give users control over biometric data by keeping analysis and storage off the cloud.",
     "link": "https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -215,13 +278,6 @@
     "link": "https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5NjEtM2E2MC03OTdiLWFiZTAtYzllZjUxMjA1ZDE3.jpg",
     "pubDate": "2025-12-10T20:20:46+00:00"
-  },
-  {
-    "title": "Judge Grants Request to Unseal Jeffrey Epstein Grand Jury Records",
-    "description": "The ruling could lead to the most expansive look yet at the federal investigation of the convicted sex offender Jeffrey Epstein.",
-    "link": "https://www.nytimes.com/2025/12/10/nyregion/jeffrey-epstein-grand-jury-unsealed.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/10/multimedia/00met-epstein-ruling-cmqg/00met-epstein-ruling-cmqg-facebookJumbo.jpg",
-    "pubDate": "2025-12-10T20:10:40+00:00"
   },
   {
     "title": "Oscar-Winning Director Guillermo del Toro Reveals His Favorite Games, Including A \"Masterpiece\"",
@@ -271,13 +327,6 @@
     "link": "https://www.gamespot.com/articles/gta-onlines-big-new-update-with-michael-dlc-mission-is-out-now-see-the-full-patch-notes/1100-6536845/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4620634-grandtheftautoonlineasafehouseinthehills.jpg",
     "pubDate": "2025-12-10T19:48:00+00:00"
-  },
-  {
-    "title": "Republicans Are Fighting With One Another in Deep-Red Indiana. Here’s Why.",
-    "description": "Some Republicans in the Indiana Senate have resisted a new congressional map despite lobbying from the White House and threats of political consequences.",
-    "link": "https://www.nytimes.com/2025/12/10/us/indiana-redistricting-trump-republicans.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/10/multimedia/10nat-why-indiana-new-top-qfwt/10nat-why-indiana-new-top-qfwt-facebookJumbo.jpg",
-    "pubDate": "2025-12-10T19:46:17+00:00"
   },
   {
     "title": "Oldest evidence of deliberate fire use found in England",
@@ -420,13 +469,6 @@
     "pubDate": "2025-12-10T18:40:20+00:00"
   },
   {
-    "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
-    "description": "Iceland joins four other nations in a boycott, after the organiser declined to hold a vote over Israel's involvement.",
-    "link": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2024-05-11T143410Z_1946289143_RC2EO7ANIZAI_RTRMADP_3_MUSIC-EUROVISION-PROTESTS-1765387372.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-10T18:35:32+00:00"
-  },
-  {
     "title": "As the Price of Beef Soars, Restaurants Are in ‘Code Red’ Mode",
     "description": "Midpriced steakhouses and fine-dining establishments are trying to figure out how to cover their rising costs without scaring away customers.",
     "link": "https://www.nytimes.com/2025/12/10/business/beef-prices-steakhouses.html",
@@ -448,13 +490,6 @@
     "pubDate": "2025-12-10T18:26:43+00:00"
   },
   {
-    "title": "Olympics decision on gender eligibility to come in early 2026",
-    "description": "IOC currently has no universal rule in place for the participation of transgender athletes at the Olympic Games.",
-    "link": "https://www.aljazeera.com/sports/2025/12/10/olympics-decision-on-gender-eligibility-to-come-in-early-2026?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-11-26T101148Z_319765010_UP1ELBQ0SBN6A_RTRMADP_3_OLYMPICS-2026-FLAME-1765389446.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-10T18:23:17+00:00"
-  },
-  {
     "title": "Toffee Crisp and Blue Riband can't be called chocolate any more",
     "description": "Nestle has used more vegetable oil in it recipes, meaning the treats no longer qualify as chocolate under UK law",
     "link": "https://www.bbc.com/news/articles/c79x7q325p3o?at_medium=RSS&at_campaign=rss",
@@ -474,13 +509,6 @@
     "link": "https://www.cnbc.com/2025/12/10/trump-to-start-final-fed-chair-interviews-beginning-with-kevin-warsh.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108239428-17653214892025-12-09t230315z_721640561_rc29dia6i11c_rtrmadp_0_usa-trump.jpeg?v=1765321528&w=1920&h=1080",
     "pubDate": "2025-12-10T18:13:31+00:00"
-  },
-  {
-    "title": "Hassett likely next Fed chair, but most think Trump should nominate someone else, CNBC Fed survey shows",
-    "description": "The December survey shows 84% believe President Trump will tap Hassett, director of the National Economic Council, to head the central bank.",
-    "link": "https://www.cnbc.com/2025/12/09/hassett-likely-next-fed-chair-but-most-think-trump-should-nominate-someone-else-cnbc-fed-survey-shows.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108214114-1760969107843-gettyimages-2241862082-594x594.jpg?v=1760969113&w=1920&h=1080",
-    "pubDate": "2025-12-10T18:13:15+00:00"
   },
   {
     "title": "Fallout Gets You In The Festive Spirit Before Season 2 Drops Next Week",
@@ -518,20 +546,6 @@
     "pubDate": "2025-12-10T17:21:16+00:00"
   },
   {
-    "title": "Stellar Edges Higher to $0.251 Despite Altcoin Market Apathy",
-    "description": "Trading volume surged 19% above weekly averages as XLM consolidated around critical $0.25 support level.",
-    "link": "https://www.coindesk.com/markets/2025/12/10/stellar-edges-higher-to-usd0-251-despite-altcoin-market-apathy",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/1f8f93ff26e1d6d9b8d2248256ac327655088c3c-700x430.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-10T17:15:08+00:00"
-  },
-  {
-    "title": "Hedera Rises 1.8% to $0.1372 as Government Adoption Momentum Builds",
-    "description": "Technical consolidation occurs alongside renewed focus on enterprise tokenization initiatives.",
-    "link": "https://www.coindesk.com/markets/2025/12/10/hedera-rises-1-8-to-usd0-1372-as-government-adoption-momentum-builds",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/47ca7d8b965fcb4b3fc57604851db989b1ff5e18-700x430.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-10T17:05:28+00:00"
-  },
-  {
     "title": "How To Start The Michael Mission In GTA Online's Safehouse In the Hills Update",
     "description": "The latest GTA Online update, titled \"Safehouse in the Hills,\" has finally arrived and delivers some interesting content with it. The highlight of the update is the return of Michael De Santa, one of the main characters from GTA 5's story mode. Michael has a new mission for you to complete in GTA Online that rewards you with some serious cash, but to start that mission, you'll have to do some setup in Los Santos. Below, you can see everything you need to do in GTA Online to begin the new Michael mission. Table of Contents [hide]Buying a Mansion from the Safehouse in the Hills update Buying a Mansion from the Safehouse in the Hills update Before you can even attempt any of the new missions from the Safehouse in the Hills update, you'll need to purchase yourself a mansion. When you first load up GTA Online after downloading the update, you'll be presented with three distinct mansions on the Prix Luxury Real Estate website. The mansions up for grabs are: Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/how-to-start-the-michael-mission-in-gta-online-safehouse-in-the-hills-update/1100-6536842/?ftag=CAD-01-10abi2f",
@@ -546,20 +560,6 @@
     "pubDate": "2025-12-10T16:56:00+00:00"
   },
   {
-    "title": "Surf Raises $15M to Build AI Model Tailored to Crypto Research",
-    "description": "Pantera Capital led the round, with Coinbase Ventures and Digital Currency Group also participating.",
-    "link": "https://www.coindesk.com/business/2025/12/10/surf-raises-usd15m-to-build-ai-model-tailored-to-crypto-research",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/393e84095965220999b35c44733c11906d628da7-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-10T16:51:15+00:00"
-  },
-  {
-    "title": "Trump’s Search for Powell’s Replacement Adds to Cacophony Around Interest Rate Decision",
-    "description": "The end of Jerome Powell’s term as Fed chair will give President Trump his biggest opportunity yet to reshape the central bank.",
-    "link": "https://www.nytimes.com/2025/12/10/business/fed-chair-powell-trump-replacement.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/10/multimedia/10dc-fed-chair-mpqh/10dc-fed-chair-mpqh-facebookJumbo.jpg",
-    "pubDate": "2025-12-10T15:22:43+00:00"
-  },
-  {
     "title": "A History of U.S. Military Action in Latin America",
     "description": "The United States’ history in the region includes several about-faces, contradictions and missteps.",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/military-history-latin-america-strikes.html",
@@ -567,66 +567,66 @@
     "pubDate": "2025-12-09T17:00:49+00:00"
   },
   {
-    "title": "LPL Financial Holdings (LPLA) Surged Following the Strong Results",
+    "title": "Is Nasdaq Stock Underperforming the Nasdaq?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/lpl-financial-holdings-lpla-surged-134939191.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/e11f32e55c8c0c911d14f7f43f8dd6ba",
-    "pubDate": "2025-12-09T13:49:39+00:00"
+    "link": "https://finance.yahoo.com/news/nasdaq-stock-underperforming-nasdaq-153016263.html",
+    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/2936a00f945d1eedad7048a91dfc7f0f",
+    "pubDate": "2025-12-09T15:30:16+00:00"
   },
   {
-    "title": "Wells Fargo expects more job cuts, will roll out AI gradually in 2026",
+    "title": "Dollar Pushes Higher on Strength in Oct JOLTS Jobs Report",
     "description": "",
-    "link": "https://finance.yahoo.com/news/wells-fargo-expects-more-job-134859532.html",
-    "thumbnail": "https://media.zenfs.com/en/reuters-finance.com/ec1512bf1e8e439429b3686d96abb24c",
-    "pubDate": "2025-12-09T13:48:59+00:00"
+    "link": "https://finance.yahoo.com/news/dollar-pushes-higher-strength-oct-152930225.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/LymQjp4VVu2TO1DuF.w_EQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/2bbe03cadb56d04c439d78312e7a768d",
+    "pubDate": "2025-12-09T15:29:30+00:00"
   },
   {
-    "title": "What Makes United States Lime &amp; Minerals (USLM) a High-Quality Business?",
+    "title": "AutoZone Profit Falls as Higher Costs Continue from Tariffs",
     "description": "",
-    "link": "https://finance.yahoo.com/news/makes-united-states-lime-minerals-134702769.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/0068c090dd136b13b6a97b7e229f11a6",
-    "pubDate": "2025-12-09T13:47:02+00:00"
-  },
-  {
-    "title": "Why These 3 Automotive &amp; Industrial Chip Stocks Just Soared",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/why-3-automotive-industrial-chip-134500421.html",
-    "thumbnail": "https://media.zenfs.com/en/marketbeat_955/8c5d72803723791169dad6ef4f577ce4",
-    "pubDate": "2025-12-09T13:45:00+00:00"
-  },
-  {
-    "title": "Caleres Sees Momentum in Q3, but Takes Hit From Tariffs and Stuart Weitzman Earnings Dilution",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/caleres-sees-momentum-q3-takes-134204983.html",
-    "thumbnail": "https://media.zenfs.com/en/footwear_news_finance_8/e024f2980ec7bd36271c53cbab97b7b9",
-    "pubDate": "2025-12-09T13:42:04+00:00"
-  },
-  {
-    "title": "Vision Capital Fund’s Views on Lululemon (LULU)",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/vision-capital-fund-views-lululemon-133959641.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/34c896f3176c4438bec40d75872baf81",
-    "pubDate": "2025-12-09T13:39:59+00:00"
-  },
-  {
-    "title": "Corn Showing Fractional Gains on Tuesday Morning",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/corn-showing-fractional-gains-tuesday-133932067.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/v2TDqIHLcHUBvJpzEQTaug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MjM-/https://media.zenfs.com/en/barchart_com_477/a4bd74a3f98f14f1e19d5d3528deb622",
-    "pubDate": "2025-12-09T13:39:32+00:00"
-  },
-  {
-    "title": "Weekly ADP Update Suggests Private Companies Added Jobs",
-    "description": "",
-    "link": "https://www.wsj.com/economy/jobs/weekly-adp-update-suggests-private-companies-added-jobs-cc8fe952?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.wsj.com/business/earnings/autozone-profit-falls-as-higher-costs-continue-from-tariffs-916eb1c4?siteid=yhoof2&yptr=yahoo",
     "thumbnail": "",
-    "pubDate": "2025-12-09T13:39:00+00:00"
+    "pubDate": "2025-12-09T15:29:00+00:00"
   },
   {
-    "title": "Is Vision Capital Fund’s Investment Thesis for The Trade Desk (TTD) Aligned with The CEO’s Strategy?",
+    "title": "Netflix Debt Gets a Thumbs Down. The Warner Deal Math Is Worrying the Market.",
     "description": "",
-    "link": "https://finance.yahoo.com/news/vision-capital-fund-investment-thesis-133851682.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/3d61f0c7d41e0274507c6fcc02699923",
-    "pubDate": "2025-12-09T13:38:51+00:00"
+    "link": "https://www.barrons.com/articles/netflix-stock-price-warner-bros-debt-d221112e?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2025-12-09T15:22:00+00:00"
+  },
+  {
+    "title": "The 5 Best S&amp;P 500 Dividend Aristocrat Stocks to Buy Before 2026",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/5-best-p-500-dividend-151853334.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ydXImU6Z6cJzFnrSHUX4zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/134eb3c44c651551e7cbd1d45520e262",
+    "pubDate": "2025-12-09T15:18:53+00:00"
+  },
+  {
+    "title": "Streaming Apocalypse: How Netflix Could Kill AMC and Movie Theaters Forever",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/streaming-apocalypse-netflix-could-kill-151845855.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/HMc7MftD1jFoFoaYQaPPVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/92bf17e7a252b7706568d92b7e4c7357",
+    "pubDate": "2025-12-09T15:18:45+00:00"
+  },
+  {
+    "title": "Toll Brothers Stock Drops After Earnings. The Outlook Is the Problem.",
+    "description": "",
+    "link": "https://www.barrons.com/articles/toll-brothers-earnings-stock-price-home-builder-8268c774?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2025-12-09T15:18:00+00:00"
+  },
+  {
+    "title": "How Is International Flavors &amp; Fragrances' Stock Performance Compared to Other Material Stocks?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/international-flavors-fragrances-stock-performance-151733837.html",
+    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/85b12cf38d349b8922d9e23990616759",
+    "pubDate": "2025-12-09T15:17:33+00:00"
+  },
+  {
+    "title": "Even If There Is an AI Bubble, Wall Street Says You Should Keep Buying This Magnificent 7 Stock",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/even-ai-bubble-wall-street-151439943.html",
+    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/70f0cef0c027d2d0ac959916cfe49457",
+    "pubDate": "2025-12-09T15:14:39+00:00"
   }
 ]
