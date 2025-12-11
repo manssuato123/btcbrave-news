@@ -1,5 +1,33 @@
 [
   {
+    "title": "Nvidia’s new software could help trace where its AI chips end up",
+    "description": "Nvidia’s latest opt-in software may reveal where its GPUs are operating, a capability that aligns with Washington’s drive to better track restricted chips.",
+    "link": "https://www.cnbc.com/2025/12/11/nvidias-new-software-could-help-trace-where-its-ai-chips-end-up.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108229152-1763651035352-gettyimages-2246994416-NVIDIA.jpeg?v=1765439591&w=1920&h=1080",
+    "pubDate": "2025-12-11T09:57:31+00:00"
+  },
+  {
+    "title": "María Corina Machado Appears in Norway After Missing Nobel Ceremony",
+    "description": "María Corina Machado, who spent over a year in hiding in Venezuela, greeted supporters in Oslo, hours after her daughter accepted the Nobel Peace Prize in her name.",
+    "link": "https://www.nytimes.com/2025/12/10/world/americas/maria-corina-machado-venezuela-nobel.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/11/multimedia/11int-machado-nobel-01-lqbk/11int-machado-nobel-01-lqbk-facebookJumbo.jpg",
+    "pubDate": "2025-12-11T09:56:36+00:00"
+  },
+  {
+    "title": "Google’s AI unit DeepMind announces its first 'automated research lab' in the UK",
+    "description": "The lab will use AI and robotics to run experiments and will open next year, as the U.K. government deepens ties with U.S. tech companies.",
+    "link": "https://www.cnbc.com/2025/12/11/googles-ai-unit-deepmind-announces-uk-automated-research-lab.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108240447-1765446709105-gettyimages-2151467780-UK_HASSABIS.jpeg?v=1765446896&w=1920&h=1080",
+    "pubDate": "2025-12-11T09:55:40+00:00"
+  },
+  {
+    "title": "Oracle shares plummet 11% in premarket, dragging down AI stocks",
+    "description": "Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.",
+    "link": "https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108211863-1760455979050-gettyimages-2234722680-_73a3329_p08xdlep.jpeg?v=1765445396&w=1920&h=1080",
+    "pubDate": "2025-12-11T09:40:53+00:00"
+  },
+  {
     "title": "Banks to tell you where you might invest your money",
     "description": "Targeted support will allow banks and financial firms to make suggestions on how to handle savings.",
     "link": "https://www.bbc.com/news/articles/clydzglm5e1o?at_medium=RSS&at_campaign=rss",
@@ -7,10 +35,17 @@
     "pubDate": "2025-12-11T09:28:54+00:00"
   },
   {
+    "title": "Video: Celebrations in Syria as US advances bill to lift sanctions",
+    "description": "Crowds celebrated in Latakia after the US House of Representatives approved a bill that will lift sanctions on Syria.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1765445192.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2025-12-11T09:26:45+00:00"
+  },
+  {
     "title": "Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system",
     "description": "Norway rules that a digital krone is unnecessary for now, highlighting its strong payment rails and the uncertain benefits of both retail and wholesale CBDCs.",
     "link": "https://cointelegraph.com/news/norges-bank-shelves-cbdc-plans-tokenization-eurosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0c80-a096-7b77-a51a-43a829173fd1",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjODAtYTA5Ni03Yjc3LWE1MWEtNDNhODI5MTczZmQx.jpg",
     "pubDate": "2025-12-11T09:24:51+00:00"
   },
   {
@@ -21,10 +56,24 @@
     "pubDate": "2025-12-11T09:20:11+00:00"
   },
   {
+    "title": "Swiss central bank holds interest rate at 0% as inflation cools; European markets dip",
+    "description": "European stocks were slightly lower on Thursday as investors digest the U.S. Federal reserve's rate cut and commentary.",
+    "link": "https://www.cnbc.com/2025/12/11/european-markets-on-decpoint11-2025-stoxx-600-ftse-dax-fed-reaction.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108161026-1750256870912-gettyimages-2188875357-SWITZERLAND_SNB.jpeg?v=1765443012&w=1920&h=1080",
+    "pubDate": "2025-12-11T08:58:11+00:00"
+  },
+  {
+    "title": "Over $50 billion in under 24 hours: Why Big Tech is doubling down on investing in India",
+    "description": "Despite being a laggard in some key areas of artificial intelligence, India is becoming a major investment destination for Big Tech companies.",
+    "link": "https://www.cnbc.com/2025/12/11/big-tech-microsoft-amazon-google-india-billions-in-investment.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108221495-1762298690773-gettyimages-2236984488-chatterjee-notitle250925_npHwu.jpeg?v=1762298703&w=1920&h=1080",
+    "pubDate": "2025-12-11T08:58:07+00:00"
+  },
+  {
     "title": "State Street, Galaxy and Ondo join tokenized cash race with 24/7 sweep fund",
     "description": "State Street Investment Management and Galaxy Asset Management are launching a tokenized private liquidity fund on Solana, with Ondo expected to invest $200 million.",
     "link": "https://cointelegraph.com/news/state-street-galaxy-ondo-onchain-cash-sweep-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0c5b-ce52-791e-9048-4f84e6aa280f",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjNWItY2U1Mi03OTFlLTkwNDgtNGY4NGU2YWEyODBm.jpg",
     "pubDate": "2025-12-11T08:52:34+00:00"
   },
   {
@@ -105,32 +154,11 @@
     "pubDate": "2025-12-11T07:52:31+00:00"
   },
   {
-    "title": "Asia-Pacific markets give up early gains after third Fed cut of the year; Kospi and CSI 300 mark third straight day of losses",
-    "description": "Australia started the day higher, while Japan and Hong Kong futures also show a strong open.",
-    "link": "https://www.cnbc.com/2025/12/11/asia-pacific-markets-live-thursday-fed-third-rate-cut-jerome-powell-nikkei-225-hang-seng.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108086336-1736875926895-gettyimages-1151429405-20181117_8104990.jpeg?v=1736875949&w=1920&h=1080",
-    "pubDate": "2025-12-11T07:50:13+00:00"
-  },
-  {
     "title": "Watch: Moment skydiver's parachute wraps around plane wing",
     "description": "Footage shows the skydiver stuck on the wing before cutting himself free and continuing with dive.",
     "link": "https://www.bbc.com/news/videos/cx2ey15l4zro?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f6/live/90f88d80-d663-11f0-8c06-f5d460985095.jpg",
     "pubDate": "2025-12-11T07:38:28+00:00"
-  },
-  {
-    "title": "María Corina Machado Appears in Norway After Missing Nobel Ceremony",
-    "description": "María Corina Machado, who spent over a year in hiding in Venezuela, greeted supporters in Oslo, hours after her daughter accepted the Nobel Peace Prize in her name.",
-    "link": "https://www.nytimes.com/2025/12/10/world/americas/maria-corina-machado-venezuela-nobel.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/11/multimedia/11int-machado-nobel-01-lqbk/11int-machado-nobel-01-lqbk-facebookJumbo.jpg",
-    "pubDate": "2025-12-11T07:30:40+00:00"
-  },
-  {
-    "title": "Nobel Peace Prize winner Machado greets supporters in Oslo",
-    "description": "Venezuelan opposition leader greeted supporters in Oslo after missing the ceremony to award her the Nobel Peace Prize.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/11/nobel-peace-prize-winner-machado-greets-supporters-in-oslo?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1765437479.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2025-12-11T07:18:43+00:00"
   },
   {
     "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'",
@@ -171,7 +199,7 @@
     "title": "Satoshi Nakamoto statue lands on NYSE in sign of changing times",
     "description": "There are five other Satoshi statues made by Valentina Picozzi located around the world, in Switzerland, El Salvador, Japan, Vietnam and Miami, in the US state of Florida.",
     "link": "https://cointelegraph.com/news/satoshi-nakamoto-statue-nyse-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0ba6-9a29-7cd7-ade6-129085f7b304",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiYTYtOWEyOS03Y2Q3LWFkZTYtMTI5MDg1ZjdiMzA0.jpg",
     "pubDate": "2025-12-11T06:13:26+00:00"
   },
   {
@@ -182,31 +210,17 @@
     "pubDate": "2025-12-11T06:03:16+00:00"
   },
   {
-    "title": "AI defense booms in UK and Germany as new wave of billion-dollar startups emerge",
-    "description": "The UK and Germany have become key hubs for defense startups in Europe and the U.S.",
-    "link": "https://www.cnbc.com/2025/12/11/ai-defense-boom-in-uk-and-germany-as-new-wave-of-companies-emerge.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108238916-1765281361029-Helsing_Resilience_Factories.jpg?v=1765281551&w=1920&h=1080",
-    "pubDate": "2025-12-11T06:00:01+00:00"
-  },
-  {
-    "title": "Over $50 billion in under 24 hours: Why Big Tech is doubling down on investing in India",
-    "description": "Despite being a laggard in some key areas of artificial intelligence, India is becoming a major investment destination for Big Tech companies.",
-    "link": "https://www.cnbc.com/2025/12/11/big-tech-microsoft-amazon-google-india-billions-in-investment.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108221495-1762298690773-gettyimages-2236984488-chatterjee-notitle250925_npHwu.jpeg?v=1762298703&w=1920&h=1080",
-    "pubDate": "2025-12-11T05:56:42+00:00"
-  },
-  {
     "title": "Australian regulator eases rules for stablecoins and wrapped tokens",
     "description": "Australia’s securities regulator has removed licensing requirements for stablecoin intermediaries and approved omnibus accounts, reducing compliance costs.",
     "link": "https://cointelegraph.com/news/australian-regulator-eases-rules-stablecoins-wrapped-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0bdd-1302-7fd9-bfd7-1438e6ce9312",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiZGQtMTMwMi03ZmQ5LWJmZDctMTQzOGU2Y2U5MzEy.jpg",
     "pubDate": "2025-12-11T05:42:00+00:00"
   },
   {
     "title": "GOP hardliners vexed as defense bill advances without CBDC ban",
     "description": "Conservatives in the Republican Party are frustrated that a promised ban on central bank digital currencies didn’t make it into a must-pass defense bill that’s now on its way to the Senate.",
     "link": "https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0b9f-3347-7273-acf7-59feeba4c89d",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiOWYtMzM0Ny03MjczLWFjZjctNTlmZWViYTRjODlk.jpg",
     "pubDate": "2025-12-11T05:40:23+00:00"
   },
   {
@@ -231,24 +245,17 @@
     "pubDate": "2025-12-11T05:09:40+00:00"
   },
   {
-    "title": "Nvidia supplier SK Hynix eyes U.S. listing as it expands on the AI boom",
-    "description": "South Korea's SK Hynix is considering a U.S. listing as it grows in market cap and production capacity.",
-    "link": "https://www.cnbc.com/2025/12/11/nvidia-supplier-sk-hynix-eyes-us-listing-as-it-expands-on-the-ai-boom-adr.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108091020-1737603950456-gettyimages-2185761187-PSWAT_DSC01692.jpeg?v=1757654138&w=1920&h=1080",
-    "pubDate": "2025-12-11T04:53:28+00:00"
-  },
-  {
     "title": "A16z Crypto opens office in South Korea as it bets on Asia",
     "description": "A16z Crypto has opened its first Asian office in Seoul, South Korea, led by former Polygon Labs executive SungMo Park, with the venture capital firm noting the region’s dominance in global adoption.",
     "link": "https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0b73-b9e5-7009-a37b-18865373128e",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzMtYjllNS03MDA5LWEzN2ItMTg4NjUzNzMxMjhl.jpg",
     "pubDate": "2025-12-11T04:48:28+00:00"
   },
   {
     "title": "MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO",
     "description": "The MSCI Index is consulting on whether to exclude Bitcoin and other digital asset treasury companies that have a balance sheet with more than 50% of their assets in crypto.",
     "link": "https://cointelegraph.com/news/msci-bitcoin-restriction-like-penalizing-chevron-for-oil-strategy-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019aedd0-d23a-7705-ac73-93d7679697f0",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZDAtZDIzYS03NzA1LWFjNzMtOTNkNzY3OTY5N2Yw.jpg",
     "pubDate": "2025-12-11T04:34:12+00:00"
   },
   {
@@ -262,7 +269,7 @@
     "title": "CFTC Innovation Council adds prediction market, exchange CEOs",
     "description": "The CFTC's new CEO Innovation Council includes leaders from crypto exchanges like Kraken and traditional stock exchanges such as Nasdaq to discuss market structure reforms.",
     "link": "https://cointelegraph.com/news/cftc-innovation-council-adds-prediction-markets-crypto-and-stock-exchange-ceos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0b75-cbe2-772d-adae-42329b609abd",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzUtY2JlMi03NzJkLWFkYWUtNDIzMjliNjA5YWJk.jpg",
     "pubDate": "2025-12-11T04:01:58+00:00"
   },
   {
@@ -290,7 +297,7 @@
     "title": "Payments giant Stripe acquires team from crypto wallet app Valora",
     "description": "Stripe has hired Valora’s builders to work on its crypto initiatives, as the wallet’s app shifts ownership back to Celo’s cLabs.",
     "link": "https://cointelegraph.com/news/stripe-acquires-self-custody-crypto-wallet-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0a8a-f797-78f6-9d8d-c3dce78f9586",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhOGEtZjc5Ny03OGY2LTlkOGQtYzNkY2U3OGY5NTg2.jpg",
     "pubDate": "2025-12-11T02:31:09+00:00"
   },
   {
@@ -318,7 +325,7 @@
     "title": "Gemini soars 14% as new license opens door to US prediction markets",
     "description": "An affiliate of the crypto exchange Gemini received a designated contract market license, and it now plans to offer prediction markets in the US.",
     "link": "https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0aef-7ea7-7e80-baa6-27efe48f39a7",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhZWYtN2VhNy03ZTgwLWJhYTYtMjdlZmU0OGYzOWE3.jpg",
     "pubDate": "2025-12-11T01:33:43+00:00"
   },
   {
@@ -334,13 +341,6 @@
     "link": "https://www.nytimes.com/2025/12/10/us/politics/house-approves-defense-bill.html",
     "thumbnail": "https://static01.nyt.com/images/2025/12/10/multimedia/10DC-DEFENSEBILL-fkwc/10DC-DEFENSEBILL-fkwc-facebookJumbo.jpg",
     "pubDate": "2025-12-11T01:24:51+00:00"
-  },
-  {
-    "title": "GOP lawmakers seek Trump aid for agricultural equipment after tariff pressure",
-    "description": "Top lawmakers signaled that more federal help to farmers could be on the way, which could help tractor sales.",
-    "link": "https://www.cnbc.com/2025/12/10/trump-aid-agricultural-equipment-farm-trade.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108238427-1765214797934-gettyimages-2250118658-US_STOCKS.jpeg?v=1765214845&w=1920&h=1080",
-    "pubDate": "2025-12-11T00:52:55+00:00"
   },
   {
     "title": "These Magnetic 3D Puzzles Inspired By Avatar, SpongeBob, &amp; More Are Perfect Stocking Stuffers",
@@ -560,73 +560,66 @@
     "pubDate": "2025-12-10T18:13:31+00:00"
   },
   {
-    "title": "Lucid Motors Was Once a Hot EV Stock. Now Morgan Stanley Warns That the Flames Are Freezing Over.",
+    "title": "CoreWeave (CRWV) Gets $100 Target as Analysts Call Recent Stock Plunge Fear-Driven",
     "description": "",
-    "link": "https://finance.yahoo.com/news/lucid-motors-once-hot-ev-204754461.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/_IgG55srNLBqK0leDZUe9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/eb53c008ca42d13385f302146f20bea6",
-    "pubDate": "2025-12-09T20:47:54+00:00"
+    "link": "https://finance.yahoo.com/news/coreweave-crwv-gets-100-target-215839646.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/R1Al2u1wdxqI1iZ5EkqBsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ed8459be7c479ae3a2bbe429fe361920",
+    "pubDate": "2025-12-09T21:58:39+00:00"
   },
   {
-    "title": "Solar Stocks Have Taken Off. Trump’s Rules Contained Surprises.",
+    "title": "Basic Materials Roundup: Market Talk",
     "description": "",
-    "link": "https://www.barrons.com/articles/solar-manufacturing-stocks-rally-cc71d425?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.wsj.com/finance/commodities-futures/basic-materials-roundup-market-talk-b27cc979?siteid=yhoof2&yptr=yahoo",
     "thumbnail": "",
-    "pubDate": "2025-12-09T20:46:00+00:00"
+    "pubDate": "2025-12-09T21:57:00+00:00"
   },
   {
-    "title": "MicroStrategy Is Still Betting on a Bitcoin Comeback to Lift Beaten-Down MSTR Stock",
+    "title": "Casey’s Beats Expectations. The Stock Is Falling.",
     "description": "",
-    "link": "https://finance.yahoo.com/news/microstrategy-still-betting-bitcoin-comeback-204213931.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/VkEiqrEe0ryFA00vwFkwpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/barchart_com_477/56910265b4af38c5d935b4ca124ede86",
-    "pubDate": "2025-12-09T20:42:13+00:00"
-  },
-  {
-    "title": "Russell 2000 Heads for a Fresh High",
-    "description": "",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-120925/card/russell-2000-heads-for-a-fresh-high-qU8GtXf1aa6AnE4K8WUT?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "https://images.barrons.com/im-45633613",
-    "pubDate": "2025-12-09T20:40:09+00:00"
-  },
-  {
-    "title": "Dollar Gains on Better-Than-Expected US Labor Market News",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/dollar-gains-better-expected-us-203419375.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Nh3RX6kLjSHJQ5PkUtDU_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjE-/https://media.zenfs.com/en/barchart_com_477/84ae0eb9df2ee375c1348da6ad2c252a",
-    "pubDate": "2025-12-09T20:34:19+00:00"
-  },
-  {
-    "title": "How a 46-Year-Old With a $1 Million 401(k) Can Hit $2 Million by Retirement",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/46-old-1-million-401-203139229.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/NRGQBSHqxp6wvO9_OiDZBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/250791d8756fbce418c49bf65b86d23d",
-    "pubDate": "2025-12-09T20:31:39+00:00"
-  },
-  {
-    "title": "Oil Futures Decline for Second Straight Session",
-    "description": "",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-ukraine-russia-peace-talks-fed-meeting-in-focus-dfe254d6?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.barrons.com/articles/caseys-beats-expectations-the-stock-is-falling-9fe8a82c?siteid=yhoof2&yptr=yahoo",
     "thumbnail": "",
-    "pubDate": "2025-12-09T20:31:00+00:00"
+    "pubDate": "2025-12-09T21:57:00+00:00"
   },
   {
-    "title": "Oracle (ORCL) Earnings Set to Address Data Center Funding Questions",
+    "title": "Energy &amp; Utilities Roundup: Market Talk",
     "description": "",
-    "link": "https://finance.yahoo.com/news/oracle-orcl-earnings-set-address-202939148.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/g8xIYs.ekKy3I9ZWpsQ0fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/916ad430b04c4c3e9fab96515705109e",
-    "pubDate": "2025-12-09T20:29:39+00:00"
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-db0d0cb7?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2025-12-09T21:55:00+00:00"
   },
   {
-    "title": "JPMorgan Analysts Doubt Crypto Winter Is Coming, Despite 'Meaningful' Bitcoin Sell-Off",
+    "title": "Tech, Media &amp; Telecom Roundup: Market Talk",
     "description": "",
-    "link": "https://finance.yahoo.com/news/jpmorgan-analysts-doubt-crypto-winter-202849077.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/9MvT6q0qXQJo1qGg3hCR6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/ce029df7dd4f7a4dc53ab7e72bf9d75c",
-    "pubDate": "2025-12-09T20:28:49+00:00"
+    "link": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-ee56aa2c?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2025-12-09T21:55:00+00:00"
   },
   {
-    "title": "As Baidu Spins Off Its AI Chip Division, Should You Buy, Sell, or Hold BIDU Stock?",
+    "title": "Vanguard Growth ETF vs. Vanguard Value ETF: Which ETF Will Outperform in 2026?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/baidu-spins-off-ai-chip-202821991.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Gqq55f0RjzU.XH0u7j_yqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/2cc061566ecc085b4b2e9e0dbb8e8a7b",
-    "pubDate": "2025-12-09T20:28:21+00:00"
+    "link": "https://finance.yahoo.com/news/vanguard-growth-etf-vs-vanguard-215400629.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ePE_ig7kxWPdPI8SlzErqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/144f132793b41f99b5f2787607f45355",
+    "pubDate": "2025-12-09T21:54:00+00:00"
+  },
+  {
+    "title": "Could a 50-year mortgage make homes more affordable?",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/50-year-mortgage-161424355.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/CoPGdz.tgiPmY5MYO.HJ6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/5c407390-c6b6-11ef-a6ff-6364bd052b4c",
+    "pubDate": "2025-12-09T16:14:24+00:00"
+  },
+  {
+    "title": "Inherited an IRA? 5 steps to take now.",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/investing/article/inherited-ira-155734798.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/T.RVarZ47xxB0O2FRrdLUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f36531d0-d50a-11f0-a8db-846f0f88b5aa",
+    "pubDate": "2025-12-09T15:57:34+00:00"
+  },
+  {
+    "title": "5 questions for Netflix subscribers about the Warner Bros. deal",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/5-questions-for-netflix-subscribers-about-the-warner-bros-deal-154301609.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/iL8rzsqSyFV6emzkPzgzIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDg-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/baca0090-d478-11f0-9785-74a36664122a",
+    "pubDate": "2025-12-09T15:43:01+00:00"
   }
 ]
