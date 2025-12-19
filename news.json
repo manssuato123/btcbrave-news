@@ -1,10 +1,94 @@
 [
   {
+    "title": "Bank of Japan Raises Interest Rates to Highest Level in 30 Years",
+    "description": "The Bank of Japan moved to slow inflation as the prime minister is borrowing more to fund an ambitious effort to build up industry and support households.",
+    "link": "https://www.nytimes.com/2025/12/18/business/bank-of-japan-rates-inflation.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/19/multimedia/19Biz-Japan-Econ-01-wbzf/19Biz-Japan-Econ-01-wbzf-facebookJumbo.jpg",
+    "pubDate": "2025-12-19T03:28:12+00:00"
+  },
+  {
+    "title": "Judge Convicted of Obstructing Agents as They Sought Undocumented Immigrant",
+    "description": "The Wisconsin state judge, Hannah C. Dugan, was accused of ushering a man to a side door as federal agents waited outside a courtroom.",
+    "link": "https://www.nytimes.com/2025/12/18/us/judge-hannah-dugan-trial-verdict.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/18/multimedia/hfo-nat-judge-verdict-1-bkzc/hfo-nat-judge-verdict-1-bkzc-facebookJumbo.jpg",
+    "pubDate": "2025-12-19T03:28:11+00:00"
+  },
+  {
+    "title": "Europe Agrees to $105 Billion Funding Plan for Ukraine",
+    "description": "European Union officials wanted to use Russia’s frozen assets to back a major loan to Ukraine. Unable to overcome opposition, they settled on another way to lend the money.",
+    "link": "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/18/multimedia/18vid-europe-meeting-ukraine-financing-cover-hbkf/18vid-europe-meeting-ukraine-financing-cover-hbkf-facebookJumbo.jpg",
+    "pubDate": "2025-12-19T03:25:32+00:00"
+  },
+  {
+    "title": "SEC flags Bitcoin miner hosting services as subject to securities laws",
+    "description": "In a lawsuit, the SEC says some hosted Bitcoin mining services could trigger US securities laws, but an industry executive says most providers have nothing to worry about.",
+    "link": "https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b33c9-c54e-7f85-9578-52827cf543be.jpg",
+    "pubDate": "2025-12-19T03:23:48+00:00"
+  },
+  {
+    "title": "Suspected Brown shooter Valente is found dead, authorities say",
+    "description": "The suspected gunman, Claudio Manuel Nueves Valente, 48, had been a graduate students in physics at Brown University in the early 2000s, authorities said.",
+    "link": "https://www.cnbc.com/2025/12/19/brown-mit-shooter-dead-valente.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108242458-1765900988820-gettyimages-2251586519-AA_16122025_2563844.jpeg?v=1765901018&w=1920&h=1080",
+    "pubDate": "2025-12-19T03:08:46+00:00"
+  },
+  {
+    "title": "Takeaways From the Trial of Wisconsin Judge Hannah Dugan",
+    "description": "The Milwaukee judge was charged with obstructing federal immigration agents, who were trying to arrest a man who had appeared before her on a battery charge.",
+    "link": "https://www.nytimes.com/2025/12/18/us/judge-hannah-dugan-trial-takeaways.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/18/multimedia/18nat-dugan-takeaways-1-gcjw/18nat-dugan-takeaways-1-gcjw-facebookJumbo.jpg",
+    "pubDate": "2025-12-19T03:05:55+00:00"
+  },
+  {
+    "title": "CNBC's Inside India newsletter: Why the India-U.S. trade deal remains elusive",
+    "description": "Despite strong economic and strategic reasons, the absence of political will remains the biggest hurdle in closing of India-U.S. trade deal.",
+    "link": "https://www.cnbc.com/2025/12/18/cnbcs-inside-india-newsletter-why-the-india-us-trade-deal-remains-elusive.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108177482-1753663444511-gettyimages-2199453959-ah801566_o6cgo0nx.jpeg?v=1753663461&w=1920&h=1080",
+    "pubDate": "2025-12-19T02:55:24+00:00"
+  },
+  {
+    "title": "Bitwise files with SEC to offer spot Sui ETF",
+    "description": "Bitwise has filed an initial registration for an ETF tracking Sui, joining the race to launch with Canary Captial and 21Shares.",
+    "link": "https://cointelegraph.com/news/bitwise-submits-spot-sui-etf-proposal-to-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019aeaae-a5a2-7c9c-abf5-47342ddb1776",
+    "pubDate": "2025-12-19T02:49:56+00:00"
+  },
+  {
+    "title": "Crypto has everything needed for a bull market, so why is the market down?",
+    "description": "Crypto has tracked lower late this year despite pro-regulation shifts, ETF launches, and institutional buying, prompting analysts to question structural issues.",
+    "link": "https://cointelegraph.com/news/crypto-everything-needed-for-bull-market-why-trending-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b342e-b368-77a8-b273-391d9b8e3b2c.jpg",
+    "pubDate": "2025-12-19T02:40:02+00:00"
+  },
+  {
+    "title": "Australia announces gun buyback scheme in wake of Bondi attack",
+    "description": "It is the largest scheme since the Port Arthur massacre in 1996, which prompted massive gun law reform.",
+    "link": "https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ac/live/62777320-dc82-11f0-aae2-2191c0e48a3b.jpg",
+    "pubDate": "2025-12-19T02:30:21+00:00"
+  },
+  {
+    "title": "Trump lauds Chris Waller as ‘great’ after Fed chair interview, will pick within weeks",
+    "description": "US President Donald Trump says that he has narrowed down his pick to replace Federal Reserve Chair Jerome Powell to three or four candidates.",
+    "link": "https://cointelegraph.com/news/donald-trump-fed-chair-pick-chris-waller-speculation-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b33f7-b1cc-7efa-babe-480fe18cef35.jpg",
+    "pubDate": "2025-12-19T02:09:51+00:00"
+  },
+  {
     "title": "Anxiety of quantum risk to Bitcoin is weighing on its price: Execs",
     "description": "Cypherpunk Adam Back dismissed concerns that quantum computing poses a threat to Bitcoin, arguing the technology is still “ridiculously early.”",
     "link": "https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4MTItMjkzNS03MjQyLWFiYzktYzA2NTM0ZTc1NDY5.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0812-2935-7242-abc9-c06534e75469",
     "pubDate": "2025-12-19T01:55:25+00:00"
+  },
+  {
+    "title": "EU delays trade deal with South America’s Mercosur bloc as farmers protest",
+    "description": "EU delays Mercosur trade deal until January amid farmer protests and opposition from France and Italy.",
+    "link": "https://www.aljazeera.com/news/2025/12/19/eu-delays-trade-deal-with-south-americas-mercosur-bloc-as-farmers-protest?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-18T145839Z_768270177_RC2XIIAKSXDV_RTRMADP_3_EU-SUMMIT-FARMERS-PROTEST-1766107259.jpg?resize=1920%2C1440",
+    "pubDate": "2025-12-19T01:53:07+00:00"
   },
   {
     "title": "Asia-Pacific markets rise as investors await Bank of Japan decision",
@@ -26,13 +110,6 @@
     "link": "https://www.nytimes.com/2025/12/18/us/politics/democrats-trump-deportations.html",
     "thumbnail": "https://static01.nyt.com/images/2025/12/18/multimedia/18nat-states-pushback-1-kjlb/18nat-states-pushback-1-kjlb-facebookJumbo.jpg",
     "pubDate": "2025-12-19T01:39:14+00:00"
-  },
-  {
-    "title": "Police issue arrest warrant for suspect in Brown University attack, sources say",
-    "description": "Investigators are also searching for a car they believe was rented by the suspect in the shooting that killed two students and injured nine.",
-    "link": "https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2f/live/8728c7a0-dc4b-11f0-9440-aba3815b871c.jpg",
-    "pubDate": "2025-12-19T01:37:53+00:00"
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,394",
@@ -59,15 +136,8 @@
     "title": "8BitDo Rare 40th Anniversary Xbox Wireless Controller Is Steeply Discounted",
     "description": "8BitDo Ultimate 3-Mode Wireless Controller: Rare 40th Anniversary Edition $72 (was $90) | For Xbox, PC, Apple, Android See at Amazon Xbox and PC gamers can save big on 8BitDo's first wireless controller for Xbox Series X|S. The 8BitDo Ultimate 3-Mode Rare 40th Anniversary Edition is on sale for $72 (was $90) at Amazon. Officially licensed by Microsoft, this special version of the Ultimate 3-Mode also comes with a matching charging dock, a metal D-pad, Hall Effect sticks, and remappable back buttons. Released in August in celebration of Rare Limited, the controller has a striking blue-and-gold color scheme with symbols and artwork nodding to the Microsoft-owned studio's storied history. Though best known today as the studio behind Sea of Thieves, Rare has a back catalog of classics like Donkey Kong Country, GoldenEye 007, Banjo-Kazooie, Conker, and Perfect Dark. The only other time the controller has been discounted was during Black Friday, and that deal sold out before the sale expired. 8BitDo's Ultimate 3-Mode Rare 40th Anniversary Edition Controller is a great alternative to Microsoft's Xbox Elite Series 2 Controller, which is on sale for $135 (was $200). The controller works wirelessly on Xbox consoles, PC, Apple devices, Android, and Steam Deck. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/8bitdo-ultimate-3-mode-xbox-wireless-controller-rare-40th-anniversary-edition/1100-6533654/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4542490-8bitdorare.png",
+    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4625958-4542494-8bitdorare40thanniversaryeditionthumbnail.png",
     "pubDate": "2025-12-19T01:12:00+00:00"
-  },
-  {
-    "title": "Australia announces gun buyback scheme in wake of Bondi attack",
-    "description": "It is the largest scheme since the Port Arthur massacre in 1996, which prompted massive gun law reform.",
-    "link": "https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5fc/live/dae43db0-dc79-11f0-aae2-2191c0e48a3b.jpg",
-    "pubDate": "2025-12-19T01:10:15+00:00"
   },
   {
     "title": "Trump Announces $1,776 ‘Warrior Dividend’ for Military",
@@ -87,15 +157,8 @@
     "title": "Preorders For Diablo 4: Lord Of Hatred's Official Prequel Novel Are Now Live",
     "description": "Diablo IV: The Lost Horadrim (Novel) $30 | Releases April 21, 2026 See at Amazon The world of Diablo IV will expand when the upcoming Lord of Hatred expansion launches on April 28. However, a week before the new content drops, fans will get a glimpse into the expansion's story with the prequel novel Diablo IV: The Lost Horadrim. This official novel launches on April and will provide context for the Lord of Hatred's main questline and introduce the Skovos Isles region where the expansion takes place. If that sparks your interest, you can preorder the paperback edition of Diablo IV: The Lost Horadrim for $30 at Amazon. The book will also be available as an eBook and Audible audiobook, priced at $15 and $17.52, respectively. Diablo IV: The Lost Horadrim (Novel) $30 | Releases April 21, 2026 Diablo IV: The Lost Horadrim is set in the wake of the cataclysmic reaping by the Angel of Death, Malthael, which leaves humanity and the world of Sanctuary devastated. In an effort to fight against the rising tides of Hell's forces, the Horadric Order sends Lorath, Donan, and Tyrael to the Skovos Isles to uncover the fate of a long-lost expedition. The book's events will tie into the upcoming Diablo IV expansion, Lord of Hatred. It is written by Matthew J. Kirby, who previously wrote the Diablo character tomes for Lorath and Prava. See at Amazon Diablo has a long history in print, and if you're looking to grab a few books--possibly as a devilish stocking-stuffer--there's plenty to choose from. The Diablo art books and character tomes are fun dives into the game's bleak world, combining high-quality prints with rich illustrations to create eye-catching works of art. The character tomes are designed to be in-universe books written from the perspectives of several key Diablo characters, like Cain and Prava, and they use special paper to give each book a worn, weathered look. The first four of these books are also available as part of the Horadric Vault series for $98.39, but it's actually cheaper to purchase each one and the recently released Book of Prava individually. You can also dive into various novels set within the timeline of the first Diablo game. The Sin War is a three-book series covering the conflict that would forever change the destiny of humanity, while Storm of Light is set during Diablo 3 and follows Tyrael as he enacts his boldest plan yet: rebuilding the Horadric Order and preparing them to steal the black Soulstone from the heart of Heaven. Diablo graphic novels are also available for purchase, with two of them chronicling the adventures of two legendary characters from the game series: the legendary Necromancer Rathma and the progenitor of the Barbarians, Bul-Kathos. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/diablo-4-expansion-prequel-novel-preorder-guide/1100-6536997/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4623877-diablo-4-square.jpg",
+    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4623878-diablo-4-lost-horadrim.jpg",
     "pubDate": "2025-12-19T00:49:00+00:00"
-  },
-  {
-    "title": "New York City Raises the Cap on Permits for Street Vendors",
-    "description": "The legislation, which will make thousands more permits available, is part of a package of City Council bills aimed at helping the city’s vendors get on the right side of the law.",
-    "link": "https://www.nytimes.com/2025/12/18/nyregion/nyc-street-vendor-permits-cap-raised.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/18/multimedia/18met-street-vendors-01-cphv/18met-street-vendors-01-cphv-facebookJumbo.jpg",
-    "pubDate": "2025-12-19T00:48:09+00:00"
   },
   {
     "title": "Nintendo Wins Latest Round In Its 15-Year Legal Battle Over The Wii",
@@ -108,7 +171,7 @@
     "title": "XRP’s familiarity helps push ETFs past $1B assets: Exec",
     "description": "XRP has a “number of reasons” that are attracting traditional investor dollars, which has helped to push XRP ETFs over $1 billion in assets, says CF Benchmarks CEO Sui Chung.",
     "link": "https://cointelegraph.com/news/xrp-etf-demand-rises-price-familiarity-crypto-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzZWEtODFlNC03ODk0LTllMGMtMmIzMzRkZGE0MWU3LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b33ea-81e4-7894-9e0c-2b334dda41e7.jpg",
     "pubDate": "2025-12-19T00:08:00+00:00"
   },
   {
@@ -140,6 +203,13 @@
     "pubDate": "2025-12-18T23:53:53+00:00"
   },
   {
+    "title": "Ex-Nascar driver and his family among seven killed in US plane crash",
+    "description": "Officials confirmed Greg Biffle, his wife and two children were among those who boarded the small plane that crashed at a regional airport in North Carolina.",
+    "link": "https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3999/live/abd47730-dc5e-11f0-b1b4-f15065f62c2f.jpg",
+    "pubDate": "2025-12-18T23:46:06+00:00"
+  },
+  {
     "title": "Kennedy Center Board Moves to Rename It the Trump-Kennedy Center",
     "description": "The board for the John F. Kennedy Center for the Performing Arts announced that it would now be named the Trump-Kennedy Center, although a formal change may have to be approved by Congress.",
     "link": "https://www.nytimes.com/2025/12/18/us/politics/trump-kennedy-center-name.html",
@@ -147,17 +217,10 @@
     "pubDate": "2025-12-18T23:38:58+00:00"
   },
   {
-    "title": "Congressional stock trading ban bill to get a vote in new year, House Republicans say",
-    "description": "Democrats and Republicans remain split on whether a stock trading ban should extend to President Donald Trump",
-    "link": "https://www.cnbc.com/2025/12/18/congress-stock-trading-ban-trump.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108242988-17659857482025-12-17t153338z_1442832550_rc2eiiau0pvc_rtrmadp_0_usa-trump-accounts.jpeg?v=1766099283&w=1920&h=1080",
-    "pubDate": "2025-12-18T23:37:07+00:00"
-  },
-  {
     "title": "These Transformers &amp; Marvel Air Hockey Tables Are A Great Last-Minute Gift Idea",
     "description": "World Tech Toys Licensed Air Hockey Tables $50 See at Amazon If you're sick of having to go all the way to Dave &amp; Buster's to play some air hockey with your little ones, you'll want to check out these officially licensed, portable air hockey tables from World Tech Toys. Each one is just $50, and features characters from popular franchises like Spider-Man, Transformers, Toy Story, and more. World Tech Toys Licensed Air Hockey Tables $50 World Tech Toys' new air hockey tables feature a built-in fan that mimics an authentic air hockey experience, while remaining portable enough to bring with you on the go. The tables are constructed from durable wood, too, which should withstand the usual wear and tear that children's toys endure. There are multiple variations of air hockey tables, each featuring a beloved character (or characters) from big-name franchises like Marvel, Disney, and more. Check out each World Tech Toys Air Hockey Table theme you can get below: Marvel Avengers Air Hockey Table -- $50 Marvel Spider-Man Air Hockey Table -- $50 Marvel Spidey and His Amazing Friends Air Hockey Table -- $50 Mickey Mouse Air Hockey Table -- $50 Minnie Mouse Air Hockey Table -- $50 Toy Story Air Hockey Table -- $50 Transformers Air Hockey Table -- $50 See at Amazon These air hockey tables could make great last-minute gifts for kids--just make sure to confirm Amazon's delivery date is before Christmas, if you need it to arrtive by December 25. If you're looking for some other gift ideas, check out World Tech Toys' lineup, which includes RC cars and helicopters, toy work benches, mini pinball and foosball tables, plus much more. And yes, those come in plenty of fun themes as well, including Frozen, Star Wars, and Subway. Sign up for GameSpot's Weekly Deals Newsletter: Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/official-transformers-spider-man-and-disney-air-hockey-table-deals/1100-6536888/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1864/18647298/4621265-airhockey.jpg",
+    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4625949-airhockey.jpg",
     "pubDate": "2025-12-18T23:36:00+00:00"
   },
   {
@@ -171,7 +234,7 @@
     "title": "Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’",
     "description": "Synthetix founder Kain Warwick expects other perpetual decentralized exchanges to follow Synthetix back to Ethereum, which is faster than ever.",
     "link": "https://cointelegraph.com/news/synthetix-ethereum-mainnet-return-kain-warwick-bullish-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmMDEtYTVkMy03NmNiLTgxYzMtZmM0ODZhNGI4YWMyLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b2f01-a5d3-76cb-81c3-fc486a4b8ac2.jpg",
     "pubDate": "2025-12-18T23:30:00+00:00"
   },
   {
@@ -180,13 +243,6 @@
     "link": "https://www.aljazeera.com/sports/2025/12/18/tottenham-vs-liverpool-premier-league-teams-start-time-lineups?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-09T200248Z_1440565009_UP1ELC91JOMK0_RTRMADP_3_SOCCER-CHAMPIONS-INT-LIV-1766061803.jpg?resize=1920%2C1440",
     "pubDate": "2025-12-18T23:10:35+00:00"
-  },
-  {
-    "title": "Nike shares fall 10% as China sales plunge, tariffs hit profits",
-    "description": "Nike posted fiscal second-quarter earnings and revenue that topped Wall Street's expectations as CEO Elliott Hill tries to turn around the company.",
-    "link": "https://www.cnbc.com/2025/12/18/nike-nke-q2-2026-earnings.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108243314-1766011865525-gettyimages-2251800698-NIKE_EARNS.jpeg?v=1766012027&w=1920&h=1080",
-    "pubDate": "2025-12-18T23:05:58+00:00"
   },
   {
     "title": "Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation",
@@ -206,7 +262,7 @@
     "title": "Crypto CLARITY Act set for Senate markup in January, Sacks says",
     "description": "White House AI and crypto czar David Sacks said the CLARITY Act will reach the Senate next month for debate and amendment before a full vote.",
     "link": "https://cointelegraph.com/news/white-house-david-sacks-crypto-clarity-act-senate-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNzYtMzNiMC03YjRjLWI3MDktZDg4MjdhMjEwYzhlLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b3376-33b0-7b4c-b709-d8827a210c8e.jpg",
     "pubDate": "2025-12-18T22:32:29+00:00"
   },
   {
@@ -220,15 +276,8 @@
     "title": "8BitDo's Superb Ultimate 2 Wireless Controllers Are Back On Sale All-Time Low Prices",
     "description": "8BitDo Ultimate 2 Bluetooth Controller (Switch 2, Switch, PC, Mac) $56 (was $70) See at Amazon 8BitDo Ultimate 2 Wireless Controller (PC, Apple, SteamOS, Android) $47.59 (was $60) See at Amazon 8BitDo Ultimate 2 Controllers are back on sale for Black Friday-level prices at Amazon. The highly customizable 8BitDo Ultimate 2 Bluetooth Controller for Nintendo Switch 1/2 and PC is discounted to $56 (was $70). You can choose between black or white color schemes with matching charging docks. The Ultimate 2 is arguably the best pro-style controller with offset thumbsticks in its price range; it's better than many controllers that cost two or three times as much. Notable features include TMR sticks, four extra remappable buttons, dual trigger modes, RGB lighting rings, custom profiles, and additional customization options via 8BitDo's free Ultimate Software V2. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/8bitdo-ultimate-2-switch-2-pc-controller-review-best-deals-at-amazon/1100-6529695/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4562284-8bitdoultimate2.png",
+    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4625943-4477024-8bitdodockedback.jpg",
     "pubDate": "2025-12-18T22:17:00+00:00"
-  },
-  {
-    "title": "Mamdani Appointee Resigns After Decade-Old Antisemitic Posts Re-emerge",
-    "description": "Catherine Almonte Da Costa resigned from her just-announced post as Mayor-elect Zohran Mamdani’s director of appointments after the Anti-Defamation League resurfaced the comments.",
-    "link": "https://www.nytimes.com/2025/12/18/nyregion/mamdani-resigns-antisemitic-da-costa.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/18/multimedia/18met-mamdani-antisemitic-gzbh/18met-mamdani-antisemitic-gzbh-facebookJumbo.jpg",
-    "pubDate": "2025-12-18T22:13:51+00:00"
   },
   {
     "title": "Trump signs executive order reclassifying cannabis, opening door to broader weed access",
@@ -248,14 +297,14 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
     "pubDate": "2025-12-18T22:03:32+00:00"
   },
   {
     "title": "Coinbase appoints former UK minister George Osborne to chair advisory council",
     "description": "Osborne began advising Coinbase in 2024 and has been critical of the UK government's lack of robust digital asset regulations.",
     "link": "https://cointelegraph.com/news/coinbase-george-osborne-uk-minister-advisory-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNzUtNGJlNy03Zjc3LWE3NzItZWEzMGFmMGFiYWI4LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b3375-4be7-7f77-a772-ea30af0abab8.jpg",
     "pubDate": "2025-12-18T21:59:06+00:00"
   },
   {
@@ -273,13 +322,6 @@
     "pubDate": "2025-12-18T21:46:55+00:00"
   },
   {
-    "title": "Brazilian stock exchange to launch tokenization platform and stablecoin",
-    "description": "A representative from Brazil's stock exchange, B3, said the stablecoin would be “a tool to enable trading in tokens,\" which it planned to offer in 2026.",
-    "link": "https://cointelegraph.com/news/brazil-stocks-b3-tokenization-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMDMtMDVkYi03M2RiLTliYzItZjU4MjA5NGZlMTExLmpwZw==.jpg",
-    "pubDate": "2025-12-18T21:46:52+00:00"
-  },
-  {
     "title": "Imani Barbarin on disability rights, COVID and the war on Gaza",
     "description": "Why the TikTok star and disability advocate wants the world to rethink what it means to be disabled.",
     "link": "https://www.aljazeera.com/video/the-take-2/2025/12/18/aje-onl-glb_imanibarbarin_av_v2-181225?traffic_source=rss",
@@ -287,32 +329,11 @@
     "pubDate": "2025-12-18T21:44:41+00:00"
   },
   {
-    "title": "Global debt markets show dollar dominance moves in cycles, US Fed says",
-    "description": "A recent study by the US Federal Reserve argues that despite periodic challenges, a lack of credible alternatives has kept the dollar at the center of global bond markets.",
-    "link": "https://cointelegraph.com/news/global-debt-markets-dollar-dominance-cycles-fed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMDktZTE2Yi03ZGQ5LTgzNDgtZmY3MjVlOWE0MTg5LmpwZw==.jpg",
-    "pubDate": "2025-12-18T21:35:37+00:00"
-  },
-  {
     "title": "How to start Act 3 in Hollow Knight: Silksong",
     "description": "Act 3 is a continuation of the story in Hollow Knight: Silksong, but it can be pretty tough to start. Here's how to unlock it.",
     "link": "https://www.polygon.com/hollow-knight-silksong-act-3-requirements-silk-and-soul-how-to-start/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/caretaker_hks.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-18T21:34:31+00:00"
-  },
-  {
-    "title": "SOL price action lags the wider altcoin market: Is Solana’s heyday over?",
-    "description": "SOL falls behind multiple altcoin competitors as its onchain activity, fee and DApp revenues slump. Cointelegraph explains why.",
-    "link": "https://cointelegraph.com/news/sol-lags-wider-altcoin-market-is-solanas-heyday-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMmMtMDFiZi03ZjhkLTgyN2ItOTgzNzQ0ZTU1ODMxLmpwZw==.jpg",
-    "pubDate": "2025-12-18T21:33:57+00:00"
-  },
-  {
-    "title": "Cypherpunk values are dying, but they’re 'Not Dead Yet'",
-    "description": "The values that are baked into the foundations of crypto — privacy, self-sovereignty, decentralization — are eroding, and we’re running out of time to address the problem.",
-    "link": "https://cointelegraph.com/news/cypherpunk-values-dying-but-not-dead-yet-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyZjktNTgzZC03ZmZlLTgzMzEtOTBhM2I4ODcwYWEwLmpwZw==.jpg",
-    "pubDate": "2025-12-18T21:30:46+00:00"
   },
   {
     "title": "WhiteFiber signs 10-year, 40 MW colocation deal with Nscale valued at about $865 million",
@@ -334,13 +355,6 @@
     "link": "https://www.aljazeera.com/news/2025/12/18/white-house-says-kennedy-center-board-has-voted-to-rename-after-trump?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25343650404976-1766090871.jpg?resize=1920%2C1440",
     "pubDate": "2025-12-18T21:27:41+00:00"
-  },
-  {
-    "title": "After Rob Reiner’s ‘North’ Flopped, He Proved He Could Take Criticism With Humor",
-    "description": "Roger Ebert said he “hated, hated, hated, hated, hated” Reiner’s 1994 film “North.” The director took it in stride.",
-    "link": "https://www.nytimes.com/2025/12/18/arts/rob-reiner-north-movie.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/18/world/18xp-reiner-north/18xp-reiner-north-facebookJumbo.jpg",
-    "pubDate": "2025-12-18T21:16:35+00:00"
   },
   {
     "title": "Golfer Rory McIlroy wins Sports Personality of the Year",
@@ -374,7 +388,7 @@
     "title": "Backbone Pro Xbox Edition Controller Is Already On Sale For A Steep Discount",
     "description": "Backbone Pro Mobile Controller $135 (was $170) See at Amazon See at Backbone See at Best Buy Backbone Pro Mobile Controller: Xbox Edition $145 (was $180) See at Amazon See at Backbone See at Best Buy Backbone Pro Mobile Controller (Pink): Target Exclusive $140 (was $170) See at Target Just a month after its launch, the Backbone Pro Xbox Edition is on sale for a substantial discount at Amazon, Best Buy, and Backbone's online storefront. Normally $180, the officially licensed transparent green mobile controller is up for grabs for $145. Alternatively, you can get the standard edition black Backbone Pro for $135 (was $170) or the Target-exclusive pink edition for $140 (was $170). Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/backbone-pro-mobile-controller-deals-iphone-android-xbox-edition/1100-6537094/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4625885-4488225-backbonepromodule2.png",
+    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4625890-backbonecontrollers.jpg",
     "pubDate": "2025-12-18T20:55:00+00:00"
   },
   {
@@ -399,11 +413,11 @@
     "pubDate": "2025-12-18T20:40:30+00:00"
   },
   {
-    "title": "Protesting farmers clash with police as EU debates trade deal",
-    "description": "Angry farmers drove their tractors into Brussels and faced tear gas from police as EU leaders debated a trade deal.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/18/protesting-farmers-clash-with-police-as-eu-debates-trade-deal?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1766089915.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2025-12-18T20:34:00+00:00"
+    "title": "Democrats release latest batch of Epstein photos as justice department deadline looms",
+    "description": "The materials include photos of women's passports, and Lolita quotes written across a woman's body.",
+    "link": "https://www.bbc.com/news/articles/cy472pygwljo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a62c/live/d00dc7a0-dc4a-11f0-83b4-4b97b1cc3247.jpg",
+    "pubDate": "2025-12-18T20:29:19+00:00"
   },
   {
     "title": "Tomb Raider TV Series Adds Another Big Name To Its Cast",
@@ -418,13 +432,6 @@
     "link": "https://www.gamespot.com/articles/perfect-dark-star-reacts-to-the-games-cancellation/1100-6537089/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4625837-lara.jpg",
     "pubDate": "2025-12-18T20:14:00+00:00"
-  },
-  {
-    "title": "HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job",
-    "description": "Kristin Cabot says she was bombarded with abusive and threatening messages after being filmed with her boss on the 'kiss-cam'.",
-    "link": "https://www.bbc.com/news/articles/cg7vp937jyxo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c1/live/17311310-dc4d-11f0-a8dc-93c15fe68710.jpg",
-    "pubDate": "2025-12-18T20:07:40+00:00"
   },
   {
     "title": "Naughty Dog's Intergalactic Aiming For Mid-2027 Release Amid New Crunch Allegations - Report",
@@ -467,13 +474,6 @@
     "link": "https://www.cnbc.com/2025/12/18/friday-could-be-a-wild-day-of-trading-on-wall-street-heres-why.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108243087-17659928772025-12-17t170019z_417787449_rc2diiaxysev_rtrmadp_0_usa-stocks.jpeg?v=1765993003&w=1920&h=1080",
     "pubDate": "2025-12-18T19:51:24+00:00"
-  },
-  {
-    "title": "They Thought They Had ‘Made It.’ Now They Can’t Afford Food.",
-    "description": "New Yorkers in the so-called “missing middle,” who may make too much for food benefits, say it’s still hard to find enough money for groceries.",
-    "link": "https://www.nytimes.com/2025/12/18/nyregion/nyc-food-budgets.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/18/multimedia/18met-food-budgets-03-jwvz/18met-food-budgets-03-jwvz-facebookJumbo.jpg",
-    "pubDate": "2025-12-18T19:32:58+00:00"
   },
   {
     "title": "Where to find Pansage, Pansear, and Panpour in Pokémon Legends: Z-A",
@@ -560,66 +560,73 @@
     "pubDate": "2025-12-18T14:56:01+00:00"
   },
   {
-    "title": "Nucor, Steel Dynamics Warn of Profit Shortfalls",
+    "title": "Dollar Gains on Weakness in the British Pound and Yen",
     "description": "",
-    "link": "https://www.wsj.com/business/earnings/nucor-steel-dynamics-warn-of-profit-shortfalls-520fe623?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2025-12-17T14:28:00+00:00"
+    "link": "https://finance.yahoo.com/news/dollar-gains-weakness-british-pound-153241158.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/AYuuZFxfQAveU9ok549g4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/f7d9bd356c5cee655f8b7dcd5d426bb2",
+    "pubDate": "2025-12-17T15:32:41+00:00"
   },
   {
-    "title": "Is Fiserv (FISV) an Undervalued Stock?",
+    "title": "Is SoundHound Stock a Buy for 2026? This Analyst Thinks So.",
     "description": "",
-    "link": "https://finance.yahoo.com/news/fiserv-fisv-undervalued-stock-142259382.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/51b17e76e0ed3c67f24aae5762b10083",
-    "pubDate": "2025-12-17T14:22:59+00:00"
+    "link": "https://finance.yahoo.com/news/soundhound-stock-buy-2026-analyst-152943344.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/mXMWuti_bcb25o3I0Wtkeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/82b74f504cc2f5a179193c4e6fb25c18",
+    "pubDate": "2025-12-17T15:29:43+00:00"
   },
   {
-    "title": "Do You Believe in the Growth Potential of Adobe (ADBE)?",
+    "title": "West Pharmaceutical Services Stock: Is WST Underperforming the Healthcare Sector?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/believe-growth-potential-adobe-adbe-141821954.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/2b5b7ecf073968982fd33d6ff1961546",
-    "pubDate": "2025-12-17T14:18:21+00:00"
+    "link": "https://finance.yahoo.com/news/west-pharmaceutical-services-stock-wst-152823081.html",
+    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/95c0dd53bc1a0be55ddd379ccf18bac0",
+    "pubDate": "2025-12-17T15:28:23+00:00"
   },
   {
-    "title": "Warner Bros Discovery board rejects hostile bid from Paramount",
+    "title": "Netflix Says the Warner Bros’ Deal Is All About ‘Growth.’ Will NFLX Stock Keep Growing in 2026?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/warner-bros-discovery-board-rejects-141500067.html",
-    "thumbnail": "https://media.zenfs.com/en/reuters.com/4cb28e9cd84b47479c120537cd063a22",
-    "pubDate": "2025-12-17T14:15:00+00:00"
+    "link": "https://finance.yahoo.com/news/netflix-says-warner-bros-deal-152744525.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/EvhicFRWUzHJuJp8ZUFeTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/f6f52bffea7da044754aaa0e8feb0b5f",
+    "pubDate": "2025-12-17T15:27:44+00:00"
   },
   {
-    "title": "What Makes General Dynamics (GD) a Good Investment Amid Global Geopolitical Tensions",
+    "title": "Southwest Airlines and TJX Hit New 52-Week Highs: Which Is More Likely to Fly Higher in 2026 and beyond?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/makes-general-dynamics-gd-good-140841300.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/ede8c7f5b6b3a2301b211bf3a2539fa0",
-    "pubDate": "2025-12-17T14:08:41+00:00"
+    "link": "https://finance.yahoo.com/news/southwest-airlines-tjx-hit-52-152206745.html",
+    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/28f32ee600e69bb601b56b12e60ee879",
+    "pubDate": "2025-12-17T15:22:06+00:00"
   },
   {
-    "title": "Prediction: Zcash Will Flip Monero in 2026 and Never Look Back",
+    "title": "How Is DTE Energy Stock Performance Compared to Other Utilities - Regulated Electric Stocks?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/prediction-zcash-flip-monero-2026-140500962.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/1a93WnrGg_5T7GazIdoPeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/9e27a1c1c8961a79816acd69bc63b111",
-    "pubDate": "2025-12-17T14:05:00+00:00"
+    "link": "https://finance.yahoo.com/news/dte-energy-stock-performance-compared-152202520.html",
+    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/be7e73722052df773b2a2940f3eb7a7f",
+    "pubDate": "2025-12-17T15:22:02+00:00"
   },
   {
-    "title": "FactSet Research Systems' Quarterly Earnings Preview: What You Need to Know",
+    "title": "This Under-the-Radar Stock Is Crushing the Market in 2025 and Is Joining the Nasdaq-100 Next Week. Should You Buy Shares Now?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/factset-research-systems-quarterly-earnings-140422214.html",
-    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/5e6f3bbf6d4c37fff1932564a594eaf6",
-    "pubDate": "2025-12-17T14:04:22+00:00"
+    "link": "https://finance.yahoo.com/news/under-radar-stock-crushing-market-151244153.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/UxYpF2U5j_sv1WaS0x4Z0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/bf5caa70730d89828f7d0f1e6e00cc22",
+    "pubDate": "2025-12-17T15:12:44+00:00"
   },
   {
-    "title": "General Mills earnings flash a warning sign for the economy",
+    "title": "Forget About COLA Increases, These High Yield ETFs Will Do More For You",
     "description": "",
-    "link": "https://finance.yahoo.com/news/general-mills-earnings-flash-warning-140407977.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/DP7wuKGNH3R1FUO0RfgIyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/3477d09f3bfcae3ef1655213b0d0a326",
-    "pubDate": "2025-12-17T14:04:07+00:00"
+    "link": "https://finance.yahoo.com/news/forget-cola-increases-high-yield-151135920.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/EWRyT_Xfaa8S9SiEE0..uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/2b437386739748f34b2d151fb296a24d",
+    "pubDate": "2025-12-17T15:11:35+00:00"
   },
   {
-    "title": "Warner Bros Discovery board rejects rival bid from Paramount",
+    "title": "7 Financial Strategies Retirees Can Learn From Those Still in the Workforce",
     "description": "",
-    "link": "https://finance.yahoo.com/news/warner-bros-discovery-board-rejects-120335579.html",
-    "thumbnail": "https://media.zenfs.com/en/reuters-finance.com/343c67f49000843eadc9cf5815a03209",
-    "pubDate": "2025-12-17T12:03:35+00:00"
+    "link": "https://finance.yahoo.com/news/7-financial-strategies-retirees-learn-140009915.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/THuT419SqN12SsIa4F4wbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/df723e17fbe0179e67a0b01636916b06",
+    "pubDate": "2025-12-17T15:10:05+00:00"
+  },
+  {
+    "title": "Why This Retirement Number Could Be More Important Than Your 401(k)",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/why-retirement-number-could-more-150914456.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/LH7HlcyeOxRGdu5jcH96pA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTY-/https://media.zenfs.com/en/investopedia_245/69f78ff58db8a55d41def5a12c6d6d08",
+    "pubDate": "2025-12-17T15:09:14+00:00"
   }
 ]
