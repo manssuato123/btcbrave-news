@@ -1,5 +1,47 @@
 [
   {
+    "title": "Downpours Ease in Southern California, but Flood Risks Remain",
+    "description": "Another wave of rain was hitting the Los Angeles area on Friday, adding to the record-setting precipitation over Christmas.",
+    "link": "https://www.nytimes.com/2025/12/26/weather/rain-flooding-southern-california-storm.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/26/multimedia/26xp-calif-storm-cjpt/26xp-calif-storm-cjpt-facebookJumbo.jpg",
+    "pubDate": "2025-12-26T20:05:56+00:00"
+  },
+  {
+    "title": "Aave founder denies buying tokens to influence failed DAO vote",
+    "description": "Stani Kulechov's comments followed an uproar in the Aave community about the relationship between the Aave decentralized autonomous organization and Aave Labs.",
+    "link": "https://cointelegraph.com/news/aave-founder-tokens-influence-failed-dao-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b45bd-741f-79c2-86fa-ab3a1bd74bb8.jpg",
+    "pubDate": "2025-12-26T20:00:42+00:00"
+  },
+  {
+    "title": "Bitcoin price, onchain flows and global macro: Here’s what changed in 2025",
+    "description": "Bitcoin’s technical and onchain market structure was robust throughout 2025, but ever-shifting macroeconomic conditions eventually put a cap on BTC price. Will the trend shift in 2026?",
+    "link": "https://cointelegraph.com/news/bitcoin-onchain-flows-global-macro-here-s-what-changed-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b4783-14f3-77d5-aad6-7428eddd0437.jpg",
+    "pubDate": "2025-12-26T20:00:00+00:00"
+  },
+  {
+    "title": "Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says",
+    "description": "Groq's description of its Nvidia deal as a \"non-exclusive licensing agreement\" mimics other recent big AI transactions orchestrated by U.S. tech giants.",
+    "link": "https://www.cnbc.com/2025/12/26/nvidia-groq-deal-is-structured-to-keep-fiction-of-competition-alive.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108228463-1763575188806-gettyimages-2246892118-AFP_84JG4H7.jpeg?v=1766774718&w=1920&h=1080",
+    "pubDate": "2025-12-26T19:58:25+00:00"
+  },
+  {
+    "title": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+    "description": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
+    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/26/multimedia/26int-nigeria-assess-qcph/26int-nigeria-assess-qcph-facebookJumbo.jpg",
+    "pubDate": "2025-12-26T19:53:21+00:00"
+  },
+  {
+    "title": "Trump Invited White South Africans to America. One Ended Up in Detention.",
+    "description": "An Afrikaner flew to the United States expecting protection. Instead, he has spent months locked up in Georgia alongside hundreds of other immigrants.",
+    "link": "https://www.nytimes.com/2025/12/26/us/trump-afrikaner-ice.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/22/multimedia/00nat-immig-afrikaner-top-hqgv/00nat-immig-afrikaner-top-hqgv-facebookJumbo.jpg",
+    "pubDate": "2025-12-26T19:50:20+00:00"
+  },
+  {
     "title": "How New York Is Preparing for Its First Major Snowstorm in Years",
     "description": "Streets were brined, plows were ready and flights were canceled as the metropolitan region braced for up to 10 inches of snow.",
     "link": "https://www.nytimes.com/2025/12/26/nyregion/new-york-winter-storm-what-to-know.html",
@@ -14,18 +56,25 @@
     "pubDate": "2025-12-26T19:28:52+00:00"
   },
   {
+    "title": "Airlines cancel more than 1,200 flights ahead of winter storm. Here's what to know",
+    "description": "Airlines waived change fees ahead of a large winter storm and low temperatures after the busy Christmas holiday.",
+    "link": "https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108231341-1764025501328-gettyimages-2247755014-THANKSGIVING_TRAVEL.jpeg?v=1764025657&w=1920&h=1080",
+    "pubDate": "2025-12-26T19:25:07+00:00"
+  },
+  {
+    "title": "Over 300,000 student loan borrowers were denied a new repayment plan, court filing shows — here's why",
+    "description": "Trump officials rejected 327,955 income-driven repayment plan requests from student loan borrowers, according to a recent court filing. Here's what to know.",
+    "link": "https://www.cnbc.com/2025/12/26/trump-rejects-student-loan-idr-applications.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108245163-1766499125110-gettyimages-1135511501-viki_levski_emo-12.jpeg?v=1766499162&w=1920&h=1080",
+    "pubDate": "2025-12-26T19:20:38+00:00"
+  },
+  {
     "title": "Bitcoin crawls to $88K as Aave faces governance drama: Finance Redefined",
     "description": "Cryptocurrency markets experienced a modest recovery this week, but spot Bitcoin ETFs extended a five-day losing streak amid thin year-end liquidity.",
     "link": "https://cointelegraph.com/news/bitcoin-crawls-88k-aave-governance-drama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/01989bfe-a543-7f56-874c-6150cfd861d0",
     "pubDate": "2025-12-26T19:00:00+00:00"
-  },
-  {
-    "title": "Downpours Ease in Southern California, but Flood Risks Remain",
-    "description": "Another wave of rain was hitting the Los Angeles area on Friday, adding to the record-setting precipitation over Christmas.",
-    "link": "https://www.nytimes.com/2025/12/26/weather/rain-flooding-southern-california-storm.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/26/multimedia/26xp-calif-storm-cjpt/26xp-calif-storm-cjpt-facebookJumbo.jpg",
-    "pubDate": "2025-12-26T18:54:12+00:00"
   },
   {
     "title": "Marco Rubio congratulates Honduran President-elect Nasry Asfura",
@@ -49,13 +98,6 @@
     "pubDate": "2025-12-26T18:25:48+00:00"
   },
   {
-    "title": "Airlines cancel more than 1,200 flights ahead of winter storm. Here's what to know",
-    "description": "Airlines waived change fees ahead of a large winter storm and low temperatures after the busy Christmas holiday.",
-    "link": "https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108231341-1764025501328-gettyimages-2247755014-THANKSGIVING_TRAVEL.jpeg?v=1764025657&w=1920&h=1080",
-    "pubDate": "2025-12-26T18:16:39+00:00"
-  },
-  {
     "title": "Salah seals Egypt qualification with win against South Africa at AFCON 2025",
     "description": "Egypt reach the knockout stages with a 1-0 win against South Africa while Angola and Zimbabwe draw.",
     "link": "https://www.aljazeera.com/sports/2025/12/26/salah-seals-egypt-qualification-with-win-against-south-africa-at-afcon-2025?traffic_source=rss",
@@ -70,6 +112,13 @@
     "pubDate": "2025-12-26T18:02:17+00:00"
   },
   {
+    "title": "What’s next for the global economy in 2026?",
+    "description": "2025 was the year of tariffs and a global shift in economic power.",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2025/12/26/whats-next-for-the-global-economy-in-2026?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1766779348.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2025-12-26T18:00:11+00:00"
+  },
+  {
     "title": "Crypto ETFs set to explode higher in 2026, analysts say",
     "description": "Regulatory clarity in the United States and the likelihood of falling interest rates will push the crypto ETF market higher in 2026.",
     "link": "https://cointelegraph.com/news/crypto-etfs-explode-higher-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -82,13 +131,6 @@
     "link": "https://www.aljazeera.com/news/2025/12/26/zelenskyy-to-meet-trump-in-florida-amid-diplomatic-push-to-end-war?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/000_893829F-1766768058.jpg?resize=1200%2C675",
     "pubDate": "2025-12-26T17:56:56+00:00"
-  },
-  {
-    "title": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-    "description": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
-    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/26/multimedia/26int-nigeria-assess-qcph/26int-nigeria-assess-qcph-facebookJumbo.jpg",
-    "pubDate": "2025-12-26T17:56:55+00:00"
   },
   {
     "title": "US launches strikes against Islamic State in Nigeria",
@@ -185,7 +227,7 @@
     "title": "Why Sears’s Last Great Hope Was a Promise That Never Materialized",
     "description": "Only five Sears stores remain in the country, with the end likely near for what was once the mightiest American retailer.",
     "link": "https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/24/multimedia/00BIZ-SERITAGE-top-alt-lzqp/00BIZ-SERITAGE-top-alt-lzqp-facebookJumbo.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/24/multimedia/00BIZ-SERITAGE-top-alt-lzqp/00BIZ-SERITAGE-top-alt-lzqp-facebookJumbo-v2.jpg",
     "pubDate": "2025-12-26T16:25:25+00:00"
   },
   {
@@ -322,13 +364,6 @@
     "pubDate": "2025-12-26T14:14:39+00:00"
   },
   {
-    "title": "As A.I. Companies Borrow Billions, Debt Investors Grow Wary",
-    "description": "Artificial intelligence companies looking to raise funds are being made to pay lofty interest rates, as debt investors become cautious.",
-    "link": "https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/22/multimedia/00biz-AI-DEBT-coreweave-wkzm/00biz-AI-DEBT-coreweave-wkzm-facebookJumbo.jpg",
-    "pubDate": "2025-12-26T14:12:48+00:00"
-  },
-  {
     "title": "Sabalenka vs Kyrgios: Battle of the Sexes – start time, rules, how to watch",
     "description": "In a revamp of the 1973 mixed singles match, Aryna Sabalenka will play Nick Kyrgios on Sunday in Dubai.",
     "link": "https://www.aljazeera.com/sports/2025/12/26/sabalenka-vs-kyrgios-battle-of-the-sexes-start-time-rules-how-to-watch?traffic_source=rss",
@@ -385,32 +420,11 @@
     "pubDate": "2025-12-26T13:26:25+00:00"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
-    "pubDate": "2025-12-26T13:21:48+00:00"
-  },
-  {
     "title": "US bombs target ISIL in Nigeria: What’s really going on?",
     "description": "Trump says strikes are related to 'Christian genocide' but attacks on Christian farmers happened in different area.",
     "link": "https://www.aljazeera.com/news/2025/12/26/us-bombs-target-isil-in-nigeria-whats-really-going-on?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25359276918868-1766747868.jpg?resize=1920%2C1440",
     "pubDate": "2025-12-26T13:16:37+00:00"
-  },
-  {
-    "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
-    "description": "Beijing urged the US to cease 'dangerous' efforts to arm the island, which it claims as its own.",
-    "link": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2024-08-26T090721Z_183189507_RC2JN9AOCZV7_RTRMADP_3_TAIWAN-DEFENCE-1766747613.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-26T13:09:04+00:00"
-  },
-  {
-    "title": "2026 is the year Ethereum starts scaling exponentially with ZK tech",
-    "description": "The lowdown on how the switchover to ZK-proofs is expected to work this year as part of Ethereum’s plan to scale to 10,000 TPS.",
-    "link": "https://cointelegraph.com/news/2026-is-the-year-ethereum-starts-scaling-exponentially-with-zk-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b45df-1432-7818-a8c3-110d9da712c8.jpg",
-    "pubDate": "2025-12-26T13:00:00+00:00"
   },
   {
     "title": "Analyst Report: Monster Beverage Corp.",
@@ -434,11 +448,11 @@
     "pubDate": "2025-12-26T10:02:27+00:00"
   },
   {
-    "title": "Data Center Surge Reaches India as American Tech Giants Invest Billions",
-    "description": "Megacities in southern India are attracting enormous investments to help build artificial intelligence infrastructure to serve the world’s most data-hungry country.",
-    "link": "https://www.nytimes.com/2025/12/26/business/india-data-centers-google-amazon-microsoft.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/17/multimedia/Biz-India-Datacenters-01-wgzh/Biz-India-Datacenters-01-wgzh-facebookJumbo.jpg",
-    "pubDate": "2025-12-26T10:02:10+00:00"
+    "title": "How Ryan Wedding, a Canadian Olympic Snowboarder, Turned into a Drug Lord",
+    "description": "Ryan Wedding rose to fame as a Canadian Olympic athlete, but the authorities say he became one of the world’s biggest drug lords, who ordered an informant executed.",
+    "link": "https://www.nytimes.com/2025/12/26/world/canada/ryan-wedding-olympic-snowboarder-drug-lord.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/24/multimedia/00int-canada-snowboarder-drugs-lktz/00int-canada-snowboarder-drugs-lktz-facebookJumbo.jpg",
+    "pubDate": "2025-12-26T10:01:46+00:00"
   },
   {
     "title": "Trust Wallet users lose $7 million to hacked Chrome extension",
@@ -446,13 +460,6 @@
     "link": "https://www.coindesk.com/business/2025/12/26/trust-wallet-users-lose-more-than-usd7-million-to-hacked-chrome-extension",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6fe21d3c13aafbf5a49e7ff4b6c7e89bfb6bd6d5-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2025-12-26T09:53:44+00:00"
-  },
-  {
-    "title": "Monetizers vs manufacturers: How the AI market could splinter in 2026",
-    "description": "AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms.",
-    "link": "https://www.cnbc.com/2025/12/25/how-the-ai-market-could-splinter-in-2026-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107362181-1705898756653-gettyimages-949382754-AFP_1474J6.jpeg?v=1765453108&w=1920&h=1080",
-    "pubDate": "2025-12-26T07:33:42+00:00"
   },
   {
     "title": "Quiz of the Year 2025, Part 2: What did Katy Perry sing on that all-female space flight?",
@@ -483,67 +490,60 @@
     "pubDate": "2025-12-25T12:00:03+00:00"
   },
   {
-    "title": "Mercedes-Benz acquires stake in Chinese autonomous driving developer for US$191 million",
+    "title": "My dad now needs assisted living at roughly $8,000 monthly. How can I help his retirement money go further?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/mercedes-benz-acquires-stake-chinese-093000761.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/SgU8gsshmCSRI5UnxUQtDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDQ-/https://media.zenfs.com/en/south_china_morning_post_us_228/0ef7e52184e1540174bc20f2bff857ae",
-    "pubDate": "2025-12-25T09:30:00+00:00"
+    "link": "https://finance.yahoo.com/news/dad-now-needs-assisted-living-111500282.html",
+    "thumbnail": "https://media.zenfs.com/en/moneywise_327/f8edd4b9b662737026c0aba241e5758c",
+    "pubDate": "2025-12-25T11:15:00+00:00"
   },
   {
-    "title": "Golden era: prices surge as rally heads towards US$5,000 in 2026, analysts forecast",
+    "title": "Best high-yield savings interest rates today, December 25, 2025 (top account pays 4% APY)",
     "description": "",
-    "link": "https://finance.yahoo.com/news/golden-era-prices-surge-rally-093000015.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/wPm7QVaQc4bBNQwqD7lJXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/south_china_morning_post_us_228/39b52d03e2dba2e07e20ef12179b4ec9",
-    "pubDate": "2025-12-25T09:30:00+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-december-25-2025-110040667.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/j.Q7K.PM0AVOB0rxpGj2YA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0b8d03a0-4eb6-11ef-bffd-16e2b437d0c3",
+    "pubDate": "2025-12-25T11:00:40+00:00"
   },
   {
-    "title": "Billionaires Are Buying an AI Stock That Could Be the Apple of the 2030s",
+    "title": "Best money market account rates today, December 25, 2025 (earn up to 4.25% APY)",
     "description": "",
-    "link": "https://finance.yahoo.com/news/billionaires-buying-ai-stock-could-091500290.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/nP3W8o9jkkKdT3SuFozgnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzQ-/https://media.zenfs.com/en/motleyfool.com/f9cdb905f059af13555b60a1ab564f3b",
-    "pubDate": "2025-12-25T09:15:00+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-december-25-2025-110024950.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ZtU3O8e27vm2THzYgLOq4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/1aac32e0-1b28-11f0-bfbf-e6f1fb0fa991",
+    "pubDate": "2025-12-25T11:00:24+00:00"
   },
   {
-    "title": "The Rise of Trading Super Apps—How eToro and Robinhood Pioneered Multi-Asset Investment Platforms",
+    "title": "Mortgage and refinance interest rates today, December 25, 2025: Mortgage rates drifting",
     "description": "",
-    "link": "https://finance.yahoo.com/news/rise-trading-super-apps-etoro-090215763.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/FfSjj0F8EddS7AaTE_p87w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTQ-/https://media.zenfs.com/en/ccn_928/cd9be0665eaa748e188da2b282e4a422",
-    "pubDate": "2025-12-25T09:02:15+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-december-25-2025-110016997.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/RoIXxvn1UzNI5EghyfptMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/ab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
+    "pubDate": "2025-12-25T11:00:16+00:00"
   },
   {
-    "title": "Deutsche Bank’s Analysis of Q4 2025 Deliveries Drives Tesla (TSLA) Price Target Hike",
+    "title": "Best CD rates today, December 25, 2025 (lock in up to 4.2% APY)",
     "description": "",
-    "link": "https://finance.yahoo.com/news/deutsche-bank-analysis-q4-2025-081334228.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/R3DsTXHuX1Up50du0B.awA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf",
-    "pubDate": "2025-12-25T08:13:34+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-december-25-2025-lock-in-up-to-42-apy-110006045.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ZUb6Vxjvr9QTQlhugSpWpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d1-4f64-11ef-94fa-3befcbf0f2e3",
+    "pubDate": "2025-12-25T11:00:06+00:00"
   },
   {
-    "title": "Truist Raises BofA (BAC) Profit Estimates on Robust Fee Growth Outlook",
+    "title": "Goldman Sachs’s Private-Credit Company Struggles to Clean Up Soured Bets",
     "description": "",
-    "link": "https://finance.yahoo.com/news/truist-raises-bofa-bac-profit-081251278.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/P0LGkVNYS6ggzDuBst1Zhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/7065f126b064bc11ea3265b66b77adc6",
-    "pubDate": "2025-12-25T08:12:51+00:00"
+    "link": "https://www.wsj.com/finance/goldman-sachss-private-credit-company-struggles-to-clean-up-soured-bets-7631cb18?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2025-12-25T10:30:00+00:00"
   },
   {
-    "title": "BofA Trims Pfizer (PFE) PT as COVID-19 Sales Slide and Obesity Focus Shifts to Metsera",
+    "title": "Lucid Touches All-Time Lows. Is It Finally Time for Investors to Risk Buying?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/bofa-trims-pfizer-pfe-pt-081101740.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/EpAz_Vcy0hmyqhi5PSK_ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aef4b35e5ea946bf7f4ed347e5c4f487",
-    "pubDate": "2025-12-25T08:11:01+00:00"
+    "link": "https://finance.yahoo.com/news/lucid-touches-time-lows-finally-102000654.html",
+    "thumbnail": "https://media.zenfs.com/en/motleyfool.com/c187dcd16d9fc58ae4de6831444d0310",
+    "pubDate": "2025-12-25T10:20:00+00:00"
   },
   {
-    "title": "Goldman Sachs Forecasts AT&amp;T (T) Buyback Ramp-Up Fueled by 8% Free Cash Flow Growth",
+    "title": "4 surprising signs you’re no longer ‘middle class’ in America. How many apply to you?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/goldman-sachs-forecasts-t-t-081022634.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/gCRAFGafscNYYy2r0cMcwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/e127bbea2ea24c24f6e4ad4d2cb5e3ee",
-    "pubDate": "2025-12-25T08:10:22+00:00"
-  },
-  {
-    "title": "BofA Sees Advanced Packaging Potential for Intel Foundry (INTC) Despite Manufacturing Headwinds",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/bofa-sees-advanced-packaging-potential-080929412.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/15rK2_2oY7ByOkn0xwM_cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/fe3d07f390ab832594f0e07094b3f8cd",
-    "pubDate": "2025-12-25T08:09:29+00:00"
+    "link": "https://finance.yahoo.com/news/4-surprising-signs-no-longer-101500469.html",
+    "thumbnail": "https://media.zenfs.com/en/moneywise_ecomm_711/3934ff1b97852730acf95df1703f9fe8",
+    "pubDate": "2025-12-25T10:15:00+00:00"
   },
   {
     "title": "Bitcoin and ether ETFs see outflows ahead of Christmas, led by IBIT and ETHE",
@@ -593,13 +593,6 @@
     "link": "https://www.gamespot.com/articles/south-of-midnights-music-transforms-trauma-into-a-soundtrack/1100-6537016/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4625586-south-of-midnight.jpg",
     "pubDate": "2025-12-24T21:00:00+00:00"
-  },
-  {
-    "title": "These 5 infrastructure stocks have more than tripled this year on the AI trade",
-    "description": "While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.",
-    "link": "https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108186901-1755337451105-gettyimages-85973933-2c349813-473e-45fb-818c-40bf53189da8.jpeg?v=1755337672&w=1920&h=1080",
-    "pubDate": "2025-12-24T18:45:45+00:00"
   },
   {
     "title": "Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning",
