@@ -1,5 +1,61 @@
 [
   {
+    "title": "Every episode of the iconic series The X-Files is about to stream for free",
+    "description": "The X-Files, one of television's most influential sci-fi series, is coming to Pluto TV in its entirety, including the reboot.",
+    "link": "https://www.polygon.com/xfiles-streaming-free-pluto-announcement/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/the-x-files.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2025-12-29T14:00:16+00:00"
+  },
+  {
+    "title": "PlayStation 2025 year in review: PS5 printed money during a quiet year",
+    "description": "In contrast to its rivals Microsoft and Nintendo, it was a quiet year for Sony while it patiently awaits the arrival of GTA 6",
+    "link": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/ghost-of-yotei.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2025-12-29T14:00:16+00:00"
+  },
+  {
+    "title": "These three altcoins came back from the dead in 2025",
+    "description": "Altcoins lagged Bitcoin in 2025, but XRP, Zcash and Algorand outperformed on regulatory clarity, privacy demand and tokenization.",
+    "link": "https://cointelegraph.com/news/xrp-zcash-algorand-outperformed-2025-altcoin-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b30dd-a243-7654-99a0-6ef13b583e89.jpg",
+    "pubDate": "2025-12-29T14:00:00+00:00"
+  },
+  {
+    "title": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
+    "description": "The U.S. president said after a meeting at Mar-a-Lago that a deal was “maybe very close.” But a joint U.S.-Ukraine proposal appeared unfinished, as Russia rejected several ideas.",
+    "link": "https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/28/us/politics/28dc-PREXY/28TrumpZelensky-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T13:59:25+00:00"
+  },
+  {
+    "title": "The Status of the 20-Point Peace Plan for Ukraine",
+    "description": "The blueprint covers a broad range of issues, including territory, security guarantees and postwar reconstruction. But Russia has indicated little willingness to end the war.",
+    "link": "https://www.nytimes.com/2025/12/24/world/europe/what-is-in-the-20-point-ukraine-peace-plan.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/24/multimedia/24int-ukraine-explainer-bmqz/24int-ukraine-explainer-bmqz-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T13:54:13+00:00"
+  },
+  {
+    "title": "Zelenskyy asks Trump for 50 years of security guarantees, says meeting with Russia possible",
+    "description": "Ukraine's president, Volodymyr Zelenskyy, said Monday that he had asked for security guarantees for up to 50 years for Ukraine.",
+    "link": "https://www.cnbc.com/2025/12/29/zelenskyy-asks-trump-for-50-years-of-security-guarantees.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108213681-1760722454224-gettyimages-2241232545-AFP_797P62F.jpeg?v=1760722523&w=1920&h=1080",
+    "pubDate": "2025-12-29T13:53:10+00:00"
+  },
+  {
+    "title": "Softbank to buy data center firm DigitalBridge for $4 billion in AI push",
+    "description": "Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.",
+    "link": "https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246108-1767000238944-gettyimages-2247119704-AFP_84NZ8T4.jpeg?v=1767000267&w=1920&h=1080",
+    "pubDate": "2025-12-29T13:52:02+00:00"
+  },
+  {
+    "title": "For Zelensky, Just Keeping Trump Talking About Ukraine Peace Deal Counts as a Win",
+    "description": "Though discussions produced little tangible progress, President Volodymyr Zelensky of Ukraine at least avoided the type of setbacks that have blighted earlier meetings.",
+    "link": "https://www.nytimes.com/2025/12/29/world/europe/zelensky-trump-ukraine-peace-talks.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/29/world/29int-ukraine-analysis-00001/29int-ukraine-analysis-00001-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T13:45:47+00:00"
+  },
+  {
     "title": "Polkadot's DOT dips, with token underperforming wider crypto markets",
     "description": "Currently at $1.84, DOT has support at the $1.83 level and resistance at $1.88.",
     "link": "https://www.coindesk.com/markets/2025/12/29/polkadot-s-dot-dips-with-token-underperforming-wider-crypto-markets",
@@ -10,15 +66,29 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
     "pubDate": "2025-12-29T13:38:11+00:00"
   },
   {
-    "title": "Anthony Joshua injured in deadly car crash in Nigeria: Report",
-    "description": "Local newspaper reports two people died in a car crash in Ogun State involving two-time former heavyweight champion.",
+    "title": "Anthony Joshua injured in deadly car crash in Nigeria",
+    "description": "Police say two people died in a car crash in Ogun State involving the two-time former heavyweight champion.",
     "link": "https://www.aljazeera.com/sports/2025/12/29/british-boxer-anthony-joshua-injured-in-deadly-car-crash-in-nigeria?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25353018995231-1766198847_596618-1767014858.jpg?resize=1200%2C630&quality=80",
     "pubDate": "2025-12-29T13:30:58+00:00"
+  },
+  {
+    "title": "Your past-due student loans can make it harder to rent an apartment. These 5 tips can help",
+    "description": "If you've fallen behind on your student loans, it may be more challenging to get a property manager to approve you for rental housing, financial experts say.",
+    "link": "https://www.cnbc.com/2025/12/29/student-debt-rent.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241966-1765822912452-gettyimages-1398130376-_02a6366.jpeg?v=1765822948&w=1920&h=1080",
+    "pubDate": "2025-12-29T13:30:02+00:00"
+  },
+  {
+    "title": "GM's record stock performance beats Tesla, Ford and other automakers in 2025",
+    "description": "General Motors' stock is having its best year since the company's reemergence from bankruptcy in 2009.",
+    "link": "https://www.cnbc.com/2025/12/29/gm-stock-tesla-ford.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108169215-1752009312219-Screenshot_2025-07-08_at_30324_PM.png?v=1752077336&w=1920&h=1080",
+    "pubDate": "2025-12-29T13:25:28+00:00"
   },
   {
     "title": "Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million",
@@ -38,8 +108,15 @@
     "title": "Trust Wallet hack shifts to verification amid surge in false claims",
     "description": "Trust Wallet said it has identified 2,596 compromised addresses following its Christmas Day exploit as investigators work to separate real victims from false claims.",
     "link": "https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ZjctM2Q5My03ZWY3LWJkMWEtODMyNmZmZWIyNGY3LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b69f7-3d93-7ef7-bd1a-8326ffeb24f7.jpg",
     "pubDate": "2025-12-29T13:12:24+00:00"
+  },
+  {
+    "title": "Silver tops $80 for first time, then stages dramatic reversal overnight",
+    "description": "Silver slid more than 3% on Monday, after topping $80 for the first time ever in overnight trading.",
+    "link": "https://www.cnbc.com/2025/12/29/silver-tops-80-for-first-time-then-stages-dramatic-reversal-overnight.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108235971-1764775538175-gettyimages-2199670547-HUNGARY_GOLD.jpeg?v=1764775607&w=1920&h=1080",
+    "pubDate": "2025-12-29T13:07:22+00:00"
   },
   {
     "title": "Thailand-Cambodia ceasefire holds as frontline shows aftermath of fighting",
@@ -63,20 +140,6 @@
     "pubDate": "2025-12-29T12:55:54+00:00"
   },
   {
-    "title": "For Zelensky, Just Keeping Trump Talking About Ukraine Peace Deal Counts as a Win",
-    "description": "Though discussions produced little tangible progress, President Volodymyr Zelensky of Ukraine at least avoided the type of setbacks that have blighted earlier meetings.",
-    "link": "https://www.nytimes.com/2025/12/29/world/europe/zelensky-trump-ukraine-peace-talks.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/29/world/29int-ukraine-analysis-00001/29int-ukraine-analysis-00001-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T12:55:01+00:00"
-  },
-  {
-    "title": "Zelenskyy asks Trump for 50 years of security guarantees, says meeting with Russia possible",
-    "description": "Ukraine's president, Volodymyr Zelenskyy, said Monday that he had asked for security guarantees for up to 50 years for Ukraine.",
-    "link": "https://www.cnbc.com/2025/12/29/zelenskyy-asks-trump-for-50-years-of-security-guarantees.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108213681-1760722454224-gettyimages-2241232545-AFP_797P62F.jpeg?v=1760722523&w=1920&h=1080",
-    "pubDate": "2025-12-29T12:53:12+00:00"
-  },
-  {
     "title": "Hospitals warned end-of-life care crisis threatening treatment",
     "description": "A rising number of patients in hospitals could affect the level of treatment carried out this winter, a group of regional NHS leaders have been told.",
     "link": "https://www.bbc.com/news/articles/c0l93dpl6dyo?at_medium=RSS&at_campaign=rss",
@@ -94,7 +157,7 @@
     "title": "China to let banks pay interest on digital yuan wallets from January 2026",
     "description": "China’s central bank will let banks pay interest on digital yuan wallets from Jan. 1, 2026, reshaping e-CNY as deposit-like money as the US bans CBDCs.",
     "link": "https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ZWEtZGUxMS03MGU2LWI4NmEtMWE5YjQ0NGIwZGU4LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b69ea-de11-70e6-b86a-1a9b444b0de8.jpg",
     "pubDate": "2025-12-29T12:50:21+00:00"
   },
   {
@@ -150,7 +213,7 @@
     "title": "Crypto ETPs shed $446M over Christmas as year-end sentiment remains fragile",
     "description": "Weekly fund flows point to lingering caution, with investors favoring newer products and select regions over broad market exposure.",
     "link": "https://cointelegraph.com/news/crypto-etps-446m-outflows-year-end-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5MWEtNjM3Yy03NTMyLTllZjgtMzdjM2IyOTI2ZmRkLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b291a-637c-7532-9ef8-37c3b2926fdd.jpg",
     "pubDate": "2025-12-29T11:55:00+00:00"
   },
   {
@@ -178,7 +241,7 @@
     "title": "Real-world assets top DEXs to become 5th-largest category in DeFi by TVL",
     "description": "RWA protocols have overtaken decentralized exchanges by total value locked, as tokenized Treasurys, private credit and commodities become core onchain building blocks.",
     "link": "https://cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5YTgtZTcxYS03MGQ4LTgxYjAtMDBjZTE5N2U0YWYzLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b69a8-e71a-70d8-81b0-00ce197e4af3.jpg",
     "pubDate": "2025-12-29T11:22:54+00:00"
   },
   {
@@ -192,7 +255,7 @@
     "title": "Bitcoin price pauses at $90K: What will trigger new year rally?",
     "description": "Bitcoin needs a return of retail and institutional demand for BTC to clear the next big hurdle at $90,000 and spark a new rally toward six figures.",
     "link": "https://cointelegraph.com/news/btc-price-pauses-90k-what-will-trigger-new-year-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFjNjctZTg2Yy03MjM0LWFlMWEtY2FkNGJhZTllMGEzLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b1c67-e86c-7234-ae1a-cad4bae9e0a3.jpg",
     "pubDate": "2025-12-29T11:22:02+00:00"
   },
   {
@@ -215,13 +278,6 @@
     "link": "https://www.aljazeera.com/news/2025/12/29/who-really-won-iraqs-elections?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/11/2025-11-12T181530Z_454555731_RC26VHA7W277_RTRMADP_3_IRAQ-ELECTION-1762978463.jpg?resize=1920%2C1440",
     "pubDate": "2025-12-29T11:12:29+00:00"
-  },
-  {
-    "title": "DigitalBridge shares jump as much as 50% after report SoftBank is in talks to acquire data center firm",
-    "description": "The premarket move comes shortly after Bloomberg reported Japan's SoftBank was in advanced talks to acquire the data center investment firm.",
-    "link": "https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246108-1767000238944-gettyimages-2247119704-AFP_84NZ8T4.jpeg?v=1767000267&w=1920&h=1080",
-    "pubDate": "2025-12-29T11:10:44+00:00"
   },
   {
     "title": "From data center spas to servers in space: How the energy crunch is reshaping cloud computing",
@@ -276,7 +332,7 @@
     "title": "BitMine locks up $1B in Ether as big corporates stake ETH for yield",
     "description": "The largest corporate Ethereum holders continue seeking passive yield through staking, effectively reducing the sellable Ether supply on the open market.",
     "link": "https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ODMtYWE3MS03NGJmLWE1YzEtMjBjNjNmNzMyNDRmLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6983-aa71-74bf-a5c1-20c63f73244f.jpg",
     "pubDate": "2025-12-29T10:36:46+00:00"
   },
   {
@@ -297,7 +353,7 @@
     "title": "Higher activity, lower fees: Here’s what December’s onchain data shows",
     "description": "Onchain data shows activity holding up on Ethereum, Polygon, Arbitrum and Avalanche even as fee revenue declines across the crypto sector.",
     "link": "https://cointelegraph.com/news/higher-activity-lower-fees-december-onchain-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5MTUtMTY1Ny03MDk3LWE4MGUtMTg5OWEyOTM2MmEyLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6915-1657-7097-a80e-1899a29362a2.jpg",
     "pubDate": "2025-12-29T10:13:51+00:00"
   },
   {
@@ -339,22 +395,8 @@
     "title": "Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week",
     "description": "Bitcoin failed to flip $90,000 to support at the start of the last week of 2025, but Bitfinex whale long positions built on their highest levels in nearly two years.",
     "link": "https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5NjgtNmUxNi03ODdmLTgxNzAtZjgzY2ZlM2Y4NjMxLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6968-6e16-787f-8170-f83cfe3f8631.jpg",
     "pubDate": "2025-12-29T09:45:45+00:00"
-  },
-  {
-    "title": "Indian quick commerce startup Zepto files for $1.2 billion IPO amid warnings of bubble in the sector",
-    "description": "Quick commerce is a hotly contested space in India with the entry of Amazon this year and Walmart-owned Flipkart in 2024.",
-    "link": "https://www.cnbc.com/2025/12/29/zepto-confidential-ipo-filing-india-quick-commerce-instamart-swiggy-blinkit-zomato-eternal-flipkart-amazon.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107094459-1658900668099-MPV05128.JPG?v=1659074846&w=1920&h=1080",
-    "pubDate": "2025-12-29T09:31:50+00:00"
-  },
-  {
-    "title": "Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026",
-    "description": "Trend Research founder Jack Yi pledged to continue buying Ether, claiming more financial and regulatory tailwinds will drive crypto valuations in 2026.",
-    "link": "https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhY2QtZjllNi03ZmFlLTg1MzMtZTdkNGUzODU4Zjhh.jpg",
-    "pubDate": "2025-12-29T09:27:56+00:00"
   },
   {
     "title": "British-Egyptian dissident apologises for tweets as Tories push for UK deportation",
@@ -425,20 +467,6 @@
     "link": "https://www.bbc.com/news/articles/c9qedx5wj45o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d911/live/200c23e0-e4b7-11f0-b67b-690eb873de1b.jpg",
     "pubDate": "2025-12-29T04:27:06+00:00"
-  },
-  {
-    "title": "Suspect Confessed to Planting Pipe Bombs Near the Capitol Before Jan. 6",
-    "description": "A Virginia man was charged with planting the bombs outside Democratic and Republican headquarters. Court documents show he believed that the 2020 election had been “tampered with.”",
-    "link": "https://www.nytimes.com/2025/12/28/us/politics/jan-6-pipe-bomb.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/28/multimedia/28dc-pipebomber-bkqv/28dc-pipebomber-bkqv-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T01:42:06+00:00"
-  },
-  {
-    "title": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
-    "description": "The U.S. president said after a meeting at Mar-a-Lago that a deal was “maybe very close.” But a joint U.S.-Ukraine proposal appeared unfinished, as Russia rejected several ideas.",
-    "link": "https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/28/us/politics/28dc-PREXY/28TrumpZelensky-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T00:34:51+00:00"
   },
   {
     "title": "Tax breaks and year-round sun - why thousands of under-35s are moving abroad",
@@ -560,32 +588,11 @@
     "pubDate": "2025-12-28T06:18:00+00:00"
   },
   {
-    "title": "Play on or game over? A look back at 2025 for the video game industry",
-    "description": "It has been a monumental year for the video game industry, marked by new devices and billion-dollar deals.",
-    "link": "https://www.cnbc.com/2025/12/28/play-on-or-game-over-a-look-back-at-2025-for-the-video-game-industry.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108019804-1723561009303-gettyimages-1244171446-GPAYEN_22OCT2022_131A8193.jpeg?v=1766827391&w=1920&h=1080",
-    "pubDate": "2025-12-28T06:00:01+00:00"
-  },
-  {
     "title": "Games Want You To Play Forever, But Dispatch Tells You When To Stop",
     "description": "Is there a more infamous monkey-paw wish than the collective dream that all our favorite games could last forever? Well, the finger curled, because it seems like all major game publishers in the world only want to make games that go on to infinity. With the rise of live-service games, it's been a struggle to know when to put the controller down, especially when games like Fortnite release seasonal content like The Simpsons season pass that ask you to play long enough to unlock stupid sexy Flanders. Luckily, for us, episodic games, perfectly portioned into bite-sized morsels, have come back to rescue us from the endless grind. In this case, I am talking specifically about Dispatch, the new episodic superhero game from AdHoc Studio. If the name is unfamiliar to you, AdHoc is a new game company founded by former members of Ubisoft, Night School, and perhaps most notably, Telltale Games, who blew up the episodic gaming scene with 2012's The Walking Dead. The studio would later close due to a variety of factors internal and external, some of which I covered previously as a reporter. But by then, the episodic-games formula was starting to feel a bit played out, and the mood appeared to be shifting towards either more complete single-player experiences, or the early live-service games we know today. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/games-want-you-to-play-forever-but-dispatch-tells-you-when-to-stop/1100-6537045/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4625575-dispatch-4.jpg",
     "pubDate": "2025-12-27T21:00:00+00:00"
-  },
-  {
-    "title": "Umamusume: Pretty Derby made everyone a horse girl in 2025",
-    "description": "A game about racing anime horse girls took the world by storm this past year, converting a slew of people into horse appreciators.",
-    "link": "https://www.polygon.com/umamusume-pretty-derby-2025-retrospective/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/umamusume_header.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2025-12-27T19:00:17+00:00"
-  },
-  {
-    "title": "Scream 7 star Matthew Lillard is worried he's ruining the movie",
-    "description": "While his character dies in the original Scream, Matthew Lillard is returning to the franchise 20 years later. The actor is feeling \"trepidatious.\"",
-    "link": "https://www.polygon.com/matthew-lillard-ruin-scream-7-stu-macher/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/xi56blqs_o-1.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2025-12-27T18:00:18+00:00"
   },
   {
     "title": "In The Switch 2's First Year, Every Third-Party Port Tells A Story About The System",
@@ -607,13 +614,6 @@
     "link": "https://www.cnbc.com/2025/12/26/nasa-boss-isaacman-us-will-return-to-the-moon-within-trumps-term.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108221475-17622966612025-04-09t194213z_607386119_rc2huda3d8ef_rtrmadp_0_usa-nasa-isaacman.jpeg?v=1762296705&w=1920&h=1080",
     "pubDate": "2025-12-26T23:08:45+00:00"
-  },
-  {
-    "title": "Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says",
-    "description": "Groq's description of its Nvidia deal as a \"non-exclusive licensing agreement\" mimics other recent big AI transactions orchestrated by U.S. tech giants.",
-    "link": "https://www.cnbc.com/2025/12/26/nvidia-groq-deal-is-structured-to-keep-fiction-of-competition-alive.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108228463-1763575188806-gettyimages-2246892118-AFP_84JG4H7.jpeg?v=1766774718&w=1920&h=1080",
-    "pubDate": "2025-12-26T21:07:19+00:00"
   },
   {
     "title": "Roblox Blox Fruits Leveling Guide",
