@@ -1,5 +1,19 @@
 [
   {
+    "title": "Egyptian dissident apologises for tweets as Tories push for UK deportation",
+    "description": "Shabana Mahmood is facing growing calls to revoke the citizenship of British-Egyptian dual national Alaa Abdel Fattah after the emergence of social media posts.",
+    "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d890/live/306b3840-e438-11f0-ba29-7da52e5ef3db.jpg",
+    "pubDate": "2025-12-29T08:15:25+00:00"
+  },
+  {
+    "title": "Man shot dead by police after two-car crash",
+    "description": "Officers say the suspect is reported to have left the scene holding a handgun.",
+    "link": "https://www.bbc.com/news/articles/cz949nglvnlo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7fb/live/4e140830-e48e-11f0-a06d-4903df3f724c.jpg",
+    "pubDate": "2025-12-29T08:14:21+00:00"
+  },
+  {
     "title": "Syrian gov’t troops deployed to Latakia, Tartous after deadly clashes",
     "description": "The deployment comes after deadly unrest amid protests by the Alawite minority in the coastal cities.",
     "link": "https://www.aljazeera.com/news/2025/12/29/syrian-govt-troops-deployed-to-latakia-tartous-after-deadly-clashes?traffic_source=rss",
@@ -21,18 +35,32 @@
     "pubDate": "2025-12-29T07:20:53+00:00"
   },
   {
+    "title": "A Swedish city is being moved — building by building — amid Europe’s minerals push",
+    "description": "Sweden's northernmost city of Kiruna is on the move because of ground subsidence from the expansion of the world's largest underground iron ore mine.",
+    "link": "https://www.cnbc.com/2025/12/29/kiruna-swedish-city-is-moving-as-europe-ramps-up-its-minerals-push.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108230959-1763998793732-gettyimages-2230353738-20250820_dji0121.jpeg?v=1765885158&w=1920&h=1080",
+    "pubDate": "2025-12-29T07:19:18+00:00"
+  },
+  {
+    "title": "Asia-Pacific markets trade mixed in final week of 2025",
+    "description": "Asia-Pacific markets traded mixed on Monday as investors kicked off the final trading week of the year.",
+    "link": "https://www.cnbc.com/2025/12/29/asia-pacific-markets-nikkei-225-hang-seng-index-kospi.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241556-1765610729588-gettyimages-2246895310-20090101251119-99-688196.jpeg?v=1765610763&w=1920&h=1080",
+    "pubDate": "2025-12-29T07:18:50+00:00"
+  },
+  {
+    "title": "China to crack down on AI chatbots around suicide, gambling",
+    "description": "The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.",
+    "link": "https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246077-1766970862214-gettyimages-1998839799-AFP_34HJ6JF.jpeg?v=1766970902&w=1920&h=1080",
+    "pubDate": "2025-12-29T07:06:35+00:00"
+  },
+  {
     "title": "Digital Yuan holdings to earn interest under China's new framework",
     "description": "The new framework due Jan. 1 will let banks pay interest on clients' e-CNY holdings.",
     "link": "https://www.coindesk.com/coindesk-news/2025/12/29/digital-yuan-holdings-to-earn-interest-under-china-s-new-framework",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4d646af2303624521c31267cfe77bf22ef947664-1500x1002.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2025-12-29T07:02:41+00:00"
-  },
-  {
-    "title": "Man shot dead by police after two-car crash",
-    "description": "Officers say the suspect is reported to have left the scene holding a handgun.",
-    "link": "https://www.bbc.com/news/articles/cz949nglvnlo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88b/live/9d586ec0-d2d9-11f0-97b0-c7f6e44f0043.jpg",
-    "pubDate": "2025-12-29T07:01:33+00:00"
   },
   {
     "title": "XRP and Cardano need to prove they're useful beyond just fans, Mike Novogratz says",
@@ -56,13 +84,6 @@
     "pubDate": "2025-12-29T06:13:23+00:00"
   },
   {
-    "title": "A Swedish city is being moved — building by building — amid Europe’s minerals push",
-    "description": "Sweden's northernmost city of Kiruna is on the move because of ground subsidence from the expansion of the world's largest underground iron ore mine.",
-    "link": "https://www.cnbc.com/2025/12/29/kiruna-swedish-city-is-moving-as-europe-ramps-up-its-minerals-push.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108230959-1763998793732-gettyimages-2230353738-20250820_dji0121.jpeg?v=1765885158&w=1920&h=1080",
-    "pubDate": "2025-12-29T06:09:11+00:00"
-  },
-  {
     "title": "'There are many challenges': Syrians in Turkey consider return after fall of Assad",
     "description": "Syrians in Turkey are weighing up whether it is the right time to return to their homeland.",
     "link": "https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss",
@@ -80,7 +101,7 @@
     "title": "ETH validator entry queue is suddenly almost double the exit queue",
     "description": "Digital asset treasury companies such as Tom Lee’s BitMine have contributed to the increase in the entry queue, but the network’s Petcra upgrade may have also helped.",
     "link": "https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY4MjMtMDllNC03ZDQzLWI2YTAtZjBhMmIzMzQ5NzAzLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6823-09e4-7d43-b6a0-f0a2b3349703.jpg",
     "pubDate": "2025-12-29T05:58:09+00:00"
   },
   {
@@ -101,7 +122,7 @@
     "title": "Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility",
     "description": "Silver’s recent price surge mirrors Bitcoin’s trademark volatility. The precious metal is swinging wildly on rate cut bets and shifting industrial demand.",
     "link": "https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY4MTAtNGRlMC03YmRkLWIyYzYtZGZiMzRmMDg1YjgxLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6810-4de0-7bdd-b2c6-dfb34f085b81.jpg",
     "pubDate": "2025-12-29T05:45:27+00:00"
   },
   {
@@ -140,13 +161,6 @@
     "pubDate": "2025-12-29T04:47:49+00:00"
   },
   {
-    "title": "Egyptian dissident sorry for tweets as Tories push for deportation from UK",
-    "description": "Shabana Mahmood is facing growing calls to revoke the citizenship of British-Egyptian dual national Alaa Abdel Fattah after the emergence of social media posts.",
-    "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d890/live/306b3840-e438-11f0-ba29-7da52e5ef3db.jpg",
-    "pubDate": "2025-12-29T04:44:56+00:00"
-  },
-  {
     "title": "Bitcoin tops $90,000, Oil rises as Russia-Ukraine peace hopes falter",
     "description": "Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.",
     "link": "https://www.coindesk.com/markets/2025/12/29/bitcoin-tops-usd90-000-oil-rises-as-russia-ukraine-peace-hopes-falter",
@@ -164,7 +178,7 @@
     "title": "Bitcoin helps USD’s reserve status ‘in a strange way’: Coinbase CEO",
     "description": "Bitcoin is helping reinforce the US dollar’s reserve currency status by acting as a market check on excessive inflation and deficit spending, Coinbase CEO Brian Armstrong said.",
     "link": "https://cointelegraph.com/news/bitcoin-helps-us-dollar-reserve-status-coinbase-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3OGMtZTIyOS03N2ExLWEwYWEtNWFkN2NlYTE0MTQ4LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b678c-e229-77a1-a0aa-5ad7cea14148.jpg",
     "pubDate": "2025-12-29T03:48:22+00:00"
   },
   {
@@ -192,7 +206,7 @@
     "title": "Crypto heavyweights slam proposed 5% wealth tax in California",
     "description": "Crypto executives, including Bitwise CEO Hunter Horsley and Castle Island Ventures founding partner Nic Carter, have pushed back against a proposed billionaire tax in California.",
     "link": "https://cointelegraph.com/news/california-billionaire-tax-crypto-executives-slam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3NWItMDQyZS03ZDI1LWIwOWQtMWMwY2FlN2EzZjZhLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b675b-042e-7d25-b09d-1c0cae7a3f6a.jpg",
     "pubDate": "2025-12-29T02:48:55+00:00"
   },
   {
@@ -220,7 +234,7 @@
     "title": "Ubisoft halts Rainbow Six Siege after hackers give each player $13.3M credits",
     "description": "A server-wide hack flooded Rainbow Six Siege with billions in credits, forcing an emergency shutdown and a major rollback operation.",
     "link": "https://cointelegraph.com/news/ubisoft-halts-rainbow-six-seige-after-hackers-grant-every-player-2-billion-credits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3NWMtNDc2Ni03ODUxLWJlOGUtMmJkZWEwZDA4ZmM5LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b675c-4766-7851-be8e-2bdea0d08fc9.jpg",
     "pubDate": "2025-12-29T02:00:48+00:00"
   },
   {
@@ -229,13 +243,6 @@
     "link": "https://www.aljazeera.com/news/2025/12/29/russia-ukraine-war-list-of-key-events-day-1404?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251228__896W7ZQ__v1__MidRes__UkraineRussiaConflictWar-1766967059.jpg?resize=1200%2C630",
     "pubDate": "2025-12-29T01:54:16+00:00"
-  },
-  {
-    "title": "Asia-Pacific markets trade mixed in final week of 2025",
-    "description": "Asia-Pacific markets traded mixed on Monday as investors kicked off the final trading week of the year.",
-    "link": "https://www.cnbc.com/2025/12/29/asia-pacific-markets-nikkei-225-hang-seng-index-kospi.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241556-1765610729588-gettyimages-2246895310-20090101251119-99-688196.jpeg?v=1765610763&w=1920&h=1080",
-    "pubDate": "2025-12-29T01:51:59+00:00"
   },
   {
     "title": "Suspect Confessed to Planting Pipe Bombs Near the Capitol Before Jan. 6",
@@ -262,14 +269,14 @@
     "title": "Flow validators urged to halt work after blockchain rollback proposal",
     "description": "The Flow Foundation has been slammed for planning to roll back the layer 1 Flow chain to patch up a $3.9 million exploit, with one partner advising validators to stop processing transactions until further notice.",
     "link": "https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2ZjMtYjMwMy03YWJkLTliYjUtOWFlM2VmMjc0MzdlLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b66f3-b303-7abd-9bb5-9ae3ef27437e.jpg",
     "pubDate": "2025-12-29T00:33:37+00:00"
   },
   {
     "title": "Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs",
     "description": "Many crypto and Bitcoin treasury companies may go under in 2026 as the model comes under pressure, industry executives tell Cointelegraph.",
     "link": "https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4OGItZmIwMS03YmFkLThhZGMtYWJiYmJjOTliYTNlLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b488b-fb01-7bad-8adc-abbbbc99ba3e.jpg",
     "pubDate": "2025-12-29T00:16:31+00:00"
   },
   {
@@ -304,14 +311,14 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
     "pubDate": "2025-12-28T22:09:15+00:00"
   },
   {
     "title": "Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst",
     "description": "Many analysts previously forecast that Bitcoin would hit a price target between $180,000-$250,000 in 2025, but the price has fallen flat.",
     "link": "https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2ZTktOThhMC03YmNhLTgwOWItZTk3MmI3ZTgxMzZjLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b66e9-98a0-7bca-809b-e972b7e8136c.jpg",
     "pubDate": "2025-12-28T21:48:03+00:00"
   },
   {
@@ -332,7 +339,7 @@
     "title": "BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan",
     "description": "Bitcoin mining difficulty closed 2025 near record levels and is expected to climb again in January as faster block times trigger an upward adjustment.",
     "link": "https://cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2NTYtMjI5Zi03ZTdlLTg1MjItNTczMWFmMGJlNmQ2LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6656-229f-7e7e-8522-5731af0be6d6.jpg",
     "pubDate": "2025-12-28T19:29:39+00:00"
   },
   {
@@ -462,18 +469,18 @@
     "pubDate": "2025-12-28T08:29:19+00:00"
   },
   {
-    "title": "Forget Gen Z and Millennials — the over-50s ‘Silver Spenders’ are powering investment opportunities, including these stocks",
-    "description": "The over-50s 'Silver Spenders' are an increasingly influential consumer demographic.",
-    "link": "https://www.cnbc.com/2025/12/28/wealthy-silver-spenders-are-now-driving-investment-opportunities.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107184793-1674770042820-gettyimages-982148032-glx_10372xxl.jpeg?v=1765809141&w=1920&h=1080",
-    "pubDate": "2025-12-28T07:07:49+00:00"
-  },
-  {
     "title": "Arcade1Up NBA Jam Deluxe Cabinet Is Only $350 At Amazon",
     "description": "Arcade1Up NBA Jam Deluxe Cabinet $350 (was $500) See at Amazon See at Best Buy See at Kohl's See at Macy's See at Walmart Nostalgic NBA Jam fans can save big on Arcade1Up's home arcade machine featuring the classic 2v2 basketball game. Earlier this month, the NBA Jam Deluxe Arcade Cabinet was on sale for an all-time low price of $400 (was $500). The price dropped an additional $50 in the days leading up to Christmas. As of December 28, NBA Jam Deluxe is up for grabs for onl $350 at Amazon, Best Buy, Walmart, Kohl's, and Macy's. If you purchase NBA Jam Deluxe from Kohl's for $350, you'll also get $70 Kohl's Cash to use online or at your local store from December 29 to January 4. The NBA Jam Deluxe Cabinet isn't the only Arcade1Up machine on sale for a great price at Amazon and Best Buy. We've included a list of the best Arcade1Up deals at the bottom of this story. Arcade1Up NBA Jam Deluxe Cabinet $350 (was $500) The NBA Jam Deluxe Cabinet is preloaded with three classic arcade basketball games developed by Midway from 1993-1996: NBA Jam, NBA Jam Tournament Edition, and NBA Hangtime. The control deck has two sets of inputs: one arcade stick and three buttons for each player. In addition to local multiplayer, you can play against users around the world over Wi-Fi. Like other Deluxe editions from Arcade1Up, it has a 17-inch HD display, light-up marquee, dual stereo speakers, and a faux coin door on the front. The cabinet is roughly 61.5 inches tall, just under 19 inches wide, and weighs approximately 62 pounds. If you want to sit while playing, Amazon has a limited-time deal on this popular adjustable bar stool with a backrest. Arcade1Up has manufactured several NBA Jam cabinets over the past five years, but the Deluxe Edition is the only model in stores today. Outside of Arcade1Up cabinets, NBA Jam has been dormant for nearly 15 years; the last home console entry, NBA Jam: On Fire Edition, released on PS3 and Xbox 360 in 2011. Thankfully, Arcade1Up's NBA Jam cabinet offers an authentic way to revisit the best entries in the series. See at Amazon See at Best Buy See at Kohl's NBA Jam debuted exclusively in arcades in 1993 and was ported to consoles the following year. The Tournament Edition, which launched in 1994, is essentially an updated and expanded version of the original NBA Jam. As the name suggests, the main addition was Tournament mode. It's still 2v2 basketball, but Midway added a third player to each team, allowing you to make substitutions throughout each game. The Tournament Edition also expanded player stat categories. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/nba-jam-arcade1up-deluxe-home-arcade-cabinet-best-deal/1100-6537125/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4626867-nbajamdeluxethumbnail.jpg",
     "pubDate": "2025-12-28T06:18:00+00:00"
+  },
+  {
+    "title": "Lagging 401(k) Balances Give Gen Xers Retirement FOMO",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/lagging-401-k-balances-gen-050100212.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/GTTVDpnFiVUI2_U9j4zNMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_daily_upside_435/907e46607c057b1d0db700ec16d558f3",
+    "pubDate": "2025-12-28T05:01:00+00:00"
   },
   {
     "title": "Why China Is Driving Short-Term Oil Prices But OPEC Still Holds the Lever",
@@ -490,32 +497,25 @@
     "pubDate": "2025-12-27T21:48:44+00:00"
   },
   {
+    "title": "Nvidia Has Tumbled From All-Time Highs in October. Here's What's Next.",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/nvidia-tumbled-time-highs-october-212000705.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/zTIVpvEzGhHgduMynCjIwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/2fbdd7de87c73cbb2a4a78634f207d91",
+    "pubDate": "2025-12-27T21:20:00+00:00"
+  },
+  {
+    "title": "2 Dividend Stocks to Double Up On Right Now",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/2-dividend-stocks-double-now-210500649.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/TfgEAPbdEIYhxzchzgNjYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/d9a747a7f0408be1ee4e8d53dc19f361",
+    "pubDate": "2025-12-27T21:05:00+00:00"
+  },
+  {
     "title": "Games Want You To Play Forever, But Dispatch Tells You When To Stop",
     "description": "Is there a more infamous monkey-paw wish than the collective dream that all our favorite games could last forever? Well, the finger curled, because it seems like all major game publishers in the world only want to make games that go on to infinity. With the rise of live-service games, it's been a struggle to know when to put the controller down, especially when games like Fortnite release seasonal content like The Simpsons season pass that ask you to play long enough to unlock stupid sexy Flanders. Luckily, for us, episodic games, perfectly portioned into bite-sized morsels, have come back to rescue us from the endless grind. In this case, I am talking specifically about Dispatch, the new episodic superhero game from AdHoc Studio. If the name is unfamiliar to you, AdHoc is a new game company founded by former members of Ubisoft, Night School, and perhaps most notably, Telltale Games, who blew up the episodic gaming scene with 2012's The Walking Dead. The studio would later close due to a variety of factors internal and external, some of which I covered previously as a reporter. But by then, the episodic-games formula was starting to feel a bit played out, and the mood appeared to be shifting towards either more complete single-player experiences, or the early live-service games we know today. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/games-want-you-to-play-forever-but-dispatch-tells-you-when-to-stop/1100-6537045/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4625575-dispatch-4.jpg",
     "pubDate": "2025-12-27T21:00:00+00:00"
-  },
-  {
-    "title": "6 mistakes can quietly drain your retirement savings.How to enjoy smoother sailing in retirement",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/6-mistakes-quietly-drain-retirement-200000833.html",
-    "thumbnail": "https://media.zenfs.com/en/moneywise_327/dfdc8e3845ec389200e8e6cbec14ad23",
-    "pubDate": "2025-12-27T20:00:00+00:00"
-  },
-  {
-    "title": "This Investor Boosted IAMGOLD by 2.6 Million Shares Amid a 240% Rally",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/investor-boosted-iamgold-2-6-193308610.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/aaaJREHXjfS1d1Uf5RXB.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDcy/https://media.zenfs.com/en/motleyfool.com/0fa990b14f17bb2b976e65e5c2750f93",
-    "pubDate": "2025-12-27T19:33:08+00:00"
-  },
-  {
-    "title": "Alphabet Crushed Mag 7 Stocks This Year — Only To Be Crushed By These 8 Country ETFs",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/alphabet-crushed-mag-7-stocks-193104649.html",
-    "thumbnail": "https://media.zenfs.com/en/Benzinga/1339621db7195aba75d44a328f6207e1",
-    "pubDate": "2025-12-27T19:31:04+00:00"
   },
   {
     "title": "Umamusume: Pretty Derby made everyone a horse girl in 2025",
