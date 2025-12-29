@@ -1,5 +1,47 @@
 [
   {
+    "title": "DigitalBridge shares jump as much as 50% after report SoftBank is in talks to acquire data center firm",
+    "description": "The premarket move comes shortly after Bloomberg reported Japan's SoftBank was in advanced talks to acquire the data center investment firm.",
+    "link": "https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246108-1767000238944-gettyimages-2247119704-AFP_84NZ8T4.jpeg?v=1767000267&w=1920&h=1080",
+    "pubDate": "2025-12-29T11:10:44+00:00"
+  },
+  {
+    "title": "From data center spas to servers in space: How the energy crunch is reshaping cloud computing",
+    "description": "Data centre developers and designers are starting to get creative.",
+    "link": "https://www.cnbc.com/2025/12/29/future-of-the-cloud-from-spas-to-orbital-space-data-centers.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108244242-1766162077790-Data_Spa_03.png?v=1766162139&w=1920&h=1080",
+    "pubDate": "2025-12-29T11:09:21+00:00"
+  },
+  {
+    "title": "Zelenskyy asks Trump for 50 years of security guarantees, says meeting with Russia possible",
+    "description": "Ukraine's President Volodymyr Zelenskyy said Monday that he had asked for security guarantees for up to 50 years for Ukraine.",
+    "link": "https://www.cnbc.com/2025/12/29/zelenskyy-asks-trump-for-50-years-of-security-guarantees.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108213681-1760722454224-gettyimages-2241232545-AFP_797P62F.jpeg?v=1760722523&w=1920&h=1080",
+    "pubDate": "2025-12-29T11:04:49+00:00"
+  },
+  {
+    "title": "Zelensky and Netanyahu Go to Mar-a-Lago, and Student Loan Borrowers Face New Reality",
+    "description": "Plus, food trends coming in 2026.",
+    "link": "https://www.nytimes.com/2025/12/29/podcasts/the-headlines/zelensky-netanyahu-trump-student-loans.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/29/world/29headlines-app-cover-zely/29headlines-app-cover-zely-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T11:00:08+00:00"
+  },
+  {
+    "title": "Video: Trump and Zelenskyy hail ‘progress’ on Russia-Ukraine peace plan",
+    "description": "US President Trump and Ukrainian leader Zelenskyy are talking up prospects of ending the war with Russia.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/29/video-trump-and-zelenskyy-hail-progress-on-russia-ukraine-peace-plan?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1767005941.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2025-12-29T10:59:10+00:00"
+  },
+  {
+    "title": "For Zelensky, Just Keeping Trump Talking About Ukraine Peace Deal Counts as a Win",
+    "description": "Though discussions produced little tangible progress, President Volodymyr Zelensky of Ukraine at least avoided the type of setbacks that have blighted earlier meetings.",
+    "link": "https://www.nytimes.com/2025/12/29/world/europe/zelensky-trump-ukraine-peace-talks.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/29/world/29int-ukraine-analysis-00001/29int-ukraine-analysis-00001-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T10:50:36+00:00"
+  },
+  {
     "title": "Three messages reset conditions in eastern Yemen",
     "description": "Saudi Arabia made statements and took actions in less than 24 hours.",
     "link": "https://www.aljazeera.com/opinions/2025/12/29/three-messages-reset-conditions-in-eastern-yemen?traffic_source=rss",
@@ -10,8 +52,15 @@
     "title": "BitMine locks up $1B in Ether as big corporates stake ETH for yield",
     "description": "The largest corporate Ethereum holders continue seeking passive yield through staking, effectively reducing the sellable Ether supply on the open market.",
     "link": "https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6983-aa71-74bf-a5c1-20c63f73244f.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ODMtYWE3MS03NGJmLWE1YzEtMjBjNjNmNzMyNDRmLmpwZw==.jpg",
     "pubDate": "2025-12-29T10:36:46+00:00"
+  },
+  {
+    "title": "Bitcoin reverses early gains, drops below $88,000 as Nasdaq futures wilt",
+    "description": "Bitcoin reversed Asian session gains, dropping below $88,000 and affecting major altcoins.",
+    "link": "https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4b7e5599df26678d493d176865c1a7c528e63c81-1473x902.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2025-12-29T10:35:25+00:00"
   },
   {
     "title": "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
@@ -31,7 +80,7 @@
     "title": "Higher activity, lower fees: Here’s what December’s onchain data shows",
     "description": "Onchain data shows activity holding up on Ethereum, Polygon, Arbitrum and Avalanche even as fee revenue declines across the crypto sector.",
     "link": "https://cointelegraph.com/news/higher-activity-lower-fees-december-onchain-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6915-1657-7097-a80e-1899a29362a2.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5MTUtMTY1Ny03MDk3LWE4MGUtMTg5OWEyOTM2MmEyLmpwZw==.jpg",
     "pubDate": "2025-12-29T10:13:51+00:00"
   },
   {
@@ -42,11 +91,39 @@
     "pubDate": "2025-12-29T10:09:50+00:00"
   },
   {
-    "title": "DigitalBridge shares jump as much as 50% after report SoftBank is in talks to acquire firm",
-    "description": "The premarket move comes shortly after Bloomberg reported Japan's SoftBank was in advanced talks to acquire the data center investment firm.",
-    "link": "https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246108-1767000238944-gettyimages-2247119704-AFP_84NZ8T4.jpeg?v=1767000267&w=1920&h=1080",
-    "pubDate": "2025-12-29T10:04:56+00:00"
+    "title": "Bitcoin whales have been the main accumulators in the $80,000 range",
+    "description": "While large bitcoin holders accumulate, smaller investors are selling.",
+    "link": "https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3882a9e87e3b876ada01aaecfa5798804cffa9c5-1313x557.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2025-12-29T10:07:39+00:00"
+  },
+  {
+    "title": "Five Takeaways From the New York Times Profile of Marjorie Taylor Greene",
+    "description": "The congresswoman discussed her break with President Trump and her journey from MAGA zealot to political isolation.",
+    "link": "https://www.nytimes.com/2025/12/29/magazine/marjorie-taylor-greene-interview-takeaways.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/18/magazine/18mag-greene-04/18mag-greene-04-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T10:02:09+00:00"
+  },
+  {
+    "title": "Inside Marjorie Taylor Greene’s Break With Trump and MAGA",
+    "description": "How the Georgia congresswoman went from the president’s loudest cheerleader to his loudest Republican critic.",
+    "link": "https://www.nytimes.com/2025/12/29/magazine/marjorie-taylor-greene-trump-maga-split.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/18/magazine/18mag-greene/18mag-greene-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T10:02:01+00:00"
+  },
+  {
+    "title": "In Trump’s D.C. Crackdown, Murder Victims’ Families Say He’s Ignoring Them",
+    "description": "President Trump insists there are no more murders in Washington, D.C. “I wish that was true,” said Jamia Vaden, whose sister was gunned down in November.",
+    "link": "https://www.nytimes.com/2025/12/29/us/politics/families-of-murder-victims-in-washington-say-trump-is-ignoring-them.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/19/us/politics/00dc-trump-murders/00dc-trump-murders-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T10:01:11+00:00"
+  },
+  {
+    "title": "How Kevin Hassett Became a Trump Loyalist and Fed Chair Contender",
+    "description": "Mr. Hassett’s evolution from conservative economist to defender of the president’s economic agenda has raised questions about how he would lead the central bank.",
+    "link": "https://www.nytimes.com/2025/12/29/us/politics/kevin-hassett-fed-chair-independence.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/23/multimedia/DC-HASSETT-01-hlzg/DC-HASSETT-01-hlzg-facebookJumbo.jpg",
+    "pubDate": "2025-12-29T10:01:01+00:00"
   },
   {
     "title": "Uganda vs Nigeria: AFCON 2025 – team news, start times and lineups",
@@ -80,7 +157,7 @@
     "title": "Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week",
     "description": "Bitcoin failed to flip $90,000 to support at the start of the last week of 2025, but Bitfinex whale long positions built on their highest levels in nearly two years.",
     "link": "https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6968-6e16-787f-8170-f83cfe3f8631.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5NjgtNmUxNi03ODdmLTgxNzAtZjgzY2ZlM2Y4NjMxLmpwZw==.jpg",
     "pubDate": "2025-12-29T09:45:45+00:00"
   },
   {
@@ -150,7 +227,7 @@
     "title": "Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026",
     "description": "Trend Research founder Jack Yi pledged to continue buying Ether, claiming more financial and regulatory tailwinds will drive crypto valuations in 2026.",
     "link": "https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/0198aacd-f9e6-7fae-8533-e7d4e3858f8a",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhY2QtZjllNi03ZmFlLTg1MzMtZTdkNGUzODU4Zjhh.jpg",
     "pubDate": "2025-12-29T09:27:56+00:00"
   },
   {
@@ -217,25 +294,11 @@
     "pubDate": "2025-12-29T08:21:30+00:00"
   },
   {
-    "title": "How monopolies caused havoc around the world in 2025",
-    "description": "From tech companies to airlines and streaming services, monopolies are becoming more problematic around the world.",
-    "link": "https://www.aljazeera.com/economy/2025/12/29/how-monopolies-caused-havoc-around-the-world-in-2025?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-08T211242Z_137318107_RC2DCIAMTIQ5_RTRMADP_3_WARNER-BROS-DIS-M-A-NETFLIX-PARAMOUNT-1766297583.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-29T08:18:12+00:00"
-  },
-  {
     "title": "A Swedish city is being moved — building by building — amid Europe’s minerals push",
     "description": "Sweden's northernmost city of Kiruna is on the move because of ground subsidence from the expansion of the world's largest underground iron ore mine.",
     "link": "https://www.cnbc.com/2025/12/29/kiruna-swedish-city-is-moving-as-europe-ramps-up-its-minerals-push.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108230959-1763998793732-gettyimages-2230353738-20250820_dji0121.jpeg?v=1765885158&w=1920&h=1080",
     "pubDate": "2025-12-29T07:19:18+00:00"
-  },
-  {
-    "title": "China to crack down on AI chatbots around suicide, gambling",
-    "description": "The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.",
-    "link": "https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246077-1766970862214-gettyimages-1998839799-AFP_34HJ6JF.jpeg?v=1766970902&w=1920&h=1080",
-    "pubDate": "2025-12-29T07:06:35+00:00"
   },
   {
     "title": "Digital yuan holdings to earn interest under China's new framework",
@@ -252,31 +315,17 @@
     "pubDate": "2025-12-29T06:54:22+00:00"
   },
   {
-    "title": "From data center spas to servers in space: How the energy crunch is reshaping cloud computing",
-    "description": "Data centre developers and designers are starting to get creative.",
-    "link": "https://www.cnbc.com/2025/12/29/future-of-the-cloud-from-spas-to-orbital-space-data-centers.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108244242-1766162077790-Data_Spa_03.png?v=1766162139&w=1920&h=1080",
-    "pubDate": "2025-12-29T06:00:01+00:00"
-  },
-  {
     "title": "ETH validator entry queue is suddenly almost double the exit queue",
     "description": "Digital asset treasury companies such as Tom Lee’s BitMine have contributed to the increase in the entry queue, but the network’s Petcra upgrade may have also helped.",
     "link": "https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6823-09e4-7d43-b6a0-f0a2b3349703.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY4MjMtMDllNC03ZDQzLWI2YTAtZjBhMmIzMzQ5NzAzLmpwZw==.jpg",
     "pubDate": "2025-12-29T05:58:09+00:00"
-  },
-  {
-    "title": "The World Wants More Ube. Philippine Farmers Are Struggling to Keep Up.",
-    "description": "Soaring demand and extreme weather worsened by climate change have wiped out harvests of the popular purple yam.",
-    "link": "https://www.nytimes.com/2025/12/29/world/asia/philippines-ube-purple-yam.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/15/00int-philippines-ube-44356-cover/00int-philippines-ube-44356-cover-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T05:54:13+00:00"
   },
   {
     "title": "Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility",
     "description": "Silver’s recent price surge mirrors Bitcoin’s trademark volatility. The precious metal is swinging wildly on rate cut bets and shifting industrial demand.",
     "link": "https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6810-4de0-7bdd-b2c6-dfb34f085b81.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY4MTAtNGRlMC03YmRkLWIyYzYtZGZiMzRmMDg1YjgxLmpwZw==.jpg",
     "pubDate": "2025-12-29T05:45:27+00:00"
   },
   {
@@ -318,7 +367,7 @@
     "title": "Bitcoin helps USD’s reserve status ‘in a strange way’: Coinbase CEO",
     "description": "Bitcoin is helping reinforce the US dollar’s reserve currency status by acting as a market check on excessive inflation and deficit spending, Coinbase CEO Brian Armstrong said.",
     "link": "https://cointelegraph.com/news/bitcoin-helps-us-dollar-reserve-status-coinbase-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b678c-e229-77a1-a0aa-5ad7cea14148.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3OGMtZTIyOS03N2ExLWEwYWEtNWFkN2NlYTE0MTQ4LmpwZw==.jpg",
     "pubDate": "2025-12-29T03:48:22+00:00"
   },
   {
@@ -329,17 +378,10 @@
     "pubDate": "2025-12-29T03:36:55+00:00"
   },
   {
-    "title": "The Status of the 20-Point Peace Plan for Ukraine",
-    "description": "The blueprint covers a broad range of issues, including territory, security guarantees and postwar reconstruction. But Russia has indicated little willingness to end the war.",
-    "link": "https://www.nytimes.com/2025/12/24/world/europe/what-is-in-the-20-point-ukraine-peace-plan.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/24/multimedia/24int-ukraine-explainer-bmqz/24int-ukraine-explainer-bmqz-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T02:56:33+00:00"
-  },
-  {
     "title": "Crypto heavyweights slam proposed 5% wealth tax in California",
     "description": "Crypto executives, including Bitwise CEO Hunter Horsley and Castle Island Ventures founding partner Nic Carter, have pushed back against a proposed billionaire tax in California.",
     "link": "https://cointelegraph.com/news/california-billionaire-tax-crypto-executives-slam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b675b-042e-7d25-b09d-1c0cae7a3f6a.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3NWItMDQyZS03ZDI1LWIwOWQtMWMwY2FlN2EzZjZhLmpwZw==.jpg",
     "pubDate": "2025-12-29T02:48:55+00:00"
   },
   {
@@ -353,15 +395,8 @@
     "title": "Ubisoft halts Rainbow Six Siege after hackers give each player $13.3M credits",
     "description": "A server-wide hack flooded Rainbow Six Siege with billions in credits, forcing an emergency shutdown and a major rollback operation.",
     "link": "https://cointelegraph.com/news/ubisoft-halts-rainbow-six-seige-after-hackers-grant-every-player-2-billion-credits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b675c-4766-7851-be8e-2bdea0d08fc9.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3NWMtNDc2Ni03ODUxLWJlOGUtMmJkZWEwZDA4ZmM5LmpwZw==.jpg",
     "pubDate": "2025-12-29T02:00:48+00:00"
-  },
-  {
-    "title": "Suspect Confessed to Planting Pipe Bombs Near the Capitol Before Jan. 6",
-    "description": "A Virginia man was charged with planting the bombs outside Democratic and Republican headquarters. Court documents show he believed that the 2020 election had been “tampered with.”",
-    "link": "https://www.nytimes.com/2025/12/28/us/politics/jan-6-pipe-bomb.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/28/multimedia/28dc-pipebomber-bkqv/28dc-pipebomber-bkqv-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T01:42:06+00:00"
   },
   {
     "title": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
@@ -374,15 +409,8 @@
     "title": "Flow validators urged to halt work after blockchain rollback proposal",
     "description": "The Flow Foundation has been slammed for planning to roll back the layer 1 Flow chain to patch up a $3.9 million exploit, with one partner advising validators to stop processing transactions until further notice.",
     "link": "https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b66f3-b303-7abd-9bb5-9ae3ef27437e.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2ZjMtYjMwMy03YWJkLTliYjUtOWFlM2VmMjc0MzdlLmpwZw==.jpg",
     "pubDate": "2025-12-29T00:33:37+00:00"
-  },
-  {
-    "title": "Brigitte Bardot, French Movie Icon Who Renounced Stardom, Dies at 91",
-    "description": "“And God Created Woman” made her a world-famous sex symbol in the 1950s. She later gave up acting to devote her life to animal welfare.",
-    "link": "https://www.nytimes.com/2025/12/28/movies/brigitte-bardot-dead.html",
-    "thumbnail": "https://static01.nyt.com/images/2023/07/20/multimedia/00Bardot1-pftz/00Bardot1-pftz-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T00:12:40+00:00"
   },
   {
     "title": "'It's not weak to ask for help' - former Made in Chelsea star's advice for struggling new dads",
@@ -399,25 +427,11 @@
     "pubDate": "2025-12-29T00:02:52+00:00"
   },
   {
-    "title": "Trump says ‘a lot closer’ to Ukraine peace deal after Zelenskyy meeting, though thorny issues remain",
-    "description": "Ukrainian President Volodymyr Zelenskyy was scheduled to arrive at Mar-a-Lago in President Donald Trump's latest attempt to end the war with Russia.",
-    "link": "https://www.cnbc.com/2025/12/28/trump-zelenskyy-ukraine.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246069-17669628452025-12-28t225924z_1171417114_rc2xpia6c8sp_rtrmadp_0_ukraine-crisis-trump-zelenskiy.jpeg?v=1766962904&w=1920&h=1080",
-    "pubDate": "2025-12-28T23:02:25+00:00"
-  },
-  {
     "title": "Fortnite Got A Lot Messier This Year",
     "description": "Epic has spent the past few years trying as hard as it can to will the Fortnite metaverse into being--and now, at the end of 2025, it's actually starting to look like it's getting there. Things are still very messy, but Epic's moves in that direction--which frequently seem to involve trying random things just to see what happens--may have finally borne fruit. Back at the end of 2023, Fortnite attempted to usher in its metaverse in earnest by launching Fortnite Festival, Rocket Racing, and Lego Fortnite all at once. It didn't quite work, because all three were half-baked and missing key features. The only way to play Racing was in Ranked, Festival lacked instrument support and still doesn't have a practice mode, and Lego Fortnite had the feel of a generic early-access survival game wearing Lego clothing. Two years later, we've got a much prettier picture, but not because Epic went all in on those modes. Instead, Epic has simply kept churning out new modes, some of which have done consistently. Likewise, Fortnite Creative has produced its first blockbuster map with any staying power. Thanks to some key legal victories, Fortnite is once again available on mobile devices in most places, which has dramatically increased the game's potential footprint. And the new cosmetic types added in the past year have proven a lot more popular than the cars and musical instruments that were introduced in Chapter 5. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/fortnite-got-a-lot-messier-this-year/1100-6537064/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4625577-fortnite-miku.jpg",
     "pubDate": "2025-12-28T21:00:00+00:00"
-  },
-  {
-    "title": "Brigitte Bardot: A Life in Pictures",
-    "description": "The movies made the French actress a star, but photography sealed her stardom.",
-    "link": "https://www.nytimes.com/2025/12/28/movies/brigitte-bardot-photos.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/28/multimedia/28cul-bardot-photos-promo-tcph/28cul-bardot-photos-promo-tcph-facebookJumbo.jpg",
-    "pubDate": "2025-12-28T20:28:15+00:00"
   },
   {
     "title": "Avatar 4 without James Cameron? Only person could take over.",
@@ -434,18 +448,18 @@
     "pubDate": "2025-12-28T18:00:17+00:00"
   },
   {
-    "title": "Airlines cancel 1,400 more flights but disruptions from winter storm ease. Here’s what to know",
-    "description": "Airlines waived change fees ahead of a large winter storm and low temperatures after Christmas holiday.",
-    "link": "https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108245985-1766783789133-gettyimages-2252864815-NYC_SNOW.jpeg?v=1766783845&w=1920&h=1080",
-    "pubDate": "2025-12-28T17:03:54+00:00"
-  },
-  {
     "title": "Shadow of the Vampire at 25: How 2000 comedy-horror revamped the Nosferatu myth",
     "description": "E. Elias Merhige’s 2000 comedy-horror sports a unique take on F. W. Murnau’s classic",
     "link": "https://www.polygon.com/shadow-of-the-vampire-25-years-anniversary/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mv5bndqyytvmmzqtodq4nc00ngqwltk5yzatnzqyngyzmju5ntyxxkeyxkfqcgc-_v1_-2.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-28T17:00:17+00:00"
+  },
+  {
+    "title": "Zero Hour for the Middle East",
+    "description": "After more than a decade of wars, from Syria to Gaza, the Middle East is exhausted by conflict. Is it ready to find another way?",
+    "link": "https://www.nytimes.com/2025/12/28/world/middleeast/future-of-mideast.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/19/multimedia/xxint-Mideast-Future-01-qmzk/xxint-Mideast-Future-01-qmzk-facebookJumbo.jpg",
+    "pubDate": "2025-12-28T16:44:57+00:00"
   },
   {
     "title": "What free games are on Epic Games Store today (Dec. 26)?",
@@ -460,13 +474,6 @@
     "link": "https://www.polygon.com/eat-the-rich-movies-2025-anti-billionaire-messaging-sci-fi-superheroes/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mcdsupe_wb050.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-28T16:06:16+00:00"
-  },
-  {
-    "title": "What America Might Look Like With Zero Immigration",
-    "description": "The Trump administration’s efforts to reduce the foreign-born population are being felt in hospitals and soccer leagues and on Main Streets across the country, with hints of what’s to come.",
-    "link": "https://www.nytimes.com/2025/12/28/business/us-immigration-trump-1920s.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/28/multimedia/28biz-zero-immigration-lede-fpo-gkph/28biz-zero-immigration-lede-fpo-gkph-facebookJumbo.jpg",
-    "pubDate": "2025-12-28T16:05:53+00:00"
   },
   {
     "title": "The Epic Games Store Is Giving Away Free Games Every Day: Here's What You Can Get Today",
@@ -518,13 +525,6 @@
     "pubDate": "2025-12-28T13:00:01+00:00"
   },
   {
-    "title": "From Sex Appeal to the Far Right, Brigitte Bardot Symbolized a Changing France",
-    "description": "In the decades after becoming a megastar, the French actress became as known for her politics as she once had been for her acting career.",
-    "link": "https://www.nytimes.com/2025/12/28/arts/brigitte-bardot-movies-songs-animal-rights.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/10/21/arts/00cul-bardot-appreciation/00cul-bardot-appreciation-facebookJumbo.jpg",
-    "pubDate": "2025-12-28T12:09:30+00:00"
-  },
-  {
     "title": "Altcoins outpace bitcoin as precious metals' historic rally keeps macro focus sharp",
     "description": "Altcoins posted broader gains in quiet Sunday trading as bitcoin held a tight range near $88K and analysts weighed crypto against the surge in precious metals.",
     "link": "https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus",
@@ -560,6 +560,13 @@
     "pubDate": "2025-12-28T06:18:00+00:00"
   },
   {
+    "title": "Play on or game over? A look back at 2025 for the video game industry",
+    "description": "It has been a monumental year for the video game industry, marked by new devices and billion-dollar deals.",
+    "link": "https://www.cnbc.com/2025/12/28/play-on-or-game-over-a-look-back-at-2025-for-the-video-game-industry.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108019804-1723561009303-gettyimages-1244171446-GPAYEN_22OCT2022_131A8193.jpeg?v=1766827391&w=1920&h=1080",
+    "pubDate": "2025-12-28T06:00:01+00:00"
+  },
+  {
     "title": "Games Want You To Play Forever, But Dispatch Tells You When To Stop",
     "description": "Is there a more infamous monkey-paw wish than the collective dream that all our favorite games could last forever? Well, the finger curled, because it seems like all major game publishers in the world only want to make games that go on to infinity. With the rise of live-service games, it's been a struggle to know when to put the controller down, especially when games like Fortnite release seasonal content like The Simpsons season pass that ask you to play long enough to unlock stupid sexy Flanders. Luckily, for us, episodic games, perfectly portioned into bite-sized morsels, have come back to rescue us from the endless grind. In this case, I am talking specifically about Dispatch, the new episodic superhero game from AdHoc Studio. If the name is unfamiliar to you, AdHoc is a new game company founded by former members of Ubisoft, Night School, and perhaps most notably, Telltale Games, who blew up the episodic gaming scene with 2012's The Walking Dead. The studio would later close due to a variety of factors internal and external, some of which I covered previously as a reporter. But by then, the episodic-games formula was starting to feel a bit played out, and the mood appeared to be shifting towards either more complete single-player experiences, or the early live-service games we know today. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/games-want-you-to-play-forever-but-dispatch-tells-you-when-to-stop/1100-6537045/?ftag=CAD-01-10abi2f",
@@ -588,20 +595,6 @@
     "pubDate": "2025-12-27T15:41:47+00:00"
   },
   {
-    "title": "Bitcoin’s rebound fades as XRP slips to $1.86 even with ETF assets at $1.25B",
-    "description": "XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.",
-    "link": "https://www.coindesk.com/markets/2025/12/27/bitcoin-s-rebound-fades-as-xrp-slips-to-usd1-86-even-with-etf-assets-at-usd1-25b",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b1bb9e25fda428dd5319f14fc15b829b3408930c-1192x734.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-27T15:26:56+00:00"
-  },
-  {
-    "title": "State of Crypto: Year in review",
-    "description": "How did 2025 shake out for crypto?",
-    "link": "https://www.coindesk.com/policy/2025/12/27/state-of-crypto-year-in-review",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/11d38e96067e18f4d9e1e0057cdf51ebefe2cca9-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-27T15:00:00+00:00"
-  },
-  {
     "title": "In The Switch 2's First Year, Every Third-Party Port Tells A Story About The System",
     "description": "In November 2017, Bethesda Softworks and port specialists Panic Button performed what seemed like a miracle: They released a Switch port for id Software's recent reboot of Doom. The game, a famously fast-paced, intense shooter with modern graphics, seemed ill-suited to Nintendo's handheld and its capabilities, but despite some visual blurriness and a reduction in the frame rate, the game held up well on the hybrid system. In GameSpot's 8/10 review of the Switch port, Peter Brown praised the game as \"an impressive port that begs you to consider gameplay over graphics.\" Doom was the first Switch \"impossible port,\" a colloquial term that players took to using whenever a third-party game designed for much more powerful hardware arrived on the Switch in pretty good shape. Over the course of the system's lifespan, it would receive many more so-called impossible ports, including versions of Wolfenstein 2: The New Collossus, Hellblade: Senua's Sacrifice, The Witcher 3, No Man's Sky, and Ace Combat 7--large, visually-intensive, action-heavy games, all of them translated to the system with immaculate care. Seeing how the Switch handled these games was always exciting--even when the ports were less-than-ideal, there was still something special about seeing them run on a handheld from 2017. Prior to the Switch 2's launch this year, Nintendo, in typical fashion, did not tell us much about what the Switch 2 was capable of on a technical level. We knew that the new 7.9-inch 1080p screen was capable of displaying gameplay at up to 120fps and was HDR-compliant. Nvidia announced that the system's custom chip would allow for DLSS, which is capable of upscaling games regardless of native resolution, and that the new system would be, of course, much more powerful than the old one. For early adopters, though, the system's first six-plus months of availability has involved a lot of curiosity over what the system can and can't do, speculating on what games the system could or couldn't handle, and pondering just how close these ports can come to other console versions. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/in-the-switch-2s-first-year-every-third-party-port-tells-a-story-about-the-system/1100-6536987/?ftag=CAD-01-10abi2f",
@@ -614,6 +607,13 @@
     "link": "https://www.bonappetit.com/story/purple-carrot-review",
     "thumbnail": "https://assets.bonappetit.com/photos/694ec41aa1777868cb94b063/master/pass/12.17_BA_Purple%20Carrot%20review_v2.jpg",
     "pubDate": "2025-12-27T11:00:00+00:00"
+  },
+  {
+    "title": "New NASA boss Isaacman says U.S. will return to the moon within Trump's term",
+    "description": "New NASA administrator Jared Isaacman said that the U.S.'s return to the moon is key to unlocking the \"orbital economy.\"",
+    "link": "https://www.cnbc.com/2025/12/26/nasa-boss-isaacman-us-will-return-to-the-moon-within-trumps-term.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108221475-17622966612025-04-09t194213z_607386119_rc2huda3d8ef_rtrmadp_0_usa-nasa-isaacman.jpeg?v=1762296705&w=1920&h=1080",
+    "pubDate": "2025-12-26T23:08:45+00:00"
   },
   {
     "title": "Roblox Blox Fruits Leveling Guide",
