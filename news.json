@@ -1,10 +1,59 @@
 [
   {
+    "title": "Novo Nordisk's 'long game' on weight loss drugs sparks hope in science, but the Street is impatient",
+    "description": "The medicine developed by the100-year old Danish drugmaker may impact patients' brains in surprising ways",
+    "link": "https://www.cnbc.com/2025/12/30/novo-nordisk-beyond-weight-loss-has-investors-wary-scientists-hopeful.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241956-1765822302147-gettyimages-2177724898-20241010-christo-ozempic-3612.jpeg?v=1765822418&w=1920&h=1080",
+    "pubDate": "2025-12-30T06:12:25+00:00"
+  },
+  {
+    "title": "With Live Artillery and New Warships, China Practices Blockading Taiwan",
+    "description": "China flew bombers and fired long-range artillery during a second day of exercises designed to show its ability to claim the island-democracy by force.",
+    "link": "https://www.nytimes.com/2025/12/30/world/asia/china-taiwan-military-drills.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/30/multimedia/30int-china-taiwan-military-01-pgkz/30int-china-taiwan-military-01-pgkz-facebookJumbo.jpg",
+    "pubDate": "2025-12-30T06:10:48+00:00"
+  },
+  {
+    "title": "Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality",
+    "description": "China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.",
+    "link": "https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241113-1765539884437-gettyimages-2250716809-vcg111608459171.jpeg?v=1765539957&w=1920&h=1080",
+    "pubDate": "2025-12-30T06:10:04+00:00"
+  },
+  {
+    "title": "World reacts to death of Khaleda Zia, Bangladesh’s first female leader",
+    "description": "Tributes pour in from around the world as Bangladesh mourns Khaleda Zia.",
+    "link": "https://www.aljazeera.com/news/2025/12/30/world-reacts-to-death-of-khaleda-zia-bangladeshs-first-female-leader?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-30T022754Z_583535441_RC2QQIAEVYI2_RTRMADP_3_PEOPLE-KHALEDA-ZIA-1767071657.jpg?resize=1920%2C1440",
+    "pubDate": "2025-12-30T05:55:33+00:00"
+  },
+  {
+    "title": "Rep Waters demands SEC oversight hearing about its approach to crypto",
+    "description": "Democrat Maxine Waters demands an SEC oversight hearing after the agency dropped major cases against Coinbase, Binance, and other crypto firms.",
+    "link": "https://cointelegraph.com/news/rep-waters-demands-sec-oversight-hearing-crypto-approach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6d5f-5ddd-7987-9ac8-82af570bc022.jpg",
+    "pubDate": "2025-12-30T05:48:14+00:00"
+  },
+  {
+    "title": "Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate",
+    "description": "Bitcoin selling pressure from long time hodlers is finally abating and Ether whales are adding to their holdings. Markets remain bearish however.",
+    "link": "https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6d54-0ed0-7d64-9367-277fc2288fa6.jpg",
+    "pubDate": "2025-12-30T05:46:36+00:00"
+  },
+  {
     "title": "Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves",
     "description": "Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.",
     "link": "https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108157804-17496496732025-06-11t130016z_1483506810_rc2d0famdgwy_rtrmadp_0_france-tech.jpeg?v=1758209256&w=1920&h=1080",
     "pubDate": "2025-12-30T05:05:44+00:00"
+  },
+  {
+    "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
+    "description": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm, after talks with Netanyahu.",
+    "link": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cdc/live/0a1a31b0-e518-11f0-a8dc-93c15fe68710.jpg",
+    "pubDate": "2025-12-30T05:04:40+00:00"
   },
   {
     "title": "Justice Department Sues Virginia Over Tuition Aid for Unauthorized Immigrants",
@@ -45,7 +94,7 @@
     "title": "Iranian protests over currency collapse show why Bitcoin's needed: Bitwise CEO",
     "description": "Widespread protests took place in Iran’s capital after the rial slid to record lows, prompting Bitwise CEO Hunter Horsley to argue Bitcoin could help Iranians protect their savings.",
     "link": "https://cointelegraph.com/news/iranians-protest-against-currency-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZkNjgtZTY1Zi03MTcyLTk2NGMtOGI0MzM2YTU1NTE5LkpQRw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6d68-e65f-7172-964c-8b4336a55519.JPG",
     "pubDate": "2025-12-30T04:13:21+00:00"
   },
   {
@@ -63,7 +112,7 @@
     "pubDate": "2025-12-30T04:10:07+00:00"
   },
   {
-    "title": "Anthony Joshua injured in Nigeria car crash that killed two team members",
+    "title": "Anthony Joshua in stable condition after Nigeria car crash that killed two friends",
     "description": "The British heavyweight boxer suffered minor injuries in the crash, which killed two team members and close friends.",
     "link": "https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6249/live/898b01a0-e4fe-11f0-aae2-2191c0e48a3b.jpg",
@@ -77,17 +126,24 @@
     "pubDate": "2025-12-30T04:08:12+00:00"
   },
   {
-    "title": "China kicks off second day of military drills around Taiwan",
+    "title": "China fires several rockets around Taiwan during live military drills",
     "description": "Day two of the 'Justice Mission 2025' drills will include 10 hours of live-fire exercises and a simulated blockade.",
     "link": "https://www.aljazeera.com/news/2025/12/30/china-kicks-off-second-day-of-military-drills-around-taiwan?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-29T112405Z_1950786195_RC2BQIAPM6BW_RTRMADP_3_CHINA-TAIWAN-DRILLS-1767054547.jpg?resize=1920%2C1075&quality=80",
     "pubDate": "2025-12-30T03:56:28+00:00"
   },
   {
+    "title": "Trump and Netanyahu Praise Each Other After Meeting, Despite Differences Over Gaza",
+    "description": "The American and Israeli leaders showed few signs of disagreement after meeting in Florida, giving no public indication of their growing strains over Gaza, Syria and other issues.",
+    "link": "https://www.nytimes.com/2025/12/29/us/politics/trump-netanyahu-israel-meeting.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/29/multimedia/29dc-prexy1-fmjw/29dc-prexy1-fmjw-facebookJumbo.jpg",
+    "pubDate": "2025-12-30T03:54:21+00:00"
+  },
+  {
     "title": "Is Bitcoin’s 4-year cycle broken — and if so, where to next?",
     "description": "Analysts are split on whether Bitcoin’s typical four-year cycle has ended in 2025, with institutional ETFs and regulatory shifts cited as key factors.",
     "link": "https://cointelegraph.com/news/bitcoin-4-year-cycle-broken-or-is-it-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRlNmItZDY3NC03YTZmLThiZDQtY2UxMjE1NGRhZjRiLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b4e6b-d674-7a6f-8bd4-ce12154daf4b.jpg",
     "pubDate": "2025-12-30T03:54:19+00:00"
   },
   {
@@ -122,11 +178,11 @@
     "title": "Australia’s search ID goes into force, Ireland lobbies to ban anonymity",
     "description": "America has recently taken steps to dissuade foreign governments from censoring US-based platforms, including the proposed GRANITE Act and sanctions against five EU officials.",
     "link": "https://cointelegraph.com/news/australia-s-search-id-goes-into-force-ireland-lobbies-to-ban-anonymity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZjODEtODk4Ni03ZDRkLTgxYjQtYjg1ZTdiNDY5Njg3LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6c81-8986-7d4d-81b4-b85e7b469687.jpg",
     "pubDate": "2025-12-30T02:57:38+00:00"
   },
   {
-    "title": "Trump claims attack on a dock in Venezuela; US strikes kill two in Pacific",
+    "title": "US claims attack on dock in Venezuela, as missiles also kill two in Pacific",
     "description": "US hit a dock in Venezuela where boats are loaded with drugs, Trump says, as Pentagon carries out another deadly strike.",
     "link": "https://www.aljazeera.com/news/2025/12/30/trump-claims-attack-on-a-dock-in-venezuela-us-strikes-kill-two-in-pacific?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20250913__74DX79U__v1__HighRes__UsPoliticsDefensePuertoRicoVenezuela-1765860204.jpg?resize=1920%2C1440",
@@ -154,10 +210,10 @@
     "pubDate": "2025-12-30T02:21:38+00:00"
   },
   {
-    "title": "Fake Coinbase support scammer allegedly stole $2M from users",
+    "title": "ZachXBT links fake Coinbase support scam to $2M in losses",
     "description": "An Investigation from ZachXBT traced the suspect through posts gloating on social media and Telegram activity.",
     "link": "https://cointelegraph.com/news/fake-coinbase-help-desk-scammer-allegedly-stole-2m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZjNjktM2EzMS03Y2FiLTg5ZWUtMWI4ODA3NGI0ZTAwLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6c69-3a31-7cab-89ee-1b88074b4e00.jpg",
     "pubDate": "2025-12-30T01:46:31+00:00"
   },
   {
@@ -166,13 +222,6 @@
     "link": "https://www.aljazeera.com/news/2025/12/30/bangladeshs-former-prime-minister-khaleda-zia-dies?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-30T022213Z_1587758795_RC2QQIA7JHHA_RTRMADP_3_PEOPLE-KHALEDA-ZIA-1767061675.jpg?resize=1920%2C1440",
     "pubDate": "2025-12-30T01:44:20+00:00"
-  },
-  {
-    "title": "Ukraine denies drone attack on Putin's residence",
-    "description": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\".",
-    "link": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/8e2f52a0-e4cd-11f0-a8dc-93c15fe68710.jpg",
-    "pubDate": "2025-12-30T01:21:23+00:00"
   },
   {
     "title": "Great white sharks face extinction in Mediterranean, say researchers",
@@ -192,7 +241,7 @@
     "title": "Tech giant to launch crypto wallet, fintech L1s will bomb: Dragonfly exec.",
     "description": "Dragonfly’s Haseeb Qureshi predicts Big Tech and Fortune 100 companies will start building in crypto in 2026, but that corporate L1s will fail to challenge Ethereum and Solana.",
     "link": "https://cointelegraph.com/news/tech-giants-google-apple-meta-launch-crypto-wallet-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MDctOGIxNy03NTZhLWIyN2QtMTczN2QyY2Q4YzUx.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019af807-8b17-756a-b27d-1737d2cd8c51",
     "pubDate": "2025-12-30T00:59:43+00:00"
   },
   {
@@ -259,13 +308,6 @@
     "pubDate": "2025-12-29T22:38:26+00:00"
   },
   {
-    "title": "Kyiv rejects Russia’s claim of Ukrainian attack on Putin residence",
-    "description": "The Ukrainian president rejects Moscow’s claim that Ukrainian forces launched a drone attack on Novgorod.",
-    "link": "https://www.aljazeera.com/news/2025/12/29/kyiv-rejects-russias-claim-of-ukrainian-strike-on-putins-residence?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/ap_69503cedcb929-1766866157.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-29T22:36:00+00:00"
-  },
-  {
     "title": "Ice skating duo Torvill and Dean to receive damehood and knighthood",
     "description": "Ice skaters Jayne Torvill and Christopher Dean become a dame and knight in the New Year Honours list, while England women's manager Sarina Wiegman is made an honorary dame.",
     "link": "https://www.bbc.com/sport/articles/cy0p75qn0qqo?at_medium=RSS&at_campaign=rss",
@@ -290,7 +332,7 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
     "pubDate": "2025-12-29T21:45:13+00:00"
   },
   {
@@ -304,7 +346,7 @@
     "title": "Onchain perpetual futures drive surge in crypto derivatives activity",
     "description": "According to Coinbase researcher David Duong, decentralized platforms and shifting trader behavior have pushed perpetual futures into a more central market role.",
     "link": "https://cointelegraph.com/news/onchain-perpetual-futures-crypto-derivatives-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjMWItYjc2Yi03M2VjLTkxMzgtYzE3Yzg1M2FhZjUyLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b2c1b-b76b-73ec-9138-c17c853aaf52.jpg",
     "pubDate": "2025-12-29T21:36:29+00:00"
   },
   {
@@ -325,7 +367,7 @@
     "title": "Flow scraps rollback plan after pushback over decentralization, security",
     "description": "Recovery of assets from a $3.9 million exploit of the Flow blockchain isn't guaranteed, but many users responded positively to a change in the remediation plan.",
     "link": "https://cointelegraph.com/news/flow-scraps-rollback-proposal-pushback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZiOTgtZjJmNC03ZWYyLWE0MjAtMDA0YTM5MTg0Yzc3LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6b98-f2f4-7ef2-a420-004a39184c77.jpg",
     "pubDate": "2025-12-29T21:05:06+00:00"
   },
   {
@@ -336,20 +378,6 @@
     "pubDate": "2025-12-29T21:00:00+00:00"
   },
   {
-    "title": "Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B",
-    "description": "Tokenized stocks have surged to a $1.2 billion market, with insiders comparing their growth to stablecoins and DeFi’s early boom in 2020.",
-    "link": "https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZiN2QtZTAzNC03MjYyLWExMzAtNDIyNjk3NzAzM2M3LmpwZw==.jpg",
-    "pubDate": "2025-12-29T20:55:41+00:00"
-  },
-  {
-    "title": "Trump, Pressing Ahead on Ukraine-Russia Talks, Confronts Difficult Realities",
-    "description": "The U.S.-led negotiations have made some progress, but still face fundamental challenges, including over security guarantees to counter future Russian aggression.",
-    "link": "https://www.nytimes.com/2025/12/29/us/politics/trump-zelensky-putin-ukraine-russia.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/29/multimedia/29dc-assess-kpwz/29dc-assess-kpwz-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T20:46:37+00:00"
-  },
-  {
     "title": "U.S. Pledges $2 Billion for U.N. Aid but Trump Administration Tells Agencies to ‘Adapt, Shrink, or Die’",
     "description": "The announcement will likely keep the United States as the biggest international aid donor next year, even as the Trump administration slashes funding for foreign assistance programs.",
     "link": "https://www.nytimes.com/2025/12/29/world/europe/us-un-aid-funding-foreign-assistance.html",
@@ -357,25 +385,11 @@
     "pubDate": "2025-12-29T20:17:31+00:00"
   },
   {
-    "title": "South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report",
-    "description": "A key lawmaker overseeing financial institutions reportedly tried to secure a job for one of his sons at a crypto exchange while raising concerns about a competitor.",
-    "link": "https://cointelegraph.com/news/south-korea-scandal-politics-bithumb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZhYzUtYmI3Ny03ZTM1LWJjYzItOGI3NjQyMTQ5MzBiLmpwZw==.jpg",
-    "pubDate": "2025-12-29T19:32:56+00:00"
-  },
-  {
     "title": "RPG fans melt down over \"Clair Obscur: Expedition 33-like\" claim",
     "description": "Legend of Sword and Fairy 4 is a remake of the 2007 Chinese RPG, and fans think the new version takes cues from Expedition 33",
     "link": "https://www.polygon.com/clair-obscur-expedition-33-like-legend-sword-and-fairy-4-remake/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/swordfairy4.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-29T19:29:39+00:00"
-  },
-  {
-    "title": "American parents said social media and screen time were among the top health concerns for their kids in 2025",
-    "description": "To lower kids' screen time, experts recommend keeping screens out of bedrooms and having a special place for devices in the house.",
-    "link": "https://www.cnbc.com/2025/12/29/most-parents-think-their-kids-mental-health-is-getting-worse.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108245976-1766782285932-gettyimages-2162670754-lgbt_getty_62.jpeg?v=1766782357&w=1920&h=1080",
-    "pubDate": "2025-12-29T19:25:33+00:00"
   },
   {
     "title": "Flow scraps blockchain 'rollback' plan after community backlash over decentralization",
@@ -462,25 +476,11 @@
     "pubDate": "2025-12-29T16:01:00+00:00"
   },
   {
-    "title": "Four Takeaways From the New York Times Profile of Marjorie Taylor Greene",
-    "description": "The congresswoman discussed her break with President Trump and her journey from MAGA zealot to political isolation.",
-    "link": "https://www.nytimes.com/2025/12/29/magazine/marjorie-taylor-greene-interview-takeaways.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/18/magazine/18mag-greene-04/18mag-greene-04-facebookJumbo.jpg",
-    "pubDate": "2025-12-29T15:48:35+00:00"
-  },
-  {
     "title": "Crypto winter looms in 2026, but Cantor sees institutional growth and onchain shifts",
     "description": "Cantor Fitzgerald sees early signs of a new crypto winter, but one that’s less chaotic, more institutional, and increasingly defined by DeFi, tokenization and regulatory clarity.",
     "link": "https://www.coindesk.com/markets/2025/12/29/crypto-winter-looms-in-2026-but-cantor-sees-institutional-growth-and-onchain-shifts",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d921639b83fdaf4132a935b3d802725805b272bd-3000x2000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2025-12-29T15:38:24+00:00"
-  },
-  {
-    "title": "Zelenskyy asks Trump for 50 years of security guarantees, says meeting with Russia possible",
-    "description": "Ukraine's president, Volodymyr Zelenskyy, said Monday that he had asked for security guarantees for up to 50 years for Ukraine.",
-    "link": "https://www.cnbc.com/2025/12/29/zelenskyy-asks-trump-for-50-years-of-security-guarantees.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246230-1767019051686-gettyimages-2253102084-AA_29122025_2579434.jpeg?v=1767019252&w=1920&h=1080",
-    "pubDate": "2025-12-29T15:12:18+00:00"
   },
   {
     "title": "Bitmine's ether stash tops 4.1 million tokens as crypto and cash holdings reach $13.2 billion",
@@ -525,6 +525,20 @@
     "pubDate": "2025-12-29T10:02:01+00:00"
   },
   {
+    "title": "Woodside Secures First Long-Term LNG Supply Deal With Turkey’s BOTAS",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/woodside-secures-first-long-term-004719326.html",
+    "thumbnail": "https://media.zenfs.com/en/oilprice.com/7687b07727342676b52aea6aa6ed4f7d",
+    "pubDate": "2025-12-29T00:47:19+00:00"
+  },
+  {
+    "title": "New Zealand Faces Growing Gas Supply Risk",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/zealand-faces-growing-gas-supply-000000338.html",
+    "thumbnail": "https://media.zenfs.com/en/oilprice.com/d3199c9e51b8b6142611328eb111a12a",
+    "pubDate": "2025-12-29T00:00:00+00:00"
+  },
+  {
     "title": "Fortnite Got A Lot Messier This Year",
     "description": "Epic has spent the past few years trying as hard as it can to will the Fortnite metaverse into being--and now, at the end of 2025, it's actually starting to look like it's getting there. Things are still very messy, but Epic's moves in that direction--which frequently seem to involve trying random things just to see what happens--may have finally borne fruit. Back at the end of 2023, Fortnite attempted to usher in its metaverse in earnest by launching Fortnite Festival, Rocket Racing, and Lego Fortnite all at once. It didn't quite work, because all three were half-baked and missing key features. The only way to play Racing was in Ranked, Festival lacked instrument support and still doesn't have a practice mode, and Lego Fortnite had the feel of a generic early-access survival game wearing Lego clothing. Two years later, we've got a much prettier picture, but not because Epic went all in on those modes. Instead, Epic has simply kept churning out new modes, some of which have done consistently. Likewise, Fortnite Creative has produced its first blockbuster map with any staying power. Thanks to some key legal victories, Fortnite is once again available on mobile devices in most places, which has dramatically increased the game's potential footprint. And the new cosmetic types added in the past year have proven a lot more popular than the cars and musical instruments that were introduced in Chapter 5. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/fortnite-got-a-lot-messier-this-year/1100-6537064/?ftag=CAD-01-10abi2f",
@@ -532,67 +546,32 @@
     "pubDate": "2025-12-28T21:00:00+00:00"
   },
   {
-    "title": "Is PayPal Holdings, Inc. (PYPL) One of the Best Beaten-Down Stocks to Invest in According to Analysts?",
+    "title": "These warning signs say it’s time to retire, and the risks of the 'one-more-year' trap may surprise you",
     "description": "",
-    "link": "https://finance.yahoo.com/news/paypal-holdings-inc-pypl-one-172819273.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/a482edfcedba899bde96be1595a32bcf",
-    "pubDate": "2025-12-28T17:28:19+00:00"
+    "link": "https://finance.yahoo.com/news/warning-signs-time-retire-risks-191500417.html",
+    "thumbnail": "https://media.zenfs.com/en/moneywise_327/c586ecd94d2be7764ada97bfa3226fe0",
+    "pubDate": "2025-12-28T19:15:00+00:00"
   },
   {
-    "title": "Vertex Inc. (VERX) Unveils AI-Powered Tax Compliance Solution",
+    "title": "Why One Investor Took $20 Million in Sensient Stock Off the Table Amid a 32% Rally",
     "description": "",
-    "link": "https://finance.yahoo.com/news/vertex-inc-verx-unveils-ai-172814614.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/ebfc00a4e36a86ae93bae37394969574",
-    "pubDate": "2025-12-28T17:28:14+00:00"
+    "link": "https://finance.yahoo.com/news/why-one-investor-took-20-190149156.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ApxtKH_0tOj54EnTYTpfEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDcy/https://media.zenfs.com/en/motleyfool.com/c9531603494b566ba9899131a58e57ef",
+    "pubDate": "2025-12-28T19:01:49+00:00"
   },
   {
-    "title": "SentinelOne Inc. (S) Expands with Arete Partnership as Analysts Hold $23 Target",
+    "title": "Should You Buy Ford While It's Under $15?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/sentinelone-inc-expands-arete-partnership-172812204.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/ea35b0e6ecbd2fd7acf5d2a3e06b5ef6",
-    "pubDate": "2025-12-28T17:28:12+00:00"
+    "link": "https://finance.yahoo.com/news/buy-ford-while-under-15-190000559.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/JElY3Z7nNjenSkyY2Lk7RQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzk-/https://media.zenfs.com/en/motleyfool.com/ba763cfea85a1670ee4c51dbf2b03923",
+    "pubDate": "2025-12-28T19:00:00+00:00"
   },
   {
-    "title": "Mobileye Global Inc. (MBLY) Restructuring Drive Targets 5% Global Workforce",
+    "title": "Prof G shares reliable path to getting rich in America, says his dad earns $52K/year and is already there",
     "description": "",
-    "link": "https://finance.yahoo.com/news/mobileye-global-inc-mbly-restructuring-172807970.html",
-    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/b03403a4022eb629425a6d6986cd2b94",
-    "pubDate": "2025-12-28T17:28:07+00:00"
-  },
-  {
-    "title": "S&amp;P Global Ratings Touts Strategy Inc. (MSTR) Stable Outlook Asserts B-Issuer Credit Rating",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/p-global-ratings-touts-strategy-172806824.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/0xR8LliuN_rKjsW1UnPSCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/ea88fd39b1f683fe24df0c56e2b5ce95",
-    "pubDate": "2025-12-28T17:28:06+00:00"
-  },
-  {
-    "title": "Morningstar Inc. (MORN) Expands Private Market Insights Through PitchBook, Analyst Highlights AI Positioning",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/morningstar-inc-morn-expands-private-172804008.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ZCvTUjX_h7aq8U.aoehoIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/b682effc3adb08bae339f99ce68be88b",
-    "pubDate": "2025-12-28T17:28:04+00:00"
-  },
-  {
-    "title": "Monday.com Ltd. (MNDY) Gains Analyst Confidence with Strong ARR, Market Expansion, and AI Positioning",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/monday-com-ltd-mndy-gains-172803463.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/VillnAdPF851ZQ9cBg0RZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/2a9b6dbb719b10b0b945dbf930d80d29",
-    "pubDate": "2025-12-28T17:28:03+00:00"
-  },
-  {
-    "title": "Why Gator Capital Put $5.6 Million to Work in a Regional Bank Stock Down 7% This Past Year",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/why-gator-capital-put-5-171337595.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/V6AdfjZboZPBcVnCdH8MfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDcy/https://media.zenfs.com/en/motleyfool.com/7ec075fe9536bea318d2f65004dd291d",
-    "pubDate": "2025-12-28T17:13:37+00:00"
-  },
-  {
-    "title": "Louis Gerstner, CEO credited with turning around IBM, dies at 83",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/louis-gerstner-ceo-credited-turning-152844432.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/hf9ipHqgSLmM8bWP05Ne.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDUz/https://s.yimg.com/os/creatr-uploaded-images/2025-12/1c3e25d0-e410-11f0-bf7b-e791eae10720",
-    "pubDate": "2025-12-28T15:28:44+00:00"
+    "link": "https://finance.yahoo.com/news/prof-g-shares-reliable-path-184500351.html",
+    "thumbnail": "https://media.zenfs.com/en/moneywise_327/e01d9906dc409ff5cf06229384e11410",
+    "pubDate": "2025-12-28T18:45:00+00:00"
   },
   {
     "title": "DK Bananza's Chaotic Design Sets It Apart From Mario",
@@ -600,6 +579,34 @@
     "link": "https://www.gamespot.com/articles/dk-bananzas-chaotic-design-sets-it-apart-from-mario/1100-6537060/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4625587-dk-1.jpg",
     "pubDate": "2025-12-28T14:00:00+00:00"
+  },
+  {
+    "title": "HELOC rates today, December 28, 2025: The equity-tapping advantage of 2026",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-december-28-2025-110055839.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
+    "pubDate": "2025-12-28T11:00:55+00:00"
+  },
+  {
+    "title": "Mortgage and refinance interest rates today, December 28, 2025: Threatening to slip below 6%",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-december-28-2025-110052512.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/I199q7waIrtuQGBJaPIm2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3",
+    "pubDate": "2025-12-28T11:00:52+00:00"
+  },
+  {
+    "title": "Best CD rates today, December 28, 2025 (lock in up to 4.1% APY)",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-december-28-2025-110036703.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
+    "pubDate": "2025-12-28T11:00:36+00:00"
+  },
+  {
+    "title": "Best high-yield savings interest rates today, December 28, 2025 (Earn up to 4% APY)",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-december-28-2025-110016943.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/j3pIPh4Ou1ooyGj5oigsTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3",
+    "pubDate": "2025-12-28T11:00:16+00:00"
   },
   {
     "title": "SteelSeries Arctis Nova 7 Gen 2 Gaming Headset On Sale For Best Price Yet",
@@ -649,13 +656,6 @@
     "link": "https://www.bonappetit.com/story/what-editors-loved-december-2025",
     "thumbnail": "https://assets.bonappetit.com/photos/6945cd6112959b05978a9233/master/pass/12.18_BA_Editors%20Picks%20December.jpg",
     "pubDate": "2025-12-24T13:30:00+00:00"
-  },
-  {
-    "title": "Treasury official: The Fed can cut rates next year, even in the face of strong growth",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/treasury-official-the-fed-can-cut-rates-next-year-even-in-the-face-of-strong-growth-120041507.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/kjSa26CZDGeByvTO7Hzoww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/174ec7f0-bc06-11f0-bbf5-e1e43a8cabce",
-    "pubDate": "2025-12-24T12:00:41+00:00"
   },
   {
     "title": "Set Your Holiday Table—and Stock Your Bar—Like a Top NYC Designer",
