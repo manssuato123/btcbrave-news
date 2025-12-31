@@ -1,5 +1,47 @@
 [
   {
+    "title": "'Big Short' investor Michael Burry says he's not shorting Tesla",
+    "description": "In a social media post on X, the Scion Asset Management founder responded to a user asking if he would bet against Tesla by saying: \"I am not short.\"",
+    "link": "https://www.cnbc.com/2025/12/31/big-short-investor-michael-burry-denies-shorting-tesla-stock.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1767176101&w=1920&h=1080",
+    "pubDate": "2025-12-31T17:40:18+00:00"
+  },
+  {
+    "title": "PlayStation Plus January 2026 games revealed, including Epic Mickey",
+    "description": "PS Plus Essential's free games for Jan. 2026 include Need for Speed Unbound and the Disney Epic Mickey remake.",
+    "link": "https://www.polygon.com/playstation-plus-january-2026-free-games-list-ps4-ps5/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24264438/Need_for_Speed_Unbound_Risk_and_Reward_Screenshot_2.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2025-12-31T17:37:13+00:00"
+  },
+  {
+    "title": "For Zohran Mamdani, a Crowning Moment, With Challenges Looming",
+    "description": "Mr. Mamdani will become mayor of New York City on Thursday, carrying the hopes of the left, Muslims and younger voters as he looks to improve affordability.",
+    "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-mayor-nyc.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/30/multimedia/mamdani-ready-01-bfpj/mamdani-ready-01-bfpj-facebookJumbo.jpg",
+    "pubDate": "2025-12-31T17:33:46+00:00"
+  },
+  {
+    "title": "These Inmates Died After Beatings by New York Prison Guards. No One Raised an Alarm.",
+    "description": "Two brutal killings, less than three months apart, in New York State’s prison system raised troubling questions: Had other inmates met similar fates?",
+    "link": "https://www.nytimes.com/2025/12/31/nyregion/ny-prison-deaths-beatings-brooks-nantwi.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/22/nyregion/img-met-prisons/img-met-prisons-facebookJumbo-v2.png",
+    "pubDate": "2025-12-31T17:29:32+00:00"
+  },
+  {
+    "title": "Nike shares move higher on big insider purchases by CEO Elliott Hill, director Tim Cook after down year",
+    "description": "The retailer's insiders picked up shares near the end of a rough year.",
+    "link": "https://www.cnbc.com/2025/12/31/nike-shares-insider-buying-tim-cook.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108231692-1764079951368-gettyimages-2247838436-US_HOLIDAY_SHOPPING.jpeg?v=1767197802&w=1920&h=1080",
+    "pubDate": "2025-12-31T17:24:20+00:00"
+  },
+  {
+    "title": "In New Year’s Message to War-Weary Russia, Putin Says Little About War",
+    "description": "The Kremlin leader kept his speech short, spoke only briefly about the fighting in Ukraine, and did not mention U.S.-mediated talks on ending the war.",
+    "link": "https://www.nytimes.com/2025/12/31/world/europe/russia-putin-new-years-address.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/31/multimedia/31int-putin-speech-01-bpmf/31int-putin-speech-01-bpmf-facebookJumbo.jpg",
+    "pubDate": "2025-12-31T17:17:06+00:00"
+  },
+  {
     "title": "UK prepares for New Year celebrations as cold weather warnings issued",
     "description": "The cold snap is expected to have an impact on rail services, roads and ferries as people travel for New Year's events.",
     "link": "https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss",
@@ -7,10 +49,31 @@
     "pubDate": "2025-12-31T17:07:51+00:00"
   },
   {
+    "title": "A Timeline of Key Events in the Trump Administration’s Pursuit of Abrego Garcia",
+    "description": "In its parallel efforts to prosecute Mr. Abrego Garcia and to re-expel him from the country, the Justice Department has spent countless hours and untold sums of money pursuing a single immigrant.",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/abrego-garcia-timeline-trump.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/31/multimedia/31dc-abrego-timeline-wblt/31dc-abrego-timeline-wblt-facebookJumbo-v2.jpg",
+    "pubDate": "2025-12-31T17:05:40+00:00"
+  },
+  {
+    "title": "DOJ has 5.2 million pages of Epstein files left to review: Reports",
+    "description": "President Donald Trump had signed a bipartisan bill requiring the DOJ to publicly release unclassified records from its Epstein investigations by Dec. 19.",
+    "link": "https://www.cnbc.com/2025/12/31/epstein-files-trump-doj-fbi.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108243283-1766008102435-108243283-1766007980931-gettyimages-1192977802-a17-gmaxwellandjepsteinwithmichaelboltonmichaelboltonperfo.jpeg?v=1766008118&w=1920&h=1080",
+    "pubDate": "2025-12-31T17:03:49+00:00"
+  },
+  {
+    "title": "Economist Mark Zandi sees the Fed surprising with three rate cuts in first half of 2026",
+    "description": "Markets and Fed officials themselves see only modest easing in the year ahead.",
+    "link": "https://www.cnbc.com/2025/12/31/economist-mark-zandi-sees-the-fed-surprising-with-three-rate-cuts-in-first-half-of-2026-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108242065-1765829353583-gettyimages-2251524445-US_FEDERAL_RESERVE.jpeg?v=1765829392&w=1920&h=1080",
+    "pubDate": "2025-12-31T17:02:59+00:00"
+  },
+  {
     "title": "Crypto billionaires are among biggest losers of 2025: Report",
     "description": "While Circle CEO Jeremy Allaire increased his net worth by a reported 149%, others like Changpeng Zhao and the Winklevosses saw declines.",
     "link": "https://cointelegraph.com/news/crypto-billionaires-net-worth-2025-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b02b3-ad39-7c55-84dd-1f3ddc243c35",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyYjMtYWQzOS03YzU1LTg0ZGQtMWYzZGRjMjQzYzM1.jpg",
     "pubDate": "2025-12-31T17:01:01+00:00"
   },
   {
@@ -21,11 +84,11 @@
     "pubDate": "2025-12-31T17:00:18+00:00"
   },
   {
-    "title": "These Inmates Died After Beatings by New York Prison Guards. No One Raised an Alarm.",
-    "description": "Two brutal killings, less than three months apart, in New York State’s prison system raised troubling questions: Had other inmates met similar fates?",
-    "link": "https://www.nytimes.com/2025/12/31/nyregion/ny-prison-deaths-beatings-brooks-nantwi.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/22/nyregion/img-met-prisons/img-met-prisons-facebookJumbo-v2.png",
-    "pubDate": "2025-12-31T16:59:14+00:00"
+    "title": "Skin Deep Is 2025's Best Cat Game",
+    "description": "My favorite moment in Skin Deep, an immersive sim and stealth game about rescuing cats and fighting your evil clone in deep space, was always the one immediately after a thoroughly developed plan inevitably went sideways. The skittish way that I was forced to sprint and crawl under a table or into a vent. The manner in which my strategy devolved into simply batting things off of shelves in order to incapacitate a roaming guard or noisily distract them from looking in my direction. The way that I leapt onto a guard's back, dug my claws in, and careened them into surfaces in order to knock them out. If you were to close your eyes, I'd argue you could almost hear that distinctive, feline yowl mid-action. In short, I think Skin Deep best captures the experience of being a cat, even if Nina Pasadena, the game's protagonist, is decidedly not one. And for this tremendous feat, I am rewarding it with the honor of being the best cat game of 2025. Long live Skin Deep. In a typical Skin Deep mission, I often tried to keep to the shadows, as is the norm for a game in its genre. I would relegate myself to the ventilation, the pipework surrounding it, and the undersides of tables. Like Batman, I skulked around the perimeter looking for a precise opening that'd enable me to punch a hole in the level's defenses while keeping my cover. Of course, in Skin Deep, it almost never worked out in my favor. Because I am not, in fact, Batman. I'm just a (cat) girl. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/skin-deep-is-2025s-best-cat-game/1100-6536978/?ftag=CAD-01-10abi2f",
+    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4625579-skin-deep.jpg",
+    "pubDate": "2025-12-31T17:00:00+00:00"
   },
   {
     "title": "Pokémon Go 'New Year's 2026' event guide",
@@ -84,6 +147,13 @@
     "pubDate": "2025-12-31T16:56:53+00:00"
   },
   {
+    "title": "Base’s creator coin push sparks builder backlash over favoritism concerns",
+    "description": "Builders on Base are pushing back against the network’s close alignment with Zora, arguing the creator-coin narrative sidelines established projects.",
+    "link": "https://www.coindesk.com/business/2025/12/31/base-s-creator-coin-push-sparks-builder-backlash-over-favoritism-concerns",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/90c767da4c522b12041b72fde9d5c6e96171ae6a-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2025-12-31T16:53:41+00:00"
+  },
+  {
     "title": "Finnish police seize ship suspected of sabotaging undersea cable",
     "description": "Police arrested 14 crew members on the ship sailing from the St Petersburg to the Israeli port of Haifa.",
     "link": "https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss",
@@ -105,6 +175,13 @@
     "pubDate": "2025-12-31T16:41:33+00:00"
   },
   {
+    "title": "Gold, silver prices fall after CME raises precious metals margins — again",
+    "description": "The moves come at the end of a blockbuster year of annual gains for the precious metals.",
+    "link": "https://www.cnbc.com/2025/12/31/gold-and-silver-prices-fall-after-cme-raises-precious-metals-margins.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108235976-1764776147223-gettyimages-2212118870-SPAIN_GOLD.jpeg?v=1767184941&w=1920&h=1080",
+    "pubDate": "2025-12-31T16:41:19+00:00"
+  },
+  {
     "title": "Four reasons why Benjamin Netanyahu may not want a Gaza ceasefire to hold",
     "description": "After his trip to the US, Israel's prime minister returns home in an apparently strong position.",
     "link": "https://www.aljazeera.com/news/2025/12/31/four-reasons-why-benjamin-netanyahu-may-not-want-a-gaza-ceasefire-to-hold?traffic_source=rss",
@@ -112,18 +189,18 @@
     "pubDate": "2025-12-31T16:40:16+00:00"
   },
   {
+    "title": "PlayStation Plus Free Games For January 2026 Revealed",
+    "description": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim Need For Speed Unbound, Epic Mickey: Rebrushed, and Core Keeper starting January 6 and they will remain available until Monday, February 2. NFS Unbound promo art.The most recent Need for Speed game, NFS Unbound, has single-player and multiplayer campaigns set in Lakeshore City, which greatly resembles Chicago. Street racing is a key part of the experience, but so is outrunning the cops. As your \"Heat\" index rises after each race, the police will pursue players with greater intensity as they establish their rep outside of the law. Between races, players can customize their rides and compete in weekly qualifiers to get into the ultimate street racing contest: The Grand. Mickey unleashes his paint brush in promo art for Epic Mickey: Rebrushed.Epic Mickey was a Wii exclusive upon its 2010 debut until THQ Nordic's 2024 remaster, Epic Mickey: Rebrushed, brought the game to modern consoles. The visuals and gameplay have been noticeably improved as Mickey Mouse is sucked into the Wasteland where forgotten characters and concepts have languished for decades. This game is one of the reasons why Disney made a deal to gain the rights to Walt Disney's previous creation, Oswald the Lucky Rabbit. And for the first time, Mickey has to come face-to-face with his brother, Oswald, and reconcile with him if he wants any chance of escaping the Wasteland. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-january-2026/1100-6537102/?ftag=CAD-01-10abi2f",
+    "thumbnail": "https://www.gamespot.com/a/uploads/scale_super/1837/18375603/4628403-needforspeedunbound.jpg",
+    "pubDate": "2025-12-31T16:38:00+00:00"
+  },
+  {
     "title": "Mamdani Will Be First N.Y.C. Mayor to Use the Quran at His Swearing-In",
     "description": "Zohran Mamdani, New York City’s first Muslim mayor, will use two family Qurans and one that belonged to the writer Arturo Schomburg at his two swearing-in ceremonies.",
     "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-quran-inauguration-muslim.html",
     "thumbnail": "https://static01.nyt.com/images/2025/12/31/multimedia/31met-mamdani-quran-01-wzpb/31met-mamdani-quran-01-wzpb-facebookJumbo.jpg",
     "pubDate": "2025-12-31T16:31:21+00:00"
-  },
-  {
-    "title": "Nike shares move higher on big insider purchases by CEO Elliott Hill, director Tim Cook after down year",
-    "description": "The retailer's insiders picked up shares near the end of a rough year.",
-    "link": "https://www.cnbc.com/2025/12/31/nike-shares-insider-buying-tim-cook.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108231692-1764079951368-gettyimages-2247838436-US_HOLIDAY_SHOPPING.jpeg?v=1767197802&w=1920&h=1080",
-    "pubDate": "2025-12-31T16:24:57+00:00"
   },
   {
     "title": "How is Trump’s Big Beautiful Bill changing US taxes and healthcare in 2026?",
@@ -164,7 +241,7 @@
     "title": "2026 will be red for Bitcoin, but payment tech will improve: BTC OGs",
     "description": "The market carnage will likely extend into 2026, with price bottoming out in Q4, but it isn't all bad news, according to early BTC adopters.",
     "link": "https://cointelegraph.com/news/2026-red-btc-payment-tech-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b74fd-40ea-711d-848a-233706f7a18c.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc0ZmQtNDBlYS03MTFkLTg0OGEtMjMzNzA2ZjdhMThjLmpwZw==.jpg",
     "pubDate": "2025-12-31T16:10:14+00:00"
   },
   {
@@ -175,17 +252,10 @@
     "pubDate": "2025-12-31T16:06:41+00:00"
   },
   {
-    "title": "Women Directed Fewer Box Office Hits in 2025, Report Finds",
-    "description": "The number of female filmmakers dropped to 8.1 percent this year from 13.4 percent in 2024, according to a study from the University of Southern California.",
-    "link": "https://www.nytimes.com/2025/12/31/movies/women-female-directors.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/31/multimedia/31cul-female-directors-phbt/31cul-female-directors-phbt-facebookJumbo.jpg",
-    "pubDate": "2025-12-31T16:03:52+00:00"
-  },
-  {
     "title": "The Epic Games Store Is Giving Away Free Games Every Day: Here's What You Can Get Today",
     "description": "The Epic Games Store continues to give away a free game each week, and this week is another nice find with a price that can't be beaten. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the free games is create a free Epic account and enable two-factor authentication. You have a week to add the freebies to your library before the new one(s) take their place. At this point, Epic has given away hundreds of free games, and there's no sign that the program will stop any time soon. The company has also extended its freebies to Android devices, and you can claim a free game every week here as well. We keep this article up to date weekly to highlight both the current free games and next week's offerings. If you're looking for more freebies, you can check out our list of the 25 best free PC games to play in 2025, or for more options, the 25 best free games to play in 2025 on multiple platforms. Current free game at Epic What's under the Epic Games Store tree today?Epic offers daily free games during the last days of December, so you can check back starting December 18 for more freebies in the store. You can also check the list below to see what's currently available, or what you might have missed out on during this festive promotion. Today’s game is Chivalry 2, a multiplayer first-person slasher that draws inspiration from medieval battles. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4626257-egs-december.jpg",
+    "thumbnail": "https://www.gamespot.com/a/uploads/original/1601/16018044/4626258-egs-december.jpg",
     "pubDate": "2025-12-31T16:02:00+00:00"
   },
   {
@@ -194,13 +264,6 @@
     "link": "https://www.polygon.com/mr-robot-streaming-2026-leaving-netflix-tubi/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/0_e2hqibwwwz2wdyoc.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-31T16:00:16+00:00"
-  },
-  {
-    "title": "'Big Short' investor Michael Burry says he's not shorting Tesla",
-    "description": "In a social media post on X, the Scion Asset Management founder responded to a user asking if he would bet against Tesla by saying: \"I am not short.\"",
-    "link": "https://www.cnbc.com/2025/12/31/big-short-investor-michael-burry-denies-shorting-tesla-stock.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1767176101&w=1920&h=1080",
-    "pubDate": "2025-12-31T15:51:52+00:00"
   },
   {
     "title": "4 predictions for privacy in 2026",
@@ -241,7 +304,7 @@
     "title": "Price predictions 12/31: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
     "description": "Several analysts remain bullish on Bitcoin, expecting it to surge to a new all-time high as early as in the first quarter of 2026.",
     "link": "https://cointelegraph.com/news/price-predictions-12-31-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b74ef-00e8-7ede-ac2c-f2b4688b738b.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc0ZWYtMDBlOC03ZWRlLWFjMmMtZjJiNDY4OGI3MzhiLmpwZw==.jpg",
     "pubDate": "2025-12-31T15:15:51+00:00"
   },
   {
@@ -346,22 +409,15 @@
     "title": "Strategy accumulates over 22,000 Bitcoin, RWAs top $19 billion: December in Charts",
     "description": "The Bitcoin price slump at the end of the year hasn’t discouraged Michael Saylor’s Strategy from buying over 22,000 BTC in December alone.",
     "link": "https://cointelegraph.com/news/strategy-bitcoin-rwas-top-billion-december-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019afe21-f273-701d-92e5-2ff531b02cda",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjEtZjI3My03MDFkLTkyZTUtMmZmNTMxYjAyY2Rh.jpg",
     "pubDate": "2025-12-31T14:00:00+00:00"
   },
   {
     "title": "Here’s what AI models predict for Bitcoin and altcoin price ranges in 2026",
     "description": "From Bitcoin to Dogecoin, major AI models predict price ranges and the catalysts that could shape crypto markets in the year ahead.",
     "link": "https://cointelegraph.com/news/ai-crypto-price-predictions-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/01989e76-e23b-74b2-a1f4-6539f9934b7c",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODllNzYtZTIzYi03NGIyLWExZjQtNjUzOWY5OTM0Yjdj.jpg",
     "pubDate": "2025-12-31T14:00:00+00:00"
-  },
-  {
-    "title": "Gold, silver prices fall after CME raises precious metals margins — again",
-    "description": "The moves come at the end of a blockbuster year of annual gains for the precious metals.",
-    "link": "https://www.cnbc.com/2025/12/31/gold-and-silver-prices-fall-after-cme-raises-precious-metals-margins.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108235976-1764776147223-gettyimages-2212118870-SPAIN_GOLD.jpeg?v=1767184941&w=1920&h=1080",
-    "pubDate": "2025-12-31T13:53:09+00:00"
   },
   {
     "title": "KBW upgrades TeraWulf to outperform, sees AI pivot as catalyst for sharp growth",
@@ -388,14 +444,14 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
     "pubDate": "2025-12-31T13:39:41+00:00"
   },
   {
     "title": "Ethereum below $3K: Low fees, weak ETF flows signal stagnation into 2026",
     "description": "Ether trades sideways as spot ETF outflows, weak bullish leverage demand, and low Ethereum network fees cap recovery prospects going into 2026.",
     "link": "https://cointelegraph.com/news/ethereum-below-3k-low-fees-etf-weak-etf-flows-stagnation-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b7202-dddb-7445-a8d5-c6e10cd2da17.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcyMDItZGRkYi03NDQ1LWE4ZDUtYzZlMTBjZDJkYTE3LmpwZw==.jpg",
     "pubDate": "2025-12-31T13:32:37+00:00"
   },
   {
@@ -409,22 +465,8 @@
     "title": "Wallets tied to TRUMP memecoin team pull $94M USDC to Coinbase in December",
     "description": "Arkham data shows wallets associated with the Official Trump meme team pulling about $94 million in USDC from TRUMP liquidity pools in December and routing the funds to Coinbase.",
     "link": "https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b746c-51d2-7323-a222-d47d5d72a701.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc0NmMtNTFkMi03MzIzLWEyMjItZDQ3ZDVkNzJhNzAxLmpwZw==.jpg",
     "pubDate": "2025-12-31T13:29:22+00:00"
-  },
-  {
-    "title": "Space and defense boom lifted these satellite stocks by more than 200% in 2025",
-    "description": "Satellite stocks have benefitted this year from renewed interest in space exploration and military reindustrialization efforts.",
-    "link": "https://www.cnbc.com/2025/12/31/space-and-defense-boom-lifted-these-satellite-stocks-by-200percent-in-2025.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107270740-1689196115326-vs3renderings-006-1920x1080.png?v=1689201485&w=1920&h=1080",
-    "pubDate": "2025-12-31T13:19:08+00:00"
-  },
-  {
-    "title": "This year-end mistake costs investors up to $1.7 billion annually — how to minimize the penalty",
-    "description": "The deadline for RMDs is Dec. 31. Here's how to reduce or eliminate the penalty if you miss the due date.",
-    "link": "https://www.cnbc.com/2025/12/31/rmd-mistake-costs-investors.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107345165-1702048316016-gettyimages-1421604025-dsc05224.jpeg?v=1744122301&w=1920&h=1080",
-    "pubDate": "2025-12-31T13:16:59+00:00"
   },
   {
     "title": "Fallout season 2's treatment of Caesar's Legion reveals a larger New Vegas problem",
@@ -437,7 +479,7 @@
     "title": "The Bybit hack made Kim Jong Un crypto's most influential in 2025",
     "description": "North Korea’s record-breaking Bybit hack changed how exchanges handle security and even influenced FATF’s global crypto recommendations.",
     "link": "https://cointelegraph.com/news/bybit-hack-kim-jong-un-crypto-most-influential-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b36dd-4bae-7e30-9f62-3af5249c9e96.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2ZGQtNGJhZS03ZTMwLTlmNjItM2FmNTI0OWM5ZTk2LmpwZw==.jpg",
     "pubDate": "2025-12-31T13:00:00+00:00"
   },
   {
@@ -462,13 +504,6 @@
     "pubDate": "2025-12-31T12:24:51+00:00"
   },
   {
-    "title": "GTA 6 was supposed to be 2025's GOTY — here's what happened instead",
-    "description": "Rockstar Games was supposed to release Grand Theft Auto 6 in 2025, but two delays resulted in a big GTA 6-sized hole this year.",
-    "link": "https://www.polygon.com/2025-no-gta-6-rockstar-games/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/gta-6-delay-dev-cycle-gta-5-success-2.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2025-12-31T12:00:16+00:00"
-  },
-  {
     "title": "Bitcoin got stuck after slumping 30% from its peak. Here's why.",
     "description": "The October flash crash exposed how fragile bitcoin’s rally had become. It also illustrated a fundamental change in how BTC is perceived.",
     "link": "https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025",
@@ -479,7 +514,7 @@
     "title": "Four Bitcoin charts to watch heading into 2026",
     "description": "Gold fractals, Bitcoin cost basis heatmap, and long-term moving averages offer clues on where BTC’s next major move may emerge in 2026.",
     "link": "https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6f38-93ed-71bd-a90f-70dff0c7c04c.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmMzgtOTNlZC03MWJkLWE5MGYtNzBkZmYwYzdjMDRjLmpwZw==.jpg",
     "pubDate": "2025-12-31T11:30:00+00:00"
   },
   {
@@ -490,13 +525,6 @@
     "pubDate": "2025-12-31T11:20:52+00:00"
   },
   {
-    "title": "XRP and solana volatility in 2025 was twice as bumpy as bitcoin's",
-    "description": "ETFs tied to altcoins need to pull in deeper liquidity to match BTC's chill.",
-    "link": "https://www.coindesk.com/markets/2025/12/31/xrp-and-solana-2025-ride-twice-as-bumpy-as-bitcoin",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/397d299abf98bf0546b0a51642dc99cebd6fa670-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-31T11:14:43+00:00"
-  },
-  {
     "title": "Mortgage and refinance interest rates today, December 31: Down to a new 2025 low",
     "description": "",
     "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-december-31-2025-110023352.html",
@@ -504,18 +532,11 @@
     "pubDate": "2025-12-31T11:00:23+00:00"
   },
   {
-    "title": "Justice Dept. Is Now Said to Be Reviewing 5.2 Million Pages of Epstein Files",
-    "description": "The number represents a more precise, and potentially much larger, figure than earlier estimates. The department is seeking to enlist about 400 lawyers to help in the review.",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/esptein-files-5-million-pages.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/30/multimedia/30dc-epstein-files-zhlc/30dc-epstein-files-zhlc-facebookJumbo-v2.jpg",
-    "pubDate": "2025-12-31T10:47:36+00:00"
-  },
-  {
-    "title": "The Top Movies of 2025, According to Times Readers: ‘Marty Supreme’ and More",
-    "description": "We asked you to vote on the best films of the year. The results ranged from big box office hits to small art-house indies.",
-    "link": "https://www.nytimes.com/2025/12/31/movies/2025-best-movies-marty-supreme.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/31/arts/31cul-reader-movies/31cul-reader-movies-facebookJumbo.jpg",
-    "pubDate": "2025-12-31T10:02:07+00:00"
+    "title": "An Intense White House Response From a Single Viral Video",
+    "description": "A video purporting to expose extensive fraud at child care centers in Minnesota shows the relationship between the Trump administration and self-described citizen journalists.",
+    "link": "https://www.nytimes.com/2025/12/31/business/media/trump-conservatives-videos-viral-loop.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/31/multimedia/31biz-conservative-media-04-mvtz/31biz-conservative-media-04-mvtz-facebookJumbo.jpg",
+    "pubDate": "2025-12-31T10:02:39+00:00"
   },
   {
     "title": "Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move",
@@ -535,7 +556,7 @@
     "title": "Double Nintendo Switch 2 Console Storage For Only $33 With Samsung MicroSD Express Deal",
     "description": "Samsung P9 256GB microSD Express Card $33 (was $55) | Limited-time deal Get deal at Amazon Nintendo Switch 2 owners who haven't picked up a microSD Express Card still have a chance to double their console's storage capacity for cheap. As of December 31, Amazon's incredible deal on the SanDisk P9 256GB microSD Express is still available. Normally $55, the SanDisk P9 256GB is on sale for only $33. This deal has been available for about two weeks, so it probably won't be active for much longer. The $33 price is an all-time low for a microSD Express Card from any brand. The 512GB edition, unfortunately, is selling for its full $100 price. Amazon is also still selling the Lexar Play Pro 1TB microSD Express, the most popular 1TB card on the market, for $186 (was $220). For a 512GB card from Amazon, the Lexar Play Pro and Samsung P9 are your best bets at $100. Take a deeper dive into the world of microSD Express Cards for Nintendo Switch 2 below. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/microsd-express-cards-nintendo-switch-2-best-deals-available-now/1100-6530578/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4628375-microsdexpressdec.31thumbnail.png",
+    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4623544-sandisk256gbmicrosdexpress.png",
     "pubDate": "2025-12-31T08:40:00+00:00"
   },
   {
@@ -544,13 +565,6 @@
     "link": "https://www.bbc.com/news/articles/c4ge0jlygr2o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cf/live/fc668d30-df12-11f0-a8dc-93c15fe68710.jpg",
     "pubDate": "2025-12-31T08:09:15+00:00"
-  },
-  {
-    "title": "For Zohran Mamdani, a Crowning Moment, With Challenges Looming",
-    "description": "Mr. Mamdani will become mayor of New York City on Thursday, carrying the hopes of the left, Muslims and younger voters as he looks to improve affordability.",
-    "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-mayor-nyc.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/30/multimedia/mamdani-ready-01-bfpj/mamdani-ready-01-bfpj-facebookJumbo.jpg",
-    "pubDate": "2025-12-31T08:00:38+00:00"
   },
   {
     "title": "Khanna calls for nationwide fraud investigation after wealth tax proposal caused firestorm",
@@ -640,22 +654,8 @@
     "title": "SteelSeries Arctis Nova 7 Gen 2 Gaming Headset On Sale For Best Price Yet",
     "description": "SteelSeries Arctis Nova 7 Wireless Headset (Gen 2) $180 (was $200) See at Amazon If you're looking for a headset for your new gaming console, handheld, or PC, one of the best options for all devices is on sale at Amazon. The SteelSeries Arctis Nova 7 Gen 2 is discounted to $180 (was $200) for a limited time. Released in October, the Nova 7 Gen 2 is updated version of one of the best wireless gaming headsets you can buy today. You can choose between the Nova 7P (PlayStation), Nova 7X (Xbox), or Nova 7 (PC) in black, white, or magenta. The 7X offers wireless support for all platforms, while the 7P and 7 work on all devices except Xbox consoles. If you game on Switch 1/2, mobile, Steam Deck, or another device with USB-C or Bluetooth audio support, any of the three versions will work great. For a more premium wireless headset, the SteelSeries Arctis Nova Pro is on sale for $300 (was $380). SteelSeries Arctis Nova 7 Wireless Headset (Gen 2) $180 (was $200) When considering price, audio performance, and comfort, the Arctis Nova 7 was hard to beat when it launched back in 2022. That remains true over three years later with the Gen 2 model, which offers 40% better battery life--over 50 hours compared to 38 hours--and adds support for the Arctis Companion App. The free iOS and Android app lets you adjust audio settings and switch between over 200 custom sound profiles designed for specific games. Along with these 2.4GHz Wireless profiles, there are a handful of Bluetooth profiles, including Bass Boost and Focus, that come in handy when using the Nova 7 to listen to music. The original Nova 7 worked with the SteelSeries GG desktop app for PC and Mac, but the mobile app is easier to use and allows you to adjust audio settings on the go. The Arctis Companion App was introduced in 2024 alongside the entry-level Nova 5 Wireless Headset, and it only works with select SteelSeries audio gear. If you own the first-generation Nova 7, upgrading probably might make sense if you take your headset with you during your daily commute or use it frequently for handheld gaming. But if Arctis Companion App integration isn't of interest to you, you'll want to stick with the original. But for everyone else, the Nova 7 Gen 2 is a terrific all-around gaming headset that remains my favorite in the $200 and under category. SteelSeries designs the most comfortable gaming headsets on the market, and the Nova 7 is no exception. The adjustable elastic headband and lightweight, memory foam ear cushions are superb, and the sturdy steel frame holds up well. The custom 40mm neodymium audio drivers offer rich, high-fidelity sound; the audio is even more impressive and dynamic when using the custom presets created by SteelSeries. It has a retractable boom mic with AI noise reduction to block out ambient noise like keyboard and controller clicks. Along with 2.4GHz Wireless with the included USB-C dongle, the Nova 7 supports Bluetooth and wired via a detachable 3.5mm audio cord. It also has simultaneous 2.4GHz and Bluetooth audio streams, so you can stay connected and hear sound from two devices at once. See at Amazon Nova 7 vs. 7P vs. 7X SteelSeries Arctis Nova 7 (Gen 2)As mentioned, there are three versions of the Nova 7 Gen 2. In the past, SteelSeries has included green or blue accents on the headset to differentiate between the Xbox and PlayStation editions, but the Gen 2 looks the same across the board. The only tangible difference between the three is the dial on the right earcup. The Nova 7X and 7 have a game chatmix dial, but since the PS5 doesn't have this feature, the Nova 7P has a Sidetone dial for mic monitoring. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/steelseries-arctis-nova-7-gen-2-gaming-headset-on-sale-for-best-price-yet/1100-6537150/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4628041-steelseriesarctisnova7gen2thumbnail.png",
+    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4628020-steelseriesnova7gen2.png",
     "pubDate": "2025-12-28T10:19:00+00:00"
-  },
-  {
-    "title": "Arcade1Up NBA Jam Deluxe Cabinet Is Only $350 At Amazon",
-    "description": "Arcade1Up NBA Jam Deluxe Cabinet $350 (was $500) See at Amazon See at Best Buy See at Kohl's See at Macy's See at Walmart Nostalgic NBA Jam fans can save big on Arcade1Up's home arcade machine featuring the classic 2v2 basketball game. Earlier this month, the NBA Jam Deluxe Arcade Cabinet was on sale for an all-time low price of $400 (was $500). The price dropped an additional $50 in the days leading up to Christmas. As of December 28, NBA Jam Deluxe is up for grabs for onl $350 at Amazon, Best Buy, Walmart, Kohl's, and Macy's. If you purchase NBA Jam Deluxe from Kohl's for $350, you'll also get $70 Kohl's Cash to use online or at your local store from December 29 to January 4. The NBA Jam Deluxe Cabinet isn't the only Arcade1Up machine on sale for a great price at Amazon and Best Buy. We've included a list of the best Arcade1Up deals at the bottom of this story. Arcade1Up NBA Jam Deluxe Cabinet $350 (was $500) The NBA Jam Deluxe Cabinet is preloaded with three classic arcade basketball games developed by Midway from 1993-1996: NBA Jam, NBA Jam Tournament Edition, and NBA Hangtime. The control deck has two sets of inputs: one arcade stick and three buttons for each player. In addition to local multiplayer, you can play against users around the world over Wi-Fi. Like other Deluxe editions from Arcade1Up, it has a 17-inch HD display, light-up marquee, dual stereo speakers, and a faux coin door on the front. The cabinet is roughly 61.5 inches tall, just under 19 inches wide, and weighs approximately 62 pounds. If you want to sit while playing, Amazon has a limited-time deal on this popular adjustable bar stool with a backrest. Arcade1Up has manufactured several NBA Jam cabinets over the past five years, but the Deluxe Edition is the only model in stores today. Outside of Arcade1Up cabinets, NBA Jam has been dormant for nearly 15 years; the last home console entry, NBA Jam: On Fire Edition, released on PS3 and Xbox 360 in 2011. Thankfully, Arcade1Up's NBA Jam cabinet offers an authentic way to revisit the best entries in the series. See at Amazon See at Best Buy See at Kohl's NBA Jam debuted exclusively in arcades in 1993 and was ported to consoles the following year. The Tournament Edition, which launched in 1994, is essentially an updated and expanded version of the original NBA Jam. As the name suggests, the main addition was Tournament mode. It's still 2v2 basketball, but Midway added a third player to each team, allowing you to make substitutions throughout each game. The Tournament Edition also expanded player stat categories. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/nba-jam-arcade1up-deluxe-home-arcade-cabinet-best-deal/1100-6537125/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4626867-nbajamdeluxethumbnail.jpg",
-    "pubDate": "2025-12-28T06:18:00+00:00"
-  },
-  {
-    "title": "Games Want You To Play Forever, But Dispatch Tells You When To Stop",
-    "description": "Is there a more infamous monkey-paw wish than the collective dream that all our favorite games could last forever? Well, the finger curled, because it seems like all major game publishers in the world only want to make games that go on to infinity. With the rise of live-service games, it's been a struggle to know when to put the controller down, especially when games like Fortnite release seasonal content like The Simpsons season pass that ask you to play long enough to unlock stupid sexy Flanders. Luckily, for us, episodic games, perfectly portioned into bite-sized morsels, have come back to rescue us from the endless grind. In this case, I am talking specifically about Dispatch, the new episodic superhero game from AdHoc Studio. If the name is unfamiliar to you, AdHoc is a new game company founded by former members of Ubisoft, Night School, and perhaps most notably, Telltale Games, who blew up the episodic gaming scene with 2012's The Walking Dead. The studio would later close due to a variety of factors internal and external, some of which I covered previously as a reporter. But by then, the episodic-games formula was starting to feel a bit played out, and the mood appeared to be shifting towards either more complete single-player experiences, or the early live-service games we know today. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/games-want-you-to-play-forever-but-dispatch-tells-you-when-to-stop/1100-6537045/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4625575-dispatch-4.jpg",
-    "pubDate": "2025-12-27T21:00:00+00:00"
   },
   {
     "title": "Purple Carrot Review: A Vegan Meal Kit Even Omnivores Can Get Behind",
