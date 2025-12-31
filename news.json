@@ -1,10 +1,101 @@
 [
   {
+    "title": "Bitcoin's market got calmer in 2025 thanks to yield-hungry institutional investors",
+    "description": "The BTC market has experienced a steady decline in implied volatility as institutions embraced derivatives to generate extra income.",
+    "link": "https://www.coindesk.com/markets/2025/12/31/bitcoin-market-calmed-in-2025-thanks-to-yield-hungry-institutions",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6c6b133a6cdef82e990ca24eb461b7200fda1b63-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2025-12-31T06:39:16+00:00"
+  },
+  {
+    "title": "Asia-Pacific markets fall in year-end trade; investors parse China manufacturing data",
+    "description": "Asia-Pacific markets were poised for modest gains on the holiday-shortened and final trading day of the year.",
+    "link": "https://www.cnbc.com/2025/12/31/asia-pacific-markets-hang-seng-index-nifty-50-csi-300.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108206822-1759376123798-gettyimages-976177846-zb5423_241410_0009.jpeg?v=1759376155&w=1920&h=1080",
+    "pubDate": "2025-12-31T06:38:28+00:00"
+  },
+  {
+    "title": "Ethereum L1 txs hit 2.2M in a day, and each one cost around 17 cents",
+    "description": "Ethereum transactions were the most costly in May 2022 when fees were over $200 per transaction on average. They have been declining since.",
+    "link": "https://cointelegraph.com/news/ethereum-txs-hit-record-2-2m-while-fees-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY4MjMtMDllNC03ZDQzLWI2YTAtZjBhMmIzMzQ5NzAzLmpwZw==.jpg",
+    "pubDate": "2025-12-31T06:38:05+00:00"
+  },
+  {
+    "title": "An A-Z list of 2025’s biggest stories",
+    "description": "From artificial intelligence to Zohran Mamdani, Al Jazeera compiles an A-Z list of 2025's biggest stories.",
+    "link": "https://www.aljazeera.com/news/longform/2025/12/31/an-a-z-list-of-2025s-biggest-stories?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/INTERACTIVE-A-Z-COVERTHUMBNAIL-1767112308.png?resize=1200%2C630",
+    "pubDate": "2025-12-31T06:27:45+00:00"
+  },
+  {
+    "title": "LIVE: Israel’s ban on aid groups to have ‘horrific’ outcomes in Gaza",
+    "description": "Dozens of humanitarian organisations, including Doctors Without Borders, are banned by Israel.",
+    "link": "https://www.aljazeera.com/news/liveblog/2025/12/31/live-israels-ban-on-aid-organisations-in-gaza?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AA-20251230-40113914-40113911-FOOD_DISTRIBUTED_TO_PALESTINIANS_IN_KHAN_YUNIS-1767160464.jpg?resize=1920%2C1440",
+    "pubDate": "2025-12-31T06:26:10+00:00"
+  },
+  {
+    "title": "After the floods of 2025, can we keep 2026 above water?",
+    "description": "Flooding has become the world's 'foremost climate hazard', according to experts. So what do we do about it?",
+    "link": "https://www.aljazeera.com/news/2025/12/31/after-the-floods-of-2025-can-we-keep-2026-above-water?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25335400418516-1767005775.jpg?resize=1920%2C1440",
+    "pubDate": "2025-12-31T06:24:05+00:00"
+  },
+  {
+    "title": "Thailand releases Cambodian soldiers as ceasefire holds",
+    "description": "Thailand has released 18 ‍Cambodian soldiers ‍it had detained since July, after the two countries agreed to a ceasefire.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/31/thailand-releases-cambodian-soldiers-as-ceasefire-holds?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1767162002.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2025-12-31T06:20:45+00:00"
+  },
+  {
+    "title": "China calls on Netherlands to correct ‘mistake’ over chipmaker Nexperia",
+    "description": "The Chinese and Dutch governments are at loggerheads over control of chipmaker amid concerns for global supply chains.",
+    "link": "https://www.aljazeera.com/economy/2025/12/31/china-calls-on-netherlands-to-correct-mistake-over-chipmaker-nexperia?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25323382365110-2-1767151090_4abc7e-1767151784.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2025-12-31T06:11:17+00:00"
+  },
+  {
+    "title": "Russia deploys hypersonic Oreshnik missiles in Belarus amid Europe tensions",
+    "description": "Moscow has positioned nuclear-capable hypersonic missiles in Belarus as tensions rise in Europe.",
+    "link": "https://www.aljazeera.com/news/2025/12/31/russia-deploys-hypersonic-oreshnik-missiles-in-belarus-amid-europe-tensions?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/09/13347246-1758075123.jpg?resize=1200%2C675",
+    "pubDate": "2025-12-31T06:09:59+00:00"
+  },
+  {
+    "title": "Who died in 2025? Notable deaths of the year",
+    "description": "Pope Francis, Ozzy Osbourne and Diane Keaton are among those who died this year.",
+    "link": "https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/713e5310-dcfa-11f0-b67b-690eb873de1b.png",
+    "pubDate": "2025-12-31T06:01:53+00:00"
+  },
+  {
+    "title": "'I've had wonderful support from women', says incoming Archbishop of Canterbury",
+    "description": "Dame Sarah Mullally will be the first woman to hold the position when she is installed in January.",
+    "link": "https://www.bbc.com/news/articles/cx2lgge2jd3o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a233/live/1ea0db90-e59d-11f0-a8dc-93c15fe68710.jpg",
+    "pubDate": "2025-12-31T06:00:02+00:00"
+  },
+  {
     "title": "How Pakistan’s Asim Munir became Trump’s ‘favourite field marshal’",
     "description": "The army chief, analysts say, has driven Pakistan's geopolitical reemergence over the past year as a soldier-diplomat.",
     "link": "https://www.aljazeera.com/news/2025/12/31/how-pakistans-asim-munir-became-trumps-favourite-field-marshal?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/G1ueAGIXEAAOD7u-1767142127.jpg?resize=1920%2C1440",
     "pubDate": "2025-12-31T05:41:11+00:00"
+  },
+  {
+    "title": "Bullish calls of XRP to jump 300% in 2026 do the rounds again, implying $8 target",
+    "description": "Standard Chartered predicted XRP could rise to $8 by 2026 in an April note, supported by improved U.S. regulatory clarity and institutional interest.",
+    "link": "https://www.coindesk.com/markets/2025/12/31/bullish-calls-of-xrp-to-jump-300-in-2026-do-the-rounds-again-implying-usd8-target",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/490696523f4129ed682a981c70d878b8ef517108-1196x732.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2025-12-31T05:37:38+00:00"
+  },
+  {
+    "title": "Bitcoin, ether drop more than 22% in Q4 as December ‘Santa rally’ fizzles",
+    "description": "The market's focus is now on whether bitcoin can maintain its support levels into the new year, as the failed rally may signal a need for a deeper market reset.",
+    "link": "https://www.coindesk.com/markets/2025/12/31/bitcoin-ether-drop-more-than-22-in-q4-as-december-santa-rally-fizzles",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2025-12-31T05:31:18+00:00"
   },
   {
     "title": "Uganda opposition leader promotes Bitchat amid fears of internet blackout",
@@ -26,13 +117,6 @@
     "link": "https://www.aljazeera.com/news/2025/12/31/germany-hunts-christmas-thieves-after-oceans-eleven-style-bank-heist?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-1767127889.jpg?resize=1920%2C1080&quality=80",
     "pubDate": "2025-12-31T05:00:55+00:00"
-  },
-  {
-    "title": "Eurostar delays enter second day with passengers stuck onboard for hours overnight",
-    "description": "Eurostar says it plans to run all of its services on Wednesday but there may still be delays and cancellations.",
-    "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11f/live/51bf6630-e5fd-11f0-a8dc-93c15fe68710.jpg",
-    "pubDate": "2025-12-31T04:56:15+00:00"
   },
   {
     "title": "Thailand releases 18 Cambodian soldiers as ceasefire holds",
@@ -64,7 +148,7 @@
   },
   {
     "title": "Ex-Australia batter Damien Martyn in coma with meningitis",
-    "description": "The 54-year-old, who played 67 Test matches, reportedly fell ill on Friday and is in a Queensland hospital.",
+    "description": "Former Australia batter Damien Martyn, 54, who played 67 Test matches, is in an induced coma in a Queensland hospital after being diagnosed with meningitis..",
     "link": "https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541d/live/cde29a20-e5d5-11f0-83ac-0961a158008e.jpg",
     "pubDate": "2025-12-31T03:53:31+00:00"
@@ -84,13 +168,6 @@
     "pubDate": "2025-12-31T03:50:22+00:00"
   },
   {
-    "title": "Israel’s recognition of Somaliland ‘strange, unexpected’: Somali president",
-    "description": "Hassan Sheikh Mohamud says his country believes the move is linked to Israel's plans to forcibly displace Palestinians.",
-    "link": "https://www.aljazeera.com/news/2025/12/31/israels-recognition-of-somaliland-strange-unexpected-somali-president?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/ap_69547ebf739f4-1767145151.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-31T03:43:32+00:00"
-  },
-  {
     "title": "Iowa Democrat Wins State Senate Seat, Fending Off G.O.P. Supermajority",
     "description": "By holding a left-leaning seat in suburban Des Moines, Democrats ensured that Republicans would not have a supermajority in the State Senate.",
     "link": "https://www.nytimes.com/2025/12/30/us/iowa-senate-special-election.html",
@@ -98,10 +175,17 @@
     "pubDate": "2025-12-31T03:39:50+00:00"
   },
   {
+    "title": "He has been walking around the world for the last 27 years—Here’s the no. 1 lesson he learned about happiness",
+    "description": "In 1998, Karl Bushby set off on the \"Goliath Expedition,\" a mission to walk around the world. Here's the number one lesson he learned about happiness.",
+    "link": "https://www.cnbc.com/2025/12/31/no-1-lesson-the-goliath-expedition-taught-karl-bushby-about-happiness.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246083-1766974017007-gettyimages-2212386452-AA_02052025_2209642.jpeg?v=1766974095&w=1920&h=1080",
+    "pubDate": "2025-12-31T03:25:09+00:00"
+  },
+  {
     "title": "Justice Dept. Now Said to Be Reviewing 5.2 Million Pages of Epstein Files",
     "description": "The number represents a more precise, and potentially much larger, figure than earlier estimates. The department is seeking to enlist about 400 lawyers to help in the review.",
     "link": "https://www.nytimes.com/2025/12/30/us/politics/esptein-files-5-million-pages.html",
-    "thumbnail": "https://static01.nyt.com/images/2025/12/30/multimedia/30dc-epstein-files-zhlc/30dc-epstein-files-zhlc-facebookJumbo.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2025/12/30/multimedia/30dc-epstein-files-zhlc/30dc-epstein-files-zhlc-facebookJumbo-v2.jpg",
     "pubDate": "2025-12-31T03:07:10+00:00"
   },
   {
@@ -110,20 +194,6 @@
     "link": "https://www.nytimes.com/2025/12/30/nyregion/mamdani-schools-chancellor.html",
     "thumbnail": "https://static01.nyt.com/images/2025/12/30/multimedia/30met-schools-chancellor-01-tbmw/30met-schools-chancellor-01-tbmw-facebookJumbo.jpg",
     "pubDate": "2025-12-31T03:00:09+00:00"
-  },
-  {
-    "title": "Asia-Pacific markets fall in year-end trade; investors parse China manufacturing data",
-    "description": "Asia-Pacific markets were poised for modest gains on the holiday-shortened and final trading day of the year.",
-    "link": "https://www.cnbc.com/2025/12/31/asia-pacific-markets-hang-seng-index-nifty-50-csi-300.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108206822-1759376123798-gettyimages-976177846-zb5423_241410_0009.jpeg?v=1759376155&w=1920&h=1080",
-    "pubDate": "2025-12-31T02:44:10+00:00"
-  },
-  {
-    "title": "Disney to pay $10m over alleged breaches of US child privacy laws",
-    "description": "Settlement comes after US Federal Trade Commission accused entertainment giant of unlawfully collecting children's data",
-    "link": "https://www.aljazeera.com/economy/2025/12/31/disney-to-pay-10m-over-alleged-breaches-of-us-child-privacy-laws?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2011-02-08T000000Z_53650815_GM1E7280T0Z01_RTRMADP_3_DISNEY-1767145864_3587a0-1767146349.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2025-12-31T02:42:06+00:00"
   },
   {
     "title": "Mamdani Nominates Top City Lawyer and Deputy Mayor of Health",
@@ -161,20 +231,6 @@
     "pubDate": "2025-12-31T01:15:57+00:00"
   },
   {
-    "title": "UAE to pull forces out of Yemen after calls for withdrawal, Saudi strike",
-    "description": "Move comes after Riyadh accused Abu Dhabi of backing separatists in Yemen, a claim the UAE denies.",
-    "link": "https://www.aljazeera.com/news/2025/12/31/uae-to-pull-forces-out-of-yemen-as-tensions-rise-with-saudi-arabia?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-30T154026Z_679359473_RC22RIAE55MO_RTRMADP_3_YEMEN-SECURITY-1767143360.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-31T01:11:34+00:00"
-  },
-  {
-    "title": "Train crash near Peru’s Machu Picchu kills driver, injures dozens",
-    "description": "Train conductor killed in collision on rail line serving the famed archaeological site, authorities say.",
-    "link": "https://www.aljazeera.com/news/2025/12/31/train-crash-near-perus-machu-picchu-kills-driver-injures-dozens?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-31T002223Z_258794763_RC26RIAZBRAO_RTRMADP_3_PERU-ACCIDENT-TRAIN-1767141270_e0068a-1767141404.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2025-12-31T01:05:23+00:00"
-  },
-  {
     "title": "Khanna calls for nationwide fraud investigation after wealth tax proposal caused firestorm",
     "description": "California Rep. Ro Khanna is navigating a difficult environment as one-time supporters turn on him due to his support of a wealth tax.",
     "link": "https://www.cnbc.com/2025/12/30/ro-khanna-calls-for-fraud-probe-after-california-wealth-tax-firestorm.html",
@@ -199,7 +255,7 @@
     "title": "UK company sends factory with 1,000C furnace into space",
     "description": "A factory in space has been switched on and has reached temperatures of about 1,000C.",
     "link": "https://www.bbc.com/news/articles/c62vx0pgyrgo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79b4/live/a8d36a70-e599-11f0-a8dc-93c15fe68710.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da2/live/9f13a530-e612-11f0-b67b-690eb873de1b.jpg",
     "pubDate": "2025-12-31T00:26:41+00:00"
   },
   {
@@ -236,27 +292,6 @@
     "link": "https://www.bbc.com/news/articles/c39p9gzd1nvo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ee6/live/6dd406d0-e57d-11f0-99b0-ada9be4ed6d1.jpg",
     "pubDate": "2025-12-31T00:03:06+00:00"
-  },
-  {
-    "title": "Is the US economy strong heading into 2026? The picture is complicated",
-    "description": "The world's top economy is growing faster than its peers, but divide between wealthy and poorer Americans is growing.",
-    "link": "https://www.aljazeera.com/news/2025/12/30/is-the-us-economy-strong-heading-into-2026-the-picture-is-complicated?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP24085714406003-1767057909_2d6800-1767074372.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2025-12-30T23:55:14+00:00"
-  },
-  {
-    "title": "Guinea coup leader Mamady Doumbouya wins presidential election",
-    "description": "Doumbouya wins with 86.72 percent of the vote, an absolute majority, four years after he led a military takeover.",
-    "link": "https://www.aljazeera.com/news/2025/12/30/guinea-coup-leader-mamdi-doumbouya-wins-presidential-election?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-28T125845Z_271125445_RC2NPIAEGUF9_RTRMADP_3_GUINEA-ELECTION-1767143518.jpg?resize=1920%2C1440",
-    "pubDate": "2025-12-30T23:34:58+00:00"
-  },
-  {
-    "title": "Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade",
-    "description": "Apple has one more chance to get AI right after its failure in 2025.",
-    "link": "https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108196256-17574384612025-09-09t171736z_980751173_rc2hoga11g2b_rtrmadp_0_apple-event.jpeg?v=1767135523&w=1920&h=1080",
-    "pubDate": "2025-12-30T23:05:48+00:00"
   },
   {
     "title": "Israel to bar 37 aid groups from Gaza",
@@ -304,7 +339,7 @@
     "title": "Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35",
     "description": "She shared her cancer diagnosis in an essay last month, writing that she had less than a year to live.",
     "link": "https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2a0/live/5209b110-e5ba-11f0-b886-23af5d5824af.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed75/live/ae184750-e60f-11f0-b67b-690eb873de1b.jpg",
     "pubDate": "2025-12-30T21:06:24+00:00"
   },
   {
@@ -313,13 +348,6 @@
     "link": "https://www.polygon.com/pokemon-tcg-trading-card-box-tin-meme-trend/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/pokemontin.JPG?w=1200&h=675&fit=crop",
     "pubDate": "2025-12-30T20:15:08+00:00"
-  },
-  {
-    "title": "South Korea delays crypto bill over stablecoin concerns: Report",
-    "description": "The introduction of a stablecoin bill pioneered by South Korean President Lee Jae-myung will reportedly be delayed into 2026 on concerns about issuers.",
-    "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoins-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcwMjUtMjZhYi03YWE2LTlkZmUtOTc2MDg4YzhlOWZjLmpwZw==.jpg",
-    "pubDate": "2025-12-30T19:52:28+00:00"
   },
   {
     "title": "Jujutsu Zero codes for December 2025",
@@ -390,13 +418,6 @@
     "link": "https://www.polygon.com/worst-movies-of-2025-metacritic/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/electric-state.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2025-12-30T17:00:17+00:00"
-  },
-  {
-    "title": "Thieves use drill to steal €30m in German bank heist",
-    "description": "Gelsenkirchen Police say thieves used the \"quiet\" days after Christmas to break into the high street branch.",
-    "link": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/753f/live/909e7470-e5aa-11f0-b84b-6d40b6925787.jpg",
-    "pubDate": "2025-12-30T16:54:32+00:00"
   },
   {
     "title": "Grayscale files for first U.S. Bittensor ETP as decentralized AI gains momentum",
@@ -483,27 +504,6 @@
     "pubDate": "2025-12-30T13:11:22+00:00"
   },
   {
-    "title": "Unleash Protocol hit by $3.9 million exploit with funds routed through Tornado Cash",
-    "description": "The intellectual property platform on Story Protocol lost about $3.9 million after a governance exploit, with stolen funds later routed through Tornado Cash.",
-    "link": "https://www.coindesk.com/business/2025/12/30/unleash-protocol-hit-by-usd3-9-million-exploit-with-funds-routed-through-tornado-cash",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0def2dd62439d45a4e84704644add73b1a01ed9f-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-30T12:09:28+00:00"
-  },
-  {
-    "title": "In 2025, bitcoin showed how spectacularly wrong price forecasts can be",
-    "description": "Analysts aimed high. The market declined to follow.",
-    "link": "https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/ce6e5878a3bba05bcb92f58c5d32dad187180ea3-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-30T12:00:00+00:00"
-  },
-  {
-    "title": "Long-term holders turn net accumulators, easing a major bitcoin headwind",
-    "description": "During this current correction, long term holders have sold over 1 million BTC, the largest sell pressure event from this cohort since 2019.",
-    "link": "https://www.coindesk.com/markets/2025/12/30/long-term-holders-turn-net-accumulators-easing-a-major-bitcoin-headwind",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3eaa3ad9131398ef07a72ec9eecd8528e1596050-1920x968.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2025-12-30T11:25:01+00:00"
-  },
-  {
     "title": "Silent Hill F Has One of Horror's Most Gnarly And Profound Transformations",
     "description": "What do you think of when you think of a woman in pain? There are no tidy universalisms here, but for many of us, even most of us, pain is private and domestic. You could think of a mother shouldering burdens alone while her husband is at work. The father in the waiting room while the mother screams with strangers. A woman going to the doctor about an ache, only for him to tell her to lose weight and deny the problem is even happening. All these things are simple clichés--tropes stolen from life and television. When Silent Hill f conjures a woman's private pain, it is with cutting specificity. In one of the most grisly moments of body horror in video games this year (or ever, really), protagonist Hinako turns into an emblem of her own sorrow, her own compliance, her own screaming rage. Spoilers follow. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/silent-hill-f-has-one-of-horrors-most-gnarly-and-profound-transformations/1100-6537066/?ftag=CAD-01-10abi2f",
@@ -518,11 +518,74 @@
     "pubDate": "2025-12-29T19:47:20+00:00"
   },
   {
-    "title": "Affirm Holdings Stock Sees Relative Strength Rating Climb To 81",
+    "title": "DA Davidson Affirms Buy Rating as Shift4 Payments Inc. (FOUR) Founder Joins NASA",
     "description": "",
-    "link": "https://www.investors.com/news/affirm-holdings-stock-sees-relative-strength-rating-climb-to-81/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2017/05/IRU6.jpg",
-    "pubDate": "2025-12-29T17:31:15+00:00"
+    "link": "https://finance.yahoo.com/news/da-davidson-affirms-buy-rating-193020837.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/JNxqiW5GFWit.K1iAomQow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzg-/https://media.zenfs.com/en/insidermonkey.com/83fb25cb992397193bba2b334a0ebbf1",
+    "pubDate": "2025-12-29T19:30:20+00:00"
+  },
+  {
+    "title": "I’m 60 and want to buy my first home. Is it smart to tap my $2.5M 401(k) now, or should I consider other options first?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/m-60-want-buy-first-193000668.html",
+    "thumbnail": "https://media.zenfs.com/en/moneywise_327/ae18fe0c39d36683e00c177d7403a89c",
+    "pubDate": "2025-12-29T19:30:00+00:00"
+  },
+  {
+    "title": "Alibaba Was the Market’s Favorite Chinese AI Stock in 2025: What’s BABA’s 2026 Forecast?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/alibaba-market-favorite-chinese-ai-192030304.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xfCthZGJQdfw_KXBPmTRyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTA-/https://media.zenfs.com/en/barchart_com_477/5682aa19d3bf8055dcbddc6e0016ed4c",
+    "pubDate": "2025-12-29T19:20:30+00:00"
+  },
+  {
+    "title": "Should You Buy, Sell, or Hold the Top 3 S&amp;P 500 Stocks of 2025?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/buy-sell-hold-top-3-191638973.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7WNnj6a1Vw9pTp3Ux.2i1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950",
+    "pubDate": "2025-12-29T19:16:38+00:00"
+  },
+  {
+    "title": "Retailer Amer Sports Tests Buy Point Amid Triple-Digit Earnings Growth",
+    "description": "",
+    "link": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/amer-stock-as-buy-point/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/12/stock-sports-equipment-adobe.jpg",
+    "pubDate": "2025-12-29T19:11:45+00:00"
+  },
+  {
+    "title": "Here’s What Your Net Worth Should Be Based on Your Salary",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/net-worth-based-salary-210107220.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/5eFRQBdkH3_zMYUUI_ygzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/81334fde898ec5fce6b229127b6be4a3",
+    "pubDate": "2025-12-29T19:11:05+00:00"
+  },
+  {
+    "title": "MicroStrategy Was the Worst Performing Nasdaq-100 Stock in 2025. Should You Buy the Dip?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/microstrategy-worst-performing-nasdaq-100-191028374.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/EMJDvQjmr0l46BBnH1Vtlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDk-/https://media.zenfs.com/en/barchart_com_477/86a3e456408b8f18742b256acbdc8271",
+    "pubDate": "2025-12-29T19:10:28+00:00"
+  },
+  {
+    "title": "The Top-Performing S&amp;P 500 Stock in 2025 Was This 1 Unexpected Company",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/top-performing-p-500-stock-185719859.html",
+    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/a74fe71f49d54d2378c4c210e5af8823",
+    "pubDate": "2025-12-29T18:57:19+00:00"
+  },
+  {
+    "title": "Analyst warns 30% drop for Cathie Wood's favorite stock",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/analyst-warns-30-drop-cathie-185337965.html",
+    "thumbnail": "https://media.zenfs.com/en/thestreet_881/22773f1ce1dc92ded3541294cb098537",
+    "pubDate": "2025-12-29T18:53:37+00:00"
+  },
+  {
+    "title": "Britain's Octopus Energy to spin out Kraken at $8.65 billion valuation",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/uk-octopus-energy-nears-kraken-185254787.html",
+    "thumbnail": "https://media.zenfs.com/en/reuters-finance.com/829d216b8fb67d3ab1992ec5c5df420b",
+    "pubDate": "2025-12-29T18:52:54+00:00"
   },
   {
     "title": "The Best Meal Delivery Services, After Years of Testing (Plus Photos)",
@@ -530,55 +593,6 @@
     "link": "https://www.bonappetit.com/story/best-meal-delivery-services",
     "thumbnail": "https://assets.bonappetit.com/photos/69495d050e2f6a15905bfcba/master/pass/12.18_BA_Best%20Meal%20Delivery%20Services.jpg",
     "pubDate": "2025-12-29T17:29:17+00:00"
-  },
-  {
-    "title": "Sugar Prices Supported by the Outlook for Smaller Sugar Output in Brazil",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/sugar-prices-supported-outlook-smaller-172557232.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/882AdCkcYWUJq37DN7EKtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://media.zenfs.com/en/barchart_com_477/022a93cafde4f37766f1e3fd653e8612",
-    "pubDate": "2025-12-29T17:25:57+00:00"
-  },
-  {
-    "title": "This 1 Cheap Quantum Computing Stock Could Be a Top Buy for 2026",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/1-cheap-quantum-computing-stock-172251654.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/QQ1SHRIvCIq1C4dq_LSYCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDg-/https://media.zenfs.com/en/barchart_com_477/9674efa7d4bfd99d012931d58c531420",
-    "pubDate": "2025-12-29T17:22:51+00:00"
-  },
-  {
-    "title": "Why Barrick Mining Stock Dropped Today",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/why-barrick-mining-stock-dropped-172116039.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ScdzZvKWM3LnuR4uCcqycQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/db7e6147a8ae04b46f6e1f97cef6a170",
-    "pubDate": "2025-12-29T17:21:16+00:00"
-  },
-  {
-    "title": "Low Volatility In Palantir Stock Sets Up This Options Strangle",
-    "description": "",
-    "link": "https://www.investors.com/research/options/palantir-stock-pltr-low-volatility-options-strangle/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2024/11/Stock-palantirlogobuilding-02-shutt.jpg",
-    "pubDate": "2025-12-29T17:12:28+00:00"
-  },
-  {
-    "title": "How Much Higher Will Oat Prices Go in 2026?",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/much-higher-oat-prices-2026-171109778.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/nRoAYbNWoZFCmp_U5ckt3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/barchart_com_477/958e642b05b5bbd93f5e31a5ba2495e2",
-    "pubDate": "2025-12-29T17:11:09+00:00"
-  },
-  {
-    "title": "Will Mortgage Rates Finally Fall in 2026? Here’s What the Latest Forecasts Show",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/mortgage-rates-finally-fall-2026-170923606.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7dRImiMhKlEk94iKwJBdIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/2eca279f1aa20d226b17f5234016e557",
-    "pubDate": "2025-12-29T17:09:23+00:00"
-  },
-  {
-    "title": "Morgan Stanley Names Seagate (STX) Core 2026 Selection as Cloud Capex Spending Gains Momentum",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/morgan-stanley-names-seagate-stx-174654789.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/70waWpbtioDhm7g2VrHZQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a39663feaa39622023da14d113e48398",
-    "pubDate": "2025-12-29T17:03:54+00:00"
   },
   {
     "title": "December Snack Drop: 8 Best New Snacks We Tried This Month",
