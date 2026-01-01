@@ -1,5 +1,12 @@
 [
   {
+    "title": "Dazzling spectacles in London, Edinburgh and across the UK",
+    "description": "Millions around the UK have attended firework displays and street parties to usher in 2026.",
+    "link": "https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab4/live/ba331a40-e6ac-11f0-aae2-2191c0e48a3b.jpg",
+    "pubDate": "2026-01-01T09:45:49+00:00"
+  },
+  {
     "title": "Tether snaps up another 8,888 BTC, now fifth-largest Bitcoin wallet",
     "description": "Tether closed out 2025 with an 8,888 BTC purchase, increasing its disclosed Bitcoin holdings to more than 96,000 BTC.",
     "link": "https://cointelegraph.com/news/tether-buys-another-8-888-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7,11 +14,32 @@
     "pubDate": "2026-01-01T09:40:16+00:00"
   },
   {
+    "title": "Arctic blast to start new year with snow and ice warnings",
+    "description": "Colder weather with snow and ice warnings in force will continue over the next few days.",
+    "link": "https://www.bbc.com/weather/articles/ceqzn5rnz74o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b298/live/6ecffc40-e6ec-11f0-858c-317495da6677.jpg",
+    "pubDate": "2026-01-01T09:27:35+00:00"
+  },
+  {
     "title": "Search for survivors after US military strike on alleged drug convoy",
     "description": "The US says a search is underway for survivors after it bombed what it said was a suspected drug trafficking convoy.",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/1/1/search-for-survivors-after-us-military-strike-on-alleged-drug-convoy?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1767259493.jpg?resize=1920%2C1080&quality=80",
     "pubDate": "2026-01-01T09:25:18+00:00"
+  },
+  {
+    "title": "BBC reports from the scene of Swiss resort bar fire",
+    "description": "The BBC's Silvia Costeloe says the bar where the fire broke out has been around for at least 40 years, and is considered an institution in the area.",
+    "link": "https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988b/live/c2966ea0-e6f5-11f0-aae2-2191c0e48a3b.jpg",
+    "pubDate": "2026-01-01T09:24:11+00:00"
+  },
+  {
+    "title": "UK to 'robustly defend' stripping Begum of citizenship in European court, source says",
+    "description": "The ECHR questions whether it was considered if Shamima Begum was a victim of grooming and trafficking.",
+    "link": "https://www.bbc.com/news/articles/c3wzp693nv3o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/0b0da7c0-e6ec-11f0-a8dc-93c15fe68710.jpg",
+    "pubDate": "2026-01-01T09:01:43+00:00"
   },
   {
     "title": "At least 10 killed in an explosion at Swiss ski resort town",
@@ -112,25 +140,11 @@
     "pubDate": "2026-01-01T07:13:40+00:00"
   },
   {
-    "title": "Dazzling spectacles in London, Edinburgh and across the UK",
-    "description": "Millions around the UK have attended firework displays and street parties to usher in 2026.",
-    "link": "https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab4/live/ba331a40-e6ac-11f0-aae2-2191c0e48a3b.jpg",
-    "pubDate": "2026-01-01T07:05:41+00:00"
-  },
-  {
     "title": "Photos: Zohran Mamdani becomes New York City’s first Muslim mayor",
     "description": "Making history, Mamdani took his oath with his hand placed on a Quran.",
     "link": "https://www.aljazeera.com/gallery/2026/1/1/photos-zohran-mamdani-becomes-new-york-citys-first-muslim-mayor?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26001201604937-1767246989_40a2af-1767248850.jpg?resize=1200%2C630&quality=80",
     "pubDate": "2026-01-01T06:54:33+00:00"
-  },
-  {
-    "title": "Starmer vows to 'defeat decline and division' in new year message",
-    "description": "The PM acknowledges \"things have been tough\" but says 2026 will see \"positive change\".",
-    "link": "https://www.bbc.com/news/articles/c98p5p6rmm2o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5b6/live/0b723b90-e660-11f0-a8f2-d9e8fba7dc3b.png",
-    "pubDate": "2026-01-01T06:43:29+00:00"
   },
   {
     "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
@@ -166,13 +180,6 @@
     "link": "https://cointelegraph.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc4MTItY2I2YS03ZTQ2LTgxNjYtOWRiYTBkYjYxNGI1LmpwZw==.jpg",
     "pubDate": "2026-01-01T05:57:58+00:00"
-  },
-  {
-    "title": "Zelensky says peace deal is 90% ready in New Year address",
-    "description": "Russian President Vladimir Putin used his New Year speech to tell troops that he \"believed in you and our victory\" in Ukraine.",
-    "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/21f57130-e6c3-11f0-a8dc-93c15fe68710.jpg",
-    "pubDate": "2026-01-01T05:22:01+00:00"
   },
   {
     "title": "Crypto forces to compound in 2026, accelerating adoption: Coinbase",
@@ -264,13 +271,6 @@
     "link": "https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6384/live/6ffe6890-e688-11f0-a8dc-93c15fe68710.jpg",
     "pubDate": "2026-01-01T00:17:12+00:00"
-  },
-  {
-    "title": "Some families to be offered immunisations at home in bid to boost vaccine uptake",
-    "description": "The scheme is being tested in some areas of England as part of a government plan to prioritise children's health.",
-    "link": "https://www.bbc.com/news/articles/cn407dyx24go?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f9/live/d0471cf0-e657-11f0-a8f2-d9e8fba7dc3b.jpg",
-    "pubDate": "2026-01-01T00:04:41+00:00"
   },
   {
     "title": "How the 'postcode lottery' of parenting really impacts young children",
