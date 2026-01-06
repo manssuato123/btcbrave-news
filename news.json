@@ -1,10 +1,31 @@
 [
   {
+    "title": "Learner drivers may face mandatory six-month gap between theory and practical tests",
+    "description": "A minimum learning period of up to six months could be introduced for learner drivers",
+    "link": "https://www.bbc.com/news/articles/clym5jvgdepo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f760/live/0f6959a0-eb32-11f0-a422-4ba8a094a8fa.jpg",
+    "pubDate": "2026-01-06T22:45:49+00:00"
+  },
+  {
+    "title": "UK and France to send troops to Ukraine if peace deal agreed",
+    "description": "The announcement was made by UK PM Sir Keir Starmer after a meeting of Ukraine's allies in Paris.",
+    "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bdb/live/2378f8d0-eb35-11f0-b17a-592c1458f962.jpg",
+    "pubDate": "2026-01-06T22:30:55+00:00"
+  },
+  {
     "title": "Health Dept. to Freeze $10 Billion in Funding to 5 Democratic States",
     "description": "The funding pause could jeopardize child care and other programs that serve hundreds of thousands of households in California, Colorado, Illinois, Minnesota and New York.",
     "link": "https://www.nytimes.com/2026/01/06/us/politics/child-care-funding-cuts-trump.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/05/multimedia/05dc-HHS-vmlp/05dc-HHS-vmlp-facebookJumbo.jpg",
     "pubDate": "2026-01-06T22:27:36+00:00"
+  },
+  {
+    "title": "US discussing options to acquire Greenland, including use of military, White House says",
+    "description": "It came as European allies rallied behind Denmark after renewed US insistence it must have Greenland.",
+    "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce80/live/27a37560-eb45-11f0-a422-4ba8a094a8fa.jpg",
+    "pubDate": "2026-01-06T22:16:17+00:00"
   },
   {
     "title": "Trump weighs using U.S. military to acquire Greenland: White House",
@@ -17,7 +38,7 @@
     "title": "Flow details December exploit that led to $3.9M in losses due to counterfeit tokens",
     "description": "A protocol-level flaw allowed assets to be duplicated rather than minted, prompting a network halt and a governance-led recovery process.",
     "link": "https://cointelegraph.com/news/flow-details-december-exploit-3-9m-counterfeit-token-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk1MzctZTEzYS03MDQxLTljM2EtMzI2ODZmNGJkM2I4LmpwZw==.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T22:05:31+00:00"
   },
   {
@@ -45,22 +66,15 @@
     "title": "Bullish for Strategy? MSCI keeps crypto treasury companies in indexes",
     "description": "MSCI announced it will keep digital asset treasury companies in its global indexes, citing investor feedback and the need for further study on non-operating firms.",
     "link": "https://cointelegraph.com/news/msci-keeps-digital-asset-treasury-companies-indexes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk1NDctZWY3NS03NWQ4LWFiZWYtZmRjMGY3NzJmMzAyLmpwZw==.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T21:48:39+00:00"
   },
   {
     "title": "Bitcoin miner using compute heat to supplement Canadian greenhouses",
     "description": "Canaan‘s pilot program will use the miner‘s liquid cooling systems to supplement the power needed to heat intake water for the greenhouses, helping grow tomatoes.",
     "link": "https://cointelegraph.com/news/canaan-computing-heat-canada-greenhouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk0ZTQtZjA1Mi03NmYzLThlN2UtNzllMzE0NmQ1MTllLmpwZw==.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T21:46:48+00:00"
-  },
-  {
-    "title": "US discussing options to acquire Greenland, including use of military, White House says",
-    "description": "In a statement, the White House told the BBC that Trump had made clear that acquiring Greenland was a \"national security priority\".",
-    "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce80/live/27a37560-eb45-11f0-a422-4ba8a094a8fa.jpg",
-    "pubDate": "2026-01-06T21:36:06+00:00"
   },
   {
     "title": "The Joker movie DC didn't want you to see streams for free on Tubi this month",
@@ -115,7 +129,7 @@
     "title": "Jupiter launches JupUSD stablecoin backed by BlackRock’s BUIDL fund",
     "description": "The Solana-native token is backed by USDtb and USDC and is designed to serve as a settlement asset across Jupiter’s DeFi stack.",
     "link": "https://cointelegraph.com/news/jupiter-jupusd-stablecoin-onchain-settlement-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk0ZjEtZjIyMC03OTk1LWFmNzItMDQyZDhkZmRiMDE2LmpwZw==.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T21:08:15+00:00"
   },
   {
@@ -124,13 +138,6 @@
     "link": "https://www.nytimes.com/2026/01/06/us/politics/doug-lamalfa-house-republican-majority.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/06/multimedia/06dc-house-qgtf/06dc-house-qgtf-facebookJumbo.jpg",
     "pubDate": "2026-01-06T21:03:49+00:00"
-  },
-  {
-    "title": "UK and France to send troops to Ukraine if peace deal agreed",
-    "description": "The announcement was made by UK PM Sir Keir Starmer after a meeting of Ukraine's allies in Paris.",
-    "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bdb/live/2378f8d0-eb35-11f0-b17a-592c1458f962.jpg",
-    "pubDate": "2026-01-06T21:02:58+00:00"
   },
   {
     "title": "Georgia Schedules Special Election for Marjorie Taylor Greene’s Seat",
@@ -192,7 +199,7 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T20:33:30+00:00"
   },
   {
@@ -206,7 +213,7 @@
     "title": "CoD: Black Ops 7 And Warzone Season 1 Reloaded Release Date And Details",
     "description": "Season 1 Reloaded arrives in Call of Duty: Black Ops 7 and Warzone this week, and Activision has already revealed many details for this midseason update. Season 1 Reloaded includes more weapons to unlock, additional maps for multiplayer, and a crossover with the Fallout TV show. Call of Duty Season 1 Reloaded start times The Season 1 Reloaded update arrives to Black Ops 7 and Warzone on January 8. Call of Duty's updates usually go live at 9 AM PT / 12 PM ET / 5 PM BST across all platforms. Season 1 Reloaded's Fallout collab Call of Duty has teased a crossover with Amazon Prime Video's Fallout TV show, which seemingly includes operator skins for Lucy, The Ghoul, and Maximus. Call of Duty's big IP collaborations are also usually paired with in-game events for players to participate in. However, it's uncertain if these Fallout skins will be included in an event pass or as shop bundles for purchase. Notably, both Fallout and Call of Duty are owned by Microsoft. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/cod-black-ops-7-and-warzone-season-1-reloaded-release-date-and-details/1100-6537221/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4630784-bo7season1promo.jpeg",
+    "thumbnail": "https://www.gamespot.com/a/uploads/original/1639/16394540/4630784-bo7season1promo.jpeg",
     "pubDate": "2026-01-06T20:30:00+00:00"
   },
   {
@@ -255,14 +262,14 @@
     "title": "Brian Quintenz joins SUI Group board after CFTC nomination pulled",
     "description": "The former CFTC commissioner and Donald Trump’s first pick to chair the agency will join investment company SUI Group's board and support the company’s treasury strategy.",
     "link": "https://cointelegraph.com/news/brian-quintenz-cftc-sui-group-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk0M2YtNTY4NC03Yjk5LThmMTYtMTU1MDk5NGM5YzFmLmpwZw==.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T20:06:06+00:00"
   },
   {
-    "title": "Bitcoin liquidation data point to ‘absurd’ potential rally to $100K: Analyst",
-    "description": "Bitcoin’s liquidation map is still heavily biased toward a downside liquidity sweet, but a swift rally to $100,000 could quickly turn the tables in the bulls’ favor.",
+    "title": "Bitcoin liquidation data points to ‘absurd’ potential rally to $100K: Analyst",
+    "description": "Bitcoin’s liquidation map is still heavily biased toward downside liquidity, but a swift rally to $100,000 could quickly turn the tables in the bulls’ favor.",
     "link": "https://cointelegraph.com/news/bitcoin-liquidation-data-point-to-absurd-potential-rally-to-dollar100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjkzYzgtMzI1MS03YWE4LWE1ODItMWIxMzExYWViMmZkLmpwZw==.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T20:00:00+00:00"
   },
   {
@@ -346,14 +353,14 @@
     "title": "Animal Crossing Island Transfer Tool: How To Move Your New Horizons Saves To Switch 2",
     "description": "Animal Crossing: New Horizons made a huge impact on the world of cozy gaming back in 2020, and it's about to make a big resurgence. With the game now available on both the original Switch and the Switch 2 (with an even more upgraded Switch 2 Edition landing January 15), Nintendo's flagship cozy game is back. Whether you've been playing consistently since launch, or want to dive back in and see what your villagers have been up to over the past few years, you may be looking to make your grand entrance on a shiny new Switch 2. Doing so, though, will require you to first move your island to Nintendo's newest console. Here's how to do so using the Animal Crossing island transfer tool. Table of Contents [hide]How to transfer your Animal Crossing: New Horizons island to Switch 2 How to transfer your Animal Crossing: New Horizons island to Switch 2 When setting up your Switch 2 for the first time, you can use the onboard system transfer to move most of your save files to your new console, but New Horizons is an exception that requires a special process. For New Horizons, you'll need the island transfer tool, which is a free download in the Nintendo eShop. You'll also need the Switch console that your island save data was previously on. The Island Transfer Tool is required to move your save file to a Switch 2.To get started transferring your Animal Crossing: New Horizons island, you'll have to head to the eShop and download the Animal Crossing Island Transfer Tool on your Switch and Switch 2. When the transfer tool has been downloaded on both consoles, you'll be able to begin. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/animal-crossing-island-transfer-tool-how-to-move-your-new-horizons-saves-to-switch-2/1100-6537193/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/679/6794662/4629795-screenshot2026-01-05161038.png",
+    "thumbnail": "https://www.gamespot.com/a/uploads/scale_super/679/6794662/4629801-screenshot2026-01-05161622.png",
     "pubDate": "2026-01-06T19:15:00+00:00"
   },
   {
     "title": "US crypto market structure bill could be delayed until 2027: Report",
     "description": "The midterm elections in November could cause some Senate Democrats to withhold support for the Responsible Financial Innovation Act due to conflict of interest concerns.",
     "link": "https://cointelegraph.com/news/us-crypto-market-structure-bill-delayed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk0MjItMmQxYy03YTMxLTk0M2YtM2Y5MDExMjFiOWM0LmpwZw==.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T19:09:27+00:00"
   },
   {
@@ -367,7 +374,7 @@
     "title": "Recently Released 4K Blu-Rays Are 3 For $33 At Amazon",
     "description": "Amazon 4K Blu-ray Sale: 3 Movies for $33 Ends January 19 Browse sale at Amazon One of Amazon's best 4K Blu-ray promotions has returned. Over 100 popular 4K Blu-rays are available for $11 each when you buy three. This is Amazon's first 3 for $33 movie sale since last April, so physical media enthusiasts should take advantage of this awesome offer while they can. The catalog of eligible 4K Blu-rays features some of the most popular movies of 2025, including Weapons, F1 The Movie, Superman, Sinners, and Jurassic World Rebirth. Amazon's 3 for $33 movie sale runs through January 19. The retailer often adds movies to these types of promotions while it's running, so it's worth checking back to see if there's anything new you want. Amazon also tends to remove movies from its 4K Blu-ray sales, so if you see a movie you want, grab it while you can. Newer movies and all-time classics frequently sell out during 3 for $33 promotions. Notable Recent Releases in 3 for $33 4K Blu-ray Sale If you're specifically eyeing recent releases, we've included a small list below featuring 2025 hits as well as older movies like Boogie Nights and Meet the Parents that finally received 4K Blu-ray editions in recent months. But you'll definitely want to check out the longer, alphabetized list below this one, as Amazon's sale includes so many great movies. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/amazon-4k-blu-ray-sale-three-movies-for-33-january-2026/1100-6537208/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4630579-blurays-1.jpg",
+    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4630596-amazonblu-raymodule.png",
     "pubDate": "2026-01-06T19:02:00+00:00"
   },
   {
@@ -378,17 +385,10 @@
     "pubDate": "2026-01-06T19:01:01+00:00"
   },
   {
-    "title": "Learner drivers may face mandatory six-month gap between theory and practical tests",
-    "description": "A minimum learning period of up to six months could be introduced for learner drivers",
-    "link": "https://www.bbc.com/news/articles/clym5jvgdepo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f760/live/0f6959a0-eb32-11f0-a422-4ba8a094a8fa.jpg",
-    "pubDate": "2026-01-06T19:00:04+00:00"
-  },
-  {
     "title": "ETH price taps $3.3K: Here’s what must happen for another 20% rally",
     "description": "ETH’s price chart shows a confirmed double bottom pattern with a $3,900 price target. Here are the necessary factors to make it happen.",
     "link": "https://cointelegraph.com/news/eth-price-taps-dollar3-3k-here-s-what-must-happen-for-a-20percent-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0OWYtYjdjZC03ZDFlLThjZjctYjE4Y2QzYTA4Zjdj.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T19:00:00+00:00"
   },
   {
@@ -451,7 +451,7 @@
     "title": "‘Like sats for Bitcoin’: Tether creates tiny gold unit as onchain demand grows",
     "description": "The stablecoin issuer says its Scudo unit could make gold easier to transact digitally as prices surge and institutional demand accelerates.",
     "link": "https://cointelegraph.com/news/tether-scudo-fractional-gold-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk0NDgtZWY0My03NTg3LThmMDUtYWVhZjQ5ZTFlNzExLmpwZw==.jpg",
+    "thumbnail": "",
     "pubDate": "2026-01-06T18:18:44+00:00"
   },
   {
@@ -462,7 +462,7 @@
     "pubDate": "2026-01-06T18:16:50+00:00"
   },
   {
-    "title": "Why crypto’s new token issuances are falling flat and what comes next",
+    "title": "Most new crypto tokens lost over 70% in 2025. Here is what comes next",
     "description": "New crypto tokens overwhelmingly lost value in 2025 as early liquidity, weak utility and misaligned distribution collided with a risk-averse market.",
     "link": "https://www.coindesk.com/business/2026/01/06/why-crypto-s-new-token-issues-are-falling-flat-and-what-comes-next",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/643ca4968ccec7179207f85a63cac33f3de38a55-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
