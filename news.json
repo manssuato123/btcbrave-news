@@ -1,31 +1,101 @@
 [
   {
+    "title": "Binance expands into precious metals with gold, silver futures settled in USDT",
+    "description": "Binance launched gold and silver perpetual futures settled in USDT, expanding onchain access to traditional safe-haven assets amid increasing metals demand.",
+    "link": "https://cointelegraph.com/news/binance-gold-silver-perps-usdt-tradfi-settlement-layer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9d52-476b-79aa-ab26-197f2742c527.jpg",
+    "pubDate": "2026-01-08T12:32:48+00:00"
+  },
+  {
+    "title": "Banks must upgrade their blockchain infrastructure",
+    "description": "Banks risk falling behind if they cling to private blockchains. Upgrading to public, permissioned layer-2 infrastructure with ZK-proofs is essential for modern finance.",
+    "link": "https://cointelegraph.com/news/banks-blockchain-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-04/01961a57-9038-7bae-a446-c777db3f2aa0",
+    "pubDate": "2026-01-08T12:30:00+00:00"
+  },
+  {
+    "title": "Jim Cramer on Paypal: “The Company’s Been Late to New Technologies”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-paypal-company-technologies-122033426.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/l4uqtsP1vU0sP78jqq0Xgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTI-/https://media.zenfs.com/en/insidermonkey.com/900d23266debc5121e86fbb7c26b7b2d",
+    "pubDate": "2026-01-08T12:20:33+00:00"
+  },
+  {
+    "title": "Jim Cramer on Copart: “Too Soon to Stick Your Neck Out”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-copart-too-soon-122032771.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/A9WhbzFEwtYXjLH.c3BYAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/92264ef32b70332cc4ea9283d978e1a6",
+    "pubDate": "2026-01-08T12:20:32+00:00"
+  },
+  {
+    "title": "Jim Cramer on Charter Communications: “Tough to Be a Cable Company in These Days”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-charter-communications-tough-122030171.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2mWx2FJR9eEBT.wywumkpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/293138d34069d99e680c827f55215206",
+    "pubDate": "2026-01-08T12:20:30+00:00"
+  },
+  {
+    "title": "Jim Cramer Says “Strategy Has Become Nothing More Than a Leveraged Bet on Bitcoin”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-says-strategy-become-122029772.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/6toLTN_FLBF7V8NYebGtcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/6ab22d733a45c5a8d260cae0e56984a4",
+    "pubDate": "2026-01-08T12:20:29+00:00"
+  },
+  {
+    "title": "Jin Cramer on Intel: “I Am Confident It Is Indeed Headed in the Right Direction”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jin-cramer-intel-am-confident-122027072.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/1sS3qwdhFI2hAA5BK6eLkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/32bc1930e519905785530773f71428cd",
+    "pubDate": "2026-01-08T12:20:27+00:00"
+  },
+  {
+    "title": "Jim Cramer Says “You Have to Expect Companies Like KLA to Keep Racking Up Big Orders” At This Point",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-says-expect-companies-122026724.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/kHYpzH58CxZP3vxp10BOag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjE-/https://media.zenfs.com/en/insidermonkey.com/04816330227784e99fa139754a436e25",
+    "pubDate": "2026-01-08T12:20:26+00:00"
+  },
+  {
+    "title": "Jim Cramer Says He “Can’t Name a Single Competitor to AppLovin”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-says-t-name-122024324.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/yOZMKK_HUPFXyT7LvGumkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
+    "pubDate": "2026-01-08T12:20:24+00:00"
+  },
+  {
+    "title": "Jim Cramer on Palantir: “I See No Reason to Back Away From It Now”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-palantir-see-no-122022600.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/_alTJz2_M_71ZTQTCSjwAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/e7ce02738b547dc513a8196cdef40274",
+    "pubDate": "2026-01-08T12:20:22+00:00"
+  },
+  {
+    "title": "Jim Cramer on Insmed: “This One Is Worth Keeping an Eye On”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-insmed-one-worth-122020473.html",
+    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/7b1d6a1350c79cef49b9cb2889204dd6",
+    "pubDate": "2026-01-08T12:20:20+00:00"
+  },
+  {
+    "title": "Memecoins, DeFi lead declines as caution seeps in: Crypto Daybook Americas",
+    "description": "Your day-ahead look for Jan. 8, 2026",
+    "link": "https://www.coindesk.com/daybook-us/2026/01/08/memecoins-defi-lead-declines-as-caution-seeps-in-crypto-daybook-americas",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/830004674b41f7c000f3d0a2bc20b4315ccaf026-4980x3984.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-01-08T12:15:00+00:00"
+  },
+  {
+    "title": "October's crypto crash left market makers stuffed with coins, slowing trading: BitMEX",
+    "description": "BitMEX's annual report details the impact of the Oct crash on market liquidity, basis trades and other key issues.",
+    "link": "https://www.coindesk.com/markets/2026/01/08/october-s-crypto-crash-left-market-makers-stuffed-with-coins-slowing-trading-bitmex",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4cc11897015cae26afdaf06d7f42447d29cb108a-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-01-08T11:47:00+00:00"
+  },
+  {
     "title": "BNB treasury strategy sparks governance battle at CEA Industries",
     "description": "YZi accused CEA of mismanagement and poor communication, and is seeking changes to the board, disclosure of treasury holdings, and more.",
     "link": "https://www.coindesk.com/business/2026/01/08/bnb-treasury-strategy-sparks-governance-battle-at-cea-industries",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9df976d27f0332903bb0185434418359eaa02ef1-1920x1080.jpg?auto=format",
     "pubDate": "2026-01-08T11:44:53+00:00"
-  },
-  {
-    "title": "Man admits knife attack on soldier near barracks",
-    "description": "Anthony Esan pleads guilty to the attempted murder of Lt Col Mark Teeton in Kent in July 2024.",
-    "link": "https://www.bbc.com/news/articles/c20xp6pgp43o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a2f/live/2d9a4720-cb90-11f0-8b24-8191145688b1.jpg",
-    "pubDate": "2026-01-08T11:39:29+00:00"
-  },
-  {
-    "title": "Colombia’s President Feared a U.S. Attack. Then Trump Called.",
-    "description": "The conversation appeared to defuse a crisis that erupted after President Trump said military action against Colombia “sounds good.” President Gustavo Petro spoke to The New York Times just before the call.",
-    "link": "https://www.nytimes.com/2026/01/08/world/americas/colombia-petro-trump-venezuela.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08int-colombia-us-top-wltb/08int-colombia-us-top-wltb-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T11:32:37+00:00"
-  },
-  {
-    "title": "Two rapists among 130 Met officers and staff not properly vetted, review finds",
-    "description": "David Carrick and Cliff Mitchell were among 131 Met staff who were not vetted properly, a report finds.",
-    "link": "https://www.bbc.com/news/articles/cn9z3qrvr3wo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548a/live/bd14aa90-e21a-11ef-a6f3-25c1992afaf0.jpg",
-    "pubDate": "2026-01-08T11:31:45+00:00"
   },
   {
     "title": "Bitcoin falls to $90,000 as altcoins slide in thin trading: Crypto Markets Today",
@@ -42,25 +112,11 @@
     "pubDate": "2026-01-08T11:24:53+00:00"
   },
   {
-    "title": "Flu bouncing back after Christmas mixing, says NHS",
-    "description": "Cases up after two weeks of decline, as hospitals report rise in slips and falls because of cold snap.",
-    "link": "https://www.bbc.com/news/articles/c9qp47ze35do?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa0/live/d61063a0-ec81-11f0-9e8f-711b96aa17e7.jpg",
-    "pubDate": "2026-01-08T11:14:50+00:00"
-  },
-  {
     "title": "Bybit’s Private Wealth Management delivered 20% returns amid a challenging 2025",
     "description": "Bybit’s top performing fund saw returns of 20.3% APR driven by the exchange’s flagship high-yield USDT-based strategies.",
     "link": "https://www.coindesk.com/business/2026/01/08/bybit-s-private-wealth-management-service-delivered-20-returns-despite-challenging-2025",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/97259b52913c01f0f92ca9e86b46b516e92b5cbd-1920x1080.jpg?auto=format",
     "pubDate": "2026-01-08T11:06:57+00:00"
-  },
-  {
-    "title": "Trump says US role in Venezuela could last for years",
-    "description": "Venezuela’s interior minister says US operation to abduct Maduro killed 100 people and wounded dozens.",
-    "link": "https://www.aljazeera.com/news/2026/1/8/trump-says-us-could-run-venezuela-for-years-report?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26007745616519-1767865040.jpg?resize=1200%2C675",
-    "pubDate": "2026-01-08T11:05:37+00:00"
   },
   {
     "title": "Zcash developer team behind ECC quits after governance clash with Bootstrap board",
@@ -70,227 +126,52 @@
     "pubDate": "2026-01-08T11:03:29+00:00"
   },
   {
-    "title": "The Latest on the ICE Killing in Minneapolis, and a Shadow Fleet of Oil Tankers",
-    "description": "Plus, President Trump sits down with The Times.",
-    "link": "https://www.nytimes.com/2026/01/08/podcasts/the-headlines/ice-minneapolis-oil-tanker.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08theheadlines-shooting-thpq/08theheadlines-shooting-thpq-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T11:00:09+00:00"
-  },
-  {
-    "title": "Why Russia hasn't reacted to Trump's Greenland takeover bid",
-    "description": "The Kremlin has not commented on Trump's Greenland ambitions, with analysts saying they serve a bigger purpose for Moscow.",
-    "link": "https://www.cnbc.com/2026/01/08/russia-moscow-reaction-trump-greenland-takeover-ambitions.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107115225-1662618394847-gettyimages-660180102-AFP_N36Y9.jpeg?v=1697183803&w=1920&h=1080",
-    "pubDate": "2026-01-08T11:00:01+00:00"
-  },
-  {
-    "title": "US arms sales to Taiwan threaten peace in the Taiwan Strait",
-    "description": "Washington’s actions violate the one-China principle and undermine regional stability.",
-    "link": "https://www.aljazeera.com/opinions/2026/1/8/us-arms-sales-to-taiwan-threaten-peace-in-the-taiwan-strait?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/s2-1767867121.jpg?resize=1920%2C1440",
-    "pubDate": "2026-01-08T10:30:09+00:00"
-  },
-  {
-    "title": "Which are the 66 global organisations the US is leaving under Trump?",
-    "description": "The significant changes will lead the US to withdraw from key forums focused on climate change, peace and democracy.",
-    "link": "https://www.aljazeera.com/news/2026/1/8/which-are-the-66-global-organisations-the-us-is-leaving-under-trump?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/01/2025-01-21T120038Z_1165258363_RC20ECAZ0DF7_RTRMADP_3_USA-TRUMP-CLIMATE-1737554453.jpg?resize=1920%2C1440",
-    "pubDate": "2026-01-08T10:30:08+00:00"
-  },
-  {
-    "title": "Top Somaliland official defends Israel ties amid Arab backlash",
-    "description": "Somaliland official defends Israel ties, telling Al Jazeera the region had \"no choice\" after years of isolation.",
-    "link": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/605627880_1436294051395565_8384776032530269505_n-1767865102.jpg?resize=1200%2C630",
-    "pubDate": "2026-01-08T10:28:15+00:00"
-  },
-  {
-    "title": "How oil once made Venezuela rich, but not its people",
-    "description": "Venezuela has the largest oil reserves in the world, but some of the people there earn less than $4 a month.",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/8/how-oil-once-made-venezuela-rich-but-not-its-people?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/H_16x9-1767867763.png?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-01-08T10:23:21+00:00"
-  },
-  {
-    "title": "Trump Says U.S. Oversight of Venezuela Could Last for Years",
-    "description": "In a wide-ranging interview with The New York Times on Wednesday, President Trump said “only time will tell” when it comes to how long the United States aims to control the country.",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/07/multimedia/07dc-prexy-venezuela-gmqv/07dc-prexy-venezuela-gmqv-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T10:23:03+00:00"
-  },
-  {
     "title": "Bitcoin price may bottom at $88K next cycle if last CME gap stays open",
     "description": "Bitcoin filled one of two new futures gaps with a trip below $90,000 as analysis predicted a potential bottom level for the next BTC price cycle.",
     "link": "https://cointelegraph.com/news/bitcoin-price-bottom-88k-next-cycle-last-cme-gap-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjljZjMtYzdiZi03N2MxLTk5ZTgtMjE1ODFkMTYyNmI1LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9cf3-c7bf-77c1-99e8-21581d1626b5.jpg",
     "pubDate": "2026-01-08T10:20:25+00:00"
-  },
-  {
-    "title": "Trump's team races to come up with a Greenland takeover plan — here's what's at stake",
-    "description": "U.S. Secretary of State Marco Rubio says that he intends to convene with Danish officials next week to discuss Greenland.",
-    "link": "https://www.cnbc.com/2026/01/08/greenland-trump-takeover-bid-denmark-what-happens-next.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108249305-1767794064415-gettyimages-2207352820-ln2_6259_d3b7n8gh.jpeg?v=1767871503&w=1920&h=1080",
-    "pubDate": "2026-01-08T10:20:25+00:00"
-  },
-  {
-    "title": "Australia to launch anti-Semitism inquiry after Bondi shooting",
-    "description": "Australian Prime Minister Anthony Albanese announced a royal commission into anti-Semitism and social cohesion.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/8/australia-to-launch-anti-semitism-inquiry-after-bondi-shooting?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1767867193.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-01-08T10:13:32+00:00"
-  },
-  {
-    "title": "Defense stocks surge after Trump calls for $1.5 trillion military budget in 2027",
-    "description": "U.S. defense stocks rallied in pre-market moves, following their European counterparts.",
-    "link": "https://www.cnbc.com/2026/01/08/defense-stocks-trump-military-spending-europe-us.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108205774-1759245692875-gettyimages-2237900540-AFP_779Z4XK.jpeg?v=1759245710&w=1920&h=1080",
-    "pubDate": "2026-01-08T10:06:35+00:00"
-  },
-  {
-    "title": "Push to Audit Private Equity and Venture Capital Falters Under Trump",
-    "description": "Specialists have left the I.R.S. and audits have been abandoned since the president returned to office.",
-    "link": "https://www.nytimes.com/2026/01/08/business/irs-private-equity-venture-capital-audits.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/09/business/00trump-killaudits/00trump-killaudits-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T10:00:37+00:00"
-  },
-  {
-    "title": "The Smithsonian Faces New Pressure to Submit to Trump’s Will",
-    "description": "The institution, long regarded as independent, is facing a White House deadline to hand over records about its content and will see turnover that could reshape its governing board.",
-    "link": "https://www.nytimes.com/2026/01/08/arts/design/smithsonian-trump-pressure.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08cul-smithsonian-pressure-03-kwbf/08cul-smithsonian-pressure-03-kwbf-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T10:00:33+00:00"
-  },
-  {
-    "title": "Real estate agents say the housing market is starting to balance out",
-    "description": "The latest housing survey shows agents slightly more optimistic about the new year, and shows a previously strong buyer's market becoming more balanced.",
-    "link": "https://www.cnbc.com/2026/01/08/cnbc-housing-market-survey-agents-balance-out.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108149344-1747921455208-gettyimages-2213490607-DC_REAL_ESTATE.jpeg?v=1767800198&w=1920&h=1080",
-    "pubDate": "2026-01-08T10:00:01+00:00"
   },
   {
     "title": "CZ-backed YZi Labs escalates fight over CEA’s ‘poison pill’ and BNB treasury strategy",
     "description": "YZi Labs is challenging CEA Industries’ newly adopted poison pill and bylaw changes, accusing the board of entrenchment and misrepresenting its commitment to a BNB treasury.",
     "link": "https://cointelegraph.com/news/yzi-labs-escalates-fight-over-cea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjljYzgtZDFhYi03OTNhLWFlMTUtYWY5MGIyYjhiMDZkLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9cc8-d1ab-793a-ae15-af90b2b8b06d.jpg",
     "pubDate": "2026-01-08T09:52:22+00:00"
-  },
-  {
-    "title": "Palestine Action hunger strikers near death ‘intent’ on continuing protests",
-    "description": "Prisoners remaining on rolling hunger strike are suffering with dangerous symptoms, loved ones and a doctor say.",
-    "link": "https://www.aljazeera.com/news/2026/1/8/palestine-action-hunger-strikers-near-death-intent-on-continuing-protests?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/s1-1767861597.jpg?resize=1200%2C630",
-    "pubDate": "2026-01-08T09:49:29+00:00"
-  },
-  {
-    "title": "Lebanon army says phase one of disarming non-state groups in south complete",
-    "description": "Statement says army established state monopoly on arms in an 'effective and tangible way', without mentioning Hezbollah.",
-    "link": "https://www.aljazeera.com/news/2026/1/8/lebanons-army-says-phase-one-of-hezbollah-disarmament-in-south-completed?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/2025-12-19T123211Z_1016584993_RC2M5IA0QN5A_RTRMADP_3_ISRAEL-LEBANON-TRUCE-1767857065.jpg?resize=1920%2C1440",
-    "pubDate": "2026-01-08T09:45:08+00:00"
   },
   {
     "title": "BitMine buys $105M Ether to kick off 2026, still holds $915M in cash",
     "description": "The largest corporate ETH holder started 2026 with a $105 million Ether purchase, while surpassing $2.87 billion in staked Ether, seeking to generate passive yield on its holdings.",
     "link": "https://cointelegraph.com/news/bitmine-buys-105m-eth-2026-915m-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjljYjMtZmQ1OC03MzRkLWI5ZmQtYTRhZjViYWIxMzQwLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9cb3-fd58-734d-b9fd-a4af5bab1340.jpg",
     "pubDate": "2026-01-08T09:27:30+00:00"
-  },
-  {
-    "title": "Iran’s commercial hubs became flashpoints for frustration",
-    "description": "Protests in Iran are predominantly driven by mounting economic pressure and desperation amid the economic crisis.",
-    "link": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_695d6f298ec68-1767730985.jpg?resize=1920%2C1440",
-    "pubDate": "2026-01-08T09:23:40+00:00"
-  },
-  {
-    "title": "Sabalenka hits out at tennis chiefs over ‘insane’ tournament scheduling",
-    "description": "The world No 1 expects to ‌skip events again this year and face likely sanctions rather than put her health at risk.",
-    "link": "https://www.aljazeera.com/sports/2026/1/8/sabalenka-hits-out-at-tennis-chiefs-over-insane-tournament-scheduling?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20260106__89QD2CV__v1__MidRes__TennisAusWtaAtp-1767861746.jpg?resize=1200%2C630",
-    "pubDate": "2026-01-08T09:15:53+00:00"
-  },
-  {
-    "title": "Trump Sits Down With Times Reporters for Two-Hour Interview",
-    "description": "In a wide-ranging conversation with four Times reporters, President Trump talked about the Minneapolis ICE shooting, immigration, Venezuela and even his plans for further White House renovations.",
-    "link": "https://www.nytimes.com/2026/01/08/us/trump-new-york-times-reporter-interview.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08dc-trump-interview-mbwz/08dc-trump-interview-mbwz-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T08:42:39+00:00"
   },
   {
     "title": "India tax authorities warn crypto undermines tax enforcement",
     "description": "Officials told a parliamentary panel that private wallets, offshore exchanges and cross-border DeFi activity make tracking taxable crypto income difficult.",
     "link": "https://cointelegraph.com/news/india-crypto-risks-taxes-regulatory-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjljODktMzYzMi03OGYyLWFkMTEtYjk5OTI1NTE5OTY4LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9c89-3632-78f2-ad11-b99925519968.jpg",
     "pubDate": "2026-01-08T08:40:37+00:00"
   },
   {
     "title": "XRP ETFs notch first outflows as nearly $600M exits Bitcoin, Ether funds",
     "description": "XRP ETFs logged their first net outflow day since launch, breaking a multi-week inflow streak after more than $1 billion poured into the funds.",
     "link": "https://cointelegraph.com/news/xrp-etfs-first-outflow-day-crypto-etf-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjljNjMtZjdjNS03NTE1LWEzOGQtOWNhMWI5YjNlOWEzLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9c63-f7c5-7515-a38d-9ca1b9b3e9a3.jpg",
     "pubDate": "2026-01-08T08:32:39+00:00"
-  },
-  {
-    "title": "Venezuela says 100 killed in U.S. military operation that captured Maduro",
-    "description": "The U.S. military operation dubbed \"Absolute Resolve\" had seven U.S. troops injured during the capture of Nicolás Maduro and his wife.",
-    "link": "https://www.cnbc.com/2026/01/07/us-venezuela-military-operation-maduro-injuries-casualties.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108249177-1767767224269-gettyimages-2254194774-maduro_010526xny_27.jpeg?v=1767767237&w=1920&h=1080",
-    "pubDate": "2026-01-08T08:18:26+00:00"
-  },
-  {
-    "title": "Leeds and Wales legend Terry Yorath dies aged 75",
-    "description": "Terry Yorath, who won the league title with Leeds in 1974 and came close to guiding Wales to the 1994 World Cup finals, dies at the age of 75.",
-    "link": "https://www.bbc.com/sport/football/articles/ce8e5rg2dyxo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c72c/live/1aec67e0-ec68-11f0-9ce3-0774ae46fe08.jpg",
-    "pubDate": "2026-01-08T08:16:48+00:00"
-  },
-  {
-    "title": "We Pressed Trump on His Conclusion About the ICE Shooting in Minneapolis. Here’s What He Said.",
-    "description": "The exchange was a glimpse into the president’s reflexive defense of his federal crackdown on immigration.",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-minnesota-ice-shooting-video.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08dc-trump-minnesota-bwfl/08dc-trump-minnesota-bwfl-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T07:59:45+00:00"
-  },
-  {
-    "title": "Silo Series Collector's Edition Books On Sale For Over 60% Off",
-    "description": "Wool Deluxe Collector's Edition: Silo Series 1 $15.19 (was $40) See at Amazon Shift Deluxe Collector's Edition: Silo Series 2 $20 (was $40) See at Amazon Science fiction readers and fans of the Apple TV+ dystopian series Silo can pick up beautiful collectible editions of Hugh Howey's best-selling novels for cheap right now. The Deluxe Collector's Editions of the first two books in the author's Silo series are available for at least 50% off. Wool Deluxe Collector's Edition is discounted to only $15.19 (was $40), and Shift Deluxe Collector's Edition is down to $20 (was $40). Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/silo-series-apple-tv-hugh-howey-wool-deluxe-collector-edition-books/1100-6534893/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4348035-71kgbokj-pl._sl1500.jpg",
-    "pubDate": "2026-01-08T07:42:00+00:00"
-  },
-  {
-    "title": "The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000",
-    "description": "Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.",
-    "link": "https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108173571-1752780423132-gettyimages-2225439726-img_8852.jpeg?v=1767782314&w=1920&h=1080",
-    "pubDate": "2026-01-08T07:14:33+00:00"
-  },
-  {
-    "title": "Minnesota’s Dispute With Trump Administration Boils Over After ICE Shooting",
-    "description": "The contradicting accounts of the ICE shooting in Minneapolis from the federal government and officials in Minnesota were the latest episode in a dispute that has been building for weeks.",
-    "link": "https://www.nytimes.com/2026/01/07/us/minnesota-shooting-trump-walz-frey.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/07/multimedia/07minn-shooting-war-of-words-cov-cfvh/07minn-shooting-war-of-words-cov-cfvh-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T06:43:53+00:00"
   },
   {
     "title": "Morgan Stanley’s Bitcoin ETF could offer strategic value beyond inflows, analysts say",
     "description": "Analysts say the bank’s late entry into spot Bitcoin ETFs may still carry reputational and strategic upside across its brokerage and crypto ambitions.",
     "link": "https://cointelegraph.com/news/bitcoin-etf-morgan-stanley-flows-reputational-procap-jeff-park?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU0MjgtYjNjYS03OGYwLWFlNzAtNzY4YWZjMDQ3Mzk1LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b5428-b3ca-78f0-ae70-768afc047395.jpg",
     "pubDate": "2026-01-08T06:06:47+00:00"
-  },
-  {
-    "title": "Andrew was paid millions for mansion by oligarch linked to bribery scheme",
-    "description": "Firm which part-funded Sunninghill Park purchase received \"allegedly corrupt\" payments, court documents say.",
-    "link": "https://www.bbc.com/news/articles/c8d09qd6zn2o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619a/live/89043960-eb28-11f0-b5f7-49f0357294ff.png",
-    "pubDate": "2026-01-08T06:03:24+00:00"
   },
   {
     "title": "Zcash devs split from Electric Coin Company, plan to create new firm",
     "description": "Electric Coin Company CEO Josh Swihart says the firm's entire team left and will start a new company over disagreements with the nonprofit board that supports Zcash.",
     "link": "https://cointelegraph.com/news/zcash-devs-split-from-electric-coin-company-plan-to-create-new-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjliZTgtNWY5Ni03NTA0LWFhNzMtY2U0YTI5NDI0YzRlLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9be8-5f96-7504-aa73-ce4a29424c4e.jpg",
     "pubDate": "2026-01-08T06:00:02+00:00"
   },
   {
@@ -304,15 +185,8 @@
     "title": "AI giant Anthropic raising $10B at $350B valuation: Report",
     "description": "Claude maker Anthropic is aiming to nearly double its valuation to $350 billion, with The Wall Street Journal reporting a planned $10 billion raise.",
     "link": "https://cointelegraph.com/news/ai-giant-anthropic-raising-10b-at-350b-valuation-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjljMDMtMDMyOC03OTAxLWJlYjItNWI1MDhiZWZlYTIxLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9c03-0328-7901-beb2-5b508befea21.jpg",
     "pubDate": "2026-01-08T05:35:10+00:00"
-  },
-  {
-    "title": "Cyberpunk 2077 Nintendo Switch 2 Physical Edition Gets First Discount",
-    "description": "Cyberpunk 2077: Ultimate Edition (Switch 2) $60 (was $70) See at Amazon The physical edition of one of the best third-party games for Nintendo Switch 2 is on sale for the first time at Amazon. Cyberpunk 2077: Ultimate Edition, which launched alongside the Switch 2 last June, is available for $60 (was $70). And unlike most third-party Switch 2 games, Cyberpunk 2077 comes with the full 60.6GB of game data on the card, so it won't consume 25% of your storage space like the digital edition. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/cyberpunk-2077-nintendo-switch-2-physical-edition-gets-first-discount/1100-6537268/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4632383-cyberpunk2077switch2module.png",
-    "pubDate": "2026-01-08T05:25:00+00:00"
   },
   {
     "title": "Bitcoin drops below $90,000 after early January pop as BTC ETFs see $480 million outflows",
@@ -322,20 +196,6 @@
     "pubDate": "2026-01-08T05:07:30+00:00"
   },
   {
-    "title": "When It Comes to Russia, Trump Navigates Conflicting Goals",
-    "description": "President Trump’s efforts to court President Vladimir V. Putin of Russia are rife with contradictions about stability and displays of American power.",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-russia-goals.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/07/multimedia/07dc-us-russia-wgvb/07dc-us-russia-wgvb-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T05:00:13+00:00"
-  },
-  {
-    "title": "Memecoin social buzz grows as traders return to risk assets",
-    "description": "Memecoins fell 65% over 2025 as risk-taking behavior dropped among traders, but the tokens are seeing gains as positive sentiment returns to crypto.",
-    "link": "https://cointelegraph.com/news/memecoin-social-buzz-market-cap-risk-appetite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhYzMtODFlMi03Zjk2LTg0NzYtNTZjM2RhMzk3ZGU4.jpg",
-    "pubDate": "2026-01-08T04:58:25+00:00"
-  },
-  {
     "title": "XRP slips 5% as CNBC terms it 'hottest trade' of 2026 over bitcoin and ether",
     "description": "Institutional demand through U.S.-listed spot XRP ETFs remains strong, with net inflows continuing into early January.",
     "link": "https://www.coindesk.com/markets/2026/01/08/xrp-slips-5-as-cnbc-terms-it-hottest-trade-of-2026-over-bitcoin-and-ether",
@@ -343,311 +203,10 @@
     "pubDate": "2026-01-08T04:45:10+00:00"
   },
   {
-    "title": "Solana Mobile to launch SKR token for Seeker phone on Jan. 21",
-    "description": "Solana Mobile will airdrop up to 20% of SKR tokens to users of its Seeker phone on Jan. 21, and introduce so-called Guardians to secure the network.",
-    "link": "https://cointelegraph.com/news/solana-mobile-launch-skr-token-jan-21-seeker-phone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjliNDgtMjU2MS03NDNkLWJjMjQtMGJiOGMwNGNjZTdhLmpwZw==.jpg",
-    "pubDate": "2026-01-08T04:22:26+00:00"
-  },
-  {
-    "title": "Ethereum bumps blob capacity as it gears for Fusaka upgrade",
-    "description": "Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.",
-    "link": "https://www.coindesk.com/tech/2026/01/08/ethereum-bumps-blob-capacity-as-it-gears-for-fusaka-upgrade",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/33d00ecd9875a40520a60fef82754d686dcb17b8-1922x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-01-08T04:21:37+00:00"
-  },
-  {
-    "title": "Microsoft revealed as company behind controversial data center proposal in Michigan township",
-    "description": "Locals have concerns about water use in a township that has dealt with shortages.",
-    "link": "https://www.cnbc.com/2026/01/07/microsoft-behind-controversial-data-center-in-michigan-township.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108249718-1767835792137-gettyimages-1203055659-INDIA_NADELLA.jpeg?v=1767835840&w=1920&h=1080",
-    "pubDate": "2026-01-08T02:12:22+00:00"
-  },
-  {
-    "title": "Save 50% On New Limited-Edition 4K Blu-Rays At Amazon",
-    "description": "Arrow Video Movie Sale Save up to 50% on Limited-Edition 4K Blu-rays. See at Amazon See at Barnes and Noble Dozens of 4K UHD and 1080p Blu-rays in Arrow Video's ever-growing movie catalog are on sale for up to 50% off at Barnes &amp; Noble and Amazon. Since Arrow Video is a collector-focused distributor, many of the movies in the promotion are 4K Blu-ray Limited Editions come with tons of special features, posters, booklets, reversible cover art, and other exclusive content. Some of Arrow Video's newest and most popular limited-edition 4K Blu-rays are discounted by at least 50%, including '90s greats like Jim Carrey's The Mask, the R-rated original cut of Spawn, John Carpenter's In the Mouth of Madness, and the classic Teenage Mutant Ninja Turtles Trilogy. We've rounded up all of the best Arrow Video 4K and 1080p Blu-ray deals we could find. You'll find separate, alphabetized lists for 4K and 1080p Blu-rays below. We also collected all of Amazon's Arrow Video 4K Blu-ray deals on one page, in case you prefer to browse the offers that way. And at the very bottom of this story, you can find a list of upcoming Arrow Video movie releases, many of which are discounted, too. The promotion runs through February 2 at Barnes &amp; Noble, so you can expect Amazon's matching offers to expire that day, too. In addition to matching many of B&amp;N's discounts, Amazon has select Arrow Video releases for over 50% off. The Arrow Video promotion is just one of Amazon's massive ongoing movie sales. For even more budget-friendly deals, check out the retailer's $11 4K Blu-ray sale. You need to buy at least three 4K Blu-rays to unlock the discounts--it's officially referred to as a 3 for $33 sale--but there are over 100 films to choose from. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/arrow-video-4k-blu-ray-movies-50-percent-off-at-amazon/1100-6537233/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4631556-arrowvideo4kblu-rays.png",
-    "pubDate": "2026-01-08T02:07:00+00:00"
-  },
-  {
-    "title": "People who come off slimming jabs regain weight four times faster than dieters",
-    "description": "Overweight people shed large amounts on jabs but gain 0.8 kg a month on average once off them, study shows.",
-    "link": "https://www.bbc.com/news/articles/c050ljnrv2qo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddcb/live/e7a631e0-eb13-11f0-992c-75363ad17690.jpg",
-    "pubDate": "2026-01-08T01:21:56+00:00"
-  },
-  {
-    "title": "AAA Games' Future \"Lies In Smaller Teams,\" Says AC Unity Director",
-    "description": "The creative director of Assassin's Creed Unity and Assassin's Creed Revelations, Alexandre Amancio, hasn't been shy about his belief that AAA game development is broken. Although Amancio has since left Ubisoft to serve as a senior vice president at FunPlus, he does have ideas about the future of AAA games and he believes that smaller dev teams are the way to go. Amancio told GamesIndustry.biz that a lot of AAA studios \"think that you can solve a problem by throwing people at it. But adding people to a problem stagnates the people that were already being efficient on it. It just creates a lot of variable noise ... So I think the future lies in smaller teams.\" As an example of how smaller teams can collaborate on bigger projects, Amancio used Assassin's Creed: Black Flag as a hypothetical example. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/aaa-games-future-lies-in-smaller-teams-says-ac-unity-director/1100-6537267/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4632176-assassin%27screedunity.jpg",
-    "pubDate": "2026-01-08T01:13:00+00:00"
-  },
-  {
-    "title": "Crypto credit is starting to look like cash savings accounts: Asia Morning Briefing",
-    "description": "Flowdesk says record demand met even deeper liquidity, suppressing volatility across staking, stablecoin lending, making crypto credit markets look more like traditional cash plumbing.",
-    "link": "https://www.coindesk.com/markets/2026/01/08/crypto-credit-is-starting-to-look-like-cash-savings-accounts-asia-morning-briefing",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3a2cd1f5a78a31be55795d0a7398f5aa43a80164-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-01-08T01:01:09+00:00"
-  },
-  {
-    "title": "Trump says U.S. to ban large investors from buying homes",
-    "description": "\"I am immediately taking steps to ban large institutional investors from buying more single-family homes,\" Trump said.",
-    "link": "https://www.cnbc.com/2026/01/07/trump-housing-affordability.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108003382-1720549569834-gettyimages-2155188332-4045_32_2024_3236.jpeg?v=1767817249&w=1920&h=1080",
-    "pubDate": "2026-01-08T00:04:06+00:00"
-  },
-  {
-    "title": "Jim Cramer says investors should avoid buying stocks near their highs after the market's recent rally",
-    "description": "Jim Cramer warns investors not to chase stocks after big rallies, pointing to better entry points created by volatility and earnings season pullbacks.",
-    "link": "https://www.cnbc.com/2026/01/07/cramer-dont-chase-stocks-after-rally-volatility.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107083447-1656625604715-IMG_2027rb.jpg?v=1695422550&w=1920&h=1080",
-    "pubDate": "2026-01-07T23:56:27+00:00"
-  },
-  {
-    "title": "During Maduro Raid in Venezuela, a Close Call for Helicopters and Trump’s Plan",
-    "description": "As a damaged U.S. helicopter struggled to stay aloft over Venezuela’s capital, the success of the entire operation hung in the balance.",
-    "link": "https://www.nytimes.com/2026/01/07/us/politics/trump-venezuela-helicopter.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/07/multimedia/07dc-trump-raid-promo-lfjt/07dc-trump-raid-promo-lfjt-facebookJumbo.jpg",
-    "pubDate": "2026-01-07T23:24:04+00:00"
-  },
-  {
-    "title": "ICE agents fatally shoot woman in Minneapolis, DHS says",
-    "description": "President Trump said an ICE agent appeared to have acted in self-defense by shooting the woman, but a man heard on video of the incident called it \"murder.\"",
-    "link": "https://www.cnbc.com/2026/01/07/ice-dhs-minneapolis-shooting.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108249447-17678046922026-01-07t162000z_931764646_rc2gwiaplo41_rtrmadp_0_usa-trump-minnesota.jpeg?v=1767826331&w=1920&h=1080",
-    "pubDate": "2026-01-07T23:16:20+00:00"
-  },
-  {
-    "title": "'We are not for sale': Greenlanders express fear and indignation as Trump eyes territory",
-    "description": "Greenlanders tell the BBC they have no interest in becoming American as the White House restates its desire for annexation.",
-    "link": "https://www.bbc.com/news/articles/cvgx8w4pgk0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3613/live/27934480-ec10-11f0-bb47-dd0326c45745.jpg",
-    "pubDate": "2026-01-07T22:59:09+00:00"
-  },
-  {
-    "title": "Video shows moment US immigration agent fatally shoots woman",
-    "description": "A woman in a car was shot and killed by a US immigration officer on a residential street in Minnesota.",
-    "link": "https://www.bbc.com/news/videos/cx2ypz4zjvxo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7e/live/3f50a3a0-ec7a-11f0-b385-5f48925de19a.jpg",
-    "pubDate": "2026-01-07T22:53:45+00:00"
-  },
-  {
-    "title": "PS5 Hyperpop covers and DualSense add a blast of neon to your console",
-    "description": "Sony is giving the PlayStation 5 and the DualSense controller some bold new tones: bright red, blue, and green.",
-    "link": "https://www.polygon.com/ps5-new-dualsense-colors-covers-hyperpop-price-preorder/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/ps5_green.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-07T22:13:33+00:00"
-  },
-  {
-    "title": "How The Elder Scrolls Online Is Going All-In On Seasons In 2026",
-    "description": "The Elder Scrolls Online in 2026 will look quite different from previous years, as developer ZeniMax Online Studios goes all-in on the game's new seasonal model that will see all of the game's content updates arrive free of charge. For years, ESO has followed a familiar, fairly typical MMO pattern of yearly paid chapter (expansion) releases. Those new chapters added new regions of Tamriel for players to explore, additional story content, optional paid DLCs, and, occasionally, things like new classes and systems. ZeniMax Online announced in 2024 that going forward, ESO wouldn't have a traditional yearly chapter release, labeling 2025 as a \"transitional\" year as the team prepared to focus on its plans for 2026. In a recent livestream and subsequent press Q&amp;A attended by GameSpot, the developers have now revealed what ESO's 2026 will look like, and it includes more experimental seasonal content, battle passes, new story content, solo dungeons, a PvP progression system, class reworks, and more.The team also announced its long-term goals for the game, including that it's looking to finally introduce cross-play between platforms, as well as long-requested features such as guild mail and guild housing. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/how-the-elder-scrolls-online-is-going-all-in-on-seasons-in-2026/1100-6537219/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4630770-esoseasons2026roadmap.jpg",
-    "pubDate": "2026-01-07T21:00:00+00:00"
-  },
-  {
-    "title": "The Elder Scrolls Online's Dark Brotherhood And Thieves Guild DLC Will Soon Be Free",
-    "description": "The Elder Scrolls Online is continuing to expand, as previously paid DLC content for the Dark Brotherhood, Thieves Guild, and more will soon become part of the base game for free. In March with the game's Update 49, the Dark Brotherhood, Thieves Guild, Imperial City, and Orsinium DLC will be folded into the base game and become accessible for all players. Closer to the end of the year, the Greymoor chapter will also become part of the base game. Currently, ESO players need to subscribe to the game's optional ESO Plus membership (around $15 a month) or purchase each DLC separately using the game's premium currency, Crowns, in order to access the content outlined above. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/the-elder-scrolls-onlines-dark-brotherhood-and-thieves-guild-dlc-will-soon-be-free/1100-6537209/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4630570-esodarkbrotherhooddlcfree.jpg",
-    "pubDate": "2026-01-07T21:00:00+00:00"
-  },
-  {
-    "title": "The Elder Scrolls Online Is Finally Getting Cross-Play, But It Might Still Be A While",
-    "description": "More than a decade after launch, The Elder Scrolls Online will finally get cross-play, as developer ZeniMax Online Studios has confirmed it's actively working on the feature. However, it might still \"be a while\" until the feature is ready. While cross-play has long been something ZeniMax Online has said it wants to do and has explored options for, this is the first time the developer has confirmed it's actually happening, though there is not yet a clear idea of when, exactly, the feature will arrive. \"Cross-play is definitely coming, but it's going to be a while,\" ESO executive Susan Kath said as part of a virtual Q&amp;A attended by GameSpot ahead of the game's 2026 preview livestream. \"Just to set the stage on that. We are working on it. It is a complex problem for a game like ESO--it was not ever built with this in mind. There are a lot of considerations we have to make.\" Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/the-elder-scrolls-online-is-finally-getting-cross-play-but-it-might-still-be-a-while/1100-6537192/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4629679-esocrossplayiscoming.jpg",
-    "pubDate": "2026-01-07T21:00:00+00:00"
-  },
-  {
-    "title": "US will control Venezuela oil sales 'indefinitely', official says",
-    "description": "Officials say sales were expected to start with 30 million to 50 million barrels of oil and the revenue would be controlled by the US government.",
-    "link": "https://www.bbc.com/news/articles/ckgn7p7g79wo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9abf/live/f05eabe0-ebf0-11f0-8608-ef259671aea9.jpg",
-    "pubDate": "2026-01-07T20:31:48+00:00"
-  },
-  {
-    "title": "Diablo 4's Paladin and Season 11 make it better than ever",
-    "description": "The Season of Divine Intervention and the early drop of the Lord of Hatred expansion's Paladin class bode well for Diablo 4 in 2026",
-    "link": "https://www.polygon.com/diablo-4-paladin-season-11-impressions/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/paladin_key_art.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-07T20:30:19+00:00"
-  },
-  {
-    "title": "Grab New Movies On 4K Blu-Ray For Only $11 At Amazon For A Limited Time",
-    "description": "Amazon 4K Blu-ray Sale: 3 for $33 Additional movies cost $11 each. Browse sale at Amazon One of Amazon's best 4K Blu-ray promotions has returned. Over 100 popular 4K Blu-rays are available for $11 each when you buy at least three movies. This is Amazon's first 3 for $33 movie sale since last April, so physical media enthusiasts should take advantage of this awesome offer while they can. The catalog of eligible 4K Blu-rays features some of the most popular movies of 2025, including Weapons, F1 The Movie, Superman, Sinners, and Jurassic World Rebirth. Though framed as \"3 for $33,\" the promotion turns into 4 for $44, 5 for $55, etc. as you add more movies to your cart. After hitting the minimum, all additional 4K Blu-rays are priced at $11, too. Amazon's 3 for $33 movie sale runs through January 19. The retailer often adds movies to these types of promotions while it's running, so it's worth checking back to see if there's anything new you want. Amazon also tends to remove movies from its 4K Blu-ray sales, so if you see a movie you want, grab it while you can. Newer movies and all-time classics frequently sell out during 3 for $33 promotions. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/amazon-4k-blu-ray-sale-january-2026-3-for-33-new-movie-deal/1100-6537208/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4630596-amazonblu-raymodule.png",
-    "pubDate": "2026-01-07T20:24:00+00:00"
-  },
-  {
-    "title": "Star Wars Outlaws Nintendo Switch 2 Price Drops Far, Far Below MSRP",
-    "description": "Star Wars Outlaws Gold Edition (Switch 2) $30 (was $60) See at Amazon See at Walmart See at Best Buy See at Target Star Wars Outlaws Gold Edition for Nintendo Switch 2 is back on sale for 50% off at Amazon and Walmart. Normally $60, the impressive Switch 2 port of Massive Entertainment's open-world action-adventure game is discounted to only $30. This deal matches the price we saw in the lead-up to Christmas, though it's unclear when the new offer expires. If both retailers sell out, Star Wars Outlaws is on sale for $40 at Target and Best Buy. PS5 users can grab Star Wars Outlaws for $20 (was $50) at Amazon. Just know that the Switch 2's Gold Edition includes two story expansions and other in-game content, whereas the PlayStation 5 (and Xbox Series X) physical editions only come with the base game. Star Wars Outlaws Gold Edition (Switch 2) $30 (was $60) The Gold Edition is the only version available for Nintendo Switch 2. When Outlaws originally released on PS5, Xbox, and PC, the Gold Edition was $110, so Switch 2 owners were already getting a nice deal when Outlaws launched on the new Nintendo console in September. The Gold Edition is bundled with the Star Wars Outlaws Season Pass. Most notably, the Season Pass grants access to two story expansions called Wild Card and A Pirate's Fortune. You'll also get a few other extras. Here's the full list: Star Wars Outlaws Game-Key Card Requires 19.4GB download Season Pass Story Expansion 1 - Wild Card Story Expansion 2 - A Pirate's Fortune Exclusive Mission - Jabba's Gambit The Kessel Runner Character Pack (Cosmetics) The Hunter's Legacy Bundle (Cosmetics) The Cartel Ronin Bundle (Cosmetics) Star Wars Outlaws is a Game-Key Card with a roughly 20GB download. At launch, Ubisoft explained that storing the game data on a Switch 2 card negatively impacted performance, so the development team opted for the Game-Key Card format. From a performance perspective, Outlaws is one of the most impressive third-party games on Switch 2. It runs in 1440p resolution at 30fps in docked mode and 1080p at 30fps in handheld mode. It's certainly a downgrade in graphics compared to PS5, Xbox, and PC, but Outlaws makes great use of DLSS, VRR, and ray-tracing to offer solid visuals and consistent performance with minimal drops. Considering Star Wars Outlaws runs terribly on Steam Deck--it's marked as \"unsupported\"--it's cool that Massive Entertainment found a way to make a pleasant handheld experience on Switch 2. See at Amazon See at Walmart See at Best Buy Set during the height of the Galactic Empire's reign, Outlaws puts you in the boots of Kay Vess, an opportunistic lawbreaker chasing down a score that'll help pay off the debts she owes to the criminal underworld of Star Wars. The third-person action-adventure unfolds on and between five planets in the galaxy. Four of the planets have an open-world design that encourages exploration. Outlaws is a well-rounded experience that mixes gunplay with stealth and hand-to-hand combat. You can customize your character and your ship, the Trailblazer, which you control when traveling across the galaxy. And yes, Star Wars Outlaws has space combat, too. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/star-wars-outlaws-nintendo-switch-2-game-amazon-deal/1100-6535986/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4606912-swoutlawsmod.jpg",
-    "pubDate": "2026-01-07T20:17:00+00:00"
-  },
-  {
-    "title": "The Best Canned Chickpeas, According to Our Taste Test",
-    "description": "Out of 10 widely available options, these are our top garbanzo beans.",
-    "link": "https://www.bonappetit.com/story/best-canned-chickpeas-taste-test",
-    "thumbnail": "https://assets.bonappetit.com/photos/693b47d67d650b39c4046f1b/master/pass/canned-chickpeas-taste-test_LEDE_V1_121025_3796_VOG_final.jpg",
-    "pubDate": "2026-01-07T20:01:48+00:00"
-  },
-  {
-    "title": "Forgotten Realms creator Ed Greenwood on RealmsBound’s new approach to D&amp;D",
-    "description": "Forgotten Realms creator Ed Greenwood talks about his new RealmsBound project and what D&amp;D players can expect from it in 2026 and beyond.",
-    "link": "https://www.polygon.com/dnd-realmsbound-forgotten-realms-2026/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/standingstone-1600x900.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-07T20:00:18+00:00"
-  },
-  {
-    "title": "South Park's Fortnite crossover is full of deep cuts (and mech suits)",
-    "description": "Fortnite heads to South Park for a monthlong event that brings Kyle, Kenny, Stan, and Cartman to Epic's battle royale game.",
-    "link": "https://www.polygon.com/fortnite-south-park-event-skins-sidekicks-trailer/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/born-in-chaos-south-park-drops-into-fortnite-2-53-screenshot.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-07T19:55:51+00:00"
-  },
-  {
-    "title": "Minecraft Is Getting Even Cuter With New Baby Mobs",
-    "description": "Baby mobs have been around Minecraft for a while, but these creatures are getting an adorable makeover for a future update. Mojang Studios has shared a first look at its upcoming baby mob remasters, which is currently being tested. When the update is finished, the dev team promises that the wolf pups, kittens, piglets, calves, baby chickens, baby ocelots, lambs, and baby rabbits will be \"even chunkier, floofier, and more charming than ever before.\" In the accompanying announcement video, game director Agnes Larsson explains that previous baby mobs were just scaled down versions of the adult creatures. This update is giving the baby animals their own specific designs and completely new sound recordings pulled from real animals. Larsen went on to explain a more subtle touch that gives the baby mobs' faces a more youthful appearance. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/minecraft-is-getting-even-cuter-with-new-baby-mobs/1100-6537263/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4631868-minecraftbabymob.jpg",
-    "pubDate": "2026-01-07T19:47:00+00:00"
-  },
-  {
-    "title": "PUBG MOBILE’s WOW And PDP Platforms  Empower Creativity Across the Entire Creator Community",
-    "description": "PUBG MOBILE’s WOW and PDP ecosystems let players make maps, costumes, vehicles, and more, with guidance every step of the way should you need it.",
-    "link": "https://www.polygon.com/pubg-mobiles-wow-and-pdp-platforms-empower-creativity-across-the-entire-creator-community/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mixcollage-05-jan-2026-09-21-am-8797.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-07T19:43:57+00:00"
-  },
-  {
-    "title": "Pikachu at the Museum Pokémon card might be super effective against resellers",
-    "description": "Tickets to the London-based pop-up shop are already sold out",
-    "link": "https://www.polygon.com/pokemon-tcg-natural-history-museum-promo-pikachu-oversize-card/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/card.JPG?w=1200&h=675&fit=crop",
-    "pubDate": "2026-01-07T19:38:51+00:00"
-  },
-  {
-    "title": "Stranger Things star Joe Keery's twisted 2020 thriller is blowing up on streaming",
-    "description": "Discover Joe Keery's chilling transformation from lovable Steve Harrington in Stranger Things to a desperate, amoral killer in the overlooked 2020 thriller Spree.",
-    "link": "https://www.polygon.com/spree-joe-keery-movie-streaming-free-tubi/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/vs-watchspree2020-freemoviestubi-7-33.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-01-07T19:02:16+00:00"
-  },
-  {
-    "title": "Coyote vs. ACME is equal parts “courtroom drama” and “buddy comedy,” says voice actor Eric Bauza",
-    "description": "Voice actor Eric Bauza discusses the tumultuous journey of Coyote vs. ACME, its unique blend of courtroom drama and buddy comedy, and the importance of the film's release for the future of Looney Tunes characters.",
-    "link": "https://www.polygon.com/voice-actor-eric-bauza-says-coyote-vs-acme-is-equal-parts-courtroom-drama-and-buddy-comedy/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/coyote-v-acme.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-01-07T19:00:18+00:00"
-  },
-  {
-    "title": "Pathologic 3 is one of 2026's most ambitious reboots",
-    "description": "Developer Ice-Pick Lodge latest game breathes new life into its iconic 2005 franchise, Pathologic",
-    "link": "https://www.polygon.com/pathologic-3-is-the-best-in-the-series/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/pathologic-herb-bride.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-07T18:01:18+00:00"
-  },
-  {
-    "title": "Prime Video's Fallout finally reveals Deathclaws",
-    "description": "Deathclaws are the worst encounters throughout the Fallout franchise, which does not bode well for the creature Lucy and The Ghoul find in New Vegas",
-    "link": "https://www.polygon.com/fallout-s2e4-what-are-deathclaws-fev-forced-evolutionary-virus/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/fallouts2plimage3_3000-1.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-07T17:37:33+00:00"
-  },
-  {
-    "title": "How could Donald Trump 'take' Greenland?",
-    "description": "The White House says it is considering a range of options to acquire the island, including deploying the military.",
-    "link": "https://www.bbc.com/news/articles/c0q4w1xnv35o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a411/live/d8e637d0-ebf0-11f0-a422-4ba8a094a8fa.jpg",
-    "pubDate": "2026-01-07T17:33:42+00:00"
-  },
-  {
-    "title": "The Best Nama Products, Tested by BA Editors",
-    "description": "These are the Nama appliances our Test Kitchen editors stand behind.",
-    "link": "https://www.bonappetit.com/story/best-nama-products",
-    "thumbnail": "https://assets.bonappetit.com/photos/695e93fb5cb2d945ab8ba86d/master/pass/12.16_BA_Nama%20best%20products%20lede_v4.jpg",
-    "pubDate": "2026-01-07T17:32:17+00:00"
-  },
-  {
-    "title": "Soybeans Fall into Tuesday’s Close",
+    "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures slide ahead of fresh jobs data as defense stocks rebound",
     "description": "",
-    "link": "https://finance.yahoo.com/news/soybeans-fall-tuesday-close-230203401.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/zUC2wWhRP3hJ.nRCUot3fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/7485eb1de317f617acbba6b372ed019e",
-    "pubDate": "2026-01-06T23:02:03+00:00"
-  },
-  {
-    "title": "Daily ETF Flows: SGOV Takes $437M",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/daily-etf-flows-sgov-takes-230006267.html",
-    "thumbnail": "https://media.zenfs.com/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
-    "pubDate": "2026-01-06T23:00:06+00:00"
-  },
-  {
-    "title": "Berkshire Hathaway CEO Abel’s Salary Set at $25 Million, Topping Buffett",
-    "description": "",
-    "link": "https://www.wsj.com/business/berkshire-hathaway-ceo-abels-salary-set-at-25-million-topping-buffett-20849a95?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-01-06T22:59:00+00:00"
-  },
-  {
-    "title": "Greenpan Frost: This Soft-Serve Machine Is Even More Versatile Than the Ninja Creami",
-    "description": "Frozen margaritas, creamy ice cream, and Coke slushies, here you come.",
-    "link": "https://www.bonappetit.com/story/greenpan-frost-review",
-    "thumbnail": "https://assets.bonappetit.com/photos/695d6c30bb5b2ea1833f2524/master/pass/12.19_BA_Greenpan%20slushie%20machine%20lede%20image_v2.jpg",
-    "pubDate": "2026-01-06T20:24:18+00:00"
-  },
-  {
-    "title": "The Best Coffee Substitutes to Ease Your Jitters (2026)",
-    "description": "From frothy matcha lattes to roasted chicory, you’ve got options.",
-    "link": "https://www.bonappetit.com/story/best-coffee-alternatives",
-    "thumbnail": "https://assets.bonappetit.com/photos/680bf6f3e6c6383edcfbef0f/master/pass/Coffee-alts.jpg",
-    "pubDate": "2026-01-06T05:02:00+00:00"
-  },
-  {
-    "title": "I Swapped My Plastic Utensils for This Sleek Wood Set",
-    "description": "And I wish I’d done it sooner",
-    "link": "https://www.bonappetit.com/story/caraway-mini-birch-utensil-set",
-    "thumbnail": "https://assets.bonappetit.com/photos/695c0697d2e4f2ea0773c974/master/pass/12.19_BA_Caraway%20mini%20utensil%20set%20lede%20image.jpg",
-    "pubDate": "2026-01-05T18:59:09+00:00"
-  },
-  {
-    "title": "5 Cheap Meals Our Editors Make With Canned Tuna",
-    "description": "Like tuna spaghetti, furikake rice bowls, and a potato chip sandwich.",
-    "link": "https://www.bonappetit.com/story/cheap-meals-our-editors-make-with-canned-tuna",
-    "thumbnail": "https://assets.bonappetit.com/photos/6943196618c310b8a38672e9/master/pass/PantryStaples_Tuna.gif",
-    "pubDate": "2026-01-05T14:00:00+00:00"
-  },
-  {
-    "title": "Sticky Chocolate Cake and More Recipes We Made This Week",
-    "description": "Like loaded sweet potatoes and cider-braised chicken.",
-    "link": "https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-january-2026",
-    "thumbnail": "https://assets.bonappetit.com/photos/65959afe3fe8bf5dbcab9e07/master/pass/20231109-v0224-COZY-6671.jpg",
-    "pubDate": "2026-01-02T11:00:00+00:00"
-  },
-  {
-    "title": "Smashed Broccoli Pasta",
-    "description": "A feel-good dinner designed to cram a ton of veg in each serving.",
-    "link": "https://www.bonappetit.com/recipe/smashed-broccoli-pasta",
-    "thumbnail": "https://assets.bonappetit.com/photos/693b449edb3dab2c205db13d/master/pass/smashed-broccoli-pasta_RECIPE_V1_121025_3682_VOG_final.jpg",
-    "pubDate": "2026-01-01T13:00:00+00:00"
-  },
-  {
-    "title": "A Wallet-Friendly Pasta for Any Weeknight",
-    "description": "January’s Feel-Good Food Plan is here to banish the post-holiday budget blues with a veggie-packed dinner.",
-    "link": "https://www.bonappetit.com/story/feel-good-food-plan-january-2026",
-    "thumbnail": "https://assets.bonappetit.com/photos/693b449d7d650b39c4046f14/master/pass/smashed-broccoli-pasta_LEDE_V1_121025_3679_VOG_final.jpg",
-    "pubDate": "2026-01-01T13:00:00+00:00"
-  },
-  {
-    "title": "2026 Is the Year You Make Homemade Bagels",
-    "description": "New year, new you, new Bake Club recipe!",
-    "link": "https://www.bonappetit.com/story/bake-club",
-    "thumbnail": "https://assets.bonappetit.com/photos/68dbfb7d1606b810136da76b/master/pass/bagels_RECIPE_V1_092525_2090_VOG_Badge_final.jpg",
-    "pubDate": "2026-01-01T12:00:00+00:00"
+    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-ahead-of-fresh-jobs-data-as-defense-stocks-rebound-235001743.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/lN7tVeps7GpEt.9iY7jqDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f88f1d50-ec21-11f0-b66e-d3ad1bb71aea",
+    "pubDate": "2026-01-07T23:50:01+00:00"
   }
 ]
