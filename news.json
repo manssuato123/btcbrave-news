@@ -1,37 +1,128 @@
 [
   {
-    "title": "Asia markets trade mixed ahead of China inflation data; Uniqlo owner shares jump 7%",
-    "description": "Asia-Pacific markets were set to trade higher Friday as investors keep an eye on China's inflation data coming out later in the day.",
-    "link": "https://www.cnbc.com/2026/01/09/asia-pacific-markets-china-cpi-hang-seng-index-kospi-nikkei-225.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241556-1765610729588-gettyimages-2246895310-20090101251119-99-688196.jpeg?v=1765610763&w=1920&h=1080",
-    "pubDate": "2026-01-09T00:54:19+00:00"
+    "title": "Optimism floats OP buyback proposal using Superchain revenue",
+    "description": "A new plan would tie OP token value to network performance by using half of all Superchain fee revenue for systematic repurchases.",
+    "link": "https://cointelegraph.com/news/optimism-floats-op-buyback-proposal-using-superchain-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjlmZmMtY2UyMy03ZWExLWEyZTAtOWQzNzBiMzNlMmJlLmpwZw==.jpg",
+    "pubDate": "2026-01-09T02:55:41+00:00"
   },
   {
-    "title": "Federal agents in Portland involved in shooting of two people, police say",
-    "description": "Portland Mayor Keith Wilson said, \"I call on ICE to end all operations in Portland until a full investigation can be completed\" into the shooting.",
+    "title": "Two wounded in shooting involving federal agents in Portland",
+    "description": "The Department of Homeland Security says the incident began with the traffic stop of a Venezuelan gang member.",
+    "link": "https://www.bbc.com/news/articles/ckgn1y1zygxo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03b/live/c4d2bdd0-ecfa-11f0-b385-5f48925de19a.jpg",
+    "pubDate": "2026-01-09T02:36:31+00:00"
+  },
+  {
+    "title": "Global sanctions fuel record flow to illicit crypto addresses",
+    "description": "The Global Sanctions Inflation Index estimated there were just under 80,000 total sanctioned entities and persons globally as of May 2025.",
+    "link": "https://cointelegraph.com/news/sanctions-illicit-crypto-transactions-record-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmEwMTctZGQzMC03NTNhLWE3MDYtYjMzYmQ3MjY3MzczLmpwZw==.jpg",
+    "pubDate": "2026-01-09T02:25:47+00:00"
+  },
+  {
+    "title": "U.S. Border Patrol Agents Shoot 2 in Portland During Traffic Stop",
+    "description": "The shooting in a city previously targeted by the Trump administration came as Minneapolis grappled with a federal agent’s killing of a woman a day earlier.",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/federal-agents-shooting-portland.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08nat-portland-ice-jg-1-mthf/08nat-portland-ice-jg-1-mthf-facebookJumbo.jpg",
+    "pubDate": "2026-01-09T02:25:47+00:00"
+  },
+  {
+    "title": "Storm Goretti brings 99mph winds and snow as 65,000 properties lose power",
+    "description": "A gust of 99mph is recorded in the Isles of Scilly as the storm brings heavy snow and rain to the UK.",
+    "link": "https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638a/live/38f7b410-ecc7-11f0-b5f7-49f0357294ff.jpg",
+    "pubDate": "2026-01-09T02:20:41+00:00"
+  },
+  {
+    "title": "Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify",
+    "description": "As protests swelled around the country, Iran’s internet was shut down, and the heads of its judiciary and its security services warned of a harsh response amid calls for “freedom, freedom.”",
+    "link": "https://www.nytimes.com/2026/01/08/world/middleeast/iran-protests-internet-shutdown.html",
+    "thumbnail": "https://static01.nyt.com/images/2025/10/18/multimedia/08int-iran-internet/08int-iran-internet-facebookJumbo.jpg",
+    "pubDate": "2026-01-09T02:15:37+00:00"
+  },
+  {
+    "title": "Bitcoin to hit $2.9M by 2050 as it muscles into global trade: VanEck",
+    "description": "VanEck analysts said Bitcoin could handle 5–10% of global trade and make up 2.5% of central bank reserves by 2050, driving its strategic role as a monetary hedge.",
+    "link": "https://cointelegraph.com/news/bitcoin-hit-2-9m-2050-global-trade-vaneck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmEwMWQtOTVmNy03YzJkLWJhYzYtMjc1NmY0MzNlMTU4LmpwZw==.jpg",
+    "pubDate": "2026-01-09T02:15:35+00:00"
+  },
+  {
+    "title": "Border Patrol agent shoots two people in Portland, day after ICE agent kills Minneapolis woman",
+    "description": "Federal officials have accused Renee Nicole Good of trying to run down an ICE agent in Minneapolis when she was shot.",
     "link": "https://www.cnbc.com/2026/01/09/portland-shooting-federal-agents.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108214365-1760989331388-gettyimages-2240387965-mlr-2025-10-12-1252.jpeg?v=1760989455&w=1920&h=1080",
-    "pubDate": "2026-01-09T00:48:01+00:00"
+    "pubDate": "2026-01-09T01:55:44+00:00"
+  },
+  {
+    "title": "China inflation hits fastest pace in nearly three years in December, as expected",
+    "description": "China's consumer inflation accelerated in December to the fastest pace in more than two years, while factory-gate deflation extended for over three years.",
+    "link": "https://www.cnbc.com/2026/01/09/china-december-inflation-cpi-ppi-prices-demand-weakness.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108250295-1767915193448-gettyimages-2254337800-vcg111612858740.jpeg?v=1767915298&w=1920&h=1080",
+    "pubDate": "2026-01-09T01:48:57+00:00"
+  },
+  {
+    "title": "Asia markets trade mixed following China inflation data; Uniqlo owner shares jump 7%",
+    "description": "Asia-Pacific markets were set to trade higher Friday as investors parse China's inflation data coming out later in the day.",
+    "link": "https://www.cnbc.com/2026/01/09/asia-pacific-markets-china-cpi-hang-seng-index-kospi-nikkei-225.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241556-1765610729588-gettyimages-2246895310-20090101251119-99-688196.jpeg?v=1765610763&w=1920&h=1080",
+    "pubDate": "2026-01-09T01:47:32+00:00"
+  },
+  {
+    "title": "Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing",
+    "description": "Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.",
+    "link": "https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c8e1938a2fb7e1b0ebb33b716b8cbd0b4aa0d38f-1920x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-01-09T01:42:11+00:00"
+  },
+  {
+    "title": "Coinbase lands 2nd ‘buy’ rating in a week, with BofA seeing 38% upside",
+    "description": "Bank of America has upgraded Coinbase's rating on reversing short interest and tax-loss harvesting, while the exchange is broadening its vision to put the financial system onchain.",
+    "link": "https://cointelegraph.com/news/bank-of-america-upgrades-coinbase-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjlmYTYtNThjYy03NTlhLTk5ZTUtZmZkOTMzZTk5NjM1LmpwZw==.jpg",
+    "pubDate": "2026-01-09T01:33:26+00:00"
+  },
+  {
+    "title": "Revived NY bill targets sports, politics and death prediction markets",
+    "description": "New York lawmakers will soon review a bill that seeks to ban certain sports and political event contracts in the state, among others.",
+    "link": "https://cointelegraph.com/news/new-york-bill-limit-sports-politics-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmEwMDAtZjNkNC03OWRiLWEyNzAtM2I3ZDU5MzZmODg2LmpwZw==.jpg",
+    "pubDate": "2026-01-09T01:30:47+00:00"
+  },
+  {
+    "title": "Trump says he doesn’t need international law amid aggressive US policies",
+    "description": "UN rapporteur tells Al Jazeera she is concerned that the world may be returning to an 'age of imperialism'.",
+    "link": "https://www.aljazeera.com/news/2026/1/9/trump-says-he-doesnt-need-international-law-amid-aggressive-us-policies?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-07T225759Z_550078038_RC2HWIA75507_RTRMADP_3_USA-VENEZUELA-1767916427.jpg?resize=1920%2C1440",
+    "pubDate": "2026-01-09T01:19:25+00:00"
   },
   {
     "title": "More Agents Head to Minnesota as U.S. Takes Over Shooting Investigation",
     "description": "A day after an ICE agent fatally shot a 37-year-old woman in Minneapolis, the governor activated the state’s National Guard, and 100 more federal agents were also being deployed.",
     "link": "https://www.nytimes.com/2026/01/08/us/minnesota-ice-shooting-news.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08nat-minnesota-1-dg-bltz/08nat-minnesota-1-dg-bltz-facebookJumbo-v2.jpg",
-    "pubDate": "2026-01-09T00:46:28+00:00"
+    "pubDate": "2026-01-09T01:16:03+00:00"
   },
   {
-    "title": "Federal Agents Shoot 2 in Portland, Ore., Police Say",
-    "description": "The shootings in Portland, a city previously targeted by the Trump administration, come as Minneapolis grapples with a federal agent’s fatal shooting of a woman a day earlier.",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/federal-agents-shooting-portland.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08nat-portland-ice-1-gvzb/08nat-portland-ice-1-gvzb-facebookJumbo.jpg",
-    "pubDate": "2026-01-09T00:46:04+00:00"
+    "title": "Long waits for disability benefit claims unacceptable, MPs say",
+    "description": "Some people are waiting more than a year to have their claims processed, the Public Accounts Committee says.",
+    "link": "https://www.bbc.com/news/articles/c931klw03yko?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/de506470-ecbd-11f0-85c7-cf9da063a58e.jpg",
+    "pubDate": "2026-01-09T01:10:40+00:00"
   },
   {
-    "title": "Two wounded in a shooting with US federal agents in Portland: report",
+    "title": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
+    "description": "Rallies on major roads in the capital and in Iran's second city were peaceful and not dispersed by security forces.",
+    "link": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2bb/live/bf90dca0-ecd0-11f0-b5f7-49f0357294ff.jpg",
+    "pubDate": "2026-01-09T00:51:43+00:00"
+  },
+  {
+    "title": "Two wounded in a shooting with US federal agents in Portland, Oregon",
     "description": "Portland police have urged calm as the shooting remains under investigation, amid heightened tensions over ICE actions.",
     "link": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25322012600125-1767917780.jpg?resize=1920%2C1440",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26009039630430-1767922179.jpg?resize=1920%2C1440",
     "pubDate": "2026-01-09T00:19:22+00:00"
   },
   {
@@ -47,13 +138,6 @@
     "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-oval-office-interview-scene.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08dc-oval-scene-01-qcgl/08dc-oval-scene-01-qcgl-facebookJumbo.jpg",
     "pubDate": "2026-01-08T23:55:52+00:00"
-  },
-  {
-    "title": "Liverpool stop 'bleeding' but need their own cutting edge",
-    "description": "Liverpool have stopped bleeding but must now find some cutting edge in front of goal, writes Aadam Patel.",
-    "link": "https://www.bbc.com/sport/football/articles/cr4k2qgnlk2o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1318/live/d7460230-ece9-11f0-b5f7-49f0357294ff.jpg",
-    "pubDate": "2026-01-08T23:54:30+00:00"
   },
   {
     "title": "‘Peace’ on paper, but catastrophe continues on the ground in Gaza",
@@ -103,13 +187,6 @@
     "link": "https://www.cnbc.com/2026/01/08/trump-mortgage-bonds-rates-fannie-freddie.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241520-1765582682201-gettyimages-2250983479-TRUMP_HOCKEY.jpeg?v=1767912228&w=1920&h=1080",
     "pubDate": "2026-01-08T23:01:30+00:00"
-  },
-  {
-    "title": "Storm Goretti brings 99mph winds and snow as 65,000 properties lose power",
-    "description": "A gust of 99mph is recorded in the Isles of Scilly as the storm brings heavy snow and rain to the UK.",
-    "link": "https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638a/live/38f7b410-ecc7-11f0-b5f7-49f0357294ff.jpg",
-    "pubDate": "2026-01-08T23:00:55+00:00"
   },
   {
     "title": "U.S. Navy Is Chasing Several Oil Tankers in the Atlantic",
@@ -182,17 +259,10 @@
     "pubDate": "2026-01-08T22:05:09+00:00"
   },
   {
-    "title": "Patient advocacy groups urge U.S. court to halt overseas prescription drug operations",
-    "description": "The court filing follows a CNBC investigation that detailed how these third-party vendors have spread across U.S. employer-sponsored health plans.",
-    "link": "https://www.cnbc.com/2026/01/08/patient-advocates-us-court-afp-prescription-operations.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108145259-1747217764033-gettyimages-2163308489-markets460516_ygl9gaze.jpeg?v=1767909220&w=1920&h=1080",
-    "pubDate": "2026-01-08T22:04:31+00:00"
-  },
-  {
     "title": "Nexo to offer zero-interest crypto lending for BTC and ETH holders",
     "description": "The offering expands Nexo’s structured lending products to Bitcoin and Ether holders amid a broader recovery in crypto-backed lending.",
     "link": "https://cointelegraph.com/news/nexo-zero-interest-crypto-btc-eth-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9f72-e38b-7c3e-8511-a73e14dacfc4.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjlmNzItZTM4Yi03YzNlLTg1MTEtYTczZTE0ZGFjZmM0LmpwZw==.jpg",
     "pubDate": "2026-01-08T22:03:07+00:00"
   },
   {
@@ -206,7 +276,7 @@
     "title": "CFTC issues no-action letter to Bitnomial, clearing way for event contracts",
     "description": "The no-action letter comes amid growing acceptance by US regulators of prediction-style markets and event contracts during an election year.",
     "link": "https://cointelegraph.com/news/cftc-issues-no-action-letter-to-bitnomial-clearing-way-for-event-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0b74-d49a-7dd2-a5d2-d049b5c758e5",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzQtZDQ5YS03ZGQyLWE1ZDItZDA0OWI1Yzc1OGU1.jpg",
     "pubDate": "2026-01-08T21:42:49+00:00"
   },
   {
@@ -227,7 +297,7 @@
     "title": "Donald Trump will not consider pardon for Sam Bankman-Fried: NYT",
     "description": "The US president reportedly said he had no intention of pardoning the former FTX CEO, and defended his family’s connections to the crypto industry.",
     "link": "https://cointelegraph.com/news/donald-trump-no-pardon-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9f58-54ce-7c4d-9d4c-a13c757e3000.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjlmNTgtNTRjZS03YzRkLTlkNGMtYTEzYzc1N2UzMDAwLmpwZw==.jpg",
     "pubDate": "2026-01-08T21:35:30+00:00"
   },
   {
@@ -266,13 +336,6 @@
     "pubDate": "2026-01-08T21:24:24+00:00"
   },
   {
-    "title": "Noem Defends ICE Agent in Minneapolis Shooting and Attacks Mamdani",
-    "description": "During a visit to New York, the homeland security secretary, Kristi Noem, criticized the city’s policies that prevent police officers from helping immigration agents.",
-    "link": "https://www.nytimes.com/2026/01/08/nyregion/kristi-noem-ice-minneapolis.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08met-noem-nyc-01-jtcf/08met-noem-nyc-01-jtcf-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T21:22:14+00:00"
-  },
-  {
     "title": "Primate's ending was radically rewritten right before shooting",
     "description": "Director Johannes Roberts talks Stephen King, practical gore effects, and massively rewriting the script right before shooting.",
     "link": "https://www.polygon.com/primate-horror-movie-ending-rewrite-director-interview/",
@@ -280,10 +343,17 @@
     "pubDate": "2026-01-08T21:05:26+00:00"
   },
   {
+    "title": "Dogs Build Their Vocabularies Like Toddlers",
+    "description": "Eavesdropping on their owners seems to help some toy-crazy and talented pups learn more words.",
+    "link": "https://www.nytimes.com/2026/01/08/science/dogs-research-vocabulary-toys.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08HS-sci-dog-words-01-hwjf/08HS-sci-dog-words-01-hwjf-facebookJumbo.jpg",
+    "pubDate": "2026-01-08T21:03:44+00:00"
+  },
+  {
     "title": "Bitcoin bulls chase $91K as early 2026 rally finds sustained volume",
     "description": "Bitcoin bulls are making a run on $91,000 as start-of-the-year trading volumes highlight the market’s expectation of a positive Q1.",
     "link": "https://cointelegraph.com/news/bitcoin-bulls-chase-dollar91k-as-early-2026-rally-finds-sustained-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9e4e-5913-7cf5-8e6a-cab3412be27c.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjllNGUtNTkxMy03Y2Y1LThlNmEtY2FiMzQxMmJlMjdjLmpwZw==.jpg",
     "pubDate": "2026-01-08T20:55:59+00:00"
   },
   {
@@ -301,13 +371,6 @@
     "pubDate": "2026-01-08T20:42:00+00:00"
   },
   {
-    "title": "Snow blankets Italian alpine resort ahead of Winter Olympics",
-    "description": "Fresh snowfall hit Italy’s Alpine resort of Livigno less than a month before the 2026 Milano Cortina Winter Olympics.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/8/snow-blankets-italian-alpine-resort-ahead-of-winter-olympics?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1767904381.jpg?resize=1621%2C1080&quality=80",
-    "pubDate": "2026-01-08T20:33:11+00:00"
-  },
-  {
     "title": "Devonn Francis on How to Curate the Perfect Event",
     "description": "The chef and artist behind Yardy shares his favorite hosting gifts and ways to make your home feel special when having guests over.",
     "link": "https://www.bonappetit.com/story/devonn-francis-hosting-tips",
@@ -315,17 +378,10 @@
     "pubDate": "2026-01-08T20:26:19+00:00"
   },
   {
-    "title": "House Passes Spending Package Before Another Shutdown Deadline",
-    "description": "The legislation would fund parts of the government ahead of a Jan. 30 deadline in a bipartisan breakthrough after the nation’s longest shutdown.",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/house-spending-package.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/08/multimedia/08dc-spend-zkhv/08dc-spend-zkhv-facebookJumbo.jpg",
-    "pubDate": "2026-01-08T20:19:19+00:00"
-  },
-  {
     "title": "Truebit token price falls 99% after reports of $26M exploit",
     "description": "The TRU price fell to $0.0000000029 from $0.16 after the protocol reported a security incident and crypto sleuths tracked stolen Ether.",
     "link": "https://cointelegraph.com/news/truebit-token-price-fall-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9ee3-267d-79cb-a9c9-d015c512eab9.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjllZTMtMjY3ZC03OWNiLWE5YzktZDAxNWM1MTJlYWI5LmpwZw==.jpg",
     "pubDate": "2026-01-08T20:18:36+00:00"
   },
   {
@@ -334,13 +390,6 @@
     "link": "https://www.polygon.com/clair-obscur-expedition-33-white-nevron-locations-kill-spare/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/expedition-33-white-nevrons.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-01-08T20:14:30+00:00"
-  },
-  {
-    "title": "Temple Digital Group launches 24/7 institutional trading built on Canton",
-    "description": "The platform offers a private, non-custodial venue for regulated institutions to trade cryptocurrencies and stablecoins.",
-    "link": "https://cointelegraph.com/news/temple-digital-group-24-7-institutional-trading-platform-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9eeb-9255-7ab0-91d7-d0cd00cd6a07.JPG",
-    "pubDate": "2026-01-08T20:13:21+00:00"
   },
   {
     "title": "Bank of America upgrades Coinbase to 'buy' as exchange moves beyond crypto",
@@ -355,13 +404,6 @@
     "link": "https://www.polygon.com/dnd-alternative-dungeon-crawl-classics/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/Dungeon-Crawl-Classics-reference-booklet-cover-art.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-01-08T20:00:37+00:00"
-  },
-  {
-    "title": "Morgan Stanley to launch digital asset wallet as part of crypto product expansion",
-    "description": "The wallet, expected to launch this year, will support cryptocurrencies and RWAs as the financial services company adds to its suite of crypto investment products.",
-    "link": "https://cointelegraph.com/news/morgan-stanley-digital-asset-wallet-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9ef6-8d51-7871-b50d-52d59d08598e.jpg",
-    "pubDate": "2026-01-08T19:58:09+00:00"
   },
   {
     "title": "CNBC's Becky Quick details daughter's rare disease journey",
@@ -462,20 +504,6 @@
     "pubDate": "2026-01-08T18:26:05+00:00"
   },
   {
-    "title": "Residents told to evacuate immediately before clifftop homes collapse",
-    "description": "Hemsby residents are told their homes should not be occupied due to a risk of further cliff falls.",
-    "link": "https://www.bbc.com/news/articles/crkre16j128o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726e/live/dc85b560-eca3-11f0-b5f7-49f0357294ff.jpg",
-    "pubDate": "2026-01-08T18:25:15+00:00"
-  },
-  {
-    "title": "Coincheck to acquire digital asset manager 3iQ in $112M stock deal",
-    "description": "The transaction would give the Japanese exchange operator control of the Canadian asset manager, expanding its presence in regulated investment products.",
-    "link": "https://cointelegraph.com/news/coincheck-acquires-digital-asset-manager-3iq-112m-stock-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9e65-76d8-7bca-84a6-b408325beed3.jpg",
-    "pubDate": "2026-01-08T18:14:09+00:00"
-  },
-  {
     "title": "Where Trump's $2,000 tariff dividend checks stand now",
     "description": "President Trump says the U.S. raised more than $600 billion in tariff revenue. He previously suggested sending Americans $2,000 checks as a \"dividend\" payment.",
     "link": "https://www.cnbc.com/2026/01/08/stimulus-check-trump-tariffs-2000.html",
@@ -488,20 +516,6 @@
     "link": "https://www.polygon.com/arc-raiders-cold-storage-quest-walkthrough/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/arc-raiders-cold-storage-header.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-01-08T18:07:46+00:00"
-  },
-  {
-    "title": "BlackRock adds $900M BTC as Bitcoin long-term selling falls to 2017 lows",
-    "description": "BlackRock added close to 9,000 BTC during the first week of January, rebuilding exposure after an end-of-year drawdown in 2025 and pointing to early signs of BTC accumulation.",
-    "link": "https://cointelegraph.com/news/blackrock-adds-dollar900m-btc-as-bitcoin-long-term-selling-falls-to-2017-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b9dce-20f0-75da-8081-a64cb285c50e.jpg",
-    "pubDate": "2026-01-08T18:05:00+00:00"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
-    "pubDate": "2026-01-08T17:49:19+00:00"
   },
   {
     "title": "XRP ETFs see $40M of outflows after eight-week run of inflows",
@@ -546,25 +560,11 @@
     "pubDate": "2026-01-08T16:05:00+00:00"
   },
   {
-    "title": "Crypto for Advisors: 2026: Crypto and Beyond",
-    "description": "2026 is here. The crypto year ahead: banks, stablecoins, tokenization. Discover why the biggest risk for advisors is now under-allocation.",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/01/07/crypto-for-advisors-2026-crypto-and-beyond",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/98bd01b393c5699666009370ba331ce098899dfd-7360x4912.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-01-08T16:00:00+00:00"
-  },
-  {
     "title": "Nintendo Is Serving Up New Joy-Con 2 Controller Colors Just In Time For Mario Tennis Fever",
     "description": "Nintendo Switch 2 Light Green and Light Purple Joy-Con 2 (2-Pack) $100 | Releases February 12 Preorder at Nintendo Store Nintendo has unveiled its first set of new Joy-Con 2 colors: Light Purple and Light Green. These add a pastel accent to the controllers, and preorders for the $100 set--the same price as a standard set of Light Blue and Light Red Joy-Con 2 controllers--are now open ahead of their February 12 launch. Both controllers also come with matching wrist straps. Nintendo Switch 2 Light Green and Light Purple Joy-Con 2 (2-Pack) $100 | Releases February 12 This isn't a complete makeover of the Joy-Con 2, as the new color appears on the base of the thumbstick and the included wrist strap. This means that the colors will be hard to spot, unless you use one of the Joy-Con 2 controllers on their own during a multiplayer game like Mario Kart World. The Joy-Con 2 controllers feature motion controls, improved HD Rumble, NFC support for Amiibo, and are slightly larger than the original Switch Joy-Cons. Mouse Mode is a new addition that lets you turn the controllers on their sides and use them like a computer mouse in compatible games like Metroid Prime 4, Fortnite, and Civilization 7. You'll also find the new C button to access the Switch 2's GameChat feature on the right Joy-Con 2, and the magnetic connection lets them snap firmly into place on the console. Preorder at Nintendo Store The controllers are also arriving just in time for Mario Tennis Fever, which will be released on the same day. Mario Tennis Fever's physical edition is up for preorder at Amazon, Walmart, Target, Best Buy, and GameStop. The game is also compatible with original Joy-Con controllers, and these are still readily available. Mario Tennis Fever for Nintendo Switch 2 $69 | Releases February 12 Preorder at Amazon Preorder at Walmart Preorder at Target Preorder at Best Buy Preorder at GameStop If you don't feel like waiting, you can pick up several other Switch 2 controller accessories. Individual left- and right-hand Joy-Con 2 controllers can be purchased, or, for something more traditional, the Switch 2 Pro Controller is a sturdy option for playing games. Like most things in life, these accessories saw their price increase last year. Nintendo raised the MSRP on most of its products by $5-$10 each. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/nintendo-joy-con-2-light-purple-light-green-preorder-roundup/1100-6537276/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4632513-mario-tennis-switch-joy-con-2.jpg",
     "pubDate": "2026-01-08T15:41:00+00:00"
-  },
-  {
-    "title": "Weight loss jabs affecting Greggs, boss says",
-    "description": "The Greggs boss says there is \"no doubt\" weight loss jabs have led it to having a healthier menu.",
-    "link": "https://www.bbc.com/news/articles/c20g11y4dywo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58ef/live/a912a7e0-eca0-11f0-be98-fd0ce9c3379d.jpg",
-    "pubDate": "2026-01-08T15:38:19+00:00"
   },
   {
     "title": "Abandoned baby Elsa to be adopted and regularly see two siblings",
@@ -588,74 +588,67 @@
     "pubDate": "2026-01-07T17:32:17+00:00"
   },
   {
-    "title": "Earnings Preview: What to Expect From Jacobs Solutions’ Report",
+    "title": "Is AptarGroup (ATR) an Undervalued Stock?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/earnings-preview-expect-jacobs-solutions-124246827.html",
-    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/8a1d775cdbedf9426abe394036715317",
-    "pubDate": "2026-01-07T12:42:46+00:00"
+    "link": "https://finance.yahoo.com/news/aptargroup-atr-undervalued-stock-145559993.html",
+    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/d8984fb38e25018d523730cc00a74d4d",
+    "pubDate": "2026-01-07T14:55:59+00:00"
   },
   {
-    "title": "What You Need to Know Ahead of Amcor’s Earnings Release",
+    "title": "Earnings Preview: What to Expect From United Rentals' Report",
     "description": "",
-    "link": "https://finance.yahoo.com/news/know-ahead-amcor-earnings-release-124027945.html",
-    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/2ab76ea264466ff59d94f0ab1fdf092e",
-    "pubDate": "2026-01-07T12:40:27+00:00"
+    "link": "https://finance.yahoo.com/news/earnings-preview-expect-united-rentals-145520727.html",
+    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/2380b3eeb5fa1dd3c216e01b06c084d5",
+    "pubDate": "2026-01-07T14:55:20+00:00"
   },
   {
-    "title": "MSCI's Q4 2025 Earnings: What to Expect",
+    "title": "Is Tower Semiconductor (TSEM) Well-Positioned to Benefit from Growth in Silicon Photonic Content Production?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/mscis-q4-2025-earnings-expect-123919764.html",
-    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/3c39eceb9f9af60d742015c9abb9100c",
-    "pubDate": "2026-01-07T12:39:19+00:00"
+    "link": "https://finance.yahoo.com/news/tower-semiconductor-tsem-well-positioned-145101117.html",
+    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/6f9b63ea6a8b26f33c58e0485b351bdb",
+    "pubDate": "2026-01-07T14:51:01+00:00"
   },
   {
-    "title": "STAAR Surgical terminates Alcon merger agreement",
+    "title": "Current credit card interest rates",
     "description": "",
-    "link": "https://finance.yahoo.com/news/staar-surgical-terminates-alcon-merger-123856155.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Ska6_fItcGlwHypF3AUQXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/medical_device_network_744/d265de2ed5cabcc0be2cdb12158a923d",
-    "pubDate": "2026-01-07T12:38:56+00:00"
+    "link": "https://finance.yahoo.com/news/current-credit-card-interest-rates-190100321.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/P_VXdnCWfMdwwlohBumpRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/0767fb9cef8ed84f2d8d489d5b01c236",
+    "pubDate": "2026-01-07T14:45:46+00:00"
   },
   {
-    "title": "Crystal Ball: Where venture capital and private equity are headed in 2026",
+    "title": "What Makes Shift4 Payments (FOUR) an Investment Bet?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/crystal-ball-where-venture-capital-123827951.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/lyl7P7d7fXUp_8B837pRkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/b8afec619a10023f7f51e231740e8174",
-    "pubDate": "2026-01-07T12:38:27+00:00"
+    "link": "https://finance.yahoo.com/news/makes-shift4-payments-four-investment-144452983.html",
+    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/3cb5551320e59b183208801d001f70e9",
+    "pubDate": "2026-01-07T14:44:52+00:00"
   },
   {
-    "title": "Here's What to Expect From Jack Henry &amp; Associates’ Next Earnings Report",
+    "title": "Penguin Solutions (PENG) Earnings Transcript",
     "description": "",
-    "link": "https://finance.yahoo.com/news/heres-expect-jack-henry-associates-123812441.html",
-    "thumbnail": "https://media.zenfs.com/en/barchart_com_477/38bf93feacd0021696e1d2186049173e",
-    "pubDate": "2026-01-07T12:38:12+00:00"
+    "link": "https://finance.yahoo.com/news/penguin-solutions-peng-earnings-transcript-143828593.html",
+    "thumbnail": "https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+    "pubDate": "2026-01-07T14:38:28+00:00"
   },
   {
-    "title": "Warner Bros rejects Paramount takeover again and tells shareholders to stick with Netflix bid",
+    "title": "Lloyds Bank, Archax and Canton Network Complete UK’s First Gilt Purchase Using Tokenised Deposits",
     "description": "",
-    "link": "https://finance.yahoo.com/news/warner-bros-rejects-takeover-offer-123809309.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Au5EnAegWtze8kEMLa1Zhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/ed5a211072625d9176aaf1642d3c476a",
-    "pubDate": "2026-01-07T12:38:09+00:00"
+    "link": "https://finance.yahoo.com/news/lloyds-bank-archax-canton-network-143754526.html",
+    "thumbnail": "https://media.zenfs.com/en/cryptonews_us_711/351c5bdaeddec7dc1c855c4fd775c991",
+    "pubDate": "2026-01-07T14:37:54+00:00"
   },
   {
-    "title": "Best high-yield savings interest rates today, January 7, 2026 (Earn up to 4% APY)",
+    "title": "Here’s Why Drove Growth in Entegris’ (ENTG) Products",
     "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-january-7-2026-110023182.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/8iDigyCbzSotCxTQ.gNS1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a41ff6a0-4eb5-11ef-b1fe-05a827b12f92",
-    "pubDate": "2026-01-07T11:00:23+00:00"
+    "link": "https://finance.yahoo.com/news/why-drove-growth-entegris-entg-143730057.html",
+    "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/17843d145e4182ddef2a7f9bc2c1511f",
+    "pubDate": "2026-01-07T14:37:30+00:00"
   },
   {
-    "title": "Best CD rates today, January 7, 2026: Lock in up to 4.1% APY",
+    "title": "How much is the monthly payment on a $700,000 mortgage?",
     "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-january-7-2026-lock-in-up-to-41-apy-110020011.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/j5EPBCvWMZaPFkgUd3W3lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d2-4f64-11ef-8ffb-deebdbfd96c8",
-    "pubDate": "2026-01-07T11:00:20+00:00"
-  },
-  {
-    "title": "Best money market account rates today, January 7, 2026 (secure up to 4.1% APY)",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-january-7-2026-110009831.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/tGbF17E.EE_0O9FmeFcx0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/d21d1ad0-20a9-11f0-bbbf-20f4269af61e",
-    "pubDate": "2026-01-07T11:00:09+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/700000-mortgage-monthly-payment-140033227.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/S0vhCOOA.kMPzPdd2OATTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/88ba7080-e0f3-11f0-b3e8-d4c6885dc8df",
+    "pubDate": "2026-01-07T14:00:33+00:00"
   },
   {
     "title": "Greenpan Frost: This Soft-Serve Machine Is Even More Versatile Than the Ninja Creami",
