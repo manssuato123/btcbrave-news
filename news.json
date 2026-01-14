@@ -1,5 +1,40 @@
 [
   {
+    "title": "What's at stake as Greenland and Denmark prepare for a White House showdown",
+    "description": "The high-stakes meeting comes shortly after Greenland and Denmark's leaders portrayed a united front against Trump's takeover threats.",
+    "link": "https://www.cnbc.com/2026/01/14/greenland-denmark-trump-white-house-meeting.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108252118-1768373740479-gettyimages-2201771134-_s017856_ayf8sztc.jpeg?v=1768373807&w=1920&h=1080",
+    "pubDate": "2026-01-14T06:59:38+00:00"
+  },
+  {
+    "title": "Japanese stocks hit another record high as expectations of snap poll rise",
+    "description": "This comes as Japan's ruling LDP under Prime Minister Sanae Takaichi is expected to call an election in February.",
+    "link": "https://www.cnbc.com/2026/01/14/asia-pacific-nikkei-225-japan-takaichi-election-record.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107183366-1674602981932-gettyimages-1245502475-AFP_332M6MZ.jpeg?v=1674603514&w=1920&h=1080",
+    "pubDate": "2026-01-14T06:52:35+00:00"
+  },
+  {
+    "title": "Iran’s Leaders May Survive Protests. But Anger Will Likely Persist.",
+    "description": "Its security forces have brutally defended the Islamic Republic, but the protests show that many Iranians consider it stagnant and ideologically hollow.",
+    "link": "https://www.nytimes.com/2026/01/14/world/middleeast/iran-protests-government.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/14/multimedia/14int-iran-geopolitics-fvcq/14int-iran-geopolitics-fvcq-facebookJumbo.jpg",
+    "pubDate": "2026-01-14T06:46:22+00:00"
+  },
+  {
+    "title": "China's annual trade surplus hits a record $1.2 trillion, even as exports to U.S. decline by 20%",
+    "description": "China's exports growth in December sharply beat expectations, catapulting the annual trade surplus to a record high.",
+    "link": "https://www.cnbc.com/2026/01/14/china-trade-data-surplus-exports-imports-december-tariffs-tensions.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108252037-1768348672955-gettyimages-2255476121-Qingdao_Port_Foreign_Trade_Containers.jpeg?v=1768348924&w=1920&h=1080",
+    "pubDate": "2026-01-14T06:31:44+00:00"
+  },
+  {
+    "title": "European markets head for mixed open as focus shifts to Greenland talks",
+    "description": "European stocks are expected to open in mixed territory as investors in the region focus on a meeting between U.S. and Danish officials to discuss Greenland.",
+    "link": "https://www.cnbc.com/2026/01/14/european-markets-live-stoxx-600-dax-cac-ftse-greenland-talks.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108251702-1768313843620-gettyimages-2255496081-GREENLAND_ILULISSAT.jpeg?v=1768313868&w=1920&h=1080",
+    "pubDate": "2026-01-14T06:16:54+00:00"
+  },
+  {
     "title": "Crypto market structure rulemaking could take years: Paradigm exec",
     "description": "Rulemaking involves individual regulators and agencies fleshing out the details of a law passed by legislators. It can include publishing proposed rules and seeking public comment.",
     "link": "https://cointelegraph.com/news/crypto-market-structure-bill-rulemaking-years-away?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -49,7 +84,7 @@
     "pubDate": "2026-01-14T05:44:08+00:00"
   },
   {
-    "title": "‘Concerning trend’: Impersonation scams swell 1400% in 2025",
+    "title": "‘Concerning trend’: Impersonation scams swell 1,400% in 2025",
     "description": "Crypto security experts said a good way to counter scams that rely on deceiving victims is to be skeptical of every unsolicited message and interaction.",
     "link": "https://cointelegraph.com/news/crypto-scams-2025-ai-impersonation-fraud-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bba1f-e39e-770c-b47c-560e8cd2ee20.jpg",
@@ -61,13 +96,6 @@
     "link": "https://www.bbc.com/news/articles/cpqyn58v0dxo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd3/live/1ffd51a0-f0fe-11f0-b385-5f48925de19a.jpg",
     "pubDate": "2026-01-14T05:11:22+00:00"
-  },
-  {
-    "title": "Iran’s Leaders May Survive Protests. But Anger Will Likely Persist.",
-    "description": "Its security forces have brutally defended the Islamic Republic, but the protests show that many Iranians consider it stagnant and ideologically hollow.",
-    "link": "https://www.nytimes.com/2026/01/14/world/middleeast/iran-protests-government.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/14/multimedia/14int-iran-geopolitics-fvcq/14int-iran-geopolitics-fvcq-facebookJumbo.jpg",
-    "pubDate": "2026-01-14T05:01:09+00:00"
   },
   {
     "title": "Bitcoin surges above $95,000 as ether, solana, cardano jump 8% on investor optimism",
@@ -82,13 +110,6 @@
     "link": "https://www.coindesk.com/markets/2026/01/14/bitcoin-prices-hit-two-month-high-but-u-s-demand-lags-key-signal-shows",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/189c82fe52c9ec0f1c12177569dd2b8dd6d6a5af-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-01-14T04:58:52+00:00"
-  },
-  {
-    "title": "China's annual trade surplus hits a record $1.2 trillion, even as exports to U.S. decline by 20%",
-    "description": "China's exports growth in December sharply beat expectations, catapulting the annual trade surplus to a record high.",
-    "link": "https://www.cnbc.com/2026/01/14/china-trade-data-surplus-exports-imports-december-tariffs-tensions.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108252037-1768348672955-gettyimages-2255476121-Qingdao_Port_Foreign_Trade_Containers.jpeg?v=1768348924&w=1920&h=1080",
-    "pubDate": "2026-01-14T04:57:26+00:00"
   },
   {
     "title": "Crypto treasury buying outpaces Bitcoin supply at 3-to-1",
@@ -154,13 +175,6 @@
     "pubDate": "2026-01-14T03:13:32+00:00"
   },
   {
-    "title": "South Korea's special prosecutor seeks death penalty for ex-President Yoon over martial law bid",
-    "description": "If Yoon is sentenced to death, it will be the first execution South Korea has carried out in almost 30 years.",
-    "link": "https://www.cnbc.com/2026/01/14/south-korea-special-prosecutor-seek-death-penalty-former-president-yoon-martial-law.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108091032-1737609887511-gettyimages-2194470996-SKOREA_YOON_IMPEACHMENT.jpeg?v=1737609913&w=1920&h=1080",
-    "pubDate": "2026-01-14T02:34:00+00:00"
-  },
-  {
     "title": "Spot flows drive Bitcoin surge as analysts tip $100K run next",
     "description": "“Retail FOMO” may ramp up in the coming days if Bitcoin returns to $100,000, according to crypto sentiment platform Santiment.",
     "link": "https://cointelegraph.com/news/bitcoin-price-spot-buying-surge-forecasts-crypto-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -182,7 +196,7 @@
     "pubDate": "2026-01-14T02:09:13+00:00"
   },
   {
-    "title": "Revolut stablecoin payment volumes surge 156% in 2025: Research",
+    "title": "Revolut stablecoin payment volumes surged 156% in 2025, researcher estimates",
     "description": "The most common stablecoin transfer amounts are in the $100 to $500 range, showing Revolut customers are actively using stablecoins for everyday medium-sized payments.",
     "link": "https://cointelegraph.com/news/revolut-stablecoin-payments-rose-156-percent-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bb9f9-f386-70e1-b386-c5881ba2c551.jpg",
@@ -280,13 +294,6 @@
     "pubDate": "2026-01-13T22:57:25+00:00"
   },
   {
-    "title": "Oil prices rise more than 2% after Trump cancels meetings with Iran, tells protesters help is on the way",
-    "description": "President Donald Trump has repeatedly threatened to intervene if the Islamic Republic kills protesters.",
-    "link": "https://www.cnbc.com/2026/01/13/oil-prices-today-trump-iran-protests.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108251077-1768220908604-gettyimages-2255209414-MEI-IRN-Ma-DIIMP-20260109-0015_1.jpeg?v=1768371700&w=1920&h=1080",
-    "pubDate": "2026-01-13T22:46:27+00:00"
-  },
-  {
     "title": "The Battle Royale Manga Returns With A New Deluxe Edition",
     "description": "Battle Royale: Deluxe Edition Volume 1 $44 (was $55) | Releases January 27 Preorder at Amazon Battle Royale has been a controversial IP since its first release, starting life as a book and then becoming a cult-classic movie. The franchise's success in print and on the big screen led to an inevitable manga adaptation, which returns later this month in a snazzy Deluxe Edition format. The first volume of the Battle Royale: Deluxe Edition will be available starting January 27, and preorders are available at Amazon--and best of all, it's currently discounted to $44 ahead of launch, saving you 20% off its standard $55 MSRP. Battle Royale: Deluxe Edition Volume 1 $44 (was $55) | Releases January 27 Battle Royale: Deluxe Edition Volume 1 is a 604-page, leather-bound hardcover omnibus featuring the first three volumes of the original manga series that ran from 2000 to 2005. It's unclear if the Deluxe Edition's publisher Yen Press is including a new--hopefully more faithful--translation or the controversial script from the English editions published by TokyoPop. While the Japanese version of the manga closely follows the original novel's plot, the English adaptation--handled by veteran comic book writer Keith Griffen--made substantial changes, resulting in several major plot holes in the later volumes. Either way, considering TokyoPop's releases have been out of print for several years, this new Deluxe Edition will be the easiest way to read the manga adaptation of the wildly popular franchise. Volume 1 launches on January 27, and we expect the next volumes in the series to go up for preorder in the near future. Preorder at Amazon Battle Royale would receive several sequel manga series over the years, but most of these are also hard to find due to their limited print runs. The most recent series in the IP is Battle Royale: Enforcers, which began serialization in 2022. Set decades after the original series, Enforcers takes place in the same universe. After a government artificial intelligence reactivates the infamous Program 68, the unruly kids of Daitoa Academy's Class F find themselves divided into squads, given weapons, and set loose to fight each other to the death. So far, four paperback volumes of the series have been released and translated into English. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/battle-royale-deluxe-edition-manga/1100-6537328/?ftag=CAD-01-10abi2f",
@@ -348,13 +355,6 @@
     "link": "https://www.cnbc.com/2026/01/13/a-major-development-in-trumps-fed-feud-is-set-to-happen-next-week-in-the-supreme-court.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108251914-1768331633289-108251914-17683314512026-01-13t191009z_242982489_rc2j0jaudp2v_rtrmadp_0_usa-trump.jpg?v=1768336277&w=1920&h=1080",
     "pubDate": "2026-01-13T21:30:06+00:00"
-  },
-  {
-    "title": "Palantir is trying to 'destroy' Percepta through legal action, startup's execs say in filing",
-    "description": "Three months after Palantir sued Percepta employees, lawyers for the defendants said Palantir is trying to \"scare others away\" from leaving the company.",
-    "link": "https://www.cnbc.com/2026/01/13/ai-palantir-percepta-lawsuit-theft.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108221125-1762266468078-108221125-1762265311970-SG-Karp-3.jpg?v=1768339008&w=1920&h=1080",
-    "pubDate": "2026-01-13T21:22:03+00:00"
   },
   {
     "title": "How a battle with bankers tarnished crypto's market structure bill near the finish line",
