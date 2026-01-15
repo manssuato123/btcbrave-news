@@ -1,10 +1,66 @@
 [
   {
+    "title": "European chip stocks surge after TSMC posts record fourth-quarter profit; ASML pops 7%",
+    "description": "European stocks open broadly higher Thursday as traders digest the latest geopolitical news around Greenland and Iran.",
+    "link": "https://www.cnbc.com/2026/01/15/european-markets-live-updates-stoxx-600-dax-ftse-cac.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108019821-1723561950847-gettyimages-1900810562-raa-asmlhold240104_npWrR.jpeg?v=1768465071&w=1920&h=1080",
+    "pubDate": "2026-01-15T08:57:48+00:00"
+  },
+  {
+    "title": "Twenty-three English councils ask for election delays",
+    "description": "Most wanting a delay are Labour-led but three are Tory controlled and one is Lib Dem council.",
+    "link": "https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f16/live/c87e5c80-f1e3-11f0-a422-4ba8a094a8fa.jpg",
+    "pubDate": "2026-01-15T08:46:04+00:00"
+  },
+  {
+    "title": "X to stop Grok AI from undressing images of real people after backlash",
+    "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
+    "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e39/live/d2ffc570-f1a9-11f0-af39-d97d2e6b0b19.jpg",
+    "pubDate": "2026-01-15T08:45:38+00:00"
+  },
+  {
+    "title": "Bitcoin bull case grows as U.S. bond market volatility sinks to lowest since 2021",
+    "description": "The bond market volatility gauge has slipped to its lowest since October 2021, supporting risk-taking in financial markets.",
+    "link": "https://www.coindesk.com/markets/2026/01/15/bitcoin-bull-case-grows-as-u-s-bond-market-volatility-sinks-to-lowest-since-2021",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7678ad7e32c3127d81a1997856fe40e029aca15b-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-01-15T08:43:37+00:00"
+  },
+  {
+    "title": "NATO nations deploy to Greenland after tense White House talks",
+    "description": "The joint NATO exercise comes shortly after tense talks between officials representing the U.S., Denmark and Greenland.",
+    "link": "https://www.cnbc.com/2026/01/15/greenland-nato-troops-denmark-germany-arctic-trump.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108248852-1767718754727-gettyimages-2244788393-GREENLAND_ECONOMY.jpeg?v=1767749665&w=1920&h=1080",
+    "pubDate": "2026-01-15T08:42:35+00:00"
+  },
+  {
+    "title": "UK economy grew by 0.3% in November, beating forecasts",
+    "description": "The economy was boosted by a rebound in car production and from the services sector.",
+    "link": "https://www.bbc.com/news/articles/c8d041pp85mo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72fb/live/37875cd0-f149-11f0-b108-71580feedafc.jpg",
+    "pubDate": "2026-01-15T08:32:18+00:00"
+  },
+  {
     "title": "DeFi quietly breaks up with Discord as scams overwhelm public channels",
     "description": "Ticketed help desks and live support are replacing always-on Discord channels at major DeFi protocols.",
     "link": "https://cointelegraph.com/news/defi-protocols-exit-discord-scams-support-channels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bc068-c7bb-7264-976d-7fcaf983c9a0.jpg",
     "pubDate": "2026-01-15T08:27:19+00:00"
+  },
+  {
+    "title": "TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand",
+    "description": "TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.",
+    "link": "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108190003-1756081779730-gettyimages-2147908701-TSMC_CHIP_GRANT.jpeg?v=1768435975&w=1920&h=1080",
+    "pubDate": "2026-01-15T08:22:24+00:00"
+  },
+  {
+    "title": "Russia expels British diplomat over allegations of spying",
+    "description": "The man has been stripped of his accreditation and must leave within two weeks, says Russia's foreign ministry.",
+    "link": "https://www.bbc.com/news/articles/c23rpn8k7glo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/30250fc0-f1e7-11f0-a422-4ba8a094a8fa.jpg",
+    "pubDate": "2026-01-15T08:20:13+00:00"
   },
   {
     "title": "Crypto slump hits ARK ETFs in Q4, Coinbase becomes top detractor",
@@ -14,18 +70,18 @@
     "pubDate": "2026-01-15T08:13:06+00:00"
   },
   {
+    "title": "New rules to make it easier to call up reservists for war",
+    "description": "Reservists will remain on call for an extra decade, with a lower threshold for being called up.",
+    "link": "https://www.bbc.com/news/articles/c4grjxl4w06o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e26/live/a319e240-f1e6-11f0-b373-d7bde4e9f067.png",
+    "pubDate": "2026-01-15T07:55:18+00:00"
+  },
+  {
     "title": "UK economy surprises with stronger-than-expected 0.3% growth in November",
     "description": "Economists expect the U.K. economy to improve in 2026, particularly as the Bank of England is likely to continue on its interest rate-cutting path.",
     "link": "https://www.cnbc.com/2026/01/15/uk-gdp-november-2025-data.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108101158-1739351366525-gettyimages-2189055440-UK_ECONOMY.jpeg?v=1739432085&w=1920&h=1080",
     "pubDate": "2026-01-15T07:43:03+00:00"
-  },
-  {
-    "title": "TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand",
-    "description": "TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.",
-    "link": "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108190003-1756081779730-gettyimages-2147908701-TSMC_CHIP_GRANT.jpeg?v=1768435975&w=1920&h=1080",
-    "pubDate": "2026-01-15T07:39:22+00:00"
   },
   {
     "title": "Federal Agent Shoots Man in Minneapolis, Prompting Tense Protests",
@@ -35,13 +91,6 @@
     "pubDate": "2026-01-15T07:37:04+00:00"
   },
   {
-    "title": "UK economy grew by 0.3% in November, beating forecasts",
-    "description": "The economy was boosted by a rebound in car production and from the services sector.",
-    "link": "https://www.bbc.com/news/articles/c8d041pp85mo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72fb/live/37875cd0-f149-11f0-b108-71580feedafc.jpg",
-    "pubDate": "2026-01-15T07:35:21+00:00"
-  },
-  {
     "title": "Bitcoin ETFs take in $830 million amid positive inflows across ether, solana and XRP",
     "description": "Bitcoin, ether, solana and XRP spot ETFs all posted net inflows on Wednesday, led by the strongest day for bitcoin funds in months.",
     "link": "https://www.coindesk.com/markets/2026/01/15/bitcoin-etfs-take-in-usd830-million-amid-positive-inflows-across-ether-solana-and-xrp",
@@ -49,32 +98,11 @@
     "pubDate": "2026-01-15T07:31:39+00:00"
   },
   {
-    "title": "ICE agent shoots Minneapolis man in the leg",
+    "title": "ICE agent shoots Minneapolis man in leg after alleged attack, officials say",
     "description": "The City of Minneapolis confirmed a man was shot and taken to hospital for non-life threatening injuries.",
     "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae0/live/22015030-f1c8-11f0-a422-4ba8a094a8fa.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c2/live/8b5f9fb0-f1e5-11f0-a422-4ba8a094a8fa.jpg",
     "pubDate": "2026-01-15T07:30:47+00:00"
-  },
-  {
-    "title": "European markets head for higher open as traders track Greenland, Iran news",
-    "description": "European stocks are expected to open broadly higher Thursday as traders digest the latest geopolitical news around Greenland and Iran.",
-    "link": "https://www.cnbc.com/2026/01/15/european-markets-live-updates-stoxx-600-dax-ftse-cac.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108019821-1723561950847-gettyimages-1900810562-raa-asmlhold240104_npWrR.jpeg?v=1768465071&w=1920&h=1080",
-    "pubDate": "2026-01-15T07:25:55+00:00"
-  },
-  {
-    "title": "South Korea stocks hit record high after Bank of Korea keeps interest rate unchanged",
-    "description": "Asia-Pacific markets traded mixed as investors assessed the latest policy decision coming out of the Bank of Korea.",
-    "link": "https://www.cnbc.com/2026/01/15/asia-pacific-markets-today-thursday-stocks-kospi-hang-seng-index-nikkei-225.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108154955-1749090061264-gettyimages-1147946849-not04093-edit.jpeg?v=1749090071&w=1920&h=1080",
-    "pubDate": "2026-01-15T07:18:18+00:00"
-  },
-  {
-    "title": "X to stop Grok AI from undressing images of real people after backlash",
-    "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
-    "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e39/live/d2ffc570-f1a9-11f0-af39-d97d2e6b0b19.jpg",
-    "pubDate": "2026-01-15T07:14:57+00:00"
   },
   {
     "title": "Crypto market turns greedy after three-month break",
@@ -119,14 +147,7 @@
     "pubDate": "2026-01-15T06:26:35+00:00"
   },
   {
-    "title": "Seizing Greenland risks 'monumental' fallout, ex-Iceland president warns, as Trump sharpens rhetoric",
-    "description": "A U.S. attempt to seize Greenland by force would trigger \"monumental consequences\" for the Western alliance and the global order, said former Icelandic President Olafur Grimsson.",
-    "link": "https://www.cnbc.com/2026/01/15/us-greenland-trump-takeover-iceland-president.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108252435-1768410547731-gettyimages-2255656501-AFP_92PG23E.jpeg?v=1768434647&w=1920&h=1080",
-    "pubDate": "2026-01-15T06:06:19+00:00"
-  },
-  {
-    "title": "Rift at top of the Taliban: BBC reveals clash of wills behind internet shutdown",
+    "title": "Rift at top of the Taliban: BBC reveals clash of wills behind Afghan internet shutdown",
     "description": "The Taliban leader once warned of a split: A BBC investigation reveals how attitudes to women, the internet and religion are dividing the group at the very top.",
     "link": "https://www.bbc.com/news/articles/cg7vdpy1l2vo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf9/live/7cb77910-f172-11f0-b5f7-49f0357294ff.jpg",
@@ -301,13 +322,6 @@
     "pubDate": "2026-01-15T02:30:53+00:00"
   },
   {
-    "title": "Two Palestine Action hunger strikers end protest after 73 days",
-    "description": "The BBC understands that one of the protesters was taken to hospital earlier on Wednesday in a poor condition.",
-    "link": "https://www.bbc.com/news/articles/cwy1q98qyego?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f6b/live/b9b49df0-f18d-11f0-b5f7-49f0357294ff.jpg",
-    "pubDate": "2026-01-15T02:10:33+00:00"
-  },
-  {
     "title": "Trump Says Iran Is Stopping Its Killings of Protesters as U.S. Moves Troops",
     "description": "Nonessential personnel were moved from Al Udeid Air Base in Qatar, an American site that could be a target of Iran if President Trump ordered an attack on the country.",
     "link": "https://www.nytimes.com/2026/01/14/us/politics/us-base-qatar-iran.html",
@@ -322,20 +336,6 @@
     "pubDate": "2026-01-15T01:43:36+00:00"
   },
   {
-    "title": "Twenty one English councils ask for election delays",
-    "description": "Nearly a third of eligible authorities say they want to postpone local polls scheduled for May.",
-    "link": "https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f16/live/c87e5c80-f1e3-11f0-a422-4ba8a094a8fa.jpg",
-    "pubDate": "2026-01-15T01:32:01+00:00"
-  },
-  {
-    "title": "New Polymarket bettor places $40,000 on U.S. striking Iran tonight",
-    "description": "One trader went against the current trend of low chances for a strike tonight by placing the new $40,000 bet.",
-    "link": "https://www.coindesk.com/markets/2026/01/14/new-polymarket-bettor-places-usd40-000-on-u-s-striking-iran-tonight",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d64448ce067f294c297a109e42930156c249115f-4507x3005.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-01-15T01:14:20+00:00"
-  },
-  {
     "title": "Woman Killed by ICE Agent Seemed at Fault, N.Y. Republican Says",
     "description": "Bruce Blakeman, the likely Republican candidate for governor, said the killing of Renee Good was just one point of disagreement between him and Gov. Kathy Hochul, a Democrat.",
     "link": "https://www.nytimes.com/2026/01/14/nyregion/blakeman-ice-minneapolis.html",
@@ -348,13 +348,6 @@
     "link": "https://www.polygon.com/animal-crossing-new-horizons-acnh-slumber-island-unlock-luna/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/obs64_2026-01-14_17-01-02.png?w=1600&h=900&fit=crop",
     "pubDate": "2026-01-14T22:47:46+00:00"
-  },
-  {
-    "title": "Nasa astronauts begin 'bittersweet' medical evacuation from space station",
-    "description": "The crew is expected to splash down off the coast of California in the early hours of Thursday local time.",
-    "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6982/live/751341d0-f1e0-11f0-a422-4ba8a094a8fa.jpg",
-    "pubDate": "2026-01-14T22:28:03+00:00"
   },
   {
     "title": "Trump’s Gulf Allies Do Not Want Him to Bomb Iran",
@@ -511,74 +504,81 @@
     "pubDate": "2026-01-14T16:01:15+00:00"
   },
   {
-    "title": "Long-Term Bullish Signal Hasn't Failed Samsara Stock",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/long-term-bullish-signal-hasnt-202447843.html",
-    "thumbnail": "https://s.yimg.com/os/en/schaeffers_investment_research_24/319f5dd928dfc3d1701e128c8c296588",
-    "pubDate": "2026-01-13T20:24:47+00:00"
+    "title": "Trump’s latest geopolitical gambits all lead back to China",
+    "description": "President Donald Trump's international interventions may all come down to one thing: China and its dominance of critical minerals.",
+    "link": "https://www.cnbc.com/2026/01/14/greenland-venezuela-iran-us-china-power-struggle-rare-earths-critical-minerals-energy.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108184518-1754957102304-gettyimages-2208850556-AA_10042025_2168830.jpeg?v=1768305218&w=1920&h=1080",
+    "pubDate": "2026-01-14T13:07:32+00:00"
   },
   {
-    "title": "Geopolitical Risks Underpin Crude Oil Prices",
+    "title": "Helmerich &amp; Payne (HP) Price Target Raised to $35",
     "description": "",
-    "link": "https://finance.yahoo.com/news/geopolitical-risks-underpin-crude-oil-202209918.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Px3SqbgVGbmk.KdCXRqMqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/c2e3d0f8d049a5e48855daa7bb07ff5d",
-    "pubDate": "2026-01-13T20:22:09+00:00"
+    "link": "https://finance.yahoo.com/news/helmerich-payne-hp-price-target-205459473.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Gc2pQ1BZOv29GK6ha3Nf6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/fd2631c6992ff16dead9f51aa60c9f14",
+    "pubDate": "2026-01-13T20:54:59+00:00"
   },
   {
-    "title": "Nvidia Stock Could Be Just a Few Weeks Away from a Major Downside Catalyst. How to Play NVDA Here.",
+    "title": "PBF Energy (PBF) Double Upgraded to ‘Overweight’",
     "description": "",
-    "link": "https://finance.yahoo.com/news/nvidia-stock-could-just-few-200745676.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7x9oHaheYfL_05Phg0FTvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/d869ad8ddb9b536f9a2ff587cba6add7",
-    "pubDate": "2026-01-13T20:07:45+00:00"
+    "link": "https://finance.yahoo.com/news/pbf-energy-pbf-double-upgraded-205446939.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/DaIkNNmWuDVWB0swfUoqfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/266da5880c0e679d3611df6c50fcd082",
+    "pubDate": "2026-01-13T20:54:46+00:00"
   },
   {
-    "title": "Shares Of Boeing, Which Outsold Airbus In 2025, Reach A Buy Point",
+    "title": "Analyst Raises Halliburton (HAL) Price Target to $36",
     "description": "",
-    "link": "https://www.investors.com/news/boeing-airbus-jet-plane-aerospace-defense-737/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2020/07/Stock-boeing747-02-shutt.jpg",
-    "pubDate": "2026-01-13T20:05:06+00:00"
+    "link": "https://finance.yahoo.com/news/analyst-raises-halliburton-hal-price-205418060.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/dZMmx_Gh9F.6g5VT9b4H8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/e24db3a29fb2c29baef19d9ef76fe28e",
+    "pubDate": "2026-01-13T20:54:18+00:00"
   },
   {
-    "title": "Precious Metals in Q4 and 2025- What are the Prospects for Q1 2026 and Beyond?",
+    "title": "HF Sinclair (DINO) Completes Acquisition of Industrial Oils Unlimited",
     "description": "",
-    "link": "https://finance.yahoo.com/news/precious-metals-q4-2025-prospects-200002623.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/cXe3O2ZkfvkerMMxUka38Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/9b424b490986973776de21fc803f586b",
-    "pubDate": "2026-01-13T20:00:02+00:00"
+    "link": "https://finance.yahoo.com/news/hf-sinclair-dino-completes-acquisition-205340180.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/FerJhP1.bx7NCzCd.SiWow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/b874f776cd16e1a23aeb839957384752",
+    "pubDate": "2026-01-13T20:53:40+00:00"
   },
   {
-    "title": "Ignore the Apple Noise and Consider Buying Qualcomm Stock for 2026",
+    "title": "SLB Upgraded to Outperform, Price Target Raised to $54",
     "description": "",
-    "link": "https://finance.yahoo.com/news/ignore-apple-noise-consider-buying-195735187.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ygNNk1IBbQmq9.JiVc0OOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/27deb1805dab397e5107b16c915dced6",
-    "pubDate": "2026-01-13T19:57:35+00:00"
+    "link": "https://finance.yahoo.com/news/slb-upgraded-outperform-price-target-205311996.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Fxl_Ww13RYK6W3zL_UOGSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/6cbeaf70baa7f3889976a41c5ab100ea",
+    "pubDate": "2026-01-13T20:53:11+00:00"
   },
   {
-    "title": "TAL Education Group Stock Shows Improved Technical Strength",
+    "title": "ConocoPhillips (COP) Price Target Lowered by $6",
     "description": "",
-    "link": "https://www.investors.com/news/tal-education-group-stock-shows-improved-technical-strength/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2017/05/IRU33.jpg",
-    "pubDate": "2026-01-13T19:52:37+00:00"
+    "link": "https://finance.yahoo.com/news/conocophillips-cop-price-target-lowered-205252954.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/4_8hR_QizMoyTDz1clr43g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/b78a3cd50213ee5d752e8a503c8cf90c",
+    "pubDate": "2026-01-13T20:52:52+00:00"
   },
   {
-    "title": "Why Nu Holdings Stock Jumped 61.6% In 2025",
+    "title": "Chevron (CVX) in Talks to Expand Oil License in Venezuela",
     "description": "",
-    "link": "https://finance.yahoo.com/news/why-nu-holdings-stock-jumped-193622403.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/cRLovvnaSo5VjM5zUXq9Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/7fbf786fb6bdfa42929542dfd5c53f86",
-    "pubDate": "2026-01-13T19:36:22+00:00"
+    "link": "https://finance.yahoo.com/news/chevron-cvx-talks-expand-oil-205238211.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/59x66RzfU_SABRbIkb_qng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/9993985ff21c88fc97966aed5b1501d8",
+    "pubDate": "2026-01-13T20:52:38+00:00"
   },
   {
-    "title": "nLIGHT CEO Sells 31,748 Shares as Company Reveals Q4 Revenue Topped Guidance",
+    "title": "Exxon Mobil (XOM) Forecasts Lower Q4 Earnings Due to Decline in Crude Prices",
     "description": "",
-    "link": "https://finance.yahoo.com/news/nlight-ceo-sells-31-748-193614513.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/hmMggfaiSIpMs2wZ1Wl6VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDcy/https://media.zenfs.com/en/motleyfool.com/af7ec8d325cf2a320c12c354cd741265",
-    "pubDate": "2026-01-13T19:36:14+00:00"
+    "link": "https://finance.yahoo.com/news/exxon-mobil-xom-forecasts-lower-205226995.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/PUS0OmZZW29UpgozyeYEuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/7233ebe68f9534bc1e350b5cdbfbfb77",
+    "pubDate": "2026-01-13T20:52:26+00:00"
   },
   {
-    "title": "Want to Buy Some of the Best Marijuana Stocks for 2026? Consider This ETF.",
+    "title": "Strive, Semler Stocks Fall After Shareholders Approve Bitcoin Treasury Acquisition",
     "description": "",
-    "link": "https://finance.yahoo.com/news/want-buy-best-marijuana-stocks-193614810.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/a.CWEfyPU_YhBrMw7vePWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/9c509dbb7392b019f84b1122b0894e4b",
-    "pubDate": "2026-01-13T19:36:14+00:00"
+    "link": "https://finance.yahoo.com/news/strive-semler-stocks-fall-shareholders-204433362.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/rs6LGM_66_3LECLZeP5SRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/be1b7ab35e5ff40a79dbc62dd019dc4f",
+    "pubDate": "2026-01-13T20:44:33+00:00"
+  },
+  {
+    "title": "Managed Assets in Retail Channel Returning to Parity With Institutional",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/managed-assets-retail-channel-returning-204103336.html",
+    "thumbnail": "https://s.yimg.com/os/en/wealth_management_474/cc4aa6462e8768000118356976ce8a14",
+    "pubDate": "2026-01-13T20:41:03+00:00"
   },
   {
     "title": "33 Pieces of Unique Glassware to Up Your Dinner Party Style",
