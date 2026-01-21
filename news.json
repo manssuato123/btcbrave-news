@@ -1,5 +1,47 @@
 [
   {
+    "title": "She’s a Billionaire. He’s a Socialist. Can They Get Along?",
+    "description": "Mayor Zohran Mamdani and Police Commissioner Jessica Tisch have little in common. But both their political futures hinge on the safety of the city.",
+    "link": "https://www.nytimes.com/2026/01/21/nyregion/zohran-mamdani-jessica-tisch-nypd.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/19/multimedia/00met-mamdani-tisch-vjcm/00met-mamdani-tisch-vjcm-facebookJumbo.jpg",
+    "pubDate": "2026-01-21T19:33:20+00:00"
+  },
+  {
+    "title": "Why Silksong is so dang hard, according to Team Cherry",
+    "description": "The Hollow Knight sequel has proven quite the challenge to players, despite patches and mods. Team Cherry discusses why.",
+    "link": "https://www.polygon.com/silksong-difficulty-hollow-knight-team-cherry-explanation/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/hollow-knight-silksong-fourth-chorus.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-01-21T19:20:17+00:00"
+  },
+  {
+    "title": "BlackRock’s IBIT powers new bitcoin annuity for U.S. retirees via Delaware Life",
+    "description": "The first-of-its-kind FIA, according to the companies, offers crypto exposure with principal protection, aiming to attract cautious investors near retirement.",
+    "link": "https://www.coindesk.com/markets/2026/01/21/blackrock-s-ibit-powers-new-bitcoin-annuity-for-u-s-retirees-via-delaware-life",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/429fa0eb924ea14f34828dab37f2f4372114220d-5000x3333.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-01-21T19:18:49+00:00"
+  },
+  {
+    "title": "Fact-Checking President Trump’s Davos Speech",
+    "description": "The president gave misleading accounts of the U.S. role in Greenland’s history and the North Atlantic Treaty Organization, among other claims.",
+    "link": "https://www.nytimes.com/2026/01/21/us/politics/fact-check-trump-davos-speech.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/21/multimedia/21dc-factcheck-mczq/21dc-factcheck-mczq-facebookJumbo.jpg",
+    "pubDate": "2026-01-21T19:14:45+00:00"
+  },
+  {
+    "title": "Intel's stock jumps 10% to highest since early 2022 ahead of earnings",
+    "description": "Intel has gotten a boost due to optimism around its latest server CPUs and following investments from the U.S. government and Nvidia.",
+    "link": "https://www.cnbc.com/2026/01/21/intels-stock-jumps-10percent-to-highest-since-early-2022-ahead-of-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108209988-1760019895734-lib-bu-tan-wafer-ultra-core-3-1024x726.jpg?v=1760020062&w=1920&h=1080",
+    "pubDate": "2026-01-21T19:03:42+00:00"
+  },
+  {
+    "title": "Meta to begin rolling out Threads ads globally",
+    "description": "Meta launched Threads in July 2023 to compete with Elon Musk's X, formerly known as Twitter.",
+    "link": "https://www.cnbc.com/2026/01/21/meta-ads-global-threads.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107267669-1688664735580-gettyimages-1504029581-dicola-metaanno230705_npodB.jpeg?v=1769019788&w=1920&h=1080",
+    "pubDate": "2026-01-21T19:02:36+00:00"
+  },
+  {
     "title": "Can a single screenshot predict a Steam game's success? Kind of!",
     "description": "One Steam user fed thousands of images into a neural network to deduce similarities between the most popular games.",
     "link": "https://www.polygon.com/steam-game-screenshot-sales-popularity-neural-network-data-valve/",
@@ -14,18 +56,32 @@
     "pubDate": "2026-01-21T19:00:18+00:00"
   },
   {
+    "title": "Fed Governor Lisa Cook seems safe from Trump firing after Supreme Court arguments",
+    "description": "Federal Reserve Chairman Jerome Powell planned to attend the oral arguments at the Supreme Court.",
+    "link": "https://www.cnbc.com/2026/01/21/supreme-court-trump-fed-lisa-cook-powell.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108229325-1769008687109-108229325-1763660791750-gettyimages-2247666770-_s017447_76sjl8jf.jpg?v=1769008694&w=1920&h=1080",
+    "pubDate": "2026-01-21T18:54:44+00:00"
+  },
+  {
     "title": "Here’s a Look at Everything (and Everyone) Trump Targeted at Davos",
     "description": "President Trump’s verbal broadsides drew gasps and nervous laughter at the annual gathering of political and business leaders.",
     "link": "https://www.nytimes.com/2026/01/21/us/politics/trump-davos-speech-takeaways.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/21/multimedia/21int-trump-takeaways01-photo-chml/21int-trump-takeaways01-photo-chml-facebookJumbo.jpg",
-    "pubDate": "2026-01-21T18:52:16+00:00"
+    "pubDate": "2026-01-21T18:52:17+00:00"
   },
   {
     "title": "Price predictions 1/21: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, XMR, LINK",
     "description": "Technical charts highlight improving fundamentals in Bitcoin and select altcoins, but bears selling the range highs and softening investor sentiment threaten to snuff out the recovery.",
     "link": "https://cointelegraph.com/news/price-predictions-1-21-btc-eth-bnb-xrp-sol-doge-ada-bch-xmr-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be176-f450-7354-ac64-d2c4a8ce87d7.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmUxNzYtZjQ1MC03MzU0LWFjNjQtZDJjNGE4Y2U4N2Q3LmpwZw==.jpg",
     "pubDate": "2026-01-21T18:49:57+00:00"
+  },
+  {
+    "title": "Netflix's advertising strategy shift is starting to pay off",
+    "description": "Netflix reported $1.5 billion in ad revenue last year and expects that to double in 2026.",
+    "link": "https://www.cnbc.com/2026/01/21/netflix-advertising-revenue-strategy-paying-off.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108254613-17689455512026-01-20t214313z_48598236_rc225jaoujgc_rtrmadp_0_warner-bros-discovery-m-a-netflix.jpeg?v=1768945834&w=1920&h=1080",
+    "pubDate": "2026-01-21T18:39:32+00:00"
   },
   {
     "title": "U.S. Pivot in Syria Leaves an Old Ally in the Lurch",
@@ -33,13 +89,6 @@
     "link": "https://www.nytimes.com/2026/01/21/world/middleeast/us-pivot-in-syria-leaves-an-old-ally-in-the-lurch.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/21/multimedia/21int-Syria-Kurds-01-bpgv/21int-Syria-Kurds-01-bpgv-facebookJumbo.jpg",
     "pubDate": "2026-01-21T18:35:10+00:00"
-  },
-  {
-    "title": "She’s a Billionaire. He’s a Socialist. Can They Get Along?",
-    "description": "Mayor Zohran Mamdani and Police Commissioner Jessica Tisch have little in common. But both their political futures hinge on the safety of the city.",
-    "link": "https://www.nytimes.com/2026/01/21/nyregion/zohran-mamdani-jessica-tisch-nypd.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/19/multimedia/00met-mamdani-tisch-vjcm/00met-mamdani-tisch-vjcm-facebookJumbo.jpg",
-    "pubDate": "2026-01-21T18:33:39+00:00"
   },
   {
     "title": "Mother-of-10 guilty of keeping vulnerable woman as slave for 25 years",
@@ -59,7 +108,7 @@
     "title": "Trump: US has to ‘make it so that China doesn’t get the hold‘ of crypto",
     "description": "The US president said he supported the GENIUS Act because it was \"politically popular,” but added the main reason was in response to China.",
     "link": "https://cointelegraph.com/news/trump-china-us-crypto-davos-wef?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be148-07e8-785b-8f9b-a8d829b72d68.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmUxNDgtMDdlOC03ODViLThmOWItYThkODI5YjcyZDY4LmpwZw==.jpg",
     "pubDate": "2026-01-21T18:22:08+00:00"
   },
   {
@@ -68,13 +117,6 @@
     "link": "https://www.nytimes.com/2026/01/21/us/politics/maine-somali-immigration-enforcement.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/21/multimedia/21dc-maine-sub-lcvz/21dc-maine-sub-lcvz-facebookJumbo.jpg",
     "pubDate": "2026-01-21T18:19:31+00:00"
-  },
-  {
-    "title": "Fed Governor Lisa Cook seems safe from Trump firing after Supreme Court arguments",
-    "description": "Federal Reserve Chairman Jerome Powell planned to attend the oral arguments at the Supreme Court.",
-    "link": "https://www.cnbc.com/2026/01/21/supreme-court-trump-fed-lisa-cook-powell.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108229325-1769008687109-108229325-1763660791750-gettyimages-2247666770-_s017447_76sjl8jf.jpg?v=1769008694&w=1920&h=1080",
-    "pubDate": "2026-01-21T18:16:30+00:00"
   },
   {
     "title": "Israeli Strikes in Gaza Kill 11, Including Three Journalists",
@@ -87,7 +129,7 @@
     "title": "Steak ’n Shake taps Bitcoin bonus program for hourly employees",
     "description": "The fast-food chain said employees will receive a BTC bonus per hour worked, with payouts vesting after two years and limited to company-operated locations.",
     "link": "https://cointelegraph.com/news/steak-n-shake-bitcoin-bonus-program-employees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be14e-fc6c-7367-9cbb-789ac95f7baa.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmUxNGUtZmM2Yy03MzY3LTljYmItNzg5YWM5NWY3YmFhLmpwZw==.jpg",
     "pubDate": "2026-01-21T18:14:16+00:00"
   },
   {
@@ -98,7 +140,7 @@
     "pubDate": "2026-01-21T18:12:01+00:00"
   },
   {
-    "title": "Senate's next market structure draft may be pro-crypto, but without Dems, industry fears",
+    "title": "Senate's next market structure draft likely pro-crypto, but industry insiders are worried Democrats may not be on board",
     "description": "The U.S. Senate Agriculture Committee's next draft is expected to shield developers from liability, insiders have been advised, but it may without Democrat backing.",
     "link": "https://www.coindesk.com/policy/2026/01/21/senate-s-next-market-structure-draft-may-be-pro-crypto-but-without-dems-industry-fears",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/384e0d47c7fe9f718c49fe340bdcd5e419f9c1ee-7770x5180.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
@@ -108,7 +150,7 @@
     "title": "Widespread Winter Storm Is Forecast to Bring Heavy Snow to Central and Eastern US",
     "description": "People across a large section of the central and eastern United States are facing predictions of heavy snow and ice starting Friday.",
     "link": "https://www.nytimes.com/2026/01/21/weather/winter-storm-ice-snow-forecast.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/21/weather/2026-01-21-outlooks-index-promo/2026-01-21-outlooks-index-promo-facebookJumbo-v35.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/21/weather/2026-01-21-outlooks-index-promo/2026-01-21-outlooks-index-promo-facebookJumbo-v39.jpg",
     "pubDate": "2026-01-21T18:03:19+00:00"
   },
   {
@@ -164,15 +206,8 @@
     "title": "Bitcoin-to-gold ratio falls to new low, but analysts say BTC’s discounted ‘setups are rare’",
     "description": "Gold’s record-breaking rally inadvertently put pressure on Bitcoin’s allure, but analysts say historical data shows BTC eventually starts a catch-up rally.",
     "link": "https://cointelegraph.com/news/bitcoin-to-gold-ratio-falls-to-new-low-but-analysts-say-btc-s-discounted-setups-are-rare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be103-2af2-71b3-b22d-4b073cb63c53.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmUxMDMtMmFmMi03MWIzLWIyMmQtNGIwNzNjYjYzYzUzLmpwZw==.jpg",
     "pubDate": "2026-01-21T17:30:00+00:00"
-  },
-  {
-    "title": "Tech stocks rebound after Trump says U.S. won't use military force in Greenland",
-    "description": "Comment from President Donald Trump in Switzerland eased worries of a widespread conflict in Greenland.",
-    "link": "https://www.cnbc.com/2026/01/21/trump-tech-stocks-jump-greenland-military.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108254962-1769009080180-gettyimages-2257418605-mms18684_fv2opla8.jpeg?v=1769016304&w=1920&h=1080",
-    "pubDate": "2026-01-21T17:29:25+00:00"
   },
   {
     "title": "How To Play Hytale With A Controller",
@@ -187,13 +222,6 @@
     "link": "https://www.cnbc.com/2026/01/21/trump-congress-10percent-credit-card-interest-rate-cap.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108254936-17690074282026-01-21t143004z_821579615_rc2q5jagqvio_rtrmadp_0_davos-meeting-trump.jpeg?v=1769007444&w=1920&h=1080",
     "pubDate": "2026-01-21T17:24:44+00:00"
-  },
-  {
-    "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
-    "description": "The move underscores Greg Abel's willingness to look past a deal that has long stood out as a rare blemish on Buffett's otherwise storied record.",
-    "link": "https://www.cnbc.com/2026/01/21/berkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108140493-1746283910980-BUFFETT_AND_ABEL_AND_JAIN_1.jpg?v=1746285830&w=1920&h=1080",
-    "pubDate": "2026-01-21T17:22:52+00:00"
   },
   {
     "title": "Watch: Faisal Islam considers how Trump's Davos speech was received",
@@ -315,13 +343,6 @@
     "pubDate": "2026-01-21T16:15:23+00:00"
   },
   {
-    "title": "Mimei Amoume's artistry in Frieren season 2 ending could never be replaced by AI",
-    "description": "Mimei Amoume’s hand-drawn Frieren season 2 ending proves the irreplaceable beauty of human-made art in an AI-driven era.",
-    "link": "https://www.polygon.com/frieren-beyond-journeys-end-season-2-ending-mimei-amoume-art-ai/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/frieren-ending.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-21T16:11:45+00:00"
-  },
-  {
     "title": "Prue Leith leaves The Great British Bake Off",
     "description": "She has been a judge on Channel 4's baking competition alongside Paul Hollywood since 2017.",
     "link": "https://www.bbc.com/news/articles/cm2j80g4vy3o?at_medium=RSS&at_campaign=rss",
@@ -364,13 +385,6 @@
     "pubDate": "2026-01-21T15:43:37+00:00"
   },
   {
-    "title": "Amazon launches AI health-care tool for One Medical members",
-    "description": "The service uses large language models and references patients medical records to answer questions, manage medications and book appointments.",
-    "link": "https://www.cnbc.com/2026/01/21/amazon-ai-health-care-one-medical-members.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107092058-1658408665693-gettyimages-1322130120-zika0206015_ls.jpeg?v=1749756231&w=1920&h=1080",
-    "pubDate": "2026-01-21T15:40:32+00:00"
-  },
-  {
     "title": "BlackRock names crypto and tokenization as ‘themes driving markets’ in 2026",
     "description": "The $10 trillion asset manager includes bitcoin, ether and stablecoins in its 2026 outlook, spotlighting blockchain as a rising force in modern finance.",
     "link": "https://www.coindesk.com/business/2026/01/21/blackrock-names-crypto-and-tokenization-as-themes-driving-markets-in-2026",
@@ -395,21 +409,14 @@
     "title": "Former Alameda CEO to be released from US custody after 440 days",
     "description": "Scheduled for release from a halfway house on Wednesday, former Alameda Research CEO Caroline Ellison will have served 440 days in federal custody.",
     "link": "https://cointelegraph.com/news/caroline-ellison-alameda-ftx-released-prison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bd833-9a37-718d-9e4b-1a3150451ed6.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmQ4MzMtOWEzNy03MThkLTllNGItMWEzMTUwNDUxZWQ2LmpwZw==.jpg",
     "pubDate": "2026-01-21T15:23:41+00:00"
-  },
-  {
-    "title": "Trump’s AI and crypto czar says crypto and traditional banks will become ‘one industry’",
-    "description": "Sacks believes the divide between banking and crypto industries will disappear, with banks potentially seeing stablecoin issuance as a way to enter the market.",
-    "link": "https://www.coindesk.com/policy/2026/01/21/trump-s-ai-and-crypto-czar-says-crypto-and-traditional-banks-will-become-one-industry",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/8e50608217284ccab66fe5d054294954b3d767a6-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-01-21T15:19:29+00:00"
   },
   {
     "title": "Bitcoin eyes $90K as Trump sees crypto bill signing 'very soon'",
     "description": "Bitcoin joined stocks in a relief bounce as US President Donald Trump hinted at new legislation \"very soon\" and a doubling of the Dow Jones.",
     "link": "https://cointelegraph.com/news/bitcoin-eyes-90k-donald-trump-sees-crypto-bill-signing-very-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be10e-f96d-7019-814c-84e0c81a4fd0.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmUxMGUtZjk2ZC03MDE5LTgxNGMtODRlMGM4MWE0ZmQwLmpwZw==.jpg",
     "pubDate": "2026-01-21T15:05:27+00:00"
   },
   {
@@ -423,7 +430,7 @@
     "title": "Crypto’s next battle is privacy, but regulators face chicken-egg dilemma",
     "description": "Crypto’s move into banks and state-backed systems is accelerating a clash between financial privacy and public ledger design, said Aleo’s Yaya Fanusie.",
     "link": "https://cointelegraph.com/news/crypto-next-battle-privacy-regulators-chicken-egg-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b2b3a-80c0-7651-bcb4-e4e950b0feb6.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiM2EtODBjMC03NjUxLWJjYjQtZTRlOTUwYjBmZWI2LmpwZw==.jpg",
     "pubDate": "2026-01-21T14:49:41+00:00"
   },
   {
@@ -437,21 +444,21 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg",
     "pubDate": "2026-01-21T14:08:21+00:00"
   },
   {
     "title": "Argentine exchange Ripio bets on peso stablecoins amid cautious 2026 outlook",
     "description": "One of Argentina's longest‑running exchanges, Ripio, is betting on local currency stablecoins and tokenized bonds to drive a decade‑long boom in tokenized money across Latin America.",
     "link": "https://cointelegraph.com/news/argentine-exchange-ripio-peso-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be05d-c3be-7309-b225-8283e6a7a4bc.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmUwNWQtYzNiZS03MzA5LWIyMjUtODI4M2U2YTdhNGJjLmpwZw==.jpg",
     "pubDate": "2026-01-21T13:55:04+00:00"
   },
   {
     "title": "Bank of Italy chief says banks, not stablecoins, anchor digital money",
     "description": "The Bank of Italy's Fabio Panetta said stablecoins can only play a complementary role in the monetary system, arguing that their stability depends on fiat currency pegs.",
     "link": "https://cointelegraph.com/news/bank-of-italy-panetta-tokenized-commercial-bank-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be0ae-6477-7879-8cc9-fa80fa283c32.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmUwYWUtNjQ3Ny03ODc5LThjYzktZmE4MGZhMjgzYzMyLmpwZw==.jpg",
     "pubDate": "2026-01-21T13:44:17+00:00"
   },
   {
@@ -481,13 +488,6 @@
     "link": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/86776c20-f62d-11f0-b385-5f48925de19a.png",
     "pubDate": "2026-01-21T05:56:20+00:00"
-  },
-  {
-    "title": "Cubans in Florida Are Being Deported in Record Numbers",
-    "description": "Cubans had long benefited from legal privileges unavailable to immigrants from other countries. President Trump has changed that.",
-    "link": "https://www.nytimes.com/2026/01/19/us/politics/cubans-florida-deportations-trump.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/19/multimedia/19nat-50states-florida-01-mlft/19nat-50states-florida-01-mlft-facebookJumbo-v2.jpg",
-    "pubDate": "2026-01-20T22:49:36+00:00"
   },
   {
     "title": "Mazzer Philos Review: Does a $1400 Grinder Make Better Coffee?",
