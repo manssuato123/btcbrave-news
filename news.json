@@ -1,5 +1,40 @@
 [
   {
+    "title": "House Passes Spending Package Over Democratic Revolt on ICE",
+    "description": "Approval of the package, which would fund a wide swath of government agencies, brings Congress closer to meeting a Jan. 30 funding deadline.",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/house-spending-package-ice.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22dc-spend-kvfj/22dc-spend-kvfj-facebookJumbo.jpg",
+    "pubDate": "2026-01-22T23:20:19+00:00"
+  },
+  {
+    "title": "E.P.A. Revives Plan to End Testing on Animals by 2035",
+    "description": "Lee Zeldin, the E.P.A. administrator, revived a plan created during the first Trump administration to end the testing of chemicals on mammals.",
+    "link": "https://www.nytimes.com/2026/01/22/climate/epa-animal-testing-ban.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/22/climate/22CLI-EPA-ANIMALTESTING/22CLI-EPA-ANIMALTESTING-facebookJumbo.jpg",
+    "pubDate": "2026-01-22T23:19:53+00:00"
+  },
+  {
+    "title": "Jack Smith Testifies in House Hearing About Trump Investigations",
+    "description": "His remarks amounted to the summation he was never allowed to deliver in a courtroom, and concluded that Donald Trump had “engaged in criminal activity” that undermined democracy.",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/jack-smith-trump-testimony-congress.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22dc-smith-cqjk/22dc-smith-cqjk-facebookJumbo.jpg",
+    "pubDate": "2026-01-22T22:58:50+00:00"
+  },
+  {
+    "title": "Trump to Expand ‘Mexico City’ Abortion Rule to Include D.E.I. and Gender",
+    "description": "The policy has traditionally been aimed at keeping organizations that receive U.S. tax dollars from performing or promoting abortion as a method of family planning.",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/trump-mexico-city-policy-abortion-dei-gender.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/dc-gag-rule-tqjl/dc-gag-rule-tqjl-facebookJumbo.jpg",
+    "pubDate": "2026-01-22T22:52:41+00:00"
+  },
+  {
+    "title": "House Rejects Measure to Bar Military Force in Venezuela",
+    "description": "In a tie vote, the House defeated an effort to prohibit the president from using the U.S. military in Venezuela weeks after the raid he ordered that captured the country’s leader.",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/trump-war-powers-house-vote.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22dc-warpowers-1-mclg/22dc-warpowers-1-mclg-facebookJumbo.jpg",
+    "pubDate": "2026-01-22T22:52:33+00:00"
+  },
+  {
     "title": "Intel stock falls 11% after company offers soft first-quarter guidance",
     "description": "Intel reported fourth-quarter earnings Thursday that beat Wall Street expectations but offered soft guidance for the current quarter.",
     "link": "https://www.cnbc.com/2026/01/22/intel-intc-earnings-report-q4-2025-.html",
@@ -7,11 +42,32 @@
     "pubDate": "2026-01-22T22:45:42+00:00"
   },
   {
+    "title": "Chicago Jury Acquits Immigrant Accused in Bovino Murder-for-Hire Trial",
+    "description": "Prosecutors said a Chicago carpenter had offered a bounty for killing Gregory Bovino, a Border Patrol official. Defense lawyers said he was just sharing a social media post.",
+    "link": "https://www.nytimes.com/2026/01/22/us/gregory-bovino-murder-chicago-trial.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22nat-bovino-mhgq/22nat-bovino-mhgq-facebookJumbo.jpg",
+    "pubDate": "2026-01-22T22:44:27+00:00"
+  },
+  {
+    "title": "Chris Mason: Andy Burnham faces tricky run to win Labour crown",
+    "description": "The Greater Manchester mayor must overcome substantial obstacles in order to challenge Keir Starmer.",
+    "link": "https://www.bbc.com/news/articles/cvg553rk7zvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f1/live/9dec8b40-f7e2-11f0-92a9-4b8c6d96765f.jpg",
+    "pubDate": "2026-01-22T22:40:55+00:00"
+  },
+  {
     "title": "Capital One is buying startup Brex for $5.15 billion in credit card firm's latest deal",
     "description": "Capital One's acquisition of Brex is the latest deal under Rich Fairbank, a rare founder-CEO of a major U.S. bank, after its Discover Financial deal last year.",
     "link": "https://www.cnbc.com/2026/01/22/capital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/106289306-1576027900694henriquepedro.jpg?v=1667836801&w=1920&h=1080",
     "pubDate": "2026-01-22T22:32:28+00:00"
+  },
+  {
+    "title": "Trump sparks anger over claim Nato troops avoided Afghanistan front line",
+    "description": "The US president said allied troops had \"stayed a little back\" during the war in Afghanistan.",
+    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e169/live/d950e9b0-f7e7-11f0-96ae-470a5aa76d73.jpg",
+    "pubDate": "2026-01-22T22:32:11+00:00"
   },
   {
     "title": "Coinbase VP says ‘fatal flaws’ in Senate crypto bill forced sudden withdrawal of support",
@@ -38,7 +94,7 @@
     "title": "House passes final funding bills 8 days before shutdown, Senate now will consider",
     "description": "The Senate will still have to pass the measures when it returns to Washington next week.",
     "link": "https://www.cnbc.com/2026/01/22/government-funding-shutdown-house.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108250271-1767911267410-gettyimages-2254487355-house_gop_147_010726.jpeg?v=1767911318&w=1920&h=1080",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256061-1769123100075-gettyimages-2257051951-US_GOV_FUNDING.jpeg?v=1769123166&w=1920&h=1080",
     "pubDate": "2026-01-22T22:27:18+00:00"
   },
   {
@@ -49,7 +105,7 @@
     "pubDate": "2026-01-22T22:13:35+00:00"
   },
   {
-    "title": "4 Takeaways From Jack Smith’s Testimony Before Lawmakers",
+    "title": "Takeaways From Jack Smith’s Testimony on Trump Investigations",
     "description": "In his remarks, the former special counsel repeatedly denied that he had acted out of partisan animus and bemoaned the Trump administration’s efforts to go after the president’s perceived enemies.",
     "link": "https://www.nytimes.com/2026/01/22/us/politics/takeaways-jack-smith-congress-testimony.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22dc-takeaways-glfz/22dc-takeaways-glfz-facebookJumbo.jpg",
@@ -68,6 +124,13 @@
     "link": "https://cointelegraph.com/news/nasdaq-position-limits-bitcoin-ether-etf-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be760-9ebc-7c79-90c9-d2d3dab5dde4.jpg",
     "pubDate": "2026-01-22T21:58:15+00:00"
+  },
+  {
+    "title": "US unveils plans for 'New Gaza' with skyscrapers",
+    "description": "\"We're going to be very successful in Gaza,\" President Trump says, as his administration laid out its vision for post-war reconstruction.",
+    "link": "https://www.bbc.com/news/articles/cy7mmpljze7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf0/live/0310ed50-f7ce-11f0-96f6-e58e07ac2c27.jpg",
+    "pubDate": "2026-01-22T21:55:57+00:00"
   },
   {
     "title": "Could Trump's bid to become peacemaker-in-chief sideline the struggling UN?",
@@ -96,27 +159,6 @@
     "link": "https://www.polygon.com/invincible-season-4-trailer-release-date-thragg/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/g_ne64qweaef_9p.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-01-22T21:33:45+00:00"
-  },
-  {
-    "title": "Denmark Bristles at Idea of Giving Up Any Sovereignty in Greenland",
-    "description": "American and NATO officials have discussed giving the United States sovereignty over U.S. military bases in Greenland. The Danes don’t seem to like that.",
-    "link": "https://www.nytimes.com/2026/01/22/world/europe/denmark-greenland-trump-us-reaction.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22int-greenland-denmark01-photo-hmbp/22int-greenland-denmark01-photo-hmbp-facebookJumbo.jpg",
-    "pubDate": "2026-01-22T21:33:44+00:00"
-  },
-  {
-    "title": "An Emboldened Trump’s Whipsaw Approach to the World",
-    "description": "He says there’s a method to the madness. But European allies wonder whether the United States is reliable anymore.",
-    "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-foreign-policy.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22int-davos-trump-wrapup01-photo-jmqh/22int-davos-trump-wrapup01-photo-jmqh-facebookJumbo.jpg",
-    "pubDate": "2026-01-22T21:28:01+00:00"
-  },
-  {
-    "title": "Jack Smith Testifies in House Hearing About Trump Investigations",
-    "description": "The appearance provides Mr. Smith with what is likely to be his best opportunity to challenge President Trump’s assertion that he was persecuted for his politics, not for his misdeeds.",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/jack-smith-trump-testimony-congress.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22dc-smith-cqjk/22dc-smith-cqjk-facebookJumbo.jpg",
-    "pubDate": "2026-01-22T21:27:31+00:00"
   },
   {
     "title": "New Fable Will Have An \"Amazing Cast\" And Lots Of British Humor, Director Says",
@@ -175,13 +217,6 @@
     "pubDate": "2026-01-22T21:00:00+00:00"
   },
   {
-    "title": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases, No Drilling for Russia",
-    "description": "Negotiators have discussed proposals to check Russian and Chinese influence in the Arctic and transfer sovereignty over pockets of Greenlandic land to the United States, an idea opposed by Denmark.",
-    "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22int-greenland-framework-mlkb/22int-greenland-framework-mlkb-facebookJumbo.jpg",
-    "pubDate": "2026-01-22T20:59:53+00:00"
-  },
-  {
     "title": "Fable's New Open World Has 1,000+ NPCs As A \"Living Population\"",
     "description": "During Xbox's Developer Direct, Forza Horizon developer Playground Games more fully showed off its Fable reboot. The game's visuals are impressive, but the real achievement of the dev team may be the open world and people who live in it. According to Playground Games, there are over 1,000 NPCs in Fable, and players can talk to and interact with all of them. \"You can talk to them, you can romance them, you can marry them,\" said Fable general manager Ralph Fulton. \"You can divorce them or be divorced by them. You can have children with them. You can hire them. You can fire them. [NPCs] are kind of a game within a game, but they are such a unique, fundamental part of Fable. And I think one of the things that sets Fable apart from other open-world medieval fantasy RPGs is that it was uncuttable. We knew we had to deliver against this. I love that we've stuck with the ambition that we had right at the start of that.\" As part of the developers' stated goal to include so many NPCs, Fulton added that each person has their own daily routine that they follow, as well as their own place to live and sleep. Furthermore, Fulton revealed that every single building in Fable can be entered and explored by the player. In fact, players can even purchase buildings and homes of their own. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/fables-new-open-world-has-1000-npcs-as-a-living-population/1100-6537591/?ftag=CAD-01-10abi2f",
@@ -194,13 +229,6 @@
     "link": "https://www.cnbc.com/2026/01/22/greenland-trump-nato-deal-nielsen.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108255911-17691063812026-01-22t170709z_1171800888_rc2g6ja7r9ck_rtrmadp_0_usa-trump-greenland-nielsen.jpeg?v=1769106450&w=1920&h=1080",
     "pubDate": "2026-01-22T20:53:48+00:00"
-  },
-  {
-    "title": "Trump sues JPMorgan for $5bn over account closure after Capitol riot",
-    "description": "JPMorgan Chase the lawsuit has \"no merit\" and the bank \"does not close accounts for political or religious reasons\".",
-    "link": "https://www.bbc.com/news/articles/c2e11m2w2meo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a24d/live/06f190a0-f7d3-11f0-96f6-e58e07ac2c27.jpg",
-    "pubDate": "2026-01-22T20:43:52+00:00"
   },
   {
     "title": "Protester Nekima Levy Armstrong Who Interrupted Minnesota Church Service Is Arrested, Officials Say",
@@ -278,13 +306,6 @@
     "link": "https://www.coindesk.com/business/2026/01/22/optimism-community-begins-vote-on-op-token-buybacks",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9fafef408d7f4b76c08f4e394c8d348b8f54d693-1920x1080.jpg?auto=format",
     "pubDate": "2026-01-22T19:56:12+00:00"
-  },
-  {
-    "title": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
-    "description": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the World Economic Forum in Davos remain on edge after President Trump, for now, backed down from threats of using tariffs or military force to gain Greenland.",
-    "link": "https://www.nytimes.com/video/business/economy/100000010656157/why-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/22/business/economy/DAVOS-GREENLAND-THUMBNAIL/DAVOS-GREENLAND-THUMBNAIL-facebookJumbo-v2.png?video-overlay",
-    "pubDate": "2026-01-22T19:49:10+00:00"
   },
   {
     "title": "Judge Rejects DOJ’s Criminal Complaint Against Don Lemon Over Minnesota Church Protest",
@@ -399,13 +420,6 @@
     "pubDate": "2026-01-22T18:36:27+00:00"
   },
   {
-    "title": "Ex-Labour minister quits as MP, paving way for Andy Burnham return",
-    "description": "Greater Manchester MP Andrew Gwynne says he is stepping down due to \"significant ill health\".",
-    "link": "https://www.bbc.com/news/articles/c14rrez0mr4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/34652ec0-f7ab-11f0-9746-bbf190b04917.jpg",
-    "pubDate": "2026-01-22T18:33:43+00:00"
-  },
-  {
     "title": "UK helps France seize suspected Russian 'shadow fleet' oil tanker the Grinch",
     "description": "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco.",
     "link": "https://www.bbc.com/news/articles/cdexxr2y907o?at_medium=RSS&at_campaign=rss",
@@ -490,25 +504,11 @@
     "pubDate": "2026-01-22T17:18:32+00:00"
   },
   {
-    "title": "Sick cat 'stolen' by delivery driver is returned to owners",
-    "description": "Doorbell footage caught the delivery man picking up the cat and walking off from a house in Elland.",
-    "link": "https://www.bbc.com/news/articles/c0q44gkynldo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a86e/live/727bd490-f7b3-11f0-9746-bbf190b04917.jpg",
-    "pubDate": "2026-01-22T17:06:17+00:00"
-  },
-  {
     "title": "Trump signed his Gaza 'Board of Peace' into being. Here's who's on it — and who isn't",
     "description": "European nations did not attend Trump's \"Board of Peace,\" signing at the World Economic Forum in Davis, Switzerland.",
     "link": "https://www.cnbc.com/2026/01/22/who-is-on-trumps-gaza-board-of-peace.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108255634-1769088333361-gettyimages-2256959890-AFP_93M32K8.jpeg?v=1769089504&w=1920&h=1080",
     "pubDate": "2026-01-22T14:11:15+00:00"
-  },
-  {
-    "title": "Are You Aging Well? 4 Simple Tests to Find Out.",
-    "description": "They can’t guarantee future health, but they can tell you the trajectory you’re on.",
-    "link": "https://www.nytimes.com/2026/01/22/well/aging-tests-longevity.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/22/multimedia/22WELL-AGING-CHECKUP1-ctgl/22WELL-AGING-CHECKUP1-ctgl-facebookJumbo.jpg",
-    "pubDate": "2026-01-22T10:00:11+00:00"
   },
   {
     "title": "It's Impossible to Tell the Boozy from the Booze-Free at This Munich Hotel Bar",
