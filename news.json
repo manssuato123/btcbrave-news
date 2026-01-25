@@ -1,5 +1,19 @@
 [
   {
+    "title": "Scenes From the Winter Storm",
+    "description": "Images from across much of the country illuminate snow-covered streets and preparations for worse still to come.",
+    "link": "https://www.nytimes.com/2026/01/24/us/winter-storm-snow-photos-videos.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/24/multimedia/24nat-storm-visuals-01-wpgj/24nat-storm-visuals-01-wpgj-facebookJumbo.jpg",
+    "pubDate": "2026-01-25T15:05:29+00:00"
+  },
+  {
+    "title": "Undertale’s snowman perfectly encapsulates the game’s sicko freedom",
+    "description": "Undertale lets you be as kind or villainous as you like to every character you encounter, even snowmen with wanderlust",
+    "link": "https://www.polygon.com/undertale-snowman-genocide/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/snowman-undertale.jpeg?w=1200&h=675&fit=crop",
+    "pubDate": "2026-01-25T15:00:17+00:00"
+  },
+  {
     "title": "The Super Mario Galaxy Movie's new trailer reveals Yoshi, Birdo and more",
     "description": "Nintendo and Illumination released a new trailer for The Super Mario Galaxy Movie in a Nintendo Direct, showing off Yoshi and more.",
     "link": "https://www.polygon.com/super-mario-galaxy-movie-nintendo-direct-new-trailer/",
@@ -7,11 +21,32 @@
     "pubDate": "2026-01-25T14:33:21+00:00"
   },
   {
+    "title": "After second Minneapolis shooting, Congress hurtles toward a partial government shutdown over DHS funding",
+    "description": "Senate Minority Leader Schumer said he will vote against a package to fund DHS and a wide swath of the government after federal agents killed a U.S. citizen.",
+    "link": "https://www.cnbc.com/2026/01/25/minneapolis-shooting-government-shutdown.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108242516-1765907996538-gettyimages-2251650126-schumer_BC_152_121625JPG.jpeg?v=1765908136&w=1920&h=1080",
+    "pubDate": "2026-01-25T14:31:41+00:00"
+  },
+  {
+    "title": "Airlines cancel more than 14,000 weekend flights as massive winter storm sweeps across the U.S.",
+    "description": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers as a massive winter storm swept across the country.",
+    "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256727-1769346929182-gettyimages-2257592562-AFP_93XA8UA.jpeg?v=1769347087&w=1920&h=1080",
+    "pubDate": "2026-01-25T14:02:56+00:00"
+  },
+  {
     "title": "D&amp;D 5e’s best adventures all have one thing in common, says Chris Perkins",
     "description": "Former D&amp;D Creative Director Chris Perkins reflects on how adventure-campaign books became central to 5e's success.",
     "link": "https://www.polygon.com/dnd-chris-perkins-best-5e-campaigns-adventures/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/chris-perkins-d-d-campaign-books.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-01-25T14:00:17+00:00"
+  },
+  {
+    "title": "The U.S. states where you can retire at 65 with less than $1 million in savings",
+    "description": "In many states in the South and Midwest, lower housing costs make it possible to retire with $1 million or less.",
+    "link": "https://www.cnbc.com/2026/01/25/us-states-where-you-can-retire-at-65-with-less-than-1-million.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256459-1769190406434-gettyimages-1094995216-dsc01221.jpeg?v=1769190476&w=1920&h=1080",
+    "pubDate": "2026-01-25T14:00:01+00:00"
   },
   {
     "title": "Sui Group charts new course for crypto treasuries with stablecoins and DeFi",
@@ -91,13 +126,6 @@
     "pubDate": "2026-01-25T12:10:25+00:00"
   },
   {
-    "title": "State Terror Has Arrived",
-    "description": "Minneapolis has made it plain.",
-    "link": "https://www.nytimes.com/2026/01/24/opinion/state-terror-has-arrived.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/25/multimedia/25gessen-zgcq/25gessen-zgcq-facebookJumbo.jpg",
-    "pubDate": "2026-01-25T12:04:14+00:00"
-  },
-  {
     "title": "Netflix's 100 Meters anime movie feels like Heated Rivalry without the romance",
     "description": "100 Meters is a philosophical sports anime about rivalry, isolation, and legacy — but also how competition can feel as intimate as romance.",
     "link": "https://www.polygon.com/100-meters-anime-movie-heated-rivalry/",
@@ -112,13 +140,6 @@
     "pubDate": "2026-01-25T11:56:39+00:00"
   },
   {
-    "title": "Airlines cancel more than 14,000 weekend flights as massive winter storm sweeps across the U.S.",
-    "description": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers as a massive winter storm swept across the country.",
-    "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256727-1769346929182-gettyimages-2257592562-AFP_93XA8UA.jpeg?v=1769347087&w=1920&h=1080",
-    "pubDate": "2026-01-25T11:49:23+00:00"
-  },
-  {
     "title": "The Woman Who Stands Between Donald Trump and Greenland",
     "description": "Mette Frederiksen, Denmark’s leader, has taken big risks standing up to Mr. Trump. It might just be working — for now.",
     "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
@@ -131,13 +152,6 @@
     "link": "https://www.bbc.com/news/articles/cn0ke0pkn3wo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fd/live/6c9d8a20-f9eb-11f0-b5f7-49f0357294ff.jpg",
     "pubDate": "2026-01-25T11:41:45+00:00"
-  },
-  {
-    "title": "From Bill Gates to Emmanuel Macron: How the world’s most powerful people communicate and exert influence",
-    "description": "\"It's the performance, not the content... it's not what you say, it's the way that you say it,\" executive coach René Carayol tells CNBC about how leaders speak.",
-    "link": "https://www.cnbc.com/2026/01/25/how-worlds-most-powerful-people-communicate-influence.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108255192-17690219272026-01-21t132402z_160334074_rc2g2jau7pjx_rtrmadp_0_france-new-caledonia.jpeg?v=1769021956&w=1920&h=1080",
-    "pubDate": "2026-01-25T11:40:14+00:00"
   },
   {
     "title": "The Lodge is the perfect winter horror movie",
@@ -187,6 +201,13 @@
     "link": "https://cointelegraph.com/news/colombia-second-largest-pension-fund-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bf432-ed62-75a7-b01b-8f637ddf135a.jpg",
     "pubDate": "2026-01-25T09:34:57+00:00"
+  },
+  {
+    "title": "Trump Just Proved Mark Carney’s Point",
+    "description": "Canada’s prime minister sees the president all too well.",
+    "link": "https://www.nytimes.com/2026/01/25/opinion/trump-carney-davos-canada-greenland.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/01/25/opinion/25klein/25klein-facebookJumbo.jpg",
+    "pubDate": "2026-01-25T08:12:47+00:00"
   },
   {
     "title": "Once-prominent NFT marketplace Nifty Gateway to wind down operations",
@@ -266,13 +287,6 @@
     "pubDate": "2026-01-25T00:25:51+00:00"
   },
   {
-    "title": "Scenes From the Winter Storm",
-    "description": "Images from across much of the country illuminate snow-covered streets and preparations for worse still to come.",
-    "link": "https://www.nytimes.com/2026/01/24/us/winter-storm-snow-photos-videos.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/01/24/multimedia/24nat-storm-visuals-01-wpgj/24nat-storm-visuals-01-wpgj-facebookJumbo.jpg",
-    "pubDate": "2026-01-24T23:04:29+00:00"
-  },
-  {
     "title": "Bitcoin payments held back by tax policy, not scaling tech: Crypto exec",
     "description": "Crypto sales are taxable under current United States policy, but lawmakers have proposed tax exemptions for small transactions.",
     "link": "https://cointelegraph.com/news/bitcoin-payment-held-back-tax-scaling-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -336,13 +350,6 @@
     "pubDate": "2026-01-24T18:01:17+00:00"
   },
   {
-    "title": "The best winter music in video games",
-    "description": "10 great tracks from wintry scenes, ice levels, and frost planets, from the soundtracks for Metroid Prime, Skyrim, Pokémon, and more",
-    "link": "https://www.polygon.com/best-winter-snow-game-music/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/i-am-setsuna.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-01-24T18:00:17+00:00"
-  },
-  {
     "title": "Bitcoin nodes running BIP-110 crosses 2% as spam wars heat up",
     "description": "The Bitcoin proposal caps arbitrary data in an attempt to combat spam from non-monetary transactions on the Bitcoin network.",
     "link": "https://cointelegraph.com/news/bitcoin-nodes-run-bip-110-crosses-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -390,13 +397,6 @@
     "link": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/24/multimedia/24int-china-military-mvfl/24int-china-military-mvfl-facebookJumbo.jpg",
     "pubDate": "2026-01-24T15:47:17+00:00"
-  },
-  {
-    "title": "The 10 best markets for first-time homebuyers in 2026, according to Realtor.com",
-    "description": "In January, Realtor.com released its annual ranking of the best housing markets for first-time homebuyers.",
-    "link": "https://www.cnbc.com/2026/01/24/best-markets-first-time-homebuyers-realtor.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256215-1769171815398-gettyimages-2223521546-mage24987.jpeg?v=1769172288&w=1920&h=1080",
-    "pubDate": "2026-01-24T14:00:02+00:00"
   },
   {
     "title": "New Berkshire CEO Abel quickly signals troubled Kraft Heinz stake could be toast",
