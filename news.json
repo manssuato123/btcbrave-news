@@ -1,10 +1,73 @@
 [
   {
-    "title": "Viral AI assistant 'Clawdbot' risks leaking private messages, credentials",
+    "title": "India and European Union have closed a 'landmark' free trade deal, Prime Minister Modi says",
+    "description": "Goods traded between India and the EU in 2024 amounted to over 120 billion euros (about $140 billion), making it New Delhi's largest trading partner.",
+    "link": "https://www.cnbc.com/2026/01/27/india-eu-trade-deal-trump-tariffs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256077-1769130512349-gettyimages-2201750008-AFP_36YV72E.jpeg?v=1769130529&w=1920&h=1080",
+    "pubDate": "2026-01-27T06:49:19+00:00"
+  },
+  {
+    "title": "60% of top US banks are geared up for Bitcoin: River",
+    "description": "Brian Armstrong, the CEO of crypto exchange Coinbase, said a takeaway from his time at the Davos forum was that most of the bank CEOs he met were pro-crypto.",
+    "link": "https://cointelegraph.com/news/top-us-banks-bitcoin-services-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bfdb7-837a-7c5f-9320-cd506b724482.jpg",
+    "pubDate": "2026-01-27T06:33:37+00:00"
+  },
+  {
+    "title": "South Korea scrambles to pass U.S. investment bill after Trump threatens higher tariffs",
+    "description": "The bill aims to establish a state-run investment corporation and fund to manage Seoul's planned $350 billion investment pledge to Washington.",
+    "link": "https://www.cnbc.com/2026/01/27/south-korea-scrambles-to-pass-us-investment-bill-after-trump-threatens-higher-tariffs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257348-1769485958932-gettyimages-2227311397-raa-unitedst250801_npEtH.jpeg?v=1769485973&w=1920&h=1080",
+    "pubDate": "2026-01-27T06:15:46+00:00"
+  },
+  {
+    "title": "Sen. Marshall to cut card fees provision in crypto bill markup: Report",
+    "description": "Senator Roger Marshall filed an amendment to the market structure bill last week that would force companies to compete on swipe fees.",
+    "link": "https://cointelegraph.com/news/marshall-cut-card-fees-provision-crypto-bill-markup-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bfd9c-fea1-764e-bc1a-02d98aa98821.jpg",
+    "pubDate": "2026-01-27T06:03:49+00:00"
+  },
+  {
+    "title": "I accused a police officer of rape, but I ended up on trial",
+    "description": "How a secret audio recording played in court helped clear a woman accused of making a false rape allegation.",
+    "link": "https://www.bbc.com/news/articles/c4gl0r0052po?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58fc/live/378b25d0-f87a-11f0-b385-5f48925de19a.jpg",
+    "pubDate": "2026-01-27T06:01:09+00:00"
+  },
+  {
+    "title": "Hyperliquid HIP-3 open-interest hits $793M on commodities surge",
+    "description": "Hyperliquid's HIP-3, also known as \"Builder Deployed Perpetuals,\" lets anyone who stakes 500,000 HYPE to create a new perpetual futures market on the Hyperliquid blockchain.",
+    "link": "https://cointelegraph.com/news/hyperliquid-hip-3-open-interest-hits-793m-on-commodities-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b45d0-40ff-7de6-b6d7-fdf2f71f26e7.jpg",
+    "pubDate": "2026-01-27T05:56:30+00:00"
+  },
+  {
+    "title": "Bitcoin and ether volatility trading gets easier with Polymarket's new contracts",
+    "description": "Polymarket has launched new prediction markets tied to Volmex's bitcoin and ether 30-day implied volatility indices.",
+    "link": "https://www.coindesk.com/markets/2026/01/27/bitcoin-and-ether-volatility-trading-gets-easier-with-polymarket-s-new-volmex-contracts",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/92381be5b7acd607bc065b24a71d59c26202a7a8-1280x720.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-01-27T05:51:31+00:00"
+  },
+  {
+    "title": "‘Never interrupt your adversary when he’s making a mistake’: Why Beijing isn't rushing to answer Trump’s tariff broadside",
+    "description": "Analysts expect the U.S.-China trade truce to hold as Beijing bets Trump won’t follow through on his threats ahead of a leaders’ meeting in April.",
+    "link": "https://www.cnbc.com/2026/01/27/trump-tariff-threats-china-canada-trade-truce-strategy-europe-nato-greenland-venezuela.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256780-1769389907279-gettyimages-2244077417-ah807747_o4m1oips.jpeg?v=1769390127&w=1920&h=1080",
+    "pubDate": "2026-01-27T05:43:57+00:00"
+  },
+  {
+    "title": "Viral AI assistant ‘Clawdbot’ risks leaking private messages, credentials",
     "description": "A security vulnerability in the Clawdbot AI assistant has exposed hundreds of servers, leaking API keys and other sensitive information due to misconfigured proxies, cybersecurity professionals warn.",
     "link": "https://cointelegraph.com/news/viral-ai-assistant-clawdbot-risks-leaking-private-messages-credentials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZkYTktMTc5Yy03N2JmLTkyNTMtY2JkY2E5NmY1Nzk4LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bfda9-179c-77bf-9253-cbdca96f5798.jpg",
     "pubDate": "2026-01-27T05:35:25+00:00"
+  },
+  {
+    "title": "Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains",
+    "description": "Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.",
+    "link": "https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/1cf724ba50fcc0a290b1e8767ebe8d1cbd1b0406-1000x717.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-01-27T05:35:14+00:00"
   },
   {
     "title": "Fifty Labour MPs sign letter objecting to Burnham decision",
@@ -17,7 +80,7 @@
     "title": "Meta exec denies having access to WhatsApp chats amid privacy lawsuit",
     "description": "Plaintiffs in a US district court lawsuit accused Meta of having backdoor access to WhatsApp chats, impacting the privacy of its more than 3 billion users.",
     "link": "https://cointelegraph.com/news/meta-denies-having-access-whatsapp-chats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZkNmUtMTdkMC03YmY2LWEyNzYtNTVlYmRlNDk2ZGJlLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bfd6e-17d0-7bf6-a276-55ebde496dbe.jpg",
     "pubDate": "2026-01-27T05:15:06+00:00"
   },
   {
@@ -26,13 +89,6 @@
     "link": "https://www.nytimes.com/2026/01/27/business/economy/government-debt-bonds.html",
     "thumbnail": "https://static01.nyt.com/images/2026/01/26/multimedia/Biz-Global-Debt-bkjq/Biz-Global-Debt-bkjq-facebookJumbo.jpg",
     "pubDate": "2026-01-27T05:01:10+00:00"
-  },
-  {
-    "title": "South Korea scrambles to pass U.S. investment bill after Trump threatens higher tariffs",
-    "description": "The bill aims to establish a state-run investment corporation and fund to manage Seoul's planned $350 billion investment pledge to Washington.",
-    "link": "https://www.cnbc.com/2026/01/27/south-korea-scrambles-to-pass-us-investment-bill-after-trump-threatens-higher-tariffs.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257348-1769485958932-gettyimages-2227311397-raa-unitedst250801_npEtH.jpeg?v=1769485973&w=1920&h=1080",
-    "pubDate": "2026-01-27T05:00:43+00:00"
   },
   {
     "title": "Speedy Chicken Stroganoff",
@@ -122,14 +178,14 @@
     "title": "Polymarket strikes prediction market deal with major US soccer league",
     "description": "Polymarket will be the prediction market partner for the US Major League Soccer with the plan to offer “ways to engage more deeply with the game.”",
     "link": "https://cointelegraph.com/news/polymarket-prediction-market-deal-us-major-league-soccer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZkMWQtZmNmOS03Y2E2LWIzM2YtNWM1MDM3MjQ2MmNmLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bfd1d-fcf9-7ca6-b33f-5c50372462cf.jpg",
     "pubDate": "2026-01-27T04:01:16+00:00"
   },
   {
-    "title": "Bitwise to launch onchain vaults via Moprho",
+    "title": "Bitwise to launch onchain vaults via Morpho",
     "description": "The first vault strategy targets 6% annual percentage yield via over-collateralized lending pools, managed by Bitwise.",
     "link": "https://cointelegraph.com/news/bitwise-becomes-morpho-network-vault-curator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZjZGEtYWViOC03ZmRmLWFmNGEtNGJmNDI0YTA3MjZkLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bfcda-aeb8-7fdf-af4a-4bf424a0726d.jpg",
     "pubDate": "2026-01-27T03:58:12+00:00"
   },
   {
@@ -150,21 +206,21 @@
     "title": "Bitcoin hashrate briefly drops to mid-2025 levels amid US winter storm",
     "description": "Bitcoin mining data platform Hashrate Index estimates the United States contributes the largest amount of the world’s mining power, with nearly 38% of the global hashrate.",
     "link": "https://cointelegraph.com/news/bitcoin-hashrate-low-us-winter-storm-miners-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4MGYtOTE0YS03NGQxLTk2YzktMDgyY2VmYzFmM2QzLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b480f-914a-74d1-96c9-082cefc1f3d3.jpg",
     "pubDate": "2026-01-27T03:40:33+00:00"
   },
   {
     "title": "Fundstrat’s Lee sees a crypto comeback once precious metals cool",
     "description": "Fundstrat’s Tom Lee said crypto markets are being overshadowed by record gold and silver prices, but predicts a surge will come once precious metals' rally takes a pause.",
     "link": "https://cointelegraph.com/news/when-gold-silver-take-break-btc-eth-will-surge-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZkMmMtNGFkZi03MTk3LWI1OGItOGMzMGU5OWRlZWY4LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bfd2c-4adf-7197-b58b-8c30e99deef8.jpg",
     "pubDate": "2026-01-27T03:35:21+00:00"
   },
   {
     "title": "Bitcoin job listings rise 6% in 2025, led by non-technical roles",
-    "description": "The most in-demand, non-developer Bitcoin job openings included product manager, executive assistant, marketing manager, director and product designer.",
+    "description": "Non-developer Bitcoin job openings, such as product manager and marketing roles, made up nearly three-quarters of listings last year.",
     "link": "https://cointelegraph.com/news/bitcoin-jobs-grew-6-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZjZDYtMGU4ZC03NDhjLTlhY2QtNmRlYjNlYjQzYzc5LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bfcd6-0e8d-748c-9acd-6deb3eb43c79.jpg",
     "pubDate": "2026-01-27T03:31:11+00:00"
   },
   {
@@ -189,20 +245,6 @@
     "pubDate": "2026-01-27T02:28:08+00:00"
   },
   {
-    "title": "Ether price gained 200% the last time this global liquidity signal flashed",
-    "description": "ETH whale accumulation and its alignment with a rare global liquidity signal could be a sign that Ether price is gearing up for another triple-digit rally.",
-    "link": "https://cointelegraph.com/news/ether-price-gained-200percent-the-last-time-this-global-liquidity-signal-flashed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmViNDgtMzg0OS03ODE5LTgzNGItNWE1NWJiNjgzMmJjLmpwZw==.jpg",
-    "pubDate": "2026-01-27T02:20:30+00:00"
-  },
-  {
-    "title": "Microsoft's plans for 15 more data centers win approval at former Wisconsin Foxconn site",
-    "description": "Microsoft intends to expand in a place where it's been welcomed, months after backing down on a rezoning attempt in an adjacent village when residents objected.",
-    "link": "https://www.cnbc.com/2026/01/26/microsoft-wins-approval-for-15-data-centers-at-wisconsin-foxconn-site.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257323-17694772012026-01-15t050021z_417264257_rc2guga7gf9b_rtrmadp_0_microsoft-carbon-soil.jpeg?v=1769477245&w=1920&h=1080",
-    "pubDate": "2026-01-27T02:09:39+00:00"
-  },
-  {
     "title": "Trump Says He Will Raise Tariffs on South Korea to 25%",
     "description": "President Trump threatened to increase tariffs on South Korean exports, including cars, citing the country’s slow ratification of a trade deal.",
     "link": "https://www.nytimes.com/2026/01/26/business/economy/trump-tariffs-south-korea.html",
@@ -224,6 +266,13 @@
     "pubDate": "2026-01-27T01:04:08+00:00"
   },
   {
+    "title": "Two New Friday The 13th 4K Steelbook Blu-Rays Are Up For Preorder At Amazon",
+    "description": "Friday the 13th (2009) Reprint $32 (was $50) | Releases February 3 Preorder at Amazon Friday the 13th: Part 2 45th Anniversary Edition $27 (was $31) | Releases February 3 Preorder at Amazon Friday the 13th is getting a duo of new 4K Blu-ray SteelBook releases next month. The 2009 remake 4K Blu-ray was originally released as a limited edition back in 2024, but swiftly sold out. Luckily, a new reprint is available preorder at Amazon for $37.49 (was $50). Then there's the Friday the 13: Part 2 45th Anniversary Edition 4K SteelBook, which comes with a handful of new bonus features, available to preorder for $24.49 (was $31). Both titles will release simultaneously on February 3, 2026. Friday the 13th (2009) Reprint $32 (was $50) | Releases February 3 The 2009 remake was a pretty faithful recreation of the campy original thanks to director Marcus Nispel, who also remade The Texas Chainsaw Massacre in 2003. This 4K Blu-ray SteelBook from Arrow Video comes with a reversible sleeve with new artwork. Below are all the special features included: Audio Commentary with the Filmmakers Interviews with the Filmmakers Delete Scenes Image Gallery A Killer New Beginning Video Essay Excerpts from the Terror Trivia Track The Rebirth of Jason Voorhees Archival Featurette Hacking Back/ Slashing Forward Archival Featurette The 7 Best Kills Archival Featurette Preorder at Amazon Friday the 13th: Part 2 45th Anniversary Edition $27 (was $31) | Releases February 3 The 1981 follow up to the iconic original, this 45th Anniversary Edition of Friday the 13th: Part 2 is a two-disc featuring a remastered version of the film and some new special features. The story picks up five years after the end of the first movie, with another group of stubborn teens fallen victim to the hockey mask-clad killer. Here are the special features you can look forward to: Inside \"Crystal Lake Memories\" Friday's Legacy: Horror Conventions Lost Tales From Camp Blood - Part 2 Jason Forever Featurette Original Theatrical Trailer Preorder at Amazon The Friday the 13th franchise is one of the most iconic slasher series in the history of the medium, spanning 12 movies and even a handful of video game adaptations. We've seen Jason go from his backwoods roots to New York City, and even a short stint in space (yes, really). The 2009 remake retells the original story well, hitting every big story beat, ridiculous kill scenes, and the twist in a very faithful way. Friday the 13th: Part 2 is a direct follow-up to the first one, following a new group for Jason to stalk. Both movies come in premium SteelBook cases, and the remake reprint includes brand-new cover art by artist Gary Pullin, reversible -- one side features the retro look of the original, while the other is the original poster for the remake. If you're unfamiliar, SteelBook cases are roughly the same size as a typical plastic Blu-ray case but much sturdier, and they often feature alternate art and other physical bonuses. For physical media collectors, the spines look really nice on a bookshelf, and these two horror movies are no different. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/friday-the-13th-remake-and-part-2-4k-blu-rays-are-available-to-preorder-on-amazon/1100-6537658/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-27T00:50:00+00:00"
+  },
+  {
     "title": "Videos of Alex Pretti shooting by federal agents in Minneapolis contradict Trump official claims",
     "description": "Footage from at least one of the videos appears to show a federal officer disarming the victim before shots are fired.",
     "link": "https://www.cnbc.com/2026/01/25/alex-pretti-minneapolis-shooting-videos-trump.html",
@@ -231,25 +280,11 @@
     "pubDate": "2026-01-27T00:46:42+00:00"
   },
   {
-    "title": "Health insurers tumble after Trump administration proposes keeping Medicare Advantage rates flat next year",
-    "description": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth Group plunged in extended trading.",
-    "link": "https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107280605-1690984357528-gettyimages-1569285206-HUMANA_EARNS.jpeg?v=1769465068&w=1920&h=1080",
-    "pubDate": "2026-01-27T00:43:00+00:00"
-  },
-  {
     "title": "White House eases tone on Pretti killing: Trump 'does not want any Americans to lose their lives'",
     "description": "The killing of ICU nurse Alex Pretti by federal agents in Minneapolis, like the fatal shooting of Renee Good by an ICE officer, was caught on video.",
     "link": "https://www.cnbc.com/2026/01/26/trump-tom-homan-minnesota-alex-pretti-ice.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108253687-1768588026840-gettyimages-2255969940-tbdc_00215.jpeg?v=1769070562&w=1920&h=1080",
     "pubDate": "2026-01-27T00:41:45+00:00"
-  },
-  {
-    "title": "Stablecoin market fall shows flight to gold, not Bitcoin: Santiment",
-    "description": "Bitcoin has fallen nearly 30% since a major market crash in October, while gold and silver have soared to new highs.",
-    "link": "https://cointelegraph.com/news/stablecoin-market-fall-shows-flight-to-gold-not-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZjNjktY2QzZS03YjkzLTk4ZmEtZDRlYWFlMWYzZmQwLmpwZw==.jpg",
-    "pubDate": "2026-01-27T00:16:40+00:00"
   },
   {
     "title": "What to expect from today's Bafta nominations",
@@ -287,6 +322,20 @@
     "pubDate": "2026-01-26T23:28:21+00:00"
   },
   {
+    "title": "Veteran Mario Kart Director Retires From Nintendo After Four Decades",
+    "description": "Hideki Konno, a longtime director for Nintendo, has resigned from the video game publisher. Konno confirmed the news on his Facebook page months ago, which largely went unnoticed by the press at the time. His last month at Nintendo was July 2025. The fans at the Famiboard Forums were the first to notice Konno's employment update, which has since blown up online. Konno joined Nintendo in 1986, and worked as a designer and assistant director on Super Mario Bros. 2 and Super Mario Bros. 3. He also directed Yoshi's Island and SimCity for the SNES, and Luigi's Mansion for the GameCube. Konno's most enduring work was on the Mario Kart franchise. He directed the first two games, Super Mario Kart and Mario Kart 64, in addition to producing Mario Kart DS, Mario Kart Wii, Mario Kart 7, Mario Kart 8, and Mario Kart Tour. Although Konno didn't work on the most recent game, he received a special thanks credit in Mario Kart World. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/veteran-mario-kart-director-retires-from-nintendo-after-four-decades/1100-6537666/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T23:25:00+00:00"
+  },
+  {
+    "title": "Fanatical's January Savers Sale - Save On Recent PC Releases And Preorders",
+    "description": "Fanatical is in the middle of its latest PC game sale, the January Savers Sale. The event, which runs until February 1, includes big discounts on popular PC games like Lies of P, Armored Core VI: Fires of Rubicon, and more. To sweeten the deal, the January Savers promotion is offering a virtual scratch card for the chance at various free games and coupons when you spend at least $15. See all deals at Fanatical There are hundreds of deals available in the sale, including some of 2025's biggest releases. This includes Monster Hunter Wilds, which is among the biggest discounts. The newest entry in Capcom's long-running series is on sale for $32.89 (was $70). Wilds earned an 8/10 score in GameSpot's review, and while the initial launch window was rocky, Capcom has continually updated the game with performance tweaks and free content additions, with plans for even more new hunts on the horizon. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/fanatical-january-savers-sale-2026-round-up/1100-6537668/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T23:21:00+00:00"
+  },
+  {
     "title": "How Does Climate Change Affect Winter Storms?",
     "description": "A warmer atmosphere has the potential to hold more moisture, which can contribute to heavier precipitation in any season, scientists say.",
     "link": "https://www.nytimes.com/2026/01/26/weather/winter-storm-climate-change-snow.html",
@@ -308,11 +357,32 @@
     "pubDate": "2026-01-26T23:03:03+00:00"
   },
   {
+    "title": "How To Start New Game Plus In Code Vein 2",
+    "description": "Code Vein 2 is a challenging Soulslike with tense and aggressive combat, as well as plenty of anime drama and compelling characters that should keep you invested throughout its fairly lengthy campaign. It's a lot to take on, even for genre veterans--especially if you're looking to tackle all three of its endings. However, you won't necessarily need to see them all through to access a second playthrough of the game. If you're really eager to see things through a second time, you can start NG+ in Code Vein 2 and try it all again. In Code Vein 2's NG+ mode, you'll start the story from the beginning and lose your map and mission progress. However, you'll take all the levels you've earned and items you've acquired into this fresh run of the campaign, giving you a bit of an edge in combat and beyond--especially during the first few hours. But NG+ also beefs up the enemies and bosses you'll encounter, too, granting them harder-hitting attacks and more health. So, you shouldn't expect to breeze your way through the whole thing. Code Vein 2 doesn't exactly point you toward NG+ after beating the story, though, leaving this feature for you to discover on your own. Luckily, you won't have to stray too far to get started, if that's your goal. Here's how to start NG+ in Code Vein 2. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/how-to-start-new-game-plus-in-code-vein-2/1100-6537504/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T23:01:00+00:00"
+  },
+  {
     "title": "Code Vein 2 review: an early contender for 2026's worst Soulslike",
     "description": "Code Vein 2 makes all the same mistakes as the first Code Vein, adds a bland open world, and misunderstands what makes Soulslikes good.",
     "link": "https://www.polygon.com/code-vein-2-review/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/code-vein-2-review.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-01-26T23:00:17+00:00"
+  },
+  {
+    "title": "How Long To Beat Code Vein 2",
+    "description": "Soulslike games are known for their punishing combat and tense exploration, and Code Vein 2 delivers both alongside a time-traveling story and sprawling open world. There's certainly a lot to see in this anime RPG, especially for those interested in checking out all of its optional content, so it's not the kind of game you'll wrap up in an afternoon. Instead, you'll want to strap in for a dense and challenging outing that should keep you occupied longer than you may expect. Just how much time will you spend in this one, though? Let's take a look at how long it takes to beat Code Vein 2. How long is Code Vein 2? How long it takes you to beat Code Vein 2 will depend on a variety of factors, such as how well you adapt to its aggressive Soulslike combat, how much open world content you seek out, and how many of its character-based side-quests you complete. There's a substantial amount of content to discover for those who take the time to see it all. A playthrough of Code Vein 2 that focuses almost exclusively on pushing through its main story content is likely to take most players at least 25 hours. That being said, the game's overall difficulty is partially based on just how much of its additional objectives you tackle, as time spent in the open world and doing side-quests means earning more levels (thus, improved stats), better equipment, and more healing upgrades. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/how-long-to-beat-code-vein-2/1100-6537312/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T23:00:00+00:00"
+  },
+  {
+    "title": "TikTok users are deleting the app, with removals up 150% following U.S. joint venture",
+    "description": "TikTok users have been deleting the app at a higher rate since the company announced that its U.S. operations would be housed in a new joint venture.",
+    "link": "https://www.cnbc.com/2026/01/26/tiktok-uninstalls-are-up-150percent-following-us-joint-venture.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256209-1769170863807-gettyimages-2257704713-img_6794.jpeg?v=1769170916&w=1920&h=1080",
+    "pubDate": "2026-01-26T22:58:54+00:00"
   },
   {
     "title": "Winter Storm Linked to at Least 22 Deaths in the US",
@@ -336,6 +406,13 @@
     "pubDate": "2026-01-26T22:12:09+00:00"
   },
   {
+    "title": "Reanimal Release Date, Trailer, Gameplay, And Everything Else We Know",
+    "description": "Reanimal is an upcoming horror-adventure game from Tarsier Studios, the creators of Little Nightmares and Little Nightmares II. Players control two children striving to survive and uncover the dark secrets of a hostile island that was once their home. With its haunting visuals and cooperative gameplay, Reanimal aims to expand on Tarsier’s signature style of intimate, atmospheric horror. The game mixes puzzle-solving, stealth, and exploration across a world teeming with twisted environments and unsettling creatures. As a brother-and-sister duo, players navigate the island’s ruins, tackling environmental puzzles and avoiding monsters shaped by their past trauma. Combat takes a backseat to survival, putting the emotional bond between the siblings at the center of the experience. Table of Contents [hide]When will Reanimal be released? When will Reanimal be released? Reanimal is officially set to launch on Friday, February 13, 2026. The release date was confirmed by developer Tarsier Studios in a recent announcement, solidifying the game’s launch just weeks after its long-standing “coming soon” listing on Steam. After previously stressing that the team wouldn’t rush the project, the confirmation signals that development is effectively complete, with the co-op horror game now on the final stretch toward release. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/reanimal-release-date-trailer-gameplay-and-everything-else-we-know/1100-6536001/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T22:06:00+00:00"
+  },
+  {
     "title": "How Trump's tax cuts will affect your return as the 2026 filing season opens",
     "description": "Tax season opened Jan. 26. Here's how Trump's tax cuts from 2025 could affect your return.",
     "link": "https://www.cnbc.com/2026/01/26/tax-season-opens-trumps-tax-cuts.html",
@@ -350,25 +427,18 @@
     "pubDate": "2026-01-26T22:05:09+00:00"
   },
   {
-    "title": "Bitmine’s staked Ether holdings point to $164M in annual staking revenue",
-    "description": "The publicly traded Ether treasury has more than 2 million ETH staked, with total holdings of more than 4.2 million, or 3.5% of the outstanding supply.",
-    "link": "https://cointelegraph.com/news/bitmine-staked-ether-holdings-annual-staking-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNTUtZWUxZC03ZTdkLTkwNTUtZjZmMTAyOGU1NzdhLmpwZw==.jpg",
-    "pubDate": "2026-01-26T21:57:41+00:00"
-  },
-  {
-    "title": "Anthony Zurcher: Trump abandons attack mode as Minneapolis shooting backlash grows",
-    "description": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
-    "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2763/live/edf25770-faf1-11f0-adda-0755af0bac4f.jpg",
-    "pubDate": "2026-01-26T21:18:39+00:00"
-  },
-  {
     "title": "Bitcoin stuck near $88,000 as gold's and silver's record-breaking rallies show exhaustion signs",
     "description": "\"Gold and silver casually adding an entire bitcoin market cap in a single day,\" wrote one crypto analyst.",
     "link": "https://www.coindesk.com/markets/2026/01/26/bitcoin-stuck-near-usd88-000-as-gold-s-and-silver-s-record-breaking-rallies-show-exhaustion-signs",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0e9ba2a2fd1d580a7dba053003235914d9947ee8-2018x1202.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-01-26T20:48:15+00:00"
+  },
+  {
+    "title": "Arc Raiders Will Let Solo Players Take On Squads After Headwinds Update",
+    "description": "Embark Studios has gone into more detail about what players can expect from the Headwinds update for Arc Raiders, which drops on January 27. Its most notable addition is \"Solo vs. Squads\" matchmaking, which no longer restricts solo players from only playing with other solo players. Previously, it was impossible for those playing Arc Raiders by themselves to queue into matches where squads of players working together were also present. After the Headwinds update drops, players who are over level 40 can choose to use Solo vs. Squads matchmaking to allow for that. This will likely make Arc Raiders much harder for you, as squads tend to be more aggressive than solo players, but the XP bonuses and rewards will be greater for solo players. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/arc-raiders-will-let-solo-players-take-on-squads-after-headwinds-update/1100-6537664/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T20:44:00+00:00"
   },
   {
     "title": "Knight of the Seven Kingdoms' only female character got extra help from GRRM",
@@ -385,11 +455,32 @@
     "pubDate": "2026-01-26T20:26:27+00:00"
   },
   {
+    "title": "Highguard Devs Are \"Confident\" It's Not Going Away",
+    "description": "After going all quiet on the digital front for six weeks, Wildlight Entertainment's free-to-play fantasy shooter Highguard is officially out on PC, PlayStation 5, and Xbox Series X|S. If you were concerned about the game's longevity, you can rest easy because the company's co-founder and CEO said it isn't going anywhere. Speaking to Variety on launch day--January 26--Dusty Welch said that Highguard is nothing like Concord or Overwatch (even though it sort of rhymes with the former and is kind of synonymous with the latter). Specifically, Welch noted that, unlike the previous two games (which have been unceremoniously shut down), Highguard won't suffer a similar fate anytime soon. (It's worth mentioning that although Overwatch shut down, Overwatch 2 rose up in its place and has updates planned. Concord, however, is dead and gone.) \"What we're confident in is that we're not going anywhere,\" Welch explained. \"We're not going away. We as a team have a lot of experience in building franchises that have staying power. And this one, as [co-founder and game director Chad Grenier] alluded to, we have a year's worth of content that's near completion that is going to engage an audience for quite a bit of time. So we're excited to be able to bring that. We have the experience, but that said, we're humbled, and we hope people love this--but we're ready to engage with them.\" Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/highguard-devs-are-confident-its-not-going-away/1100-6537665/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T20:16:00+00:00"
+  },
+  {
+    "title": "You Can Save On Marathon PC Preorders Ahead Of Launch",
+    "description": "Marathon Standard Edition $35.49 (was $40) | Releases March 5 Preorder at Fanatical Preorder on the PlayStation Store Preorder on the Xbox Store Marathon Deluxe Edition $51.59 (was $60) | Releases March 5 Preorder at Fanatical Preorder on the PlayStation Store Preorder on the Xbox Store After a tumultuous development cycle, Bungie's next big release, Marathon, launches for PC, PS5, and Xbox Series X|S on March 5, 2026. The multiplayer extraction shooter revives Bungie's classic Marathon series from the early 1990s, set decades after the original trilogy--making it a perfect entry point for newcomers while offering a unique return to the legacy series for long-time fans. Preorders are available now for the digital-only release on all platforms--and if you're playing on PC, you can save some cash by preordering at Fanatical. Fanatical is offering the Marathon Standard Edition for $34.39 (was $40) and the Deluxe Edition for $51.59 (was $60). Buying through Fanatical gets you an official Steam key, plus a 5% off coupon code usable on a future purchase at Fanatical. You also get all the Marathon preorder bonuses, which we've outlined below. Marathon Preorder Bonuses By pre-purchasing Marathon on any platform, you'll gain access to a handful in-game items and cosmetics. Here's what's included: ZERO STEP 004 CE Tactical Sidearm Style ZERO STEP RC Weapon Charm ZERO STEP SHIFT Weapon Sticker APOGEE INTERCEPT Background APOGEE INTERCEPT Emblem And if you happen to be a Destiny 2 player, you'll receive some Marathon-themed bonuses as well. These items are linked to your Bungie.net account and accessible in Destiny 2 once you've claimed the preorder bonus: Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/marathon-preorder-guide-and-deal/1100-6537662/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T20:06:00+00:00"
+  },
+  {
     "title": "Macro fears mask Ethereum’s momentum, SharpLink CEO says",
     "description": "SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.",
     "link": "https://www.coindesk.com/markets/2026/01/26/macro-fears-mask-ethereum-s-momentum-sharplink-ceo-says",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bd74177adf957899271b012eb941094198e501c5-1244x690.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-01-26T19:55:18+00:00"
+  },
+  {
+    "title": "Highguard Takes A Refreshing Approach To Microtransactions",
+    "description": "Highguard, the new free-to-play shooter from developers who previously worked on Titanfall and Apex Legends, is out now--and the game is supported by microtransactions. Developer Wildlight has now shared some context that speaks to the studio's philosophy about microtransactions and ads. Jason Torfin, the VP of product and publishing at Wildlight, told PC Gamer that the team built Highguard's in-game store to be something its own workers might want to use. \"That means cosmetic only, direct purchase only, no FOMO, no pay for power. No pay to win, pay walling, no RNG, no loot boxes,\" Torfin said. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/highguard-takes-a-refreshing-approach-to-microtransactions/1100-6537656/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-01-26T19:52:00+00:00"
   },
   {
     "title": "Christopher Nolan's Al Pacino/Robin Williams thriller is deeply underrated",
@@ -425,13 +516,6 @@
     "link": "https://www.polygon.com/game-of-thrones-interactive-map-westeros/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24133809/house_of_the_dragon_0.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-01-26T18:46:18+00:00"
-  },
-  {
-    "title": "Treasury cancels Booz Allen contracts after employee leaked Trump tax records; stock falls",
-    "description": "Booz Allen employee Charles Edward Littlejohn also had leaked tax records of Amazon's Jeff Bezos and Tesla chief Elon Musk to a news outlet.",
-    "link": "https://www.cnbc.com/2026/01/26/trump-tax-records-treasury-cancels-booz-allen-contracts.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257135-1769452888641-108257135-1769451029953-gettyimages-2205233762-BOOZ_ALLEN_DEI.jpg?v=1769456035&w=1920&h=1080",
-    "pubDate": "2026-01-26T18:42:06+00:00"
   },
   {
     "title": "Millions in crypto wealth at risk of vanishing when holders die. Here's how to protect them",
@@ -476,18 +560,11 @@
     "pubDate": "2026-01-26T17:09:08+00:00"
   },
   {
-    "title": "Cathie Wood’s ARK Invest files for two crypto index ETFs tied to CoinDesk 20",
-    "description": "One proposed fund will attempt to exactly mimic the CoinDesk 20, but the other would track the index, excluding bitcoin.",
-    "link": "https://www.coindesk.com/markets/2026/01/26/cathie-wood-s-ark-invest-files-for-two-crypto-index-etfs-tied-to-coindesk-20",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e9c99c736cf4b79270a0324031f074b3a8000b13-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-01-26T16:51:59+00:00"
-  },
-  {
-    "title": "Here are the winners and losers (so far) in bitcoin mining from Nvidia's $2B CoreWeave investment",
-    "description": "Nvidia’s deepened partnership with CoreWeave raises pressure on bitcoin miners pivoting to AI infrastructure.",
-    "link": "https://www.coindesk.com/markets/2026/01/26/here-are-the-winners-and-losers-from-nvidia-s-usd2b-coreweave-investment",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a944f5c40b9f1fece6ecb4c387377f37ae7134cc-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-01-26T16:06:50+00:00"
+    "title": "Michael Burry Is Probably Wrong About Timing - But Right About What Comes Next",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/michael-burry-probably-wrong-timing-204145860.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7JI.wrI4DQyF9Ur0pP4UyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzI-/https://media.zenfs.com/en/barchart_com_477/d08a784ae513123f41e448c779248baa",
+    "pubDate": "2026-01-25T20:41:45+00:00"
   },
   {
     "title": "Barclays Sees 2026 as a Pivotal Year for Comcast Corporation (CMCSA) and the Broader Telecom Landscape",
@@ -525,32 +602,25 @@
     "pubDate": "2026-01-25T19:32:31+00:00"
   },
   {
+    "title": "Why Parker-Hannifin Rallied 38.2% in 2025",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/why-parker-hannifin-rallied-38-182700251.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xQaBp571HcqnU6RwMcOmig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/752986151c1a67edaadc20ad8495bc81",
+    "pubDate": "2026-01-25T18:27:00+00:00"
+  },
+  {
+    "title": "Precious Metals Investing: PPLT's Simple Platinum Access vs. SIL's Mining Holdings",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/precious-metals-investing-pplts-simple-182502468.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/yKgVmWR5BVz9SB7kKEPAkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDcy/https://media.zenfs.com/en/motleyfool.com/cd59dd2c77c3210ea428e186ff5222fb",
+    "pubDate": "2026-01-25T18:25:02+00:00"
+  },
+  {
     "title": "Earnings, Tariffs and Other Key Things to Watch this Week",
     "description": "",
     "link": "https://finance.yahoo.com/news/earnings-tariffs-other-key-things-180002018.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/IHMpg.SuTkOpJxuUGmKwCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/barchart_com_477/a3f8b7b175c2147da9ed22b631b9dee3",
     "pubDate": "2026-01-25T18:00:02+00:00"
-  },
-  {
-    "title": "Bank of America resets Intel stock forecast",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/bank-america-resets-intel-stock-174700534.html",
-    "thumbnail": "https://s.yimg.com/os/en/thestreet_881/b30aa795d754efb62ae2750e9df003a1",
-    "pubDate": "2026-01-25T17:47:00+00:00"
-  },
-  {
-    "title": "‘They are awful’: Dave Ramsey rips millennials and Gen Z for wanting homes without working",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/awful-dave-ramsey-rips-millennials-174500737.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/N333caHjmo8vUkm.8wsyyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTk-/https://media.zenfs.com/en/moneywise_ecomm_711/7c03917dbb8ba043bc8364d6b03c5247",
-    "pubDate": "2026-01-25T17:45:00+00:00"
-  },
-  {
-    "title": "Why Shares of D-Wave Quantum Soared 211.3% in 2025 and Can Fly Higher in 2026",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/why-shares-d-wave-quantum-173905823.html",
-    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/9122531501a4d59f301ae22c482eff3d",
-    "pubDate": "2026-01-25T17:39:05+00:00"
   },
   {
     "title": "AI power and infrastructure needs boomed in 2025. At Davos, the AI story for 2026 remains the same.",
