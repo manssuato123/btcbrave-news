@@ -1,10 +1,45 @@
 [
   {
+    "title": "Novo Nordisk shares tumble 18% as CEO warns it will get worse before it gets better",
+    "description": "Just as Novo Nordisk showed signs of a recovery, another cold shower hit investors as the drugmaker surprise prereleased its 2026 forecast late Tuesday, sending shares tumbling.",
+    "link": "https://www.cnbc.com/2026/02/04/novo-nordisk-stock-ceo-earnings-guidance-ozempic-wegovy.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108222574-1762455152447-gettyimages-2244850794-AFP_83BD62D.jpeg?v=1762455178&w=1920&h=1080",
+    "pubDate": "2026-02-04T09:30:46+00:00"
+  },
+  {
+    "title": "UBS beats expectations with $1.2 billion fourth-quarter profit, plans $3 billion buyback",
+    "description": "UBS reported its fourth quarter earnings on Wednesday.",
+    "link": "https://www.cnbc.com/2026/02/04/ubs-q4-earnings-swiss-bank.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/105560590-1541642690644gettyimages-1053792808.jpeg?v=1770135338&w=1920&h=1080",
+    "pubDate": "2026-02-04T09:09:15+00:00"
+  },
+  {
+    "title": "Renee Good’s Brothers Call on Congress to Rein In Immigration Crackdown",
+    "description": "At a forum on Capitol Hill held by congressional Democrats, the brothers of the 37-year-old American citizen fatally shot by an ICE agent said immigration enforcement tactics must be dialed back.",
+    "link": "https://www.nytimes.com/2026/02/03/us/renee-good-brothers-ice-congress.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/03/multimedia/03minneapolis-ice-good-brothers-gwkt/03minneapolis-ice-good-brothers-gwkt-facebookJumbo.jpg",
+    "pubDate": "2026-02-04T09:00:26+00:00"
+  },
+  {
     "title": "Andrew moves out of Royal Lodge home",
     "description": "The former prince's move to a temporary property on the Sandringham Estate follows the latest disclosure of Jeffrey Epstein files.",
     "link": "https://www.bbc.com/news/articles/c8e5zgprgn1o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg",
     "pubDate": "2026-02-04T08:54:36+00:00"
+  },
+  {
+    "title": "Venezuela tells China oil prices won't be set by the U.S., seeks to reassure investment after Maduro capture",
+    "description": "Venezuela assured Beijing that its oil pricing will not be dictated by the U.S. and that Chinese investment in the South American country will remain secure.",
+    "link": "https://www.cnbc.com/2026/02/04/venezuela-tells-china-oil-prices-us-seeks-to-reassure-investment-sanctions.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108261138-1770179681835-gettyimages-1677001546-vcg111453764958.jpeg?v=1770179759&w=1920&h=1080",
+    "pubDate": "2026-02-04T08:54:35+00:00"
+  },
+  {
+    "title": "Tether scales back $20 billion funding ambitions after investor resistance: FT",
+    "description": "Advisers are now discussing a smaller fundraising of roughly $5 billion, as prospective backers question both the size of the deal and Tether’s lofty valuation.",
+    "link": "https://www.coindesk.com/markets/2026/02/04/tether-scales-back-usd20-billion-funding-ambitions-after-investor-resistance-ft",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/931e20dc1e2cb33c8ec322651d45005f7f61d0ed-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-02-04T08:52:57+00:00"
   },
   {
     "title": "Ukraine Talks Set to Resume, Following a Huge Attack by Moscow",
@@ -17,15 +52,8 @@
     "title": "Bitcoin ETF assets slip below $100B with fresh $272M outflows",
     "description": "Spot Bitcoin ETF AUM fell below $100 billion after $272 million in outflows, pushing year-to-date losses close to $1.3 billion.",
     "link": "https://cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6411-4247-7172-8b2d-36fe75ba562e.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg",
     "pubDate": "2026-02-04T08:31:06+00:00"
-  },
-  {
-    "title": "Novo Nordisk shares tumble 18% as CEO warns it will get worse before it gets better",
-    "description": "Just as Novo Nordisk showed signs of a recovery, another cold shower hit investors as the drugmaker surprise prereleased its 2026 forecast late Tuesday, sending shares tumbling.",
-    "link": "https://www.cnbc.com/2026/02/04/novo-nordisk-stock-ceo-earnings-guidance-ozempic-wegovy.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108222574-1762455152447-gettyimages-2244850794-AFP_83BD62D.jpeg?v=1762455178&w=1920&h=1080",
-    "pubDate": "2026-02-04T08:14:50+00:00"
   },
   {
     "title": "Russian attacks on Ukraine energy sites 'particularly depraved', UK PM Starmer says",
@@ -45,7 +73,7 @@
     "title": "Bitwise to acquire crypto staking company Chorus One: Report",
     "description": "The reported acquisition comes as Ethereum staking demand surges, with more than 30% of ETH supply locked and validator wait times stretching beyond 70 days.",
     "link": "https://cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c277d-a1f3-7327-93f8-ca2cee2659e9.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3N2QtYTFmMy03MzI3LTkzZjgtY2EyY2VlMjY1OWU5LmpwZw==.jpg",
     "pubDate": "2026-02-04T07:47:32+00:00"
   },
   {
@@ -63,25 +91,11 @@
     "pubDate": "2026-02-04T07:10:02+00:00"
   },
   {
-    "title": "Gold extends gains, breaking past $5,000; Asia stocks trade mostly higher, breaking ranks with Wall Street",
-    "description": "Asia-Pacific markets mostly rose, breaking ranks with Wall Street as a sell-off in U.S. technology stocks weighed on sentiment.",
-    "link": "https://www.cnbc.com/2026/02/04/asia-markets-today-wednesday-wall-street-tech-selloff-futures-lower-ai-software-hang-seng-nikkei-kospi.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108223387-1762730856669-gettyimages-2196909643-13102024_tokyo_053.jpeg?v=1762731043&w=1920&h=1080",
-    "pubDate": "2026-02-04T06:58:48+00:00"
-  },
-  {
     "title": "How 2026 Winter Olympics Security Is Preparing For The Opening Ceremony",
     "description": "Thousands of police and security officers will work during the Milan-Cortina Games’ opening ceremony. The involvement of some U.S. ICE personnel has stirred opposition.",
     "link": "https://www.nytimes.com/2026/02/04/world/europe/winter-olympics-security-milan-cortina.html",
     "thumbnail": "https://static01.nyt.com/images/2026/02/03/multimedia/03int-olympics-security-01-ztwq/03int-olympics-security-01-ztwq-facebookJumbo.jpg",
     "pubDate": "2026-02-04T06:54:34+00:00"
-  },
-  {
-    "title": "UBS beats expectations with $1.2 billion fourth-quarter profit, plans $3 billion buyback",
-    "description": "UBS reported its fourth quarter earnings on Wednesday.",
-    "link": "https://www.cnbc.com/2026/02/04/ubs-q4-earnings-swiss-bank.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/105560590-1541642690644gettyimages-1053792808.jpeg?v=1770135338&w=1920&h=1080",
-    "pubDate": "2026-02-04T06:40:01+00:00"
   },
   {
     "title": "ETF that feasts on carnage in bitcoin-holder Strategy hits record high",
@@ -94,7 +108,7 @@
     "title": "Aave winds down Avara, phases out Family wallet in DeFi refocus",
     "description": "Aave says all current and future products will move under Aave Labs, while the Family wallet iOS app is wound down and user accounts remain supported.",
     "link": "https://cointelegraph.com/news/aave-shuts-down-avara-family-wallet-refocus-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c26d4-4203-70ac-83cb-5372f74d7206.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ZDQtNDIwMy03MGFjLTgzY2ItNTM3MmY3NGQ3MjA2LmpwZw==.jpg",
     "pubDate": "2026-02-04T06:09:47+00:00"
   },
   {
@@ -115,7 +129,7 @@
     "title": "Crypto.com launches standalone prediction market app ‘OG’",
     "description": "Crypto.com has spun out its prediction markets business into a standalone platform after reporting explosive growth, entering a crowded but booming industry.",
     "link": "https://cointelegraph.com/news/crypto-com-launches-new-prediction-market-platform-after-40x-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bdddb-2f87-74e1-adac-54c794a05837.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRkZGItMmY4Ny03NGUxLWFkYWMtNTRjNzk0YTA1ODM3LmpwZw==.jpg",
     "pubDate": "2026-02-04T05:40:52+00:00"
   },
   {
@@ -124,13 +138,6 @@
     "link": "https://www.coindesk.com/markets/2026/02/04/ether-and-majors-rise-as-bitcoin-rebounds-to-usd76-000-but-the-bounce-may-not-last",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/da6533df1fe8949af6c38de0ecc6d2cfd76d8409-1920x1080.jpg?auto=format",
     "pubDate": "2026-02-04T05:40:42+00:00"
-  },
-  {
-    "title": "Nintendo shares sink 10% as gaming giant faces memory shortage concerns",
-    "description": "Nintendo is facing pressure this year from a shortage in memory chips — a key component in its gaming consoles — that has resulted in surging prices.",
-    "link": "https://www.cnbc.com/2026/02/04/nintendo-shares-sink-10percent-as-gaming-giant-faces-memory-shortage-concerns-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108160824-1750231226798-gettyimages-2218016424-JAPAN_NINTENDO_SWITCH_2.jpeg?v=1770172023&w=1920&h=1080",
-    "pubDate": "2026-02-04T05:31:43+00:00"
   },
   {
     "title": "Crypto darknet drug kingpin Rui-Siang Lin gets 30 years",
@@ -143,7 +150,7 @@
     "title": "Polymarket, Kalshi clash over groceries as prediction markets boom",
     "description": "The grocery giveaways come as Kalshi and Polymarket lead prediction market trading volumes, which have recently exceeded $400 million per day.",
     "link": "https://cointelegraph.com/news/polymarket-kalshi-giving-away-free-groceries-nyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019aef36-d26d-78a3-984d-03323e88cd87",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg",
     "pubDate": "2026-02-04T05:10:57+00:00"
   },
   {
@@ -171,7 +178,7 @@
     "title": "Stablecoin ‘dust’ txs on Ethereum triple post-Fusaka: Coin Metrics",
     "description": "Analysis of 227 million USDC and USDT balance updates found that 43% were dust transfers under $1, said Coin Metrics.",
     "link": "https://cointelegraph.com/news/ethereum-post-fusaka-dust-attacks-overstated-making-only-11-of-txs-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c2686-64c8-7b93-a835-764b14e22304.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ODYtNjRjOC03YjkzLWE4MzUtNzY0YjE0ZTIyMzA0LmpwZw==.jpg",
     "pubDate": "2026-02-04T04:39:59+00:00"
   },
   {
@@ -199,14 +206,14 @@
     "title": "Crypto dev launches website for agentic AI to ‘rent a human’",
     "description": "The site lets users set an hourly rate for tasks from errands to business meetings. It was built using AI agents in a \"Ralph loop,\" a form of vibe coding.",
     "link": "https://cointelegraph.com/news/crypto-dev-launches-website-for-agentic-ai-rent-a-human?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c25de-7710-7f8e-a452-c3c882e4fd2c.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1ZGUtNzcxMC03ZjhlLWE0NTItYzNjODgyZTRmZDJjLmpwZw==.jpg",
     "pubDate": "2026-02-04T04:06:16+00:00"
   },
   {
     "title": "Kraken parent Payward revenues jump 33% as crypto traders pile in",
     "description": "Kraken co-CEO Arjun Sethi said Payward’s revenues were “well balanced” in 2025, split almost evenly between trading and asset-based revenues.",
     "link": "https://cointelegraph.com/news/kraken-parent-payward-revenues-jump-crypto-traders-flock-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c25c5-27e8-7803-8cf6-8a53f7db7816.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1YzUtMjdlOC03ODAzLThjZjYtOGE1M2Y3ZGI3ODE2LmpwZw==.jpg",
     "pubDate": "2026-02-04T03:13:28+00:00"
   },
   {
@@ -262,7 +269,7 @@
     "title": "Vitalik Buterin tempers vision for ETH L2s, pushes native rollups",
     "description": "The Ethereum co-founder said many layer‑2s have failed to decentralize and continue to be mediated by multisig bridges instead of inheriting Ethereum’s security advantages.",
     "link": "https://cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c261a-d504-7aa5-9a04-c1a9af4c7a0a.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2MWEtZDUwNC03YWE1LTlhMDQtYzFhOWFmNGM3YTBhLmpwZw==.jpg",
     "pubDate": "2026-02-04T02:37:39+00:00"
   },
   {
@@ -308,13 +315,6 @@
     "pubDate": "2026-02-04T00:34:05+00:00"
   },
   {
-    "title": "Renee Good’s Brothers Call on Congress to Rein In Immigration Crackdown",
-    "description": "At a forum on Capitol Hill held by congressional Democrats, the brothers of the 37-year-old American citizen fatally shot by an ICE agent said immigration enforcement tactics must be dialed back.",
-    "link": "https://www.nytimes.com/2026/02/03/us/renee-good-brothers-ice-congress.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/03/multimedia/03minneapolis-ice-good-brothers-gwkt/03minneapolis-ice-good-brothers-gwkt-facebookJumbo.jpg",
-    "pubDate": "2026-02-04T00:05:57+00:00"
-  },
-  {
     "title": "Trump Repeats Call to ‘Nationalize’ Elections, as White House Walks It Back",
     "description": "President Trump’s extraordinary comments were the latest iteration of his unsubstantiated claims that U.S. elections are rigged as Republicans face potentially big losses next year.",
     "link": "https://www.nytimes.com/2026/02/03/us/politics/trump-save-act-elections.html",
@@ -327,6 +327,13 @@
     "link": "https://www.polygon.com/map/arknights-endfield-valley-iv-interactive-map/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/polygon-arknights-endfield-valley-iv-map-feature.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-02-03T23:46:26+00:00"
+  },
+  {
+    "title": "AI disruption fears rock software stocks again. How Jim Cramer is navigating the sell-off",
+    "description": "CNBC's Jim Cramer said the sell-off in software reflects a shift in how investors value future growth rather than a collapse in earnings.",
+    "link": "https://www.cnbc.com/2026/02/03/ai-disruption-fears-rock-software-stocks-how-jim-cramer-navigating-sell-off.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107113452-NUP_198430_00216r.jpg?v=1697496575&w=1920&h=1080",
+    "pubDate": "2026-02-03T23:40:47+00:00"
   },
   {
     "title": "WisdomTree, a firm with $150 billion in assets, says crypto is now a core business",
@@ -371,11 +378,11 @@
     "pubDate": "2026-02-03T23:20:30+00:00"
   },
   {
-    "title": "Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other",
-    "description": "Five months after OpenAI and Nvidia announced a $100 billion deal, no contract has been signed and no money has changed hands.",
-    "link": "https://www.cnbc.com/2026/02/03/nvidia-openai-stalled-on-their-mega-deal-ai-giants-need-each-other.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108202501-1758585935917-Untitled-4.jpg?v=1770158734&w=1920&h=1080",
-    "pubDate": "2026-02-03T23:18:57+00:00"
+    "title": "How one country is engineering its way out of a construction cost crisis",
+    "description": "While a building boom is good for the economy, it presents challenges, with construction costs in Singapore consistently ranked among the highest in the world.",
+    "link": "https://www.cnbc.com/2026/02/04/singapore-construction-boom-how-the-city-state-is-managing-costs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108259203-1769719574407-gettyimages-2210840686-AFP_433V9A3.jpeg?v=1769720051&w=1920&h=1080",
+    "pubDate": "2026-02-03T23:20:27+00:00"
   },
   {
     "title": "Here's who analysts expect to gain from India’s U.S. and EU trade deals",
@@ -385,17 +392,10 @@
     "pubDate": "2026-02-03T23:18:15+00:00"
   },
   {
-    "title": "‘Big Short’ investor Michael Burry warns bitcoin plunge could trigger $1 billion gold, silver selloff",
-    "description": "Burry said crypto losses may have forced institutions to liquidate precious metals as bitcoin slid below $73,000.",
-    "link": "https://www.coindesk.com/markets/2026/02/03/the-big-short-investor-michael-burry-warns-bitcoin-plunge-could-trigger-usd1b-gold-silver-sell-off",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e6e7c351cd50744cc1385ea08d2216c75a22b3f7-3000x2042.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-02-03T23:16:54+00:00"
-  },
-  {
     "title": "ETH funding rate turns negative, but US macro conditions mute buy signal",
     "description": "Crypto traders usually view negative funding rates as a buy signal, but this week’s volatile US earnings outcome may cloud its value for ETH investors.",
     "link": "https://cointelegraph.com/news/eth-funding-rate-turns-negative-but-us-macro-conditions-mute-the-buy-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c258a-d583-7ea8-a6cf-abd8f91a0d30.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1OGEtZDU4My03ZWE4LWE2Y2YtYWJkOGY5MWEwZDMwLmpwZw==.jpg",
     "pubDate": "2026-02-03T23:00:00+00:00"
   },
   {
@@ -542,7 +542,7 @@
     "title": "Nvidia Stock Dips On OpenAI Funding Issues",
     "description": "",
     "link": "https://www.investors.com/news/technology/nvidia-stock-nvda-openai-funding-issues/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/02/IT-Nvidia-Huang-company.jpg",
+    "thumbnail": "",
     "pubDate": "2026-02-02T21:09:16+00:00"
   },
   {
