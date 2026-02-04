@@ -1,17 +1,52 @@
 [
   {
+    "title": "Eli Lilly blows past quarterly estimates, posts strong outlook as Zepbound and Mounjaro sales soar",
+    "description": "Eli Lilly's fourth-quarter earnings come as it tries to maintain its advantage over Novo Nordisk in the GLP-1 market.",
+    "link": "https://www.cnbc.com/2026/02/04/eli-lilly-lly-earnings-q4-2025.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108202948-17586546092025-09-23t190854z_309179444_rc2nxgaz01r4_rtrmadp_0_usa-lilly.jpeg?v=1758654730&w=1920&h=1080",
+    "pubDate": "2026-02-04T11:56:19+00:00"
+  },
+  {
+    "title": "Pinterest CEO rebukes, fires 'obstructionist' employees who created tool to track layoffs",
+    "description": "Pinterest CEO Bill Ready lashed out at staffers who created an internal tool to track layoffs at the company, and fired those involved.",
+    "link": "https://www.cnbc.com/2026/02/03/pinterest-ceo-puts-staffers-on-blast-who-created-tool-to-track-layoffs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108141285-1746481606912-gettyimages-2213037058-AFP_44KM3X7.jpeg?v=1770149131&w=1920&h=1080",
+    "pubDate": "2026-02-04T11:55:09+00:00"
+  },
+  {
+    "title": "AMD is down 9% after reporting earnings. Here's why",
+    "description": "The chipmaker's stock has surged over the past year amid the AI boom",
+    "link": "https://www.cnbc.com/2026/02/04/amd-stock-earnings-forecast-chips.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108248914-1767724643020-gettyimages-2254260517-CES_2026.jpeg?v=1770201506&w=1920&h=1080",
+    "pubDate": "2026-02-04T11:46:13+00:00"
+  },
+  {
+    "title": "China ramps up threats over Panama Canal ruling that handed Trump a major victory",
+    "description": "The Panama Canal has been thrust into the middle of a power struggle between the U.S. and China, the world's two largest economies.",
+    "link": "https://www.cnbc.com/2026/02/04/china-us-trump-panama-canal-court-ruling-ck-hutchison.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108261178-1770194219638-gettyimages-2200234379-AFP_36YA8B8.jpeg?v=1770194287&w=1920&h=1080",
+    "pubDate": "2026-02-04T11:37:47+00:00"
+  },
+  {
+    "title": "Crypto steadies after selloff as bitcoin, ether rebound from multiyear lows",
+    "description": "Bitcoin and ether are posting gains after a sharp market-wide decline, with derivatives traders continuing to reduce risk exposure.",
+    "link": "https://www.coindesk.com/markets/2026/02/04/crypto-steadies-after-selloff-as-bitcoin-ether-rebound-from-multiyear-lows",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0ae50d597604ac5e99edde2d58cfe9f957bb9111-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-02-04T11:29:09+00:00"
+  },
+  {
     "title": "Arbitrum, Optimism and Base weigh in after Vitalik questions L2 scaling model",
     "description": "Base’s Jesse Pollak says L2s can’t be “Ethereum but cheaper” as builders respond to Vitalik Buterin’s call for specialization.",
     "link": "https://cointelegraph.com/news/ethereum-l2-builders-respond-vitalik-rollup-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c261a-d504-7aa5-9a04-c1a9af4c7a0a.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4NzYtYzcxNy03YzBjLTk4YTItNGYwZDY5NmFlMGZlLmpwZw==.jpg",
     "pubDate": "2026-02-04T11:18:12+00:00"
   },
   {
     "title": "Tether trims $20B funding plan amid $500B valuation skepticism: Report",
     "description": "Tether CEO Paolo Ardoino scaled back the company's $20 billion funding plan, calling the target a \"misconception,\" while maintaining a $500 billion valuation.",
     "link": "https://cointelegraph.com/news/tether-20-billion-raise-trim-500-billion-valuation-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c280c-26e8-7ef5-8604-ea25d8c05b6f.jpg",
-    "pubDate": "2026-02-04T11:16:29+00:00"
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGMtMjZlOC03ZWY1LTg2MDQtZWEyNWQ4YzA1YjZmLmpwZw==.jpg",
+    "pubDate": "2026-02-04T11:16:27+00:00"
   },
   {
     "title": "Russian attacks on Ukraine energy sites 'particularly depraved', UK PM Starmer says",
@@ -87,7 +122,7 @@
     "title": "Base says configuration change caused transaction delays, fixes issue",
     "description": "Base is rolling out month-long infrastructure upgrades aimed at preventing future transaction delays and improving overall network reliability.",
     "link": "https://cointelegraph.com/news/base-fixes-transaction-delays-config-error-layer2-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c280b-4581-7ea8-a5d9-7f4f1929227a.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGItNDU4MS03ZWE4LWE1ZDktN2Y0ZjE5MjkyMjdhLmpwZw==.jpg",
     "pubDate": "2026-02-04T10:56:06+00:00"
   },
   {
@@ -126,31 +161,17 @@
     "pubDate": "2026-02-04T10:42:34+00:00"
   },
   {
-    "title": "Gold and silver extend rebound but concerns over volatility linger",
-    "description": "Gold and silver climb with further gains seen determined by rate expectations",
-    "link": "https://www.cnbc.com/2026/02/04/gold-and-silver-extend-rebound-but-concerns-over-volatility-linger.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256252-17691746502026-01-23t091518z_548735958_rc2z4jax8qc9_rtrmadp_0_global-markets-emirates-gold.jpeg?v=1769174668&w=1920&h=1080",
-    "pubDate": "2026-02-04T10:42:10+00:00"
-  },
-  {
     "title": "Ethereum price: Classic chart pattern puts sub-$2K ETH in focus",
     "description": "Ether risks declining toward the $1,665-$1,725 range in February, according to a confluence of bearish technical and on-chain indicators.",
     "link": "https://cointelegraph.com/news/ethereum-price-classic-chart-pattern-suggests-eth-will-go-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c27ba-2de4-77ba-bec0-c61e08caeb21.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3YmEtMmRlNC03N2JhLWJlYzAtYzYxZTA4Y2FlYjIxLmpwZw==.jpg",
     "pubDate": "2026-02-04T10:40:44+00:00"
-  },
-  {
-    "title": "China ramps up threats over Panama Canal ruling that handed Trump a major victory",
-    "description": "The Panama Canal has been thrust into the middle of a power struggle between the U.S. and China, the world's two largest economies.",
-    "link": "https://www.cnbc.com/2026/02/04/china-us-trump-panama-canal-court-ruling-ck-hutchison.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108261178-1770194219638-gettyimages-2200234379-AFP_36YA8B8.jpeg?v=1770194287&w=1920&h=1080",
-    "pubDate": "2026-02-04T10:36:00+00:00"
   },
   {
     "title": "Whale's $9B Bitcoin sale was not due to quantum concerns: Galaxy Digital",
     "description": "The firm addressed speculation that a multibillion-dollar client trade was motivated by concerns over Bitcoin’s resistance to future quantum computing advances.",
     "link": "https://cointelegraph.com/news/whale-9b-bitcoin-sale-not-quantum-concerns-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b22c8-94f4-781a-b598-464148248499.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzgtOTRmNC03ODFhLWI1OTgtNDY0MTQ4MjQ4NDk5LmpwZw==.jpg",
     "pubDate": "2026-02-04T10:35:35+00:00"
   },
   {
@@ -227,7 +248,7 @@
     "title": "Bitcoin ETF assets slip below $100B with fresh $272M outflows",
     "description": "Spot Bitcoin ETF AUM fell below $100 billion after $272 million in outflows, pushing year-to-date losses close to $1.3 billion.",
     "link": "https://cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6411-4247-7172-8b2d-36fe75ba562e.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg",
     "pubDate": "2026-02-04T08:31:06+00:00"
   },
   {
@@ -241,7 +262,7 @@
     "title": "Bitwise to acquire crypto staking company Chorus One: Report",
     "description": "The reported acquisition comes as Ethereum staking demand surges, with more than 30% of ETH supply locked and validator wait times stretching beyond 70 days.",
     "link": "https://cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c277d-a1f3-7327-93f8-ca2cee2659e9.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3N2QtYTFmMy03MzI3LTkzZjgtY2EyY2VlMjY1OWU5LmpwZw==.jpg",
     "pubDate": "2026-02-04T07:47:32+00:00"
   },
   {
@@ -269,7 +290,7 @@
     "title": "Aave winds down Avara, phases out Family wallet in DeFi refocus",
     "description": "Aave says all current and future products will move under Aave Labs, while the Family wallet iOS app is wound down and user accounts remain supported.",
     "link": "https://cointelegraph.com/news/aave-shuts-down-avara-family-wallet-refocus-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c26d4-4203-70ac-83cb-5372f74d7206.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ZDQtNDIwMy03MGFjLTgzY2ItNTM3MmY3NGQ3MjA2LmpwZw==.jpg",
     "pubDate": "2026-02-04T06:09:47+00:00"
   },
   {
@@ -290,7 +311,7 @@
     "title": "Crypto.com launches standalone prediction market app ‘OG’",
     "description": "Crypto.com has spun out its prediction markets business into a standalone platform after reporting explosive growth, entering a crowded but booming industry.",
     "link": "https://cointelegraph.com/news/crypto-com-launches-new-prediction-market-platform-after-40x-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bdddb-2f87-74e1-adac-54c794a05837.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRkZGItMmY4Ny03NGUxLWFkYWMtNTRjNzk0YTA1ODM3LmpwZw==.jpg",
     "pubDate": "2026-02-04T05:40:52+00:00"
   },
   {
@@ -318,7 +339,7 @@
     "title": "Polymarket, Kalshi clash over groceries as prediction markets boom",
     "description": "The grocery giveaways come as Kalshi and Polymarket lead prediction market trading volumes, which have recently exceeded $400 million per day.",
     "link": "https://cointelegraph.com/news/polymarket-kalshi-giving-away-free-groceries-nyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019aef36-d26d-78a3-984d-03323e88cd87",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg",
     "pubDate": "2026-02-04T05:10:57+00:00"
   },
   {
@@ -341,13 +362,6 @@
     "link": "https://www.polygon.com/fallout-season-2-easter-egg-show/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/fallouts2tbimage8_3000.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-02-04T04:58:42+00:00"
-  },
-  {
-    "title": "Tom Lee says BitMine’s $6 billion ether paper loss is “by design\"",
-    "description": "The firm said unrealized losses are expected in a downturn, arguing its ethereum-heavy balance sheet is designed to track and outperform ETH over a full market cycle.",
-    "link": "https://www.coindesk.com/markets/2026/02/04/tom-lee-says-bitmine-s-usd6-billion-ether-paper-loss-is-by-design",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/86f52fd7839d4e6369eec2343dcd2ef548ed1b2f-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-02-04T04:39:45+00:00"
   },
   {
     "title": "Fed's Stephen Miran resigns from White House post",
@@ -383,13 +397,6 @@
     "link": "https://www.polygon.com/fallout-season-2-ending-explained/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/fallout-goggins.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-02-04T03:00:30+00:00"
-  },
-  {
-    "title": "Pinterest CEO rebukes, fires 'obstructionist' employees who created tool to track layoffs",
-    "description": "Pinterest CEO Bill Ready lashed out at staffers who created an internal tool to track layoffs at the company, and fired those involved.",
-    "link": "https://www.cnbc.com/2026/02/03/pinterest-ceo-puts-staffers-on-blast-who-created-tool-to-track-layoffs.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108141285-1746481606912-gettyimages-2213037058-AFP_44KM3X7.jpeg?v=1770149131&w=1920&h=1080",
-    "pubDate": "2026-02-04T02:49:44+00:00"
   },
   {
     "title": "Chris Mason: Mandelson revelations a scandal on another level",
@@ -434,13 +441,6 @@
     "pubDate": "2026-02-03T23:57:59+00:00"
   },
   {
-    "title": "Trump: If states can't run elections 'honestly,' then 'somebody else should take over'",
-    "description": "Trump had been asked what he meant when he called on members of the Republican Party to \"take over the voting\" in a recent interview with Dan Bongino.",
-    "link": "https://www.cnbc.com/2026/02/03/trump-election-government-states.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108261016-17701553992026-02-03t214511z_1091522287_rc2leja2ijel_rtrmadp_0_usa-trump.jpeg?v=1770162118&w=1920&h=1080",
-    "pubDate": "2026-02-03T23:52:00+00:00"
-  },
-  {
     "title": "Arknights: Endfield Valley IV interactive map",
     "description": "In this Arknights: Endfield Valley IV interactive map, you can locate all the key spots in this region from Mineral Beds to TP points",
     "link": "https://www.polygon.com/map/arknights-endfield-valley-iv-interactive-map/",
@@ -483,6 +483,13 @@
     "pubDate": "2026-02-03T23:20:30+00:00"
   },
   {
+    "title": "Chipotle stock sinks as restaurant chain reports falling traffic, weak guidance",
+    "description": "Chipotle stock has fallen about 33% over the last year, dragging the company's market value down to about $51 billion.",
+    "link": "https://www.cnbc.com/2026/02/03/chipotle-cmg-q4-2025-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108135737-1745443795624-gettyimages-2211664111-anotherday22623916_qcsliau4.jpeg?v=1770156871&w=1920&h=1080",
+    "pubDate": "2026-02-03T22:54:05+00:00"
+  },
+  {
     "title": "Borderlands 4 On Switch 2 Has Paused Development, And Might Never Release",
     "description": "In a recently-released roadmap for the future of Borderlands 4, one milestone was suspiciously absent--the game's Switch 2 port, which was previously delayed indefinitely just 10 days before its original launch date. Now, publisher Take-Two Interactive has revealed why that's the case, and it's not good news for anyone holding out for the game on Nintendo's hybrid console. In an interview with Variety, spokesperson Alan Lewis has revealed that development on the Switch 2 version is paused. \"We made the difficult decision to pause development on that SKU,\" he told the outlet, while affirming that the company is still committing to the system with upcoming games like PGA Tour 2K25 and WWE 2K26. The use of the word \"pause\" indicates that development on the Switch 2 port of Borderlands 4 could, theoretically, resume in the future, as it's not technically cancelled, but there's no guarantee that this will happen. The game reportedly sold below expectations at launch, despite also having the biggest launch in the franchise's history. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/borderlands-4-on-switch-2-has-paused-development-and-might-never-release/1100-6537897/?ftag=CAD-01-10abi2f",
@@ -502,13 +509,6 @@
     "link": "https://www.gamespot.com/articles/beloved-baldurs-gate-3-characters-are-getting-new-magic-the-gathering-cards/1100-6537896/?ftag=CAD-01-10abi2f",
     "thumbnail": "https://www.gamespot.com/a/uploads/original/3/37852/4645700-shadowheart.jpg",
     "pubDate": "2026-02-03T21:48:00+00:00"
-  },
-  {
-    "title": "U.S. could issue general license for oil companies to produce in Venezuela this week, source says",
-    "description": "The oil industry's response to investing in Venezuela has been mixed, with ExxonMobil CEO Darren Woods describing the country as \"uninvestable.\"",
-    "link": "https://www.cnbc.com/2026/02/03/us-could-issue-general-license-for-oil-companies-to-produce-in-venezuela.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108260416-17700685722026-02-02t213906z_10101598_rc2dica2pzoo_rtrmadp_0_usa-venezuela-oil-maracaibo.jpeg?v=1770154504&w=1920&h=1080",
-    "pubDate": "2026-02-03T21:44:21+00:00"
   },
   {
     "title": "Generative AI Is Not Going To \"Eat\" The Games Industry, Expert Says",
