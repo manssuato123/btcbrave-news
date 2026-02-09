@@ -1,10 +1,80 @@
 [
   {
-    "title": "Bad Bunny Delivers Joyful Super Bowl Halftime Show",
-    "description": "Lady Gaga and Ricky Martin joined the Puerto Rican musician in a show that celebrated Latino heritage and was performed mostly in Spanish. His appearance had become a political flashpoint amid his criticism of ICE.",
+    "title": "Bad Bunny Delivers a Joyful Halftime Show",
+    "description": "The Puerto Rican musician celebrated Latino heritage and performed mostly in Spanish in a show that had become a political flashpoint amid his criticism of ICE.",
     "link": "https://www.nytimes.com/live/2026/02/08/us/super-bowl-halftime-bad-bunny",
     "thumbnail": "https://static01.nyt.com/images/2026/02/08/multimedia/08super-bowl-halftime-carousel-2-mvlf/08super-bowl-halftime-carousel-2-mvlf-facebookJumbo-v2.jpg",
-    "pubDate": "2026-02-09T05:04:52+00:00"
+    "pubDate": "2026-02-09T06:28:20+00:00"
+  },
+  {
+    "title": "Venezuela Frees Key Opposition Figures as Government Courts U.S. Support",
+    "description": "Hours after the release of at least 35 political prisoners, the most prominent one was “kidnapped” by armed men, according to relatives.",
+    "link": "https://www.nytimes.com/2026/02/08/world/americas/venezuela-opposition-leaders-released.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/08/multimedia/08-int-venezuela-release-whjq/08-int-venezuela-release-whjq-facebookJumbo.jpg",
+    "pubDate": "2026-02-09T06:06:27+00:00"
+  },
+  {
+    "title": "Coinbase bets on Backstreet Boys nostalgia in return to Super Bowl",
+    "description": "Coinbase’s TV spot at the Super Bowl divided opinion online, but the crypto exchange says conversations about it were the point.",
+    "link": "https://cointelegraph.com/news/coinbase-backstreet-boys-karaoke-return-super-bowl-ad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b2c1b-b76b-73ec-9138-c17c853aaf52.jpg",
+    "pubDate": "2026-02-09T06:04:48+00:00"
+  },
+  {
+    "title": "Chris Mason: Crunch time for the prime minister",
+    "description": "There is universal acceptance in Labour that Sir Keir Starmer's predicament is dire and he confronts immense peril, writes Chris Mason.",
+    "link": "https://www.bbc.com/news/articles/ce3g8e7n07jo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c09/live/70741930-0552-11f1-b915-d767564246ba.jpg",
+    "pubDate": "2026-02-09T06:02:11+00:00"
+  },
+  {
+    "title": "ENS abandons plans for Namechain L2, citing Ethereum scaling",
+    "description": "Citing a 99% drop in gas fees and upcoming Ethereum scaling, the project will now deploy its ENSv2 upgrade directly on Ethereum.",
+    "link": "https://cointelegraph.com/news/ens-abandons-plan-namechain-will-stay-on-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c40b8-b049-7718-9c0e-5c3a40bdc3b7.jpg",
+    "pubDate": "2026-02-09T05:51:16+00:00"
+  },
+  {
+    "title": "Private credit worries resurface in $3 trillion market as AI pressures software firms",
+    "description": "Artificial intelligence is adding a new layer of uncertainty to the private credit industry, raising concerns that some lenders may face rising defaults.",
+    "link": "https://www.cnbc.com/2026/02/09/private-credit-software-firms-fall-ai-fears.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1769712397&w=1920&h=1080",
+    "pubDate": "2026-02-09T05:50:17+00:00"
+  },
+  {
+    "title": "Seahawks dominate Patriots to claim second Super Bowl",
+    "description": "The Seattle Seahawks produce a devastating defensive display to beat the New England Patriots and claim their second Super Bowl victory.",
+    "link": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56a6/live/d5811750-056c-11f1-9c47-91e6146aabf2.jpg",
+    "pubDate": "2026-02-09T05:44:32+00:00"
+  },
+  {
+    "title": "Venezuela's opposition says party leader kidnapped hours after being freed",
+    "description": "Nobel Peace Prize winner Maria Corina Machado said political leader Juan Pablo Guanipa was taken by force in Caracas.",
+    "link": "https://www.bbc.com/news/articles/c9wnjqzrv48o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7f/live/a19971e0-0570-11f1-9972-d3f265c101c6.jpg",
+    "pubDate": "2026-02-09T05:37:29+00:00"
+  },
+  {
+    "title": "Bitcoin Sharpe ratio slides to levels seen in previous market bottoms",
+    "description": "Bitcoin’s Sharpe ratio has fallen to -10, nearing bear market lows seen in 2018 and 2022, suggesting the risk/reward profile is approaching extreme levels.",
+    "link": "https://cointelegraph.com/news/bitcoin-sharpe-ratio-falls-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/0198bc0e-19a0-7a7f-8f08-0a4315a0963e",
+    "pubDate": "2026-02-09T05:37:06+00:00"
+  },
+  {
+    "title": "Christchurch shooter seeks to overturn guilty plea",
+    "description": "Brenton Tarrant is serving a life sentence after murdering 51 people in the March 2019 attack on two mosques in New Zealand.",
+    "link": "https://www.bbc.com/news/articles/c3vevxnw9pko?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412e/live/4cc2fa00-0341-11f1-b5e2-dd58fc65f0f6.jpg",
+    "pubDate": "2026-02-09T05:31:07+00:00"
+  },
+  {
+    "title": "Chinese chip designer Montage Technology soars over 50% in Hong Kong debut",
+    "description": "Shares of Chinese chip designer Montage Technology surged 57% in its Hong Kong trading debut on Monday following an initial share sale that raised $902 million.",
+    "link": "https://www.cnbc.com/2026/02/09/chinese-chipmaker-montage-technology-hong-kong-ipo-debut.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108201862-1758524798354-gettyimages-2201335222-talukdar-advantag250225_nprOn.jpeg?v=1758588994&w=1920&h=1080",
+    "pubDate": "2026-02-09T05:25:40+00:00"
   },
   {
     "title": "Crypto.com CEO unveils new AI agents to millions during Super Bowl",
@@ -12,13 +82,6 @@
     "link": "https://cointelegraph.com/news/cryptocom-boss-launched-agentic-ai-tools-ai-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c4010-730f-7593-a0e2-5dd0b080f492.jpg",
     "pubDate": "2026-02-09T05:02:31+00:00"
-  },
-  {
-    "title": "Private credit worries resurface in $3 trillion market as AI pressures software firms",
-    "description": "Artificial intelligence is adding a new layer of uncertainty to the private credit industry, raising concerns that some lenders may face rising defaults.",
-    "link": "https://www.cnbc.com/2026/02/09/private-credit-software-firms-fall-ai-fears.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107343387-1701798152097-gettyimages-1825445740-APOLLO_INTERVIEW.jpeg?v=1717534239&w=1920&h=1080",
-    "pubDate": "2026-02-09T04:41:28+00:00"
   },
   {
     "title": "Bessent suggests Warsh nomination hearings alongside Powell probe",
@@ -56,13 +119,6 @@
     "pubDate": "2026-02-09T03:41:49+00:00"
   },
   {
-    "title": "Chinese chip designer Montage Technology soars over 50% in Hong Kong debut",
-    "description": "Shares of Chinese chip designer Montage Technology surged 57% in its Hong Kong trading debut on Monday following an initial share sale that raised $902 million.",
-    "link": "https://www.cnbc.com/2026/02/09/chinese-chipmaker-montage-technology-hong-kong-ipo-debut.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108201862-1758524798354-gettyimages-2201335222-talukdar-advantag250225_nprOn.jpeg?v=1758588994&w=1920&h=1080",
-    "pubDate": "2026-02-09T03:36:34+00:00"
-  },
-  {
     "title": "Bad Bunny piles on Puerto Rican patriotism at Super Bowl half-time show",
     "description": "Puerto Rican artist Bad Bunny made history with his entirely Spanish set on the sporting world's biggest stage.",
     "link": "https://www.bbc.com/news/articles/c394g7nnzmzo?at_medium=RSS&at_campaign=rss",
@@ -77,25 +133,11 @@
     "pubDate": "2026-02-09T03:30:17+00:00"
   },
   {
-    "title": "Spanish train drivers to begin nationwide strike after fatal crashes",
-    "description": "Striking drivers are demanding increased investment and maintenance, and the hiring of more staff.",
-    "link": "https://www.bbc.com/news/articles/czx7l7r9gyro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c7/live/7db25ff0-055f-11f1-9972-d3f265c101c6.jpg",
-    "pubDate": "2026-02-09T03:00:05+00:00"
-  },
-  {
     "title": "Epstein's Silicon Valley connections went beyond Gates and Musk",
     "description": "The new Epstein files released by the DOJ show that the deceased financier was able to build relationships across Silicon Valley, from Bill Gates to Peter Thiel.",
     "link": "https://www.cnbc.com/2026/02/09/tech-leaders-epstein-records-silicon-valley-sergey-brin-thiel-sinofsky-reid-hoffman-musk-gates.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108263035-1770602141661-Untitled.jpeg?v=1770604677&w=1920&h=1080",
     "pubDate": "2026-02-09T02:29:13+00:00"
-  },
-  {
-    "title": "Japan’s Sanae Takaichi Wins Snap Election in a Landslide",
-    "description": "Prime Minister Sanae Takaichi won a sweeping mandate from voters for her economic agenda and tough stances on immigration and China.",
-    "link": "https://www.nytimes.com/2026/02/08/world/asia/japan-takaichi-election-landslide.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/08/multimedia/08-japan-election-ledeall-ljgw/08-japan-election-ledeall-ljgw-facebookJumbo.jpg",
-    "pubDate": "2026-02-09T02:19:19+00:00"
   },
   {
     "title": "Pokemon Super Bowl Ad For 30th Anniversary Has Lady Gaga Singing The Jigglypuff Song",
@@ -133,13 +175,6 @@
     "pubDate": "2026-02-09T01:03:24+00:00"
   },
   {
-    "title": "Venezuela Frees Key Opposition Figures as Government Courts U.S. Support",
-    "description": "The release of around 35 political prisoners comes amid closer cooperation between Washington and the interim government.",
-    "link": "https://www.nytimes.com/2026/02/08/world/americas/venezuela-opposition-leaders-released.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/08/multimedia/08-int-venezuela-release-whjq/08-int-venezuela-release-whjq-facebookJumbo.jpg",
-    "pubDate": "2026-02-09T00:51:43+00:00"
-  },
-  {
     "title": "'Trump's psyche': The aide driving president's most controversial policies",
     "description": "The high-velocity start to 2026 by the Trump administration has cemented Stephen Miller's position as one of its most powerful figures.",
     "link": "https://www.bbc.com/news/articles/ce8rl71n4r3o?at_medium=RSS&at_campaign=rss",
@@ -155,7 +190,7 @@
   },
   {
     "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
-    "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
+    "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.",
     "link": "https://www.bbc.com/news/articles/cvgn2k285ypo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
     "pubDate": "2026-02-09T00:01:57+00:00"
@@ -180,13 +215,6 @@
     "link": "https://www.bbc.com/news/articles/cje1eq9z08wo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c8f/live/42130910-0512-11f1-95ed-5b98410ce4f4.jpg",
     "pubDate": "2026-02-08T22:56:50+00:00"
-  },
-  {
-    "title": "PM's chief aide McSweeney quits over Mandelson row",
-    "description": "The adviser says he takes \"full responsibility\" for advising Sir Keir Starmer to make the peer US ambassador.",
-    "link": "https://www.bbc.com/news/articles/c8r1xp7j533o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e228/live/f972c650-052a-11f1-a823-cb41fdf55da7.jpg",
-    "pubDate": "2026-02-08T22:47:42+00:00"
   },
   {
     "title": "Federal Reserve entering 'gradual print' mode — Lyn Alden",
@@ -217,13 +245,6 @@
     "pubDate": "2026-02-08T20:52:38+00:00"
   },
   {
-    "title": "Why McSweeney's departure could prove perilous for the PM",
-    "description": "Starmer's chief of staff departs at a time the PM is isolated and in potential peril.",
-    "link": "https://www.bbc.com/news/articles/cn9el55ddxno?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/97de9610-0522-11f1-b5e2-dd58fc65f0f6.jpg",
-    "pubDate": "2026-02-08T20:36:51+00:00"
-  },
-  {
     "title": "Extreme Cold Persists in the Northeast With Record-Setting Temperatures",
     "description": "Punishing winds have combined with low temperatures to produce dangerously cold conditions across the Northeast. Forecasters say, though, that relief is on the horizon.",
     "link": "https://www.nytimes.com/2026/02/08/weather/extreme-cold-wind-chills.html",
@@ -231,25 +252,11 @@
     "pubDate": "2026-02-08T20:30:14+00:00"
   },
   {
-    "title": "Christchurch shooter seeks to overturn guilty plea",
-    "description": "Brenton Tarrant is serving a life sentence after murdering 51 people in the March 2019 attack on two mosques in New Zealand.",
-    "link": "https://www.bbc.com/news/articles/c3vevxnw9pko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412e/live/4cc2fa00-0341-11f1-b5e2-dd58fc65f0f6.jpg",
-    "pubDate": "2026-02-08T19:20:45+00:00"
-  },
-  {
     "title": "Previewing policy at Consensus Hong Kong 2026: State of Crypto",
     "description": "The CoinDesk crew is back in Hong Kong, with policymakers and policy-users alike.",
     "link": "https://www.coindesk.com/policy/2026/02/08/previewing-policy-at-consensus-hong-kong-2026-state-of-crypto",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/11d38e96067e18f4d9e1e0057cdf51ebefe2cca9-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-02-08T19:00:00+00:00"
-  },
-  {
-    "title": "Google search volume for 'crypto' hovers near yearly low amid market rout",
-    "description": "Investor sentiment in crypto is now at the same level it was during the 2022 Terra-LUNA crash that sent shockwaves through the crypto market.",
-    "link": "https://cointelegraph.com/news/google-search-crypto-hover-yearly-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c3e4e-0bf6-760a-8c7e-9c7564d957b4.jpg",
-    "pubDate": "2026-02-08T18:42:32+00:00"
   },
   {
     "title": "Starmer’s Chief of Staff Resigns, Citing Role in Hiring Friend of Epstein",
@@ -264,6 +271,13 @@
     "link": "https://www.coindesk.com/markets/2026/02/08/bitcoin-bulls-spot-bottoming-signs-as-longtime-bears-take-victory-laps",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/78cd770b3be0f39de16936d1aa7a7a30bbac7558-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-02-08T18:01:13+00:00"
+  },
+  {
+    "title": "Talks on Immigration Enforcement Still Stuck as DHS Funding Deadline Nears",
+    "description": "Democrats’ demands include that immigration officers be required to show visible identification and have judicial warrants when they enter private property to make arrests.",
+    "link": "https://www.nytimes.com/2026/02/08/us/politics/dhs-funding-immigration-shutdown.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/08/multimedia/08trump-shutdown-bqcm/08trump-shutdown-bqcm-facebookJumbo.jpg",
+    "pubDate": "2026-02-08T17:13:39+00:00"
   },
   {
     "title": "All Onsen Egg Hunt locations in Heartopia",
@@ -315,13 +329,6 @@
     "pubDate": "2026-02-08T15:00:17+00:00"
   },
   {
-    "title": "Bitcoin bear market not over? Trader sees BTC price 'real bottom' at $50K",
-    "description": "Bitcoin price analysis stayed bearish on the outlook for BTC, predicting new macro lows in a repeat of the 2022 bear market.",
-    "link": "https://cointelegraph.com/news/bitcoin-bear-market-not-over-trader-btc-price-real-bottom-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c3da1-53f8-7f95-8dbc-e766ba29ebce.jpg",
-    "pubDate": "2026-02-08T14:51:00+00:00"
-  },
-  {
     "title": "Can Clair Obscur win the Big Five GOTY awards?",
     "description": "Only one game has ever won GOTY at the Golden Joysticks, The Game Awards, the DICE Awards, the GDC Awards, and the BAFTA Games Awards",
     "link": "https://www.polygon.com/clair-oscur-big-five-goty-awards-dice-tga-bafta-gdc-joysticks/",
@@ -334,13 +341,6 @@
     "link": "https://www.coindesk.com/business/2026/02/08/block-weighs-cutting-up-to-10-of-jobs-bloomberg",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/17d5a297d9872b638e03dfd55fa3f37aa79db2b5-1920x1080.jpg?auto=format",
     "pubDate": "2026-02-08T13:39:10+00:00"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/01979423-ef8e-7c60-b937-b9ddf75fe8ad",
-    "pubDate": "2026-02-08T13:11:48+00:00"
   },
   {
     "title": "The 'Burbs adapts Tom Hanks' 1989 cult classic for our dark modern times",
@@ -371,6 +371,41 @@
     "pubDate": "2026-02-07T21:00:00+00:00"
   },
   {
+    "title": "Barclays Turns Cautious on GitLab Inc. (GTLB) Amid Growth and Competitive Concerns",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/barclays-turns-cautious-gitlab-inc-204041381.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/FU88zEXkFUbbVXlFfd7TPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1881ecb550192dcd6f854a6a3b1e40f8",
+    "pubDate": "2026-02-07T20:40:41+00:00"
+  },
+  {
+    "title": "JPMorgan Stays Bullish on DLocal Limited (DLO) as Cross-Border Payments Growth Continues",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jpmorgan-stays-bullish-dlocal-limited-204003203.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ML9t0G_XSQpIOFpVTMv5Aw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/d4f0c6a6e9f89d03bda07c35ea5c0b4b",
+    "pubDate": "2026-02-07T20:40:03+00:00"
+  },
+  {
+    "title": "Piper Sandler Cuts monday.com Ltd. (MNDY) Price Target to $170, Keeps Overweight Rating",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/piper-sandler-cuts-monday-com-203848662.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/JJ6qC9MpzIqT4_nj.knBCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3e37a2f378c629ef5642e38910360b12",
+    "pubDate": "2026-02-07T20:38:48+00:00"
+  },
+  {
+    "title": "Klaviyo, Inc. (KVYO) Price Target Reduced to $30 at Piper Sandler on Software Multiple Pressure",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/klaviyo-inc-kvyo-price-target-203827746.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/r.pH.DkZ0nqSUSUXJiD3gw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/db5e21db11d8a1192fc786d6278add5e",
+    "pubDate": "2026-02-07T20:38:27+00:00"
+  },
+  {
+    "title": "SentinelOne, Inc. (S) Price Target Cut to $16.50 at Goldman Sachs on Software Valuation Reset",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/sentinelone-inc-price-target-cut-203536795.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/ea35b0e6ecbd2fd7acf5d2a3e06b5ef6",
+    "pubDate": "2026-02-07T20:35:36+00:00"
+  },
+  {
     "title": "Demanding Support for Trump, Justice Dept. Struggles to Recruit Prosecutors",
     "description": "Some offices are so decimated that the Justice Department has sent in military lawyers. More recently, officials asked for volunteers from other offices who can quickly deploy to places in desperate need.",
     "link": "https://www.nytimes.com/2026/02/07/us/politics/doj-prosecutors-recruiting-trump.html",
@@ -378,81 +413,32 @@
     "pubDate": "2026-02-07T19:50:49+00:00"
   },
   {
+    "title": "This AI Stock Could Be One of the Most Valuable in the World by 2027",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/ai-stock-could-one-most-190900911.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/cpgr87zJtRC51knhGsQ4dQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/7d8c92f1e0596a3eac43c6922429e0aa",
+    "pubDate": "2026-02-07T19:09:00+00:00"
+  },
+  {
+    "title": "AT&amp;T Plans to Return $45 Billion to Shareholders. Is the Stock a Buy for 2026?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/t-plans-return-45-billion-190500319.html",
+    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/c8b7eeeeffeb9b48cd1a25b4e1c1766b",
+    "pubDate": "2026-02-07T19:05:00+00:00"
+  },
+  {
+    "title": "Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/tech-ai-push-risks-bond-190132451.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/qpuVv59kVI3tiTh3trN_Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTQ-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e84ea4a0b38a45a9176d3b51bbe908cd",
+    "pubDate": "2026-02-07T19:01:32+00:00"
+  },
+  {
     "title": "Why machine-to-machine payments are the new electricity for the digital age",
     "description": "If continuous M2M payments are the new electricity, then blockchains must be seen as the new power grid, Huang contends.",
     "link": "https://www.coindesk.com/opinion/2026/02/07/why-machine-to-machine-payments-are-the-new-electricity-for-the-digital-age",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/859343e8743070b6648fd596b3614e460f27faeb-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-02-07T18:30:00+00:00"
-  },
-  {
-    "title": "Amazon.com, Inc. (AMZN): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/amazon-com-inc-amzn-bull-174032108.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/37df26d44cb5f944fafba367b58c33c6",
-    "pubDate": "2026-02-07T17:40:32+00:00"
-  },
-  {
-    "title": "Flywire Corporation (FLYW): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/flywire-corporation-flyw-bull-case-173709580.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/540c7bfffc9cf078fe323e1d9683599d",
-    "pubDate": "2026-02-07T17:37:09+00:00"
-  },
-  {
-    "title": "Teck Resources Limited (TECK): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/teck-resources-limited-teck-bull-173652201.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/I5l0DlSONB8NvknvxGMG9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/insidermonkey.com/b083cf77a65d08d6f52403eefd8b62d7",
-    "pubDate": "2026-02-07T17:36:52+00:00"
-  },
-  {
-    "title": "Canadian National Railway Company (CNI): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/canadian-national-railway-company-cni-173624951.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/lcncy8uO_Gjhp.F4bfV5XQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzk-/https://media.zenfs.com/en/insidermonkey.com/d1811914b878a6780369fff37bbf3c53",
-    "pubDate": "2026-02-07T17:36:24+00:00"
-  },
-  {
-    "title": "IEFA vs. IEMG: These Two ETFs Deliver International Exposure Through Different Paths",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/iefa-vs-iemg-two-etfs-172603731.html",
-    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/967efb7b6b5e55bd8a92ca0aa58d3c96",
-    "pubDate": "2026-02-07T17:26:03+00:00"
-  },
-  {
-    "title": "Is Viavi Solutions Stock a Buy or Sell After Its CEO Sold Shares Worth $1.9 Million?",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/viavi-solutions-stock-buy-sell-172252547.html",
-    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/a8956053d80d7d218a78088a7252881c",
-    "pubDate": "2026-02-07T17:22:52+00:00"
-  },
-  {
-    "title": "ArcBest Corporation (ARCB): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/arcbest-corporation-arcb-bull-case-171130967.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/c5798929aa15d88dd1163444f193031e",
-    "pubDate": "2026-02-07T17:11:30+00:00"
-  },
-  {
-    "title": "Waste Management, Inc. (WM): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/waste-management-inc-wm-bull-171120842.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/bd026c8a24b29cec3a25f723c751565f",
-    "pubDate": "2026-02-07T17:11:20+00:00"
-  },
-  {
-    "title": "Rocket Lab Corporation (RKLB): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/rocket-lab-corporation-rklb-bull-171059999.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/0f79f0dd305ceb6e27e155b0bbde7d87",
-    "pubDate": "2026-02-07T17:10:59+00:00"
-  },
-  {
-    "title": "West Pharmaceutical Services, Inc. (WST): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/west-pharmaceutical-services-inc-wst-170945510.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/7d75b5c4526e9ed4eb1b1657d0069604",
-    "pubDate": "2026-02-07T17:09:45+00:00"
   },
   {
     "title": "SOL-focused Forward Industries has had a tough run, but CIO says it's positioned for success",
@@ -483,6 +469,13 @@
     "pubDate": "2026-02-07T13:00:02+00:00"
   },
   {
+    "title": "Gold's 'safe haven' that's trading like a meme stock",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/golds-safe-haven-thats-trading-like-a-meme-stock-110036585.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/aXeg2PLjTvC4hHp6y2rEjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDU-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/0935a730-f6b5-11f0-bf5e-6959578a4d75",
+    "pubDate": "2026-02-07T11:00:36+00:00"
+  },
+  {
     "title": "The Best New Products at Trader Joe’s: Winter 2026",
     "description": "Mini blooming onions, budget-friendly smoked fish, pre-peeled ginger, and more.",
     "link": "https://www.bonappetit.com/story/trader-joes-products-winter-2026",
@@ -502,6 +495,13 @@
     "link": "https://www.gamespot.com/articles/yazuka-kiwami-3-director-defends-casting-alleged-sexual-assaulter/1100-6538014/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-06T22:29:00+00:00"
+  },
+  {
+    "title": "Jennifer Garner-backed kids' food brand Once Upon a Farm rises 16% in Wall Street debut",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jennifer-garner-backed-kids-food-brand-once-upon-a-farm-rises-16-in-wall-street-debut-221123011.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/i_A7SvRp1ySVJIdBNSZcoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/b2adb8e0-03a6-11f1-bfff-78266135dc3b",
+    "pubDate": "2026-02-06T22:11:23+00:00"
   },
   {
     "title": "31 Valentine's Day Dinners for Big Romance",
@@ -542,7 +542,7 @@
     "title": "Chappell Roan Brought Pride Back To Fortnite",
     "description": "When Chappell Roan took her place as Fortnite Festival's latest headlining artist on Thursday, the Rainbow Royale section of the Fortnite item shop also popped up, offering a set of free Pride-related cosmetics as well as some paid items, like the Maizy skin. The appearance of the Rainbow Royale section is actually a big deal, because Fortnite did not hold any recognition of Pride in 2025. This marks the first time Rainbow Royale shop section has popped up since September 2024. For those who haven't seen this part of the shop before, the Rainbow Royale section includes several free sprays and emoticons, a free jam track, a free rainbow weapon wrap, and a free rainbow emote. Folks with V-Bucks to burn can grab the Prismatic Pride bundle featuring the Maizy skin and some rainbow accessories for 1,500 V-Bucks (abut $13). Fortnite skipping Pride became a hot topic late in 2024, as fans speculated that Epic may have been taking an anti-diversity stance in response to the election of Donald Trump to the US presidency. Considering Rainbow Royale had been an annual thing for several years in a row, and how effusive the Trump administration has been with its frequently racist and anti-LGBTQIA+ rhetoric, even we couldn't help but see a connection. Epic told GameSpot in October that \"We missed the Rainbow Royale window while we focused on shipping other activations and modes.\" But it's unclear how or why work on new modes would interfere with bringing back existing shop sections and items that have been in the game for years. The contents of this shop section have remained unchanged since 2022. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/chappell-roan-brought-pride-back-to-fortnite/1100-6537996/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/scale_super/1757/17577455/4647650-fortnitescreenshot2026.02.06-11.49.56.19.jpg",
+    "thumbnail": "",
     "pubDate": "2026-02-06T19:59:00+00:00"
   },
   {
