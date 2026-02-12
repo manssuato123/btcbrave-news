@@ -1,17 +1,66 @@
 [
   {
-    "title": "European markets open higher as investors await more earnings reports",
-    "description": "European stocks opened higher on Thursday as investors await another big batch of earnings reports.",
-    "link": "https://www.cnbc.com/2026/02/12/european-markets-stoxx-600-ftse-dax-cac-siemens-loreal-earnings.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108241557-1765622085300-gettyimages-2248411544-20251127_city_skyline_022.jpeg?v=1770707295&w=1920&h=1080",
-    "pubDate": "2026-02-12T08:07:30+00:00"
+    "title": "Mercedes hit by $1.2 billion in tariff costs as full-year earnings more than halve",
+    "description": "German luxury car manufacturer Mercedes-Benz Group on Thursday reported a steep drop in full-year profit and warned of challenging times ahead.",
+    "link": "https://www.cnbc.com/2026/02/12/mercedes-earnings-autos-tariffs-luxury-china.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108195452-1757331489454-gettyimages-2233558518-AFP_73NQ8U9.jpeg?v=1770882203&w=1920&h=1080",
+    "pubDate": "2026-02-12T09:15:30+00:00"
   },
   {
-    "title": "SoftBank Vision Fund books $2.4 billion quarterly gain boosted by OpenAI bet",
+    "title": "Zhipu leads rally in Chinese AI stocks, surging 30% as a wave of new releases hits market",
+    "description": "The Shanghai STAR AI Industry Index climbed 1.7% before paring gains.",
+    "link": "https://www.cnbc.com/2026/02/12/chinese-ai-stocks-new-model-and-agent-releases-zhipu-minimax.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257110-1769448456827-gettyimages-2254532744-CHINA_ZHIPU.jpeg?v=1770861763&w=1920&h=1080",
+    "pubDate": "2026-02-12T09:05:16+00:00"
+  },
+  {
+    "title": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
+    "description": "Binance completed its $1 billion Bitcoin conversion for its emergency user fund as crypto sentiment hit record lows and smart money traders increased short exposure.",
+    "link": "https://cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c423b-7cd2-7c17-96f1-32385adb19f4.jpg",
+    "pubDate": "2026-02-12T09:03:16+00:00"
+  },
+  {
+    "title": "'One in a billion': Dawson's Creek stars lead tributes to James Van Der Beek",
+    "description": "Katie Holmes pays tribute to her late co-star's \"bravery, compassion, selflessness and strength\".",
+    "link": "https://www.bbc.com/news/articles/cewz2yr47dvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49fa/live/0098f3e0-07f2-11f1-b5e2-dd58fc65f0f6.jpg",
+    "pubDate": "2026-02-12T09:02:30+00:00"
+  },
+  {
+    "title": "SoftBank books $4.2 billion gain on OpenAI bet, boosting its Vision Fund",
     "description": "SoftBank posted a $2.4 billion gain at its Vision Fund as a jump in the value of its OpenAI investment helped offset losses in some of its other bets.",
     "link": "https://www.cnbc.com/2026/02/12/softbank-vision-fund-openai.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246661-17671042772025-02-03t064652z_1577749545_rc2umcauaumr_rtrmadp_0_softbank-openai.jpeg?v=1767104415&w=1920&h=1080",
-    "pubDate": "2026-02-12T07:47:17+00:00"
+    "pubDate": "2026-02-12T09:02:28+00:00"
+  },
+  {
+    "title": "Adyen plummets as much as 20% after earnings report",
+    "description": "The stock could have its biggest single-day drop since a 39% fall in August 2023.",
+    "link": "https://www.cnbc.com/2026/02/12/adyen-stock-price-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107288730-1692369125115-gettyimages-1231149599-PGONCHAR_3E6252.jpeg?v=1770884689&w=1920&h=1080",
+    "pubDate": "2026-02-12T08:41:51+00:00"
+  },
+  {
+    "title": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
+    "description": "Cathie Wood’s ARK Invest bought nearly $50 million of Robinhood, Bullish and Circle shares as Bitcoin dipped and US spot BTC ETFs saw $276 million in outflows.",
+    "link": "https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c50c6-3c41-79ee-9674-d4d8a2961f89.jpg",
+    "pubDate": "2026-02-12T08:37:01+00:00"
+  },
+  {
+    "title": "Binance's Richard Teng breaks down the ‘10/10’ nightmare that rocked crypto",
+    "description": "Every crypto exchange saw liquidations during the Oct. 10 liquidation event, Richard Teng told the crowd at CoinDesk's Consensus Hong Kong.",
+    "link": "https://www.coindesk.com/business/2026/02/12/binance-not-alone-in-seeing-liquidations-during-oct-10-event-binance-ceo-teng-says",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/aa9c235270a78dfad87a883a19deff294f60f128-5714x3809.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-02-12T08:33:53+00:00"
+  },
+  {
+    "title": "IOC bans Ukrainian skeleton racer over helmet",
+    "description": "Ukrainian skeleton racer Vladyslav Heraskevych is banned from competing at the Winter Olympics for continuing to wear a helmet which features images of athletes killed during Russia's invasion of his home country.",
+    "link": "https://www.bbc.com/sport/articles/c309pj8d8qqo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0a/live/67adfd30-07ef-11f1-ae1d-4b44781c986e.jpg",
+    "pubDate": "2026-02-12T08:32:14+00:00"
   },
   {
     "title": "OKX Ventures backs STBL in partnership with Hamilton Lane and Securitize",
@@ -49,13 +98,6 @@
     "pubDate": "2026-02-12T06:00:20+00:00"
   },
   {
-    "title": "Zhipu leads rally in Chinese AI stocks, surging 30%, as a wave of new releases hits market",
-    "description": "The Shanghai STAR AI Industry Index climbed 1.7% before paring gains.",
-    "link": "https://www.cnbc.com/2026/02/12/chinese-ai-stocks-new-model-and-agent-releases-zhipu-minimax.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257110-1769448456827-gettyimages-2254532744-CHINA_ZHIPU.jpeg?v=1770861763&w=1920&h=1080",
-    "pubDate": "2026-02-12T05:57:49+00:00"
-  },
-  {
     "title": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
     "description": "Fundstrat's Tom Lee argues Ether is close to the bottom and says investors should be thinking about opportunities instead of selling.",
     "link": "https://cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -66,7 +108,7 @@
     "title": "Lawmakers Question Bondi Over Justice Dept. Under Her Watch",
     "description": "Her appearance came as the Justice Department was under scrutiny over the Epstein files, its approach toward the shootings in Minneapolis and its move to prosecute six lawmakers.",
     "link": "https://www.nytimes.com/2026/02/11/us/politics/bondi-testimony-epstein-files.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/11/multimedia/11dc-bondi02-photo-kmlw/11dc-bondi02-photo-kmlw-facebookJumbo.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/12/multimedia/12vid-bondi-hearing-mwfc/12vid-bondi-hearing-mwfc-facebookJumbo.jpg",
     "pubDate": "2026-02-12T05:53:59+00:00"
   },
   {
@@ -103,13 +145,6 @@
     "link": "https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1147/live/6866f220-07dd-11f1-867a-6bd519fd83f8.jpg",
     "pubDate": "2026-02-12T05:24:47+00:00"
-  },
-  {
-    "title": "'One in a billion': Dawson's Creek stars lead tributes to James Van Der Beek",
-    "description": "Van Der Beek's co-star Busy Philipps urged people to support the actor's family through an online fundraiser.",
-    "link": "https://www.bbc.com/news/articles/cewz2yr47dvo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e02/live/cf81cd00-07c8-11f1-9972-d3f265c101c6.jpg",
-    "pubDate": "2026-02-12T05:24:28+00:00"
   },
   {
     "title": "Snow and ice warnings issued for UK after relentless rain",
@@ -196,10 +231,10 @@
     "pubDate": "2026-02-12T04:25:05+00:00"
   },
   {
-    "title": "PM tells Sir Jim Ratcliffe to apologise for saying 'UK has been colonised'",
+    "title": "Starmer tells Sir Jim Ratcliffe to apologise for saying UK 'colonised by immigrants'",
     "description": "Sir Keir Starmer says comments by the businessman and Manchester United co-owner are \"offensive and wrong\".",
     "link": "https://www.bbc.com/news/articles/ckglv1n4dzeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93bf/live/a6dbf680-07e3-11f1-9972-d3f265c101c6.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd0/live/7bf97110-07eb-11f1-b7e1-afb6d0884c18.jpg",
     "pubDate": "2026-02-12T04:12:29+00:00"
   },
   {
@@ -229,13 +264,6 @@
     "link": "https://cointelegraph.com/news/elon-musk-x-money-external-beta-live-next-1-2-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c4f99-5413-78e8-b57c-0f875f40b122.jpg",
     "pubDate": "2026-02-12T03:15:33+00:00"
-  },
-  {
-    "title": "Chris Mason: Latest vetting row raises fresh concerns over Starmer's judgement",
-    "description": "The BBC's political editor analyses the vetting rows facing the PM over Lord Doyle and Lord Mandelson.",
-    "link": "https://www.bbc.com/news/articles/c0mgzr3e18jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bbb/live/5e90f720-07e5-11f1-b5e2-dd58fc65f0f6.jpg",
-    "pubDate": "2026-02-12T03:13:29+00:00"
   },
   {
     "title": "U.S. Attorney Chosen to Replace Trump Pick Is Quickly Fired by White House",
@@ -294,18 +322,18 @@
     "pubDate": "2026-02-12T00:38:13+00:00"
   },
   {
-    "title": "Coinbase unveils crypto wallets designed specifically for AI agents",
-    "description": "Users can set controls and permissions to allow the AI agent to manage liquidity positions and execute trades at any time of day, Coinbase said.",
-    "link": "https://cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c4eb3-348f-7d22-9cf3-d652c7b2b38f.jpg",
-    "pubDate": "2026-02-12T00:20:50+00:00"
-  },
-  {
     "title": "House Votes to Cancel Trump’s Canada Tariffs",
     "description": "Six Republicans joined nearly all Democrats to end the national emergency President Donald Trump had declared to impose tariffs on imports from Canada.",
     "link": "https://www.nytimes.com/2026/02/11/us/politics/trump-canada-tariffs.html",
     "thumbnail": "https://static01.nyt.com/images/2026/02/11/multimedia/11dc-cong-tariffs-photo-vlph/11dc-cong-tariffs-photo-vlph-facebookJumbo.jpg",
     "pubDate": "2026-02-12T00:07:41+00:00"
+  },
+  {
+    "title": "I died for 40 minutes - here's what it taught me about life",
+    "description": "After a cardiac arrest Patrick Charnley was clinically dead. He came back to life a changed man.",
+    "link": "https://www.bbc.com/news/articles/c0jvxwvdy4zo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0c/live/63d5a600-07e4-11f1-ae1d-4b44781c986e.jpg",
+    "pubDate": "2026-02-12T00:06:28+00:00"
   },
   {
     "title": "Scrap proposed England holiday tax, hospitality bosses urge",
@@ -399,25 +427,11 @@
     "pubDate": "2026-02-11T22:43:22+00:00"
   },
   {
-    "title": "Bill to lower voting age to 16 to be introduced in Parliament",
-    "description": "The government wants 16 and 17-year-olds to be able to vote at the next general election.",
-    "link": "https://www.bbc.com/news/articles/cly2jjvx466o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43d2/live/3f4fa320-075e-11f1-95cd-e19767552ba8.jpg",
-    "pubDate": "2026-02-11T22:30:25+00:00"
-  },
-  {
     "title": "Weapons Used to Fight Drones Don’t Mix Well With Civilian Airspace",
     "description": "In the race to build anti-drone weapons intended for use in a war zone, it is unclear how they may be used safely in crowded skies.",
     "link": "https://www.nytimes.com/2026/02/11/us/weapons-used-to-fight-drones-dont-mix-well-with-civilian-airspace.html",
     "thumbnail": "https://static01.nyt.com/images/2026/02/11/multimedia/11nat-anti-drone-1-qgkt/11nat-anti-drone-1-qgkt-facebookJumbo.jpg",
     "pubDate": "2026-02-11T22:10:27+00:00"
-  },
-  {
-    "title": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
-    "description": "Price feeds for SPYon, QQQon and TSLAon are now live on Ethereum, allowing the Ondo-issued tokenized equities to be used as collateral in DeFi lending markets.",
-    "link": "https://cointelegraph.com/news/ondo-integrates-chainlink-data-feeds-for-tokenized-stocks-on-ethereum-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c4e72-d5c9-79a5-9c6f-1b76c0b8ce36.jpg",
-    "pubDate": "2026-02-11T21:59:03+00:00"
   },
   {
     "title": "Sarah Ferguson asked Epstein for bankruptcy advice while he was in jail, emails suggest",
@@ -469,20 +483,6 @@
     "pubDate": "2026-02-11T19:41:25+00:00"
   },
   {
-    "title": "BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows",
-    "description": "During a panel discussion at Consensus in Hong Kong, Peach pointed to massive capital pools in traditional finance as ETF adoption spreads across Asia.",
-    "link": "https://www.coindesk.com/markets/2026/02/11/blackrock-exec-says-even-a-1-crypto-allocation-in-asia-could-unlock-usd2-trillion-in-new-flows",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/07a827345ccc0e20ebc51a483d901d483c6fcf4f-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-02-11T19:33:39+00:00"
-  },
-  {
-    "title": "Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown",
-    "description": "New data shows that states where key midterm elections races will take place paid over $134 billion in tariffs during 2025 as affordability issues mounted.",
-    "link": "https://www.cnbc.com/2026/02/11/inflation-affordability-trump-tariffs-midterm-elections.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108263917-1770742473941-GettyImages-1244121184.jpg?v=1770742513&w=1920&h=1080",
-    "pubDate": "2026-02-11T19:29:05+00:00"
-  },
-  {
     "title": "Overwatch season 1's best new hero proves there's still plenty of life in the shooter",
     "description": "The best hero in Overwatch season 1 pushes you to think differently about how to play and get the most out of every character's kit",
     "link": "https://www.polygon.com/overwatch-season-1-best-new-hero-emre/",
@@ -518,6 +518,34 @@
     "pubDate": "2026-02-10T22:00:00+00:00"
   },
   {
+    "title": "DT Midstream Stock Hits Record High, Scores Relative Strength Rating Upgrade",
+    "description": "",
+    "link": "https://www.investors.com/news/dt-midstream-scores-relative-strength-rating-upgrade/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2016/04/FUT-041916-shutterstock.jpg",
+    "pubDate": "2026-02-10T20:40:27+00:00"
+  },
+  {
+    "title": "Saia awaits payoff on $2B investment",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/saia-awaits-payoff-2b-investment-203429308.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Hvi9_YBtLTmGHCbRSvsxRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/473e389e9de89f4bd713eb3297001c0e",
+    "pubDate": "2026-02-10T20:34:29+00:00"
+  },
+  {
+    "title": "DataDog Surges 15% After Q4 Results",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/datadog-surges-15-q4-results-203350408.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/3984e1be8d7b1eba084da3d3d04a4b51",
+    "pubDate": "2026-02-10T20:33:50+00:00"
+  },
+  {
+    "title": "As Datadog Soars Higher, Should You Chase the Rally in DDOG Stock?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/datadog-soars-higher-chase-rally-203158486.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/MvyBkhLG_4KbdTSo24B24g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/a07168b320f7f549890630d1820879e8",
+    "pubDate": "2026-02-10T20:31:58+00:00"
+  },
+  {
     "title": "So, You Want to Get Into Espresso? Start Here",
     "description": "Espresso can seem complicated and not worth the trouble of making at home. It doesn't have to be.",
     "link": "https://www.bonappetit.com/story/espresso-starter-kit",
@@ -525,74 +553,39 @@
     "pubDate": "2026-02-10T20:31:35+00:00"
   },
   {
-    "title": "Why Credit Is Quietly Deciding Who Survives in Trucking",
+    "title": "7 tax-planning strategies that will save you money",
     "description": "",
-    "link": "https://finance.yahoo.com/news/why-credit-quietly-deciding-survives-193413168.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2lwGdTYJE1cK8w9XOVttwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/56743dcb7a64183e02da2a207fdefdd6",
-    "pubDate": "2026-02-10T19:34:13+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-planning-strategies-203026152.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/lYpm1FaEuCSiobHMu00o0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/a7d553b0-06bc-11f1-bf79-50f351805956",
+    "pubDate": "2026-02-10T20:30:26+00:00"
   },
   {
-    "title": "As Crypto Prices Plunge, Cathie Wood Is Selling This 1 Bitcoin Stock",
+    "title": "Dollar Recovers and Gold Falls on Hawkish Fed Comments",
     "description": "",
-    "link": "https://finance.yahoo.com/news/crypto-prices-plunge-cathie-wood-193221352.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/1a94b0414f1b3780e6c71c34be17b69d",
-    "pubDate": "2026-02-10T19:32:21+00:00"
+    "link": "https://finance.yahoo.com/news/dollar-recovers-gold-falls-hawkish-202940566.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/G_Lt2VHYsaqi8RIzPAgY9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/4f3a8c8e2c711d60018ecc87c4de49ab",
+    "pubDate": "2026-02-10T20:29:40+00:00"
   },
   {
-    "title": "What happens to a bank account when someone dies?",
+    "title": "AI Giant OpenAI Is Getting a Lift Lately. So Are Stocks Linked to It. Here’s Why",
     "description": "",
-    "link": "https://finance.yahoo.com/news/happens-bank-account-someone-dies-180936410.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/WRDP8rUpxOvRyCKqXDDH9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/f0c1f39bc0a147d987330f95e5fd0c50",
-    "pubDate": "2026-02-10T19:26:49+00:00"
+    "link": "https://finance.yahoo.com/news/ai-giant-openai-getting-lift-202750233.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2JzDfMRRZD95ZQiGMgfb.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/206fb9294d16dd47b818603e265b767f",
+    "pubDate": "2026-02-10T20:27:50+00:00"
   },
   {
-    "title": "More couples are ditching joint bank accounts, and experts see a benefit",
+    "title": "Analyst Sees Berkshire Positives Post-Warren Buffett, But Don't Expect This Shareholder Bonus",
     "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/more-couples-are-ditching-joint-bank-accounts-and-experts-see-a-benefit-192326210.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/DAgTfqOYIvbne4Hzh3P97g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/a1339b00-1b9b-11f0-9ffa-4d0d877e4f27",
-    "pubDate": "2026-02-10T19:23:26+00:00"
+    "link": "https://www.investors.com/news/warren-buffett-berkshire-hathaway-stock-positives/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2024/06/Stock-WarrenBuffettwave-01-shutt.jpg",
+    "pubDate": "2026-02-10T20:25:09+00:00"
   },
   {
-    "title": "Ample Global Sugar Supplies Weigh on Prices",
+    "title": "Should You Buy the Dip in Nvidia Stock?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/ample-global-sugar-supplies-weigh-192256153.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/g8X7M3cMILFxTI0dHgnr6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://media.zenfs.com/en/barchart_com_477/c5300b7d23e6bd10d34eea1917136bcf",
-    "pubDate": "2026-02-10T19:22:56+00:00"
-  },
-  {
-    "title": "Royal Bank Of Canada, IBD Stock Of The Day, Breaking Out After Strong 2025",
-    "description": "",
-    "link": "https://www.investors.com/research/ibd-stock-of-the-day/royal-bank-of-canada-stock-breaking-out-2025/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/02/sotd-for-02-10-2026-desktop.png",
-    "pubDate": "2026-02-10T19:20:55+00:00"
-  },
-  {
-    "title": "National average money market account rates for February 2026",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/national-average-money-market-account-113634479.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/RNXICKfAPNYbeyWTlfNHCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/d51e7054baaf776acd839801a22efa77",
-    "pubDate": "2026-02-10T19:19:24+00:00"
-  },
-  {
-    "title": "Concerns over Strategy selling bitcoin are 'unfounded,' Michael Saylor says",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/concerns-over-strategy-selling-bitcoin-191810573.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/9ErC6c5eJ9h8vwrXxYzt1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/73f134654daa4fe6503c5cc310dde83e",
-    "pubDate": "2026-02-10T19:18:10+00:00"
-  },
-  {
-    "title": "Cathie Wood drops $10 million on resurgent tech stock",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/cathie-wood-drops-10-million-191700458.html",
-    "thumbnail": "https://s.yimg.com/os/en/thestreet_881/0aa8d38c7433fce8c1937673955d0d18",
-    "pubDate": "2026-02-10T19:17:00+00:00"
-  },
-  {
-    "title": "Here's what the monthly payment on a $1 million home really looks like",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/monthly-payment-on-1-million-dollar-mortgage-190204065.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xBVCwzovbAgIg3Km1FH0Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-02/b2671bc2-e2b9-4291-a4ef-b54655d0e20f",
-    "pubDate": "2026-02-10T19:02:04+00:00"
+    "link": "https://finance.yahoo.com/news/buy-dip-nvidia-stock-202500525.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/AAqge6jHpmzf691cCZ40MQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/bf56037a6f2b79962b90fcbfcb0e1aa9",
+    "pubDate": "2026-02-10T20:25:00+00:00"
   },
   {
     "title": "The Life-Saving Power of Chess, With a Side of Plantains",
