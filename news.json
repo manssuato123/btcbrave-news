@@ -1,5 +1,61 @@
 [
   {
+    "title": "Palo Alto Networks slumps 6% as third quarter profit guidance falls short",
+    "description": "The cybersecurity company also said on Tuesday that it's buying Israeli startup Koi",
+    "link": "https://www.cnbc.com/2026/02/17/palo-alto-networks-panw-q2-2026-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108137406-17458547422025-03-25t214442z_1404614266_rc2jkda1kvqf_rtrmadp_0_paloalto-stocks.jpeg?v=1753825094&w=1920&h=1080",
+    "pubDate": "2026-02-17T22:24:14+00:00"
+  },
+  {
+    "title": "Tories call for rethink of Parliament revamp",
+    "description": "Tory leader Kemi Badenoch says current plans to refurbish the Palace of Westminster are \"out of control\".",
+    "link": "https://www.bbc.com/news/articles/czd8n800zdno?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa54/live/e12c4f20-0c15-11f1-9fee-1b551ad8077f.jpg",
+    "pubDate": "2026-02-17T22:21:52+00:00"
+  },
+  {
+    "title": "Mamdani Ushers in a New Tradition: Ramadan in City Hall",
+    "description": "Zohran Mamdani, New York City’s first Muslim mayor, will observe Ramadan as he runs the nation’s largest city, blending his faith into his public life.",
+    "link": "https://www.nytimes.com/2026/02/17/nyregion/mamdani-ramadan-muslim.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/17/multimedia/17met-mamdani-ramadan-02-bhfq/17met-mamdani-ramadan-02-bhfq-facebookJumbo.jpg",
+    "pubDate": "2026-02-17T22:20:38+00:00"
+  },
+  {
+    "title": "The Price of Admission to Epstein’s World: Silence",
+    "description": "There were plenty of signs that something wasn’t right with Jeffrey Epstein. Why didn’t anyone say something?",
+    "link": "https://www.nytimes.com/2026/02/17/well/epstein-files-associates.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/17/well/17WELL-EPSTEIN-image/17WELL-EPSTEIN-image-facebookJumbo-v5.jpg",
+    "pubDate": "2026-02-17T22:16:58+00:00"
+  },
+  {
+    "title": "Netflix grants WBD waiver to reopen deal talks with Paramount, Sarandos says 'let them make a move'",
+    "description": "Warner Bros. Discovery on Tuesday said it will engage in deal talks with Paramount Skydance under a 7-day waiver from Netflix.",
+    "link": "https://www.cnbc.com/2026/02/17/netflix-wbd-waiver-deal-talks-paramount-skydance.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108238991-1765286599836-gettyimages-2250857237-dji_20251208164801_0200_d_ase9wxo7.jpeg?v=1768430109&w=1920&h=1080",
+    "pubDate": "2026-02-17T22:11:31+00:00"
+  },
+  {
+    "title": "Berkshire Hathaway trims Apple stake, buys NYTimes stock in Buffett's last moves as CEO",
+    "description": "Berkshire Hathaway trimmed more of its Apple stake and began a new position in The New York Times in the fourth quarter, a new securities filing shows.",
+    "link": "https://www.cnbc.com/2026/02/17/berkshire-hathaway-trims-apple-stake-buys-nytimes-stock-in-buffetts-last-moves-as-ceo.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107410598-1718628180986-107410598-1714845728257-Buffet-BAM-050424-9.jpg?v=1728667817&w=1920&h=1080",
+    "pubDate": "2026-02-17T22:02:39+00:00"
+  },
+  {
+    "title": "Abu Dhabi wealth funds bitcoin ETF holdings topped $1 billion at end of 2025",
+    "description": "Both Mubadala Investment Company and Al Warda Investments lifted investments in BlackRock's iShares Bitcoin ETF (IBIT) in the fourth quarter.",
+    "link": "https://www.coindesk.com/markets/2026/02/17/abu-dhabi-funds-bought-the-bitcoin-dip-as-they-increased-exposure-to-blackrock-s-ibit",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bc5aa69ef003089c695d73ed6bb3cc1eeff548c5-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-02-17T22:01:25+00:00"
+  },
+  {
+    "title": "Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs",
+    "description": "Meta expands partnership with Nvidia in a deal likely worth tens of billions, for deploying millions of GPUs and new standalone CPUs in AI data centers",
+    "link": "https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256656-1771364504826-108256656-1769211369860-Met_Hyperion_Louisiana_data_center_Jan_9_2026.png?v=1771364561&w=1920&h=1080",
+    "pubDate": "2026-02-17T21:54:32+00:00"
+  },
+  {
     "title": "Stripe-owned Bridge gets OCC conditional approval for national bank charter",
     "description": "While still subject to final approval, the regulator's nod would enable Bridge to offer stablecoin and digital asset services to businesses.",
     "link": "https://cointelegraph.com/news/bridge-stripe-occ-approval-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28,13 +84,6 @@
     "pubDate": "2026-02-17T21:45:23+00:00"
   },
   {
-    "title": "'Dismal' China exports add to freight volume slump for nation's biggest port in Los Angeles",
-    "description": "Port of Los Angeles, the nation's biggest trade hub, has seen a decline in import and export container volume during what is usually a busy shipping time.",
-    "link": "https://www.cnbc.com/2026/02/17/china-freight-container-trade-volume-port-los-angeles.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108266313-1771341277517-gettyimages-2251571821-1534135-me-port-of-la-jey-12.jpeg?v=1771341302&w=1920&h=1080",
-    "pubDate": "2026-02-17T21:42:55+00:00"
-  },
-  {
     "title": "Dual nationals face scramble for British passports as new rules come into force",
     "description": "Entry requirements to the UK for dual nationals are being overhauled as part of sweeping changes to the immigration system.",
     "link": "https://www.bbc.com/news/articles/cx2d9yk2kpjo?at_medium=RSS&at_campaign=rss",
@@ -54,13 +103,6 @@
     "link": "https://www.gamespot.com/articles/a-couple-invited-sony-to-their-wedding-and-got-a-gift-in-return/1100-6538234/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-17T21:32:00+00:00"
-  },
-  {
-    "title": "Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs",
-    "description": "Meta expands partnership with Nvidia in a deal likely worth tens of billions, for deploying millions of GPUs and new standalone CPUs in AI data centers",
-    "link": "https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256656-1771364504826-108256656-1769211369860-Met_Hyperion_Louisiana_data_center_Jan_9_2026.png?v=1771364561&w=1920&h=1080",
-    "pubDate": "2026-02-17T21:31:10+00:00"
   },
   {
     "title": "Stephen Colbert says CBS blocks James Talarico interview from air",
@@ -91,13 +133,6 @@
     "pubDate": "2026-02-17T21:12:31+00:00"
   },
   {
-    "title": "Nine arrested in France over death of far-right student",
-    "description": "Quentin Deranque died on Saturday, two days after being beaten in Lyon by masked men believed to be far-left militants.",
-    "link": "https://www.bbc.com/news/articles/cvgj1qrqd47o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8265/live/5290eb40-0c42-11f1-b8ba-135d136c986f.jpg",
-    "pubDate": "2026-02-17T21:08:32+00:00"
-  },
-  {
     "title": "Gold firm Elemental Royalty to pay out dividends in Tether's tokenized gold",
     "description": "The company claimed the bragging right of being the first to let investors opt for dividend payments in a cryptocurrency, backed by gold.",
     "link": "https://www.coindesk.com/business/2026/02/17/gold-firm-elemental-royalty-to-pay-out-dividends-in-tether-s-tokenized-gold",
@@ -126,13 +161,6 @@
     "pubDate": "2026-02-17T20:58:17+00:00"
   },
   {
-    "title": "The Price of Admission to Epstein’s World: Silence",
-    "description": "There were plenty of signs that something wasn’t right with Jeffrey Epstein. Why didn’t anyone say something?",
-    "link": "https://www.nytimes.com/2026/02/17/well/epstein-files-associates.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/17/well/17WELL-EPSTEIN-image/17WELL-EPSTEIN-image-facebookJumbo-v5.jpg",
-    "pubDate": "2026-02-17T20:54:06+00:00"
-  },
-  {
     "title": "Police assessing Stansted Airport private flights over Epstein ties",
     "description": "Essex Police says it is assessing information in relation to private flights into and out of the airport.",
     "link": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&at_campaign=rss",
@@ -145,6 +173,13 @@
     "link": "https://www.bbc.com/news/videos/cpqw2p1z19vo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63da/live/946166c0-0c34-11f1-b5e2-dd58fc65f0f6.png",
     "pubDate": "2026-02-17T20:52:00+00:00"
+  },
+  {
+    "title": "GB curlers on brink of early exit after Canada defeat",
+    "description": "Team GB's Winter Olympics curling medal hopes are now in serious jeopardy after Bruce Mouat's world champions were beaten 9-5 by Canada in Cortina.",
+    "link": "https://www.bbc.com/sport/articles/crl4x1g0jy1o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0382/live/f5645380-0c3c-11f1-9972-d3f265c101c6.jpg",
+    "pubDate": "2026-02-17T20:46:06+00:00"
   },
   {
     "title": "Man ran at U.S. Capitol with shotgun and tactical vest: Capitol Police chief",
@@ -187,13 +222,6 @@
     "link": "https://www.gamespot.com/articles/logan-paul-sells-pikachu-illustrator-card-for-a-record-breaking-16-59-million/1100-6538233/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-17T20:18:00+00:00"
-  },
-  {
-    "title": "Mamdani Ushers in a New Tradition: Ramadan in City Hall",
-    "description": "Zohran Mamdani, New York City’s first Muslim mayor, will observe Ramadan as he runs the nation’s largest city, blending his faith into his public life.",
-    "link": "https://www.nytimes.com/2026/02/17/nyregion/mamdani-ramadan-muslim.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/17/multimedia/17met-mamdani-ramadan-02-bhfq/17met-mamdani-ramadan-02-bhfq-facebookJumbo.jpg",
-    "pubDate": "2026-02-17T20:17:31+00:00"
   },
   {
     "title": "Stripe's stablecoin firm Bridge wins initial approval of national bank trust charter",
@@ -255,7 +283,7 @@
     "title": "Thanks To A Gaffe, You Can Get Extra Magic: The Gathering Promo Cards",
     "description": "Last month, Magic: The Gathering players arriving at their local game stores to participate in Lorwyn Eclipsed prerelease events were shocked to find that rares and mythics from the next expansion, Teenage Mutant Ninja Turtles, wound up in their prerelease kits. Wizards of the Coast acknowledged the issue at the time, poked fun at the mishap with a video from new mascots Squen and Cragg, and today the company has announced its make-good: free extra promo cards during an upcoming TMNT event. Any player who attends a TMNT prerelease event will receive, along with their prerelease kit, an extra Promo Pack chosen at random from one of five in-universe MTG sets: Lorwyn Eclipsed, Edge of Eternities, Tarkir: Dragonstorm, Duskmourn: House of Horror, or Bloomburrow. Promo packs include a rare or mythic rare from the set listed on the package, an alternate-frame card from that set, and a rare or mythic from another set that was Standard legal at the time of the promo pack's printing. In a new blog post on the official Magic website, communications director Blake Rasmussen laid out the plan, saying, \"We figure if we got a bit of Universes Beyond in your Magic Multiverse, we might as well share a bit of the Magic Multiverse with your Universes Beyond.\" Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/thanks-to-a-gaffe-you-can-get-extra-magic-the-gathering-promo-cards/1100-6538224/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/original/3/37852/4652519-promo.jpg",
+    "thumbnail": "",
     "pubDate": "2026-02-17T19:30:00+00:00"
   },
   {
@@ -301,9 +329,9 @@
     "pubDate": "2026-02-17T18:42:00+00:00"
   },
   {
-    "title": "Analyst Report: BP PLC",
+    "title": "Analyst Report: Autonation Inc.",
     "description": "",
-    "link": "https://finance.yahoo.com/research/reports/ARGUS_2783_AnalystReport_1771353623000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "link": "https://finance.yahoo.com/research/reports/ARGUS_2711_AnalystReport_1771353623000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
     "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
     "pubDate": "2026-02-17T18:40:23+00:00"
   },
@@ -364,27 +392,6 @@
     "pubDate": "2026-02-17T18:10:32+00:00"
   },
   {
-    "title": "CFTC defends its right to prediction market enforcement as states challenge platforms",
-    "description": "CFTC Chairman Michael Selig said the agency has filed an amicus brief to assert its authority over prediction market enforcement and regulation.",
-    "link": "https://www.cnbc.com/2026/02/17/cftc-defends-prediction-market-enforcement-states-challenge.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108228693-17635888792025-11-19t214628z_803884803_rc2vzhanro2e_rtrmadp_0_usa-congress.jpeg?v=1771349791&w=1920&h=1080",
-    "pubDate": "2026-02-17T17:45:51+00:00"
-  },
-  {
-    "title": "Ford to follow Tesla Cybertruck with electrical tech in new EV pickup",
-    "description": "Ford's next generation of all-electric vehicles will feature a budding technology commercialized by Tesla in the U.S. on its Cybertruck.",
-    "link": "https://www.cnbc.com/2026/02/17/ford-ev-platform-pickup-truck.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108265618-1770997305074-cq5damweb12801280.jpeg?v=1771024020&w=1920&h=1080",
-    "pubDate": "2026-02-17T17:29:35+00:00"
-  },
-  {
-    "title": "The fallout from Labour's local elections U-turn is not over yet",
-    "description": "Keir Starmer and his team knew last week that delays to council elections would need to be reversed.",
-    "link": "https://www.bbc.com/news/articles/czx7n9n0xrro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa27/live/cd864a90-0c3b-11f1-9972-d3f265c101c6.jpg",
-    "pubDate": "2026-02-17T17:28:26+00:00"
-  },
-  {
     "title": "8 Pro Chefs Share the Knives They Use in Their Restaurants",
     "description": "Bunkas, petties, and gyutos.",
     "link": "https://www.bonappetit.com/story/chefs-favorite-knives-video",
@@ -413,7 +420,7 @@
     "pubDate": "2026-02-17T16:37:08+00:00"
   },
   {
-    "title": "Crypto custodian BitGo a potential acquisition target for Wall Street firms, analysts say",
+    "title": "Crypto infrastructure firm BitGo a potential acquisition target for Wall Street firms, analysts say",
     "description": "Compass Point and Canaccord call BitGo a potential acquisition target and defend the stock despite its weak debut, citing growth in institutional crypto infrastructure.",
     "link": "https://www.coindesk.com/markets/2026/02/17/crypto-custodian-bitgo-a-potential-acquisition-target-for-wall-street-firms-analysts-say",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/cc9f0df2f256d6ca65cc434680be96c3248989f5-1536x1098.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
@@ -490,13 +497,6 @@
     "pubDate": "2026-02-17T15:00:02+00:00"
   },
   {
-    "title": "Gemini stock falls 10% after it parts ways with COO, CFO and Chief Legal Officer months after IPO",
-    "description": "Crypto exchange says Marshall Beard, Dan Chen and Tyler Meade are departing effective immediately; Cameron Winklevoss to take on COO duties as board names interim finance and legal chiefs.",
-    "link": "https://www.coindesk.com/business/2026/02/17/gemini-stock-plunges-after-it-parts-ways-with-coo-cfo-and-chief-legal-officer-months-after-ipo",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f8973989ef6f990ba087bd3cb595fec84fdbe807-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-02-17T14:59:38+00:00"
-  },
-  {
     "title": "Jesse Jackson: A Life in Pictures",
     "description": "The civil rights leader was one of the country’s most influential Black figures.",
     "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-photos.html",
@@ -525,67 +525,60 @@
     "pubDate": "2026-02-17T10:02:20+00:00"
   },
   {
-    "title": "3 Rules All Retirees Must Know About Working While Collecting Social Security",
+    "title": "UPS challenges Teamsters suit over $150,000 driver buyouts",
     "description": "",
-    "link": "https://finance.yahoo.com/news/3-rules-retirees-must-know-125000076.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7Z9dVLs90ny7_7uVSS3ZAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/0286f3b0ae7a6eeb1352a6a4b8f227cc",
-    "pubDate": "2026-02-16T12:50:00+00:00"
+    "link": "https://finance.yahoo.com/news/ups-challenges-teamster-suit-over-140110550.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/DCyn_tXtKigPPInHaa5Yww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/6f5cb923412c88884a99750f3855eda2",
+    "pubDate": "2026-02-16T14:01:10+00:00"
   },
   {
-    "title": "These markets have been ‘bangers’ this year. Here’s why they have further to rally, says Goldman Sachs.",
+    "title": "What Makes Acadia Healthcare Company (ACHC) a Vital Player in Behavioral Health Services?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/markets-bangers-why-further-rally-124900480.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Xsrh8RkYfGPAocLMLxhhSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/cabcfa8dc3790b168bd8012ca0e5be6e",
-    "pubDate": "2026-02-16T12:49:00+00:00"
+    "link": "https://finance.yahoo.com/news/makes-acadia-healthcare-company-achc-140054457.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/63bc0a5fad6815350259e9467b9814d3",
+    "pubDate": "2026-02-16T14:00:54+00:00"
   },
   {
-    "title": "Morgan Stanley and Jefferies Stay Positive on Alibaba (BABA)",
+    "title": "1 Ultimate Picks-and-Shovels AI Stock That Has a Billionaire Investor Loading Up",
     "description": "",
-    "link": "https://finance.yahoo.com/news/morgan-stanley-jefferies-stay-positive-124201612.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/c61ac66cd98860cf43b4d66a43aa74d7",
-    "pubDate": "2026-02-16T12:42:01+00:00"
+    "link": "https://finance.yahoo.com/news/1-ultimate-picks-shovels-ai-140002875.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/n98_T6Mgwxm1oj81R73hOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/98b2100b611827191b2dde67380ea598",
+    "pubDate": "2026-02-16T14:00:02+00:00"
   },
   {
-    "title": "Keysight (KEYS) Announces SOS Enterprise Software, Analysts Raise Price Targets",
+    "title": "AWS Chief Matt Garman Just Delivered Wonderful News for Amazon Shareholders",
     "description": "",
-    "link": "https://finance.yahoo.com/news/keysight-keys-announces-sos-enterprise-124159209.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/X_Eq8Uk6AchU9qmh_ojEEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/342641b7ce96b5355b0de3211fbb7691",
-    "pubDate": "2026-02-16T12:41:59+00:00"
+    "link": "https://finance.yahoo.com/news/aws-chief-matt-garman-just-135700164.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/R1e1awFWO84l.WfbbjjXUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/0d6dcf27c2af04f5f6be0c7b537948af",
+    "pubDate": "2026-02-16T13:57:00+00:00"
   },
   {
-    "title": "Piper Sandler and KeyBanc Raise Alphabet (GOOGL) Price Targets After Q4 Results",
+    "title": "Canada Factory Sales Inch Up",
     "description": "",
-    "link": "https://finance.yahoo.com/news/piper-sandler-keybanc-raise-alphabet-124158423.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/LNoSopyHpRrWQTvxZ82U_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/a0bec472d842a18f443b00515f54833a",
-    "pubDate": "2026-02-16T12:41:58+00:00"
+    "link": "https://www.wsj.com/economy/canada-factory-sales-inch-up-7521ae4f?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2026-02-16T13:55:00+00:00"
   },
   {
-    "title": "Analysts Raise Price Targets on Baidu (BIDU)",
+    "title": "lululemon athletica Stock: Analyst Estimates &amp; Ratings",
     "description": "",
-    "link": "https://finance.yahoo.com/news/analysts-raise-price-targets-baidu-124156230.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/4886fc73a0519d666e3b639f29ac7d96",
-    "pubDate": "2026-02-16T12:41:56+00:00"
+    "link": "https://finance.yahoo.com/news/lululemon-athletica-stock-analyst-estimates-135307455.html",
+    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/27ee4a3b7509e0d5ed2abf028bac31d9",
+    "pubDate": "2026-02-16T13:53:07+00:00"
   },
   {
-    "title": "Citi Lowers Lumen (LUMN) Price Target, Raymond James Downgrades",
+    "title": "Are Wall Street Analysts Predicting Marathon Petroleum Stock Will Climb or Sink?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/citi-lowers-lumen-lumn-price-124149274.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/AfZ3iA9_jRLs05YprlKv.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f82544532f32c2e03d5b0c2ec1959b9b",
-    "pubDate": "2026-02-16T12:41:49+00:00"
+    "link": "https://finance.yahoo.com/news/wall-street-analysts-predicting-marathon-135221452.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/L4P_DSAw_Tht_WhIZ8X3ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/barchart_com_477/2388c4d23d76041bb72efcd8c972ce93",
+    "pubDate": "2026-02-16T13:52:21+00:00"
   },
   {
-    "title": "Bernstein and RBC Capital Raise ASML Price Targets",
+    "title": "Are Wall Street Analysts Bullish on PulteGroup Stock?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/bernstein-rbc-capital-raise-asml-124147459.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/fdIpqMBAle29Vty0i85ubg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/b36da0caf4f59d829430a8a0f203a758",
-    "pubDate": "2026-02-16T12:41:47+00:00"
-  },
-  {
-    "title": "Is Intel (INTC) One of the Best AI Stocks Skyrocketing?",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/intel-intc-one-best-ai-124146532.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/AsYCrZzCDK0cFU8OaxHoXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/insidermonkey.com/098d3bbc916786c08e5fe33f526b49aa",
-    "pubDate": "2026-02-16T12:41:46+00:00"
+    "link": "https://finance.yahoo.com/news/wall-street-analysts-bullish-pultegroup-134716511.html",
+    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/4298da443ab16702bdd7b9dc72e78509",
+    "pubDate": "2026-02-16T13:47:16+00:00"
   },
   {
     "title": "How Much Would You Pay for Used Chipotle Furniture?",
