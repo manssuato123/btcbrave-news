@@ -1,5 +1,33 @@
 [
   {
+    "title": "Sterling falls as UK unemployment hits highest rate in five years",
+    "description": "European stocks opened higher on Tuesday as investors keep an eye on earnings.",
+    "link": "https://www.cnbc.com/2026/02/17/european-markets-stoxx-600-ftse-dax-cac-miner-earnings-data.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108163153-1750770742960-gettyimages-1494788177-dji_01061copy.jpeg?v=1758291666&w=1920&h=1080",
+    "pubDate": "2026-02-17T08:31:57+00:00"
+  },
+  {
+    "title": "India's Adani to invest $100 billion in AI data centers over the next decade",
+    "description": "The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.",
+    "link": "https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108066228-17321932352024-11-21t073842z_1613276834_rc2h9ba67dx0_rtrmadp_0_adani-group-usa.jpeg?v=1732193271&w=1920&h=1080",
+    "pubDate": "2026-02-17T08:09:23+00:00"
+  },
+  {
+    "title": "Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agents",
+    "description": "Alibaba Group has released its newest AI model series, featuring new agentic capabilities, as competition in China's AI space ramps up.",
+    "link": "https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108137814-1745908602289-gettyimages-2196092206-PGONCHAR_45885JPG.jpeg?v=1769050586&w=1920&h=1080",
+    "pubDate": "2026-02-17T08:04:08+00:00"
+  },
+  {
+    "title": "Hillary Clinton accuses Trump administration of Epstein files 'cover-up' in BBC interview",
+    "description": "\"Get the files out. They are slow-walking it,\" the former US secretary of state says. The White House says it has done \"more for the victims than Democrats ever did\".",
+    "link": "https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/184b/live/2519e010-0bcd-11f1-b7e1-afb6d0884c18.jpg",
+    "pubDate": "2026-02-17T07:59:55+00:00"
+  },
+  {
     "title": "SBI Holdings targets majority stake in Singapore crypto exchange Coinhako",
     "description": "Japan’s SBI Holdings has signed a letter of intent to buy a controlling stake in Singapore-licensed crypto exchange Coinhako.",
     "link": "https://cointelegraph.com/news/sbi-holdings-majority-stake-singapore-crypto-exchange-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7,18 +35,18 @@
     "pubDate": "2026-02-17T07:45:49+00:00"
   },
   {
-    "title": "UK unemployment rate hits five-year high of 5.2%",
-    "description": "It marks the highest rate since the Covid pandemic, official figures show.",
-    "link": "https://www.bbc.com/news/articles/c1l7pedyzjeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4cd/live/d3434b40-0bcd-11f1-b8bb-4bb23662bcc2.jpg",
-    "pubDate": "2026-02-17T07:30:57+00:00"
-  },
-  {
     "title": "DeFi protocol ZeroLend shuts down after three years, citing inactive chains and hacks",
     "description": "The protocol is shutting down after three years, citing unsustainable economics, thin margins and rising security threats.",
     "link": "https://www.coindesk.com/markets/2026/02/17/defi-protocol-zerolend-shuts-down-after-3-years-citing-inactive-chains-and-hacks",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b997b6fce8b36ab68140a325baf99f71a6118eec-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-02-17T07:19:53+00:00"
+  },
+  {
+    "title": "Calculator: How will freeze on tax thresholds hit your take-home pay?",
+    "description": "Wages have been rising faster than prices but you could pay more tax because of frozen thresholds.",
+    "link": "https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a282/live/678b8360-0b58-11f1-b7e1-afb6d0884c18.jpg",
+    "pubDate": "2026-02-17T07:10:15+00:00"
   },
   {
     "title": "Councils face 'uphill struggle' to be ready for local elections",
@@ -51,9 +79,9 @@
   {
     "title": "U.S. and Iran Gear Up for Nuclear Talks Amid Rising Tensions",
     "description": "President Trump has called on Iran to reach an immediate accord or else face the threat of a possible U.S. attack.",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/us-and-iran-gear-up-for-nuclear-talks-amid-rising-tensions.html",
+    "link": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html",
     "thumbnail": "https://static01.nyt.com/images/2026/02/17/multimedia/17trump-news-us-iran-talks-jhqw/17trump-news-us-iran-talks-jhqw-facebookJumbo.jpg",
-    "pubDate": "2026-02-17T06:29:34+00:00"
+    "pubDate": "2026-02-17T06:29:35+00:00"
   },
   {
     "title": "DeFi lender ZeroLend shuts down, blames illiquid chains",
@@ -68,13 +96,6 @@
     "link": "https://www.bbc.com/news/articles/cgqg92ll8vqo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b6/live/bdcaf3c0-0b5b-11f1-b472-df9c1c12cffb.jpg",
     "pubDate": "2026-02-17T06:16:51+00:00"
-  },
-  {
-    "title": "European markets set to open lower as earnings remain in focus",
-    "description": "European stocks are expected to open lower on Tuesday as investors keep an eye on earnings.",
-    "link": "https://www.cnbc.com/2026/02/17/european-markets-stoxx-600-ftse-dax-cac-miner-earnings-data.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108163153-1750770742960-gettyimages-1494788177-dji_01061copy.jpeg?v=1758291666&w=1920&h=1080",
-    "pubDate": "2026-02-17T06:16:37+00:00"
   },
   {
     "title": "BofA survey flags dollar bearish bets at over a decade high. Here's what it means for bitcoin",
@@ -105,11 +126,11 @@
     "pubDate": "2026-02-17T05:01:28+00:00"
   },
   {
-    "title": "Los Angeles Mayor Karen Bass",
+    "title": "LA Mayor Karen Bass Says Casey Wasserman, 2028 Olympics Chairman, Should Resign",
     "description": "The chairman, Casey Wasserman, has faced criticism ever since his name surfaced in the Epstein files. Mayor Karen Bass is the latest official to call on him to step down.",
     "link": "https://www.nytimes.com/2026/02/16/us/casey-wasserman-karen-bass-olympics.html",
     "thumbnail": "https://static01.nyt.com/images/2026/02/16/multimedia/16nat-bass-wasserman-ljqz/16nat-bass-wasserman-ljqz-facebookJumbo.jpg",
-    "pubDate": "2026-02-17T04:34:06+00:00"
+    "pubDate": "2026-02-17T04:34:07+00:00"
   },
   {
     "title": "Kraken sponsors Trump Accounts in Wyoming, citing crypto alignment",
@@ -126,25 +147,11 @@
     "pubDate": "2026-02-17T04:17:56+00:00"
   },
   {
-    "title": "Hillary Clinton accuses Trump administration of Epstein files 'cover-up' in BBC interview",
-    "description": "\"Get the files out. They are slow-walking it,\" the former US secretary of state says. The White House says it has done \"more for the victims than Democrats ever did\".",
-    "link": "https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/184b/live/2519e010-0bcd-11f1-b7e1-afb6d0884c18.jpg",
-    "pubDate": "2026-02-17T03:32:15+00:00"
-  },
-  {
     "title": "Crypto phishers are sending letters to Trezor, Ledger users again",
     "description": "It's not the first time scammers have used snail mail to target victims of hardware wallet company data breaches from years ago.",
     "link": "https://cointelegraph.com/news/scammers-send-physical-letters-trezor-ledger-users-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY5NDMtNjIyMy03NGZjLWI1ZTUtZjZiMTk5YmI1NTVkLmpwZw==.jpg",
     "pubDate": "2026-02-17T03:22:34+00:00"
-  },
-  {
-    "title": "Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agents",
-    "description": "Alibaba Group has released its newest AI model series, featuring new agentic capabilities, as competition in China's AI space ramps up.",
-    "link": "https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108137814-1745908602289-gettyimages-2196092206-PGONCHAR_45885JPG.jpeg?v=1769050586&w=1920&h=1080",
-    "pubDate": "2026-02-17T03:20:38+00:00"
   },
   {
     "title": "Logan Paul sells Pokémon card for $16.5M, years after fractional NFT row",
@@ -154,7 +161,7 @@
     "pubDate": "2026-02-17T02:04:57+00:00"
   },
   {
-    "title": "Canada reacts as cheating row rocks curling superpower",
+    "title": "'A sad day' - Canada rocked by curling cheating row at Winter Games",
     "description": "Both men's and women's Canadian curling teams have been accused of cheating at the 2026 Winter Olympics.",
     "link": "https://www.bbc.com/news/articles/c9dne166pwlo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce46/live/f0dc41b0-097b-11f1-9479-1f22ed0be724.jpg",
@@ -453,13 +460,6 @@
     "link": "https://www.coindesk.com/markets/2026/02/16/bitcoin-s-slide-may-signal-broader-market-trouble-and-a-u-s-recession-mike-mcglone-says",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a021b028c30e68542c865c02852e4bbaba5aae22-1920x1080.jpg?auto=format",
     "pubDate": "2026-02-16T14:06:25+00:00"
-  },
-  {
-    "title": "Here’s how much athletes at the 2026 Winter Olympics get for winning medals",
-    "description": "For athletes at the ongoing 2026 Milano-Cortina Winter Olympics, a podium finish can come with six-figure checks.",
-    "link": "https://www.cnbc.com/2026/02/16/2026-winter-olympics-medal-bonus-payouts-by-country-athletes-milano-cortina.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108260154-17700444162026-02-02t141947z_936500846_up1em2213swi2_rtrmadp_0_olympics-2026-preview.jpeg?v=1770044436&w=1920&h=1080",
-    "pubDate": "2026-02-16T14:02:56+00:00"
   },
   {
     "title": "Hive, Riot earnings reports, Fed rate-decision minutes: Crypto Week Ahead",
