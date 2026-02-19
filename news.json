@@ -1,5 +1,75 @@
 [
   {
+    "title": "What To Know About the Trial of Yoon Suk Yeol, South Korea’s Ousted Leader",
+    "description": "Former President Yoon Suk Yeol was sentenced to life imprisonment after being found guilty on Thursday of leading an insurrection with his short-lived imposition of martial law in 2024.",
+    "link": "https://www.nytimes.com/2026/02/19/world/asia/yoon-sentencing-south-korea.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19xp-yoonsentencing-wwk-zhtb/19xp-yoonsentencing-wwk-zhtb-facebookJumbo.jpg",
+    "pubDate": "2026-02-19T07:11:52+00:00"
+  },
+  {
+    "title": "Why address poisoning works without stealing private keys",
+    "description": "Address poisoning works by cluttering your transaction history with fake entries, tricking you into sending funds to a scammer’s address by mistake.",
+    "link": "https://cointelegraph.com/news/why-address-poisoning-works-without-stealing-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c74a9-886d-71d0-aaf1-4442926a04a1.jpg",
+    "pubDate": "2026-02-19T06:55:01+00:00"
+  },
+  {
+    "title": "Ethereum Foundation lists ‘quantum readiness,’ gas limits as 2026 priorities",
+    "description": "The Ethereum Foundation called 2025 one of its “most productive years,” highlighting two major network upgrades and the gas limit significantly increasing.",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-quantum-gas-limit-priorities-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c7456-0c92-7664-ad64-5e4c110b361a.jpg",
+    "pubDate": "2026-02-19T06:23:37+00:00"
+  },
+  {
+    "title": "Trump family courts TradFi giants at Mar-a-Lago crypto mixer",
+    "description": "An inaugural event by the Trump family’s crypto platform saw crypto and finance executives flying to Florida to rub shoulders with regulators and members of Congress.",
+    "link": "https://cointelegraph.com/news/crypto-tradfi-execs-mingle-trump-crypto-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c73bb-1096-7a62-b974-26aaf75a4413.jpg",
+    "pubDate": "2026-02-19T06:20:31+00:00"
+  },
+  {
+    "title": "European stocks set to open mixed with earnings due from Nestle, Airbus",
+    "description": "European stocks are expected to open in mixed territory on Thursday as investors await further earnings reports.",
+    "link": "https://www.cnbc.com/2026/02/19/european-markets-stoxx-600-ftse-dax-cac-nestle-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108213008-1760626177068-gettyimages-511162192-89336926.jpeg?v=1771485312&w=1920&h=1080",
+    "pubDate": "2026-02-19T06:09:33+00:00"
+  },
+  {
+    "title": "PM says 'nobody is above the law' over Andrew allegations",
+    "description": "Police are currently considering allegations against Andrew, who has consistently denied any wrongdoing.",
+    "link": "https://www.bbc.com/news/articles/crm83kkrn9xo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6374/live/6c516030-0d16-11f1-b7e1-afb6d0884c18.jpg",
+    "pubDate": "2026-02-19T06:08:57+00:00"
+  },
+  {
+    "title": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
+    "description": "US media reports that Trump has discussed attack options with advisers, and a strike could happen as early as Saturday.",
+    "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ef1/live/25603cf0-0d43-11f1-b20c-af552a549c33.jpg",
+    "pubDate": "2026-02-19T06:08:07+00:00"
+  },
+  {
+    "title": "British couple jailed by Iran for 10 years, family says",
+    "description": "Lindsay and Craig Foreman were arrested in January 2025 and have allegedly been held in \"dire\" conditions.",
+    "link": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c79/live/7eff62a0-0d10-11f1-b5e2-dd58fc65f0f6.jpg",
+    "pubDate": "2026-02-19T06:04:57+00:00"
+  },
+  {
+    "title": "Quantum's big leap puts data centers in the spotlight",
+    "description": "Quantum is advancing rapidly, sparking discussions about how the powerful computers will integrate with industries like the already booming data center sector.",
+    "link": "https://www.cnbc.com/2026/02/19/quantum-computing-data-centers-ai-tech-microsoft.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108214040-1760962317394-gettyimages-2237193977-BIZ-CPT-QUANTUM-COMPUTER-OHARE-TB.jpeg?v=1771397726&w=1920&h=1080",
+    "pubDate": "2026-02-19T06:02:01+00:00"
+  },
+  {
+    "title": "Airbus targets 870 deliveries this year, below estimates as Boeing competition tightens",
+    "description": "The sentiment around Airbus has turned markedly more sour since the beginning of the year.",
+    "link": "https://www.cnbc.com/2026/02/19/airbus-earnings-fy-q4-boeing-deliveries-a320-airbus-2026-boeing-recovery.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108222875-1762497406128-AI-PHO-0104-10-A350-1000ULR_Qantas_MSN707_transfer_from_station_50B_to_station_40-023.jpg?v=1762497893&w=1920&h=1080",
+    "pubDate": "2026-02-19T05:51:37+00:00"
+  },
+  {
     "title": "Bitcoin is about to log its longest losing streak since 2022 as geopolitical nerves hit risk trades",
     "description": "Geopolitical tensions lift the U.S. dollar and crude prices, adding pressure to an already fragile crypto market.",
     "link": "https://www.coindesk.com/markets/2026/02/19/bitcoin-on-track-for-fifth-weekly-decline-first-since-2022-as-geopolitical-risks-mount",
@@ -35,25 +105,11 @@
     "pubDate": "2026-02-19T05:01:16+00:00"
   },
   {
-    "title": "Walmart will report earnings before the bell. Here's what to expect",
-    "description": "It marks the first earnings report since new Walmart CEO John Furner took over in early February.",
-    "link": "https://www.cnbc.com/2026/02/19/walmart-wmt-q4-2026-earnings.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108229118-17636478422025-11-20t135644z_2028602658_rc2gieaot198_rtrmadp_0_walmart-results-nasdaq.jpeg?v=1763647862&w=1920&h=1080",
-    "pubDate": "2026-02-19T05:01:01+00:00"
-  },
-  {
     "title": "Sugar Bowl Academy Says Multiple Victims Were Tied to Its Ski Resort School",
     "description": "Sugar Bowl Academy, a ski-focused private school in the Sierra Nevada, said that multiple people on the fatal trek were connected to its program.",
     "link": "https://www.nytimes.com/2026/02/18/us/tahoe-avalanche-skiers-sugar-bowl-school.html",
     "thumbnail": "https://static01.nyt.com/images/2026/03/18/multimedia/18tahoe-avalanche-live-skiers-qtvf/18tahoe-avalanche-live-skiers-qtvf-facebookJumbo.jpg",
     "pubDate": "2026-02-19T04:58:42+00:00"
-  },
-  {
-    "title": "Pubs to open late for home nations  World Cup knockout games",
-    "description": "Football fans in the UK will be able to enjoy an extra round at the pub thanks to new rules during the men's World Cup.",
-    "link": "https://www.bbc.com/news/articles/c8xy814855vo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4431/live/768872e0-0d4e-11f1-9ca5-5dcd8b762fe9.jpg",
-    "pubDate": "2026-02-19T04:51:23+00:00"
   },
   {
     "title": "Bitcoin can bounce higher — but the market still lacks fuel for a real run",
@@ -82,20 +138,6 @@
     "link": "https://www.coindesk.com/markets/2026/02/19/bitcoin-shakes-off-u-s-session-losses-as-trump-says-u-s-trade-deficit-cut-by-78",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b7540e5f4ce263639ab052e4c17c2e5c4075c251-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-02-19T04:11:55+00:00"
-  },
-  {
-    "title": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
-    "description": "The White House spokeswoman says there are \"many reasons and arguments that one could make for a strike against Iran\".",
-    "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ef1/live/25603cf0-0d43-11f1-b20c-af552a549c33.jpg",
-    "pubDate": "2026-02-19T04:05:26+00:00"
-  },
-  {
-    "title": "South Korea's Kospi jumps to record high as regional rally tracks Wall Street gains",
-    "description": "Asia-Pacific markets traded higher on Thursday, with several bourses in the region returning from the Lunar New Year holiday.",
-    "link": "https://www.cnbc.com/2026/02/19/asia-pacific-markets-kospi-nikkei-225-nifty-50.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108071639-1733362710729-gettyimages-998372882-mkc09443.jpeg?v=1771478424&w=1920&h=1080",
-    "pubDate": "2026-02-19T04:01:59+00:00"
   },
   {
     "title": "Warren warns crypto bailout would enrich Trump family biz: Report",
@@ -133,25 +175,11 @@
     "pubDate": "2026-02-19T02:56:03+00:00"
   },
   {
-    "title": "Veterans threaten MoD with legal action over LGBT compensation scheme",
-    "description": "Lawyers for the pair say thousands of veterans could potentially be impacted.",
-    "link": "https://www.bbc.com/news/articles/cjd9xx04n8go?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbce/live/2c5ee060-0d0c-11f1-8d41-01fb20988fd2.png",
-    "pubDate": "2026-02-19T02:51:07+00:00"
-  },
-  {
     "title": "Hyperliquid launches DeFi lobby amid ‘critical time’ for US policy",
     "description": "The Hyperliquid Policy Center says it will advocate on Capitol Hill for policies, particularly those related to perpetual derivatives and blockchain infrastructure.",
     "link": "https://cointelegraph.com/news/veteran-lawyer-jake-chervinsky-leads-hyperliquid-crypto-policy-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c7312-c745-76a9-998a-4a256bc6b29d.jpg",
     "pubDate": "2026-02-19T02:38:54+00:00"
-  },
-  {
-    "title": "Bitcoin’s consolidation nears ‘turning point’ as $70K comes in focus: Analyst",
-    "description": "Bitcoin’s sideways price action begins to narrow as a key trading metric hints that a decisive breakout is pending. Will bulls finally overcome the $70,000 resistance zone?",
-    "link": "https://cointelegraph.com/news/bitcoin-s-consolidation-nears-turning-point-as-dollar70k-comes-in-focus-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c71d3-55ec-79e4-880b-232f852981a9.jpg",
-    "pubDate": "2026-02-19T02:25:29+00:00"
   },
   {
     "title": "Trump order pushes glyphosate production; Roundup chemical hated by MAHA",
@@ -173,13 +201,6 @@
     "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd07/live/63acb510-0d25-11f1-b5e2-dd58fc65f0f6.jpg",
     "pubDate": "2026-02-19T01:32:15+00:00"
-  },
-  {
-    "title": "OpenAI pits AI agents against each other to detect smart contract flaws",
-    "description": "OpenAI said it is becoming increasingly important to evaluate the performance of AI agents in “economically meaningful environments” as their adoption grows.",
-    "link": "https://cointelegraph.com/news/openai-benchmark-ai-agents-detect-smart-contract-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bc192-e15f-7884-a100-56940fbf2535.jpg",
-    "pubDate": "2026-02-19T01:20:48+00:00"
   },
   {
     "title": "Why there's no quick fix in sight for the problem of dazzling headlights",
@@ -252,25 +273,11 @@
     "pubDate": "2026-02-19T00:00:57+00:00"
   },
   {
-    "title": "Solana futures data shows panicked bulls: Will $80 SOL hold?",
-    "description": "A drop in Solana’s dApp revenues, along with limited institutional and retail investor interest, adds vulnerability to SOL’s $78 support.",
-    "link": "https://cointelegraph.com/news/solana-futures-data-shows-panicked-bulls-will-80-sol-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c72c6-564c-70d7-a587-99b741c5e16c.jpg",
-    "pubDate": "2026-02-18T23:30:00+00:00"
-  },
-  {
     "title": "Game of Thrones Broadway play reemerges at the UK's Royal Shakespeare Company",
     "description": "The Royal Shakespeare Company will produce the prequel story Game of Thrones: The Mad King on stage in Stratford-upon-Avon in summer 2026.",
     "link": "https://www.polygon.com/game-of-thrones-mad-king-play-royal-shakespeare-company/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16127494/Game_of_Thrones_S08E01_Jamie_Lannister.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-02-18T23:15:05+00:00"
-  },
-  {
-    "title": "Texas Election Season Heats Up as Early Voting in Senate Primaries Begins",
-    "description": "Both parties’ Senate primary races are kicking into high gear.",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/texas-elections-senate-primary.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18pol-onpolitics01-photo-hgwj/18pol-onpolitics01-photo-hgwj-facebookJumbo.jpg",
-    "pubDate": "2026-02-18T23:06:57+00:00"
   },
   {
     "title": "Trump family says U.S. dollar needs an upgrade, and they are the ones to do it",
@@ -330,7 +337,7 @@
   },
   {
     "title": "Elder Scrolls 6 Will Return To Classic Bethesda Style After Starfield Took A Detour, Todd Howard Says",
-    "description": "\"We are coming back to that classic style that we've missed, that we know really, really well.\"",
+    "description": "Bethesda boss Todd Howard has provided an update on The Elder Scrolls 6, promising it will return to the \"classic style\" of Bethesda RPGs after Fallout 76 and Starfield each took a \"creative detour.\" Appearing on the Kinda Funny Gamescast, Howard said Fallout 76 and Starfield were \"a little bit of a creative detour from kind of that classic Elder Scrolls, Fallout, where you are exploring a world in a certain way.\" As reported by Kotaku, Howard added that players can expect Bethesda to get back to those roots with The Elder Scrolls 6. \"We are coming back to that classic style that we’ve missed, that we know really, really well,\" he said. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/elder-scrolls-6-will-return-to-classic-bethesda-style-after-starfield-took-a-detour-todd-howard-says/1100-6538267/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T20:40:00+00:00"
@@ -344,14 +351,14 @@
   },
   {
     "title": "The Elder Scrolls 6 Will Use An Upgraded Version Of Starfield And Skyrim's Game Engine",
-    "description": "The Elder Scrolls 6 will be the first Bethesda game to use Creation Engine 3.",
+    "description": "Bethesda's Todd Howard has reaffirmed that The Elder Scrolls 6 will use Creation Engine 3, the latest version of the game engine that has powered most of the studio's previous games. This reveal came about during an interview with Todd Howard on today's Kinda Funny Gamescast (via Kotaku). \"We’ve spent the last several years bringing Creation Engine 2, which powers Starfield, up to Creation Engine 3, which is going to power Elder Scrolls 6 and beyond,\" Howard said. \"Obviously we do all of the rendering things. We're really happy with all of the new stuff that we're doing, but also world systems, loading, how we bring things into the world, [and] how we get that detail close to the camera immediately.\" Creation Engine is the game engine that Bethesda created during the development of The Elder Scrolls V: Skyrim. Since then, it has built upon the engine's capabilities for games like Fallout 76 and Starfield, even if players are often critical of the technology underpinning Bethesda's games. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/the-elder-scrolls-6-will-use-an-upgraded-version-of-starfield-and-skyrims-game-engine/1100-6538269/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T20:36:00+00:00"
   },
   {
     "title": "Switch 2 Game's \"Camera As Controller\" Mode Will Let You Harness A Baby's Superpowers",
-    "description": "Goodnight Universe's Switch 2 port will now let you use your face and body to control the game.",
+    "description": "When Skybound Games' Goodnight Universe launched late last year, the Switch 2 version lacked the game's \"camera as controller\" mode to allow players to use their face and body to control the action. As of today, an update has been added to Goodnight Universe's Switch 2 port that will enable those controls. The game casts players in the role of Isaac, a six-month-old baby whose recollections are narrated to the player by Lewis Pullman, who portrays Isaac as an adult. What makes Isaac unique are his advanced intelligence for his age and his telekinetic abilities. Isaac can move objects with his mind, and the \"camera as controller\" mode lets players guide the action with their eyes. Skybound has also shared a guide to setting up the Switch 2's camera to get the best results out of Goodnight Universe. In addition to needing a well-lit space to play, players need to ensure that their faces are fully visible too. The setup will also ask players to blink, smile, and frown, as all three of those actions can be used to control Isaac's actions under specific circumstances. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/switch-2-games-camera-as-controller-mode-will-let-you-harness-a-babys-superpowers/1100-6538268/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T20:36:00+00:00"
@@ -371,9 +378,9 @@
     "pubDate": "2026-02-18T20:07:22+00:00"
   },
   {
-    "title": "Analyst Report: T-Mobile US Inc",
+    "title": "Market Update: CP, F, TMUS, ROL, LRLCY",
     "description": "",
-    "link": "https://finance.yahoo.com/research/reports/ARGUS_3296_AnalystReport_1771445208000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "link": "https://finance.yahoo.com/research/reports/ARGUS_46187_MarketUpdate_1771445208000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
     "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
     "pubDate": "2026-02-18T20:06:48+00:00"
   },
@@ -421,35 +428,35 @@
   },
   {
     "title": "Fallout: Season 2 Blu-Rays Are Already Up For Preorder",
-    "description": "In Fallout Season Two, what happens in New Vegas, stays in New Vegas.",
+    "description": "Fallout: Complete Second Season Limited-Edition Steelbook (4K) $48 | Release date TBD Preorder at Amazon Fallout: Complete Second Season Standard Edition $35 | Release Date TBD Preorder at Amazon (4K) Preorder at Amazon (Blu-ray) Preorder at Amazon (DVD) Fallout: Season Two recently wrapped on Prime Video, and, like clockwork, a 4K Blu-ray containing all eight episodes is up for preorder. There's no release date yet for the $48 4K steelbook, but Amazon has opened up preorders for it alongside the upcoming standard Blu-ray and DVD release of the show. Fallout: Complete Second Season Limited-Edition Steelbook (4K) $48 | Release date TBD Fallout: Complete Second Season Limited-Edition Steelbook cover art features the core trio of Lucy, the Ghoul, and Maximus overlooking the blasted landscape of New Vegas, with a menacing, mutant-shaped cloud hanging overhead. This cover art is exclusive to the Limited-Edition Steelbook 4K Blu-ray. Bonus features haven't been revealed yet, but we're expecting this release to take a few cues from the Fallout: Season One Blu-ray release, which included a collection of behind-the-scenes featurettes. We'll update this post once the Fallout: Complete Second Season special features have been listed. Preorder at Amazon Fallout: Complete Second Season Standard Edition $35 | Release Date TBD Along with the Steelbook 4K Blu-ray version, Fallout: Complete Second Season will also launch in a standard edition on 4K Blu-ray, standard Blu-ray, and DVD. As with the Steelbook version, no release date or special features have been announced, but it's safe to assume the standard edition will launch on the same day and likely include the same bonus materials. Preorders are available at Amazon. Preorder at Amazon (4K) Preorder at Amazon (Blu-ray) Preorder at Amazon (DVD) Speaking of the first Fallout season, you can also pick up the Blu-ray and DVD for it at a great price. The steelbook edition has been out of stock for a while, but the 4K version is on sale for $35 (was $40), and the DVD is $20 (was $25). Fallout: Season One Blu-rays 4K Blu-ray -- $35 ($40) Blu-ray -- $38.17 DVD -- $20 ($25) Several big video games have been adapted into live-action TV series recently, and if you're looking to build a Blu-ray library around them, there are plenty of options to choose from. HBO's The Last of Us series is considered to be the gold standard, while Twisted Metal is a surprisingly well-crafted spin on the cult-classic road-rage racing games. Halo also made it to TV, and both seasons are available on Blu-ray. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/fallout-season-2-blu-ray-buying-guide/1100-6538022/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4653590-fallouts2steelbook.jpg",
     "pubDate": "2026-02-18T18:54:00+00:00"
   },
   {
     "title": "Bigfoot Has Been Found, And He's In Fallout 76",
-    "description": "Can you stop Bigfoot in his tracks? Or will he stop you?",
+    "description": "Few cryptids are better known than Bigfoot, and we know where he's going to be at the beginning of next month. Bethesda has teased the arrival of Bigfoot in the next season of Fallout 76 with a teaser video that resembles supposed real-world attempts to catch the creature on camera. Bigfoot is coming to a wasteland near you! The Backwoods update and Season 24 arrives March 3 in #Fallout76 pic.twitter.com/38m0Y22rcB — Fallout (@Fallout) February 17, 2026 Bigfoot will be a part of the Backwoods update when Fallout 76 Season 24 begins on March 3. However, this won't be Bigfoot's first appearance in the game. Bigfoot's footprints have been spotted in the Burning Springs update, and the character has randomly spawned during public events in the game. Judging from the video teaser, it appears Bigfoot will be more prominently featured going forward. Fallout 76 already has a large assortment of cryptids in the game, including the Jersey Devil, Mothman, Wendigo, Sheepsquatch, Blue Devil, and the Smiling Man. Since players can battle those creatures, it stands to reason that Bigfoot will be available as a miniboss fight as well. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/bigfoot-has-been-found-and-hes-in-fallout-76/1100-6538264/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T18:50:00+00:00"
   },
   {
     "title": "Mario Voice Actor Charles Martinet Reveals His Most Treasured Mario Item",
-    "description": "The retired voice actor reveals one item in particular that is special to him.",
+    "description": "Charles Martinet, the longtime voice of Mario and Luigi, has revealed his most treasured Mario-related item, and it's probably not something you would guess. On the Nintendo Today app (via Stealth), Martinet is quoted as saying his most treasured Mario item that he collected over his career is \"a little music box that plays the Mario theme.\" He said he was given this music box from a fan, and it's so special to him because \"those beautiful sounds\" remind him of the joy he had working with composer Koji Kondo and Mario creator Shigeru Miyamoto over the years. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/mario-voice-actor-charles-martinet-reveals-his-most-treasured-mario-item/1100-6538263/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T18:40:00+00:00"
   },
   {
     "title": "Sony Could Offset Rising RAM Costs By \"Monetizing\" The PS5 Install Base",
-    "description": "The company's CFO said it plans to grow its \"software and network services revenue.\"",
+    "description": "Sony revealed during its latest financial results presentation that while the PlayStation 5 is selling well, pushing out 92.2 million units as of February 5, the company's plan now is to grow \"software and network services revenue\" by monetizing the existing install base. According to an Automaton report, CFO Lin Tao addressed concerns during the presentation about securing enough PlayStation 5s to meet the demand in the wake of the ongoing memory chip shortage. Tao stated that Sony is already prepared to gather the minimum amount of memory chips necessary to meet the year-end sales season. \"Going forward, we intend to further negotiate with various suppliers to secure enough supply to meet the demand of our customers,\" Tao said, explaining that the company's goal is to \"minimize the impact\" of rising memory costs by focusing on \"monetizing the installed base\" and growing software and network services revenue. \"We will continue to monitor the situation while working to minimize the impact on profitability, too.\" Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/sony-could-offset-rising-ram-costs-by-monetizing-the-ps5-install-base/1100-6538266/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T18:27:00+00:00"
   },
   {
     "title": "Sonic The Hedgehog 4 Movie Has Found Its Amy Rose",
-    "description": "Actor Kristen Bell joins the voice cast of the 2027 movie.",
+    "description": "The upcoming live-action Sonic the Hedgehog 4 movie has landed a noteworthy television and film star for a key role, casting Kristen Bell as the hammer-wielding pink hedgehog Amy Rose. Per The Hollywood Reporter, Bell, who is best known for her lead roles in The Good Place, Veronica Mars, and Frozen, has closed a deal to join the cast of the sequel, which is scheduled for a March 2027 release date. Sonic voice actor Ben Schwartz, who co-starred in House of Lies with Bell, celebrated the news in an X post that included a picture of both actors holding figurines of their respective characters. WE HAVE OUR AMY ROSE!!! And I could not be more excited!!! Please welcome the incredible Kristen Bell to the @SonicMovie family!!! 💙 pic.twitter.com/jcFLLoplqC — Ben Schwartz (@rejectedjokes) February 18, 2026 Amy Rose made a small appearance in the post-credits scene of Sonic the Hedgehog 3, fighting off several Metal Sonic robots with her trusty Piko Piko Hammer. Both Amy and Metal Sonic made their video game debuts in 1993's Sonic CD, so it's a fair bet that the new movie will include elements from that title. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/sonic-the-hedgehog-4-movie-has-found-its-amy-rose/1100-6538265/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T18:18:00+00:00"
@@ -477,14 +484,14 @@
   },
   {
     "title": "The Easiest Way To Build Your Own Steam Machine Isn't On Steam",
-    "description": "PC Building Simulator 2 will let you build a PC without having to sell a kidney first.",
+    "description": "If you've been itching to build a new PC but have been stopped in your tracks by the harsh reality of the price of components currently, the latest Epic Games Store exclusive could be the next best thing. PC Building Simulator 2 bring more components, deeper simulation, and a host of more options for you to craft the gaming rig of your dreams. The sequel expands upon the surprisingly addictive foundations of its debut, with a more robust campaign mode (and additional endless mode on top of it) as well as over 40 hardware brands and their components to choose from. The sequel is exclusive to the Epic Games Store on PC, meaning you might be able to build your own Steam Machine while waiting for Valve to release theirs, but you won't be able to do so via Steam itself. PC Building Simulator 2 will also launch on Xbox Series X|S and PlayStation 5 next week, on February 26, letting you build your own Xbox on an Xbox. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/the-easiest-way-to-build-your-own-steam-machine-isnt-on-steam/1100-6538259/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T17:11:00+00:00"
   },
   {
     "title": "How To Open Locked Chests In Dragon Quest 7 Reimagined",
-    "description": "We'll show you how to find the three keys that allow you to open all chests.",
+    "description": "Doesn’t matter which one it is, if a game spends hours telling you you can break open everything not nailed down, if they start putting locks on things, you’re gonna take that Michael Jordan-level personally. Even in its newfangled Reimagined form, Dragon Quest 7 is no different, you’ll eventually start running into chests that won’t open, and what’s worse, because chests aren’t specifically color-coded here, you won’t know what key opens what kind of chest till you try to open it. While letting Maribel complain at them until they surrender their contents sounds like a grand idea on paper, we might suggest finding a few keys for these things might go a little easier. We’ll show you where you’re headed for these. The Thief Key So, in general, you’re gonna want to tackle as many of these chests as you can once you get access to their specific areas, since the time jump mechanic means some of these locations can be locked or blocked off if you progress a bit too far too fast. Fortunately, they’re all very much on your way through the main story. You’ll find the Thief Key when you’ve handled your business in Alltrades Abbey. Once you’re able to roam freely after taking down Cardinal Sin, head back to Pilgrim’s Perdition, and head to the weird little hostel at the north of town next to a well. The NPCs that were guarding the chest here will be gone, and you can grab the key in here. Even better, you can use it right away by opening the other chest in here for a Mini-Medal. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/how-to-open-locked-chests-in-dragon-quest-7-reimagined/1100-6538148/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-18T17:05:00+00:00"
@@ -511,67 +518,67 @@
     "pubDate": "2026-02-18T11:00:00+00:00"
   },
   {
-    "title": "More than 50% of enterprise software could switch to AI, Mistral CEO says",
-    "description": "Software stocks have sold off on fears AI could eat into so-called software as a service, or SaaS, business models.",
-    "link": "https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
-    "pubDate": "2026-02-18T08:36:35+00:00"
-  },
-  {
-    "title": "Armada Hoffler Properties, Inc. Q4 2025 Earnings Call Summary",
+    "title": "Southwest Keeps Flying As UBS See Huge Payoff From New Fees",
     "description": "",
-    "link": "https://finance.yahoo.com/news/armada-hoffler-properties-inc-q4-173150038.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/4317561cd61ba87239962a0f519f9d51",
-    "pubDate": "2026-02-17T17:31:50+00:00"
-  },
-  {
-    "title": "This 73-year-old has nothing saved for retirement, but wants to buy a house. What Dave Ramsey says she should do next",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/73-old-nothing-saved-retirement-172900637.html",
-    "thumbnail": "https://s.yimg.com/os/en/moneywise_ecomm_711/9856275b41a1dbefc9df856f9b10d50c",
-    "pubDate": "2026-02-17T17:29:00+00:00"
-  },
-  {
-    "title": "Sugar Prices Gain on Signs that Lower Prices are Spurring Demand",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/sugar-prices-gain-signs-lower-172447288.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/sySQVaXAVmy7cphtUIfd.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/12c78524d9d142f4a6eac1f28b870883",
-    "pubDate": "2026-02-17T17:24:47+00:00"
-  },
-  {
-    "title": "Mining Stocks Face Big Expectations Ahead Of Earnings, As Gold And Silver Sink",
-    "description": "",
-    "link": "https://www.investors.com/news/mining-stocks-gold-silver/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/10/stock-gold-platinum-adobe.jpg",
-    "pubDate": "2026-02-17T17:22:33+00:00"
-  },
-  {
-    "title": "Why 1 Analyst Just Raised His Micron Stock Price Target by 30%",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/why-1-analyst-just-raised-171510534.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/pBOeWe9dTvL8YhpicHZDUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/f5650663b22ff6c046f216a8665badb0",
-    "pubDate": "2026-02-17T17:15:10+00:00"
-  },
-  {
-    "title": "Investor Dan Ives says the tech selloff that has been spooking markets is actually a ‘generational opportunity’ to get in on the action",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/investor-dan-ives-says-tech-171414614.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/lm.wqBfnfQfRbIxr0gVgeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/dbe82f78842f4e2e71e45ec99f99249e",
-    "pubDate": "2026-02-17T17:14:14+00:00"
-  },
-  {
-    "title": "Palo Alto Earnings Due. How Will Deal Blitz Impact Guidance?",
-    "description": "",
-    "link": "https://www.investors.com/news/technology/palo-alto-stock-palo-alto-earnings-acquisitions-guidance-q22026/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2019/09/stock-PaloAltoNetworks-06-shutter.jpg",
-    "pubDate": "2026-02-17T17:12:46+00:00"
-  },
-  {
-    "title": "Warner, Paramount Stocks Rally on News That Deal Talks Will Restart",
-    "description": "",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-17-2026/card/warner-paramount-stocks-rally-on-news-that-deal-talks-will-restart-UsjULpAAkdDL8JSI3hSD?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.investors.com/news/southwest-stock-ubs-fees-earnings/?src=A00220&yptr=yahoo",
     "thumbnail": "",
-    "pubDate": "2026-02-17T17:11:50+00:00"
+    "pubDate": "2026-02-17T19:45:33+00:00"
+  },
+  {
+    "title": "Is Walmart Stock a Buy Ahead of Q4 Earnings on Feb. 19?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/walmart-stock-buy-ahead-q4-193859595.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/pOslB6QC8Y54l0fen9yV3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/fd73f630bb54b1477a885ea821c852e6",
+    "pubDate": "2026-02-17T19:38:59+00:00"
+  },
+  {
+    "title": "No Need For Range Anxiety. This Option On Tesla Stock Uses Range As Advantage.",
+    "description": "",
+    "link": "https://www.investors.com/research/options/tsla-stock-calendar-spread-range/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/12/Stock-Tesla-Model3Hero-company-scaled.jpeg",
+    "pubDate": "2026-02-17T19:38:44+00:00"
+  },
+  {
+    "title": "Sugar Prices Consolidate Recent Losses",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/sugar-prices-consolidate-recent-losses-193636538.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/882AdCkcYWUJq37DN7EKtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://media.zenfs.com/en/barchart_com_477/022a93cafde4f37766f1e3fd653e8612",
+    "pubDate": "2026-02-17T19:36:36+00:00"
+  },
+  {
+    "title": "Blackstone Inc (BX) Strikes Big Deal in Women’s Healthcare Space",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/blackstone-inc-bx-strikes-big-192340825.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/6662fcdb724866d55852ec07b78d4e48",
+    "pubDate": "2026-02-17T19:23:40+00:00"
+  },
+  {
+    "title": "Monster Beverage, Stock Of The Day, Near Buy Point As Growth Accelerates",
+    "description": "",
+    "link": "https://www.investors.com/research/ibd-stock-of-the-day/monster-beverage-stock-buy-point/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/02/sotd-for-02-17-2026-desktop.png",
+    "pubDate": "2026-02-17T19:22:20+00:00"
+  },
+  {
+    "title": "Should You Buy the Dip in Tesla Stock Today?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/buy-dip-tesla-stock-today-190642967.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/K5tXSV3GOBl2tIpkAz9DzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/c9768b724915bd5726850b8bf3f4cf93",
+    "pubDate": "2026-02-17T19:06:42+00:00"
+  },
+  {
+    "title": "$202 Million Solana Outflows Trigger First Capitulation Signal Since 2022",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/202-million-solana-outflows-trigger-190000600.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/F5MHDNAPL6K9QtA5J7hXhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/c996da8560eff37568c7b92dcc65beea",
+    "pubDate": "2026-02-17T19:00:00+00:00"
+  },
+  {
+    "title": "Could This $7 Stock Be Your Ticket to Millionaire Status?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/could-7-stock-ticket-millionaire-185655430.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/UrkTH9BIMGsPfNyp_tU.Bw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/motleyfool.com/7f4c8dfb959771dada2afddf4b1e49b0",
+    "pubDate": "2026-02-17T18:56:55+00:00"
   },
   {
     "title": "8 Pro Chefs Share the Knives They Use in Their Restaurants",
@@ -579,13 +586,6 @@
     "link": "https://www.bonappetit.com/story/chefs-favorite-knives-video",
     "thumbnail": "https://assets.bonappetit.com/photos/6994a0336ff707f65453ed06/master/pass/image%20(1).png",
     "pubDate": "2026-02-17T17:09:21+00:00"
-  },
-  {
-    "title": "Freight downturn deepens as supply chain bankruptcies mount",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/freight-downturn-deepens-supply-chain-170721169.html",
-    "thumbnail": "https://s.yimg.com/os/en/freightwaves_373/89c42d21f0513aa9669abfac9e95aa40",
-    "pubDate": "2026-02-17T17:07:21+00:00"
   },
   {
     "title": "How These Biscuits Went From Idea (to Misunderstanding) to Reality",
