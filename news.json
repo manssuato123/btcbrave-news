@@ -1,5 +1,61 @@
 [
   {
+    "title": "Critical Role hires new general manager to elevate Beacon",
+    "description": "Critical Role announces the hiring of Alyssa Zeisler as General Manager for Beacon, aiming to level up and evolve the paid streaming app.",
+    "link": "https://www.polygon.com/critical-role-alyssa-zeisler-beacon-general-manager/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/critical-role-matt-mercer.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-02-26T15:22:07+00:00"
+  },
+  {
+    "title": "New A.C.A. Plans Could Increase Family Deductibles to $31,000",
+    "description": "The Trump administration is proposing Obamacare plans that it says will lower health insurance premiums. But critics warn they would make care unaffordable.",
+    "link": "https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html",
+    "thumbnail": "",
+    "pubDate": "2026-02-26T15:14:16+00:00"
+  },
+  {
+    "title": "Christopher Nolan's Pacino/Robin Williams thriller is deeply underrated",
+    "description": "Insomnia never got The Dark Knight or Inception-level attention, but it's an underrated Christopher Nolan gem, starring Al Pacino and Robin Williams.",
+    "link": "https://www.polygon.com/insomnia-best-christopher-nolan-al-pacino-robin-williams/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mcdolns_ec001.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-02-26T15:11:54+00:00"
+  },
+  {
+    "title": "Apple TV provides a first look at Star City, the spy thriller prequel to For All Mankind",
+    "description": "The eight-episode series could provide a fresh start for the alt-history sci-fi show.",
+    "link": "https://www.polygon.com/for-all-mankind-prequel-star-city-premiere-date/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/starcity_101_f01063223f-1.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-02-26T15:00:17+00:00"
+  },
+  {
+    "title": "On Pokémon's 30th anniversary, game devs reflect on the series' impact on their life and work",
+    "description": "Game developers from studios large and small share their favorite Pokémon memories — and how the series shapes the work they do every day",
+    "link": "https://www.polygon.com/game-devs-reveal-on-pokemon-30th-anniversary/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/pokemon-artwork.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-02-26T15:00:17+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
+    "pubDate": "2026-02-26T14:55:37+00:00"
+  },
+  {
+    "title": "Analysts reject Jane Street ‘10 a.m. dump’ claims, say Bitcoin isn’t easily manipulated",
+    "description": "Crypto traders blame Jane Street for a daily 10 a.m. Bitcoin dip after a Terraform lawsuit claimed dubious trading practices, but analysts say timing matches broader risk repricing.",
+    "link": "https://cointelegraph.com/news/bitcoin-10am-dump-theory-jane-street-ibit-13f-terraform-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhMjgtOTI5NC03NDMxLTg4MDItM2YyZDJiYzQ4NTUwLmpwZw==.jpg",
+    "pubDate": "2026-02-26T14:44:40+00:00"
+  },
+  {
+    "title": "Trump family-backed miner American Bitcoin posts $59M quarterly loss",
+    "description": "American Bitcoin posted a $59.5 million Q4 loss while its revenue rose and its Bitcoin stack topped 6,000 coins, as peers pivot to AI and sell down treasuries.",
+    "link": "https://cointelegraph.com/news/american-bitcoin-trump-nets-59m-quarterly-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhMzctNDI3Yy03MGM0LTkwMTUtZmRkZTQ0OWMxMjMzLmpwZw==.jpg",
+    "pubDate": "2026-02-26T14:37:18+00:00"
+  },
+  {
     "title": "A free Lego Star Wars lightsaber will be available in March in selected stores",
     "description": "Lego is giving away free Star Wars lightsabers at select UK stores, but supplies are limited and the event is only open to UK residents.",
     "link": "https://www.polygon.com/free-star-wars-lego-lightsaber-uk-stores/",
@@ -14,11 +70,18 @@
     "pubDate": "2026-02-26T14:26:50+00:00"
   },
   {
-    "title": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
-    "description": "Moscow unleashed an extensive drone and missile attack just hours before American officials met with Kyiv’s chief negotiator.",
-    "link": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
-    "thumbnail": "",
-    "pubDate": "2026-02-26T14:25:49+00:00"
+    "title": "Crypto investigator ZachXBT alleges trading platform Axiom's employee conducted insider trading",
+    "description": "ZachXBT.alleges a senior Axiom employee used internal dashboards to access private wallet data and track traders’ activity, raising questions about potential insider trading.",
+    "link": "https://www.coindesk.com/markets/2026/02/26/zachxbt-alleges-axiom-employee-conducted-insider-trading",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0def2dd62439d45a4e84704644add73b1a01ed9f-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-02-26T14:25:38+00:00"
+  },
+  {
+    "title": "CoinDesk 20 performance update: index falls 1.4% as all constituents trade lower",
+    "description": "Aptos (APT) declined 11% and Aave (AAVE) dropped 6.6%, leading index lower from Wednesday.",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/02/26/coindesk-20-performance-update-index-falls-1-4-as-all-constituents-trade-lower",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/66b017de6b16e52f52b27324676a191a5d69a8c0-480x360.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-02-26T14:23:49+00:00"
   },
   {
     "title": "The 'Great Wealth Transfer': A $3 trillion opportunity for Black business owners is on the horizon",
@@ -26,6 +89,13 @@
     "link": "https://www.cnbc.com/2026/02/26/the-great-wealth-transfer-a-3-trillion-opportunity-for-black-business-owners-is-on-the-horizon.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108269215-1771952350507-gettyimages-2169098679-getty_atlcafe_2024_11306.jpeg?v=1771952365&w=1920&h=1080",
     "pubDate": "2026-02-26T14:23:06+00:00"
+  },
+  {
+    "title": "Former Xbox Exec Peter Moore Weighs In On New CEO Asha Sharma",
+    "description": "Former Xbox executive Peter Moore has weighed in on the big news recently that Asha Sharma has been named the new CEO of Microsoft Gaming. Speaking to GamesBeat, Moore said Sharma \"just needs to listen, learn\" to begin her journey as the leader of Xbox. More said working alongside Xbox chief content officer Matt Booty will be a benefit to Sharma as well. He added that outgoing CEO Phil Spencer had great success visiting the Xbox development teams globally to learn \"what it takes to manage creative heads and entrepreneurs,\" and Sharma would be smart do so something similar. \"I wish her all the best. She's in a position right now where--keep your head down. Fly low. Avoid the radar. Learn, listen. Spend a lot of time internally,\" he said. \"Travel the world. Meet with the studio heads. Do the classic listening tour, which a lot of executives do. I think she'll be fine.\" Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/former-xbox-exec-peter-moore-weighs-in-on-new-ceo-asha-sharma/1100-6538443/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-02-26T14:22:00+00:00"
   },
   {
     "title": "Oppenheimer Boosts Itron, Inc. (ITRI) Guidance Following Better-Than-Expected FY2026 Outlook",
@@ -61,6 +131,13 @@
     "link": "https://finance.yahoo.com/news/invitation-homes-inc-invh-pt-140410524.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/VixckNjl2acL_oJ5HDUIKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/383b983d2a9c152953370715a94f1a92",
     "pubDate": "2026-02-26T14:04:10+00:00"
+  },
+  {
+    "title": "Instagram to alert parents if teens search for self-harm and suicide content",
+    "description": "Safety campaigners say Meta is \"passing the buck\" with its new feature for parents using Instagram's teen supervision tools.",
+    "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bfb/live/c81b5e30-130f-11f1-9120-a910fc22c6ac.jpg",
+    "pubDate": "2026-02-26T14:03:35+00:00"
   },
   {
     "title": "IQVIA Holdings (IQV) Rallied on Waning Concerns Over Biotech Funding and Clinical Activity",
@@ -107,23 +184,44 @@
   {
     "title": "Mastercard, MetaMask launch US crypto card, debuting in New York",
     "description": "MetaMask Card goes live in the US, with first-time availability across 49 states, including New York, following initial pilots over the past two years.",
-    "link": "https://my.cointelegraph.com/news/mastercard-metamask-us-crypto-card-new-york-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
+    "link": "https://cointelegraph.com/news/mastercard-metamask-us-crypto-card-new-york-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk5ZTUtYzE2YS03YzFkLTgwY2MtNDg5ZjU5YzExYWUxLmpwZw==.jpg",
     "pubDate": "2026-02-26T14:00:00+00:00"
   },
   {
     "title": "Grvt integrates Aave so traders can earn yield on perp collateral",
     "description": "DefiLlama data shows derivatives contribute heavily to DeFi’s $1 billion-plus quarterly revenue as lending and trading infrastructure converge.",
-    "link": "https://my.cointelegraph.com/news/grvt-aave-composable-yield-perp-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
+    "link": "https://cointelegraph.com/news/grvt-aave-composable-yield-perp-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhMDAtNWI5Mi03MTQzLTljZmUtNWQ1OGVmMWVmMGQ0LmpwZw==.jpg",
     "pubDate": "2026-02-26T14:00:00+00:00"
   },
   {
     "title": "OKX integrates Chainalysis Alterya for pre-withdrawal scam screening",
     "description": "Cryptocurrency exchanges are moving to block scam-linked transfers before funds leave their platforms as fraud losses continue to climb.",
-    "link": "https://my.cointelegraph.com/news/okx-integrates-chainalysis-alterya-for-pre-withdrawal-scam-screening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
+    "link": "https://cointelegraph.com/news/okx-integrates-chainalysis-alterya-for-pre-withdrawal-scam-screening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk2ZTctMDI2MC03OWQ4LTkxZTMtYWI1NmFjNTZiODc3LmpwZw==.jpg",
     "pubDate": "2026-02-26T14:00:00+00:00"
+  },
+  {
+    "title": "MetaMask expands debit card across U.S. after year-long pilot",
+    "description": "The card lets users spend digital assets directly from their self-custodial wallets at various merchants.",
+    "link": "https://www.coindesk.com/business/2026/02/26/metamask-expands-debit-card-across-u-s-after-year-long-pilot",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4690f4bea1ab7256dfdefefd4712ccb2a59feb95-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-02-26T14:00:00+00:00"
+  },
+  {
+    "title": "Decibel goes live on Aptos with a $58 million war chest and a secret weapon from Stripe's Bridge",
+    "description": "After a testnet with 700,000 accounts and $50 million in pre-deposits, Decibel begins mainnet trading with an onchain order book and risk engine on Aptos.",
+    "link": "https://www.coindesk.com/business/2026/02/25/perpetuals-exchange-decibel-goes-live-on-aptos-following-usd50-million-in-pre-deposits",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0f22042d73e635f2d1b60ad66f19367c95a219ea-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-02-26T14:00:00+00:00"
+  },
+  {
+    "title": "Spain to check Gibraltar arrivals under post-Brexit deal",
+    "description": "Travellers to the Rock would have to show their passport twice under a new UK-EU treaty.",
+    "link": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1777/live/85af9670-1304-11f1-856c-c723805bc628.png",
+    "pubDate": "2026-02-26T13:58:33+00:00"
   },
   {
     "title": "Truist Securities Downgrades Harmony Biosciences Holdings, Inc. (HRMY) to Hold After Patent Trial Developments",
@@ -131,6 +229,13 @@
     "link": "https://finance.yahoo.com/news/truist-securities-downgrades-harmony-biosciences-135726092.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/4Nk_0IbCcE_451AvzzBWyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1d3c8b0436d68edba2cb1bbd6557080a",
     "pubDate": "2026-02-26T13:57:26+00:00"
+  },
+  {
+    "title": "Danish PM calls snap election with Greenland issue centre-stage",
+    "description": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign.",
+    "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490b/live/75f78830-131a-11f1-b513-7d8d8ff19957.jpg",
+    "pubDate": "2026-02-26T13:56:39+00:00"
   },
   {
     "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
@@ -142,8 +247,8 @@
   {
     "title": "How does Trump influence the price of Bitcoin?",
     "description": "US President Donald Trump has influenced cryptocurrency market movements through his policies and speeches declaring ambitious crypto goals.",
-    "link": "https://my.cointelegraph.com/news/how-does-trump-influence-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
+    "link": "https://cointelegraph.com/news/how-does-trump-influence-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk5ZjAtZmE5NC03OGVmLTkxOWUtZDFlMDFmNDFjMWMyLmpwZw==.jpg",
     "pubDate": "2026-02-26T13:55:05+00:00"
   },
   {
@@ -159,6 +264,13 @@
     "link": "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html",
     "thumbnail": "",
     "pubDate": "2026-02-26T13:48:50+00:00"
+  },
+  {
+    "title": "Jersey approves assisted dying law",
+    "description": "Once the law is given Royal Assent the first legal assisted deaths could happen as early as 2027.",
+    "link": "https://www.bbc.com/news/articles/c62dnwwgryeo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c3/live/f5181ed0-130c-11f1-9120-a910fc22c6ac.jpg",
+    "pubDate": "2026-02-26T13:46:28+00:00"
   },
   {
     "title": "Avengers: Doomsday loses IMAX opening weekend to Dune: Part Three",
@@ -191,9 +303,16 @@
   {
     "title": "Telegram’s in-app crypto wallet to offer yield on Bitcoin, Ether and USDt",
     "description": "Telegram’s crypto wallet introduces self-custodial vaults, letting users earn yields on Bitcoin, Ether and USDt directly inside the messaging app.",
-    "link": "https://my.cointelegraph.com/news/telegram-ton-wallet-vaults-earn-btc-eth-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
+    "link": "https://cointelegraph.com/news/telegram-ton-wallet-vaults-earn-btc-eth-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhMjctM2YzNy03MDgwLTg5ZmItMTg1OWQ5ZmJjM2FmLmpwZw==.jpg",
     "pubDate": "2026-02-26T13:34:43+00:00"
+  },
+  {
+    "title": "Hillary Clinton to appear before US House panel investigating Epstein",
+    "description": "The former secretary of state recently dropped her longstanding refusal to appear, alongside her former president husband.",
+    "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa7/live/20b532f0-130b-11f1-bf20-f10c8e9eb926.jpg",
+    "pubDate": "2026-02-26T13:32:14+00:00"
   },
   {
     "title": "10 best cards from Magic: The Gathering's TMNT set",
@@ -231,13 +350,6 @@
     "pubDate": "2026-02-26T13:06:23+00:00"
   },
   {
-    "title": "Spain to check Gibraltar arrivals under post-Brexit deal",
-    "description": "Travellers to the Rock will have to show their passport twice under a new UK-EU treaty.",
-    "link": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1777/live/85af9670-1304-11f1-856c-c723805bc628.png",
-    "pubDate": "2026-02-26T13:01:29+00:00"
-  },
-  {
     "title": "The Resident Evil lore you need to know before playing Requiem",
     "description": "Resident Evil has decades of complicated lore. Before you dive into Requiem, here's a refresher on the major points.",
     "link": "https://www.polygon.com/resident-evil-lore-explainer/",
@@ -273,13 +385,6 @@
     "pubDate": "2026-02-26T12:51:47+00:00"
   },
   {
-    "title": "UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%",
-    "description": "Some 100,625 people claimed asylum in the year to December and about 40% of these arrived by small boats, figures show.",
-    "link": "https://www.bbc.com/news/articles/cly07pyde00o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1710/live/33fc6a50-1314-11f1-b048-c9424b2cf5fd.jpg",
-    "pubDate": "2026-02-26T12:48:35+00:00"
-  },
-  {
     "title": "Nvidia's stock sees only marginal gains after better-than-expected results. Here's the latest",
     "description": "Better-than-expected results drew a muted investor response as AI bubble concerns remain",
     "link": "https://www.cnbc.com/2026/02/26/nvidia-nvda-stock-price-q4-earnings.html",
@@ -292,20 +397,6 @@
     "link": "https://www.coindesk.com/business/2026/02/26/sts-digital-raises-usd30-million-to-expand-crypto-options-platform",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4639ce873cb414355a63173614affb9983f2b11b-1920x1080.jpg?auto=format",
     "pubDate": "2026-02-26T12:40:08+00:00"
-  },
-  {
-    "title": "Jersey approves assisted dying law",
-    "description": "Once the law is given Royal Assent the first legal assisted deaths could happen as early as 2027.",
-    "link": "https://www.bbc.com/news/articles/c62dnwwgryeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c3/live/f5181ed0-130c-11f1-9120-a910fc22c6ac.jpg",
-    "pubDate": "2026-02-26T12:37:28+00:00"
-  },
-  {
-    "title": "New A.C.A. Plans Could Increase Family Deductibles to $31,000",
-    "description": "The Trump administration is proposing Obamacare plans that it says will lower health insurance premiums. But critics warn they would make care unaffordable.",
-    "link": "https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html",
-    "thumbnail": "",
-    "pubDate": "2026-02-26T12:31:36+00:00"
   },
   {
     "title": "Warren calls Trump’s bluff on affordability after State of the Union",
@@ -331,8 +422,8 @@
   {
     "title": "Middle East tensions boost gold as investors seek safe havens",
     "description": "Escalating US-Iran tensions are boosting safe-haven demand, with gold attracting investors while equities and Bitcoin face pressure.",
-    "link": "https://my.cointelegraph.com/news/rising-middle-east-tensions-safe-haven-demand-gold-investors-flee-equities-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
+    "link": "https://cointelegraph.com/news/rising-middle-east-tensions-safe-haven-demand-gold-investors-flee-equities-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk5ODMtMTUwMS03ZTQwLTkwMTMtODZiNDg3ZjFiOWI5LmpwZw==.jpg",
     "pubDate": "2026-02-26T12:15:34+00:00"
   },
   {
@@ -343,25 +434,11 @@
     "pubDate": "2026-02-26T12:15:00+00:00"
   },
   {
-    "title": "Monarch: Legacy of Monsters producer explains how Titan X fits into the Monsterverse mythology",
-    "description": "The Apple TV series is catching up with the movies while also trying to surprise viewers with a new threat.",
-    "link": "https://www.polygon.com/monarch-legacy-monsters-season-2-monsterverse-interview/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/monarch_legacy_of_monsters_photo_020901.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-02-26T12:00:16+00:00"
-  },
-  {
-    "title": "Instagram to alert parents if teens search for self-harm and suicide content",
-    "description": "Meta says it will help parents support their children - but safety campaigners have accused them of \"passing the buck\".",
-    "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bfb/live/c81b5e30-130f-11f1-9120-a910fc22c6ac.jpg",
-    "pubDate": "2026-02-26T11:59:41+00:00"
-  },
-  {
-    "title": "Met apologises to Lord Speaker after Mandelson tip-off error",
-    "description": "Lord Mandelson's lawyers said police arrested the peer because of a \"baseless\" suggestion he was planning to move abroad.",
-    "link": "https://www.bbc.com/news/articles/cgmlzdr3y7mo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a3/live/da621020-1305-11f1-b048-c9424b2cf5fd.jpg",
-    "pubDate": "2026-02-26T11:47:45+00:00"
+    "title": "China Wants Germany in Its Corner. It’s Not That Easy.",
+    "description": "China’s play for U.S. allies has a problem: As Germany’s leader showed, Europe’s grievances with Beijing may run deeper than its frustration with Trump.",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/merz-china-analysis.html",
+    "thumbnail": "",
+    "pubDate": "2026-02-26T11:35:43+00:00"
   },
   {
     "title": "Bitcoin stalls below $70,000 while DOT, UNI lead altcoin surge",
@@ -373,23 +450,9 @@
   {
     "title": "Bitcoin traders explain why $80K is the next target for bulls",
     "description": "The return of spot Bitcoin ETF inflows may fuel a BTC price recovery, as signs of a potential rebound to $75,000-$80,000 emerge.",
-    "link": "https://my.cointelegraph.com/news/bitcoin-traders-explain-why-80k-next-target-for-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
+    "link": "https://cointelegraph.com/news/bitcoin-traders-explain-why-80k-next-target-for-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk5ODctY2ZhNi03ZWI1LTljNTQtYTkzNjk4OGE0ODZkLmpwZw==.jpg",
     "pubDate": "2026-02-26T11:28:51+00:00"
-  },
-  {
-    "title": "The Secret of How Ukraine’s Lifesaving Air-Raid Alarms Work",
-    "description": "Many in Ukraine assume that the alerts are automated. A rare look inside an emergency-response center reveals the specialists who do the pressure-packed job.",
-    "link": "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html",
-    "thumbnail": "",
-    "pubDate": "2026-02-26T11:13:55+00:00"
-  },
-  {
-    "title": "Indiana lawmakers pass crypto rights bill banning discriminatory taxes",
-    "description": "Indiana’s HB 1042 cleared both chambers and heads to Governor Mike Braun, limiting crypto-specific taxes and opening the door to crypto options for retirement accounts.",
-    "link": "https://my.cointelegraph.com/news/indiana-crypto-rights-bill-governor-signature?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
-    "pubDate": "2026-02-26T11:07:29+00:00"
   },
   {
     "title": "Highguard Adds New Game Mode That Removes Looting Phase Entirely",
@@ -413,13 +476,6 @@
     "pubDate": "2026-02-26T11:00:00+00:00"
   },
   {
-    "title": "Three companies add Strategy's STRC to treasury as shares return to par",
-    "description": "Strategy’s preferred equity trades back at $100 as corporate adoption expands at Strategy World 2026.",
-    "link": "https://www.coindesk.com/markets/2026/02/26/three-companies-add-strategy-s-strc-to-treasury-as-shares-return-to-par",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/90d795e942cdee39b61bec3fd5250b0394ff9585-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-02-26T10:48:23+00:00"
-  },
-  {
     "title": "Traitor Rachel on winning the show, her mum's death - and what's next",
     "description": "Rachel Duffy has spoken publicly for the first time about winning The Traitors and then losing her mother.",
     "link": "https://www.bbc.com/news/articles/c4gjm82lj3jo?at_medium=RSS&at_campaign=rss",
@@ -427,46 +483,11 @@
     "pubDate": "2026-02-26T10:30:12+00:00"
   },
   {
-    "title": "Avantris' new D&amp;D Kickstarter is a neon-fueled '80s space opera",
-    "description": "Avantris Entertainment's new D&amp;D project is a massive space opera fueled by '80s nostalgia and Synthwave tracks.",
-    "link": "https://www.polygon.com/dnd-avantris-kickstarter-neon-odyssey-space-opera/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/maxresdefault-1-1.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-02-26T10:25:01+00:00"
-  },
-  {
-    "title": "Gate secures Maltese payments license to expand EU fiat and stablecoin services",
-    "description": "The license allows Gate to execute payment transactions in the EU, including direct debits and credit transfers under PSD2 rules.",
-    "link": "https://my.cointelegraph.com/news/gate-malta-psd2-payment-license-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
-    "pubDate": "2026-02-26T10:19:11+00:00"
-  },
-  {
     "title": "Z? Zo? Mam? Mayor Zohran Mamdani is a Man of Many Nicknames.",
     "description": "Mayor Zohran Mamdani has been given a bevy of nicknames by New York City’s tabloid newspapers and political class. Which will stick?",
     "link": "https://www.nytimes.com/2026/02/26/business/media/zohran-mamdani-nyc-mayor-new-york-post.html",
     "thumbnail": "",
     "pubDate": "2026-02-26T10:04:32+00:00"
-  },
-  {
-    "title": "The 10 a.m. mystery: Why bitcoin’s daily ‘price slam’ suddenly vanished after a massive lawsuit",
-    "description": "Jane Street is a major authorized participant in spot bitcoin ETFs. That's not a conspiracy. But the mechanics of what APs actually do at market open explain more than most people realize.",
-    "link": "https://www.coindesk.com/markets/2026/02/26/why-crypto-x-thinks-jane-street-crashed-bitcoin-and-what-s-actually-behind-the-10-am-slam",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/56985dd3c86975489de193049979987f113266f0-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-02-26T10:02:12+00:00"
-  },
-  {
-    "title": "Bitcoin ETFs regain momentum with $507M inflows as BTC reclaims $68K",
-    "description": "Fresh inflows lift US Bitcoin ETFs toward a potential first weekly gain after five consecutive weeks of outflows totaling $3.8 billion.",
-    "link": "https://my.cointelegraph.com/news/bitcoin-etf-rise-507-million-inflows-btc-reclaims-68k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "",
-    "pubDate": "2026-02-26T10:00:43+00:00"
-  },
-  {
-    "title": "Reincarnated as a Slime reveals season 4 release date",
-    "description": "TenSura is back with season 4 of the anime premiering this April on Crunchyroll, while the franchise's second movie hits theatres in May.",
-    "link": "https://www.polygon.com/reincarnated-as-a-slime-season-4-release-date/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/0d789ebeaf486af4593de36fe9fddb21.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-02-26T09:31:31+00:00"
   },
   {
     "title": "Racism and staff shortages factors in 'failing' maternity care, report finds",
@@ -483,25 +504,18 @@
     "pubDate": "2026-02-26T06:01:11+00:00"
   },
   {
-    "title": "Bitcoin touches $70,000 before fading as altcoins lead the strongest bounce in weeks",
-    "description": "Ether, solana, and cardano all outpaced bitcoin on the day, suggesting a rotation into higher-beta tokens as forced selling from the February crash begins to clear.",
-    "link": "https://www.coindesk.com/markets/2026/02/26/bitcoin-touches-usd70k-before-fading-as-altcoins-lead-the-strongest-bounce-in-weeks",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/625e962319ce6313fb691ba6193954b6dfcccf67-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-02-26T05:31:19+00:00"
-  },
-  {
-    "title": "Uniswap’s UNI jumps 15% as governance vote to expand fee switch gains momentum",
-    "description": "A governance proposal would activate protocol fees across eight additional chains and automate fee collection on all v3 pools, potentially adding an estimated $27 Million in annualized revenue.",
-    "link": "https://www.coindesk.com/markets/2026/02/26/uniswap-s-uni-jumps-15-as-governance-vote-to-expand-fee-switch-gains-momentum",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b5f8ac95cbc56c893287e8698fc0c53469569c2f-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-02-26T05:23:18+00:00"
-  },
-  {
     "title": "For Trump, Military Strike in Iran Could Serve Symbolic Purpose",
     "description": "Some officials in the Trump administration hope an attack would force Iran to give up its nuclear enrichment program. Others have doubts.",
     "link": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html",
     "thumbnail": "",
     "pubDate": "2026-02-26T05:01:09+00:00"
+  },
+  {
+    "title": "Epstein Files Are Missing Records About Woman Who Made Claim Against Trump",
+    "description": "Documents released by the Justice Department briefly mention a woman’s unverified accusation that Donald J. Trump assaulted her in the 1980s, when she was a minor. But several memos related to her account are not in the files.",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html",
+    "thumbnail": "",
+    "pubDate": "2026-02-26T03:04:33+00:00"
   },
   {
     "title": "Patel Fires F.B.I. Personnel Tied to Inquiry Into Trump and Classified Records",
@@ -539,13 +553,6 @@
     "pubDate": "2026-02-25T22:14:00+00:00"
   },
   {
-    "title": "Retro Marvel collection announced with X-Men arcade game",
-    "description": "Marvel MaXimum Collection includes Konami's X-Men arcade game plus NES, SNES, and Genesis Marvel video game classics.",
-    "link": "https://www.polygon.com/marvel-maximum-collection-retro-games-x-men-spider-man-avengers/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/12.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-02-25T21:51:21+00:00"
-  },
-  {
     "title": "New Lara Croft Actor Discusses Her Take On The Character: \"No Laras Left Behind\"",
     "description": "Alix Wilton-Regan, the new Lara Croft actor for the upcoming Tomb Raider: Catalyst, has discussed how her version of the character may differ from previous incarnations. Speaking on the Press X to Continue podcast, Wilton Regan said she is taking the \"no Laras left behind\" approach, which means she aims to adopt and embrace what came before, but also make her own stamp. \"I've looked at all of the performances. Obviously, I've got all the scripts, so I know where it's going, and, you know, I think all of the Laras that have previously come before will also be informing as we move into a new era of Tomb Raider, I would say,\" she explained, as reported by Eurogamer. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/new-lara-croft-actor-discusses-her-take-on-the-character-no-laras-left-behind/1100-6538434/?ftag=CAD-01-10abi2f",
@@ -558,13 +565,6 @@
     "link": "https://www.gamespot.com/articles/cod-black-ops-7-and-warzone-patch-notes-reveal-nerf-for-op-gun-in-br/1100-6538432/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-02-25T19:35:00+00:00"
-  },
-  {
-    "title": "Skate Studio Lays Off Staff As Game Enters \"Next Chapter\"",
-    "description": "Full Circle, the studio behind EA's new Skate game, has dismissed an unspecified number of employees. In a website post about the \"next chapter\" of the free-to-play early access title, the studio said that it is \"transforming\" as the game evolves. \"These shifts mean making changes to our team structure, and some roles will be impacted,\" Full Circle's post reads. \"The teammates affected are talented colleagues and friends who helped build the foundation of Skate. Their creativity and dedication are deeply ingrained in what players experience today. This decision is not a reflection of their impact, and we’re committed to supporting them through this transition.\" An important update from Full Circle: https://t.co/BO7FfXGvF2 pic.twitter.com/sqzMvQ5ljT — skate. (@skate) February 25, 2026 The studio also thanked players for their \"passion and trust.\" The layoffs come five days after Full Circle unveiled plans for Season 3 of Skate, which begins on March 10. Included in the season update is the Isle of Grom, but Full Circle attracted complaints by locking unlimited access to the map for premium pass subscribers. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/skate-studio-lays-off-staff-as-game-enters-next-chapter/1100-6538430/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-02-25T19:23:00+00:00"
   },
   {
     "title": "Zohran Mamdani Promised City-Owned Groceries. Atlanta Already Has One",
