@@ -1,10 +1,59 @@
 [
   {
+    "title": "Asia airline stocks drop while energy shares rise as Iran conflict escalates",
+    "description": "Oil futures on Monday jumped by over 8%, with West Texas Intermediate futures and Brent trading at $72.52 and $79.04 per barrel respectively.",
+    "link": "https://www.cnbc.com/2026/03/02/asia-markets-live-trump-iran-oil-prices-nikkei-hang-seng-us-israel-strikes-oil.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271720-1772417690779-gettyimages-2263695933-AFP_99FL7XT.jpeg?v=1772417721&w=1920&h=1080",
+    "pubDate": "2026-03-02T08:22:53+00:00"
+  },
+  {
+    "title": "South Korea orders cross-agency probe after repeated crypto custody failures",
+    "description": "Deputy Prime Minister Koo Yun-cheol ordered an inter-agency review of seized crypto wallets after the National Tax Service exposed a seed phrase in a press release.",
+    "link": "https://cointelegraph.com/news/outh-korea-cross-agency-probe-tax-office-crypto-wallet-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FkN2EtMzRiZS03N2UwLWFlNzYtYjk5YzBkMDA3OGExLmpwZw==.jpg",
+    "pubDate": "2026-03-02T08:16:55+00:00"
+  },
+  {
     "title": "Global markets after Iran strikes: oil surges, airlines sink, bonds defy safe-haven playbook",
     "description": "Asian markets started the day lower across the board, with major markets in the region in negative territory.",
     "link": "https://www.cnbc.com/2026/03/02/global-markets-after-iran-strikes-oil-surges-airlines-sink-bonds-defy-safe-haven-playbook.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271021-1772206587449-gettyimages-2263882829-mms29191_dl8etm5t.jpeg?v=1772206777&w=1920&h=1080",
-    "pubDate": "2026-03-02T07:13:26+00:00"
+    "pubDate": "2026-03-02T08:11:33+00:00"
+  },
+  {
+    "title": "European stocks fall sharply markets react to U.S., Israeli strikes on Iran",
+    "description": "European stocks started the new trading week firmly in negative territory.",
+    "link": "https://www.cnbc.com/2026/03/02/european-markets-stoxx-600-ftse-dax-cac-iran-strikes-reaction.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271693-1772410193662-gettyimages-2263758948-MEI-IRN-Mw-EXITM-20260301-05.jpeg?v=1772410266&w=1920&h=1080",
+    "pubDate": "2026-03-02T08:06:06+00:00"
+  },
+  {
+    "title": "How Iran chooses its supreme leader, and who could be next?",
+    "description": "Ayatollah Khamenei's death following the joint U.S.-Israeli airstrikes has compelled country's leadership to confront the task of selecting a new supreme leader.",
+    "link": "https://www.cnbc.com/2026/03/02/iran-ayatollah-trump-supreme-leader.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271502-17723306492026-03-01t013839z_1379228168_rc20xaa0mm7m_rtrmadp_0_iran-crisis-khamenei.jpeg?v=1772330692&w=1920&h=1080",
+    "pubDate": "2026-03-02T07:52:05+00:00"
+  },
+  {
+    "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
+    "description": "The prime minister says it remains the case that the UK will \"not join offensive action now\".",
+    "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efed/live/a8d9b170-15bc-11f1-801d-ed3cff6bf876.jpg",
+    "pubDate": "2026-03-02T07:22:48+00:00"
+  },
+  {
+    "title": "Bitcoin slips below $66,000, U.S. stock futures bleed as Iran hits Saudi oil refinery",
+    "description": "Iran has reportedly stepped up attacks against U.S. assets in the middle east.",
+    "link": "https://www.coindesk.com/markets/2026/03/02/bitcoin-u-s-stock-futures-give-up-early-gains-as-iran-conflict-intensifies",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3417765811c38a57181abae66a079871b878e500-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-02T07:12:10+00:00"
+  },
+  {
+    "title": "Oil prices rise after ships attacked near Strait of Hormuz",
+    "description": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ba/live/514ebed0-1578-11f1-9120-a910fc22c6ac.jpg",
+    "pubDate": "2026-03-02T06:53:43+00:00"
   },
   {
     "title": "Sir John Curtice: Which issues will decide the elections in Scotland and Wales?",
@@ -19,13 +68,6 @@
     "link": "https://cointelegraph.com/news/bitcoin-tailwinds-ai-prompts-easier-monetary-policy-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FjZWYtZmUzNy03YTY2LWI1NWQtOWZjYWE3NDVlZjQyLmpwZw==.jpg",
     "pubDate": "2026-03-02T06:22:00+00:00"
-  },
-  {
-    "title": "European stocks set to slump as markets react to U.S., Israeli strikes on Iran",
-    "description": "European stocks are expected to start the new trading week firmly in negative territory.",
-    "link": "https://www.cnbc.com/2026/03/02/european-markets-stoxx-600-ftse-dax-cac-iran-strikes-reaction.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271693-1772410193662-gettyimages-2263758948-MEI-IRN-Mw-EXITM-20260301-05.jpeg?v=1772410266&w=1920&h=1080",
-    "pubDate": "2026-03-02T06:08:12+00:00"
   },
   {
     "title": "Oil Prices Jump After Iran Attack",
@@ -105,13 +147,6 @@
     "pubDate": "2026-03-02T04:20:57+00:00"
   },
   {
-    "title": "Asia airline stocks drop while energy shares rise as Iran conflict escalates",
-    "description": "Oil futures on Monday jumped by over 8%, with West Texas Intermediate futures and Brent trading at $72.52 and $79.04 per barrel respectively.",
-    "link": "https://www.cnbc.com/2026/03/02/asia-markets-live-trump-iran-oil-prices-nikkei-hang-seng-us-israel-strikes-oil.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271720-1772417690779-gettyimages-2263695933-AFP_99FL7XT.jpeg?v=1772417721&w=1920&h=1080",
-    "pubDate": "2026-03-02T04:19:35+00:00"
-  },
-  {
     "title": "AI ‘vibe coding’ could put Ethereum roadmap ahead of schedule: Vitalik Buterin",
     "description": "Vitalik Buterin says AI coding still has “massive caveats,” but people should expect Ethereum’s roadmap to be finished much faster than expected.",
     "link": "https://cointelegraph.com/news/vitalik-says-vibe-coding-accelerate-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -145,13 +180,6 @@
     "link": "https://www.cnbc.com/2026/03/02/global-week-ahead-operation-epic-fury-us-israel-iran-strikes-oil-shipping-markets-volatility.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271556-1772370288350-gettyimages-2263665910-AA_01032026_2676384.jpeg?v=1772370330&w=1920&h=1080",
     "pubDate": "2026-03-02T02:25:23+00:00"
-  },
-  {
-    "title": "Oil prices rise after ships attacked near Strait of Hormuz",
-    "description": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
-    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ba/live/514ebed0-1578-11f1-9120-a910fc22c6ac.jpg",
-    "pubDate": "2026-03-02T02:12:41+00:00"
   },
   {
     "title": "Trump Says Iran War Could Last Weeks and Gives Competing Visions of New Regime",
@@ -192,7 +220,7 @@
     "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
     "description": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.",
     "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d76/live/bdafc400-15b6-11f1-801d-ed3cff6bf876.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf5/live/91d0c540-1602-11f1-801d-ed3cff6bf876.jpg",
     "pubDate": "2026-03-01T23:17:32+00:00"
   },
   {
@@ -201,13 +229,6 @@
     "link": "https://www.polygon.com/resident-evil-requiems-endings-explained/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/resident-evil-requiem-racoon-city.png?w=1600&h=900&fit=crop",
     "pubDate": "2026-03-01T23:00:17+00:00"
-  },
-  {
-    "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
-    "description": "The prime minister says it remains the case that the UK will \"not join offensive action now\".",
-    "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efed/live/a8d9b170-15bc-11f1-801d-ed3cff6bf876.jpg",
-    "pubDate": "2026-03-01T22:56:45+00:00"
   },
   {
     "title": "How the Assault on Iran Unfolded",
@@ -266,25 +287,11 @@
     "pubDate": "2026-03-01T18:05:06+00:00"
   },
   {
-    "title": "What travelers need to know after the U.S., Israeli strikes on Iran",
-    "description": "What travelers need to know after the strikes in the Middle East.",
-    "link": "https://www.cnbc.com/2026/03/01/travel-iran-attack-middle-east-flights.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271565-1772371407521-gettyimages-2263689192-AFP_99FE9WE.jpeg?v=1772371520&w=1920&h=1080",
-    "pubDate": "2026-03-01T17:28:35+00:00"
-  },
-  {
     "title": "Bitcoin losing trillions in value hasn't stopped traditional giants' interest in digital assets sector",
     "description": "At the iConnections conference in Miami this week, allocators signaled digital assets are now a core sleeve in alternatives.",
     "link": "https://www.coindesk.com/business/2026/03/01/bitcoin-losing-trillions-in-value-hasn-t-stopped-traditional-giants-interest-in-digital-assets-sector",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/849453b851efbdec91ba5dc3f157888ec97a3a1f-3000x2001.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-01T17:07:02+00:00"
-  },
-  {
-    "title": "Strategy boosts monthly STRC preferred dividend to 11.5% for March 2026",
-    "description": "The 25-basis-point increase is the latest monthly adjustment of STRC’s dividend and comes amid a sharp downturn in crypto markets and broader macroeconomic uncertainty.",
-    "link": "https://cointelegraph.com/news/strategy-raises-strc-dividend-11-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FhMTYtNGE5Ni03ZjZkLTgwMmUtMGY1MzQ3ZmQ2MTlmLmpwZw==.jpg",
-    "pubDate": "2026-03-01T17:06:53+00:00"
   },
   {
     "title": "Magic's wildest TMNT deep cut references the 1996 anime Mutant Turtles: Superman Legend",
@@ -427,11 +434,18 @@
     "pubDate": "2026-03-01T07:25:47+00:00"
   },
   {
-    "title": "Polymarket attracts record trading 'world' volumes as U.S.-Iran bets top $529 million",
-    "description": "A prediction market about military strikes on a sovereign nation now sits alongside presidential election bets as one of the most-traded contracts the platform has ever hosted.",
-    "link": "https://www.coindesk.com/markets/2026/03/01/polymarket-attracts-record-trading-world-volumes-as-u-s-iran-bets-top-usd529-million",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/918e54d3ee9ea115f9d87bb9293ee5da3ffc393a-1920x1080.jpg?auto=format",
-    "pubDate": "2026-03-01T04:19:51+00:00"
+    "title": "Jim Cramer Believes “Palantir Is a Very Long-Term Hold”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-believes-palantir-very-000407305.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/yOZMKK_HUPFXyT7LvGumkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
+    "pubDate": "2026-03-01T00:04:07+00:00"
+  },
+  {
+    "title": "Jim Cramer on GE Aerospace: “I Think That It’s Just a Long-Term Buy”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jim-cramer-ge-aerospace-think-000405404.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/_alTJz2_M_71ZTQTCSjwAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/e7ce02738b547dc513a8196cdef40274",
+    "pubDate": "2026-03-01T00:04:05+00:00"
   },
   {
     "title": "'Bigger ramifications than Venezuela': Markets brace for impact after U.S. strikes Iran",
@@ -448,6 +462,55 @@
     "pubDate": "2026-02-28T23:00:17+00:00"
   },
   {
+    "title": "How to apply for a personal loan in 7 steps",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/personal-loan-8-steps-214509983.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/B_8citZMi00AQGGqFz7ZJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/4c27bd1743c31b206b3f4fbdef658e35",
+    "pubDate": "2026-02-28T21:54:25+00:00"
+  },
+  {
+    "title": "Guide to first-time homebuyer grants",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/first-time-homebuyer-grants-203214412.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/glKwvSfjESy1jwfMiyxqQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/e5e8f993e8e27c72387f1e63d017f661",
+    "pubDate": "2026-02-28T21:36:40+00:00"
+  },
+  {
+    "title": "Can Interactive Brokers Maintain Its Edge in a Changing Brokerage Industry?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/interactive-brokers-maintain-edge-changing-212500191.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/HIdHsy1aRJ8MgqQOJXr3gQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://media.zenfs.com/en/motleyfool.com/2f27b9f646b172abc4b194afe8210990",
+    "pubDate": "2026-02-28T21:25:00+00:00"
+  },
+  {
+    "title": "Cramer: “Disney Should Buy Norwegian Cruise. There’s a Big Ship Shortage”",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/cramer-disney-buy-norwegian-cruise-212439874.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xbUpIHLq_1qqsKKvhwYpYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/24_7_wall_st__718/054c0278aebb8640c3fca978314e7571",
+    "pubDate": "2026-02-28T21:24:39+00:00"
+  },
+  {
+    "title": "Lionsgate (LION) Soars 9% Ahead of Business Updates",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/lionsgate-lion-soars-9-ahead-210227966.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/57616245c1fe109f04f3c94e58d6f901",
+    "pubDate": "2026-02-28T21:02:27+00:00"
+  },
+  {
+    "title": "Crescent Energy (CRGY) Jumps 7.76% on Swing to Profits",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/crescent-energy-crgy-jumps-7-210220864.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/630592a9562a23422a008c54fef9c619",
+    "pubDate": "2026-02-28T21:02:20+00:00"
+  },
+  {
+    "title": "SM Energy (SM) Jumps 9.5% on Double-Digit Dividend Hike",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/sm-energy-sm-jumps-9-210035461.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/c7a1cba1d8e7123bad85f23a98e0b43d",
+    "pubDate": "2026-02-28T21:00:35+00:00"
+  },
+  {
     "title": "Erasca, Inc. (ERAS): A Bull Case Theory",
     "description": "",
     "link": "https://finance.yahoo.com/news/erasca-inc-eras-bull-case-201522170.html",
@@ -455,74 +518,11 @@
     "pubDate": "2026-02-28T20:15:22+00:00"
   },
   {
-    "title": "Block stock explodes after Jack Dorsey makes a radical bet",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/block-stock-explodes-jack-dorsey-201300073.html",
-    "thumbnail": "https://s.yimg.com/os/en/thestreet_881/fd72be60e7285adb604159b78393b819",
-    "pubDate": "2026-02-28T20:13:00+00:00"
-  },
-  {
     "title": "10 anime to watch if you love Pokémon (that aren't the Pokémon show)",
     "description": "There's a wide variety of Pokémon look-a-likes to choose from.",
     "link": "https://www.polygon.com/anime-like-pokemon-digimon-bakugan-beyblade-zatch-bell-list/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/3sv1op7eemya1-1.png?w=1200&h=675&fit=crop",
     "pubDate": "2026-02-28T20:00:17+00:00"
-  },
-  {
-    "title": "Immunic secures $400M to support late-stage MS trials - ICYMI",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/immunic-secures-400m-support-stage-200007473.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/stsYEBJXwORdvZASEA6hWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTY-/https://media.zenfs.com/en/proactive_us_504/b180c7ef8b8d413b5537b98964ba5221",
-    "pubDate": "2026-02-28T20:00:07+00:00"
-  },
-  {
-    "title": "Huntington Ingalls Industries, Inc. (HII): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/huntington-ingalls-industries-inc-hii-195814368.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/1c2bc4fd02686c79d1ee947057f085fe",
-    "pubDate": "2026-02-28T19:58:14+00:00"
-  },
-  {
-    "title": "LKQ Corporation (LKQ): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/lkq-corporation-lkq-bull-case-195738050.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/24c78c694bdef232d09009ad73cbdb3e",
-    "pubDate": "2026-02-28T19:57:38+00:00"
-  },
-  {
-    "title": "Tyler Technologies, Inc. (TYL): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/tyler-technologies-inc-tyl-bull-195719284.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/c66bb02c82a4fa3637eb1235eadbe341",
-    "pubDate": "2026-02-28T19:57:19+00:00"
-  },
-  {
-    "title": "Dollar Tree, Inc. (DLTR): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/dollar-tree-inc-dltr-bull-195704629.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/4ee5547a402ce7a3ab3ea4eddc8a30d8",
-    "pubDate": "2026-02-28T19:57:04+00:00"
-  },
-  {
-    "title": "Graphic Packaging Holding Company (GPK): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/graphic-packaging-holding-company-gpk-195244312.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/37ac3cc4afcee2754b2b4fc0ac099a25",
-    "pubDate": "2026-02-28T19:52:44+00:00"
-  },
-  {
-    "title": "Warrior Met Coal, Inc. (HCC): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/warrior-met-coal-inc-hcc-195223744.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/ab68336b5fe0f15881b710a916494b16",
-    "pubDate": "2026-02-28T19:52:23+00:00"
-  },
-  {
-    "title": "Klaviyo, Inc. (KVYO): A Bull Case Theory",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/klaviyo-inc-kvyo-bull-case-195209602.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/a1994c92f65bb63e80033e9ff9e53647",
-    "pubDate": "2026-02-28T19:52:09+00:00"
   },
   {
     "title": "Get Resident Evil 7 &amp; 8, Monter Hunter World, And More In New PC Game Bundle",
