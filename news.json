@@ -1,10 +1,87 @@
 [
   {
-    "title": "Parents of nursery abuse victims to meet minister",
-    "description": "Parents of Vincent Chan's victims will meet the education secretary to press her on safeguarding.",
-    "link": "https://www.bbc.com/news/articles/cvg35lxp32no?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c3d/live/8532cda0-162b-11f1-9120-a910fc22c6ac.jpg",
-    "pubDate": "2026-03-03T02:04:07+00:00"
+    "title": "‘Pray We Make It Through the Night’: Iran’s Capital Under Siege",
+    "description": "Many residents of Tehran managed to get out of town when the U.S. and Israel attack began, but others who could not described living under bombardment.",
+    "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T04:42:01+00:00"
+  },
+  {
+    "title": "In Republican Win, Supreme Court Retains G.O.P. District in New York",
+    "description": "In an emergency ruling, the justices preserved the district of a Republican congresswoman, despite a lower-court ruling that it illegally diluted the power of minority voters.",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-malliotakis-new-york.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T04:30:00+00:00"
+  },
+  {
+    "title": "Nasdaq files for prediction market-style options on Nasdaq-100",
+    "description": "The offering could enable traders to bet on the stock performance of Nasdaq-100 companies such as Nvidia, Apple, Google and Tesla.",
+    "link": "https://cointelegraph.com/news/nasdaq-files-prediction-market-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb148-c2ce-7fad-a5b4-69ef9dcc3964.jpg",
+    "pubDate": "2026-03-03T04:21:44+00:00"
+  },
+  {
+    "title": "OpenZeppelin finds data contamination in OpenAI’s EVMbench",
+    "description": "Security auditor OpenZepplin found that EVMbench’s dataset contains training data leaks and at least four invalid high-severity vulnerability classifications.",
+    "link": "https://cointelegraph.com/news/openzeppelin-audits-openai-evmbench-finds-data-contamination?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb10a-e32c-778c-9b7b-d5ef860e4a00.jpg",
+    "pubDate": "2026-03-03T04:18:22+00:00"
+  },
+  {
+    "title": "Senate housing bill amendment proposes to block US CBDC until 2030",
+    "description": "The proposed prohibition was slipped into a Senate housing bill, reviving language used in previous standalone bills to block a Fed-issued US digital dollar.",
+    "link": "https://cointelegraph.com/news/fed-blocked-issuing-cbdc-until-2030-proposed-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb158-e595-7db6-8d96-ea891097e86e.jpg",
+    "pubDate": "2026-03-03T04:13:09+00:00"
+  },
+  {
+    "title": "OpenAI's Altman admits defense deal was 'opportunistic and sloppy' amid backlash",
+    "description": "Sam Altman says that OpenAI \"shouldn't have rushed\" its deal with the Defense Department and was making \"some additions.\"",
+    "link": "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108267428-17715195742026-02-19t075251z_840998235_rc2vojaaaikb_rtrmadp_0_india-ai.jpeg?v=1771519587&w=1920&h=1080",
+    "pubDate": "2026-03-03T04:12:59+00:00"
+  },
+  {
+    "title": "South Korea defense stocks soar with heavyweight Hanwha Aerospace surging 25% as traders react to Iran war",
+    "description": "The sector's gains were a sharp contrast to the wider Kospi, which was down 4% and is currently leading Asian losses.",
+    "link": "https://www.cnbc.com/2026/03/03/south-korea-defense-stocks-soar-hanwha-aerospace-iran-us-israel-war.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108272450-1772497381508-gettyimages-2241163024-jung-seoulade251017_npJQO.jpeg?v=1772497391&w=1920&h=1080",
+    "pubDate": "2026-03-03T04:02:43+00:00"
+  },
+  {
+    "title": "I can understand why women don't trust the police, says Met chief on Sarah Everard anniversary",
+    "description": "On the five-year anniversary of Everard's murder, Sir Mark Rowley insists rebuilding trust in the force will take time.",
+    "link": "https://www.bbc.com/news/articles/cdr2exyvyxpo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6a/live/8fe5fde0-1652-11f1-aa04-cda24f48bb3d.jpg",
+    "pubDate": "2026-03-03T04:01:26+00:00"
+  },
+  {
+    "title": "OpenAI Amends A.I. Deal With the Pentagon",
+    "description": "The new pact includes additional protections to prevent the use of the company’s technology for mass surveillance of Americans.",
+    "link": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T03:57:04+00:00"
+  },
+  {
+    "title": "Uniswap beats class action alleging it assisted crypto ‘rug pulls’",
+    "description": "A federal judge said Uniswap isn’t responsible for scam tokens traded on the crypto platform, a decision that its founder Hayden Adams said was a “sensible outcome.”",
+    "link": "https://cointelegraph.com/news/uniswap-beats-class-action-alleging-helped-crypto-rug-pulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b63bb-bfc8-7e0f-b75b-0f4e137794f9.jpg",
+    "pubDate": "2026-03-03T03:47:15+00:00"
+  },
+  {
+    "title": "South Korea's Kospi leads losses in Asia stocks as Iran conflict sours sentiment; oil prices rise",
+    "description": "Oil prices continue to rise Iran's Revolutionary Guard says it has closed the Strait of Hormuz",
+    "link": "https://www.cnbc.com/2026/03/03/asia-markets-live-iran-oil-trump-nikkei-kospi-hang-seng.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108272433-1772494223229-gettyimages-2263929324-AFP_99NF8GU.jpeg?v=1772494420&w=1920&h=1080",
+    "pubDate": "2026-03-03T03:43:51+00:00"
+  },
+  {
+    "title": "U.S. Sends More Troops to the Mideast as Iran War Expands",
+    "description": "Gen. Dan Caine, the chairman of the Joint Chiefs of Staff, acknowledged the possibility of an extended campaign, as the military announced that six U.S. service members had been killed so far.",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-administration-troops-iran-war.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T02:40:53+00:00"
   },
   {
     "title": "Amazon says drone strikes damaged 3 facilities in UAE and Bahrain",
@@ -14,13 +91,6 @@
     "pubDate": "2026-03-03T02:04:02+00:00"
   },
   {
-    "title": "Asia-Pacific markets mostly down as Iran conflict rages on; oil prices rise",
-    "description": "Oil prices continue to rise Iran's Revolutionary Guard says it has closed the Strait of Hormuz",
-    "link": "https://www.cnbc.com/2026/03/03/asia-markets-live-iran-oil-trump-nikkei-kospi-hang-seng.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108272433-1772494223229-gettyimages-2263929324-AFP_99NF8GU.jpeg?v=1772494420&w=1920&h=1080",
-    "pubDate": "2026-03-03T01:56:54+00:00"
-  },
-  {
     "title": "Texas Senate Candidates Make Final Arguments Before Primary Elections",
     "description": "The Republicans John Cornyn and Ken Paxton — and the Democrats Jasmine Crockett and James Talarico — are battling in bitter and expensive races.",
     "link": "https://www.nytimes.com/2026/03/02/us/elections/texas-primary-senate-midterms-argument.html",
@@ -28,11 +98,18 @@
     "pubDate": "2026-03-03T01:49:37+00:00"
   },
   {
-    "title": "In Republican Win, Supreme Court Retains G.O.P. District in New York",
-    "description": "In an emergency ruling, the justices preserved the district of a Republican congresswoman, despite a lower-court ruling that it illegally diluted the power of minority voters.",
-    "link": "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-malliotakis-new-york.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-03T01:45:25+00:00"
+    "title": "Texas Trump supporters react to US strikes on Iran",
+    "description": "As voters in the state prepare to vote in Tuesday's primary elections, we asked what they make of the events unfolding in the Middle East.",
+    "link": "https://www.bbc.com/news/videos/c3wlzn25yj9o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/912e/live/b342a520-169a-11f1-9120-a910fc22c6ac.jpg",
+    "pubDate": "2026-03-03T01:35:56+00:00"
+  },
+  {
+    "title": "Melania Trump chairs UN Security Council meeting on children in conflict amid Iran strikes",
+    "description": "It is the first time the spouse of any world leader has presided over a UN Security Council meeting.",
+    "link": "https://www.bbc.com/news/articles/cg5ng0l35q7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b286/live/1abf4d10-169c-11f1-b048-c9424b2cf5fd.jpg",
+    "pubDate": "2026-03-03T01:35:56+00:00"
   },
   {
     "title": "Can These Democrats Make Combative Centrism Happen for 2028 Election?",
@@ -56,11 +133,11 @@
     "pubDate": "2026-03-03T01:32:15+00:00"
   },
   {
-    "title": "South Korea defense stocks soar with heavyweight Hanwha Aerospace surging 22% as traders react to Iran war",
-    "description": "The sector's gains were a sharp contrast to the wider Kospi, which was down 2% and is currently leading Asian losses.",
-    "link": "https://www.cnbc.com/2026/03/03/south-korea-defense-stocks-soar-hanwha-aerospace-iran-us-israel-war.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108272450-1772497381508-gettyimages-2241163024-jung-seoulade251017_npJQO.jpeg?v=1772497391&w=1920&h=1080",
-    "pubDate": "2026-03-03T01:28:03+00:00"
+    "title": "Trump Embraces U.S. Military Power After Years of Caution",
+    "description": "The wars in Afghanistan and Iraq offered a stark lesson in the limits of military force. The Iran attacks suggest an era of postwar wariness is over.",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-military-power.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T01:26:00+00:00"
   },
   {
     "title": "Trump Administration Abandons Efforts to Impose Executive Orders on Law Firms",
@@ -73,14 +150,14 @@
     "title": "Pokemon Pokopia Preorders Include A Physical Tote Bag And Bonus In-Game Items",
     "description": "Pokemon Pokopia $70 | Releases March 5, 2026 Preorder at Amazon Preorder at Walmart Preorder at Best Buy Preorder at Nintendo Store Preorder at GameStop Pokemon Pokopia is almost here, but early reviews aren't making the wait any easier. Our own review gave the spin-off an impressive 9/10, noting its cozy Animal Crossing-inspired vibes and fascinating world bursting at the seams with secrets to discover. And if the reviews have finally convinced you to pick it up when it launches on March 5, consider locking in a preorder to earn a few exclusive bonuses. This includes various in-game goodies, as well as a physical collectible from Best Buy. Pokemon Pokopia Preorder Bonuses Preordering any version of Pokemon Pokopia gets you an in-game Ditto rug decoration item. This can be placed in your in-game home to add some Ditto-y charm to your living space. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/pokemon-pokopia-preorder-guide-switch-2/1100-6536691/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4616196-pokopia-switch-2.jpg",
+    "thumbnail": "",
     "pubDate": "2026-03-03T00:53:00+00:00"
   },
   {
     "title": "Top Gun Celebrates Its 40th Anniversary With New Limited Edition 4K Steelbook Blu-ray",
     "description": "Top Gun is marking its 40th anniversary this year, and to celebrate the iconic 1980s action flick, a new 40th Anniversary 4K Steelbook edition Blu-ray is releasing on May 5. The two-disc set comes with a premium Steelbook case featuring art from the movie on both the exterior and interior, along with a selection of special features. You can reserve your copy for $30 from Amazon. Top Gun 40th Anniversary 4K Steelbook Blu-ray $30 | Releases May 5 If you're unfamiliar, Top Gun, originally released in 1986, follows Pete \"Maverick\" Mitchell (Tom Cruise), a young, cocky, but talented Navy pilot, invited to the elite Top Gun Naval Fighter Weapons School, where he must learn to work with the rest of his new wing mates. Top Gun is considered one of the quintessential action movies of the 1980's, with multiple scenes and lines that have become enduring parts of pop culture. This new Steelbook Edition includes 4K UHD and standard Blu-ray versions of the original film. The Blu-ray disc also includes plenty of special features that take you behind the scenes of the movie's production and its 40-year legacy. Top Gun 40th Anniversary Special Features The Legacy of Top Gun featurette On Your Six - Thirty Years of Top Gun featurette Danger Zone 6-Part Making of Documentary Interviews with Tom Cruise Multi-Angle Storyboards Best of the Best: Inside the Real Top Gun featurette Behind-the-Scenes featurette Survival Training featurette Preorder at Amazon If Top Gun isn't quite your bag, there are a handful of other upcoming Steelbook edition 4K Blu-rays to check out, including the upcoming 28 Years Later: The Bone Temple Collector's Edition, which features incredible cover art. There's no release date yet, but you can preorder it from Amazon now for $55. For another classic, Carlito's Way 4K SteelBook is available to preorder on Amazon for $30 (was $35), before it comes out on April 7, and includes a handful of special features and new cover art. Check out a few more Steelbook Edition 4K Blu-rays in the list below. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/top-gun-40th-anniversary-limited-edition-4k-steelbook-blu-ray-buying-guide/1100-6538367/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/original/1865/18658661/4655889-topgun710.png",
+    "thumbnail": "",
     "pubDate": "2026-03-03T00:30:00+00:00"
   },
   {
@@ -112,20 +189,6 @@
     "pubDate": "2026-03-02T23:56:29+00:00"
   },
   {
-    "title": "Watch: The third day of the US-Israeli war with Iran",
-    "description": "A fast-moving day saw the conflict widen in the region, with strikes being traded between opposing sides.",
-    "link": "https://www.bbc.com/news/videos/c23zrpvln04o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d82c/live/6efc9490-168e-11f1-801d-ed3cff6bf876.jpg",
-    "pubDate": "2026-03-02T23:21:16+00:00"
-  },
-  {
-    "title": "Jamie Dimon says Trump’s $5 billion debanking lawsuit ‘has no merit’ but he’s sympathetic to concerns",
-    "description": "The suit against JPMorgan, the world's biggest bank by market cap, and its CEO puts Dimon in an awkward position.",
-    "link": "https://www.cnbc.com/2026/03/02/dimon-trump-debanking-lawsuit-no-merit-concerns.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108255856-1769102645769-107341256-1701350099513-Untitled-2.jpg?v=1772492183&w=1920&h=1080",
-    "pubDate": "2026-03-02T23:01:45+00:00"
-  },
-  {
     "title": "What Is Trump’s Neck Rash? His Doctor Declines to Explain.",
     "description": "President Trump’s physician did not explain what the skin condition was or what medication he was using to treat it.",
     "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html",
@@ -140,25 +203,11 @@
     "pubDate": "2026-03-02T22:45:18+00:00"
   },
   {
-    "title": "They’re Hiring at U.S.A.I.D. Just Not Anyone Who Worked There.",
-    "description": "The Trump administration said in a memo it wanted to “avoid the risk of impaired objectivity” by hiring former staff members to wind down operations at the U.S. Agency for International Development.",
-    "link": "https://www.nytimes.com/2026/03/02/us/politics/usaid-hiring.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-02T22:36:18+00:00"
-  },
-  {
     "title": "PayPay, 40% owner of Binance Japan, seeks up to $1.1 billion in Nasdaq IPO",
     "description": "The Nasdaq-bound payments firm backed by SoftBank targets a valuation above $10 billion.",
     "link": "https://www.coindesk.com/business/2026/03/02/paypay-40-owner-of-binance-japan-seeks-up-to-usd1-1-billion-in-nasdaq-ipo",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2d8e0028fea963585228cd98c2067fdc082737a8-5741x3831.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-02T22:27:39+00:00"
-  },
-  {
-    "title": "As Maduro and Khamenei Learned, It’s Harder Than Ever for Leaders to Hide",
-    "description": "A surge in sensors and cameras, combined with artificial intelligence, has transformed U.S. intelligence’s ability to locate foreign heads of state. Add to that an American president willing to capture or kill them.",
-    "link": "https://www.nytimes.com/2026/03/02/us/politics/maduro-khamenei-trump-surveillance.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-02T22:27:24+00:00"
   },
   {
     "title": "One of UK's richest men wants German citizenship over 'hostility' to Jews",
@@ -180,13 +229,6 @@
     "link": "https://cointelegraph.com/news/bitcoin-futures-demand-falls-to-2024-lows-are-institutions-exiting-the-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb048-3163-7271-aea4-c9496672f484.jpg",
     "pubDate": "2026-03-02T21:52:52+00:00"
-  },
-  {
-    "title": "U.S. Military Death Toll in Iran War Rises to 6",
-    "description": "The number of U.S. service members killed in the first three days of the war grew as officials said the remains of two more troops had been recovered.",
-    "link": "https://www.nytimes.com/2026/03/02/world/middleeast/us-military-death-toll-iran.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-02T21:49:56+00:00"
   },
   {
     "title": "Core Scientific turns lower after Q4 results disappoint",
@@ -245,13 +287,6 @@
     "pubDate": "2026-03-02T21:21:00+00:00"
   },
   {
-    "title": "How Trump Decided to Go to War With Iran",
-    "description": "President Trump’s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president’s advisers voiced opposition.",
-    "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-02T21:04:12+00:00"
-  },
-  {
     "title": "Pokemon Go March 2026 Events: Raid Bosses, Community Day, Pokopia Crossover, And More",
     "description": "A new season has begun in Pokemon Go, and the mobile game is ushering it in with a variety of events. March marks a big month for the Pokemon series as a whole, and Pokemon Go is joining the festivities with a 30th anniversary celebration as well as a Pokopia crossover event. A new month also means new bosses will be appearing in Raids over the next few weeks, and there will be a new Community Day featuring the fire-type Pokemon Scorbunny. The Bug Out is also set to return this month, with a new bug Pokemon from the Galar region slated to make its debut. There are plenty of other in-game activities lined up in March. You can catch up on all the biggest Pokemon Go events happening this month below. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/pokemon-go-events-raid-bosses-spotlight-hours-community-day/1100-6533384/?ftag=CAD-01-10abi2f",
@@ -271,13 +306,6 @@
     "link": "https://www.bonappetit.com/story/best-stand-mixers",
     "thumbnail": "https://assets.bonappetit.com/photos/688bdaf96f7fdbf9d8973b2c/master/pass/7.30_BA_Best-Stand-Mixers-lede.2.jpg",
     "pubDate": "2026-03-02T20:56:54+00:00"
-  },
-  {
-    "title": "Can US lawmakers pass crypto market structure before the midterms?",
-    "description": "While the White House has hosted three meetings to discuss how to address stablecoin yield in the Senate's market structure bill, there are no signs of a solution.",
-    "link": "https://cointelegraph.com/news/united-states-crypto-market-structure-before-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b3205-39d3-74dd-95aa-acea935c0d7a.jpg",
-    "pubDate": "2026-03-02T20:55:08+00:00"
   },
   {
     "title": "All antique coin locations in Resident Evil Requiem",
@@ -357,13 +385,6 @@
     "pubDate": "2026-03-02T19:43:00+00:00"
   },
   {
-    "title": "Bitcoin company Fold pays off $66M debt, frees up BTC collateral",
-    "description": "The Bitcoin financial services company retired $66.3 million in convertible debt, reducing dilution risk as it expands its BTC rewards business.",
-    "link": "https://cointelegraph.com/news/bitcoin-company-fold-pays-off-66m-debt-frees-up-btc-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019caf89-2b7d-7d0e-977f-b000c0c9a976.jpg",
-    "pubDate": "2026-03-02T19:37:35+00:00"
-  },
-  {
     "title": "Bitcoin’s 5% spike higher Monday driven by short-covering, not fresh buying, says analyst",
     "description": "Market data show rising open interest and large liquidation clusters around $65,000 and above $70,000, underscoring that the rally may be fragile without stronger spot demand",
     "link": "https://www.coindesk.com/markets/2026/03/02/bitcoin-s-5-spike-higher-monday-driven-by-short-covering-not-fresh-buying-says-analyst",
@@ -392,13 +413,6 @@
     "pubDate": "2026-03-02T19:30:00+00:00"
   },
   {
-    "title": "Price predictions 3/2: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, BCH, ADA",
-    "description": "Bitcoin’s return to the $70,000 level proves that buyers are absorbing the bulk of selling, but analysts warn that traders should be patient due to market bottoms taking months to form.",
-    "link": "https://cointelegraph.com/news/price-predictions-3-2-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019caf85-4010-700d-8ffb-86ab42ec0cc4.jpg",
-    "pubDate": "2026-03-02T19:00:00+00:00"
-  },
-  {
     "title": "In maps: Strikes across Iran and the Middle East",
     "description": "Iranian strikes on targets across the Middle East and Gulf regions continued on Monday after the US and Israel launched strikes on Iran killing the country's supreme leader.",
     "link": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
@@ -425,20 +439,6 @@
     "link": "https://www.coindesk.com/tech/2026/03/02/vitalik-buterin-unveils-plan-to-curb-ethereum-block-builder-centralization",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4d36b4d555058a50f2056e7f58d881601b0021d4-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-02T18:45:17+00:00"
-  },
-  {
-    "title": "Northern Trust enters tokenized Treasurys fund market with new share class",
-    "description": "The US-based asset manager debuts a blockchain-enabled structure for its liquidity fund as onchain US Treasurys exposure nears $11 billion.",
-    "link": "https://cointelegraph.com/news/northern-trust-enters-tokenized-fund-race-with-blockchain-based-treasury-money-market-share-class?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019caf34-f95b-7169-a96c-e7bb519db09a.jpg",
-    "pubDate": "2026-03-02T18:44:28+00:00"
-  },
-  {
-    "title": "Daily Mail royal editor denies seeking Prince Harry flight details",
-    "description": "Rebecca English denies asking a freelance journalist for flight details, saying the information came from other sources.",
-    "link": "https://www.bbc.com/news/articles/cqxdy01z0r8o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a4d/live/cdba3c20-165d-11f1-9120-a910fc22c6ac.jpg",
-    "pubDate": "2026-03-02T18:06:06+00:00"
   },
   {
     "title": "The Best Nonstick Pans Are Non-Toxic Now (2026)",
@@ -511,74 +511,53 @@
     "pubDate": "2026-03-02T11:00:00+00:00"
   },
   {
-    "title": "Significant Insider Activity at East West Bancorp (EWBC) in February",
+    "title": "Amazon India slashes seller referral fees in retail growth push",
     "description": "",
-    "link": "https://finance.yahoo.com/news/significant-insider-activity-east-west-150518225.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/U7xu7kqSfElcECRo_f1hUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/6696853deb7ced0bce3cd8eabbefc5c0",
-    "pubDate": "2026-03-01T15:05:18+00:00"
+    "link": "https://finance.yahoo.com/news/amazon-india-slashes-seller-referral-203149282.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/ed545dd530706a8e390cf337df75b9fe",
+    "pubDate": "2026-03-01T20:31:49+00:00"
   },
   {
-    "title": "SEI Investments (SEIC) Partners With Pravati Capital on Finance Platform",
+    "title": "Air freight rates expected to spike as Iran war escalates",
     "description": "",
-    "link": "https://finance.yahoo.com/news/sei-investments-seic-partners-pravati-150516721.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/kMCkxlAbwquz7e_.DSG3rQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/eaa949845ae0600d1b8edb2829774862",
-    "pubDate": "2026-03-01T15:05:16+00:00"
+    "link": "https://finance.yahoo.com/news/air-freight-rates-expected-spike-202253281.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/qSOt3Szy3T0P1QF3.KG1_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/535c1cd8885335235a0070bb1362a418",
+    "pubDate": "2026-03-01T20:22:53+00:00"
   },
   {
-    "title": "Wells Fargo Raises Globe Life (GL) Target, Keeps Overweight Rating",
+    "title": "Oil prices rise sharply after attacks in Middle East disrupt global energy supply",
     "description": "",
-    "link": "https://finance.yahoo.com/news/wells-fargo-raises-globe-life-150514746.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/eSn6i8Tzws8ZvBflk1IUBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3a0ca6c618f30c09519126fdeb252352",
-    "pubDate": "2026-03-01T15:05:14+00:00"
+    "link": "https://finance.yahoo.com/news/opec-boosts-oil-production-attacks-195550407.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/s5OxSB2kOTzBKIFxgpdg.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODI-/https://media.zenfs.com/en/ap_finance_articles_694/ce547ee37dc6d5760494edbf5019707d",
+    "pubDate": "2026-03-01T19:55:50+00:00"
   },
   {
-    "title": "Cognizant (CTSH) Partners With Google Cloud to Scale Agentic AI",
+    "title": "Jobs, Geopolitics and Other Key Things to Watch this Week",
     "description": "",
-    "link": "https://finance.yahoo.com/news/cognizant-ctsh-partners-google-cloud-150511541.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Rxz851MxgKucE1SleoPc8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/8de5bf63520ca4f46e1c0f504176ac1a",
-    "pubDate": "2026-03-01T15:05:11+00:00"
+    "link": "https://finance.yahoo.com/news/jobs-geopolitics-other-key-things-180002397.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/IHMpg.SuTkOpJxuUGmKwCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/barchart_com_477/a3f8b7b175c2147da9ed22b631b9dee3",
+    "pubDate": "2026-03-01T18:00:02+00:00"
   },
   {
-    "title": "2 of the Best Prediction Market Stocks to Buy Now",
+    "title": "2 Red-Hot Growth Stocks to Buy in 2026",
     "description": "",
-    "link": "https://finance.yahoo.com/news/2-best-prediction-market-stocks-150500034.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/EWzJJZq7KTDqUl3Kbw_smg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/34a577146cc5e1f8697c382c17f78d99",
-    "pubDate": "2026-03-01T15:05:00+00:00"
+    "link": "https://finance.yahoo.com/news/2-red-hot-growth-stocks-170600967.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ZEgNkjUO9Tab7bxH8aLHWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5433d65112a1b307b070bda4d11d71b8",
+    "pubDate": "2026-03-01T17:06:00+00:00"
   },
   {
-    "title": "KeyBanc Raises Zoom (ZM) Target to $74, Keeps Underweight Rating",
+    "title": "Professional credentials and certifications are booming, but 'many of them are crap'",
     "description": "",
-    "link": "https://finance.yahoo.com/news/keybanc-raises-zoom-zm-target-150449980.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/lkNWYn7LKEL5rWyKhDoKFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/88f714e0d82d5882b482a369ccff488b",
-    "pubDate": "2026-03-01T15:04:49+00:00"
+    "link": "https://finance.yahoo.com/news/professional-credentials-and-certifications-are-booming-but-many-of-them-are-crap-170138114.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/FAKFrWZoMdLxBLmc_Av9TQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTM-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/111fd340-c743-11f0-bf4f-6c746103d264",
+    "pubDate": "2026-03-01T17:01:38+00:00"
   },
   {
-    "title": "Significant Insider Activity at The Travelers (TRV)",
+    "title": "Stocks face Iran jitters and a crucial jobs report in the week ahead",
     "description": "",
-    "link": "https://finance.yahoo.com/news/significant-insider-activity-travelers-trv-150448112.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/4GYK.xQX1wzMRHLfW4Hfqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/8fb48c2b7c10399cbde85ad4dd7ed615",
-    "pubDate": "2026-03-01T15:04:48+00:00"
-  },
-  {
-    "title": "Wells Fargo Maintains Hold on Hewlett Packard Enterprise (HPE)",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/wells-fargo-maintains-hold-hewlett-150435634.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/sVyazSvp3B5IhVAUHcN5Ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/d484a78e3ad48902877643aa5f91646a",
-    "pubDate": "2026-03-01T15:04:35+00:00"
-  },
-  {
-    "title": "Veritas Downgrades Suncor Energy (SU) to Sell",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/veritas-downgrades-suncor-energy-su-150430714.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/uIuljQk4igzrFAwIgYJmdg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/b382079aef6d346c025b7516a9cd206b",
-    "pubDate": "2026-03-01T15:04:30+00:00"
-  },
-  {
-    "title": "Stifel Raises Triple Flag Precious Metals (TFPM) Target, Maintains Buy",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/stifel-raises-triple-flag-precious-150427508.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/OR2rL7I.Q6s99TTuT12vww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a8c15fe1c31da574fbd324c2f277901c",
-    "pubDate": "2026-03-01T15:04:27+00:00"
+    "link": "https://finance.yahoo.com/news/stocks-face-iran-jitters-crucial-170000776.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/fTAQffBEn5CRMF69eYNZcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/d9fb1217917e5ccfc1bdf5d36c394be4",
+    "pubDate": "2026-03-01T17:00:00+00:00"
   },
   {
     "title": "41 Passover Desserts to Impress Your Seder Guests",
@@ -600,6 +579,13 @@
     "link": "https://www.bonappetit.com/recipe/gluten-free-no-knead-oat-chia-bread",
     "thumbnail": "https://assets.bonappetit.com/photos/698a49dfafe471c27ef2f9fd/master/pass/gluten-free-chia-seed-bread_RECIPE_V1_020526_4284_VOG_final.jpg",
     "pubDate": "2026-03-01T13:00:00+00:00"
+  },
+  {
+    "title": "February jobs data, Broadcom earnings, and AI fears abound: What to watch this week",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/february-jobs-data-broadcom-earnings-and-ai-fears-abound-what-to-watch-this-week-124739613.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/F1KPK_DjhAO2z1I6O0O5Fw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/c4b69f70-156c-11f1-bbbf-c9dab4fc113a",
+    "pubDate": "2026-03-01T12:47:39+00:00"
   },
   {
     "title": "March BA Bake Club Is a Malty Chocolate Cake",
@@ -628,5 +614,19 @@
     "link": "https://www.bonappetit.com/story/best-high-protein-meal-delivery-services",
     "thumbnail": "https://assets.bonappetit.com/photos/697299e9b247fd6223095b6d/master/pass/01.16_BA_Best%20High%20Protein%20Meal%20Delivery%20Services_v2.jpg",
     "pubDate": "2026-02-27T20:51:34+00:00"
+  },
+  {
+    "title": "Trump proposes new retirement accounts for workers without 401(k)s",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/trump-proposes-new-retirement-accounts-for-workers-without-401ks-173706394.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ivTbCcy3mrEpRAkuQAkaow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/7eadf530-121c-11f1-bdb7-1c0cbd091d41",
+    "pubDate": "2026-02-25T17:37:06+00:00"
+  },
+  {
+    "title": "Jamie Dimon warns markets resemble pre-financial crisis era: 'I see a couple of people doing some dumb things'",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/jamie-dimon-warns-markets-resemble-pre-financial-crisis-era-i-see-a-couple-of-people-doing-some-dumb-things-133719344.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/yfSHjeUnQjtLfpi7Gm6l8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/a0bcdf70-f6c8-11f0-bf77-516e442e5daa",
+    "pubDate": "2026-02-24T13:37:19+00:00"
   }
 ]
