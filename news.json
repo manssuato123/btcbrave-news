@@ -1,5 +1,201 @@
 [
   {
+    "title": "New York Fed's Williams says tariff burden falls 'overwhelmingly' on U.S. businesses and consumers",
+    "description": "Williams said that not only were the tariffs being felt at home, but they also were keeping the Fed from reaching its 2% inflation goal.",
+    "link": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108229868-1763741665578-108229868-1763730430401-gettyimages-2233025951-WILLIAMS_ECNY.jpeg?v=1772548607&w=1920&h=1080",
+    "pubDate": "2026-03-03T16:53:43+00:00"
+  },
+  {
+    "title": "FCC chief tells CNBC WBD-Paramount merger deal is ‘cleaner’ than Netflix's, will be approved 'quickly'",
+    "description": "FCC Chairman Brendan Carr told CNBC on Tuesday that Netflix's previous Warner Bros. Discovery offer \"raised a lot of competition concerns.\"",
+    "link": "https://www.cnbc.com/2026/03/03/fcc-chair-brendan-carr-wbd-paramount-merger-deal-netflix.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108252506-1768414016929-gettyimages-2255665640-fcc_house_498_011426.jpeg?v=1768414037&w=1920&h=1080",
+    "pubDate": "2026-03-03T16:53:36+00:00"
+  },
+  {
+    "title": "Mining companies move deeper into AI, HPC as MARA may sell Bitcoin",
+    "description": "In a Monday SEC filing, the US Bitcoin miner said it would consider selling some of the coins on its balance sheet, depending on market conditions.",
+    "link": "https://cointelegraph.com/news/mining-companies-ai-hpc-mara-sell-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I0MjgtOWVkOS03NDQ0LWI4NmYtMGQ1OThmM2NjYWRjLmpwZw==.jpg",
+    "pubDate": "2026-03-03T16:51:06+00:00"
+  },
+  {
+    "title": "Epic Games warns Fortnite players about V-bucks bot scam",
+    "description": "Multiple Fortnite fans are complaining about bots spending their V-bucks on Steal the Brainrot, even though they've never played it",
+    "link": "https://www.polygon.com/fortnite-v-bucks-scam-bots-epic-games/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/chapter-seven-pacific-break-screenshot_006-1.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-03T16:45:56+00:00"
+  },
+  {
+    "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
+    "description": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last.",
+    "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/8b04af30-1718-11f1-befc-09f0999a306b.jpg",
+    "pubDate": "2026-03-03T16:41:06+00:00"
+  },
+  {
+    "title": "How oil, gold, and stock markets reacted in the month after previous global shocks",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/how-oil-gold-and-stock-markets-reacted-in-the-month-after-previous-global-shocks-164000586.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/.XKXnN63eucfZFLJVm63og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/16210c60-1716-11f1-9efb-3903d0969956",
+    "pubDate": "2026-03-03T16:40:00+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Tumbles 1,200 Points On U.S.-Iran Conflict; Cruise Lines Take A Bath (Live Coverage)",
+    "description": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-conflict/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/03/wSMTaction-030326-scaled.jpg",
+    "pubDate": "2026-03-03T16:38:51+00:00"
+  },
+  {
+    "title": "Why Did FedEx Stock Surge 20% in February?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/why-did-fedex-stock-surge-163810487.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/zU4TJ_4FwS8xNRqToEAqfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/eaf1229d6adba2759d8e832312438c80",
+    "pubDate": "2026-03-03T16:38:10+00:00"
+  },
+  {
+    "title": "Bitcoin Miner MARA Says It May Sell BTC Holdings in Strategy Shift",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/bitcoin-miner-mara-says-may-163752738.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/d3VPL.k.hCIDpDU4Q5fjnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/6dfc35bb546d4a03f3ef4ae88a5d0f73",
+    "pubDate": "2026-03-03T16:37:52+00:00"
+  },
+  {
+    "title": "American Bitcoin boosts hashrate with 11,298 new mining machines",
+    "description": "The Eric Trump-led company adds 3 EH/s in new capacity, expanding its Alberta mining fleet as it deepens exposure to BTC amid volatile market conditions.",
+    "link": "https://cointelegraph.com/news/american-bitcoin-adds-3ehs-mining-capacity-expands-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I0NTEtNzhkYS03MGM4LWFlNjUtMmNkZTlkOWRlODFlLmpwZw==.jpg",
+    "pubDate": "2026-03-03T16:36:30+00:00"
+  },
+  {
+    "title": "Trump Administration, in Apparent Reversal, Tries to Continue Fight Against Law Firms",
+    "description": "The administration told a court on Monday that it was abandoning its defense of executive orders targeting the firms. But on Tuesday, the Justice Department appeared to abruptly change its position.",
+    "link": "https://www.nytimes.com/2026/03/03/us/politics/trump-law-firm-orders-reversal.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T16:34:44+00:00"
+  },
+  {
+    "title": "Blackstone’s Gray: Market ‘noise’ fueled record redemptions from world’s largest private credit fund",
+    "description": "Blackstone president Jon Gray defended the quality of loans within the firm's flagship private credit fund.",
+    "link": "https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107316174-16971261142023-10-12t155405z_709091430_rc23r3ae1ohb_rtrmadp_0_axios-bfd.jpeg?v=1697126146&w=1920&h=1080",
+    "pubDate": "2026-03-03T16:33:35+00:00"
+  },
+  {
+    "title": "UK to send Royal Navy warship HMS Dragon to Cyprus",
+    "description": "The prime minister said the \"UK is fully committed to the security of Cyprus and British military personnel based\" on RAF Akrotiri.",
+    "link": "https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ea/live/18e8efe0-171f-11f1-b787-dd8097b9508d.png",
+    "pubDate": "2026-03-03T16:33:17+00:00"
+  },
+  {
+    "title": "DHS Investigates Gregory Bovino’s Remarks About Prosecutor’s Jewish Faith",
+    "description": "Mr. Bovino, who was the face of the Trump administration’s immigration crackdowns in American cities, was reported to have made disparaging comments in reference to the U.S. attorney in Minnesota, who is an Orthodox Jew.",
+    "link": "https://www.nytimes.com/2026/03/03/us/greg-bovino-investigation-dhs.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T16:32:00+00:00"
+  },
+  {
+    "title": "Minishoot' Adventures, the best Zelda-like in years, is out now on Nintendo Switch",
+    "description": "Minishoot' Adventures was one of 2024's best indie gems. Now, the Zelda-like twin-stick shooter is finally out on Nintendo Switch.",
+    "link": "https://www.polygon.com/minishoot-adventures-switch-recommendation/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/minishoot-adventures-machine-boss.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-03T16:30:17+00:00"
+  },
+  {
+    "title": "Anthropic 'made a mistake' in Pentagon talks and should 'correct course,' FCC boss says",
+    "description": "In tense negotiations, Anthropic sought specific restrictions on the use of its AI technology by the Department of Defense, which the agency did not agree to.",
+    "link": "https://www.cnbc.com/2026/03/03/anthropic-pentagon-department-of-defense-ai-fcc-chair.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108236161-1764789657845-gettyimages-2249797221-mms21005_rhghdsci.jpeg?v=1772552492&w=1920&h=1080",
+    "pubDate": "2026-03-03T16:21:48+00:00"
+  },
+  {
+    "title": "I was on an Emirates flight to Dubai that turned around because of Iranian missiles",
+    "description": "CNBC's Emma Graham flew home to the UAE on an Emirates flight that turned around just 30 minutes from Dubai because of a missile threat.",
+    "link": "https://www.cnbc.com/2026/03/03/emirates-flight-dubai-iran-missile-strikes.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108272687-1772545418638-arrivals_hall_empty_.jpeg?v=1772555010&w=1920&h=1080",
+    "pubDate": "2026-03-03T16:21:11+00:00"
+  },
+  {
+    "title": "Pinterest Stock Jumps After Activist Firm Elliott Makes $1 Billion Investment",
+    "description": "",
+    "link": "https://www.investors.com/news/technology/pinterest-stock-pins-elliott-ai-buybacks/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2019/04/stock-pinterest-05-shutter.jpg",
+    "pubDate": "2026-03-03T16:21:05+00:00"
+  },
+  {
+    "title": "One Piece just hit 600 million copies, and Eiichiro Oda celebrated in the wildest way possible",
+    "description": "Eiichiro Oda marks One Piece’s 600 million copies sold by sealing its true secret in a chest and sinking it into the ocean.",
+    "link": "https://www.polygon.com/one-piece-600-million-sold-bottom-ocean-secret-eiichiro-oda/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/onepieceillustrattion-0.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-03T16:18:18+00:00"
+  },
+  {
+    "title": "Pokémon Winds and Waves gives Nurse Joy a new look",
+    "description": "The Winds and Waves nurse clerk has the opportunity to shake things up for the series based on what we see in Pokémon spin-offs and anime",
+    "link": "https://www.polygon.com/pokemon-winds-waves-nurse-joy-center-healing-design-look-trailer/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/nurse_joy_jn.png?w=1200&h=675&fit=crop",
+    "pubDate": "2026-03-03T16:05:01+00:00"
+  },
+  {
+    "title": "Bitcoin attempting to make a stand as global stock markets melt down on Iran war",
+    "description": "Having already plunged in the months leading up to the Middle East conflict, crypto markets so far aren't making new lows this week.",
+    "link": "https://www.coindesk.com/markets/2026/03/03/bitcoin-attempting-to-make-a-stand-as-global-stock-markets-melt-down-on-iran-war",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f4abc03e3b22e6867a5d7ef4ca855e84f39bc71c-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-03T16:04:53+00:00"
+  },
+  {
+    "title": "The Legend of Vox Machina season 4 release date revealed",
+    "description": "The Legend of Vox Machina season 4 premieres this summer, reuniting the legendary adventuring party as they take on a new evil foe.",
+    "link": "https://www.polygon.com/the-legend-of-vox-machina-season-4-release-date/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/the-legend-of-vox-machina-s4.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-03T16:00:16+00:00"
+  },
+  {
+    "title": "Klaus Janson's stunning Daredevil art is about to hang in an art gallery for good reason",
+    "description": "Klaus Janson's work as a penciler, inker, and storyteller is being celebrated at the Philippe Labaune Gallery in New York City.",
+    "link": "https://www.polygon.com/klaus-janson-marvel-daredevil-art-philippe-labaune-gallery/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/16x9-cropped-daredevil-end-of-days-3-p-20.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-03T16:00:16+00:00"
+  },
+  {
+    "title": "Reimagining the U.S. Grid: Why VPPs Could Be the Bridge to a More Reliable Future",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/reimagining-u-grid-why-vpps-155636564.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/1UruM0NK3_rHQKXeRCV0NA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/power_magazine_984/aeee14fee5815e63e7b9e46cc330d277",
+    "pubDate": "2026-03-03T15:56:36+00:00"
+  },
+  {
+    "title": "Viral Punch The Monkey Story Becomes A Video Game",
+    "description": "If you visited the internet in the past two weeks, you probably know about Punch the monkey, the adorable little guy who was abandoned by his mother and shoved by his zoomates, turning to a stuffed animal from IKEA for love and attention. He later found friends in his enclosure at the Ichikawa City Zoo, but the story isn't over yet. A video game based on Punch the monkey has now arrived. Zoo Fighter, as it's called, is a free web game made by former Fortnite developer Marcus Brown, who developed the game under the name Richie Branson. In the game, you play as Punch and tap the screen on mobile, or click your mouse on desktop, to swat away bullies. Knock out 100 and Punch gets to go to a sanctuary, instead of a zoo. And that's the point of the video game. \"This game is a love letter to all animals doing a bid at the zoo. Animal sanctuaries are often better for primates than zoos because they put the animals' well-being first instead of public display,\" reads a line from the game's description. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/viral-punch-the-monkey-story-becomes-a-video-game/1100-6538524/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T15:56:00+00:00"
+  },
+  {
+    "title": "Rapper Ghetts jailed for 12 years for killing student in hit-and-run",
+    "description": "The grime artist failed to stop after his BMW hit Nepali student Yubin Tamang, 20, in Ilford.",
+    "link": "https://www.bbc.com/news/articles/cvgjn1rpwn7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d5/live/7e2f3730-171d-11f1-9120-a910fc22c6ac.jpg",
+    "pubDate": "2026-03-03T15:53:19+00:00"
+  },
+  {
+    "title": "Minnesota Sues The Trump Administration Over Medicaid Amid Fraud Scandal",
+    "description": "The Trump administration cited widespread fraud in state social service programs. Minnesota officials said they were victims of “political punishment.”",
+    "link": "https://www.nytimes.com/2026/03/03/us/minnesota-medicaid-trump-lawsuit-fraud.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-03T15:52:13+00:00"
+  },
+  {
+    "title": "Gas prices jump over 10 cents in a day, set to rise 'very quickly' as oil surges amid Iran war",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/gas-prices-jump-over-10-cents-in-a-day-set-to-rise-very-quickly-as-oil-surges-amid-iran-war-174948319.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/_1YiE6mwx56hO3KfVDWyog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/1c637ba0-0ce2-11f1-bbee-01f99ddb3b3c",
+    "pubDate": "2026-03-03T15:47:58+00:00"
+  },
+  {
     "title": "'Mistakes were made,' Grassley tells Noem about Trump's immigration crackdown",
     "description": "DHS Secretary Kristi Noem is testifying before the Senate Judiciary Committee after coming under fire for her leadership during a nationwide immigration sweep.",
     "link": "https://www.cnbc.com/2026/03/03/dhs-noem-immigration-minneapolis-senate-judiciary-hearing.html",
@@ -7,18 +203,32 @@
     "pubDate": "2026-03-03T15:43:34+00:00"
   },
   {
-    "title": "Gas prices jump over 10 cents in a day, set to rise 'very quickly' as oil surges amid Iran war",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/gas-prices-jump-over-10-cents-in-a-day-set-to-rise-very-quickly-as-oil-surges-amid-iran-war-174948319.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/_1YiE6mwx56hO3KfVDWyog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/1c637ba0-0ce2-11f1-bbee-01f99ddb3b3c",
-    "pubDate": "2026-03-03T15:42:54+00:00"
+    "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
+    "description": "Its attack on Israel in support of Iran has led to fresh mass displacements and Israeli bombing, to the fury of many Lebanese.",
+    "link": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de46/live/08ad24c0-170b-11f1-801d-ed3cff6bf876.jpg",
+    "pubDate": "2026-03-03T15:42:28+00:00"
   },
   {
     "title": "Bitcoin dives 3% on global asset rout as $5K gold 'smashed' on oil fears",
     "description": "Bitcoin bulls gave up their latest mission to reclaim $70,000 as Iran escalation sparked oil supply fears that gripped stocks and gold.",
     "link": "https://cointelegraph.com/news/bitcoin-dives-3-percent-asset-rout-5k-gold-smashed-oil-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b2aa0-9217-7b00-8abd-78a0df71cf35.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhYTAtOTIxNy03YjAwLThhYmQtNzhhMGRmNzFjZjM1LmpwZw==.jpg",
     "pubDate": "2026-03-03T15:42:06+00:00"
+  },
+  {
+    "title": "End of bitcoin 'HODL': public miners going all-in on AI, signaling more BTC selling",
+    "description": "Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin treasuries to AI infrastructure.",
+    "link": "https://www.coindesk.com/markets/2026/03/03/end-of-bitcoin-hodl-public-miners-going-all-in-on-ai-signaling-more-btc-selling",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a0a32137f6d592b05ea1a9c1ccbe3300cc572952-1240x812.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-03T15:41:40+00:00"
+  },
+  {
+    "title": "The 15-minute call where hundreds of 'devastated' Brewdog staff were laid off",
+    "description": "The independent brewer and pub chain has been bought by US beverage and cannabis firm Tilray in a £33m deal.",
+    "link": "https://www.bbc.com/news/articles/cd70zjvwjpdo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb5a/live/c4324ac0-170d-11f1-b048-c9424b2cf5fd.jpg",
+    "pubDate": "2026-03-03T15:41:29+00:00"
   },
   {
     "title": "CFTC chief Selig to clear path for U.S. perpetual futures in coming weeks",
@@ -28,32 +238,11 @@
     "pubDate": "2026-03-03T15:38:17+00:00"
   },
   {
-    "title": "Marex Group (MRX) Q4 2025 Earnings Call Transcript",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/marex-group-mrx-q4-2025-153737092.html",
-    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-    "pubDate": "2026-03-03T15:37:37+00:00"
-  },
-  {
-    "title": "JPMorgan revamps Nvidia stock price target for rest of 2026",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/jpmorgan-revamps-nvidia-stock-price-153700952.html",
-    "thumbnail": "https://s.yimg.com/os/en/thestreet_881/9d482b2438c93276d1911ecaa367434e",
-    "pubDate": "2026-03-03T15:37:00+00:00"
-  },
-  {
-    "title": "FCC chief tells CNBC WBD-Paramount merger deal is ‘cleaner’ than Netflix's, will be approved 'quickly'",
-    "description": "FCC Chairman Brendan Carr told CNBC on Tuesday that Netflix's previous Warner Bros. Discovery offer \"raised a lot of competition concerns.\"",
-    "link": "https://www.cnbc.com/2026/03/03/fcc-chair-brendan-carr-wbd-paramount-merger-deal-netflix.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108252506-1768414016929-gettyimages-2255665640-fcc_house_498_011426.jpeg?v=1768414037&w=1920&h=1080",
-    "pubDate": "2026-03-03T15:35:22+00:00"
-  },
-  {
-    "title": "Stock Market Today: Dow Tumbles 1,100 Points On U.S.-Iran Conflict; Cruise Lines Slide (Live Coverage)",
-    "description": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-conflict/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/03/wSMTaction030326-scaled.jpg",
-    "pubDate": "2026-03-03T15:35:21+00:00"
+    "title": "No new tax rises in Spring Statement, but don't be fooled - they are still set to rise",
+    "description": "There are measures, announced ahead of the chancellor's Spring Statement, yet to take effect.",
+    "link": "https://www.bbc.com/news/articles/cj6dwg4deewo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8974/live/af58b5c0-1713-11f1-a977-831dd3cb5c6e.jpg",
+    "pubDate": "2026-03-03T15:37:23+00:00"
   },
   {
     "title": "What Spring Statement forecasts could mean for your money",
@@ -88,7 +277,7 @@
     "description": "The two aides to Labor Secretary Lori Chavez-DeRemer had been on leave during an investigation of misconduct at the department.",
     "link": "https://www.nytimes.com/2026/03/03/us/politics/labor-secretarys-top-aides-forced-out.html",
     "thumbnail": "",
-    "pubDate": "2026-03-03T15:28:26+00:00"
+    "pubDate": "2026-03-03T15:28:27+00:00"
   },
   {
     "title": "Texas and North Carolina Elections Will Test Older House Democrats’ Staying Power",
@@ -119,48 +308,6 @@
     "pubDate": "2026-03-03T15:23:08+00:00"
   },
   {
-    "title": "Electromed (ELMD) Reports 13th Consecutive Quarter of Revenue and Profit Growth",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/electromed-elmd-reports-13th-consecutive-152238495.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/237bf7d81774053ae7a1d6a31c84b22a",
-    "pubDate": "2026-03-03T15:22:38+00:00"
-  },
-  {
-    "title": "Rapper Ghetts jailed for 12 years for killing student in hit-and-run",
-    "description": "The grime artist failed to stop after his BMW hit Nepali student Yubin Tamang, 20, in Ilford.",
-    "link": "https://www.bbc.com/news/articles/cvgjn1rpwn7o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/e1f637b0-16fe-11f1-b048-c9424b2cf5fd.png",
-    "pubDate": "2026-03-03T15:22:32+00:00"
-  },
-  {
-    "title": "Jim Cramer on Tapestry: “Buy Half of It, and Then If It Falls, Buy Some More”",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/jim-cramer-tapestry-buy-half-152222746.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/jmo56uMqi_sG6aU27X1z0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
-    "pubDate": "2026-03-03T15:22:22+00:00"
-  },
-  {
-    "title": "Jim Cramer on Transocean: “It’s Not My Favorite”",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/jim-cramer-transocean-not-favorite-152220256.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/_alTJz2_M_71ZTQTCSjwAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/e7ce02738b547dc513a8196cdef40274",
-    "pubDate": "2026-03-03T15:22:20+00:00"
-  },
-  {
-    "title": "Jim Cramer on International Flavors &amp; Fragrances: “We Think That the Turnabout Is Real”",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/jim-cramer-international-flavors-fragrances-152219134.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/kHYpzH58CxZP3vxp10BOag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjE-/https://media.zenfs.com/en/insidermonkey.com/04816330227784e99fa139754a436e25",
-    "pubDate": "2026-03-03T15:22:19+00:00"
-  },
-  {
-    "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
-    "description": "General Motors, Ford and other established automakers risk becoming relics if they don’t catch up to Chinese carmakers and technology companies in electric vehicles and self-driving cars.",
-    "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-03T15:21:16+00:00"
-  },
-  {
     "title": "Today's Nintendo Indie World Surprise Releases Include One Of 2025's Best Games",
     "description": "Everyone loves a good shadowdrop, and Nintendo revealed not just one, but three of them in today's Indie World presentation. The biggest of the trio--and saved for last--was Blue Prince, which was one of GameSpot's 10 best games of 2025. The critically acclaimed puzzle game will be available later today on Switch 2, even featuring mouse controls on the system. Joining Blue Prince on Switch 2 today are Rotwood and Minishoot Adventures. The former comes from Mark of the Ninja and Don't Starve developer Klei Entertainment. In fact, Rotwood is a console exclusive on Switch 2, previously being in Steam Early Access since 2024. The co-op brawler sees you battling enemies across seven different environments with weapons like a hammer and bow. Intriguingly, Rotwood was planned to release on Netflix at one time. Meanwhile, Minishoot Adventures is the only title arriving on Switch 2 and the original Switch. One of GameSpot's favorite PC games from 2024, the twin-stick shooter sees players fighting through dungeons and rescuing cute friends. Minishoot Adventures basically marries together Geometry Wars with The Legend of Zelda to create a captivating experience. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/todays-nintendo-indie-world-surprise-releases-include-one-of-2025s-best-games/1100-6538525/?ftag=CAD-01-10abi2f",
@@ -175,46 +322,18 @@
     "pubDate": "2026-03-03T15:08:38+00:00"
   },
   {
-    "title": "Xbox Game Pass gets Cyberpunk 2077 and more in March",
-    "description": "Cyberpunk 2077 joins CD Projekt Red's The Witcher 3 on Xbox Game Pass. Plus, plenty of other must-play titles arrive this month.",
-    "link": "https://www.polygon.com/xbox-game-pass-march-2026-cyberpunk-2077-hollow-knight-silksong/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22233661/Cyberpunk2077.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-03T15:04:45+00:00"
-  },
-  {
-    "title": "Stock market today: Dow plunges over 1,000 points, S&amp;P 500 and Nasdaq sink as oil surges amid war worries",
+    "title": "Stock market today: Dow plunges over 1,100 points, S&amp;P 500 and Nasdaq sink as oil surges amid war worries",
     "description": "",
-    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-over-1000-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425791.html",
+    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-over-1100-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425235.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Jxj6IGvppXnrXHChkQvl.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/807c6bb0-1692-11f1-bbf5-9919495d137c",
     "pubDate": "2026-03-03T15:04:25+00:00"
-  },
-  {
-    "title": "Scott Pilgrim EX review: retro brawler is all references, little heart",
-    "description": "Scott Pilgrim EX pays tribute to the 2D brawlers that shaped the series, but it's light on substance beyond its references.",
-    "link": "https://www.polygon.com/scott-pilgrim-ex-review/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/scott-pilgrim-ex-scott-and-ramona.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-03T15:00:17+00:00"
   },
   {
     "title": "Iran’s Strategy: Expand the War, Increase the Cost, Outlast Trump",
     "description": "The Islamic Republic is aiming to draw out the conflict and broaden the fighting. That would force President Trump to risk more casualties and more political capital.",
     "link": "https://www.nytimes.com/2026/03/03/world/europe/iran-war-strategy-trump-israel.html",
     "thumbnail": "",
-    "pubDate": "2026-03-03T14:59:12+00:00"
-  },
-  {
-    "title": "New York Fed's Williams says tariff burden falls 'overwhelmingly' on U.S. businesses and consumers",
-    "description": "Williams said that not only were the tariffs being felt at home, but they also were keeping the Fed from reaching its 2% inflation goal.",
-    "link": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108229868-1763741665578-108229868-1763730430401-gettyimages-2233025951-WILLIAMS_ECNY.jpeg?v=1772548607&w=1920&h=1080",
-    "pubDate": "2026-03-03T14:56:19+00:00"
-  },
-  {
-    "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-    "description": "Iranian official threatens to \"set fire\" to any ships passing through the Strait of Hormuz.",
-    "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce05/live/fa23a360-15cb-11f1-82b7-79a863688a9c.jpg",
-    "pubDate": "2026-03-03T14:49:05+00:00"
+    "pubDate": "2026-03-03T14:59:13+00:00"
   },
   {
     "title": "Pokemon Winds and Waves: Release Date, Gameplay, And Everything We Know So Far",
@@ -224,13 +343,6 @@
     "pubDate": "2026-03-03T14:48:00+00:00"
   },
   {
-    "title": "Pinterest shares pop 6% as activist Elliott Management takes $1 billion stake",
-    "description": "Pinterest's stock has plummeted this year as the social media company grapples with slowing growth and advertising competition.",
-    "link": "https://www.cnbc.com/2026/03/03/pinterest-pins-elliott-management.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108263410-1770656442525-gettyimages-2213037290-AFP_44KM3X6.jpeg?v=1770656479&w=1920&h=1080",
-    "pubDate": "2026-03-03T14:44:34+00:00"
-  },
-  {
     "title": "It's Not A New Zelda, But The Next Best Thing Is Now Available Everywhere",
     "description": "As part of the Indie World showcase, Nintendo announced that Minishoot Adventures is releasing today, March 3, on Switch and Switch 2. Not long after, the developer announced it's actually widely available on PS5, Xbox One, and Xbox Series X as well, and included in Xbox Game Pass. The unconventional mash-up is a blend of puzzle and exploration akin to a classic top-down Zelda game, with combat and movement that feels like a twin-stick shooter. It was one of our favorite under-the-radar hits when it first released on PC in 2024, and it's an absolutely perfect fit for the handheld Switch systems. Check below for our impressions of the original and why this one is a can't-miss. The enduring popularity of The Legend of Zelda has led to no shortage of imitators. For those lamenting the lack of a new top-down 2D Zelda from Nintendo, Steam is rife with homages that approximate the feeling of delving into forests, caves, and dungeons armed only with a plucky attitude and your uncle's sword. Minishoot Adventures, the sophomore game from indie studio SoulGame, is different, but no less reverent as an homage. Rather than crib from Zelda in a very literal sense, this one reimagines and recaptures the same sensation of classic Zelda by recontextualizing it as a bullet hell shooter. Instead of an elven tween, you're a sentient spaceship. Your allies and enemies, also spaceships. The world is open and free roaming with item gating, like classic Zelda and metroidvania games. Movement feels sharp and snappy immediately, like picking up a game of PixelJunk Shooter or Geometry Wars. It even has a series of dungeons with clever traps, environmental puzzles, game-changing powers, and tough boss battles. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/the-best-retro-zelda-like-this-year-looks-more-like-geometry-wars/1100-6522621/?ftag=CAD-01-10abi2f",
@@ -238,25 +350,11 @@
     "pubDate": "2026-03-03T14:33:00+00:00"
   },
   {
-    "title": "Dungeons &amp; Dragons 2026 roadmap includes Ravenloft, Arcana Unleashed, and Thay",
-    "description": "Wizards of the Coast reveals D&amp;D’s 2026 plans, including a return to Ravenloft, a high-magic Arcana Unleashed book, and a Wizard War in Thay.",
-    "link": "https://www.polygon.com/dnd-2026-release-date-schedule-ravenloft-thay/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/ravenloft-art1_bastiengrivet.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-03T14:30:17+00:00"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c6669-7e16-7fb4-9f62-9215e7a70fb0.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
     "pubDate": "2026-03-03T14:30:13+00:00"
-  },
-  {
-    "title": "UK considers sending Royal Navy warship to Cyprus",
-    "description": "Defence sources say a final decision has not yet been made, but it is understood HMS Duncan is being prepared.",
-    "link": "https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a040/live/09528950-1707-11f1-bfbe-c7ba448da962.png",
-    "pubDate": "2026-03-03T14:28:47+00:00"
   },
   {
     "title": "We need more updates, say British nationals stuck in Middle East",
@@ -271,13 +369,6 @@
     "link": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271976-17724622292026-03-02t143300z_417747899_rc2ewjahokcx_rtrmadp_0_usa-pentagon-anthropic.jpeg?v=1772548397&w=1920&h=1080",
     "pubDate": "2026-03-03T14:23:02+00:00"
-  },
-  {
-    "title": "Swiss sneaker maker plunges 14% on weak guidance, slower than expected 2026 growth",
-    "description": "On is entering thee third and final year of its strategy to double sales by 2026 in a quest to \"be the most premium global sportswear brand.\"",
-    "link": "https://www.cnbc.com/2026/03/03/on-onon-stock-q4-earnings-record-sales-guidance.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108192542-17564859632025-08-29t163100z_183075094_rc28ggaso5se_rtrmadp_0_on-hldg-results.jpeg?v=1756486078&w=1920&h=1080",
-    "pubDate": "2026-03-03T14:17:43+00:00"
   },
   {
     "title": "CoinDesk 20 performance update: AAVE plunges 10%, leading index lower",
@@ -297,7 +388,7 @@
     "title": "Visa and Stripe’s Bridge plan stablecoin card expansion to over 100 countries",
     "description": "Visa and Stripe-owned Bridge aim to expand stablecoin-linked Visa cards to 18 countries, and plan 100-plus by the end of the year, while testing stablecoin settlement with Lead Bank.",
     "link": "https://cointelegraph.com/news/visa-stripe-bridge-stablecoin-card-rollout-test-onchain-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb3d8-0b71-777d-bc5b-31e00f9b5a7a.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2IzZDgtMGI3MS03NzdkLWJjNWItMzFlMDBmOWI1YTdhLmpwZw==.jpg",
     "pubDate": "2026-03-03T14:00:28+00:00"
   },
   {
@@ -308,31 +399,17 @@
     "pubDate": "2026-03-03T14:00:00+00:00"
   },
   {
-    "title": "Middle East war sends natural gas prices soaring, raising growth shock risk for Europe and Asia",
-    "description": "Disruption to LNG supplies could dent European growth and harm reindustrialization ambitions.",
-    "link": "https://www.cnbc.com/2026/03/03/middle-east-war-gas-energy-lng-drone-qatar-strait-hormuz-price-shock.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271879-1772455221899-gettyimages-2259157465-NVRITYAKAL-2226-039.jpeg?v=1772455265&w=1920&h=1080",
-    "pubDate": "2026-03-03T13:59:59+00:00"
-  },
-  {
-    "title": "'I make between £800 and £2,000 a month on zero-hours contracts. There's no consistency'",
-    "description": "People in their 20s and 30s tell the BBC how they feel about their finances as the chancellor delivers her Spring Statement.",
-    "link": "https://www.bbc.com/news/articles/c20lz7rkqv4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/00168bc0-170c-11f1-b048-c9424b2cf5fd.jpg",
-    "pubDate": "2026-03-03T13:48:56+00:00"
-  },
-  {
     "title": "Strive strategist says AI deflation could push Bitcoin to $11M by 2036",
     "description": "Strive’s Joe Burnett argues AI-driven deflation may force looser policy, pushing Bitcoin toward $11 million a coin by 2036 and a $230 trillion market cap.",
     "link": "https://cointelegraph.com/news/strive-joe-burnett-ai-deflation-bitcoin-11m-2036-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb3bc-f1da-7617-a6df-9d9f529a9a83.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2IzYmMtZjFkYS03NjE3LWE2ZGYtOWQ5ZjUyOWE5YTgzLmpwZw==.jpg",
     "pubDate": "2026-03-03T13:44:10+00:00"
   },
   {
     "title": "Ether price again rejected at $2K: How low can ETH go in March?",
     "description": "Ether needed to hold a key support recently established at $1,800, coinciding with the lower trend line of a classic chart pattern that warns of a drop below $1,500.",
     "link": "https://cointelegraph.com/news/ethereum-price-again-rejected-2k-how-low-can-eth-go-in-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/0198aacd-f9e6-7fae-8533-e7d4e3858f8a",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhY2QtZjllNi03ZmFlLTg1MzMtZTdkNGUzODU4Zjhh.jpg",
     "pubDate": "2026-03-03T13:29:08+00:00"
   },
   {
@@ -346,15 +423,8 @@
     "title": "Aave Chan Initiative to exit Aave DAO after governance clash over funding",
     "description": "The move follows a 52.58% Snapshot vote on a $42.5 million funding package for Aave Labs, now headed to the ARFC stage before any binding onchain decision.",
     "link": "https://cointelegraph.com/news/aave-aci-exit-dao-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b45bd-741f-79c2-86fa-ab3a1bd74bb8.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YmQtNzQxZi03OWMyLTg2ZmEtYWIzYTFiZDc0YmI4LmpwZw==.jpg",
     "pubDate": "2026-03-03T13:11:41+00:00"
-  },
-  {
-    "title": "We were too hard on Jurassic World: Fallen Kingdom",
-    "description": "Jurassic World: Fallen Kingdom is the one Jurassic Park sequel that dared to do something different",
-    "link": "https://www.polygon.com/we-were-too-hard-on-jurassic-world-fallen-kingdom/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mcdjuwo_ec054-1.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-03T13:00:17+00:00"
   },
   {
     "title": "Bitcoin could slide further on liquidity squeeze, but long-term bull case intact: Sygnum CIO",
@@ -362,13 +432,6 @@
     "link": "https://www.coindesk.com/markets/2026/03/02/bitcoin-could-slide-further-on-liquidity-squeeze-but-long-term-bull-case-intact-sygnum-cio",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c577b38f229e9d3708d310ac5946ea8fae71162e-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-03T12:55:03+00:00"
-  },
-  {
-    "title": "Elton John's family photo hung in National Portrait Gallery",
-    "description": "The portrait shows Sir Elton with husband David Furnish and their teenage sons Zachary and Elijah.",
-    "link": "https://www.bbc.com/news/articles/c89kq5d5vepo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc5/live/35765340-16fd-11f1-b048-c9424b2cf5fd.jpg",
-    "pubDate": "2026-03-03T12:49:12+00:00"
   },
   {
     "title": "Capcom Showcase Set For March 5 With Mega Man, Monster Hunter Stories 3, And Pragmata",
@@ -381,15 +444,22 @@
     "title": "Deloitte signs off on Anchorage reserve report for Tether’s USAT stablecoin",
     "description": "Big Four firm Deloitte attested to $17.6 million in reserves backing USAt, Tether’s new US-regulated stablecoin issued by Anchorage Digital Bank.",
     "link": "https://cointelegraph.com/news/deloitte-signs-off-reserves-tether-linked-usat-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019aefca-3310-7571-b026-db6586843bc6",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmY2EtMzMxMC03NTcxLWIwMjYtZGI2NTg2ODQzYmM2.jpg",
     "pubDate": "2026-03-03T12:38:41+00:00"
   },
   {
     "title": "Bybit claims new fraud system stopped $300M of risky withdrawals in Q4 2025",
     "description": "Bybit says most of the $300 million “saved” came from users backing out after real-time warnings, highlighting how exchanges are shifting from recovery to preemptive fraud stops.",
     "link": "https://cointelegraph.com/news/ai-driven-onchain-monitoring-300m-losses-bybit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb32e-39a6-7116-bf75-7a491e3548f3.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2IzMmUtMzlhNi03MTE2LWJmNzUtN2E0OTFlMzU0OGYzLmpwZw==.jpg",
     "pubDate": "2026-03-03T12:27:16+00:00"
+  },
+  {
+    "title": "Earnings live: Best Buy stock jumps despite softer holiday demand, Target stock rises",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/live/earnings-live-best-buy-stock-jumps-despite-softer-holiday-demand-target-stock-rises-122451670.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/3D4NukAXSvynyc9pWWFOEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/f16a6480-16fb-11f1-b5fb-f73252b7ef26",
+    "pubDate": "2026-03-03T12:24:51+00:00"
   },
   {
     "title": "Poor coordination can cost couples an average $14,000 in retirement wealth, research finds",
@@ -406,18 +476,11 @@
     "pubDate": "2026-03-03T12:15:00+00:00"
   },
   {
-    "title": "Japan PM Takaichi disavows ‘Sanae Token’ after memecoin hits $28M peak",
-    "description": "Japanese PM Sanae Takaichi said she had no knowledge of the token, as Kyodo reported the FSA was considering whether unregistered operators were involved.",
-    "link": "https://cointelegraph.com/news/sanae-token-27m-japan-pm-denies-links-fsa-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b07d9-1c0c-7797-9c54-d431766f51ff",
-    "pubDate": "2026-03-03T12:01:59+00:00"
-  },
-  {
-    "title": "Stablecoins could weaken bank lending and monetary policy in Europe: ECB",
-    "description": "The European Central Bank warns in a new working paper that as stablecoin adoption grows, deposits may leave banks, affecting lending and monetary policy transmission.",
-    "link": "https://cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c6828-b20e-7baa-bce7-775548138457.jpg",
-    "pubDate": "2026-03-03T11:35:14+00:00"
+    "title": "Analyst Report: Monster Beverage Corp.",
+    "description": "",
+    "link": "https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1772540097000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+    "pubDate": "2026-03-03T12:14:57+00:00"
   },
   {
     "title": "Dollar surge pressures crypto markets after escalation in Iran conflict",
@@ -425,20 +488,6 @@
     "link": "https://www.coindesk.com/markets/2026/03/03/dollar-surge-pressures-crypto-and-gold-after-escalation-in-iran-conflict",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4639ce873cb414355a63173614affb9983f2b11b-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-03T11:30:00+00:00"
-  },
-  {
-    "title": "Why Europe's leaders have struggled to speak as one on Iran",
-    "description": "European nations say they want to work better together but are finding it hard to do so",
-    "link": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9501/live/baa675c0-16e1-11f1-801d-ed3cff6bf876.jpg",
-    "pubDate": "2026-03-03T11:22:20+00:00"
-  },
-  {
-    "title": "‘Scam token’ case against Uniswap dismissed by U.S. district judge in NYC",
-    "description": "District Judge says that due to the protocol’s decentralized nature, the identities of the scam token issuers are basically unknown, leaving plaintiffs with no identifiable defendant.",
-    "link": "https://www.coindesk.com/policy/2026/03/03/scam-token-case-against-uniswap-dismissed-with-prejudice-by-u-s-district-judge-in-nyc",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b454b7d48bc8816c9c5b8150cbbea6fe4175943a-1920x1080.jpg?auto=format",
-    "pubDate": "2026-03-03T11:17:05+00:00"
   },
   {
     "title": "Bafta host Alan Cumming apologises after 'trauma-triggering' show",
@@ -469,32 +518,11 @@
     "pubDate": "2026-03-03T11:00:01+00:00"
   },
   {
-    "title": "Japan prime minister Sanae Takaichi disavows Solana meme coin after it crashes by 75%",
-    "description": "Japan’s prime minister says she has no knowledge of or involvement in a Solana-based meme token that briefly reached a $27.7 million market cap before tumbling.",
-    "link": "https://www.coindesk.com/business/2026/03/03/japan-prime-minister-sanae-takaichi-disavows-solana-meme-coin-after-it-crashes-by-75",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/63f02bbfdfe79d281e8667130b8ab1069247fdbf-1918x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-03T10:24:15+00:00"
-  },
-  {
-    "title": "Veterans Affairs Department Cut Thousands of Roles for Doctors and Nurses",
-    "description": "The Trump administration has eliminated health care positions left vacant after a wave of resignations and retirements at the V.A. last year.",
-    "link": "https://www.nytimes.com/2026/03/03/us/politics/veterans-affairs-nurses-doctors-cut.html",
+    "title": "What to Watch in Tuesday’s Primaries in Texas and Beyond",
+    "description": "Midterm season is kicking off with hard-fought Senate and House primary contests that include battles over political style and ideology, age and scandal.",
+    "link": "https://www.nytimes.com/2026/03/03/us/politics/primaries-texas-nc-ark-what-to-watch.html",
     "thumbnail": "",
-    "pubDate": "2026-03-03T10:08:20+00:00"
-  },
-  {
-    "title": "Tariffs Confound Small Businesses Again",
-    "description": "Chocolate makers and fig-paste importers are facing a tangle of unknowns, including whether to seek refunds for tariffs invalidated by the Supreme Court.",
-    "link": "https://www.nytimes.com/2026/03/03/business/economy/tariffs-small-business-confusion-refunds.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-03T10:08:13+00:00"
-  },
-  {
-    "title": "Critical Role Campaign 4 using West Marches style keeps things fresh",
-    "description": "Critical Role Campaign 4 leans into the strengths of the West Marches style while adapting it to its own format.",
-    "link": "https://www.polygon.com/critical-role-campaign-4-west-marches-episodes-connections/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/critical-role-west-marches.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-03T10:05:34+00:00"
+    "pubDate": "2026-03-03T10:07:23+00:00"
   },
   {
     "title": "CoD: Warzone Black Ops Royale - How To Get Weapons And Upgrade Them",
@@ -511,39 +539,18 @@
     "pubDate": "2026-03-03T09:03:00+00:00"
   },
   {
-    "title": "Pokémon Pokopia release time in your time zone on Switch 2",
-    "description": "We break down Pokémon Pokopia Switch 2 release times around the world and explain what Pokopia pre-order bonuses you get if you purchase early.",
-    "link": "https://www.polygon.com/pokemon-pokopia-release-time-est-pst-preload-preorder/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/pokemon-pokopia-release-time.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-03T05:01:20+00:00"
-  },
-  {
-    "title": "Austin Shooting Puts Islam at Center of Tuesday’s Primaries in Texas",
-    "description": "Politicians quickly cited the attack in their campaign messaging. Some Republicans called for stopping immigration, while Democrats called for gun control.",
-    "link": "https://www.nytimes.com/2026/03/02/us/austin-shooting-politics.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-03T02:44:28+00:00"
-  },
-  {
     "title": "Pokemon Pokopia Preorders Include A Physical Tote Bag And Bonus In-Game Items",
     "description": "Pokemon Pokopia $70 | Releases March 5, 2026 Preorder at Amazon Preorder at Walmart Preorder at Best Buy Preorder at Nintendo Store Preorder at GameStop Pokemon Pokopia is almost here, but early reviews aren't making the wait any easier. Our own review gave the spin-off an impressive 9/10, noting its cozy Animal Crossing-inspired vibes and fascinating world bursting at the seams with secrets to discover. And if the reviews have finally convinced you to pick it up when it launches on March 5, consider locking in a preorder to earn a few exclusive bonuses. This includes various in-game goodies, as well as a physical collectible from Best Buy. Pokemon Pokopia Preorder Bonuses Preordering any version of Pokemon Pokopia gets you an in-game Ditto rug decoration item. This can be placed in your in-game home to add some Ditto-y charm to your living space. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/pokemon-pokopia-preorder-guide-switch-2/1100-6536691/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4616196-pokopia-switch-2.jpg",
     "pubDate": "2026-03-03T00:53:00+00:00"
   },
   {
     "title": "Top Gun Celebrates Its 40th Anniversary With New Limited Edition 4K Steelbook Blu-ray",
     "description": "Top Gun is marking its 40th anniversary this year, and to celebrate the iconic 1980s action flick, a new 40th Anniversary 4K Steelbook edition Blu-ray is releasing on May 5. The two-disc set comes with a premium Steelbook case featuring art from the movie on both the exterior and interior, along with a selection of special features. You can reserve your copy for $30 from Amazon. Top Gun 40th Anniversary 4K Steelbook Blu-ray $30 | Releases May 5 If you're unfamiliar, Top Gun, originally released in 1986, follows Pete \"Maverick\" Mitchell (Tom Cruise), a young, cocky, but talented Navy pilot, invited to the elite Top Gun Naval Fighter Weapons School, where he must learn to work with the rest of his new wing mates. Top Gun is considered one of the quintessential action movies of the 1980's, with multiple scenes and lines that have become enduring parts of pop culture. This new Steelbook Edition includes 4K UHD and standard Blu-ray versions of the original film. The Blu-ray disc also includes plenty of special features that take you behind the scenes of the movie's production and its 40-year legacy. Top Gun 40th Anniversary Special Features The Legacy of Top Gun featurette On Your Six - Thirty Years of Top Gun featurette Danger Zone 6-Part Making of Documentary Interviews with Tom Cruise Multi-Angle Storyboards Best of the Best: Inside the Real Top Gun featurette Behind-the-Scenes featurette Survival Training featurette Preorder at Amazon If Top Gun isn't quite your bag, there are a handful of other upcoming Steelbook edition 4K Blu-rays to check out, including the upcoming 28 Years Later: The Bone Temple Collector's Edition, which features incredible cover art. There's no release date yet, but you can preorder it from Amazon now for $55. For another classic, Carlito's Way 4K SteelBook is available to preorder on Amazon for $30 (was $35), before it comes out on April 7, and includes a handful of special features and new cover art. Check out a few more Steelbook Edition 4K Blu-rays in the list below. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/top-gun-40th-anniversary-limited-edition-4k-steelbook-blu-ray-buying-guide/1100-6538367/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/a/uploads/original/1865/18658661/4655889-topgun710.png",
     "pubDate": "2026-03-03T00:30:00+00:00"
-  },
-  {
-    "title": "What an extended war with Iran could mean for gas prices",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xJ8bkyIsHCJ_9RffxfsdiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/22e11390-cf73-11f0-abbb-721de7d15ef6",
-    "pubDate": "2026-03-02T22:50:53+00:00"
   },
   {
     "title": "New PC RPG Bundle Includes Rogue Trader, Planescape: Torment, And More",
@@ -551,13 +558,6 @@
     "link": "https://www.gamespot.com/articles/new-pc-rpg-bundle-includes-rogue-trader-planescape-torment-and-more/1100-6538518/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-03-02T21:21:00+00:00"
-  },
-  {
-    "title": "Pokemon Go March 2026 Events: Raid Bosses, Community Day, Pokopia Crossover, And More",
-    "description": "A new season has begun in Pokemon Go, and the mobile game is ushering it in with a variety of events. March marks a big month for the Pokemon series as a whole, and Pokemon Go is joining the festivities with a 30th anniversary celebration as well as a Pokopia crossover event. A new month also means new bosses will be appearing in Raids over the next few weeks, and there will be a new Community Day featuring the fire-type Pokemon Scorbunny. The Bug Out is also set to return this month, with a new bug Pokemon from the Galar region slated to make its debut. There are plenty of other in-game activities lined up in March. You can catch up on all the biggest Pokemon Go events happening this month below. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/pokemon-go-events-raid-bosses-spotlight-hours-community-day/1100-6533384/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-03-02T21:00:00+00:00"
   },
   {
     "title": "The Best Stand Mixers, Judged by Our Expert Testers (2026)",
