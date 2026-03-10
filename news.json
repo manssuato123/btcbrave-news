@@ -1,10 +1,38 @@
 [
   {
+    "title": "At least six dead in Switzerland bus fire",
+    "description": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
+    "link": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d1/live/8627cf80-1ccf-11f1-b048-c9424b2cf5fd.jpg",
+    "pubDate": "2026-03-10T22:35:37+00:00"
+  },
+  {
+    "title": "Hereditary peers to be removed from Lords as bill passes",
+    "description": "The bill abolishes the 92 seats reserved for peers who inherit their titles through their families.",
+    "link": "https://www.bbc.com/news/articles/cdxg76rgdp7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ab/live/62f9bff0-a138-11ef-9f85-27126280b4e4.jpg",
+    "pubDate": "2026-03-10T22:29:48+00:00"
+  },
+  {
+    "title": "Iranian Military Shows It Knows How to Adapt, U.S. Officials Say",
+    "description": "Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region.",
+    "link": "https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-10T22:26:32+00:00"
+  },
+  {
+    "title": "DeFi lending platform Aave sees a rare $27 million liquidations after a price glitch",
+    "description": "The blockchain data flagged shows a spike in liquidations over the past 24 hours. Some observers believe the event may have been linked to a price update in an oracle system that Aave uses to determine the value of collateral.",
+    "link": "https://www.coindesk.com/business/2026/03/10/defi-lending-platform-aave-sees-a-rare-usd27-million-liquidations-after-a-price-glitch",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d50945880b441e09eabcc2c7f5d42e15a1d43898-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-10T22:15:41+00:00"
+  },
+  {
     "title": "Oracle stock jumps 9% on earnings beat and increased guidance as cloud revenue climbs 44%",
     "description": "Oracle boosted its revenue backlog total by $30 billion during the February quarter.",
     "link": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108276306-1773174110733-gettyimages-2236546720-STARGATE_DATA_CENTER.jpeg?v=1773174147&w=1920&h=1080",
-    "pubDate": "2026-03-10T21:51:15+00:00"
+    "pubDate": "2026-03-10T22:07:11+00:00"
   },
   {
     "title": "Senate Moves Toward Passing Sweeping Housing Bill, but Challenges Lie Ahead",
@@ -28,25 +56,11 @@
     "pubDate": "2026-03-10T21:42:30+00:00"
   },
   {
-    "title": "Hereditary peers to be removed from Lords as bill passes",
-    "description": "The bill abolishes the 92 seats reserved for peers who inherit their titles through their families.",
-    "link": "https://www.bbc.com/news/articles/cdxg76rgdp7o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ab/live/62f9bff0-a138-11ef-9f85-27126280b4e4.jpg",
-    "pubDate": "2026-03-10T21:35:05+00:00"
-  },
-  {
     "title": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
     "description": "Ford CEO Jim Farley last month said diversifying Pro's revenue — specifically in software — is a crucial growth area for the company.",
     "link": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/107124992-1664285162057-2023_Ford_Super_Duty_F-550_Chassis_Cab_01.jpg?v=1664321401&w=1920&h=1080",
     "pubDate": "2026-03-10T21:30:01+00:00"
-  },
-  {
-    "title": "U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says",
-    "description": "Iranians cowered under the barrage as Pete Hegseth, the U.S. defense secretary, said the U.S. aimed to wipe out Iran’s capacity to obtain nuclear weapons “forever.”",
-    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-10T21:16:57+00:00"
   },
   {
     "title": "Clair Obscur: Expedition 33 devs resolve dispute with comic book author",
@@ -301,13 +315,6 @@
     "pubDate": "2026-03-10T18:04:00+00:00"
   },
   {
-    "title": "Glasgow Central's main station to remain closed until next week after huge fire",
-    "description": "A huge fire destroyed a neighbouring building but Network Rail staff believe the station has not been seriously damaged.",
-    "link": "https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/9de01280-1c5d-11f1-b409-bf0363c2d3cf.jpg",
-    "pubDate": "2026-03-10T17:53:17+00:00"
-  },
-  {
     "title": "Societe Generale-FORGE launches EURCV stablecoin on Stellar",
     "description": "The French banking group’s digital asset arm expanded its MiCA-compliant euro-backed stablecoin as part of a multichain strategy for regulated digital asset infrastructure.",
     "link": "https://cointelegraph.com/news/socgen-forge-deploys-mica-compliant-euro-stablecoin-eurcv-on-stellar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -385,7 +392,7 @@
     "pubDate": "2026-03-10T16:30:00+00:00"
   },
   {
-    "title": "Crypto shouldn’t “die on the hill” of stablecoin yield, Rick Edelman says",
+    "title": "Crypto shouldn’t 'die on the hill' of stablecoin yield, Rick Edelman says",
     "description": "The veteran financial advisor says the banking lobby will likely win the yield-bearing stablecoin debate.",
     "link": "https://www.coindesk.com/markets/2026/03/10/crypto-shouldn-t-die-on-the-hill-of-stablecoin-yield-rick-edelman-says",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bc0f4f400b1cc7b920ca15e55540f1e33b76dbc2-1152x644.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
@@ -418,13 +425,6 @@
     "link": "https://www.gamespot.com/articles/the-boys-is-getting-a-game-right-before-its-final-season-begins/1100-6538694/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-03-10T16:00:00+00:00"
-  },
-  {
-    "title": "Bitcoin climbs past $71,000 as oil shock fears continue to ease",
-    "description": "The International Energy Agency (IEA) on Tuesday said it will convene an extraordinary meeting of its member countries to consider releasing emergency oil reserves.",
-    "link": "https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-past-usd71-000-as-oil-shock-fears-continue-to-ease",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/5f07221f907183e24f18ffe01fa9a5fdecd295df-1920x1080.jpg?auto=format",
-    "pubDate": "2026-03-10T15:58:46+00:00"
   },
   {
     "title": "Crimson Desert PC Requirements And Console Specs Revealed: Check If Your Rig Is Ready",
@@ -525,74 +525,74 @@
     "pubDate": "2026-03-09T15:14:59+00:00"
   },
   {
-    "title": "Here’s What Improves Lennar Corporation’s (LEN) Long-Term Earnings Potential",
+    "title": "Co-Founder Reed Hastings Just Dumped $40 Million in Netflix Stock. Should You Ditch NFLX Too?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/improves-lennar-corporation-len-long-133026842.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/e0be360de59eee55571d2eeb55521333",
-    "pubDate": "2026-03-09T13:30:26+00:00"
+    "link": "https://finance.yahoo.com/news/co-founder-reed-hastings-just-141055590.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/yQagW93lCMBgdfrBED40XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/dab6a5019d999f68d85c24ad2b767d5a",
+    "pubDate": "2026-03-09T14:10:55+00:00"
   },
   {
-    "title": "G Mining Ventures gets C$427M from La Mancha for Oko West development",
+    "title": "Is Kraft Heinz Stock Underperforming the Nasdaq?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/g-mining-ventures-gets-c-132900077.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ElZxhkWaqhSn3CefTjs8fg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTY-/https://media.zenfs.com/en/proactive_us_504/9b593733f60e50b6ffd14797996ec95d",
-    "pubDate": "2026-03-09T13:29:00+00:00"
+    "link": "https://finance.yahoo.com/news/kraft-heinz-stock-underperforming-nasdaq-140940804.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/abx4uVA_j6XYh3ZJa29MTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/barchart_com_477/429cf925eaccd1fa58788ab02fbf57db",
+    "pubDate": "2026-03-09T14:09:40+00:00"
   },
   {
-    "title": "What Debt Looks Like Across Income Levels",
+    "title": "Nestlé Overhauls Bonus Structure",
     "description": "",
-    "link": "https://finance.yahoo.com/news/debt-looks-across-income-levels-132855240.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2Rcj_GLhmogtmtyKmbKQrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/cf10bc4e4713ec26b0845cbdf17e57ed",
-    "pubDate": "2026-03-09T13:28:55+00:00"
+    "link": "https://finance.yahoo.com/news/nestl-overhauls-bonus-structure-140840364.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/jAl2tZ0pmMXa1FUSZfkUKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ien_820/01bae1fead7abf8f6b3ad224c25a1f8c",
+    "pubDate": "2026-03-09T14:08:40+00:00"
   },
   {
-    "title": "What Makes FirstService Corporation (FSV) an Investment Bet?",
+    "title": "How Is Sandisk's Stock Performance Compared to Other Technology Stocks?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/makes-firstservice-corporation-fsv-investment-132835568.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/f2049ddd76a9785c0b3f0078c6c389a6",
-    "pubDate": "2026-03-09T13:28:35+00:00"
+    "link": "https://finance.yahoo.com/news/sandisks-stock-performance-compared-other-140628956.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Ho7DkYrIGM_T4ff9eDua3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/barchart_com_477/6d6f0d1f774460c7221dbd1d36851495",
+    "pubDate": "2026-03-09T14:06:28+00:00"
   },
   {
-    "title": "Brookfield Corp. (BN) Has Announced the Acquisition of Oaktree Capital in Q4",
+    "title": "Why Plug Power Stock Is Surging After a February Slump",
     "description": "",
-    "link": "https://finance.yahoo.com/news/brookfield-corp-bn-announced-acquisition-132530201.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/46f418bb0b94cc140b37aef1c76600c6",
-    "pubDate": "2026-03-09T13:25:30+00:00"
+    "link": "https://finance.yahoo.com/news/why-plug-power-stock-surging-140517934.html",
+    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/492622fc7fa0e6ee0eca1786be26255a",
+    "pubDate": "2026-03-09T14:05:17+00:00"
   },
   {
-    "title": "Trump bought Netflix and Warner Bros bonds at height of bidding war with Paramount",
+    "title": "2 Reasons Adobe Stock Could Have a Big March",
     "description": "",
-    "link": "https://finance.yahoo.com/news/trump-bought-netflix-warner-bros-132120706.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/2d134921a925f61cc62be2f456d3de98",
-    "pubDate": "2026-03-09T13:21:20+00:00"
+    "link": "https://finance.yahoo.com/news/2-reasons-adobe-stock-could-140500210.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2L6hzQKsQ5n5QFLMtECSsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/d9793ee18e0b0e3238942b8f3fdc67fd",
+    "pubDate": "2026-03-09T14:05:00+00:00"
   },
   {
-    "title": "Here’s How the Merger Affects Rayonier (RYN)",
+    "title": "Stocks Fall as Oil Prices Spike up to $100 Per Barrel",
     "description": "",
-    "link": "https://finance.yahoo.com/news/merger-affects-rayonier-ryn-132016636.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/5cc35b70d17799f8d57b5bdad474686b",
-    "pubDate": "2026-03-09T13:20:16+00:00"
+    "link": "https://finance.yahoo.com/news/stocks-fall-oil-prices-spike-140324434.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/aPRtwgmLwcUGt3Yu_Am.AA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/d328f7db7fa019e809cef3d7281ab08b",
+    "pubDate": "2026-03-09T14:03:24+00:00"
   },
   {
-    "title": "Exclusive-Saudi Aramco reducing output at two oilfields, two sources say",
+    "title": "Is Humana Stock Underperforming the S&amp;P 500?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/exclusive-saudi-aramco-reducing-output-131447362.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/68a920796f75bfbad56165545b8302ee",
-    "pubDate": "2026-03-09T13:14:47+00:00"
+    "link": "https://finance.yahoo.com/news/humana-stock-underperforming-p-500-140227601.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2ZEqn9cwHoRHVI9norUu4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/d54596b5777d835996569395044c76cc",
+    "pubDate": "2026-03-09T14:02:27+00:00"
   },
   {
-    "title": "WTI Crude Oil May Futures — Geopolitical Turmoil Meets Seasonal Demand",
+    "title": "Prologis Stock: Is PLD Outperforming the Real Estate Sector?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/wti-crude-oil-may-futures-130002288.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/bFDS0jzjJwO4tfkQArmz3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzM-/https://media.zenfs.com/en/barchart_com_477/a661d85fc98a8ad58384f7a44a3e725a",
-    "pubDate": "2026-03-09T13:00:02+00:00"
+    "link": "https://finance.yahoo.com/news/prologis-stock-pld-outperforming-real-140156302.html",
+    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/fd0f9975dd09bec2c817854a62352af9",
+    "pubDate": "2026-03-09T14:01:56+00:00"
   },
   {
-    "title": "Microsoft and Anthropic team up to bring Claude Cowork to Microsoft 365",
+    "title": "Monster Beverage Stock: Is MNST Underperforming the Consumer Staples Sector?",
     "description": "",
-    "link": "https://finance.yahoo.com/news/microsoft-and-anthropic-team-up-to-bring-claude-cowork-to-microsoft-365-130001836.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/DEPO3XugOGgyHnVC6cwclg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/455230d0-1992-11f1-9bdf-bad8a940c5f7",
-    "pubDate": "2026-03-09T13:00:01+00:00"
+    "link": "https://finance.yahoo.com/news/monster-beverage-stock-mnst-underperforming-140015771.html",
+    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/a9fa0e045da1587019c31b7a2968361d",
+    "pubDate": "2026-03-09T14:00:15+00:00"
   },
   {
     "title": "The Best Coffee Scales to Level Up Your Pour-Over and Espresso (2026)",
