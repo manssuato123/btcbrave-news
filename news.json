@@ -1,10 +1,38 @@
 [
   {
+    "title": "Al Quds Day march to be banned after government approves Met request",
+    "description": "The government grants a request from the Metropolitan Police to ban a march due to take place in London on Sunday.",
+    "link": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2247/live/b61b69b0-1d13-11f1-820a-dd3b8b80b677.jpg",
+    "pubDate": "2026-03-11T07:39:09+00:00"
+  },
+  {
+    "title": "Cargo ship struck by a projectile in the Strait of Hormuz, UK says",
+    "description": "The strike forced the crew onboard the unidentified vessel to evacuate, the UKMTO said.",
+    "link": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108267728-1771576530904-gettyimages-2261869397-AA_19022026_2661283.jpeg?v=1773213742&w=1920&h=1080",
+    "pubDate": "2026-03-11T07:34:58+00:00"
+  },
+  {
     "title": "Powering AI: Europe switches on its first microgrid-connected data center",
     "description": "AVK and Pure Data Centers’ microgrid facility in Ireland could mark the region’s first step toward a privately powered ecosystem.",
     "link": "https://www.cnbc.com/2026/03/11/data-center-microgrid-power-ireland-ai-boom-avk-pure-dc.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108273510-1772637944416-Pure_Data_Centers_Dublin_site_2.jpg?v=1772989873&w=1920&h=1080",
     "pubDate": "2026-03-11T07:17:37+00:00"
+  },
+  {
+    "title": "Next week could spice things up for bitcoin as seven central banks face an inflation test",
+    "description": "Seven major central banks, including the Federal Reserve, will issue rate decisions next week just as war-driven oil price spikes raise fresh concerns about global inflation.",
+    "link": "https://www.coindesk.com/markets/2026/03/11/next-week-could-spice-things-up-for-bitcoin-as-seven-central-banks-face-an-inflation-test",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f3202b01cab610f6561b2d21be591bdb936f6cdb-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-11T07:14:05+00:00"
+  },
+  {
+    "title": "Senate Democrats push ban on prediction market bets tied to war and death",
+    "description": "Senate Democrats' bill would write the prohibition into federal law even as the CFTC shifts toward a more permissive stance on event contracts.",
+    "link": "https://www.coindesk.com/markets/2026/03/11/schiff-pushes-ban-on-prediction-market-bets-tied-to-war-and-death",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/083ac3bb7bdbdb8e6715dff831c02aaae48c0e9e-1920x1080.jpg?auto=format",
+    "pubDate": "2026-03-11T07:13:16+00:00"
   },
   {
     "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
@@ -91,11 +119,11 @@
     "pubDate": "2026-03-11T04:59:28+00:00"
   },
   {
-    "title": "Al Quds Day march to be banned after government approves Met request",
-    "description": "The government grants a request from the Metropolitan Police to ban a march due to take place in London on Sunday.",
-    "link": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2247/live/b61b69b0-1d13-11f1-820a-dd3b8b80b677.jpg",
-    "pubDate": "2026-03-11T04:14:17+00:00"
+    "title": "Member of Iranian football delegation granted Australian asylum changes her mind",
+    "description": "One of the seven women who received visas has reversed her decision after speaking to teammates, minister says",
+    "link": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80d/live/273a2e60-1cec-11f1-9b34-c51430981061.jpg",
+    "pubDate": "2026-03-11T04:14:40+00:00"
   },
   {
     "title": "Ethereum's on fire with record activity, but ether price and blockchain fees lag",
@@ -196,13 +224,6 @@
     "pubDate": "2026-03-11T00:58:23+00:00"
   },
   {
-    "title": "AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD",
-    "description": "A Cerebras deal from one of the world's top cloud providers could be a big boon for a company that's trying to hit the public market.",
-    "link": "https://www.cnbc.com/2026/03/10/ai-chipmaker-cerebras-namedropped-by-oracle-alongside-nvidia-and-amd-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108276391-1773186892442-gettyimages-2260125457-sk1_6091_df5c19kn.jpeg?v=1773186979&w=1920&h=1080",
-    "pubDate": "2026-03-11T00:48:14+00:00"
-  },
-  {
     "title": "Oracle stock jumps 9% on earnings beat and increased guidance as cloud revenue climbs 44%",
     "description": "Oracle boosted its revenue backlog total by $30 billion during the February quarter.",
     "link": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
@@ -229,13 +250,6 @@
     "link": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9366/live/60c8fb60-1ca2-11f1-9120-a910fc22c6ac.jpg",
     "pubDate": "2026-03-11T00:10:20+00:00"
-  },
-  {
-    "title": "The Aldi-style insurgents who could be about to shake up the vets market",
-    "description": "As pet owners complain of rising prices, independent practices want to take on the big chains.",
-    "link": "https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a85/live/50b98580-1c90-11f1-9120-a910fc22c6ac.jpg",
-    "pubDate": "2026-03-11T00:05:06+00:00"
   },
   {
     "title": "University tuition fees system is a 'mess', says Sir Nick Clegg",
@@ -406,25 +420,11 @@
     "pubDate": "2026-03-10T19:20:48+00:00"
   },
   {
-    "title": "Investment firm Multicoin bets 'Internet Labor Markets' will drive crypto’s next wave of adoption",
-    "description": "According to the firm, the next wave of users that will onboard into crypto will be thanks to networks where users earn crypto by contributing work rather than buying tokens outright.",
-    "link": "https://www.coindesk.com/business/2026/03/10/investment-firm-multicoin-bets-internet-labor-markets-will-drive-crypto-s-next-wave-of-adoption",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e49bdbfd33d7885d6fdcc41ddcf87e2e0f04b0f1-8000x4500.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-10T19:14:00+00:00"
-  },
-  {
     "title": "Resident Evil Requiem Needs A Non-Scary Mode, Says Resident Evil 2 Director",
     "description": "Resident Evil Requiem may be a little too scary for Hideki Kamiya, which is ironic since he directed the original Resident Evil 2 in 1998 and worked on the first RE game as well as Resident Evil Zero. Despite that survival-horror pedigree, Kamiya recently expressed his desire to play Requiem without having to deal with its scarier scenes. Kamiya's studio, Clovers, posted a clip of the team playing Requiem, which includes Kamiya's remarks about about the franchise. \"I've been saying forever they should make a 'non-scary' mode,\" said Kamiya. \"Look, I just want to enjoy the puzzles ... and the combat. I don't need the scary stuff.\" Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/resident-evil-requiem-needs-a-non-scary-mode-says-resident-evil-2-director/1100-6538700/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-03-10T19:08:00+00:00"
-  },
-  {
-    "title": "Senators try to unlock stalled crypto Clarity Act with compromise on stablecoin yield",
-    "description": "As the window narrows to pass a crypto market structure bill this year, lawmakers told bankers at a Washington summit that the final bill won't risk deposits.",
-    "link": "https://www.coindesk.com/policy/2026/03/10/senators-try-to-unlock-stalled-crypto-clarity-act-with-compromise-on-stablecoin-yield",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/373158434071ca13e84a92e6b5fc45188bb25bc6-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-10T19:00:12+00:00"
   },
   {
     "title": "Best Risotto Recipe (Creamy, Classic, and Foolproof)",
@@ -518,67 +518,74 @@
     "pubDate": "2026-03-10T01:49:11+00:00"
   },
   {
-    "title": "Brazil farmers face diesel cost jump as Middle East conflict lifts oil prices",
+    "title": "Korn Ferry Q3 2026 Earnings Call Summary",
     "description": "",
-    "link": "https://finance.yahoo.com/news/brazil-farmers-face-diesel-cost-201306222.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/fb6b961ec5e0b9a742525faceadf179a",
-    "pubDate": "2026-03-09T20:16:20+00:00"
+    "link": "https://finance.yahoo.com/news/korn-ferry-q3-2026-earnings-203152432.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/34e0f26ed7919a7e38fd6d8a64b43459",
+    "pubDate": "2026-03-09T20:31:52+00:00"
   },
   {
-    "title": "Dear Oracle Stock Fans, Mark Your Calendars for March 10",
+    "title": "FuelCell Energy, Inc. Q1 2026 Earnings Call Summary",
     "description": "",
-    "link": "https://finance.yahoo.com/news/dear-oracle-stock-fans-mark-201535255.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/JZjzmj7MJ7uz.6NrxfEUYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/e6270eaced21baa42d87300c42cfa807",
-    "pubDate": "2026-03-09T20:15:35+00:00"
+    "link": "https://finance.yahoo.com/news/fuelcell-energy-inc-q1-2026-203151153.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/79c07f0d816855dceb2daa0d66cbd633",
+    "pubDate": "2026-03-09T20:31:51+00:00"
   },
   {
-    "title": "HPE projects revenue above estimates, focuses on higher-margin networking orders",
+    "title": "Bitcoin Prices Rebound From Oil-Fueled Retreat, Nasdaq To Launch Tokenized Stocks",
     "description": "",
-    "link": "https://finance.yahoo.com/news/hewlett-packard-enterprise-forecasts-revenue-201203750.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/200e4e957dbc5ac4d06d2ced6859a80f",
-    "pubDate": "2026-03-09T20:12:03+00:00"
-  },
-  {
-    "title": "Nvidia Partner Transforms Into AI Factory – And Eyes Breakout",
-    "description": "",
-    "link": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/dell-stock-ai-factory-nvidia-partner/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/03/Stock-Robot-backBlue-adobe.jpg",
-    "pubDate": "2026-03-09T20:10:42+00:00"
-  },
-  {
-    "title": "What To Expect From Wednesday's Report On Inflation",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/expect-wednesdays-report-inflation-201026607.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/e7wlQCYN6M7R2O1OfissKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/91df0dc9fbc980ff4cfdc9f7b6b632ac",
-    "pubDate": "2026-03-09T20:10:26+00:00"
-  },
-  {
-    "title": "Dow Stock Jumps. A Plastic Product Is Proving Profitable.",
-    "description": "",
-    "link": "https://www.barrons.com/articles/dow-stock-upgrade-plastic-war-iran-b66dcf54?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.investors.com/news/bitcoin-price-oil-support-nasdaq-tokenized-stocks-equities-kraken-partnership/?src=A00220&yptr=yahoo",
     "thumbnail": "",
-    "pubDate": "2026-03-09T20:10:00+00:00"
+    "pubDate": "2026-03-09T20:31:11+00:00"
   },
   {
-    "title": "Dollar Falls Back on Trump Comments",
+    "title": "How inflation affects savings: Here's the interest rate you need to beat",
     "description": "",
-    "link": "https://finance.yahoo.com/news/dollar-falls-back-trump-comments-200332651.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ttWAOhEYWQtrEme3az8nUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/5715520a9bd54dba3e7be7936d5dffd9",
-    "pubDate": "2026-03-09T20:03:32+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/how-does-inflation-affect-savings-interest-rate-to-beat-202821596.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Y3LdTb0twMutI9UHMBXQkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTY-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/3fd06250-355c-11f0-9faf-1eebbaa9ad97",
+    "pubDate": "2026-03-09T20:28:21+00:00"
   },
   {
-    "title": "The average credit card interest rate is almost 24%, trapping Americans in debt. How to negotiate for a better rate",
+    "title": "These Stocks Are Today’s Movers: Hims &amp; Hers, Live Nation, Broadcom, Carnival, Vertiv, Sandisk, Strategy, and More",
     "description": "",
-    "link": "https://finance.yahoo.com/news/average-credit-card-interest-rate-200158114.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/a5yp1HKVCxxyiwHxfJoT8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/bcbc8a415189490ccc7f2fdbe7f0d75d",
-    "pubDate": "2026-03-09T20:01:58+00:00"
+    "link": "https://www.barrons.com/articles/stock-movers-9af4c823?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2026-03-09T20:28:00+00:00"
   },
   {
-    "title": "Air New Zealand suspends FY26 forecast as jet fuel spikes on Middle East conflict",
+    "title": "Explainer-Anthropic's case against the government: what the AI company says happened",
     "description": "",
-    "link": "https://finance.yahoo.com/news/air-zealand-suspends-fy26-forecast-200121678.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/8b895709d1ea98b29f28e07336683e46",
-    "pubDate": "2026-03-09T20:01:21+00:00"
+    "link": "https://finance.yahoo.com/news/explainer-anthropics-case-against-government-202650234.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/c9d37edc7bac3833ba6475a4c74a8503",
+    "pubDate": "2026-03-09T20:26:50+00:00"
+  },
+  {
+    "title": "This Waste Management Giant Breaks Out, Keeps Rising, Gets Stock Rating Upgrade",
+    "description": "",
+    "link": "https://www.investors.com/news/waste-management-gets-relative-strength-rating-upgrade/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2017/05/IRU77.jpg",
+    "pubDate": "2026-03-09T20:26:22+00:00"
+  },
+  {
+    "title": "Nvidia Stock Is Threatened by War in Iran. Chip Stocks Are Still Rallying Today.",
+    "description": "",
+    "link": "https://www.barrons.com/articles/nvidia-stock-price-iran-war-chips-7dab5d09?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2026-03-09T20:26:00+00:00"
+  },
+  {
+    "title": "American Airlines Downgraded, Surging Jet Fuel Prices Create Threat",
+    "description": "",
+    "link": "https://www.investors.com/news/american-airlines-downgrade-airlines-existential-threat-iran-analyst-aal-stock-dal-ual/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2020/04/Stock-American-Airlines-04-adobe.jpg",
+    "pubDate": "2026-03-09T20:25:53+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Gains As Trump Says Iran War Is 'Very Complete'; Cruise Stock Soars (Live Coverage)",
+    "description": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-news-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/04/stock-trump-madlook-shutterstock.jpg",
+    "pubDate": "2026-03-09T20:25:49+00:00"
   },
   {
     "title": "Sommeliers and Restaurants Have an AI Problem",
@@ -586,13 +593,6 @@
     "link": "https://www.bonappetit.com/story/ai-sommelier-problem",
     "thumbnail": "https://assets.bonappetit.com/photos/69aafc75f851045d291658a7/master/pass/webart%20-%20ai%20cant%20taste%20wine%20%202000x1125%204.jpg",
     "pubDate": "2026-03-09T15:14:59+00:00"
-  },
-  {
-    "title": "Oil prices fall 25% after soaring to 4-year highs as Trump says war is 'very complete'",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/oil-prices-fall-25-after-soaring-to-4-year-highs-as-trump-says-war-is-very-complete-224917378.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ic_Mxm2FrG8B5YLLjkkd3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/6eccaa90-1b26-11f1-b2f5-97cb40ef7f47",
-    "pubDate": "2026-03-08T22:49:17+00:00"
   },
   {
     "title": "The Best Coffee Scales to Level Up Your Pour-Over and Espresso (2026)",
