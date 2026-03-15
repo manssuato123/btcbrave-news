@@ -1,5 +1,12 @@
 [
   {
+    "title": "UK must build own nuclear missiles to end reliance on US, say Lib Dems",
+    "description": "Sir Ed Davey is calling on the government to start work on a \"fully independent British nuclear deterrent\".",
+    "link": "https://www.bbc.com/news/articles/cy0dz1k0rr4o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d6c/live/66e33f30-1f11-11f1-9a3d-e74384ba5d85.jpg",
+    "pubDate": "2026-03-15T05:59:31+00:00"
+  },
+  {
     "title": "FPV drone slams into US military base in Iraq",
     "description": "Iraq's Iranian-backed Kataib Hezbollah has released drone video from an attack on the US's Victory Base in Baghdad.",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/fpv-drone-slams-into-us-military-base-in-iraq?traffic_source=rss",
@@ -56,7 +63,7 @@
     "pubDate": "2026-03-15T03:29:57+00:00"
   },
   {
-    "title": "Officials could gain police-style powers to tackle fly-tippers",
+    "title": "Police-style powers to tackle fly-tippers being considered",
     "description": "The move would allow officers to search premises without a warrant, seize assets and arrest those suspected of criminality.",
     "link": "https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/286d/live/c26c9210-2025-11f1-9120-a910fc22c6ac.jpg",
@@ -117,13 +124,6 @@
     "link": "https://www.aljazeera.com/news/liveblog/2026/3/15/iran-war-live-trump-urges-world-to-keep-hormuz-strait-open?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260314__A3987GW__v2__HighRes__TopshotLebanonIsraelIranUsWar-1773530309.jpg?resize=1920%2C1440",
     "pubDate": "2026-03-15T00:00:00+00:00"
-  },
-  {
-    "title": "Iraq taking private plane to Mexico for World Cup play-off",
-    "description": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid the escalating US-Israeli war with Iran, the country's FA president Adnan Dirjal says.",
-    "link": "https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3095/live/2ffd6320-2000-11f1-af9e-2b055bffbbf4.jpg",
-    "pubDate": "2026-03-14T23:56:28+00:00"
   },
   {
     "title": "Pakistan strikes Afghan base after its president warns ‘red line’ crossed",
@@ -490,6 +490,27 @@
     "pubDate": "2026-03-14T04:52:48+00:00"
   },
   {
+    "title": "Shopper Sues Costco for Tariff Refunds",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/shopper-sues-costco-tariff-refunds-221901143.html",
+    "thumbnail": "https://s.yimg.com/os/en/sourcing_journal_735/387eecf280f5703512cfa69c4d3f0de4",
+    "pubDate": "2026-03-13T22:19:01+00:00"
+  },
+  {
+    "title": "Luxury retail giant cuts more than 1,200 jobs after bankruptcy filing",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/luxury-retail-giant-cuts-more-221700174.html",
+    "thumbnail": "https://s.yimg.com/os/en/thestreet_881/cf0abb5bef8ba2edbd52178ae2ec9043",
+    "pubDate": "2026-03-13T22:17:00+00:00"
+  },
+  {
+    "title": "Trump administration set to receive $10 billion fee for brokering TikTok deal, WSJ reports",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/trump-administration-set-receive-10-220832252.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/f8167db7d1e44b3e7dcb5131243c499b",
+    "pubDate": "2026-03-13T22:08:32+00:00"
+  },
+  {
     "title": "Pokémon Pokopia Habitat Dex list and requirements",
     "description": "Our Pokopia guide lists the available habitats in the game, along with what you need to make them and which Pokémon spawn from them.",
     "link": "https://www.polygon.com/pokemon-pokopia-habitat-dex-list-requirements-unlock/",
@@ -497,10 +518,24 @@
     "pubDate": "2026-03-13T22:01:47+00:00"
   },
   {
+    "title": "Cotton Posts Friday Rally",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/cotton-posts-friday-rally-220037471.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/HuP_jypJaynvytfl0pmSNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/0735ba5a47c039c9067fcb5efe57b711",
+    "pubDate": "2026-03-13T22:00:37+00:00"
+  },
+  {
     "title": "Soybeans Ease Lower into the Weekend",
     "description": "",
     "link": "https://finance.yahoo.com/news/soybeans-ease-lower-weekend-220037354.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/vMy7Gf8zmK4P8BPH4M.pSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/49abfa71445370152af353463593f744",
+    "pubDate": "2026-03-13T22:00:37+00:00"
+  },
+  {
+    "title": "Corn Closes Higher on Friday as CFTC Data Shows Spec Longs Flooding In",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/corn-closes-higher-friday-cftc-220037748.html",
+    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/0cc6997e86b10486f4446a6ac7221a34",
     "pubDate": "2026-03-13T22:00:37+00:00"
   },
   {
@@ -525,18 +560,11 @@
     "pubDate": "2026-03-13T21:55:11+00:00"
   },
   {
-    "title": "Is This the Most Overlooked Retirement Account?",
+    "title": "Auto industry groups urge Trump to keep Chinese autos out of US",
     "description": "",
-    "link": "https://finance.yahoo.com/news/most-overlooked-retirement-account-213800997.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2NeFrSu2xLksiuQ3hghw5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/cbc892ca7564bcd7cb8d5d2107f87a21",
-    "pubDate": "2026-03-13T21:38:00+00:00"
-  },
-  {
-    "title": "Trump Targets Housing Affordability in New Executive Orders",
-    "description": "",
-    "link": "https://www.wsj.com/politics/policy/trump-targets-housing-affordability-in-new-executive-orders-53713c71?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-03-13T21:37:00+00:00"
+    "link": "https://finance.yahoo.com/news/auto-industry-groups-urge-trump-213803217.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/MeiiZA9R2alqfRp80n3RuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/635b5980-1f28-11f1-b79b-55416fd9e5df",
+    "pubDate": "2026-03-13T21:38:03+00:00"
   },
   {
     "title": "Longtime Noma Chef René Redzepi Steps Down, Following Abuse Allegations",
@@ -544,34 +572,6 @@
     "link": "https://www.bonappetit.com/story/noma-rene-redzepi-steps-down",
     "thumbnail": "https://assets.bonappetit.com/photos/69b30f08120fccd555d1d0fa/master/pass/GettyImages-2265526943.jpg",
     "pubDate": "2026-03-13T21:30:00+00:00"
-  },
-  {
-    "title": "Is Entergy Stock Outperforming the Dow?",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/entergy-stock-outperforming-dow-212746593.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/f947c44db7d7759f1ab6bbd38b07796a",
-    "pubDate": "2026-03-13T21:27:46+00:00"
-  },
-  {
-    "title": "Stock Market Today: Nasdaq Sinks Below Key Level As War Stokes Volatility, Adobe Plunges (Live Coverage)",
-    "description": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2024/11/Stock-wallstreetnyseflag-30-shutt.jpg",
-    "pubDate": "2026-03-13T21:24:08+00:00"
-  },
-  {
-    "title": "Tesla’s China-Made EV Sales Just Nearly Doubled. Should You Buy TSLA Stock Now in Hopes of an Auto Business Rebound?",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/tesla-china-made-ev-sales-211933942.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/0a2157d82990cecdb14c8f8791e86f54",
-    "pubDate": "2026-03-13T21:19:33+00:00"
-  },
-  {
-    "title": "Stock market today: Dow, S&amp;P 500, Nasdaq slide to cap 3rd week of losses as $100 oil sparks inflation fears",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-to-cap-3rd-week-of-losses-as-100-oil-sparks-inflation-fears-200021158.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/JS9pvJvinPZuryO5Z7RBlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/27fc2710-1e66-11f1-bfdf-e31e5d2850a0",
-    "pubDate": "2026-03-13T20:00:21+00:00"
   },
   {
     "title": "Donkey Kong Bananza Began As A Goomba With Giant Fists",
