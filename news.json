@@ -1,10 +1,38 @@
 [
   {
+    "title": "Oil Tops $106 a Barrel as Worries Persist About Global Supplies",
+    "description": "As the broader war in the Middle East begins its third week, worries over the fallout of crippled energy supplies continue to roil markets.",
+    "link": "https://www.nytimes.com/2026/03/16/business/oil-stock-gas-markets-iran.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-16T08:24:05+00:00"
+  },
+  {
+    "title": "'We will remember': Trump warns countries to help secure Strait of Hormuz as shipping stalls",
+    "description": "Trump's comments come after he called on several countries to send warships so as to secure the critical waterway",
+    "link": "https://www.cnbc.com/2026/03/16/trump-demands-allies-secure-strait-of-hormuz-oil-iran.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108278047-17734422762026-03-13t225042z_1581003773_rc2x3kazp7yz_rtrmadp_0_usa-trump.jpeg?v=1773442349&w=1920&h=1080",
+    "pubDate": "2026-03-16T08:21:20+00:00"
+  },
+  {
     "title": "Starmer to set out support plan for heating oil costs",
     "description": "Households have faced a sharp rise in the cost of heating oil since the outbreak of the US-Israeli war with Iran.",
     "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcc/live/de4b0bd0-2087-11f1-8af0-cf4f458e05d4.jpg",
-    "pubDate": "2026-03-16T07:34:23+00:00"
+    "pubDate": "2026-03-16T08:21:04+00:00"
+  },
+  {
+    "title": "Oil’s war-driven volatility pulls in record retail money, fueling 'meme-style' trading",
+    "description": "Net retail buying of oil ETFs hit a record $211 million on March 12, surpassing the previous peak seen during the market turmoil in May 2020, according to Vanda Research.",
+    "link": "https://www.cnbc.com/2026/03/16/oil-crude-iran-war-retailers-meme.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108278133-1773630199782-gettyimages-1291793770-366223843.jpeg?v=1773630208&w=1920&h=1080",
+    "pubDate": "2026-03-16T08:18:44+00:00"
+  },
+  {
+    "title": "Crude prices top $100 as Trump says U.S. may hit Iran's oil hub again 'just for fun'",
+    "description": "The U.S. strikes on Kharg Island and Trump's threat to hit Iran's oil infrastructure mark a major escalation in the war, according to JPMorgan.",
+    "link": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108275417-17730649142026-03-09t133829z_1021977946_rc211kaxtlru_rtrmadp_0_iran-crisis-oil-kharg.jpeg?v=1773064936&w=1920&h=1080",
+    "pubDate": "2026-03-16T07:54:31+00:00"
   },
   {
     "title": "Ships stranded at Hormuz, energy crunch at home: How India’s U.S.-Israel tilt is testing ties with Iran",
@@ -14,18 +42,25 @@
     "pubDate": "2026-03-16T07:12:28+00:00"
   },
   {
-    "title": "'We will remember': Trump warns countries to help secure Strait of Hormuz as shipping stalls",
-    "description": "Trump's comments come after he called on several countries to send warships so as to secure the critical waterway",
-    "link": "https://www.cnbc.com/2026/03/16/trump-demands-allies-secure-strait-of-hormuz-oil-iran.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108278047-17734422762026-03-13t225042z_1581003773_rc2x3kazp7yz_rtrmadp_0_usa-trump.jpeg?v=1773442349&w=1920&h=1080",
-    "pubDate": "2026-03-16T07:06:34+00:00"
-  },
-  {
     "title": "Trump’s warning over Kharg Island raises the stakes for Iran’s oil exports",
     "description": "Trump's decision to order strikes on Kharg Island has pushed one of the world's most critical oil hubs into the center of the escalating U.S.-Iran conflict.",
     "link": "https://www.cnbc.com/2026/03/16/trump-iran-kharg-island-strikes-oil-exports.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108043422-1728051369124-gettyimages-652566374-AA_12032017_474903.jpeg?v=1749817673&w=1920&h=1080",
     "pubDate": "2026-03-16T07:02:03+00:00"
+  },
+  {
+    "title": "Japan begins release of oil reserves as Iran war sparks energy crisis",
+    "description": "Tokyo's move comes as oil prices remain elevated amid the effective closure of the Strait of Hormuz.",
+    "link": "https://www.aljazeera.com/economy/2026/3/16/japan-begins-release-of-oil-reserves-as-iran-war-sparks-energy-crisis?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260316__A3EM69Z__v1__MidRes__JapanEconomyEnergy-1773636683_8e13b0-1773640669.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-03-16T06:56:13+00:00"
+  },
+  {
+    "title": "Madagascar names anticorruption chief as PM days after cabinet dissolved",
+    "description": "President announces Mamitiana Rajaonarison as prime minister after Herintsalama Rajaonarivelo was dismissed.",
+    "link": "https://www.aljazeera.com/news/2026/3/16/madagascar-names-anticorruption-chief-as-pm-days-after-cabinet-dissolved?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/10/AP25290276352088-1760688063.jpg?resize=1920%2C1440",
+    "pubDate": "2026-03-16T06:55:40+00:00"
   },
   {
     "title": "CNBC Daily Open: Strait talk from Trump",
@@ -35,8 +70,8 @@
     "pubDate": "2026-03-16T06:52:22+00:00"
   },
   {
-    "title": "AI data center gold rush sparks debate over impact on Bitcoin",
-    "description": "Crypto trader Ran Neuner said Bitcoin could be in danger if AI continues to pull miners away from the network, but others disagree.",
+    "title": "AI data center gold rush sparks debate over impact on Bitcoin mining",
+    "description": "Crypto trader Ran Neuner said Bitcoin could be at risk if AI continues to pull miners away from the network, but others disagree.",
     "link": "https://cointelegraph.com/news/bitcoin-miner-pivot-ai-threat-or-opportunity-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Y1MDAtYTc3Ny03MTUyLThhMGItYjA0MWE2MGE5Zjc0LmpwZw==.jpg",
     "pubDate": "2026-03-16T06:46:17+00:00"
@@ -63,11 +98,11 @@
     "pubDate": "2026-03-16T06:28:01+00:00"
   },
   {
-    "title": "Holiday spending, export demand drive China’s economic momentum as Iran war headwinds loom",
-    "description": "Beijing tamped down its GDP growth target this year to a range of 4.5% to 5%, the least ambitious goal on record going back to the early 1990s.",
-    "link": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108263761-1770728766030-gettyimages-2258011828-cfoto-postalde260128_npOMw.jpeg?v=1770728931&w=1920&h=1080",
-    "pubDate": "2026-03-16T06:11:06+00:00"
+    "title": "Six talking points from final round of Six Nations",
+    "description": "England's indiscipline, \"cheat code\" Louis Bielle-Biarrey, Irish and Scottish positives, and Welsh confidence returns - talking points from the final round.",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cqj9nke90djo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6be/live/39ce6a20-20be-11f1-801d-ed3cff6bf876.png",
+    "pubDate": "2026-03-16T06:17:52+00:00"
   },
   {
     "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
@@ -75,13 +110,6 @@
     "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25a6/live/9833eb40-1efb-11f1-9120-a910fc22c6ac.png",
     "pubDate": "2026-03-16T06:10:55+00:00"
-  },
-  {
-    "title": "Big Tech purchases of carbon credits explode amid AI race, with Microsoft leading the way",
-    "description": "Carbon credit purchases by Amazon, Google, Meta and Microsoft skyrocketed in 2023, based on tracked purchases.",
-    "link": "https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106849436-1614887156067-Climeworks_direct_air_capture_plant_in_Hinwil_Copyright_Climeworks.jpg?v=1626982515&w=1920&h=1080",
-    "pubDate": "2026-03-16T06:08:24+00:00"
   },
   {
     "title": "Rafah crossing closure leaves Gaza patients trapped without treatment",
@@ -159,13 +187,6 @@
     "link": "https://www.coindesk.com/business/2026/03/11/crypto-trading-firm-blockfills-has-filed-for-bankruptcy",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/39cad2102963a71638c30bdda262a3a340de4766-1647x1235.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-16T04:27:44+00:00"
-  },
-  {
-    "title": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
-    "description": "Six members of a Palestinian family went out for a ride in the car. Only two made it back home.",
-    "link": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-16T04:26:57+00:00"
   },
   {
     "title": "Oscars 2026: Full list of winners",
@@ -259,7 +280,7 @@
     "pubDate": "2026-03-16T03:17:10+00:00"
   },
   {
-    "title": "Historic firsts, risqué jokes, and a tie: watch the top Oscar moments",
+    "title": "Historic firsts, emotional speeches, and a tie: Watch the top Oscars moments",
     "description": "One Battle After Another dominated the night with six awards, while Sinners and Frankenstein weren't far behind.",
     "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cfd/live/187de720-20e5-11f1-9120-a910fc22c6ac.jpg",
@@ -271,13 +292,6 @@
     "link": "https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/IG_thumb-1773630684.jpg?resize=1200%2C675",
     "pubDate": "2026-03-16T03:14:39+00:00"
-  },
-  {
-    "title": "'It's a tie, I'm not joking' - unusual Oscars moment sees two films share award",
-    "description": "The rare but not unprecedented tie saw The Singers and Two People Exchanging Saliva both win for best short live action film.",
-    "link": "https://www.bbc.com/news/articles/ce3gd8pk91jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202a/live/2bfecd20-20e3-11f1-801d-ed3cff6bf876.jpg",
-    "pubDate": "2026-03-16T02:47:47+00:00"
   },
   {
     "title": "Best animated film winner Kpop Demon Hunters captures hearts world over",
@@ -294,32 +308,11 @@
     "pubDate": "2026-03-16T02:33:10+00:00"
   },
   {
-    "title": "U.S. oil prices stay elevated as Trump threatens strikes on Iran's crude export facilities",
-    "description": "The U.S. strikes on Kharg Island and Trump's threat to hit Iran's oil infrastructure mark a major escalation in the war, according to JPMorgan.",
-    "link": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108275417-17730649142026-03-09t133829z_1021977946_rc211kaxtlru_rtrmadp_0_iran-crisis-oil-kharg.jpeg?v=1773064936&w=1920&h=1080",
-    "pubDate": "2026-03-16T02:32:03+00:00"
-  },
-  {
     "title": "Fire erupts at Dubai airport following drone attack",
     "description": "Footage shows fire near Dubai International Airport after a drone ignited a fuel tank, according to UAE authorities.",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fire-erupts-at-dubai-airport-following-drone-attack?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1773627975.jpg?resize=1200%2C675",
     "pubDate": "2026-03-16T02:29:42+00:00"
-  },
-  {
-    "title": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz",
-    "description": "Brent crude tops $106 a barrel as markets see no end in sight to the halt of traffic through the critical waterway.",
-    "link": "https://www.aljazeera.com/economy/2026/3/16/oil-prices-keep-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260314__A39E2WF__v1__MidRes__JapanEconomyOil-1773622227_e3a436-1773627756.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-03-16T02:05:53+00:00"
-  },
-  {
-    "title": "US-Israeli strike pounds city of Hamadan, Iran",
-    "description": "Footage shows huge plumes of smoke from a US-Israeli strike on Hamadan, Iran.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israeli-strike-pounds-city-of-hamadan-iran?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/IG_Thumb-1773624198.jpg?resize=1200%2C675",
-    "pubDate": "2026-03-16T01:26:27+00:00"
   },
   {
     "title": "Aave to launch ‘Aave Shield’ after $50M token swap mishap",
@@ -364,7 +357,7 @@
     "pubDate": "2026-03-15T21:56:41+00:00"
   },
   {
-    "title": "Uni student among two dead in Kent meningitis outbreak",
+    "title": "Two people die, including university student, in Kent meningitis outbreak",
     "description": "Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands.",
     "link": "https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg",
@@ -469,13 +462,6 @@
     "pubDate": "2026-03-15T12:00:16+00:00"
   },
   {
-    "title": "Slice Your Loaf Cake Before You Bake It",
-    "description": "This two-second trick encourages an even rise and domed top.",
-    "link": "https://www.bonappetit.com/story/slit-cake-batter",
-    "thumbnail": "https://assets.bonappetit.com/photos/698a4c2c7c83caad4ecc26ee/master/pass/guinness-loaf-cake_INSET_V1_020526_4253_VOG_final.jpg",
-    "pubDate": "2026-03-15T12:00:00+00:00"
-  },
-  {
     "title": "Christopher Walken gives his creepiest performance in ’90s thriller The Comfort of Strangers",
     "description": "The erotic drama, directed by Paul Schrader, stars Walken and Helen Mirren as an older couple circling Rupert Everett and Natasha Richardson in Venice",
     "link": "https://www.polygon.com/the-comfort-of-strangers-christopher-walken-psychological-thriller/",
@@ -488,6 +474,27 @@
     "link": "https://www.nytimes.com/2026/03/15/business/the-billionaire-backlash-against-a-philanthropic-dream.html",
     "thumbnail": "",
     "pubDate": "2026-03-15T09:00:10+00:00"
+  },
+  {
+    "title": "Garmin, QuantumScape, and Synaptics: Three Under-the-Radar Tech Plays Worth Watching",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/garmin-quantumscape-synaptics-three-under-214101326.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Aq6_gPsmehQYq8vE9tsnsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzA-/https://media.zenfs.com/en/24_7_wall_st__718/790c1adff6f512bf0179846fd95be3ca",
+    "pubDate": "2026-03-14T21:41:01+00:00"
+  },
+  {
+    "title": "‘I’m experiencing issues with arthritis’: I’m 68 with $3 million saved. Why am I not ready for a life of leisure?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/m-experiencing-issues-arthritis-m-223900380.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/6StqKbn4KKt9Y9KxRR2J3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/68b753f51b67c43c1a18c4a8f774f78d",
+    "pubDate": "2026-03-14T21:38:00+00:00"
+  },
+  {
+    "title": "William Blair Remains a Buy on AppLovin (APP), Here’s Why",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/william-blair-remains-buy-applovin-203620606.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/KcCuSXmF4WtCc0Q8B00aRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/9bbb89ebaabf3d70fdba695a6a72a8ca",
+    "pubDate": "2026-03-14T20:36:20+00:00"
   },
   {
     "title": "Malaysia’s Anti-Graft Agency Investigating Deal Between Arm Holdings (ARM) and the Malaysian Government",
@@ -532,39 +539,11 @@
     "pubDate": "2026-03-14T20:36:11+00:00"
   },
   {
-    "title": "Amrize Ltd (AMRZ) Launches New EVERtect High-Performance Concrete Product Line",
+    "title": "GE HealthCare (GEHC) Receives FDA 510 (k) Clearance for View",
     "description": "",
-    "link": "https://finance.yahoo.com/news/amrize-ltd-amrz-launches-evertect-203534207.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/W0xhcRIeRR1sIaE6WGbvGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a55a5ad72893ec725036e3c6d1664b45",
-    "pubDate": "2026-03-14T20:35:34+00:00"
-  },
-  {
-    "title": "Bernstein SocGen Group Reiterates a Buy on Circle Internet Group (CRCL)",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/bernstein-socgen-group-reiterates-buy-203532415.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/NpOokCLt9vz0R1.0yvt7hQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/e480daa5fdabbe22c18ded0fa6c0e9a8",
-    "pubDate": "2026-03-14T20:35:32+00:00"
-  },
-  {
-    "title": "Dollar General borrows Costco’s bargain hunt playbook",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/dollar-general-borrows-costco-bargain-003700358.html",
-    "thumbnail": "https://s.yimg.com/os/en/thestreet_881/4cd1f98c4bfd66a5d29f65672c25c1e0",
-    "pubDate": "2026-03-14T20:13:22+00:00"
-  },
-  {
-    "title": "The Artificial Intelligence (AI) Stock That Refuses to Slow Down, and It's Not Nvidia",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-refuses-200500763.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/W4VSjbUxPZQBV56N8Y_JJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/3e1fe4ab57d281c45211317220cb6627",
-    "pubDate": "2026-03-14T20:05:00+00:00"
-  },
-  {
-    "title": "Where to Stay in New York City If You Like to Eat",
-    "description": "To wine and dine your way through the city, a strategic home base is critical.",
-    "link": "https://www.bonappetit.com/story/where-to-stay-new-york-city-food-lovers",
-    "thumbnail": "https://assets.bonappetit.com/photos/69b472f82b6930acdeab92b2/master/pass/Hero%20Hotel%20Chelsea%20Solarium%20.jpg",
-    "pubDate": "2026-03-14T19:38:28+00:00"
+    "link": "https://finance.yahoo.com/news/ge-healthcare-gehc-receives-fda-203535014.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/9LY.GuRI.QNh46CzPBuJEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/750a0e87dc2bd52a02e0bfe5b37db390",
+    "pubDate": "2026-03-14T20:35:35+00:00"
   },
   {
     "title": "Today's Games Can Feel \"Soulless,\" But Can Punch The Monkey Change That?",
@@ -574,11 +553,11 @@
     "pubDate": "2026-03-14T15:29:00+00:00"
   },
   {
-    "title": "31 Spring Side Dishes to Brighten Any Meal",
-    "description": "Like blistered asparagus with harissa and pickled rhubarb salad.",
-    "link": "https://www.bonappetit.com/gallery/spring-side-dishes-vegetable-recipes",
-    "thumbnail": "https://assets.bonappetit.com/photos/626c555eaa9e027d3e29d54d/master/pass/0429-asparagus-pulao-recipe-lede.jpg",
-    "pubDate": "2026-03-14T14:00:00+00:00"
+    "title": "Kalshi co-founder Luana Lopes Lara on the biggest prediction markets risks she has ever taken",
+    "description": "Luana Lopes Lara, co-founder of prediction markets startup Kalshi, tells CNBC about the biggest bets she ever made on the way to billionaire status.",
+    "link": "https://www.cnbc.com/2026/03/14/kalshi-prediction-markets-bet-luana-lopes-lara.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108265969-1771182194896-CHANGEMAKERS_2025_WEB_PROFILE_PORTRAIT_1920x1080_Luana_Lopes_Lara.jpg?v=1771182249&w=1920&h=1080",
+    "pubDate": "2026-03-14T14:42:44+00:00"
   },
   {
     "title": "A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable?",
@@ -588,17 +567,10 @@
     "pubDate": "2026-03-14T11:00:01+00:00"
   },
   {
-    "title": "Longtime Noma Chef René Redzepi Steps Down, Following Abuse Allegations",
-    "description": "Can it survive?",
-    "link": "https://www.bonappetit.com/story/noma-rene-redzepi-steps-down",
-    "thumbnail": "https://assets.bonappetit.com/photos/69b30f08120fccd555d1d0fa/master/pass/GettyImages-2265526943.jpg",
-    "pubDate": "2026-03-13T21:30:00+00:00"
-  },
-  {
     "title": "Donkey Kong Bananza Began As A Goomba With Giant Fists",
     "description": "Nintendo loves to build on what it has already created. Donkey Kong Bananza, a game that mixes 3D platforming with freeform destruction, began as a prototype that built on ideas featured in Super Mario Odyssey, and the prototype featured a Goomba with giant fists. Super Mario Odyssey’s Luncheon Kingdom, among other areas, featured breakable structures scattered throughout the environment. These objects could be smashed into pieces using many of the special abilities Cappy gave Mario. Nintendo producer Kenta Motokura and programmer Tatsuya Kurihara explained how that mechanic eventually helped inspire the creation of Donkey Kong Bananza during a talk at the Game Developers Conference in San Francisco this week. After Odyssey was complete, Kurihara put together a simple prototype using assets from the game. He strapped two giant fists onto a Goomba to test how it would feel to smash through walls and even grab debris from those walls to throw. You can see our rendition of what that may have looked like above. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/donkey-kong-bananza-began-as-a-goomba-with-giant-fists/1100-6538789/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/a/uploads/original/1595/15957481/4666261-dk-5.jpg",
     "pubDate": "2026-03-13T18:50:00+00:00"
   },
   {
@@ -656,47 +628,5 @@
     "link": "https://www.gamespot.com/articles/the-best-way-to-watch-fallout-on-prime-is-getting-more-expensive/1100-6538781/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-03-13T16:33:00+00:00"
-  },
-  {
-    "title": "This Sponge Cleans My Wine Glasses Better Than Any Other I've Ever Used",
-    "description": "And it keeps everything else pretty darn clean too.",
-    "link": "https://www.bonappetit.com/story/mitts-sponge-highly-recommend",
-    "thumbnail": "https://assets.bonappetit.com/photos/69b4234de2de7107165b7350/master/pass/Mitts%20-%201.jpg",
-    "pubDate": "2026-03-13T16:22:26+00:00"
-  },
-  {
-    "title": "Does Flour Go Bad? Learn How to Keep It Fresh",
-    "description": "Are you baking with spoiled flour? Learn how to tell and the best ways to keep it fresh.",
-    "link": "https://www.bonappetit.com/story/does-flour-go-bad-article",
-    "thumbnail": "https://assets.bonappetit.com/photos/698a5ae4f15840c201467182/master/pass/does-flour-go-bad_LEDE_V1_020626_4477_VOG_final.jpg",
-    "pubDate": "2026-03-13T15:19:49+00:00"
-  },
-  {
-    "title": "Bean Chili and More Recipes We Made This Week",
-    "description": "Like one-pan salmon and chocolate peanut butter cookies.",
-    "link": "https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-march-2026",
-    "thumbnail": "https://assets.bonappetit.com/photos/699903820cf800f7d14cbf74/master/pass/chile-sin-carne_RECIPE_V1_021926_4556_VOG_final.jpg",
-    "pubDate": "2026-03-13T10:00:00+00:00"
-  },
-  {
-    "title": "No-Nonsense Matzo Balls",
-    "description": "This straightforward technique delivers fluffy, flavorful results every time.",
-    "link": "https://www.bonappetit.com/recipe/bas-best-matzo-balls",
-    "thumbnail": "https://assets.bonappetit.com/photos/5ca651ac8eeeed46ba21c763/master/pass/matzo-balls.jpg",
-    "pubDate": "2026-03-12T21:27:46+00:00"
-  },
-  {
-    "title": "BA’s Best Matzo Ball Soup",
-    "description": "Our take on the Jewish classic starts with roasted chicken wings for a rich broth and poached legs for the most tender meat.",
-    "link": "https://www.bonappetit.com/recipe/best-matzo-ball-soup",
-    "thumbnail": "https://assets.bonappetit.com/photos/5ca53251a63de5746feb255d/master/pass/matzo-ball-soup.jpg",
-    "pubDate": "2026-03-12T21:27:20+00:00"
-  },
-  {
-    "title": "We Tested 35 Blenders to Find the Best at Every Price (2026)",
-    "description": "Smoothies, soups, and slushy cocktails here we come.",
-    "link": "https://www.bonappetit.com/story/best-blender",
-    "thumbnail": "https://assets.bonappetit.com/photos/69b3019995db445cf5d38e7b/master/pass/Best%20blenders%202.1.jpg",
-    "pubDate": "2026-03-12T18:16:33+00:00"
   }
 ]
