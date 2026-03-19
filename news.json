@@ -1,5 +1,40 @@
 [
   {
+    "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+    "description": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
+    "link": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279442-1773835440432-gettyimages-2266641446-AFP_A3PG2PD.jpeg?v=1773835461&w=1920&h=1080",
+    "pubDate": "2026-03-19T11:39:12+00:00"
+  },
+  {
+    "title": "Micron falls more than 5% despite blockbuster earnings. Here's what market watchers are saying",
+    "description": "Wednesday's blockbuster earnings were not enough to stop shares in Micron Technology from falling 5.5% in pre-market trading.",
+    "link": "https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108243544-1766065451079-gettyimages-2251310649-raa-micronte251214_npU1g.jpeg?v=1773919563&w=1920&h=1080",
+    "pubDate": "2026-03-19T11:26:38+00:00"
+  },
+  {
+    "title": "Gulf states have tolerated Iranian strikes so far — but their 'defensive' stance won't last forever",
+    "description": "The Gulf states have said Iran's attacks on energy infrastructure won't \"go unanswered\" but, so far, they have not hit back. That stance could change soon.",
+    "link": "https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107298082-16942674342023-09-09t134514z_643888528_rc2053ahtxh7_rtrmadp_0_g20-summit.jpeg?v=1695905460&w=1920&h=1080",
+    "pubDate": "2026-03-19T11:16:26+00:00"
+  },
+  {
+    "title": "More Cesar Chavez Fallout Expected After Sex Abuse Accusations",
+    "description": "Some states and cities have canceled their observances of Cesar Chavez Day on March 31. Los Angeles leaders said they planned to change the holiday to “Farm Workers Day” and untether it from Mr. Chavez’s birthday.",
+    "link": "https://www.nytimes.com/2026/03/19/us/cesar-chavez-sex-abuse-fallout.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-19T11:13:01+00:00"
+  },
+  {
+    "title": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
+    "description": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides.",
+    "link": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/246b/live/cad7d570-237e-11f1-bdf1-7b521ec55fd1.jpg",
+    "pubDate": "2026-03-19T11:05:55+00:00"
+  },
+  {
     "title": "Netflix wants to send KPop Demon Hunters on tour",
     "description": "Netflix plans to send the film's fictional band Huntr/x on a world tour, but there are concerns about the performers' ability to handle it.",
     "link": "https://www.polygon.com/kpop-demon-hunters-world-tour-netflix/",
@@ -14,32 +49,39 @@
     "pubDate": "2026-03-19T10:47:19+00:00"
   },
   {
-    "title": "Gulf states have tolerated Iranian strikes so far — but their 'defensive' stance won't last forever",
-    "description": "The Gulf states have said Iran's attacks on energy infrastructure won't \"go unanswered\" but, so far, they have not hit back. That stance could change soon.",
-    "link": "https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107298082-16942674342023-09-09t134514z_643888528_rc2053ahtxh7_rtrmadp_0_g20-summit.jpeg?v=1695905460&w=1920&h=1080",
-    "pubDate": "2026-03-19T10:47:05+00:00"
+    "title": "Eli Lilly’s next-generation obesity drug retatrutide clears first late-stage diabetes trial",
+    "description": "Lilly is betting big on retatrutide as the next pillar of its obesity portfolio after its weight loss injection Zepbound and its upcoming pill, orforglipron.",
+    "link": "https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108230176-1764603822722-108230176-17637559702025-11-21t201158z_1546648356_rc261iafo6zz_rtrmadp_0_lilly-stocks.jpg?v=1770233446&w=1920&h=1080",
+    "pubDate": "2026-03-19T10:45:01+00:00"
   },
   {
-    "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-    "description": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
-    "link": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279442-1773835440432-gettyimages-2266641446-AFP_A3PG2PD.jpeg?v=1773835461&w=1920&h=1080",
-    "pubDate": "2026-03-19T10:46:50+00:00"
+    "title": "Bitcoin slips to $70,000 as oil surge, Fed pause weigh on risk assets",
+    "description": "BTC dipped below $70,000 as energy prices spiked and the Fed held interest rates, pressuring crypto and equities.",
+    "link": "https://www.coindesk.com/markets/2026/03/19/bitcoin-slips-to-usd70-000-as-oil-surge-fed-pause-weigh-on-risk-assets",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/968ba88cda8ba111f0c95b5aea3d50336ddcab77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-19T10:42:57+00:00"
   },
   {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "description": "The attacks led to a spike of more than 25% in gas prices in Europe on Thursday.",
     "link": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c70/live/652707c0-2318-11f1-83bb-2f220ea2da92.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94f9/live/f39e48f0-2387-11f1-934f-036468834728.jpg",
     "pubDate": "2026-03-19T10:37:36+00:00"
   },
   {
-    "title": "Alibaba revenue misses estimates in December quarter as net income drops 66%",
-    "description": "The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.",
-    "link": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108278750-1773735331322-gettyimages-2263465138-tang-notitle260228_nphMv.jpeg?v=1773852998&w=1920&h=1080",
-    "pubDate": "2026-03-19T10:31:18+00:00"
+    "title": "Bitcoin’s quantum threat is real, but far from an existential crisis, Galaxy says",
+    "description": "Developers are already working to address quantum risks, and investors shouldn’t mistake a long-term challenge for an immediate threat, according to Galaxy Digital’s head of research Alex Thorn.",
+    "link": "https://www.coindesk.com/tech/2026/03/19/bitcoin-s-quantum-threat-is-real-but-far-from-an-existential-crisis-galaxy-says",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/49185d1f9c95b67e15b741c97c79eadec3a4d917-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-19T10:30:00+00:00"
+  },
+  {
+    "title": "Bitcoin, unusually, outperforms gold as hawkish Fed, oil price fuel risk-off sentiment",
+    "description": "Bitcoin fell 2% while gold and silver saw sharper declines as oil prices surged and the Fed flashed hawkish signals.",
+    "link": "https://www.coindesk.com/markets/2026/03/19/bitcoin-unusually-outperforms-gold-as-hawkish-fed-oil-price-fuel-risk-off-sentiment",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bd5ea90857dc7f405bccf41eead8008abd41997d-1473x969.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-19T10:28:15+00:00"
   },
   {
     "title": "Robin Hood: Prince Of Thieves Gets A 4K Box Set, Preorders Available Now",
@@ -49,18 +91,18 @@
     "pubDate": "2026-03-19T10:26:00+00:00"
   },
   {
+    "title": "Why Ethereum developers want ‘one-click staking’ for institutions",
+    "description": "Ethereum developers are pushing one-click staking to simplify validator operations, attract institutions and strengthen decentralization across the network.",
+    "link": "https://cointelegraph.com/news/ethereum-one-click-staking-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d0562-9fbe-7c81-a65f-532e92a0a0c8.jpg",
+    "pubDate": "2026-03-19T10:18:35+00:00"
+  },
+  {
     "title": "Lego's New Tintin Rocket Set Is Straight Out of the Comics",
     "description": "Lego Tintin Moon Rocket (1,283 pieces) $160 | Releases April 1 Preorder at Lego Store Many Lego sets have been based on Marvel and DC Comics characters, but for its next release, the company is looking to Belgium for its first Tintin collaboration. Based on the iconic Herge comics featuring the young reporter traveling the world and the cosmos, the new Tintin Moon Rocket kit is priced at $160 and launches on April 1. Lego Tintin Moon Rocket (1,283 pieces) $160 | Releases April 1 Gallery Preorder at Lego Store Inspired by the 1953 Destination Moon and Explorers on the Moon comic book serials, the 1,283-piece model is an accurate recreation of the iconic rocketship. It features the red-and-white checker pattern, a curvy shape symbolic of the Space Race era, and a removable hull section that reveals inner details like the observation room. The included minifigures really tie the set together, with five in total and Snowy, of course. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/lego-tintin-rocket-buying-guide/1100-6538793/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-03-19T10:15:00+00:00"
-  },
-  {
-    "title": "Interest rates expected to be held due to Iran war",
-    "description": "Before the conflict began, analysts had expected a cut in the Bank rate at this meeting.",
-    "link": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfd/live/920acb20-22b2-11f1-8a6e-abb477324122.jpg",
-    "pubDate": "2026-03-19T10:12:36+00:00"
   },
   {
     "title": "New Counter-Strike 2 Update Completely Changes How You Manage Ammo",
@@ -105,6 +147,13 @@
     "pubDate": "2026-03-19T10:00:00+00:00"
   },
   {
+    "title": "ECB opens digital euro work on ATMs and payment terminals",
+    "description": "The initiative targets how a digital euro would operate across existing payment rails, with emphasis on offline transactions and interoperability.",
+    "link": "https://cointelegraph.com/news/ecb-digital-euro-atm-payments-workstreams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/0198d0a0-1927-7fcb-8918-923b89ae0f9d",
+    "pubDate": "2026-03-19T09:56:54+00:00"
+  },
+  {
     "title": "Police investigating bailout email from Mandelson to Epstein",
     "description": "Met chief Sir Mark Rowley says police are looking at whether the email was a criminal offence.",
     "link": "https://www.bbc.com/news/articles/c4g8ggelrd5o?at_medium=RSS&at_campaign=rss",
@@ -122,15 +171,15 @@
     "title": "OpenClaw devs targeted by phishing scam promising free ‘CLAW’ tokens",
     "description": "A phishing campaign used fake GitHub posts and a bogus “CLAW” token to lure OpenClaw developers into connecting crypto wallets.",
     "link": "https://cointelegraph.com/news/openclaw-phishing-scam-free-claw-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA1MjUtZGUwNy03YTEzLWIzYmYtZDE2YzE2ZGMxNjE2LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d0525-de07-7a13-b3bf-d16c16dc1616.jpg",
     "pubDate": "2026-03-19T09:29:21+00:00"
   },
   {
-    "title": "Kevin Spacey and accusers settle before civil trial",
-    "description": "The actor agrees an out-of-court settlement with three men who accused him of sexual assault.",
-    "link": "https://www.bbc.com/news/articles/c5ygyypy7pro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ede/live/12ebab60-caed-11f0-b98a-b90b4f2123a5.jpg",
-    "pubDate": "2026-03-19T09:27:23+00:00"
+    "title": "How the war may affect money and bills",
+    "description": "The conflict in the Middle East could raise the cost of petrol, household energy bills and even food.",
+    "link": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a09/live/0a0383d0-237e-11f1-a79a-77e93010d956.jpg",
+    "pubDate": "2026-03-19T09:29:09+00:00"
   },
   {
     "title": "US East Asian allies in legal quandary as Trump seeks help in the Middle East",
@@ -145,13 +194,6 @@
     "link": "https://www.aljazeera.com/sports/2026/3/19/iran-to-boycott-world-cup-games-in-us-but-will-not-withdraw-from-2026-event?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20221108__32N66ND__v1__HighRes__FblWc2022IrnJersey-1773906501-e1773913382753.jpg?resize=1920%2C1440",
     "pubDate": "2026-03-19T09:06:01+00:00"
-  },
-  {
-    "title": "Crimson Desert Is South Korea’s Latest Game With Big Ambitions",
-    "description": "The open-world fantasy Crimson Desert looks like the latest example of South Korea’s evolution into a gaming powerhouse.",
-    "link": "https://www.nytimes.com/2026/03/19/arts/crimson-desert-south-korea-k-games.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-19T09:03:28+00:00"
   },
   {
     "title": "‘Go Big and Go Loud’: Inside the Justice Dept.’s Push to Prosecute Protesters",
@@ -175,25 +217,11 @@
     "pubDate": "2026-03-19T09:01:37+00:00"
   },
   {
-    "title": "As BTS Returns From the Military, There’s a Precedent: Elvis",
-    "description": "With the K-pop group releasing its comeback album, “Arirang,” on Friday, look back at how one of pop’s original kings handled his time out of the spotlight.",
-    "link": "https://www.nytimes.com/2026/03/19/arts/music/bts-elvis-presley-military-service.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-19T09:00:47+00:00"
-  },
-  {
     "title": "Trump Vowed to Crack Down on Fraudsters, but He’s Pardoned Dozens",
     "description": "Across both of his terms, President Trump has granted clemency to more than 70 allies, donors and others convicted in fraud cases.",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-fraudsters-pardons.html",
     "thumbnail": "",
     "pubDate": "2026-03-19T09:00:45+00:00"
-  },
-  {
-    "title": "Pay grows at slowest rate in more than five years",
-    "description": "Annual earnings grew at an annual rate of 3.8% in the November to January period, the Office for National Statistics says.",
-    "link": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d8a/live/79dfa370-2363-11f1-a48c-abe9601b2bbf.jpg",
-    "pubDate": "2026-03-19T08:48:29+00:00"
   },
   {
     "title": "Trump denies knowledge of Israeli gas field attack",
@@ -220,7 +248,7 @@
     "title": "The abundance that AI may promise is not free",
     "description": "AI abundance promises free everything through massive centralized infrastructure. Whoever controls the energy and AI factories dictates distribution terms and user autonomy.",
     "link": "https://cointelegraph.com/news/abundance-ai-promise-is-not-free?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QyMGMtN2M1Ny03OTYwLWJlNWEtNjViYjJiMWM2ZjAzLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cd20c-7c57-7960-be5a-65bb2b1c6f03.jpg",
     "pubDate": "2026-03-19T08:00:00+00:00"
   },
   {
@@ -269,21 +297,21 @@
     "title": "Canada revokes 47 crypto money licenses, vows to continue",
     "description": "Near the end of last year, FINTRAC fined crypto platform Cryptomus $126 million and crypto exchange KuCoin $14 million for a range of alleged violations.",
     "link": "https://cointelegraph.com/news/canada-crypto-msb-crackdown-50-registrations-revoked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA0NTctNGJjZC03MzEwLWI4YTMtNDg2ZGQzMzQ3OGIwLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d0457-4bcd-7310-b8a3-486dd33478b0.jpg",
     "pubDate": "2026-03-19T06:22:43+00:00"
   },
   {
     "title": "Visa and Stripe-backed Tempo unveil AI agent payment tools on same day",
     "description": "AI agent users received new tools from Visa and the Stripe-backed Tempo to provide a new way for agentic payments to take place online.",
     "link": "https://cointelegraph.com/news/visa-tempo-both-launch-tools-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA0MTYtMzIxOS03NmY4LTk2YWUtODcwNzVmY2JlMzY0LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d0416-3219-76f8-96ae-87075fcbe364.jpg",
     "pubDate": "2026-03-19T06:21:23+00:00"
   },
   {
     "title": "Retail tripled gold buying in last 6 months as Wall Street sells",
     "description": "“Retail-driven exuberance” in gold and silver ETFs and leveraged positions led to the end of the precious metals rally, reported the BIS.",
     "link": "https://cointelegraph.com/news/institutions-quietly-selling-gold-but-retail-is-buying-triple-pace-data-shows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODk2NTItZDI5Mi03NTU0LWIyY2MtZGY0N2VhMTNkMzdl.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/01989652-d292-7554-b2cc-df47ea13d37e",
     "pubDate": "2026-03-19T06:18:54+00:00"
   },
   {
@@ -297,7 +325,7 @@
     "title": "Dorsey’s Block laid off 4K employees last month, some are already back",
     "description": "Block CEO Jack Dorsey said at the time of the layoffs that the company would have erred in some of the decisions it made and that it would correct mistakes.",
     "link": "https://cointelegraph.com/news/block-rehires-some-staff-initially-fired?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA0MGItMmZhYi03NDUyLWIzZmEtOGIyMTQ5OTY1ZWIyLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d040b-2fab-7452-b3fa-8b2149965eb2.jpg",
     "pubDate": "2026-03-19T06:13:50+00:00"
   },
   {
@@ -325,29 +353,15 @@
     "title": "Crypto traders eye ‘bullish relief rally’ after Fed holds rates steady",
     "description": "Expectation of a relief rally persisted despite a widely used crypto sentiment indicator falling back into “Extreme Fear” on Wednesday.",
     "link": "https://cointelegraph.com/news/crypto-relief-rally-us-federal-reserve-rates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA0MDktNjkwOS03ZDU5LWE5YjktOWIxMDI2ODhkY2UyLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d0409-6909-7d59-a9b9-9b102688dce2.jpg",
     "pubDate": "2026-03-19T05:23:40+00:00"
   },
   {
     "title": "XRP treasury Evernorth files with SEC to list shares on Nasdaq",
     "description": "Evernorth is moving closer to a public listing after filing a Form S-4 with the SEC, the final major regulatory hurdle of its SPAC merger plan.",
     "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-files-with-sec-list-shares-nasdaq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDAzYTUtNTM3Ni03MjAyLWFjYzItODE2NGU1ODc3YjY2LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d03a5-5376-7202-acc2-8164e5877b66.jpg",
     "pubDate": "2026-03-19T04:52:01+00:00"
-  },
-  {
-    "title": "Polymarket buys DeFi startup Brahma in latest acquisition wave",
-    "description": "“Building reliable infrastructure across blockchain networks and traditional financial rails is hard,” said Polymarket CEO Shayne Coplan.",
-    "link": "https://cointelegraph.com/news/polymarket-buys-defi-startup-brahma-latest-acquisition-spree?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDAzZDctMWYwYy03OWE1LWI2N2ItY2ZmY2NjMDExNzAwLmpwZw==.jpg",
-    "pubDate": "2026-03-19T03:33:50+00:00"
-  },
-  {
-    "title": "California court dismisses Coinbase user’s challenge to IRS summons",
-    "description": "Another crypto user sued the IRS in 2025 for allegedly violating his Fourth Amendment rights after the agency used a John Doe summons to collect his data from a crypto exchange.",
-    "link": "https://cointelegraph.com/news/coinbase-user-irs-challenge-dismissed-california?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJjZjEtZmIwNi03ZjBiLWI5YzItMGIxYzdkYWU2NDEzLmpwZw==.jpg",
-    "pubDate": "2026-03-19T03:26:34+00:00"
   },
   {
     "title": "Child seen in sex abuse videos identified after researcher spots school badge",
@@ -399,18 +413,18 @@
     "pubDate": "2026-03-18T22:59:15+00:00"
   },
   {
-    "title": "Micron revenue almost triples, tops estimates as demand for memory soars",
-    "description": "Micron's stock has soared this year while its tech peers have struggled, as the impact of rising memory costs ripples across the industry.",
-    "link": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279186-1773870972855-108279186-1773779752082-gettyimages-2256072008-MICRON_NY.jpeg?v=1773870991&w=1920&h=1080",
-    "pubDate": "2026-03-18T22:31:17+00:00"
-  },
-  {
     "title": "A Mod To Turn Baldur's Gate 3 Into Baldur's Gate 1 Is In The Works, Demo Out Now",
     "description": "A group of Baldur's Gate 3 modders are working on a massive mod for the game that effectively turns Baldur's Gate 3 into the game that started it all: 1998's Baldur's Gate. The team of modders--who collectively go by the name Deathbringer's Reign--are led by project organizer 786r786, who previously created a Baldur's Gate 3 mod that recreates Candlekeep, the opening location from the original Baldur's Gate. Players went wild for the Candlekeep mod, which led to more interest in its creator, and eventually player requests for a full Baldur's Gate mod. \"I received a lot of requests from fans of the original games to turn it into a full campaign, along with offers from some incredibly talented modders who volunteered to help,\" 786r786 explained (via Rock Paper Shotgun). \"Making an isolated custom campaign is actually a bit easier than making an extension to the base game; you don't have to account for the incredibly vast amount of scenarios present in vanilla BG3, and you have full control over the player's environment.\" Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/a-mod-to-turn-baldurs-gate-3-into-baldurs-gate-1-is-in-the-works-demo-out-now/1100-6538879/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-03-18T22:23:00+00:00"
+  },
+  {
+    "title": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
+    "description": "Lawmakers pressed intelligence officials about the Iran war, and if the Islamic Republic had posed an imminent threat.",
+    "link": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/138f/live/926aeab0-22ed-11f1-abe1-05da6de99c2b.jpg",
+    "pubDate": "2026-03-18T22:18:19+00:00"
   },
   {
     "title": "Crimson Desert reviews overlook PS5, Xbox version performance",
@@ -490,6 +504,13 @@
     "pubDate": "2026-03-18T20:15:24+00:00"
   },
   {
+    "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years",
+    "description": "An investigation by The New York Times found extensive evidence that the United Farm Workers co-founder groomed and sexually abused girls who worked in the movement.",
+    "link": "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-18T20:11:04+00:00"
+  },
+  {
     "title": "Polymarket acquires Brahma to scale blockchain trading infrastructure",
     "description": "\"Building reliable infrastructure across blockchain networks and traditional financial rails is hard — there are no shortcuts,” said Polymarket CEO Shayne Coplan.",
     "link": "https://www.coindesk.com/business/2026/03/18/polymarket-acquires-defi-brahma-to-build-reliable-financial-blockchain-infrastructure",
@@ -567,13 +588,6 @@
     "pubDate": "2026-03-18T18:28:17+00:00"
   },
   {
-    "title": "Kalshi co-founder fights back against Arizona’s ‘overstep’ in what a lawyer calls a federal-state turf war",
-    "description": "Arizona has filed 20 criminal counts against Kalshi, a prediction market platform, accusing it of operating an illegal gambling business and offering election wagering in the state.",
-    "link": "https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/26f0c0c37ce53e6d90e480d858306300933af4ef-6960x4640.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-18T18:19:24+00:00"
-  },
-  {
     "title": "Disney's New Game-Loving CEO Gives Update On Mysterious Fortnite Project",
     "description": "Josh D'Amaro took over for Bob Iger today as the new CEO of The Walt Disney Company, and one of his first orders of business was to give an update on the long-awaited Disney x Fortnite project. During Disney's annual shareholder meeting, D'Amaro said he recently reviewed some of the progress on the Disney x Fortnite project. \"I was blown away by the possibilities,\" he said (via DrewDisneyDude). That doesn't tell us much, of course, and it's not surprising to hear D'Amaro speak so enthusiastically about the Fortnite project. After all, he is the person who spearheaded Disney's investment into Epic Games in the first place. He's also a regular visitor to Epic's headquarters in North Carolina. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/disneys-new-game-loving-ceo-gives-update-on-mysterious-fortnite-project/1100-6538874/?ftag=CAD-01-10abi2f",
@@ -581,25 +595,46 @@
     "pubDate": "2026-03-18T18:18:00+00:00"
   },
   {
-    "title": "Federal Reserve holds policy steady as Iran war adds to growth and inflation concerns",
-    "description": "Bitcoin remained sharply lower for the session following the expected decision by the U.S. central bank.",
-    "link": "https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9ecacaf4387e12d297a6ba633f1162677b4dce8c-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-18T17:59:47+00:00"
-  },
-  {
-    "title": "The era of cheap money is over as the Iran war creates a permanent 'inflation floor'",
-    "description": "The Iran war is creating a permanent inflation floor that could end the era of cheap money and expose the fragility of global energy markets.",
-    "link": "https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/990b034c30394c748494366df1b52165ef9c876e-1500x824.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-18T17:09:02+00:00"
-  },
-  {
     "title": "Broccoli Confetti Rice",
     "description": "A veg-forward main or gets-along-with-everyone side.",
     "link": "https://www.bonappetit.com/recipe/broccoli-confetti-rice",
     "thumbnail": "https://assets.bonappetit.com/photos/69b190e2f5a468b41c3ca900/master/pass/broccoli-confetti-rice_RECIPE_V2_022626_14138_VOG_final.jpg",
     "pubDate": "2026-03-18T11:00:00+00:00"
+  },
+  {
+    "title": "How is AvalonBay (AVB) Navigating Through Deflated Multifamily Occupancies",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/avalonbay-avb-navigating-deflated-multifamily-011016699.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/tC428xeaF3tjEiYR0_Y4Yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/019dc5b796390a06a7f3dd41d503bade",
+    "pubDate": "2026-03-18T01:10:16+00:00"
+  },
+  {
+    "title": "Is VICI Properties (VICI) a Cheap REIT to Look at",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/vici-properties-vici-cheap-reit-011015161.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/674c2673cf856e169f7ae9f488b1d9cb",
+    "pubDate": "2026-03-18T01:10:15+00:00"
+  },
+  {
+    "title": "Is This the Right Time to Buy Kilroy Realty (KRC)",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/time-buy-kilroy-realty-krc-011009903.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/9c68a751f53eb0a4611acacc03e2fa04",
+    "pubDate": "2026-03-18T01:10:09+00:00"
+  },
+  {
+    "title": "Praxis Precision Medicines (PRAX) Reports $926M 2025 Cash Balance, Extended Runway",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/praxis-precision-medicines-prax-reports-000035685.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/b5620dd4609e6ad10a589f4ae959f4bd",
+    "pubDate": "2026-03-18T00:00:35+00:00"
+  },
+  {
+    "title": "Spruce Biosciences (SPRB) Appoints Dale Hooks as CCO and Reports Narrowed $39M 2025 Net Loss",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/spruce-biosciences-sprb-appoints-dale-235943868.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/e3cb6e891921736c0b8515bb7aace417",
+    "pubDate": "2026-03-17T23:59:43+00:00"
   },
   {
     "title": "Jet fuel prices and airfares are rising. Travelers are still booking flights, US airlines say",
@@ -616,6 +651,20 @@
     "pubDate": "2026-03-17T23:44:47+00:00"
   },
   {
+    "title": "Bank of America reveals S&amp;P 500 ‘cheat sheet’",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/bank-america-reveals-p-500-233700802.html",
+    "thumbnail": "https://s.yimg.com/os/en/thestreet_881/da031377adaf4e194b7170373d163cac",
+    "pubDate": "2026-03-17T23:37:00+00:00"
+  },
+  {
+    "title": "S&amp;P 500 Update This Week: 2 Signals to Watch After Adobe's Earnings",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/p-500-week-2-signals-233500292.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/CbSj27BSnhkA4qoRef82ow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTY-/https://media.zenfs.com/en/motleyfool.com/4f0f592fa50fa0267008fb2179f59d7f",
+    "pubDate": "2026-03-17T23:35:00+00:00"
+  },
+  {
     "title": "As Applied Materials Raises Its Dividend 15%, Should You Buy AMAT Stock?",
     "description": "",
     "link": "https://finance.yahoo.com/news/applied-materials-raises-dividend-15-233002362.html",
@@ -623,60 +672,11 @@
     "pubDate": "2026-03-17T23:30:02+00:00"
   },
   {
-    "title": "Fintech lender SoFi disputes short seller Muddy Waters' report, considers legal action",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/sofi-rejects-short-seller-muddy-231343232.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/64746afcdc678317b0b030cc09723057",
-    "pubDate": "2026-03-17T23:13:43+00:00"
-  },
-  {
-    "title": "Top Japan firms set to offer big pay hikes, focus on Iran conflict ahead",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/top-japan-firms-set-offer-230849544.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/8c6038c135f3bf609672f1e492e9edf3",
-    "pubDate": "2026-03-17T23:08:49+00:00"
-  },
-  {
-    "title": "Standard Chartered Predicts Oil Prices Will Remain Higher For Longer",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/standard-chartered-predicts-oil-prices-230000903.html",
-    "thumbnail": "https://s.yimg.com/os/en/oilprice.com/ccc8f1e40ec3c32fdd50cafaca5120a9",
-    "pubDate": "2026-03-17T23:00:00+00:00"
-  },
-  {
-    "title": "Is Sirius XM Stock Going to $30?",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/sirius-xm-stock-going-30-224500948.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Y2NJStXauOM9pg3HTrJtew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/motleyfool.com/53eb2e542f89aa2211a480159a62a59a",
-    "pubDate": "2026-03-17T22:45:00+00:00"
-  },
-  {
-    "title": "The Economy Just Shed 92,000 Jobs as Oil Prices Surge and Inflation Creeps Up. History Says the Stock Market Will Do This Next.",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/economy-just-shed-92-000-224410095.html",
-    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/77740712ae41b844161af341e84cc747",
-    "pubDate": "2026-03-17T22:44:10+00:00"
-  },
-  {
-    "title": "What is capital gains tax? Here's when you owe, plus strategies to reduce your bill.",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/taxes/article/what-is-capital-gains-tax-heres-when-you-owe-plus-strategies-to-reduce-your-bill-173034118.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/IGgdkiE31UnjzAc_1okL2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/d6cd03b0-07f7-11ed-8d63-e092aee30a13",
-    "pubDate": "2026-03-17T17:30:34+00:00"
-  },
-  {
     "title": "Seafood Chowder",
     "description": "This New England–style soup is deeply flavored, creamy but light, and never gloppy.",
     "link": "https://www.bonappetit.com/recipe/seafood-chowder",
     "thumbnail": "https://assets.bonappetit.com/photos/5e90aff6a44eee0009a6b436/master/pass/LARSENS-chowder.jpg",
     "pubDate": "2026-03-17T17:01:01+00:00"
-  },
-  {
-    "title": "HELOCs are changing — and some homeowners may not like the new rules",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-helocs-are-changing-homeowners-may-not-like-new-rules-165717037.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/IzPQZ2aKDcWsSl9kjnNhdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/f8a1e740-5db1-11f0-bef7-144e86933ffa",
-    "pubDate": "2026-03-17T16:57:17+00:00"
   },
   {
     "title": "Extra-Creamy Deviled Eggs",
