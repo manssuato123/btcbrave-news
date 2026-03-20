@@ -1,10 +1,38 @@
 [
   {
+    "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
+    "description": "During the meeting, Trump praised Japan for \"stepping up\" to assist in efforts to secure the Strait of Hormuz, \"unlike NATO.\"",
+    "link": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108280380-1773936091796-gettyimages-2267394912-aw1a0963_n9r8kdi4.jpeg?v=1773936203&w=1920&h=1080",
+    "pubDate": "2026-03-20T07:55:47+00:00"
+  },
+  {
+    "title": "Government borrowing higher than expected in February",
+    "description": "The ONS said an increase in government tax receipts was outweighed by a rise in spending.",
+    "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9257/live/14e52800-23ae-11f1-9a4e-e13728524fa3.jpg",
+    "pubDate": "2026-03-20T07:49:48+00:00"
+  },
+  {
+    "title": "Bitcoin’s price action looks dangerously similar to the pattern that sent it crashing to $60,000",
+    "description": "The recent price action echoes the November–January pattern, showing weak conviction among the “buy the dip” crowd.",
+    "link": "https://www.coindesk.com/markets/2026/03/20/bitcoin-s-price-action-looks-dangerously-similar-to-the-pattern-that-sent-it-crashing-to-usd60-000",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/092eac5ac48efc783e0e1420308e4ef7103d5fbc-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-20T07:14:42+00:00"
+  },
+  {
+    "title": "Trump Says He Won’t Send Troops to Iran but Leaves Wiggle Room",
+    "description": "The president was cagey about his plans for Iran. He confirmed the Pentagon was seeking $200 billion to support a protracted war effort while also claiming it would be over soon.",
+    "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-us-troops.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-20T07:10:45+00:00"
+  },
+  {
     "title": "Japan wanted inflation and Iran war could grant that wish. But it's not the type Tokyo desires",
     "description": "The Iran war is pushing up \"cost-push\" inflation in Japan as opposed to the \"demand-pull\" inflation the BOJ seeks.",
     "link": "https://www.cnbc.com/2026/03/20/iran-war-japan-inflation-boj-oil-prices.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108275785-1773102722530-gettyimages-2260210974-dsc08729_iojb5f2p.jpeg?v=1773102838&w=1920&h=1080",
-    "pubDate": "2026-03-20T06:59:44+00:00"
+    "pubDate": "2026-03-20T07:10:40+00:00"
   },
   {
     "title": "The Iran war is sending shockwaves through the world's busiest IPO market",
@@ -14,11 +42,18 @@
     "pubDate": "2026-03-20T06:44:20+00:00"
   },
   {
-    "title": "Quantum risk real to some but not all crypto wallets ‘equally vulnerable’: Galaxy",
-    "description": "Galaxy Digital’s Will Owens says most crypto wallets are not vulnerable to quantum computing risks, and substantial work is being done to address the threat.",
+    "title": "Quantum risk real, but not all crypto wallets equally vulnerable: Galaxy",
+    "description": "Galaxy Digital’s Will Owens says most crypto wallets aren’t exposed to quantum risks, with vulnerabilities limited to cases where public keys are revealed.",
     "link": "https://cointelegraph.com/news/quantum-risk-bitcoin-wallets-not-all-vulnerable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c1c9a-d844-7d7e-a94c-c5914b07dd41.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFjOWEtZDg0NC03ZDdlLWE5NGMtYzU5MTRiMDdkZDQxLmpwZw==.jpg",
     "pubDate": "2026-03-20T06:27:16+00:00"
+  },
+  {
+    "title": "Eid under siege: Little to celebrate in Gaza as Israel tightens chokehold",
+    "description": "Tighter restrictions on goods and aid are driving shortages, adding to the strain on families in Gaza on Eid.",
+    "link": "https://www.aljazeera.com/opinions/2026/3/20/eid-under-siege-little-to-celebrate-in-gaza-as-israel-tightens-chokehold?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69ba88dfe57a-1773832415.jpg?resize=1920%2C1440",
+    "pubDate": "2026-03-20T06:21:22+00:00"
   },
   {
     "title": "Alibaba workforce shrinks 34% in 2025 as Chinese tech giant doubles down on AI",
@@ -38,21 +73,21 @@
     "title": "Super Micro co-founder arrested over alleged $2.5B AI chip smuggling scheme",
     "description": "US authorities say they have charged and arrested Supermicro co-founder Yih-Shyan “Wally” Liaw for allegedly funnelling $2.5 billion in AI servers to China through shell companies.",
     "link": "https://cointelegraph.com/news/super-micro-co-founder-arrested-in-2-5b-ai-chip-smuggling-scheme-to-china?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c4a07-a513-7ab9-840f-a8812a6447d2.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRhMDctYTUxMy03YWI5LTg0MGYtYTg4MTJhNjQ0N2QyLmpwZw==.jpg",
     "pubDate": "2026-03-20T06:03:01+00:00"
   },
   {
     "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
     "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
     "link": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8eb/live/aed36b70-2390-11f1-9ab7-93c12e0817f9.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf46/live/f9e4a490-242f-11f1-b631-970c153c1592.jpg",
     "pubDate": "2026-03-20T06:01:02+00:00"
   },
   {
     "title": "Gemini sued over post-IPO strategy shift, declining stock price",
-    "description": "Crypto exchange Gemini is facing a class-action lawsuit over what a complaint alleges is an “abrupt corporate pivot to a prediction-market-centric business model” after its IPO.",
+    "description": "Crypto exchange Gemini is facing a proposed class-action lawsuit over what a complaint alleges is an “abrupt corporate pivot to a prediction-market-centric business model” after its IPO.",
     "link": "https://cointelegraph.com/news/gemini-sued-over-post-ipo-strategy-shift-declining-stock-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b915b-5a33-7126-8267-5e00b580ec8c.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjkxNWItNWEzMy03MTI2LTgyNjctNWUwMGI1ODBlYzhjLmpwZw==.jpg",
     "pubDate": "2026-03-20T05:58:33+00:00"
   },
   {
@@ -77,17 +112,10 @@
     "pubDate": "2026-03-20T05:43:42+00:00"
   },
   {
-    "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
-    "description": "During the meeting, Trump praised Japan for \"stepping up\" to assist in efforts to secure the Strait of Hormuz, \"unlike NATO.\"",
-    "link": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108280380-1773936091796-gettyimages-2267394912-aw1a0963_n9r8kdi4.jpeg?v=1773936203&w=1920&h=1080",
-    "pubDate": "2026-03-20T05:28:41+00:00"
-  },
-  {
-    "title": "Appeals court denies Kalshi’s bid to stave off ban in Nevada",
+    "title": "Appeals court denies Kalshi request to block Nevada enforcement action",
     "description": "US gaming lawyer Daniel Wallach says a Nevada state court-issued restraining order against Kalshi appears imminent, preventing it from offering sports-related contracts.",
     "link": "https://cointelegraph.com/news/appeals-court-denies-kalshi-s-bid-to-stave-off-ban-in-nevada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c6e96-85c8-7884-9654-dc0171468534.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZlOTYtODVjOC03ODg0LTk2NTQtZGMwMTcxNDY4NTM0LmpwZw==.jpg",
     "pubDate": "2026-03-20T05:21:52+00:00"
   },
   {
@@ -122,7 +150,7 @@
     "title": "Major gold trade group releases framework for tokenized gold",
     "description": "The World Gold Council says it will develop a platform to connect physical gold to the systems used to issue and manage tokenized gold products.",
     "link": "https://cointelegraph.com/news/world-gold-council-framework-tokenized-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c9983-1501-7e40-9013-86b487f1b9b9.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk5ODMtMTUwMS03ZTQwLTkwMTMtODZiNDg3ZjFiOWI5LmpwZw==.jpg",
     "pubDate": "2026-03-20T04:53:26+00:00"
   },
   {
@@ -150,7 +178,7 @@
     "title": "Gemini shares surge 6% after hours on Q4 earnings",
     "description": "Gemini reported its fourth quarter revenues were $60.3 million, which co-founders Cameron and Tyler Winklevoss say is its highest quarterly revenue in three years.",
     "link": "https://cointelegraph.com/news/gemini-shares-up-after-hours-on-q4-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019ae288-169e-7d48-b0bb-c01e605f8b03",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUyODgtMTY5ZS03ZDQ4LWIwYmItYzAxZTYwNWY4YjAz.jpg",
     "pubDate": "2026-03-20T04:15:03+00:00"
   },
   {
@@ -192,7 +220,7 @@
     "title": "FBI warns fake FBI token on Tron is trying to scam users",
     "description": "Scammers impersonating the FBI via a token are telling Tron users they are under investigation and must complete a check to avoid having their assets frozen.",
     "link": "https://cointelegraph.com/news/fbi-warns-phishing-scam-tron-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d0938-dc6d-7bc4-af12-914e3ac1797a.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA5MzgtZGM2ZC03YmM0LWFmMTItOTE0ZTNhYzE3OTdhLmpwZw==.jpg",
     "pubDate": "2026-03-20T03:19:58+00:00"
   },
   {
@@ -201,13 +229,6 @@
     "link": "https://www.nytimes.com/2026/03/19/business/fcc-nexstar-tegna-deal-approved.html",
     "thumbnail": "",
     "pubDate": "2026-03-20T03:04:08+00:00"
-  },
-  {
-    "title": "Trump Says He Won’t Send Troops to Iran But Leaves Wiggle Room",
-    "description": "The president was cagey about his plans for Iran. He confirmed the Pentagon was seeking $200 billion to support a protracted war effort while also claiming it would be over soon.",
-    "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-us-troops.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-20T02:51:32+00:00"
   },
   {
     "title": "Iran war-induced fertilizer shortage threatens Republicans in farm states ahead of midterms",
@@ -220,28 +241,14 @@
     "title": "Solana DApps revenue falls to 18-month low as SOL price risks $80 retest",
     "description": "Weakening onchain activity and bearish derivatives data suggest that a SOL price recovery will take longer than most investors anticipate.",
     "link": "https://cointelegraph.com/news/solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c6e39-0ace-778f-a018-d4cf5c106e03.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZlMzktMGFjZS03NzhmLWEwMTgtZDRjZjVjMTA2ZTAzLmpwZw==.jpg",
     "pubDate": "2026-03-20T02:44:43+00:00"
-  },
-  {
-    "title": "UK set for temperature rollercoaster as chilly nights follow warm days",
-    "description": "March is a fickle time for temperatures in the UK and can see some huge swings from day to night.",
-    "link": "https://www.bbc.com/weather/articles/c99500mplgeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775c/live/6f806db0-238b-11f1-b297-95b0a0a8331e.jpg",
-    "pubDate": "2026-03-20T02:30:56+00:00"
-  },
-  {
-    "title": "Brazil’s president criticises the US for thinking ‘they own the world’",
-    "description": "President of Brazil Lula de Silva criticised the United States’ aggressive foreign policy under President Trump.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/brazils-president-criticises-the-us-for-thinking-they-own-the-world?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1773972511.jpg?resize=1620%2C1080&quality=80",
-    "pubDate": "2026-03-20T02:09:43+00:00"
   },
   {
     "title": "Coinbase, Apex Group tokenize Bitcoin Yield Fund on Base",
     "description": "Coinbase Asset Management’s Anthony Bassili says the Bitcoin Yield Fund’s tokenized share class checks “identity and eligibility at the token level” for compliance.",
     "link": "https://cointelegraph.com/news/coinbase-apex-tokenized-bitcoin-yield-fund-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d084c-2c28-7620-8134-6e557668e1a8.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA4NGMtMmMyOC03NjIwLTgxMzQtNmU1NTc2NjhlMWE4LmpwZw==.jpg",
     "pubDate": "2026-03-20T02:03:40+00:00"
   },
   {
@@ -283,14 +290,14 @@
     "title": "Execution quality is the missing metric in Bitcoin and Ethereum markets",
     "description": "Crypto’s hidden trading costs demand the adoption of transaction cost analysis. Slippage, fees and fragmentation erode trust as crypto matures into institutional markets.",
     "link": "https://cointelegraph.com/news/execution-quality-missing-metric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c6b45-ed19-734f-bbbd-6fb8eeea0c7c.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZiNDUtZWQxOS03MzRmLWJiYmQtNmZiOGVlZWEwYzdjLmpwZw==.jpg",
     "pubDate": "2026-03-20T00:30:00+00:00"
   },
   {
-    "title": "Natural History Museum takes top spot as UK's most popular attraction for first time",
+    "title": "Natural History Museum takes top spot as UK's most popular attraction - beating rivals for first time",
     "description": "The venue broke the record for the most visitors to any museum or gallery in a single year.",
     "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a958/live/0f82a4a0-2372-11f1-a79a-77e93010d956.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b5b/live/9b848e80-242d-11f1-b297-95b0a0a8331e.jpg",
     "pubDate": "2026-03-20T00:05:07+00:00"
   },
   {
@@ -416,7 +423,7 @@
     "title": "How To Complete Renee's Request In Crimson Desert",
     "description": "Are you currently doing Renee's Request in Crimson Desert? This is an early-game side quest in Hernand, the first town that you visit in the campaign. It's also a task that grants you a pretty nifty reward. Crimson Desert - Renee's Request guide You can start the Crimson Desert Renee's Request objective by visiting the Butchery in Hernand. It's at the end of the alley just past the Inn. There, you'll meet the shop owner, Renee, who tells you about her plans to cook a seafood meal. Renee's conundrum is that she's been cooking meat her entire life, and she's never had a chance to cook fish before. She wants you to handle it instead, and she even hands you the recipe and the ingredients. Be sure to pick Modest Fish Porridge since Renee doesn't want to get too fancy.Your goal in this particular side quest is to cook 3x Modest Fish Porridge. Here's what you need to do: Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/crimson-desert-renees-request-fish-porridge/1100-6538801/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/a/uploads/original/1816/18167535/4666801-crimson-desert-renees-request-fish-porridge-1.jpg",
     "pubDate": "2026-03-19T22:00:00+00:00"
   },
   {
@@ -430,7 +437,7 @@
     "title": "How To Advance Time In Crimson Desert",
     "description": "Are you thinking of a way to advance the time in Crimson Desert? The game does have a dynamic day-night cycle, which factors into certain activities. As such, you might want to skip the long wait if you're in a rush. Table of Contents [hide] Crimson Desert's day-night cycle duration Passing the time by sleeping on a bed Crimson Desert's day-night cycle duration The time in Crimson Desert passes at the rate of one in-game minute to five seconds in real-time. The day-night cycle also affects various facets of the game: Quests - Certain quest segments can only be completed at a certain time of day. Thankfully, there's a \"Wait\" option that appears on your screen. You can simply press the pause button to fast-forward the time. Vendor refresh - Vendors restock their wares each day. Camp dispatch missions - Once you've established your camp at Howling Hill, you'll be able to send Greymane survivors on missions. These can take anywhere from a few hours to several days in-game. Visibility - Many areas in the wilderness are extremely dark and you have only your lantern to light your path. As such, it's usually better to explore during the day. You can sleep on beds that you don't own.Passing the time by sleeping on a bed You can advance the time in Crimson Desert by sleeping on a bed. This can be your bed in the Greymane camp, a resting area in the wilderness, or even one that's inside a house owned by another person. The only restriction is that the area must be liberated first--i.e. it's not controlled by hostile armies or bandits. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/crimson-desert-advance-time-pass-time/1100-6538799/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/a/uploads/original/1816/18167535/4666791-crimson-desert-advance-time-pass-time-1.jpg",
     "pubDate": "2026-03-19T22:00:00+00:00"
   },
   {
@@ -479,7 +486,7 @@
     "title": "Shenmue III Enhanced For PS5, Xbox Series X|S, And Nintendo Switch 2 Is Now Available To Preorder",
     "description": "ININ Games and Ys Net have finally shared more information on Shenmue III Enhanced, including information on where to preorder the upcoming physical release. The game will be available in multiple versions, including the Shenmue III Enhanced standard edition, which will cost $40 on PC, PS5, Xbox Series X, while the Nintendo Switch 2 version will retail for $55--but unlike many other Switch 2 games, which often opt for Game Key-Card formats, this one contains the full game data on the cartridge. Shenmue III Enhanced will also be available in a Special Edition for $60 on PC, PS5, and Xbox, and $75 on Switch 2, as well as a $200 Collector's Edition that packs in extra physical goodies. Shenmue III Enhanced does not currently have a release date, but it's available for pre-order through May 4 at ININ Games' online store. While the store is based in Europe, it offers US shipping--just note you'll pay an additional $19 to $40 in shipping fees on your order. Shenmue III Enhanced Standard Edition $40 PS5, Xbox Series X; $55 Switch 2 | Releases TBA If you're looking to try Shenmue III for the first time and want the basic version, the standard edition is the way to go. The Nintendo Switch 2 port is more expensive than the others, but Shenmue III Enhanced will be one of the few Switch games where the full game is on the cartridge, not a Game-Key Card. Those planning to experience Shenmue III Enhanced on Switch 2 should consider splurging on its physical edition for that reason. Preorder at ININ Games Shenmue III Enhanced Special Edition $60 PS5, Xbox Series X; $75 Switch 2 | Releases TBA If you're willing to pay a bit more for Shenmue III to get some neat extras, then you'll want to consider the Shenmue III Enhanced Special Edition. In addition to the base game and all of its inherent enhancements, the Special Edition includes the following: Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/shenmue-iii-enhanced-buying-guide/1100-6538910/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/a/uploads/scale_super/1849/18498836/4668785-shenmue3standard.jpg",
     "pubDate": "2026-03-19T20:05:00+00:00"
   },
   {
@@ -514,7 +521,7 @@
     "title": "Destiny 2 And Magic Are Gathering For A Big In-Game Collab",
     "description": "While many Bungie fans are focusing on the team's new extraction shooter, Marathon, its flagship title Destiny 2 continues to add new features, cosmetics, and collaborations. Today, as part of the This Week At Bungie update, the developer announced the next major cosmetic collaboration on its way to the Eververse: Wizards of the Coast's tenured tabletop game Magic: The Gathering. The three main armor sets are each based on one of Magic's most prominent figures. The Titan set, Flamecaller, is designed after fire mage Chandra Nalaar, while the Hunter Set, Mindsculptor, is themed after the powerful blue sorcerer Jace Beleren--while also being named after one of the most powerful cards ever printed. Finally, the Warlock set, Death's Majesty, evokes the dark necromancer Liliana Vess and her black magic abilities. Other cosmetics coming in the Destiny 2 MTG collaboration include a Ghost shell that mimics the Lovecraftian horrors known as the Eldrazi, vehicles that pay homage to another villainous Magic faction called the Phyrexians, and a finisher that references one of the tabletop game's most powerful green spells, Overrun. Finally a new shader pack will also be part of the partnership, which includes five shaders referencing the five basic land types: Plains, Island, Swamp, Mountain, and Forest. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/destiny-2-and-magic-are-gathering-for-a-big-in-game-collab/1100-6538908/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/a/uploads/scale_super/3/37852/4668759-magic-destiny.jpg",
     "pubDate": "2026-03-19T18:52:00+00:00"
   },
   {
@@ -525,32 +532,11 @@
     "pubDate": "2026-03-19T18:34:40+00:00"
   },
   {
-    "title": "Jammy Egg Curry",
-    "description": "From “The Diaspora Spice Co. Cookbook,” this recipe is a lesson in simple yet luxurious cooking.",
-    "link": "https://www.bonappetit.com/recipe/jammy-egg-curry",
-    "thumbnail": "https://assets.bonappetit.com/photos/69bb3b3459d083afb7680b1f/master/pass/Jammy%20Egg%20Curry_DiasporaCookbook_HarvestBooks_MelatiCitrawireja_Studio_Oct2024_.jpg",
-    "pubDate": "2026-03-19T18:00:00+00:00"
-  },
-  {
     "title": "Reports of children as young as 11 abused in West Midlands mini-marts, BBC reveals",
     "description": "Child sexual abuse reports go back 10 years and were seen by safeguarding group which included police",
     "link": "https://www.bbc.com/news/articles/clyzy0y20qlo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2f/live/faba8b10-2393-11f1-b297-95b0a0a8331e.jpg",
     "pubDate": "2026-03-19T17:46:21+00:00"
-  },
-  {
-    "title": "Bitcoin holds $69,000 as gold tumbles and oil spikes, but one analyst says stay on sidelines",
-    "description": "While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off \"dry powder\" while prices swing wildly on headlines, said Wintermute's Bryan Tan.",
-    "link": "https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/8b0cbfb13f2150f50866b873f33a5e55fbfb4eb4-1920x1080.jpg?auto=format",
-    "pubDate": "2026-03-19T16:54:28+00:00"
-  },
-  {
-    "title": "Easy Fish Curry With Coconut Milk",
-    "description": "Low effort, big flavor, and ready in under an hour.",
-    "link": "https://www.bonappetit.com/recipe/easy-fish-curry",
-    "thumbnail": "https://assets.bonappetit.com/photos/69b1883b403ff19ad9939705/master/pass/fish-curry_RECIPE_V2_022626_14174_VOG_final.jpg",
-    "pubDate": "2026-03-19T16:45:16+00:00"
   },
   {
     "title": "A Gift From Trump to the Supreme Court",
@@ -567,13 +553,6 @@
     "pubDate": "2026-03-19T14:20:28+00:00"
   },
   {
-    "title": "Potato Chips Are My Chicest Party Trick",
-    "description": "Here are five ways that I dress them up for guests.",
-    "link": "https://www.bonappetit.com/story/potato-chips-are-my-chicest-party-trick",
-    "thumbnail": "https://assets.bonappetit.com/photos/69a9c5ad5244995ed7905c83/master/pass/CrispyHamTower_RECIPE_110121_199.jpg",
-    "pubDate": "2026-03-19T10:00:00+00:00"
-  },
-  {
     "title": "How Did Flea Make a Jazz Album? Practice, Practice, Practice.",
     "description": "The Red Hot Chili Peppers bassist returned to the trumpet, for a new record featuring Nick Cave, Thom Yorke and a core cast of contemporary jazz luminaries.",
     "link": "https://www.nytimes.com/2026/03/19/arts/music/flea-honora-jazz-album.html",
@@ -581,108 +560,59 @@
     "pubDate": "2026-03-19T09:00:10+00:00"
   },
   {
-    "title": "The Best Hand Mixers for Dense Doughs and Whipped Peaks (2026)",
-    "description": "I tested the most popular hand mixers on the market. These are the two that couldn't be beat.",
-    "link": "https://www.bonappetit.com/story/best-hand-mixers",
-    "thumbnail": "https://assets.bonappetit.com/photos/69b9c41be6107bdda323e332/master/pass/handmixers_2026_final.jpg",
-    "pubDate": "2026-03-18T21:23:44+00:00"
-  },
-  {
-    "title": "The Best Steak Knives, Tested and Reviewed (2026)",
-    "description": "Don't wait for until you're having a porterhouse for dinner. These really are everyday knives.",
-    "link": "https://www.bonappetit.com/story/best-steak-knives",
-    "thumbnail": "https://assets.bonappetit.com/photos/69baddf821e1934ff3edb1e0/master/pass/Steak%20Knives%202026%20-%201.jpg",
-    "pubDate": "2026-03-18T21:07:26+00:00"
-  },
-  {
-    "title": "Software Stock Could Bounce After Bullish Crossover",
+    "title": "A $25 Billion Catalyst to Watch Salesforce Stock Here",
     "description": "",
-    "link": "https://finance.yahoo.com/news/software-stock-could-bounce-bullish-191056509.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/.1mXpEZAimk8UcgzBKAmEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00MzE-/https://media.zenfs.com/en/schaeffers_investment_research_24/cb8239c23916a8ddcba9e76c14130bfa",
-    "pubDate": "2026-03-18T19:10:56+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/25-billion-catalyst-watch-salesforce-194921057.html",
+    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/e3492304532385fb5ef72267595b452d",
+    "pubDate": "2026-03-18T19:49:21+00:00"
   },
   {
-    "title": "How the Federal Reserve impacts personal loans",
+    "title": "Why DA Davidson Took a Cautious View on Roblox (RBLX) Despite Strong User Growth",
     "description": "",
-    "link": "https://finance.yahoo.com/news/federal-impacts-personal-loans-193603913.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/MueQ5g2t9mehGSsVEh3U_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/f965b3b7da3908a68226e66f661393ff",
-    "pubDate": "2026-03-18T19:09:15+00:00"
+    "link": "https://finance.yahoo.com/news/why-da-davidson-took-cautious-194904840.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/.5WET5CucszN6R9ahrIOBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/ffe2c5f607e8c209525485c1fbfc69f8",
+    "pubDate": "2026-03-18T19:49:04+00:00"
   },
   {
-    "title": "Back-to-back Qualtrics, EA debt sales to test debt investors' appetites in volatile market",
+    "title": "Why Guggenheim Sees Oracle’s (ORCL) AI Buildout Setting Up a Future Cash Flow Inflection",
     "description": "",
-    "link": "https://finance.yahoo.com/news/back-back-qualtrics-ea-debt-190122867.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/890eea8bbc9d34ad69831bd196cf15e0",
-    "pubDate": "2026-03-18T19:01:22+00:00"
+    "link": "https://finance.yahoo.com/news/why-guggenheim-sees-oracle-orcl-194747428.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/dca33c530c7b6b668679ddac283a0d95",
+    "pubDate": "2026-03-18T19:47:47+00:00"
   },
   {
-    "title": "The ‘Watchlist’ of Private Credit Loans Showing Stress Is Growing. What It Means.",
+    "title": "Fed Keeps Rate-Cut Outlook, But Powell Warns On Inflation; S&amp;P 500 Falls",
     "description": "",
-    "link": "https://www.barrons.com/articles/watchlist-of-private-credit-loans-growing-9b1a80a7?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.investors.com/news/federal-reserve-meeting-march-inflation-unemployment-iran-war-oil-prices-sp-500/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/06/stock-Federal_Reserve-09-adobe.jpg",
+    "pubDate": "2026-03-18T19:44:32+00:00"
+  },
+  {
+    "title": "Earnings Reports Every Quarter? The Pros and Cons From Wall Street Insiders",
+    "description": "",
+    "link": "https://www.barrons.com/articles/sec-quarterly-reporting-expert-opinions-f432c9f3?siteid=yhoof2&yptr=yahoo",
     "thumbnail": "",
-    "pubDate": "2026-03-18T19:01:00+00:00"
+    "pubDate": "2026-03-18T19:44:00+00:00"
   },
   {
-    "title": "Cacio e Pepe (Classic Roman Cheese and Pepper Pasta)",
-    "description": "Literally “cheese and pepper,” this Roman classic comes together in minutes.",
-    "link": "https://www.bonappetit.com/recipe/cacio-e-pepe",
-    "thumbnail": "https://assets.bonappetit.com/photos/65f995a6bb3f09a2cbbdbd01/master/pass/20240312_WEB_SOY_051_ret2.jpg",
-    "pubDate": "2026-03-18T19:00:33+00:00"
-  },
-  {
-    "title": "WTF Is a Weeknight Recipe?",
-    "description": "Our editors discuss slash debate.",
-    "link": "https://www.bonappetit.com/story/what-is-a-weeknight-recipe",
-    "thumbnail": "https://assets.bonappetit.com/photos/699cc5969998ae992d9afcec/master/pass/GettyImages-143480039.jpg",
-    "pubDate": "2026-03-18T19:00:00+00:00"
-  },
-  {
-    "title": "S&amp;P 500 contract comes to Hyperliquid as tokenisation race heats up",
+    "title": "Semiconductor Stock Signal Has Never Been Wrong",
     "description": "",
-    "link": "https://finance.yahoo.com/news/p-500-contract-comes-hyperliquid-185755491.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/3PZYe_j5h4jHXrJPPgzXXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/e37affaae7be0c3e2bb567faaa7e5c80",
-    "pubDate": "2026-03-18T18:57:55+00:00"
+    "link": "https://finance.yahoo.com/news/semiconductor-stock-signal-never-wrong-194341445.html",
+    "thumbnail": "https://s.yimg.com/os/en/schaeffers_investment_research_24/1da303c28e91ff33c35a98da44efc296",
+    "pubDate": "2026-03-18T19:43:41+00:00"
   },
   {
-    "title": "Rising insurance costs push Fannie, Freddie to adjust mortgage rules",
+    "title": "Why Gemini Space Station Stock Crashed Down to Earth Today",
     "description": "",
-    "link": "https://finance.yahoo.com/news/rising-insurance-costs-push-fannie-freddie-to-adjust-mortgage-rules-185704504.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/JDJc7rcPbuCcSErqeE30Rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/7a960850-22f9-11f1-ae7f-b89de8fba258",
-    "pubDate": "2026-03-18T18:57:04+00:00"
+    "link": "https://finance.yahoo.com/news/why-gemini-space-station-stock-194132721.html",
+    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/fb29988acd1b5c3162047ea646edd70c",
+    "pubDate": "2026-03-18T19:41:32+00:00"
   },
   {
-    "title": "Crypto Exchange Kraken Cancels IPO, Citing Difficult Market Conditions",
+    "title": "Andy Corp. acquires truck fleet, warehouses in pair of deals",
     "description": "",
-    "link": "https://finance.yahoo.com/news/crypto-exchange-kraken-cancels-ipo-185400589.html",
-    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/381ce7815383323f18c6281f6fba8e34",
-    "pubDate": "2026-03-18T18:54:00+00:00"
-  },
-  {
-    "title": "Broccoli Confetti Rice",
-    "description": "A veg-forward main or gets-along-with-everyone side.",
-    "link": "https://www.bonappetit.com/recipe/broccoli-confetti-rice",
-    "thumbnail": "https://assets.bonappetit.com/photos/69b190e2f5a468b41c3ca900/master/pass/broccoli-confetti-rice_RECIPE_V2_022626_14138_VOG_final.jpg",
-    "pubDate": "2026-03-18T11:00:00+00:00"
-  },
-  {
-    "title": "Seafood Chowder",
-    "description": "This New England–style soup is deeply flavored, creamy but light, and never gloppy.",
-    "link": "https://www.bonappetit.com/recipe/seafood-chowder",
-    "thumbnail": "https://assets.bonappetit.com/photos/5e90aff6a44eee0009a6b436/master/pass/LARSENS-chowder.jpg",
-    "pubDate": "2026-03-17T17:01:01+00:00"
-  },
-  {
-    "title": "Extra-Creamy Deviled Eggs",
-    "description": "A why-didn't-I-think-of-that technique takes this classic from great to greater.",
-    "link": "https://www.bonappetit.com/recipe/best-deviled-eggs",
-    "thumbnail": "https://assets.bonappetit.com/photos/69a85cd636c7a2c062ca5e56/master/pass/20260128_0426_01_ITS_Deviled%20Eggs_0069_FINAL.jpg",
-    "pubDate": "2026-03-17T10:00:00+00:00"
-  },
-  {
-    "title": "Best gold IRA companies for 2026: Low fees, trusted names, and expert picks",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/investing/article/best-gold-ira-companies-211112839.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2g.tPBjsnebQe79f3fPF8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/7b747880-f435-11f0-bb2d-b8546ebf65a0",
-    "pubDate": "2026-03-16T21:11:12+00:00"
+    "link": "https://finance.yahoo.com/news/andy-corp-acquires-truck-fleet-194121518.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/S9X2z8ersucy0XevObfmhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/41034e8a404492ee1ee76ad544a506e4",
+    "pubDate": "2026-03-18T19:41:21+00:00"
   }
 ]
