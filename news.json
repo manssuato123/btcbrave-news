@@ -1,5 +1,19 @@
 [
   {
+    "title": "Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar'",
+    "description": "The Defense Department designated Anthropic as a risk to U.S. national security, the first time an American company had been hit with that designation.",
+    "link": "https://www.cnbc.com/2026/03/24/anthropic-lawsuit-pentagon-supply-chain-risk-claude.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108276940-1773266266150-gettyimages-2263872608-HEGSETH_CAINE.jpeg?v=1773266412&w=1920&h=1080",
+    "pubDate": "2026-03-24T23:03:50+00:00"
+  },
+  {
+    "title": "Flight 8646 to LaGuardia: From Routine Landing to Disaster in 20 Seconds",
+    "description": "In the early stages of the investigation into the Air Canada Express crash on Sunday night, a hazy timeline has begun to emerge.",
+    "link": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-laguardia-crash-investigation.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-24T23:02:13+00:00"
+  },
+  {
     "title": "U.S. sent Iran 15-point plan to end war, report says; Trump says 'in negotiations right now'",
     "description": "\"Operation Epic Fury continues unabated\" to achieve President Donald Trump's military objectives, White House press secretary Karoline Leavitt said.",
     "link": "https://www.cnbc.com/2026/03/24/trump-iran-war-negotiations.html",
@@ -14,18 +28,18 @@
     "pubDate": "2026-03-24T22:49:56+00:00"
   },
   {
-    "title": "OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer",
-    "description": "The fresh capital brings OpenAI's historic fundraise to $120 billion, exceeding the ChatGPT creator's initial target of $100 billion.",
-    "link": "https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108254967-1769009458400-m4ylX4xI.jpg?v=1769009550&w=1920&h=1080",
-    "pubDate": "2026-03-24T22:49:00+00:00"
-  },
-  {
     "title": "Arm stock pops 6% as CEO Haas issues $15 billion revenue expectation for new chip",
     "description": "Arm unveiled its first in-house chip on Tuesday at an event in San Francisco, with Meta as the initial customer.",
     "link": "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108282506-1774386604928-IMG_3399.jpg?v=1774389569&w=1920&h=1080",
     "pubDate": "2026-03-24T22:46:48+00:00"
+  },
+  {
+    "title": "Meta told to pay $375m for misleading users over child safety",
+    "description": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico.",
+    "link": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/494e/live/ab4f8e60-27ce-11f1-970c-f7251a4cdea4.jpg",
+    "pubDate": "2026-03-24T22:27:21+00:00"
   },
   {
     "title": "Key Adviser Quits Federal Vaccine Panel",
@@ -236,13 +250,6 @@
     "link": "https://www.aljazeera.com/news/2026/3/24/russia-hits-ukraine-with-deadly-daytime-barrage-as-spring-offensive-starts?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-24T165211Z_550791942_RC24BKAIONI8_RTRMADP_3_UKRAINE-CRISIS-ATTACK-LVIV-1774371458.jpg?resize=1920%2C1440",
     "pubDate": "2026-03-24T20:15:35+00:00"
-  },
-  {
-    "title": "Senate Democrats Urge Kennedy to Stop Hindering Key Health Panel",
-    "description": "The health secretary has canceled or postponed three meetings of the U.S. Preventive Services Task Force, which shapes health care coverage for Americans.",
-    "link": "https://www.nytimes.com/2026/03/24/well/kennedy-uspstf-health-panel.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-24T20:13:48+00:00"
   },
   {
     "title": "Chaos Forest Abyss puzzle walkthrough in Crimson Desert",
@@ -560,13 +567,6 @@
     "pubDate": "2026-03-24T14:43:25+00:00"
   },
   {
-    "title": "Transgender girls told to leave Girlguiding groups by September",
-    "description": "It follows an announcement in December that transgender members would be banned from joining.",
-    "link": "https://www.bbc.com/news/articles/cx2rn250ddjo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad42/live/339e2430-278d-11f1-a79a-77e93010d956.jpg",
-    "pubDate": "2026-03-24T13:32:10+00:00"
-  },
-  {
     "title": "CoinDesk 20 performance update: Polkadot (DOT) drops 2.3% as index trades lower",
     "description": "Ripple (XRP), down 1.3% since Monday, was also among the underperformers.",
     "link": "https://www.coindesk.com/coindesk-indices/2026/03/24/coindesk-20-performance-update-polkadot-dot-drops-2-3-as-index-trades-lower",
@@ -602,67 +602,60 @@
     "pubDate": "2026-03-23T18:08:09+00:00"
   },
   {
-    "title": "Not all maintenance violations are the same",
+    "title": "1 Consumer Stock to Buy That’s Up More Than 70% Over the Past Year",
     "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/not-maintenance-violations-same-144700521.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/atsjyJSzC.K8eNRHVESKfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/0ebe8f8e5550f1fd16e3d4fc67c271e8",
-    "pubDate": "2026-03-23T14:47:00+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/1-consumer-stock-buy-more-153502386.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7CK98rFMnCK4qDLBuklRrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/2741373fa7024f8a3a0d7508fe66864d",
+    "pubDate": "2026-03-23T15:35:02+00:00"
   },
   {
-    "title": "The Super Micro Computer Co-Founder Faces New Chip Smuggling Charges. Does That Actually Matter for SMCI Stock?",
+    "title": "As Trump Readies an Alien Announcement, Buy This 1 ETF Now to Invest in UFOs",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-co-founder-144512657.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/eb4085ccd3348b6836c0f2bce71e8d65",
-    "pubDate": "2026-03-23T14:45:12+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/trump-readies-alien-announcement-buy-153017225.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/16euIUI.p9UxP1C_UAJhww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTU-/https://media.zenfs.com/en/barchart_com_477/351954365d5017939664c14d73fc09b1",
+    "pubDate": "2026-03-23T15:30:17+00:00"
   },
   {
-    "title": "GE Vernova (GEV) Up Heavily After Jim Cramer It Was A “Real Good Story”",
+    "title": "Tax refunds are up from a year ago. Will that help the burn of higher gas prices?",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-heavily-jim-144316605.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/922afdfc1e5d160d05149cb9b5ffba63",
-    "pubDate": "2026-03-23T14:43:16+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-up-from-a-year-ago-will-that-help-the-burn-of-higher-gas-prices-152806737.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/1QGVsiqQu8TpiqMKP_Qwvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/eb970ab0-90dd-11ed-be7a-c5a18b4010c2",
+    "pubDate": "2026-03-23T15:28:06+00:00"
   },
   {
-    "title": "Banks begin $4.7bn loan sale for Sealed Air buyout – report",
+    "title": "Hegseth Says It ‘Takes Money to Kill Bad Guys’ Amid $200 Billion Spending Push. Why Axon and L3Harris Are the 2 Top-Rated Defense Stocks to Buy Now",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/banks-begin-4-7bn-loan-144139076.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xupi0h2u2hVyPrCXvnsYGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/packaging_gateway_559/cfcfcf0191504e212db193a1bf394367",
-    "pubDate": "2026-03-23T14:41:39+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hegseth-says-takes-money-kill-152458045.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Rc4y56ROcPDSU_OBWr6iXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDI-/https://media.zenfs.com/en/barchart_com_477/d10f28b26898215c0a8615d9c34fe997",
+    "pubDate": "2026-03-23T15:24:58+00:00"
   },
   {
-    "title": "Biedronka signals interest in Carrefour’s Polish assets",
+    "title": "Stocks Rally as President Trump Eases Iran Threats",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/biedronka-signals-interest-carrefour-polish-143738772.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/saQpYogtN.obSCdoWLyRpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/retail_insight_network_724/3c135773b7329e1e599617e4528c69f6",
-    "pubDate": "2026-03-23T14:37:38+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-president-trump-eases-152107387.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/R5Nrd6kZANqVQaqLE3knIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/553713714e08964d7b30695b362ebe11",
+    "pubDate": "2026-03-23T15:21:07+00:00"
   },
   {
-    "title": "Dollar Falls as Stocks Rally in Hopes Iran War Will Soon End",
+    "title": "Rivian’s Making a Big Pivot, and the Results Could Be Huge",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-falls-stocks-rally-hopes-143631703.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/iELYiN1XdWpxM8xn_EGJTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/c3dfcbf6c12ac0d7bda076fcde2aadd1",
-    "pubDate": "2026-03-23T14:36:31+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-making-big-pivot-results-152100890.html",
+    "thumbnail": "https://s.yimg.com/os/en/marketbeat_955/1442fa25eb7f28550d9060600602c7d9",
+    "pubDate": "2026-03-23T15:21:00+00:00"
   },
   {
-    "title": "A Plunge in Aluminum Futures Sends Alcoa Stock Below Its 50-Day Moving Average. Should You Buy the Dip?",
+    "title": "Ethereum Price Jumps on Iran Optimism as Tom Lee's BitMine Adds to $10 Billion Stash",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/plunge-aluminum-futures-sends-alcoa-143308174.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ADnKDZYdVwflF0qdr3FPzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/bdbaf31b2e87ba7ecca826a20d1918fd",
-    "pubDate": "2026-03-23T14:33:08+00:00"
+    "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-jumps-iran-optimism-151958490.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xYF1y2OIEbR14lUU_COs5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/decrypt_157/a0780072c989e0792375e74c1841ae7f",
+    "pubDate": "2026-03-23T15:19:58+00:00"
   },
   {
-    "title": "High Oil Prices Could Force Fed To Raise Rates",
+    "title": "Xanadu: Rare Public Debut March 27 of Full-Stack Photonic Quantum Company – Initiation Report",
     "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/high-oil-prices-could-force-143000718.html",
-    "thumbnail": "https://s.yimg.com/os/en/oilprice.com/fece6a3617333a223df007c2b389fb4a",
-    "pubDate": "2026-03-23T14:30:00+00:00"
-  },
-  {
-    "title": "Carvana Stock: Is CVNA Outperforming the Consumer Cyclical Sector?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/carvana-stock-cvna-outperforming-consumer-142901994.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Xbe108I4nnhqfrUJJLW1lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTc-/https://media.zenfs.com/en/barchart_com_477/3711b4dddfaba463a3074e211f689287",
-    "pubDate": "2026-03-23T14:29:01+00:00"
+    "link": "https://finance.yahoo.com/sectors/technology/articles/xanadu-rare-public-debut-full-151506467.html",
+    "thumbnail": "https://s.yimg.com/os/en/exec_edge_220/ec1b61087023d22ae4dae603a381c4f6",
+    "pubDate": "2026-03-23T15:15:06+00:00"
   },
   {
     "title": "10 Vibrant New Recipes to Lure You Out of Hibernation",
@@ -698,5 +691,12 @@
     "link": "https://www.bonappetit.com/recipe/spicy-cod-and-potato-chowder",
     "thumbnail": "https://assets.bonappetit.com/photos/69c2bbab1d35bed572c73c20/master/pass/cod-potato-spring-soup_IG_V2_021026_4074_V1_final_horizontal.jpg",
     "pubDate": "2026-03-23T10:00:00+00:00"
+  },
+  {
+    "title": "Flight chaos grows as TSA lines stretch for hours. What to know about trip cancellation insurance.",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/insurance/article/flight-chaos-grows-as-tsa-lines-stretch-for-hours-what-to-know-about-trip-cancellation-insurance-143909492.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/l7AFirV1HOChDtaX_z3ggA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/749ad92c-eba4-44bd-b47d-56d13a4f08a5",
+    "pubDate": "2026-03-19T14:39:09+00:00"
   }
 ]
