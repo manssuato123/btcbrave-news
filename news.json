@@ -1,100 +1,415 @@
 [
   {
+    "title": "Iran war will spare no major economy, says OECD — but the UK is more vulnerable than others",
+    "description": "The U.K. is predicted to be worse hit by the Iran war than its developed market counterparts, the OECD said in its interim economic outlook on Thursday.",
+    "link": "https://www.cnbc.com/2026/03/26/uk-could-be-worse-hit-from-iran-war-of-all-major-economies-oecd.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108283400-1774528615583-gettyimages-1185989787-ps_london_bridge_monday_17.jpeg?v=1774528681&w=1920&h=1080",
+    "pubDate": "2026-03-26T13:43:16+00:00"
+  },
+  {
+    "title": "Retail firms warn of price hikes if Iran war extends for months",
+    "description": "Fashion retailer Next has accounted for millions in additional costs likely to arise from the Middle East conflict",
+    "link": "https://www.cnbc.com/2026/03/26/retail-next-hm-stock-price-hikes-iran-war-middle-east-costs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108276301-17731737722026-03-10t201243z_1190619555_rc2u1kacgmk8_rtrmadp_0_usa-trump-tariffs.jpeg?v=1773173831&w=1920&h=1080",
+    "pubDate": "2026-03-26T13:41:26+00:00"
+  },
+  {
+    "title": "What comes next? Three attack scenarios as U.S. sends thousands more troops to Middle East",
+    "description": "One of Iran's top lawmakers has said that they were anticipating a potential ground invasion of one its islands.",
+    "link": "https://www.cnbc.com/2026/03/26/iran-war-trump-us-troops-kharg-island-qeshm-island-nuclear-middle-east.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108277752-1773403553039-gettyimages-652566478-FtpTrial-AA_12032017_474913.jpeg?v=1774513755&w=1920&h=1080",
+    "pubDate": "2026-03-26T13:35:30+00:00"
+  },
+  {
+    "title": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+    "description": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
+    "link": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108280808-1774006630510-gettyimages-2267458087-_dsc9743.jpeg?v=1774006658&w=1920&h=1080",
+    "pubDate": "2026-03-26T13:33:58+00:00"
+  },
+  {
+    "title": "Stock market today: Dow, S&amp;P 500, Nasdaq slide as Wall Street weighs prospects for Iran truce",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-wall-street-weighs-prospects-for-iran-truce-133318192.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/5CutT4V1h.JP9I0M2GLGZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/f84c3870-289c-11f1-bdbc-336f207f1a9e",
+    "pubDate": "2026-03-26T13:33:18+00:00"
+  },
+  {
+    "title": "BlackRock CEO warns $150 oil could spark recession",
+    "description": "",
+    "link": "https://finance.yahoo.com/economy/articles/blackrock-ceo-warns-150-oil-133219342.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/R5ZEZfCCeVExu3mo9OD6yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/0451cc95cf9ee736b3e27a4575462e54",
+    "pubDate": "2026-03-26T13:32:19+00:00"
+  },
+  {
+    "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
+    "description": "Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry.",
+    "link": "https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108266837-1771433846068-108266837-1771432744419-gettyimages-2261796918-AFP_982Z22K.jpeg?v=1771433929&w=1920&h=1080",
+    "pubDate": "2026-03-26T13:26:30+00:00"
+  },
+  {
+    "title": "Apple expands American manufacturing program with four new partners",
+    "description": "Apple is adding Bosch, Cirrus Logic, TDK, and Qnity Electronics to its American Manufacturing Program, committing $400 million through 2030.",
+    "link": "https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108182953-17545703462025-08-06t224337z_166642104_rc2y1gajy6dl_rtrmadp_0_usa-trump-investment.jpeg?v=1754570363&w=1920&h=1080",
+    "pubDate": "2026-03-26T13:25:54+00:00"
+  },
+  {
+    "title": "Is Big Tech Facing a Big Tobacco Moment?",
+    "description": "Back-to-back courtroom losses have put technology giants, including Meta and Google, in uncertain territory as they face lawsuits and bans on teen users.",
+    "link": "https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-26T13:25:27+00:00"
+  },
+  {
+    "title": "AI and bots have officially taken over the internet, report finds",
+    "description": "HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity.",
+    "link": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108282949-1774456630971-gettyimages-2193072141-dsc03513.jpeg?v=1774456650&w=1920&h=1080",
+    "pubDate": "2026-03-26T13:25:03+00:00"
+  },
+  {
+    "title": "Modern Warfare spikes on Steam with 10,000% more players this week",
+    "description": "Thanks to a 90% discount on Steam, Call of Duty fans are flocking back to Modern Warfare 2019.",
+    "link": "https://www.polygon.com/modern-warfare-2019-sale-player-count-spike/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/modern-warfare-2019-sale-player-count-spike.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-26T13:24:53+00:00"
+  },
+  {
+    "title": "ReconAfrica begins testing at Namibia discovery, advances Gabon work program",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/reconafrica-begins-testing-namibia-discovery-132200964.html",
+    "thumbnail": "https://s.yimg.com/os/en/proactive_us_504/59692b35f61334b374704cfbf5599664",
+    "pubDate": "2026-03-26T13:22:00+00:00"
+  },
+  {
     "title": "Trump says Iranian negotiators 'better get serious soon, before it is too late'",
     "description": "Trump's comments come amid ongoing confusion over whether the U.S. and Iran have held negotiations over ending the war.",
     "link": "https://www.cnbc.com/2026/03/26/trump-iran-negotiations.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108282403-1774378050128-gettyimages-2268177380-_s015318_upur1lso.jpeg?v=1774378078&w=1920&h=1080",
-    "pubDate": "2026-03-26T11:50:38+00:00"
+    "pubDate": "2026-03-26T13:20:20+00:00"
   },
   {
-    "title": "Iran to Lebanon: Four million people displaced by US-Israeli war",
-    "description": "Three million Iranians and at least a million Lebanese have been forced from their homes because of US-Israeli attacks.",
-    "link": "https://www.aljazeera.com/news/2026/3/26/iran-to-lebanon-four-million-people-displaced-by-us-israeli-war?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/INTERACTIVE-displaced-lebanon-iran-March-24-2026_final-05-1774519784.png?resize=1200%2C630",
-    "pubDate": "2026-03-26T11:40:17+00:00"
+    "title": "Teen volunteer paramedic killed in Israeli strike in Lebanon",
+    "description": "This 15-year-old volunteer paramedic was killed alongside a colleague in an Israeli strike on Lebanon.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/teen-volunteer-paramedic-killed-in-israeli-strike-in-lebanon?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1774531154.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-03-26T13:19:28+00:00"
   },
   {
-    "title": "The oil market is in 'backwardation' — Here’s what that means for energy prices",
-    "description": "Oil prices have been rocked by volatility since the U.S.-Iran war began.",
-    "link": "https://www.cnbc.com/2026/03/26/market-trends-oil-futures-backwardation.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108280058-1773890762547-gettyimages-1240062770-nikoubazl-iranener160823_npUrg.jpeg?v=1774443305&w=1920&h=1080",
-    "pubDate": "2026-03-26T11:36:31+00:00"
+    "title": "CoinDesk 20 performance update: index falls 3.2% as all constituents trade lower",
+    "description": "Aave (AAVE) declined 5.6% and Cardano (ADA) dropped 4.8%, leading the index lower from Wednesday.",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/03/26/coindesk-20-performance-update-index-falls-3-2-as-all-constituents-trade-lower",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/94ad0b8682901c6ab15f69aa2b5bcfac76dd0f7c-480x360.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-26T13:18:23+00:00"
+  },
+  {
+    "title": "Dell Taps Canada’s HIVE Digital For A.I. GPU Cluster",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/dell-taps-canada-hive-digital-131500053.html",
+    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/fd006b412ec97729491a6f165169da8d",
+    "pubDate": "2026-03-26T13:15:00+00:00"
+  },
+  {
+    "title": "Damage in Israel from Iranian attacks",
+    "description": "Video shows the aftermath of Iranian attacks in several cities across Israel.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/damage-in-israel-from-iranian-attacks?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1774530484.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-03-26T13:11:19+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Slides As Trump Warns Iran To 'Get Serious Soon'; Oil Prices Surge Higher (Live Coverage)",
+    "description": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-surge/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2021/09/Stock-wallstreetflag-01-adobe.jpg",
+    "pubDate": "2026-03-26T13:10:16+00:00"
+  },
+  {
+    "title": "White House clears review of proposal to allow crypto in 401(k) retirement plans",
+    "description": "A White House review has cleared a Labor Department proposal that could widen the path for crypto-linked exposure in 401(k) retirement plans.",
+    "link": "https://cointelegraph.com/news/white-house-review-greenlights-crypto-401-k-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I2OTAtNmUyZC03YWFiLWI1MGYtMTY4OTJmNDQ4YmQwLmpwZw==.jpg",
+    "pubDate": "2026-03-26T13:09:50+00:00"
+  },
+  {
+    "title": "How a seed phrase leak led to a $176M Bitcoin theft case",
+    "description": "A $176 million Bitcoin theft tied to a seed phrase leak reveals how simple surveillance can bypass crypto security and drain entire wallets.",
+    "link": "https://cointelegraph.com/explained/uk-bitcoin-theft-seed-phrase-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDJhMWMtMGIyZi03MDMyLTg5NzMtYzBhYmIwZmVkN2Q1LmpwZw==.jpg",
+    "pubDate": "2026-03-26T13:07:25+00:00"
+  },
+  {
+    "title": "‘My phone is a brick’: Russians scramble for information as data blocked",
+    "description": "As Ukrainian drones rain down, authorities have implemented blackouts citing ‘security concerns’.",
+    "link": "https://www.aljazeera.com/features/2026/3/26/my-phone-is-a-brick-russians-scramble-for-information-as-data-blocked?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-20T050126Z_241938654_RC2N5KA245DZ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-INTERNET-1774517137.jpg?resize=1920%2C1440",
+    "pubDate": "2026-03-26T13:07:13+00:00"
   },
   {
     "title": "Snapchat Investigated in Europe Over Child Safety Policies",
     "description": "Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.",
     "link": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
     "thumbnail": "",
-    "pubDate": "2026-03-26T11:30:57+00:00"
+    "pubDate": "2026-03-26T13:05:55+00:00"
   },
   {
-    "title": "Single women see homeownership as 'a wealth-building tool,' economist says, but buying remains a challenge",
-    "description": "For years, single men who were first-time homebuyers had higher annual income than their female counterparts, according to the National Association of Realtors.",
-    "link": "https://www.cnbc.com/2026/03/25/single-women-first-time-homebuyers-income-beats-solo-men.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108282974-1774458298188-gettyimages-2205618114-doner5_27746.jpeg?v=1774458318&w=1920&h=1080",
-    "pubDate": "2026-03-26T11:22:51+00:00"
+    "title": "European Payments Initiative CEO says Trump fears are boosting its appeal",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/european-payments-initiative-ceo-says-130517824.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/fafacdd433b2d0094061b8b7a5950e81",
+    "pubDate": "2026-03-26T13:05:17+00:00"
+  },
+  {
+    "title": "Far-fetched to think McSweeney faked phone theft, says PM",
+    "description": "Messages relating to Lord Peter Mandelson's appointment as US ambassador could have been lost in the alleged theft.",
+    "link": "https://www.bbc.com/news/articles/ce8j51r66rxo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67ce/live/f7743310-290c-11f1-8742-11d9a3760e0c.jpg",
+    "pubDate": "2026-03-26T13:04:57+00:00"
+  },
+  {
+    "title": "Senegal pledges to fight ‘robbery’ after CAF strips it of AFCON title",
+    "description": "Senegal's lawyers say CAF's decision to hand Morocco the AFCON title 'openly violates the laws of the ‌game'.",
+    "link": "https://www.aljazeera.com/sports/2026/3/26/senegal-pledges-to-fight-robbery-after-caf-strips-it-of-afcon-title?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-01-18T225426Z_4380626_UP1EM1I1RMOQB_RTRMADP_3_SOCCER-NATIONS-SEN-MAR-1774526034.jpg?resize=1920%2C1440",
+    "pubDate": "2026-03-26T13:04:08+00:00"
+  },
+  {
+    "title": "Apple adds Bosch, Cirrus Logic, others to US manufacturing program, to invest $400 million",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/apple-adds-bosch-cirrus-logic-130214230.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/b7c57390add394f27f53f8cbec22e9bf",
+    "pubDate": "2026-03-26T13:02:14+00:00"
+  },
+  {
+    "title": "Dungeons &amp; Dragons live-action event lets you ride horses to solve a mystery",
+    "description": "Millbrooke Realmquest takes place in early May an hour southwest of Chicago, offering a weekend of camping, quests, and horseback riding.",
+    "link": "https://www.polygon.com/dnd-dungeons-dragons-event-millbrooke-realmquest-horseback-riding-event/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/andaira_fiona.JPG?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-26T13:00:18+00:00"
+  },
+  {
+    "title": "Is Europe heading to an energy crisis?",
+    "description": "Europe is bracing for a supply crunch and a price shock as the Iran conflict drags on.",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/26/is-europe-heading-to-an-energy-crisis?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/web-1774529863.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-03-26T12:59:11+00:00"
+  },
+  {
+    "title": "I re-visited one of England's most spectacular hikes after a £5.5m upgrade",
+    "description": "The long-distance Coast to Coast route which stretches across the Lake District, Yorkshire Dales and North York Moors is now an official National Trail.",
+    "link": "https://www.bbc.com/news/articles/crm1zmj1y8no?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a410/live/cc4535f0-2901-11f1-a79a-77e93010d956.jpg",
+    "pubDate": "2026-03-26T12:57:25+00:00"
+  },
+  {
+    "title": "UK forecast to see biggest hit to growth from Iran war out of major economies",
+    "description": "The OECD downgrades forecasts for many of the world's biggest economies due to the US-Israel war with Iran.",
+    "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4853/live/a28db640-28f9-11f1-a79a-77e93010d956.jpg",
+    "pubDate": "2026-03-26T12:56:33+00:00"
+  },
+  {
+    "title": "Tom Brady says he's asked NFL about potential comeback: 'They don't like that idea very much'",
+    "description": "Tom Brady has asked the NFL about its policy of allowing minority owners to return as players, but he has no plans on returning the field, he told CNBC.",
+    "link": "https://www.cnbc.com/2026/03/26/tom-brady-nfl-potential-comeback.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107399577-1712784281625-gettyimages-1710379798-dsc_2479_88ah2htv_jdp1orlx.jpeg?v=1774529720&w=1920&h=1080",
+    "pubDate": "2026-03-26T12:55:24+00:00"
+  },
+  {
+    "title": "MARA Holdings’ Stock Jumps On Plan To Reduce Debt",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mara-holdings-stock-jumps-plan-125200781.html",
+    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/ecf1da5db67fcc024a39173c42464f22",
+    "pubDate": "2026-03-26T12:52:00+00:00"
+  },
+  {
+    "title": "Natural Gas Dividend Stock Yielding 7% Eyes A Breakout",
+    "description": "",
+    "link": "https://www.investors.com/news/dividend-stock-liquified-natural-gas-diversified-energy-oil-prices-iran-hormuz/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/01/Stock-GasLine-Natural-adobe.jpg",
+    "pubDate": "2026-03-26T12:45:48+00:00"
+  },
+  {
+    "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; AI Supplier Near New Highs",
+    "description": "",
+    "link": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2026-03-26T12:45:21+00:00"
+  },
+  {
+    "title": "Video: GCC chief says Iran charging for ships to pass Strait of Hormuz",
+    "description": "GCC Secretary-General Jasem al-Budaiwi has accused Iran of imposing fees for ships to pass via the Strait of Hormuz.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/video-gcc-chief-says-iran-charging-for-ships-to-pass-strait-of-hormuz?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1774528864.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-03-26T12:41:11+00:00"
+  },
+  {
+    "title": "The High Republic era of Star Wars returns with a brand new comic",
+    "description": "The first issue of Star Wars High Republic Adventures — Pathfinders from Dark Horse is now available in comic book stores.",
+    "link": "https://www.polygon.com/star-wars-high-republic-pathfinders-comic-dark-horse/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/the-high-republic-pathfinders.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-26T12:34:54+00:00"
+  },
+  {
+    "title": "Avatar: Fire and Ash reveals the wild making of its biggest action scene",
+    "description": "Avatar: Fire and Ash comes to digital March 31 and to 4K, Blu-ray, and DVD May 19. Check out James Cameron behind the scenes in an exclusive clip.",
+    "link": "https://www.polygon.com/james-cameron-behind-the-scenes-avatar-fire-ash-digital-4k/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/screenshot-2026-03-25-at-10-51-33-am.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-26T12:30:17+00:00"
+  },
+  {
+    "title": "Blockchain philanthropy fails Africa’s real-world test",
+    "description": "Crypto philanthropy in Africa builds moments, not enduring systems. Transparency without local ownership and maintenance delivers aid dependency, not dignity.",
+    "link": "https://cointelegraph.com/news/blockchain-philanthropy-fails-africa-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2IzNDgtNWYxYy03ZWQzLWFmMDItNDhmYTc4ZWIyY2QzLmpwZw==.jpg",
+    "pubDate": "2026-03-26T12:30:00+00:00"
+  },
+  {
+    "title": "Circle stock CRCL hints at 25% rebound as market shuns CLARITY Act fears",
+    "description": "Bernstein kept its $190 price target for the Circle stock while Bitwise predicted the company's worth will grow 200% to $75 billion by 2030.",
+    "link": "https://cointelegraph.com/news/circle-stock-crcl-25percent-rebound-clarity-act-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIzYmQtZTE0MC03OTI1LWI1OGYtNTcwYTYzN2YyNDk2LmpwZw==.jpg",
+    "pubDate": "2026-03-26T12:27:35+00:00"
+  },
+  {
+    "title": "As a Palestinian, I stand in solidarity with the Iranian people. Here’s why",
+    "description": "History teaches us that the West's promises of caring for our 'freedoms' are empty because imperialism wants control.",
+    "link": "https://www.aljazeera.com/opinions/2026/3/26/as-a-palestinian-i-stand-in-solidarity-with-the-iranian-people-heres-why?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-19T144234Z_1612534627_RC2N7KAK9VR3_RTRMADP_3_IRAN-CRISIS-NOWRUZ-1773999202.jpg?resize=1920%2C1440",
+    "pubDate": "2026-03-26T12:26:23+00:00"
+  },
+  {
+    "title": "Crimson Desert players missed a massive shortcut for the Sealed in Stone mission",
+    "description": "There's a much easier way to complete Sealed in Stone in Crimson Desert than killing every single bandit in the Karin Quarry.",
+    "link": "https://www.polygon.com/crimson-desert-quarry-quest-bandits-shortcut-destroy-buildings/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/crimson-desert-quarry-player-mistakes.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-26T12:24:30+00:00"
+  },
+  {
+    "title": "MARA Holdings higher by 10% after selling $1.1 billion in bitcoin to fund debt buyback",
+    "description": "The strategic move cuts debt, reduces dilution risk, and strengthens the balance sheet for expansion into AI and energy infrastructure, said the company.",
+    "link": "https://www.coindesk.com/markets/2026/03/26/mara-holdings-higher-by-10-after-selling-usd1-1-billion-in-bitcoin-to-fund-debt-buyback",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/41f9664b450aa0b8db401f9ed50ca4d84f34b7c0-1435x807.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-26T12:23:22+00:00"
+  },
+  {
+    "title": "Elon Musk’s X taps ex-Aave product chief Benji Taylor to lead design",
+    "description": "X hires former Aave chief product officer and Base design lead Benji Taylor as head of design, as the company prepares to roll out its X Money payments product.",
+    "link": "https://cointelegraph.com/news/elon-musk-taps-ex-aave-product-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI5ZDgtMjE0OC03YjNhLWI1ZDYtODgwMmUzMTcyMmIzLmpwZw==.jpg",
+    "pubDate": "2026-03-26T12:15:48+00:00"
+  },
+  {
+    "title": "KPop Demon Hunters 2 directors to make a fortune from massive Netflix deal",
+    "description": "Maggie Kang and Chris Appelhans will earn $50 million over five years, and get a share of merch and music,too",
+    "link": "https://www.polygon.com/kpop-demon-hunters-directors-deal-payday/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/kpop-demon-hunters-golden.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-03-26T12:14:34+00:00"
+  },
+  {
+    "title": "North Korea’s Kim meets Lukashenko, slams ‘pressure ​on Belarus from West’",
+    "description": "Putin's allies mark a 'fundamentally new ‌stage' in relations with a friendship treaty during Pyongyang meeting.",
+    "link": "https://www.aljazeera.com/news/2026/3/26/north-koreas-kim-meets-lukashenko-slams-pressure-on-belarus-from-west?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/reuters_69c50dbc-1774521788-1-1774527751.jpg?resize=1920%2C1440",
+    "pubDate": "2026-03-26T12:12:55+00:00"
+  },
+  {
+    "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
+    "description": "Forces are now approved to board sanctioned vessels if required, after ministers identified a legal basis in January.",
+    "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0269/live/c6bee1a0-28eb-11f1-a79a-77e93010d956.jpg",
+    "pubDate": "2026-03-26T12:11:03+00:00"
+  },
+  {
+    "title": "Former CoD Dev Reacts To New Sony Game Getting Canceled: It \"F**king Sucks\"",
+    "description": "Former Call of Duty developer Jason Blundell's new studio with Sony, Dark Outlaw Games, was shuttered this week, and now more details about the team and its game have been revealed. Blundell and the game's level designer JC Farmer discussed the project on a livestream. To begin with, Blundell said it \"f**king sucks\" that the 20-person studio got shut down, but he said he understands these things happen when you work for a big company like Sony. He also stressed that it's common for games to be canceled earlier in development. He said Dark Outlaw may have gotten more attention in this regard because the studio was owned by Sony. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/former-cod-dev-reacts-to-new-sony-game-getting-canceled-it-fking-sucks/1100-6539024/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-03-26T12:10:00+00:00"
+  },
+  {
+    "title": "Coinbase-backed crypto advocacy group unveils 2026 election plan",
+    "description": "Following its successes mobilizing crypto-minded voters in 2024, Stand With Crypto said it would prioritize House races in two US states for the midterms.",
+    "link": "https://cointelegraph.com/news/stand-with-crypto-coinbase-midterm-election-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI2NGYtNzAxMS03NGQ4LWFhMzAtMTkyZThlMzYyY2MxLmpwZw==.jpg",
+    "pubDate": "2026-03-26T12:00:00+00:00"
+  },
+  {
+    "title": "U.S. midterms pack major digital assets punch as Stand With Crypto preps strategy",
+    "description": "The terrain of Congress is likely to shift considerably even as the crypto sector continues to chase fundamental legislation.",
+    "link": "https://www.coindesk.com/policy/2026/03/25/u-s-midterms-pack-major-digital-assets-wallop-as-stand-with-crypto-preps-strategy",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2c2cb590c1ab3181c8f065f93830f722c743a7b1-5582x3722.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-26T12:00:00+00:00"
+  },
+  {
+    "title": "Jury finds Meta, YouTube liable for social media addiction: What we know",
+    "description": "Jury recommends Google and Meta pay $6m damages in landmark social media addiction lawsuit.",
+    "link": "https://www.aljazeera.com/news/2026/3/26/jury-finds-meta-youtube-liable-for-social-media-addiction-what-we-know?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/epa_69c501ec798e-1774518764.jpg?resize=1920%2C1440",
+    "pubDate": "2026-03-26T11:59:01+00:00"
+  },
+  {
+    "title": "Is Bitcoin’s governance too slow to fend off quantum risks?",
+    "description": "BOLT Technologies founder Yoon Auh says the real challenge in the quantum transition is whether blockchain networks can coordinate system-wide upgrades.",
+    "link": "https://cointelegraph.com/news/bitcoin-governance-slow-fend-quantum-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4MTItMjkzNS03MjQyLWFiYzktYzA2NTM0ZTc1NDY5.jpg",
+    "pubDate": "2026-03-26T11:57:43+00:00"
+  },
+  {
+    "title": "Venezuela’s Maduro set to again appear in US court: How strong is the case?",
+    "description": "March 26 hearing will be second court appearance since Maduro's January 3 abduction by US military.",
+    "link": "https://www.aljazeera.com/news/2026/3/26/venezuelas-maduro-set-to-again-appear-in-us-court-how-strong-is-the-case?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-05T132513Z_1997653511_RC20VIAIZF2M_RTRMADP_3_USA-VENEZUELA-MADURO-NEW-YORK-1767646464.jpg?resize=1920%2C1440",
+    "pubDate": "2026-03-26T11:56:47+00:00"
+  },
+  {
+    "title": "Brazil passes law turning seized crypto into public-security war chest",
+    "description": "The law lets authorities use crypto seized during investigations and expands their power to freeze, block or seize funds in a bid to crack down on criminal organizations.",
+    "link": "https://www.coindesk.com/policy/2026/03/26/brazil-passes-law-turning-seized-crypto-into-public-security-war-chest",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-26T11:56:41+00:00"
+  },
+  {
+    "title": "Coinbase, Fannie Mae bring crypto-backed mortgages to homebuyers",
+    "description": "The crypto exchange is working with financial technology mortgage firm Better, a Fannie Mae-approved mortgage seller.",
+    "link": "https://www.coindesk.com/business/2026/03/26/coinbase-fannie-mae-bring-crypto-backed-mortgages-to-homebuyers",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/01b078cd684ca9805f71cae842b6ed11cbf91ed4-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-26T11:41:06+00:00"
   },
   {
     "title": "Circle leads Tazapay extension as total Series B reaches $36M",
     "description": "Tazapay said Circle led a Series B extension that brought total funding to $36 million as the company expands cross-border payment rails.",
     "link": "https://cointelegraph.com/news/cross-border-payment-provider-tazapay-raises-36m-from-circle-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019af9e2-bd09-7492-a603-69014689ed81",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5ZTItYmQwOS03NDkyLWE2MDMtNjkwMTQ2ODllZDgx.jpg",
     "pubDate": "2026-03-26T11:17:30+00:00"
   },
   {
-    "title": "Germany warns of world economic ‘catastrophe’; OECD cuts UK growth forecast",
-    "description": "European powers and bodies warn of economic collapse as the war on Iran nears one-month mark.",
-    "link": "https://www.aljazeera.com/news/2026/3/26/germany-warns-of-world-economic-catastrophe-oecd-cuts-uk-growth-forecast?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/epa_69c4fe4fdf71-1774517839.jpg?resize=1920%2C1440",
-    "pubDate": "2026-03-26T11:16:58+00:00"
+    "title": "Everyone's calling bitcoin resilient, may be it's just complacent",
+    "description": "Your day-ahead look for March 26, 2026",
+    "link": "https://www.coindesk.com/daybook-us/2026/03/26/everyone-s-calling-bitcoin-resilient-may-be-it-s-just-complacent",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9bcb4d0e78ae511fdfdc3aa781eb4d117253c4f2-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-03-26T11:16:47+00:00"
   },
   {
     "title": "Who Is Alireza Tangsiri, the Latest Iranian Commander Targeted by Israel?",
     "description": "Israel said it killed the naval commander, Alireza Tangsiri, in an airstrike on Thursday morning. Iran has not commented.",
-    "link": "https://www.nytimes.com/2026/03/26/world/middleeast/alireza-tangsiri.html",
+    "link": "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html",
     "thumbnail": "",
-    "pubDate": "2026-03-26T11:16:40+00:00"
-  },
-  {
-    "title": "AFCON &amp; CAF: Justice or Chaos?",
-    "description": "Senegal won 2025 AFCON but CAF overturned the result and handed the title to Morocco to make them champions.",
-    "link": "https://www.aljazeera.com/video/game-theory/2026/3/26/aje-onl-afconcaf_v5-260326?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026_Game-Theory_EP12_Thumbnail_Horizontal_V01_00-1774523034.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-03-26T11:13:45+00:00"
-  },
-  {
-    "title": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says",
-    "description": "Defence minister claims Israel kills Alireza Tangsiri, citing his role in blocking the Strait of Hormuz.",
-    "link": "https://www.aljazeera.com/news/2026/3/26/iranian-naval-commander-alireza-tangsiri-killed-in-attack-says-israel?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-1.46.15-PM-1774522036.png?resize=1920%2C1440",
-    "pubDate": "2026-03-26T11:10:39+00:00"
-  },
-  {
-    "title": "Iran war is a 'catastrophe,' G7 ministers warn — but there's little they can do to stop it",
-    "description": "European leaders and ministers issue warnings about the impact and potential consequences of the Iran war",
-    "link": "https://www.cnbc.com/2026/03/26/g7-summit-iran-war-europe-us-marco-rubio-ukraine-strait-of-hormuz-shipping-energy.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108159947-17500938532025-06-16t170450z_447132581_rc2r3faylg1j_rtrmadp_0_g7-summit.jpeg?v=1750093989&w=1920&h=1080",
-    "pubDate": "2026-03-26T11:05:45+00:00"
-  },
-  {
-    "title": "A Google AI breakthrough is pressuring memory chip stocks from Samsung to Micron",
-    "description": "SK Hynix, Samsung and Micron shares fell as investors fear fewer memory chips may be required in the future.",
-    "link": "https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108261075-1770161242025-gettyimages-2259269004-ALPHABET_EARNS.jpeg?v=1774517925&w=1920&h=1080",
-    "pubDate": "2026-03-26T10:58:48+00:00"
+    "pubDate": "2026-03-26T11:16:41+00:00"
   },
   {
     "title": "Bitcoin in ‘later stages’ of bear market: Watch these BTC price levels",
     "description": "Bitcoin was down 44% from its $126,000 all-time highs as key onchain and technical indicators suggested BTC is entering the late phase of the bear market.",
     "link": "https://cointelegraph.com/news/bitcoin-in-later-stages-of-bear-market-watch-these-btc-price-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c1ee5-bd55-7ef5-aba5-f3abc1821d07.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFlZTUtYmQ1NS03ZWY1LWFiYTUtZjNhYmMxODIxZDA3LmpwZw==.jpg",
     "pubDate": "2026-03-26T10:48:42+00:00"
   },
   {
     "title": "Nvidia investor class-action suit advances over crypto mining revenue",
     "description": "A California judge has certified an investor class in the Nvidia securities suit over alleged misstatements on crypto mining GPU sales, advancing the case toward a potential trial.",
     "link": "https://cointelegraph.com/news/nvidia-investor-class-certified-crypto-revenue-suit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d291f-ae4d-712c-b98d-40ab35a7ed89.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI5MWYtYWU0ZC03MTJjLWI5OGQtNDBhYjM1YTdlZDg5LmpwZw==.jpg",
     "pubDate": "2026-03-26T10:48:12+00:00"
   },
   {
@@ -112,67 +427,11 @@
     "pubDate": "2026-03-26T10:46:00+00:00"
   },
   {
-    "title": "Video: Storms wash away vehicles and flood homes across Middle East",
-    "description": "Vehicles were washed away in floods in Oman and homes were flooded in Syria as storms brought floods across the region.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/video-storms-wash-away-vehicles-and-flood-homes-across-middle-east?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1774521885.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-03-26T10:45:13+00:00"
-  },
-  {
-    "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
-    "description": "Forces are now approved to board sanctioned vessels if required, after ministers identified a legal basis in January.",
-    "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0269/live/c6bee1a0-28eb-11f1-a79a-77e93010d956.jpg",
-    "pubDate": "2026-03-26T10:43:59+00:00"
-  },
-  {
-    "title": "UK facing biggest hit to growth from Iran war out of major economies",
-    "description": "The OECD downgrades forecasts for many of the world's biggest economies due to the US-Israel war with Iran.",
-    "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4853/live/a28db640-28f9-11f1-a79a-77e93010d956.jpg",
-    "pubDate": "2026-03-26T10:40:46+00:00"
-  },
-  {
     "title": "Crypto slides as oil spike, macro jitters trigger derivatives unwind",
     "description": "Bitcoin dropped below $70,000 and ether fell toward $2,000 as rising oil prices, falling equities and weak liquidity sparked risk-off flows and pressured altcoins.",
     "link": "https://www.coindesk.com/markets/2026/03/26/crypto-slides-as-oil-spike-macro-jitters-trigger-derivatives-unwind",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/14877da3dc63697f53cebd4d19fc785705fc509b-4272x2848.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-26T10:40:09+00:00"
-  },
-  {
-    "title": "Oil prices could hit $120 as war risks escalate, analyst warns",
-    "description": "“We think oil prices will continue to stay elevated.”",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/oil-prices-could-hit-120-as-war-risks-escalate-analyst-warns?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1774521472.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-03-26T10:38:02+00:00"
-  },
-  {
-    "title": "What comes next? Three attack scenarios as U.S. sends thousands more troops to Middle East",
-    "description": "One of Iran's top lawmakers has said that they were anticipating a potential ground invasion of one its islands.",
-    "link": "https://www.cnbc.com/2026/03/26/iran-war-trump-us-troops-kharg-island-qeshm-island-nuclear-middle-east.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108277752-1773403553039-gettyimages-652566478-FtpTrial-AA_12032017_474913.jpeg?v=1774513755&w=1920&h=1080",
-    "pubDate": "2026-03-26T10:29:49+00:00"
-  },
-  {
-    "title": "Dozens dead in Bangladesh as passenger bus plunges into Padma River",
-    "description": "Children among dead after bus carrying 40 passengers, which was attempting to board a ferry, topples into river.",
-    "link": "https://www.aljazeera.com/news/2026/3/26/dozens-dead-in-bangladesh-as-passenger-bus-plunges-into-padma-river?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP26085156026561-1774516913.jpg?resize=1920%2C1440",
-    "pubDate": "2026-03-26T10:24:29+00:00"
-  },
-  {
-    "title": "‘Missile hit’ flips car in Israel",
-    "description": "Surveillance footage shows a car overturning due to 'falling rocket debris in central Israel'.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/missile-hit-flips-car-in-israel?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1774520222.jpg?resize=1200%2C675",
-    "pubDate": "2026-03-26T10:19:08+00:00"
-  },
-  {
-    "title": "US recession odds near 50%: Can Bitcoin copy 2020 comeback gains?",
-    "description": "US recession fears multiplied this week as BlackRock's Larry Fink warned of a \"global\" downturn over oil prices, with Bitcoin still tied to stocks.",
-    "link": "https://cointelegraph.com/news/us-recession-odds-near-50-can-bitcoin-copy-2020-comeback-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d2993-e757-78a7-87a2-5bbb946e07fd.jpg",
-    "pubDate": "2026-03-26T10:11:44+00:00"
   },
   {
     "title": "Bitcoin has traded in a tight range for nearly 50 days – but this is not a \"bear flag\"",
@@ -182,60 +441,18 @@
     "pubDate": "2026-03-26T10:09:10+00:00"
   },
   {
-    "title": "CoinShares says up to 20% of Bitcoin miners are unprofitable",
-    "description": "CoinShares says up to 20% of Bitcoin miners may be unprofitable at current hashprice levels, particularly those running older machines or paying higher power costs.",
-    "link": "https://cointelegraph.com/news/bitcoin-mining-squeeze-narrows-field-of-viable-operators-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d295b-22f2-7ee3-a83f-8c2916fdcd46.jpg",
-    "pubDate": "2026-03-26T10:05:43+00:00"
-  },
-  {
     "title": "A Landmark Verdict on the Danger of Social Media, and Trump’s Call to Punish ‘Rogue Judges’",
     "description": "Plus, OnlyFans’ billionaire owner dies at 43.",
     "link": "https://www.nytimes.com/2026/03/26/podcasts/the-headlines/meta-youtube-social-media-verdict.html",
     "thumbnail": "",
-    "pubDate": "2026-03-26T10:00:16+00:00"
-  },
-  {
-    "title": "Reps Ro Khanna and Tim Burchett to push fraud probe across all 50 states",
-    "description": "Khanna, D-Calif., who is separately leading Democrats on a bill to impose a federal wealth tax, told CNBC in December he would introduce the fraud probe as soon as he found a Republican cosponsor.",
-    "link": "https://www.cnbc.com/2026/03/26/reps-ro-khanna-and-tim-burchett-to-push-fraud-probe-across-all-50-states.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108283053-1774464993785-gettyimages-2263351550-CLINTONS_EPSTEIN_DEPOSITION.jpeg?v=1774477231&w=1920&h=1080",
-    "pubDate": "2026-03-26T10:00:02+00:00"
-  },
-  {
-    "title": "Israel hinders repair of damaged water infra deepening Gaza’s health crisis",
-    "description": "Palestinian engineers struggle to repair Gaza's water system, which has been contaminated, posing a health risk.",
-    "link": "https://www.aljazeera.com/features/2026/3/26/israel-hinders-repair-of-damaged-water-infra-deepening-gazas-health-crisis?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/02/afp_69871fae12ef-1770463150.jpg?resize=1920%2C1440",
-    "pubDate": "2026-03-26T09:52:51+00:00"
-  },
-  {
-    "title": "Iran plans to charge ships for safe passage through Strait of Hormuz, report says",
-    "description": "Officials in Tehran have drafted legislation to create a toll system where ships pay for safe passage through the waterway, Iranian media reported.",
-    "link": "https://www.cnbc.com/2026/03/26/iran-plans-tolls-on-ships-passing-through-strait-of-hormuz.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108276590-1773233295523-108276590-17732332322026-03-11t124404z_1241300443_rc2b2ka9fzh1_rtrmadp_0_iran-crisis-emirates-hormuz.jpg?v=1773233302&w=1920&h=1080",
-    "pubDate": "2026-03-26T09:49:59+00:00"
-  },
-  {
-    "title": "Amid US-Israel war, Iran football team trains in Turkiye before World Cup",
-    "description": "Iran will play two friendly matches in Turkiye as they prepare for the FIFA World Cup in the US, Canada and Mexico.",
-    "link": "https://www.aljazeera.com/sports/2026/3/26/amid-us-israel-war-iran-football-team-trains-in-turkiye-before-world-cup?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-25T162653Z_1342864894_UP1EM3P19OSKA_RTRMADP_3_IRAN-CRISIS-SOCCER-TURKEY-1774517170.jpg?resize=1200%2C630",
-    "pubDate": "2026-03-26T09:48:22+00:00"
+    "pubDate": "2026-03-26T10:00:17+00:00"
   },
   {
     "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
-    "description": "The ruling could be the beginning of the end of social media as we know it, writes the BBC Technology Editor Zoe Kleinman.",
+    "description": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
     "link": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57c0/live/feb5be00-28f8-11f1-a95f-75471ca6e71e.jpg",
     "pubDate": "2026-03-26T09:37:57+00:00"
-  },
-  {
-    "title": "Palestine Action arrests to resume while government appeal ongoing, Met says",
-    "description": "The Met says it remains a criminal offence to support the banned group and it \"must enforce the law\".",
-    "link": "https://www.bbc.com/news/articles/cew75lx1j72o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e098/live/0a709080-28ef-11f1-934f-036468834728.jpg",
-    "pubDate": "2026-03-26T09:26:16+00:00"
   },
   {
     "title": "Bitcoin DAT trade is concentrating in Michael Saylor’s Strategy as treasury demand fades elsewhere",
@@ -243,6 +460,13 @@
     "link": "https://www.coindesk.com/markets/2026/03/26/michael-saylor-s-strategy-dominates-dat-bitcoin-buying-as-treasury-demand-collapses",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-26T09:20:04+00:00"
+  },
+  {
+    "title": "Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump",
+    "description": "The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.",
+    "link": "https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108283274-1774510331506-gettyimages-2267796782-AFP_A4NR4VF.jpeg?v=1774510362&w=1920&h=1080",
+    "pubDate": "2026-03-26T09:09:51+00:00"
   },
   {
     "title": "Juries Take the Lead in the Push for Child Online Safety",
@@ -262,15 +486,8 @@
     "title": "As Minecraft's New Update Arrives, Mojang Says \"Nothing Is Off The Table\" For Future Drops",
     "description": "Minecraft's latest update, Tiny Takeover, has just been released, and with it comes a complete overhaul of the baby mobs in the game. From chicks to zombies, villagers to kittens, not a single mob has been skipped for this revamp. We caught up with Minecraft's product manager, Anna Lundgren, to talk about all things tiny, as well as what may, or may not, be on the cards in the future. The Minecraft game-drop format started a little over two years ago, and saw the annual update split into four smaller drops spread throughout the year. Tiny Takeover came around, Anna says, because the mob artist hadn't been \"super happy\" with the game's babies for a while now. \"We just wanted to make them cuter, more lovable, and have more unique personalities,\" she explains. \"I think after having done Chase the Skies, Copper Age, and Mounts of Mayhem, they all leaned into very different aspects of the game than this drop does. It felt like it could be good timing to lean into the more adorable and cutesy side of Minecraft, even though some of them are still very hostile.\" This, of course, brings up the question of player morality. If a tiny hostile mob is this much cuter, how are we supposed to face off against them? \"I think you feel that way as a player stepping out into the night and seeing a baby zombie coming--it's really cute! But as soon as it gets close enough and attacks you, I think you'll be able to throw that moral doubt away,\" Anna laughs. Minecraft has always had dark and scary aspects to it, with the more dangerous mobs coming out at night, the deadly Warden that lurks beneath the surface, and Creepers that could blow your entire build to smithereens with barely a second's notice. It's also been a place for bright, fun, and even cute interactions. As Anna notes, it's easy to enjoy the game without making it too intimidating, which is why hostile mobs got the cute treatment, too. \"It should have scares in there, but also you need the cuteness! It's so important, because it opens up avenues for so many different ways to experience Minecraft,\" she explains. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/as-minecrafts-new-update-arrives-mojang-says-nothing-is-off-the-table-for-future-drops/1100-6539021/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/original/1850/18507742/4672139-screenshot2026-03-26085736.png",
+    "thumbnail": "",
     "pubDate": "2026-03-26T08:53:00+00:00"
-  },
-  {
-    "title": "Fenbushi co-founder offers bounty to recover $42M lost in 2022 hack",
-    "description": "Investigators have frozen about $1.2 million as efforts continue to trace funds lost in a wallet breach linked to a seed phrase compromise.",
-    "link": "https://cointelegraph.com/news/fenbushi-co-founder-offers-bounty-to-recover-42m-lost-in-2022-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b2041-c2ce-7c73-8bca-de9a7b11f7f5.jpg",
-    "pubDate": "2026-03-26T07:37:47+00:00"
   },
   {
     "title": "Some bitcoin indicators are still going the wrong way, challenging the bullish $70,000 holdout story",
@@ -280,6 +497,13 @@
     "pubDate": "2026-03-26T06:12:12+00:00"
   },
   {
+    "title": "Singer Duffy to share sex assault ordeal in documentary",
+    "description": "Disney+ says it has been given \"unprecedented access\" to the singer in her first major interview in 15 years.",
+    "link": "https://www.bbc.com/news/articles/cx23nk8l40zo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/9c5e0e90-285f-11f1-ac83-af0e0530cb8c.jpg",
+    "pubDate": "2026-03-26T06:12:02+00:00"
+  },
+  {
     "title": "In one of country's poorest states, Venezuelans hope for post-Maduro boom",
     "description": "Ione Wells travels to Sucre, where a lack of investment has hampered locals' prospects.",
     "link": "https://www.bbc.com/news/articles/c3dlxvmr5n0o?at_medium=RSS&at_campaign=rss",
@@ -287,74 +511,11 @@
     "pubDate": "2026-03-26T06:08:07+00:00"
   },
   {
-    "title": "UK pushes ahead with temporary ban on political crypto donations",
-    "description": "The government plans to implement the ban by amending the Representation of the People Bill, with changes taking \"retrospective effect\" from Wednesday.",
-    "link": "https://cointelegraph.com/news/uk-forges-ahead-political-crypto-donations-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c9715-6adf-7ddd-9eb1-d9551cee22fd.jpg",
-    "pubDate": "2026-03-26T06:07:46+00:00"
-  },
-  {
-    "title": "Coinbase opposes stablecoin compromise in Senate crypto bill: Report",
-    "description": "Coinbase is reportedly still pushing back against stablecoin yield provisions in the Senate’s crypto market structure bill, a move that has derailed past efforts to advance the legislation.",
-    "link": "https://cointelegraph.com/news/coinbase-opposes-latest-crypto-bill-stablecoin-compromise-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bafde-7690-7c2d-a585-5ed00300856d.jpg",
-    "pubDate": "2026-03-26T06:03:38+00:00"
-  },
-  {
-    "title": "'I have no recollection of anything' - Epstein survivor says she was drugged and raped",
-    "description": "A survivor of Epstein's abuses spoke publicly for the first time to BBC Newsnight about her experience of being raped and drugged by the sex offender.",
-    "link": "https://www.bbc.com/news/articles/c05dz39m6qgo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302b/live/58578f80-2889-11f1-a79a-77e93010d956.jpg",
-    "pubDate": "2026-03-26T06:02:20+00:00"
-  },
-  {
-    "title": "Proposed bill seeks to ban US president, Congress from prediction markets",
-    "description": "The bill adds to a wave of recent legislative and state-level actions targeting prediction markets as scrutiny over sports betting, war contracts and alleged insider trading builds.",
-    "link": "https://cointelegraph.com/news/lawmakers-introduce-bill-banning-congress-president-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bbf15-e607-77d3-90f9-b689d9abc7bc.jpg",
-    "pubDate": "2026-03-26T05:38:13+00:00"
-  },
-  {
-    "title": "Bitcoin’s quantum-resistance lag may become Ethereum’s bull case: Nic Carter",
-    "description": "Crypto entrepreneur Nic Carter claims that Bitcoin developers still have their \"head in the sand\" when it comes to making Bitcoin quantum-resistant, compared to Ethereum.",
-    "link": "https://cointelegraph.com/news/bitcoin-quantum-rigidity-becomes-ethereum-s-biggest-bull-case-nic-carter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c9d11-502f-7b1a-b0e4-c1a14aa4b7ee.jpg",
-    "pubDate": "2026-03-26T05:28:54+00:00"
-  },
-  {
-    "title": "Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million",
-    "description": "The Royal Government of Bhutan transferred 519.707 BTC on Wednesday, the latest in a series of increasingly large moves that have taken its holdings from a peak of roughly 13,000 BTC to 4,453.",
-    "link": "https://www.coindesk.com/markets/2026/03/26/bhutan-moves-another-500-bitcoin-to-exchanges-as-2026-outflows-top-usd150-million",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/adf4cf82040d1106a3db7981dca4bd3bfd1b5efc-1440x825.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-26T05:08:39+00:00"
-  },
-  {
-    "title": "XRP volatility hits cycle lows as $1.40 support comes into focus",
-    "description": "Tight range and fading momentum suggest a breakout is near, with direction hinging on $1.40 hold.",
-    "link": "https://www.coindesk.com/markets/2026/03/26/xrp-volatility-hits-cycle-lows-as-usd1-40-support-comes-into-focus",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b370a0b1c166b706b0188ba0e5d4fe9bdbf7f961-1080x652.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-26T04:45:27+00:00"
-  },
-  {
-    "title": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
-    "description": "European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.",
-    "link": "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-26T04:01:13+00:00"
-  },
-  {
     "title": "Trump Calls for Law Cracking Down on Crime and ‘Rogue Judges’",
     "description": "Ahead of the midterms, President Trump told a Republican gathering that he wants to go after repeat offenders and “rogue judges that are criminals.”",
     "link": "https://www.nytimes.com/2026/03/25/us/politics/trump-judges-rogue-law.html",
     "thumbnail": "",
     "pubDate": "2026-03-26T02:49:53+00:00"
-  },
-  {
-    "title": "Trump says Justices Barrett, Gorsuch ‘sicken me’ after Supreme Court tariff ruling",
-    "description": "The Supreme Court, in a 6-3 ruling, said President Trump did not have authority under the International Emergency Economic Powers Act to impose tariffs.",
-    "link": "https://www.cnbc.com/2026/03/26/trump-supreme-court-tariffs-barrett-gorsuch-trade-ieepa-ruling.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108275760-1773094817432-gettyimages-2265207685-AFP_A2LB63R.jpeg?v=1774486744&w=1920&h=1080",
-    "pubDate": "2026-03-26T02:25:15+00:00"
   },
   {
     "title": "Republicans in Congress Fret Over Trump Administration’s Handling of Iran War",
@@ -378,32 +539,18 @@
     "pubDate": "2026-03-26T00:41:16+00:00"
   },
   {
-    "title": "I re-visited one of England's most spectacular hikes after a £5.5m upgrade",
-    "description": "The long-distance Coast to Coast route which stretches across the Lake District, Yorkshire Dales and North York Moors is now an official National Trail.",
-    "link": "https://www.bbc.com/news/articles/crm1zmj1y8no?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a410/live/cc4535f0-2901-11f1-a79a-77e93010d956.jpg",
-    "pubDate": "2026-03-26T00:40:30+00:00"
-  },
-  {
-    "title": "Trump to Delay Nominating New C.D.C. Director",
-    "description": "The administration has yet to find a candidate who aligns with Health Secretary Robert F. Kennedy Jr.’s agenda while avoiding his unpopular stance on vaccines.",
-    "link": "https://www.nytimes.com/2026/03/25/health/cdc-director-nomination-delay.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-25T23:54:44+00:00"
-  },
-  {
-    "title": "Market structure bill compromise draws wide-ranging reaction from fractured crypto crowd",
-    "description": "The yield agreement, seen as a step toward finally advancing the stalled market structure bill, hasn't yet fully won industry support.",
-    "link": "https://www.coindesk.com/policy/2026/03/25/market-structure-bill-compromise-draws-wide-ranging-reaction-from-fractured-crypto-crowd",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/03ab15a46a49d90cd40a30c7756dd0610bc6a533-3645x2050.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-25T23:11:42+00:00"
-  },
-  {
     "title": "The Ghost In The Shell Legacy Edition Manga Set Is Steeply Discounted Right Now",
     "description": "The Ghost in the Shell Legacy Edition Manga Box Set $107 (was $140) See at Amazon Ghost in the Shell is one of the most important franchises in manga and anime. The series began as a manga created by Masamune Shirow, which has seen numerous sequels, film and anime adaptations, video games, and more. It's even set to receive another anime adaptation courtesy of one of the best contemporary anime studios, Science Saru, set to premiere in July 2026. If you're looking to experience the source material before this new anime series drops, you're in luck--the original manga and several of its sequel books were reprinted earlier this year with the gorgeous The Ghost in the Shell Legacy Edition box set, and thanks to Amazon's Spring Sale event, you can snag the three-book set for just $107, saving you nearly 25% compared to its $140. This is a temporary price cut that will only be available during Amazon's sale, which ends on March 31. See at Amazon The Ghost in the Shell Legacy Edition Manga Box Set includes three deluxe hardcover volumes housed in a slipcover case. The first is the original The Ghost in the Shell that restores the scenes and artwork from the original Japanese version of the manga that were removed for the western release. The set also includes both manga follow-ups, The Ghost in the Shell 1.5: Human Error Processor and The Ghost in the Shell 2.0: Man‑Machine Interface. Along with the books, the collection also comes with a set of ten 10-ich posters based on the rare 1997 Cyberdelics releases. Each posted is printed on etched metallic vinyl stock with holographic spot gloss finish--in other words, these are high-quality prints. There's also a set of multi-colored Fuchikoma robot stickers and an additional poster with information about Shirow's creative process. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/the-ghost-in-the-shell-legacy-edition-manga-set-is-steeply-discounted-right-now/1100-6539020/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4627176-gits-square.jpg",
+    "thumbnail": "",
     "pubDate": "2026-03-25T22:13:00+00:00"
+  },
+  {
+    "title": "The Social Media Addiction Trials: What to Know",
+    "description": "Landmark trials are testing a new legal strategy claiming that Meta, TikTok, Snap and YouTube caused personal injury through addictive products.",
+    "link": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trials.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-25T21:59:33+00:00"
   },
   {
     "title": "How Kharg Island May Change the Trajectory of the Iran War",
@@ -441,31 +588,24 @@
     "pubDate": "2026-03-25T20:56:11+00:00"
   },
   {
-    "title": "Elon Musk's X hires crypto-savvy design lead as X Money payments push inches closer",
-    "description": "Benji Taylor, former CPO at Aave Labs and design head at Coinbase's Base, brings self-custody wallet and DeFi product experience to the social media platform.",
-    "link": "https://www.coindesk.com/business/2026/03/25/elon-musk-s-x-hires-crypto-savvy-design-lead-as-x-money-payments-push-inches-closer",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/acee6ae1d9fb1fcc92ccab7e5384aa3bce474936-1209x680.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-25T20:54:45+00:00"
-  },
-  {
     "title": "The Best Deals On Razer Gaming Accessories In Amazon's Spring Sale",
     "description": "Just about everything related to PC and console gaming seems to be increasing in price lately, but fortunately, these Amazon Spring Sale deals on Razer products are a welcome exception to that rule. Razer has established itself as one of the most popular brands around for its high-quality gaming accessories and peripherals, and the sale includes some deep discounts on Razer headsets, controllers, and gaming chairs. All Amazon Spring Sale deals Razer gaming chairs on sale A good gaming chair goes a long way, and if you're looking to invest in a throne that won't break the bank, then check out these deals on the Razer Iskur V2 X. This particular model--available in both grey and black--improves on its predecessor with a wider seat and breathable fabric, as well as an integrated lumbar arch that's designed to encourage a better seating position. Normally $300, it's on sale for just $250. Razer Iskur V2 X (Grey) -- $250 ($300) Razer Iskur V2 X (Black) -- $250 ($300) Razer headsets on sale All Razer headsets on sale With recent releases like Arc Raiders and Marathon encouraging players to team up and chat to their fellow gamers, having a headset for these occasions is always a good idea. Amazon is offering several of Razer's best headsets for up to 50% off, like the BlackShark V2 Pro for $100 (was $200). This wireless headset offers a strong battery life of up to 70 hours, premium materials, materials, and a HyperClear Super Wideband mic, making it a solid option for teamwork and esports games. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/amazon-spring-sale-razer-deals/1100-6538993/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/original/1601/16018044/4671369-razer-iskur.jpg",
+    "thumbnail": "",
     "pubDate": "2026-03-25T20:45:00+00:00"
   },
   {
     "title": "Save On Xbox Controller Deals During Amazon's Spring Sale",
     "description": "The current Xbox wireless controller is one of the best gaming peripherals, and with the Amazon Spring Sale, you can save on this device. Normally $65 for the Carbon Black version, it's now $45, and several other colorways are also discounted by about 25%. If you want one, we've rounded up the best deals below for you to browse. The specials below include several eye-catching colorways, like Carbon Black, crisp Robot White, and energetic Electric Volt. Amazon is also offering more elaborate designs like the Heartbreaker and Icebreaker variants at a discount. These Xbox controller deals will be available during Amazon's Spring Sale, which runs March 25 through March 31, though they may sell out before the event ends--so be sure to check out the discounts while you can. Amazon Spring Sale - Xbox Wireles Controller Deals Carbon Black -- $49 ($65) Carbon Black + USB-C cable -- $45 ($65) Deep Pink -- $51.44 ($70) Electric Volt -- $55 ($70) Heartbreaker -- $59.22 ($80) Ice Breaker -- $65 ($80) Pulse Red -- $55 ($70) Robot White -- $44.65 ($65) Shock Blue -- $52.30 ($70) While it lacks some of the haptic feedback features of Sony's DualSense controller, the Xbox wireless controller excels in other areas. It is one of the most ergonomic controllers, with a shape that is comfortable to hold during long gaming sessions. Its face buttons are tactile, the capture button is well-positioned, and it can be powered in several ways. The rechargeable battery pack is sold separately, but you can use AA batteries or connect it to your Xbox console with a USB-C cable if needed. Other selling points for the Xbox controller include a hybrid D-pad and textured grip on the triggers, bumpers, and back-case, making them comfortable to hold. They can be easily connected to Xbox consoles, PCs, and smartphones. If you want a premium option, you can pick up the Xbox Elite Series 2 Core Wireless Controller for $160 (was $200). This high-end model works on many platforms and is designed for users to customize it to their gaming style with interchangeable thumbstick and paddle shapes. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/amazon-spring-sale-xbox-controller-deals/1100-6538995/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/original/1601/16018044/4671374-xbox-controllers.jpg",
+    "thumbnail": "",
     "pubDate": "2026-03-25T20:31:00+00:00"
   },
   {
     "title": "Save $20 When You Spend $100 On Lego Sets At Amazon",
     "description": "Save $20 when you spend $100 on Lego Sets See at Amazon Amazon is offering some free cash, as the site's new Lego promotion gives you $20 in credit for every $100 purchase. The credit will be added to your account 30 days after your item ships, and the promotion applies only once per customer, per account. You won't have access to it in time for this week's Amazon Spring Sale, and you have until July 28 to spend it. Most sets aren't on sale or are only slightly discounted, but there are some specials worth noting. See on Amazon With the fine print out of the way, it's time to take a closer look at what's eligible for the promotion. Several licensed Lego sets are on sale, and if you're a Fortnite fan, there are lots to choose from. Sets like the Fortnite Battle Bus ($85), Peely &amp; Sparkplug's Camp ($19), and the Supply Llama ($34) are popular options, thanks to their colorful designs and game-accurate presentation. If you have a young Fortnite fan at home, it might be worth picking up one of those kits, as Lego always makes for a great gift set. On that topic, we'd also recommend grabbing a Super Mario set or two. With the Super Mario Galaxy Movie out soon, you can bet that demand for the Nintendo plumber will spike, and Amazon has three Lego Super Mario sets on offer as part of the free credit promotion. You can head to the races with the Wario &amp; King Boo kart set ($41.49), chase after them with a combo of Baby Mario and Baby Luigi ($25.49), and the original Mario Kart set includes an interactive Mario figure ($46.74). Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/save-20-when-you-spend-100-on-lego-sets-at-amazon/1100-6538975/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4669923-lego-mario-square.jpg",
+    "thumbnail": "",
     "pubDate": "2026-03-25T20:15:00+00:00"
   },
   {
@@ -483,13 +623,6 @@
     "pubDate": "2026-03-25T20:00:22+00:00"
   },
   {
-    "title": "BitGo teams with ZKsync to build tokenized deposit infrastructure to bring banks onchain",
-    "description": "Now in testing, the platform aims to enable programmable payments and simplify blockchain adoption for financial institutions.",
-    "link": "https://www.coindesk.com/business/2026/03/25/bitgo-teams-with-zksync-to-build-tokenized-deposit-infrastructure-to-bring-banks-onchain",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/cc9f0df2f256d6ca65cc434680be96c3248989f5-1536x1098.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-25T20:00:00+00:00"
-  },
-  {
     "title": "Get $100 Worth Of Robux For $80 Right Now",
     "description": "Roblox is one of the most popular games on the planet, and if you're looking to stock up on the game's in-game currency, Robux, Amazon's Big Spring Sale has a nice offer to consider. As part of the sale, Amazon is offering $100 worth of Robux for only $80, representing a savings of 20%. Get on Amazon This is a digital code, so after you complete your purchase, details on how to redeem will be sent to your email. These details will also be available in your games and software library on Amazon. Robux can be spent on all kinds of content in Roblox, including new customization items for your avatar and for buying different content in any of the games available on the platform. Also of note is that the gift card comes with a free virtual item upon redemption. The Robux from this offer cannot be used to purchase a Roblox premium subscription, however. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/get-100-worth-of-robux-for-80-right-now/1100-6539019/?ftag=CAD-01-10abi2f",
@@ -504,13 +637,6 @@
     "pubDate": "2026-03-25T19:39:18+00:00"
   },
   {
-    "title": "How the Iran war could crush the U.S. housing recovery, and it's not just about mortgage rates",
-    "description": "A combination of higher mortgage rates and economic uncertainty are reversing what was expected to be a recovery year in the housing market.",
-    "link": "https://www.cnbc.com/2026/03/25/heres-how-the-iran-war-is-already-hitting-the-us-housing-market.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108282110-1774355652015-gettyimages-2267677905-MORTGAGE_APPLICATION_FIGURES.jpeg?v=1774355770&w=1920&h=1080",
-    "pubDate": "2026-03-25T19:34:25+00:00"
-  },
-  {
     "title": "The Lord Of The Rings Illustrated Edition, Featuring Drawings By Tolkien Himself, Is 40% Off Right Now",
     "description": "Amazon's Big Spring Sale is going on now, and if you're a fan of The Lord of the Rings and have your eye on the illustrated edition of the iconic fantasy series, you're in luck. Get on Amazon Amazon is currently selling the 1,238-page The Lord of the Rings Illustrated for $54.45, which is 40% off its normal $90 price point. This is a one-volume, jacketed hardcover version of the series featuring 30 color illustrations, maps, and sketches drawn by J.R.R. Tolkien himself. Some of the drawings include depictions of the most epic moments from the series, including the Bridge of Khazad-dum, where Gandalf and the Balrog had a fiery fight. The book also comes with fold-out maps drawn by Tolkien's son, Christopher, containing more details of Middle-earth. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/the-lord-of-the-rings-illustrated-edition-featuring-drawings-by-tolkien-himself-is-40-off-right-now/1100-6539018/?ftag=CAD-01-10abi2f",
@@ -518,67 +644,11 @@
     "pubDate": "2026-03-25T19:33:00+00:00"
   },
   {
-    "title": "Harry Potter HBO reboot trailer rewinds the clock on Hogwarts",
-    "description": "The first footage of Harry Potter, Hermione, Ron, Dumbledore, Snape, and many others shows up in this sweeping teaser for the show, premiering Dec. 25",
-    "link": "https://www.polygon.com/harry-potter-trailer-hbo-tv-show-first-look/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/dominic-mclaughlin_0.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-25T19:26:11+00:00"
-  },
-  {
-    "title": "Mario Kart World and more Nintendo Switch games are on sale at Woot",
-    "description": "Mario Kart World, Breath of the Wild, Super Mario Bros. Wonder, and more are all currently cheap (for Nintendo games) at Amazon-owned Woot.",
-    "link": "https://www.polygon.com/woot-sale-nintendo-switch-games-mario-kart-world/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/mario-kart-world-switch-2-launch-game.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-25T19:21:45+00:00"
-  },
-  {
     "title": "Lego Pixar Lamp Is Discounted To Its Lowest Price Ever",
     "description": "Amazon's Big Spring Sale is underway, and there are lots of great deals available. If you're a fan of Pixar and Lego, you're in luck, as the Disney Pixar Luxo Jr. set is discounted to its lowest price ever. Get on Amazon The set is currently on sale for $55.95, which is down 20% from its normal $70 price point. The set, which released in 2025, is based on the iconic Pixar lamp that debuted in the 1986 short. The package includes 613 pieces, and when it's put together, it stands over 11 inches high (or 29 cm). The Luxo Jr. set came from the Lego Ideas initiative, which sees fans come up with ideas, with the best ones eventually getting put into actual production. Like the lamp from the movie, the Lego set is poseable, so users can recreate the way in which it famously bounces, hops, and rotates. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/lego-pixar-lamp-is-discounted-to-its-lowest-price-ever/1100-6539016/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-03-25T18:59:00+00:00"
-  },
-  {
-    "title": "Someone Got The Legend Of Zelda: Wind Waker's World Working In A Browser",
-    "description": "While Nintendo continues to make us wait for a modern version of The Legend of Zelda: Wind Waker to play, has managed to get its colorful seas working on an unexpected platform: a browser. This condensed version of Wind Waker's world was constructed as a personal project by Robin Payot, who used a combination of WebGL and Three.js, a 3D library for JavaScript developers that can be used to create some impressive, browser-based experiences. It's supported on all browsers, although Payot does mention that using Safari will force users onto an older, less optimized version. My old #Threejs #Zelda project now runs on #WebGPU thanks to #TSL !⛵️🙌Give it a try! 👉 https://t.co/j11AEFSUI3 (Safari will fallback to the old project) pic.twitter.com/mamZJWgEdQ — Robin Payot (@RobinPayot) March 22, 2026 While not technically a full game, there are two different ways to play. Free exploration features many of the game's recognizable islands, with a handful of fishing spots that might contain a piece of the Triforce. Alternatively, there's a slightly more competitive mode that challenges users to hunt for as many rupees as possible in a limited time. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/someone-got-the-legend-of-zelda-wind-wakers-world-working-in-a-browser/1100-6539017/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-03-25T18:49:00+00:00"
-  },
-  {
-    "title": "Best gaming deals in Amazon's Big Spring Sale",
-    "description": "Amazon's Spring Sale includes discounts on games like Elden Ring, Call of Duty, and Resident Evil, along with accessories you won't want to miss.",
-    "link": "https://www.polygon.com/best-gaming-deals-amazon-big-spring-sale/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16329269/elden_ring.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-03-25T18:40:51+00:00"
-  },
-  {
-    "title": "The best board games to buy in Amazon's Spring Sale",
-    "description": "Amazon's Spring Sale includes discounts on iconic board games like Catan, Clue, and more.",
-    "link": "https://www.polygon.com/amazon-spring-sale-board-games-2026/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/thomas-buchholz-0n7_eiaqzwa-unsplash.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-25T18:38:55+00:00"
-  },
-  {
-    "title": "Crypto Long &amp; Short: Prediction Markets Don’t Just Forecast Power - They Reshape It",
-    "description": "In this week’s Crypto Long &amp; Short Newsletter, Ryan Kirkley writes on how crypto prediction markets can risk incentivizing manipulation and amplify misinformation at scale.",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-long-and-short-prediction-markets-don-t-just-forecast-power-they-reshape-it",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c934d6c2d29fe578ea58a3b7b37cac4c540b80be-7008x4672.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-03-25T18:36:03+00:00"
-  },
-  {
-    "title": "Nintendo plans to price digital and physical Switch 2 games differently",
-    "description": "Yoshi and the Mysterious Book will be the first Nintendo game to release with different price points on physical and digital editions.",
-    "link": "https://www.polygon.com/physical-vs-digital-switch-2-games-pricing/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13064883/super_mario_run_review1.0.0.1484300512.jpeg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-25T18:26:17+00:00"
-  },
-  {
-    "title": "'Kiln repair at the Kilnden Workshop' quest walkthrough in Crimson Desert",
-    "description": "How to repair the kiln and obtain the mysterious pot in Crimson Desert",
-    "link": "https://www.polygon.com/crimson-desert-kiln-repair-at-the-kilnden-workshop-quest-walkthrough-mysterious-pot/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/crimson-desert-kiln-repair-1.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-03-25T18:24:50+00:00"
   },
   {
     "title": "This Bone Broth Soup Is a Meal, Not a Cleanse",
@@ -600,76 +670,6 @@
     "link": "https://www.bonappetit.com/story/amazon-spring-sale-kitchen-deals-3-25",
     "thumbnail": "https://assets.bonappetit.com/photos/69c2be41917c88df8e841c7e/master/pass/Prime%20spring%20deals%202026%202.jpg",
     "pubDate": "2026-03-25T08:03:00+00:00"
-  },
-  {
-    "title": "How Is Ares Management's Stock Performance Compared to Other Financial Stocks?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ares-managements-stock-performance-compared-015945009.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/oNfdPvsx1hMSuqRDt8kTeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDg-/https://media.zenfs.com/en/barchart_com_477/de3c56ef59782b3aa873c0db6aa67f6c",
-    "pubDate": "2026-03-25T01:59:45+00:00"
-  },
-  {
-    "title": "Coherent (COHR) Climbs 6.78% on S&amp;P 500 Addition",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-cohr-climbs-6-78-015812201.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/75ee4d68a05943ca558d460400ae66f9",
-    "pubDate": "2026-03-25T01:58:12+00:00"
-  },
-  {
-    "title": "Meta boosts top executives' pay with stock options as AI race heats up",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/meta-grants-senior-executives-stock-015707500.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/9148a3b7d8cc7bc0546cc03511771303",
-    "pubDate": "2026-03-25T01:57:07+00:00"
-  },
-  {
-    "title": "Braze, Inc. Q4 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/braze-inc-q4-2026-earnings-014247321.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/eae3218bb4b9bd0e025aaad3ab6ca9d7",
-    "pubDate": "2026-03-25T01:42:47+00:00"
-  },
-  {
-    "title": "Oil prices drop on prospect of Middle East ceasefire easing supply disruption",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/us-oil-prices-fall-prospect-232038924.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/a5aeec31b5f5614e024dfc96b83e6036",
-    "pubDate": "2026-03-25T01:31:57+00:00"
-  },
-  {
-    "title": "Dell Technologies Stock: Is DELL Outperforming the Technology Sector?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-stock-dell-outperforming-011457500.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xuB6ZRLsljfSiyFkuBV_9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzg-/https://media.zenfs.com/en/barchart_com_477/51ef4d346eaaed7b3656c3cf333cd3e7",
-    "pubDate": "2026-03-25T01:14:57+00:00"
-  },
-  {
-    "title": "3 Defense Stocks To Replenish America’s Depleting Arsenal",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/3-defense-stocks-replenish-america-010000101.html",
-    "thumbnail": "https://s.yimg.com/os/en/oilprice.com/bd923b7c411dac5a2b52eeeb4dd10ce5",
-    "pubDate": "2026-03-25T01:00:00+00:00"
-  },
-  {
-    "title": "VIG vs. SCHD: Dividend Growth vs. High Yield",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/vig-vs-schd-dividend-growth-002213457.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/g8AbKRt9RzD8.Vd49p78_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/indexuniverse.com/fafb8acb45d33be6f02b4bf9503f4f85",
-    "pubDate": "2026-03-25T00:22:13+00:00"
-  },
-  {
-    "title": "American Rare Earths taps ex-Newmont executive as VP to drive Halleck Creek strategy",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/american-rare-earths-taps-ex-001900018.html",
-    "thumbnail": "https://s.yimg.com/os/en/proactive_us_504/efe521b02a3d3c6bafb4a71d0564a68e",
-    "pubDate": "2026-03-25T00:19:00+00:00"
-  },
-  {
-    "title": "Review &amp; Preview: Battered Confidence",
-    "description": "",
-    "link": "https://www.barrons.com/articles/stocks-today-software-private-credit-inflation-0bd420c9?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-03-24T23:55:00+00:00"
   },
   {
     "title": "Do 3 Classic NYC Brunch Spots Still Deserve Their Icon Status?",
