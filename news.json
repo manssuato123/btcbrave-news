@@ -1,17 +1,45 @@
 [
   {
+    "title": "Oil Prices Continue to Climb After Trump Delays Bombing Threat",
+    "description": "President Trump said on Thursday he would delay an imminent deadline to begin attacking Iran’s power grid.",
+    "link": "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html",
+    "thumbnail": "",
+    "pubDate": "2026-03-27T08:23:19+00:00"
+  },
+  {
+    "title": "Asia markets trade mixed as murkey U.S.-Iran peace talks prospects keep investors on edge",
+    "description": "Asia-Pacific markets traded mixed as the prospect of a peace deal in the Middle East remained murky amid contradictory messaging from the U.S. and Iran.",
+    "link": "https://www.cnbc.com/2026/03/27/asia-markets-live-updates-hang-seng-index-nikkei-225-kospi.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106942650-1631757620880-gettyimages-1231882518-HK_BAIDU.jpeg?v=1774565963&w=1920&h=1080",
+    "pubDate": "2026-03-27T08:11:11+00:00"
+  },
+  {
+    "title": "'Not unlike tariffs': Iran war threatens to deepen Asia private equity's worst fundraising slump in a decade",
+    "description": "The Middle East war has introduced a new layer of uncertainty for Asia-focused private equity managers already navigating a multiyear fundraising slump.",
+    "link": "https://www.cnbc.com/2026/03/27/asia-private-equity-fundraising-tested-middle-east-in-doldrum-deals.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/101681299-185476052.jpg?v=1774397615&w=1920&h=1080",
+    "pubDate": "2026-03-27T07:55:52+00:00"
+  },
+  {
+    "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
+    "description": "The UK's competition watchdog says it is looking at five firms in its investigation into misleading online reviews.",
+    "link": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba09/live/c3c226e0-29b0-11f1-b297-95b0a0a8331e.jpg",
+    "pubDate": "2026-03-27T07:50:30+00:00"
+  },
+  {
+    "title": "Two hereditary peers allowed to keep ceremonial roles",
+    "description": "The Duke of Norfolk and Lord Carrington won the concession due to their role in organising state occasions.",
+    "link": "https://www.bbc.com/news/articles/clyr554vz6no?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d84f/live/4da9fd20-2929-11f1-b8cc-61947f5bf4d0.jpg",
+    "pubDate": "2026-03-27T07:44:20+00:00"
+  },
+  {
     "title": "Investors yank $171 million from bitcoin ETFs in largest single-day outflow in three weeks",
     "description": "ETFs show institutional demand for bitcoin is cooling after a strong start to the month.",
     "link": "https://www.coindesk.com/markets/2026/03/27/investors-yank-usd171-million-from-bitcoin-etfs-in-largest-single-day-outflow-in-three-weeks",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b0dce666c7f0cdbec909106973ab71d0b0cb6444-1280x720.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-27T07:35:53+00:00"
-  },
-  {
-    "title": "Stocks Stabilize but Oil Prices Stay High After Trump Delays Bombing Threat",
-    "description": "President Trump said on Thursday he would delay an imminent deadline to begin attacking Iran’s power grid.",
-    "link": "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html",
-    "thumbnail": "",
-    "pubDate": "2026-03-27T07:18:38+00:00"
   },
   {
     "title": "Trump’s Signature Is Set to Be Added to America’s Currency",
@@ -28,8 +56,8 @@
     "pubDate": "2026-03-27T07:14:57+00:00"
   },
   {
-    "title": "Under-5s should not be on screens more than an hour a day, parents told in new advice",
-    "description": "New guidance suggests avoiding fast-paced children's content and sharing screen time where possible for under-twos.",
+    "title": "Parents told under-5s should not be on screens more than an hour a day",
+    "description": "New government guidance also suggests children under-two should not be watching screens alone.",
     "link": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg",
     "pubDate": "2026-03-27T06:49:53+00:00"
@@ -77,13 +105,6 @@
     "pubDate": "2026-03-27T06:08:35+00:00"
   },
   {
-    "title": "'Not unlike tariffs': Iran war threatens to deepen Asia private equity's worst fundraising slump in a decade",
-    "description": "The Middle East war has introduced a new layer of uncertainty for Asia-focused private equity managers already navigating a multiyear fundraising slump.",
-    "link": "https://www.cnbc.com/2026/03/27/asia-private-equity-fundraising-tested-middle-east-in-doldrum-deals.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/101681299-185476052.jpg?v=1774397615&w=1920&h=1080",
-    "pubDate": "2026-03-27T06:00:00+00:00"
-  },
-  {
     "title": "How Russia's threat forced Germany to radically rethink its military",
     "description": "Germany once terrorised Europe, but now Europe is welcoming a resurgent German military.",
     "link": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss",
@@ -96,6 +117,13 @@
     "link": "https://cointelegraph.com/news/uk-sanctions-xinbi-crypto-scam-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d2d20-18cb-7f9d-b6be-00f42e2fb8c6.jpg",
     "pubDate": "2026-03-27T05:52:46+00:00"
+  },
+  {
+    "title": "Temperatures to reach 17C as warm spring sunshine returns",
+    "description": "Warm air from the Azores is set to move into the UK next week. Temperatures could reach 17C on Tuesday. But not before more unsettled weather first as Simon King explains.",
+    "link": "https://www.bbc.com/weather/articles/c33l4d65j72o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8e/live/2d32d810-292d-11f1-ab7f-bb4488da4213.jpg",
+    "pubDate": "2026-03-27T05:51:52+00:00"
   },
   {
     "title": "‘Truly junk’: E-waste from rich nations floods local markets in Nigeria",
@@ -252,13 +280,6 @@
     "pubDate": "2026-03-27T01:55:15+00:00"
   },
   {
-    "title": "Asia markets fall with South Korea's Kospi leading losses despite extended peace talks",
-    "description": "Asia-Pacific markets fell Friday as the prospect of a peace deal in the Middle East remained murky amid contradictory messaging from the U.S. and Iran.",
-    "link": "https://www.cnbc.com/2026/03/27/asia-markets-live-updates-hang-seng-index-nikkei-225-kospi.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106942650-1631757620880-gettyimages-1231882518-HK_BAIDU.jpeg?v=1774565963&w=1920&h=1080",
-    "pubDate": "2026-03-27T01:45:59+00:00"
-  },
-  {
     "title": "Ether needs these 3 indicators to flip to trigger rally above $2.4K",
     "description": "Spot ETF outlflows, falling DEX volumes and a declining ETH futures premium may be preventing Ether from rallying, but flipping them could catalyze a rally to $2,400.",
     "link": "https://cointelegraph.com/news/ether-needs-these-3-indicators-to-flip-to-trigger-rally-above-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -304,7 +325,7 @@
     "title": "Three charts that are warning signs flashing for Trump on Iran war",
     "description": "As gas prices rise, Trump's approval rating is heading into politically dangerous territory.",
     "link": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/f5566340-29a8-11f1-a79a-77e93010d956.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa0/live/31ac1c00-29ad-11f1-a79a-77e93010d956.jpg",
     "pubDate": "2026-03-27T00:13:09+00:00"
   },
   {
@@ -320,20 +341,6 @@
     "link": "https://www.coindesk.com/policy/2026/03/26/white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee-role",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/da94844eda3561ae4e7702a12e1797926d1c6589-4920x2768.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-03-27T00:11:26+00:00"
-  },
-  {
-    "title": "Bright future for Wales despite end of World Cup dream, says coach Bellamy",
-    "description": "Head coach Craig Bellamy rues the chaos of Wales' World Cup play-off semi-final loss to Bosnia-Herzegovina - but says his team have a bright future.",
-    "link": "https://www.bbc.com/sport/football/articles/cx235x4xynjo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7453/live/c50fb120-2992-11f1-a79a-77e93010d956.jpg",
-    "pubDate": "2026-03-27T00:08:55+00:00"
-  },
-  {
-    "title": "Trump's signature to appear on US dollars in first for sitting president",
-    "description": "The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.",
-    "link": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aded/live/35f0f270-297d-11f1-a79a-77e93010d956.jpg",
-    "pubDate": "2026-03-26T23:36:14+00:00"
   },
   {
     "title": "D.H.S. Funding Lapse Leads to Longest Partial Shutdown in History",
@@ -462,13 +469,6 @@
     "pubDate": "2026-03-26T20:37:42+00:00"
   },
   {
-    "title": "Spanish woman dies by euthanasia after long legal battle with father",
-    "description": "The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week.",
-    "link": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbc/live/d567f270-2939-11f1-b297-95b0a0a8331e.jpg",
-    "pubDate": "2026-03-26T20:33:07+00:00"
-  },
-  {
     "title": "GameStop turned its $368 million bitcoin stash into an options income play",
     "description": "The video retailer sparked speculations of selling bitcoin after it transferred nearly all its coins to Coinbase Prime in January.",
     "link": "https://www.coindesk.com/business/2026/03/26/gamestop-turned-its-usd368-million-bitcoin-stash-into-an-options-income-play",
@@ -581,6 +581,13 @@
     "pubDate": "2026-03-25T21:15:45+00:00"
   },
   {
+    "title": "ETF League Tables: $19B Inflows For SPDR ETFs",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-19b-inflows-210004134.html",
+    "thumbnail": "https://s.yimg.com/os/en/indexuniverse.com/685c6a7e1fcae476c06ee752a956ffca",
+    "pubDate": "2026-03-25T21:00:04+00:00"
+  },
+  {
     "title": "Fattoush Salad With Crispy Pita and Sumac",
     "description": "Every salad should have pita chips.",
     "link": "https://www.bonappetit.com/recipe/fattoush-salad",
@@ -588,11 +595,67 @@
     "pubDate": "2026-03-25T20:56:11+00:00"
   },
   {
-    "title": "Corning (GLW) to Showcase New AI-Driven Optical Communication Breakthroughs At the Optical Fiber Communication Conference 2026",
+    "title": "Tech, Media &amp; Telecom Roundup: Market Talk",
     "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/corning-glw-showcase-ai-driven-194044684.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/QhzcmsM7XfxeaeShM1Z2qg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1ef113cc55e3f96dad253c12e12d5557",
-    "pubDate": "2026-03-25T19:40:44+00:00"
+    "link": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-0565dbe3?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2026-03-25T20:53:00+00:00"
+  },
+  {
+    "title": "Tech Stocks Rise as Traders Keep Focus on Iran Talks",
+    "description": "",
+    "link": "https://www.wsj.com/finance/global-stocks-markets-dow-news-03-25-2026-3a36e525?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2026-03-25T20:49:00+00:00"
+  },
+  {
+    "title": "SpaceX IPO Filing This Week? Space Stocks Soar, Tesla Rises",
+    "description": "",
+    "link": "https://www.investors.com/news/spacex-ipo-elon-musk-space-company-listing/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/09/stock-SpaceX-Moon2-company.jpg",
+    "pubDate": "2026-03-25T20:46:13+00:00"
+  },
+  {
+    "title": "Paychex, Inc. Q3 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-inc-q3-2026-earnings-204056392.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/886b56cc47b8488cb821ae5eacfbd6a3",
+    "pubDate": "2026-03-25T20:40:56+00:00"
+  },
+  {
+    "title": "Epsilon Energy Ltd. Q4 2025 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/epsilon-energy-ltd-q4-2025-204032854.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/d714db85b7ab332ba51c33c5279c2925",
+    "pubDate": "2026-03-25T20:40:32+00:00"
+  },
+  {
+    "title": "Explainer-What comes next after the social media trial verdicts?",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/explainer-comes-next-social-media-203049039.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters.com/143f24bb5924c776e56c03f6cce7be37",
+    "pubDate": "2026-03-25T20:39:06+00:00"
+  },
+  {
+    "title": "Stock Market Today: Small Caps, Techs Lead Gains; This Nuclear Play Breaks Out But Micron Sinks (Live Coverage)",
+    "description": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-peace-plan-oil-prices/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/10/stock-nuclear-power-23-adobe.jpg",
+    "pubDate": "2026-03-25T20:37:10+00:00"
+  },
+  {
+    "title": "Stocks Finish Higher on US Push to End Iran War",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-us-push-203541408.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/DoIFLxXdCYFJh62ymkSCuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/barchart_com_477/cdd84af6863bf5f4c7124b79dd8fee04",
+    "pubDate": "2026-03-25T20:35:41+00:00"
+  },
+  {
+    "title": "Is The Party Over For Memory Chip Stocks? Micron, Sandisk Continue Pullback",
+    "description": "",
+    "link": "https://www.investors.com/news/technology/micron-stock-mu-sandisk-stock-sndk-memory-chip-stock-pullback/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/03/Stock-Micron-2600NVMe-company.jpg",
+    "pubDate": "2026-03-25T20:34:55+00:00"
   },
   {
     "title": "At Disneyland's Revamped Napa Rose, Every Staffer Is a Trained Somm",
@@ -600,69 +663,6 @@
     "link": "https://www.bonappetit.com/story/disneyland-revamped-napa-rose-is-a-full-on-celebration-of-california-wine",
     "thumbnail": "https://assets.bonappetit.com/photos/6983c92a1da8eaaae013fcbb/master/pass/Lounge.2.JPG",
     "pubDate": "2026-03-25T19:39:18+00:00"
-  },
-  {
-    "title": "Analysts Remain Confident in Reviva Pharmaceuticals Holdings (RVPH) Amid 1-for-20 Reverse Stock Split",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-confident-reviva-pharmaceuticals-193832618.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/t1oNgH.r97zBI99BQ0XY1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3cff52bdb5bd9e91dc13d43a22831dff",
-    "pubDate": "2026-03-25T19:38:32+00:00"
-  },
-  {
-    "title": "Dollar Supported by Ongoing US-Iran War",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-ongoing-us-iran-193754973.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/_y6UQGeq.QlBy7r_7D.qCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MTA-/https://media.zenfs.com/en/barchart_com_477/9e2afe196d03d0bbcb07e335b49a5038",
-    "pubDate": "2026-03-25T19:37:54+00:00"
-  },
-  {
-    "title": "Strong Analyst Sentiment on TScan Therapeutics (TCRX) Amid Ongoing Momentum in Cell Therapy Space",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/strong-analyst-sentiment-tscan-therapeutics-193536028.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Z9kg10IqlRqAqy0Oy5twZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/89c0b31c8a49a4b2c6733fddd0910df8",
-    "pubDate": "2026-03-25T19:35:36+00:00"
-  },
-  {
-    "title": "Analysts Remain Optimistic in Sagimet Biosciences (SGMT)’s Outlook Following Q4 and Full-Year 2025 Results",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-optimistic-sagimet-biosciences-193432652.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/uLqPY4v5DvyRmBLfXinRDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ae3aff8170c32ab72e21b7d307dd751f",
-    "pubDate": "2026-03-25T19:34:32+00:00"
-  },
-  {
-    "title": "H.C. Wainwright Bullish on Altimmune (ALT) Amid Growing Focus on Treatments for Metabolic and Liver Diseases",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/h-c-wainwright-bullish-altimmune-193340851.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/OMRzYaQiLWBCLqRMU7VV8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/819d79dd60fe8039d70f40a0d7bf8cca",
-    "pubDate": "2026-03-25T19:33:40+00:00"
-  },
-  {
-    "title": "Go Big or Go Small? IWM Targets Small-Cap Stocks; MGK Owns Big Tech Stocks",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/big-small-iwm-targets-small-193311810.html",
-    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/be845db06a9c3aa1194ab8bb79fdc21a",
-    "pubDate": "2026-03-25T19:33:11+00:00"
-  },
-  {
-    "title": "Analysts Sentiment on Biomea Fusion (BMEA) Remains Strong Amid Strong Diabetes Trial Results",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-sentiment-biomea-fusion-bmea-193245437.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/AbZ7OO1iqiBVSZxHLJjdtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ed5315c73f7eca11f3f6cbed074fad49",
-    "pubDate": "2026-03-25T19:32:45+00:00"
-  },
-  {
-    "title": "Energy Stocks Surge on Oil Spike: Buy, Hold, or Take Profits?",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/energy-stocks-surge-oil-spike-193200151.html",
-    "thumbnail": "https://s.yimg.com/os/en/marketbeat_955/0c61b243091199b7c7a018addd717adf",
-    "pubDate": "2026-03-25T19:32:00+00:00"
-  },
-  {
-    "title": "Wedbush Bullish on Black Diamond Therapeutics (BDTX) Following Progress in Silevertinib Program",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/wedbush-bullish-black-diamond-therapeutics-193158973.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/HfUHwQz9rzOFIOs_oWyiFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/dade96e8f5649abc7a8259999186f80c",
-    "pubDate": "2026-03-25T19:31:58+00:00"
   },
   {
     "title": "10-Minute Bone Broth Soup",
