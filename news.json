@@ -1,5 +1,82 @@
 [
   {
+    "title": "Four people die in Channel crossing attempt, French authorities say",
+    "description": "Rescue efforts remain under way after the incident off the coast of northern France, local media is reporting.",
+    "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1766/live/35e95340-33ef-11f1-b79d-1961e02f6301.jpg",
+    "pubDate": "2026-04-09T08:35:43+00:00"
+  },
+  {
+    "title": "Farmers warn of higher food costs due to Iran war",
+    "description": "Despite a ceasefire, the Iran war will continue to affect farmers' costs and therefore food prices.",
+    "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ff/live/3e1e7ec0-32a3-11f1-bcd7-95478cdf5125.jpg",
+    "pubDate": "2026-04-09T08:34:04+00:00"
+  },
+  {
+    "title": "Iran's crypto tanker tolls are the latest step in its sanctions‑busting trade network",
+    "description": "The Iranian regime has been increasingly using cryptocurrency over the last few years to facilitate cross border oil trading, according to data from Chainalysis.",
+    "link": "https://www.coindesk.com/policy/2026/04/09/crypto-payments-to-pass-strait-of-hormuz-is-the-next-logical-step-for-iran-s-sanctions-skirting-trade-network",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-09T08:32:18+00:00"
+  },
+  {
+    "title": "Everyone’s awaiting U.S. inflation figures, but bitcoin traders couldn’t care less",
+    "description": "There’s a wide gap between how experts are viewing Friday’s inflation data and how the bitcoin market is pricing in the impending figures.",
+    "link": "https://www.coindesk.com/markets/2026/04/09/everyone-s-awaiting-u-s-inflation-figures-but-bitcoin-traders-couldn-t-care-less",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-09T08:22:28+00:00"
+  },
+  {
+    "title": "Cooper urges full and toll-free reopening of Strait of Hormuz",
+    "description": "The foreign secretary also calls for Lebanon to be \"urgently included\" in the ceasefire agreement.",
+    "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/767e/live/24e07a50-33be-11f1-afeb-23062a45ec9b.jpg",
+    "pubDate": "2026-04-09T08:14:15+00:00"
+  },
+  {
+    "title": "Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban",
+    "description": "Around 3,000 worshippers held morning prayers at Al-Aqsa after Israel lifted restrictions.",
+    "link": "https://www.aljazeera.com/news/2026/4/9/thousands-of-palestinians-pray-at-al-aqsa-mosque-after-israels-40-day-ban?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69d748fa-1775716602.jpg?resize=1200%2C675",
+    "pubDate": "2026-04-09T08:09:17+00:00"
+  },
+  {
+    "title": "Iran has been bloodied, but it is winning against the US-Israel axis",
+    "description": "The US and Israel thought they could decimate Iran. But Iran's survival - despite massive human costs - is a victory.",
+    "link": "https://www.aljazeera.com/opinions/2026/4/9/iran-has-been-bloodied-but-it-is-winning-against-the-us-israel-axis?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-08T124236Z_1098689038_RC2XKKA4Z4F2_RTRMADP_3_IRAN-CRISIS-CEASEFIRE-1775654499.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-09T08:05:20+00:00"
+  },
+  {
+    "title": "Eritrea’s AFCON place in doubt after players disappear in South Africa",
+    "description": "Seven of the 10 players that travelled from Eritrea didn't return home after their 4-1 win over Eswatini on March 31.",
+    "link": "https://www.aljazeera.com/sports/2026/4/9/eritreas-afcon-place-in-doubt-after-players-disappear-in-south-africa?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2025-11-09T001639Z_725364771_MT1USATODAY27539155_RTRMADP_3_MLS-MLS-CUP-PLAYOFFS-ROUND-ONE-COLUMBUS-CREW-AT-FC-CINCINNATI-1775717857.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-09T08:00:39+00:00"
+  },
+  {
+    "title": "Bithumb launches legal action to recover 7 Bitcoin from payout error",
+    "description": "South Korean crypto exchange Bithumb files for a court-approved asset freeze to reclaim 7 BTC remaining from a February payout error.",
+    "link": "https://cointelegraph.com/news/bithumb-legal-action-recover-7-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QyYzAtN2MxNC03OTVkLTkwNDgtODhhMjBjOWZmY2U5LmpwZw==.jpg",
+    "pubDate": "2026-04-09T07:55:04+00:00"
+  },
+  {
+    "title": "Oil prices resume gains after Iran accuses U.S. of breaching ceasefire deal",
+    "description": "Oil markets rose after Iran accused the United States of violating elements of a two-week ceasefire agreement.",
+    "link": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108284017-1774615135525-gettyimages-2268007114-AFP_A4VU6NZ.jpeg?v=1774615226&w=1920&h=1080",
+    "pubDate": "2026-04-09T07:49:21+00:00"
+  },
+  {
+    "title": "BBC at the site of Israeli air strikes in Beirut",
+    "description": "At least 182 people were killed and 890 others wounded, according to the Lebanese health ministry.",
+    "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894d/live/6f6e84b0-33e4-11f1-bcd5-f5e97411e751.jpg",
+    "pubDate": "2026-04-09T07:45:26+00:00"
+  },
+  {
     "title": "Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire",
     "description": "Crude prices have reversed from sharp falls on Wednesday when plans to pause the war first emerged.",
     "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
@@ -7,11 +84,11 @@
     "pubDate": "2026-04-09T07:40:20+00:00"
   },
   {
-    "title": "Cooper urges full and toll-free reopening of Strait of Hormuz",
-    "description": "The foreign secretary also calls for Lebanon to be \"urgently included\" in the ceasefire agreement.",
-    "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/767e/live/24e07a50-33be-11f1-afeb-23062a45ec9b.jpg",
-    "pubDate": "2026-04-09T07:38:18+00:00"
+    "title": "Trump says US forces to stay near Iran, ready for ‘next conquest’",
+    "description": "US threats against Iran and ongoing Israeli attacks in Lebanon cast doubt on fragile ceasefire efforts.",
+    "link": "https://www.aljazeera.com/news/2026/4/9/trump-says-us-forces-to-stay-near-iran-ready-for-next-conquest?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69d74e35256e-1775717941.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-09T07:38:16+00:00"
   },
   {
     "title": "Europe stocks rebound stalls as U.S-Iran ceasefire comes under strain",
@@ -26,6 +103,13 @@
     "link": "https://www.cnbc.com/2026/04/09/uk-cooper-iran-war-strait-of-hormuz-tolls-lebanon-israel-ceasefire.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108289061-1775716659456-gettyimages-2268865603-UK_HORMUZ.jpeg?v=1775716690&w=1920&h=1080",
     "pubDate": "2026-04-09T07:27:42+00:00"
+  },
+  {
+    "title": "The Masters: Golf’s segregated past",
+    "description": "The Masters has a complicated segregated past, which include the PGA’s “Caucasian-only clause”",
+    "link": "https://www.aljazeera.com/video/game-theory/2026/4/9/the-masters-golfs-segregated-past?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026_Game-Theory_EP14_Thumbnail_Horizontal_V01_00-1-1775718329.png?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-04-09T07:09:57+00:00"
   },
   {
     "title": "Three life terms for Kashmir’s Aasiya Andrabi fit India’s ‘broader pattern’",
@@ -77,7 +161,7 @@
     "pubDate": "2026-04-09T06:13:49+00:00"
   },
   {
-    "title": "Anthropic loses first round in fight over Pentagon's 'supply chain risk' label",
+    "title": "Anthropic loses early appeal over Pentagon ‘supply chain risk’ label",
     "description": "“In our view, the equitable balance here cuts in favor of the government,” said a panel of judges from the District of Columbia Court of Appeals.",
     "link": "https://cointelegraph.com/news/anthropic-loses-bid-pause-pentagon-supply-chain-risk-designation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDcwYjctZDVhMC03MWM4LTg0M2ItZmJjYTE1MDQxMDk5LmpwZw==.jpg",
@@ -133,8 +217,8 @@
     "pubDate": "2026-04-09T04:58:43+00:00"
   },
   {
-    "title": "Chainalysis claims stablecoin volumes could hit over a quadrillion by 2035",
-    "description": "Adjusted stablecoin volume could reach $719 trillion by 2035, but the projection could be far higher if two macro catalysts come to pass, said Chainalysis.",
+    "title": "Chainalysis claims stablecoin volumes could reach $1.5 quadrillion by 2035",
+    "description": "Two macro catalysts — wealth transfer and payment disruption — could push stablecoin usage far beyond baseline growth forecasts, analysts say.",
     "link": "https://cointelegraph.com/news/stablecoin-volumes-1-5-quadrillion-2035-how?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkNTUtNTM4ZC03NGY0LWE4YzAtZjk2N2Y5ZTg0ZWRl.jpg",
     "pubDate": "2026-04-09T04:57:42+00:00"
@@ -154,13 +238,6 @@
     "pubDate": "2026-04-09T04:51:46+00:00"
   },
   {
-    "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-    "description": "US president meets NATO chief, expresses disappointment over member states failing to back war on Iran.",
-    "link": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25176370148111-1767946336.jpg?resize=1920%2C1440",
-    "pubDate": "2026-04-09T04:46:54+00:00"
-  },
-  {
     "title": "Visa unveils commerce platform enabling autonomous AI shopping",
     "description": "Visa is rolling out a platform that helps merchants make their product inventories discoverable and purchasable by AI agents.",
     "link": "https://cointelegraph.com/news/visa-launches-ai-commerce-platform-to-power-autonomous-agent-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -173,13 +250,6 @@
     "link": "https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/5d3a3b0d09e93be0703e44ce46f6229d8508afc7-4958x2789.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-04-09T04:13:40+00:00"
-  },
-  {
-    "title": "Oil prices resume gains after Iran accuses U.S. of breaching ceasefire deal",
-    "description": "Oil markets rose after Iran accused the United States of violating elements of a two-week ceasefire agreement.",
-    "link": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108284017-1774615135525-gettyimages-2268007114-AFP_A4VU6NZ.jpeg?v=1774615226&w=1920&h=1080",
-    "pubDate": "2026-04-09T04:12:56+00:00"
   },
   {
     "title": "U.S. Fertility Rates Drop to Another Record Low",
@@ -196,13 +266,6 @@
     "pubDate": "2026-04-09T03:40:44+00:00"
   },
   {
-    "title": "13-year-old girl captures terrifying moment Israel bombed Beirut",
-    "description": "A 13-year-old girl on Snapchat captured the moment Israel began its assault on Beirut.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/WIDE-THUMB-Girl-captures-Beirut-strike-1775705127.png?resize=1920%2C1440",
-    "pubDate": "2026-04-09T03:27:00+00:00"
-  },
-  {
     "title": "'Poorly run, piece of ice': Trump targets Greenland again as Iran war deepens NATO rift",
     "description": "Trump has set his eyes on Greenland again while venting frustration at NATO, as the diplomatic fallout from Iran war exposed rifts in the security alliance.",
     "link": "https://www.cnbc.com/2026/04/09/trump-greenland-nato-rift-iran-war-deepens.html",
@@ -215,13 +278,6 @@
     "link": "https://cointelegraph.com/news/north-korea-it-worker-hacked-exposing-fraud-scam-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U0YjktZDY4Yy03NDNjLWEyOTMtZTgwYjBlMTlmNjc4LmpwZw==.jpg",
     "pubDate": "2026-04-09T02:52:01+00:00"
-  },
-  {
-    "title": "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
-    "description": "Hundreds of vehicles have driven through Istanbul to condemn the ‘lawless aggression’ of the US and Israel.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/WIDE-THUMB-Istanbul-convoy-1775701526.png?resize=1920%2C1440",
-    "pubDate": "2026-04-09T02:26:35+00:00"
   },
   {
     "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
@@ -252,20 +308,6 @@
     "pubDate": "2026-04-09T01:26:46+00:00"
   },
   {
-    "title": "Protesters outside Israeli embassy in London condemn assault on Lebanon",
-    "description": "Protesters have blocked roads outside the Israeli embassy in London, condemning Israel’s violent strikes on Lebanon.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/WIDE-THUMB-LONDON-PROTESTS-1775697745.png?resize=1920%2C1440",
-    "pubDate": "2026-04-09T01:23:41+00:00"
-  },
-  {
-    "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
-    "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
-    "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bf/live/93db7c00-3393-11f1-9d5c-8ba507d7dbde.jpg",
-    "pubDate": "2026-04-09T01:01:26+00:00"
-  },
-  {
     "title": "Gilgo Beach Killer’s ‘Unusual’ Deal Could Help Solve Other Murders",
     "description": "Rex Heuermann agreed to talk to behavioral analysts at the F.B.I. when he pleaded guilty. The unit has interviewed Ted Bundy, John Wayne Gacy and Richard Speck.",
     "link": "https://www.nytimes.com/2026/04/08/nyregion/fbi-behavioral-analysis-unit-gilgo-beach.html",
@@ -280,13 +322,6 @@
     "pubDate": "2026-04-09T00:52:00+00:00"
   },
   {
-    "title": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
-    "description": "US Vice President JD Vance says Lebanon is not part of the US-Iran ceasefire.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/WIDE-THUMB-JD-VANCE-ON-LEB-1775694919.png?resize=1920%2C1440",
-    "pubDate": "2026-04-09T00:36:44+00:00"
-  },
-  {
     "title": "Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label",
     "description": "The ruling was a setback for the artificial intelligence start-up in its battle with the Defense Department over the use of A.I. in warfare.",
     "link": "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html",
@@ -294,8 +329,8 @@
     "pubDate": "2026-04-09T00:19:59+00:00"
   },
   {
-    "title": "Bitcoin tops $72K as $280M in shorts liquidated — will ‘fragile truce’ hold?",
-    "description": "Bitcoin and global markets rallied after the US and Iran announced a ceasefire, but data show BTC bears have not closed most of their positions yet.",
+    "title": "Bitcoin tops $72K as $280M in shorts liquidated: Will ‘fragile truce’ hold?",
+    "description": "Bitcoin and global markets rallied after the US and Iran announced a ceasefire, but data shows BTC bears have not closed most of their positions yet.",
     "link": "https://cointelegraph.com/news/bitcoin-tops-dollar72k-after-dollar280m-liquidation-targets-bears-will-the-fragile-truce-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQzMjMtYTdiOC03MGRkLTlhMGItMWZlNTY5MDBkNDNjLmpwZw==.jpg",
     "pubDate": "2026-04-09T00:16:43+00:00"
@@ -313,13 +348,6 @@
     "link": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108236160-1772735114407-108236160-1764789658120-gettyimages-2249797033-mms21052_jel7caql.jpeg?v=1774619131&w=1920&h=1080",
     "pubDate": "2026-04-08T23:52:04+00:00"
-  },
-  {
-    "title": "Farmers warn of higher food costs due to Iran war",
-    "description": "Despite a ceasefire, the Iran war will continue to affect farmers' costs and therefore food prices.",
-    "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ff/live/3e1e7ec0-32a3-11f1-bcd7-95478cdf5125.jpg",
-    "pubDate": "2026-04-08T23:03:53+00:00"
   },
   {
     "title": "How to save money on flights as airlines raise prices",
@@ -350,13 +378,6 @@
     "pubDate": "2026-04-08T21:51:53+00:00"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
-    "pubDate": "2026-04-08T21:34:46+00:00"
-  },
-  {
     "title": "White House Secures Foreign Steel for Trump’s Ballroom Project",
     "description": "ArcelorMittal, a European steel maker, is donating tens of millions of dollars of foreign steel for President Trump’s new ballroom.",
     "link": "https://www.nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html",
@@ -376,13 +397,6 @@
     "link": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/dd24f05fa5e29468fe78f3cf263febf5c8abecb0-4267x2844.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-04-08T20:51:31+00:00"
-  },
-  {
-    "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
-    "description": "A US 15-point plan and an Iranian 10-point variant are oceans apart, writes the BBC's diplomatic correspondent.",
-    "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c5/live/64445c10-3383-11f1-9d5c-8ba507d7dbde.jpg",
-    "pubDate": "2026-04-08T20:26:48+00:00"
   },
   {
     "title": "Trump Administration Investigating L.A. Schools’ Gender Disclosure Policies",
@@ -546,13 +560,6 @@
     "pubDate": "2026-04-08T17:05:54+00:00"
   },
   {
-    "title": "South Korea proposes cryptocurrency law with bank-style rules for stablecoins",
-    "description": "Draft bill outlines comprehensive framework for digital assets, including licensing, issuance and oversight",
-    "link": "https://www.coindesk.com/policy/2026/04/08/south-korea-proposes-cryptocurrency-law-with-bank-style-rules-for-stablecoins",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/beb5b8092c9602c087592ddfb6242e69c9664b83-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-08T16:28:54+00:00"
-  },
-  {
     "title": "Major alcohol distributor shuts down operations, lays off over 500 workers",
     "description": "",
     "link": "https://finance.yahoo.com/economy/policy/articles/major-alcohol-distributor-shuts-down-161700316.html",
@@ -565,13 +572,6 @@
     "link": "https://www.gamespot.com/articles/pokemon-champions-players-say-content-from-trailers-isnt-in-game/1100-6539281/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-04-08T16:11:00+00:00"
-  },
-  {
-    "title": "The Protocol: Bernstein says quantum threat to Bitcoin is real but manageable",
-    "description": "Also: North Korea’s 6-month plot with Drift, Solana Foundation’s new ad and Alchemy AI.",
-    "link": "https://www.coindesk.com/tech/2026/04/08/the-protocol-bernstein-says-quantum-threat-to-bitcoin-is-real-but-manageable",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/8c45d91cbb543f005c5b9b601c1e7625a94b2d88-1080x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-08T16:10:01+00:00"
   },
   {
     "title": "The Eight Best Gorditas in Mexico City",
@@ -623,53 +623,67 @@
     "pubDate": "2026-04-08T04:00:00+00:00"
   },
   {
-    "title": "BofA Lowers McKesson (MCK) Price Target, Flags GLP-1 Pricing Pressure",
+    "title": "Coinbase Jumps On Schwab News But Gains Fade; Is Coinbase Stock A Buy Now?",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-lowers-mckesson-mck-price-194517071.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/IlhvfHCXAZaUutXsa0Ugdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/07a69a45dfb32a787ef2e58f45539bbb",
-    "pubDate": "2026-04-07T19:45:17+00:00"
+    "link": "https://www.investors.com/research/coinbase-coin-stock-april-2026-2/?src=A00220&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2026-04-07T21:04:27+00:00"
   },
   {
-    "title": "Citi Cuts SHW Target to $385, Flags Oil-Driven Raw Material Pressure",
+    "title": "How Instacart Stock Could Be an Unlikely Winner From the Latest LLM Updates",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/citi-cuts-shw-target-385-194459146.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/UpgfssScXSXfqj4oRpG0bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/eb8a6b2fe88a211307778c73666d2eaa",
-    "pubDate": "2026-04-07T19:44:59+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/instacart-stock-could-unlikely-winner-210024887.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/803yI9Bgy_4thLWOCEZdqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/dab763ed4e03384ec407c6c01b4184a8",
+    "pubDate": "2026-04-07T21:00:24+00:00"
   },
   {
-    "title": "Traders Are Running to These Sector ETFs as the Strait of Hormuz Remains Closed, but High Risks Remain",
+    "title": "Daily ETF Flows: GLD Scoops Up $511M",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/traders-running-sector-etfs-strait-193918386.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/FqIZKhQIDzsVjVaxGxo8RQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDI-/https://media.zenfs.com/en/barchart_com_477/3c8f3040ea852dc9a83e222da5833122",
-    "pubDate": "2026-04-07T19:39:18+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/daily-etf-flows-gld-scoops-210004136.html",
+    "thumbnail": "https://s.yimg.com/os/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
+    "pubDate": "2026-04-07T21:00:04+00:00"
   },
   {
-    "title": "Evercore ISI and BTIG Lower Abbott (ABT) Price Targets, Maintain Positive Ratings",
+    "title": "Aehr Test Systems Posts Mixed Quarterly Report, Raises Bookings Outlook",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-btig-lower-abbott-193813547.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7vGULFhzAiOKG0UyIeg5.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/8b4f8f18dabae8e04006be71641b541a",
-    "pubDate": "2026-04-07T19:38:13+00:00"
+    "link": "https://www.investors.com/news/technology/aehr-stock-aehr-test-systems-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/04/Stock-AehrTestSystems-FoxXP-company.jpg",
+    "pubDate": "2026-04-07T20:59:56+00:00"
   },
   {
-    "title": "Anthropic pulls ahead of OpenAI as revenue race heats up",
+    "title": "Broadcom Stock Rises On Google AI Chip Deal",
     "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-pulls-ahead-openai-revenue-193700333.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/BENJVAIdJwKS18K2UXQ9hQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTY-/https://media.zenfs.com/en/proactive_us_504/871b6b3824f6807d827c493045f42b55",
-    "pubDate": "2026-04-07T19:37:00+00:00"
+    "link": "https://www.investors.com/news/technology/broadcom-stock-rises-on-google-ai-chip-deal/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/09/stock-broadcom-20-company.jpg",
+    "pubDate": "2026-04-07T20:55:47+00:00"
   },
   {
-    "title": "Oil Stocks Are Hot. Here Are 9 Worth Getting To Know.",
+    "title": "Penny Stock Xiao-I Is Surging on Apple Patent Win. Should You Buy Little-Known AIXI Now?",
     "description": "",
-    "link": "https://www.investors.com/news/oil-stocks-worth-getting-to-know-chevron-exxonmobil-slb-halliburton/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2022/11/Stock-oilstorage-01-adobe.jpg",
-    "pubDate": "2026-04-07T19:36:48+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/penny-stock-xiao-surging-apple-204741801.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/..1_BGMAAk83yR3422j2rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/125a3ae061686d8ab9297ac1378a394f",
+    "pubDate": "2026-04-07T20:47:41+00:00"
   },
   {
-    "title": "Wealth by generation: Which age group is the most financially successful?",
+    "title": "Young investors tap social media for investing advice, with mixed results",
     "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/wealth-distribution-by-generation-191456234.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/VjvjB4I30lHMAAZnmo7bAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/8fb8f1c0-212e-11f0-bd96-8232d5882bbc",
-    "pubDate": "2026-04-07T19:14:56+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/article/young-investors-tap-social-media-for-investing-advice-with-mixed-results-204433279.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/h6lZgMWixGLhpiBD0F1K2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/2c2cbef3-935c-4b0a-9285-354cc513d2a4",
+    "pubDate": "2026-04-07T20:44:33+00:00"
+  },
+  {
+    "title": "Aave Token Falls Near 2-Year Low as Risk Management Firm Becomes Latest to Depart",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/aave-token-falls-near-2-204041633.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/UW5UIUy6Jxdhj0q2Lsd0mw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/decrypt_157/0b9627975e7aab7c7521a0cfd7a67944",
+    "pubDate": "2026-04-07T20:40:41+00:00"
+  },
+  {
+    "title": "Truckstop.com acquires heavy haul rate platform Wize Load",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/truckstop-com-acquires-heavy-haul-203657275.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/DIjOPL6h.dGfIqnwaO1xmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/7de748ea5970b5a8907cb457498c8e1f",
+    "pubDate": "2026-04-07T20:36:57+00:00"
   },
   {
     "title": "Once Overlooked, Eau de Vie Is More Exciting Than Ever",
