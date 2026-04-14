@@ -1,45 +1,262 @@
 [
   {
-    "title": "JPMorgan Chase tops estimates on fixed income, investment banking as Wall Street hums",
+    "title": "Burglars who used Rightmove to target homes and steal £1m of valuables jailed",
+    "description": "The gang gloated about their crimes while two of them referred to themselves as Bonnie and Clyde.",
+    "link": "https://www.bbc.com/news/articles/c8jxe9npzdlo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1f5/live/d39a57a0-ebde-11f0-bb6f-d709b650ca8e.jpg",
+    "pubDate": "2026-04-14T12:45:13+00:00"
+  },
+  {
+    "title": "Bitcoin is closing in on $75,000 and analysts say a breakout could trigger a massive new rally",
+    "description": "Several crypto market experts including Mati Greenspan, former senior eToro market analyst, explain what might happen if bitcoin manages to hold $75,000 and if it does not.",
+    "link": "https://www.coindesk.com/markets/2026/04/14/bitcoin-hits-usd75-000-for-first-time-since-early-february-but-will-it-hold-and-what-it-means-if-it-does",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f62ed2bf92f721139b7c5aa523214c3e41bf66ef-4000x3000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-14T12:38:40+00:00"
+  },
+  {
+    "title": "Tether introduces crypto wallet to bring stablecoin and bitcoin payments directly to users",
+    "description": "The stablecoin issuer's crypto wallet lets users send digital dollars, tokenized gold and bitcoin without intermediaries or gas tokens across multiple blockchains.",
+    "link": "https://www.coindesk.com/business/2026/04/14/tether-introduces-crypto-wallet-to-bring-stablecoin-and-bitcoin-payments-directly-to-users",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-14T12:36:18+00:00"
+  },
+  {
+    "title": "Share of 7-year car loans grows as buyers 'work harder to make the numbers fit,' expert says",
+    "description": "With the amount financed reaching an all-time high, more car buyers are stretching out their loans to at least seven years to afford the monthly payments.",
+    "link": "https://www.cnbc.com/2026/04/14/car-loan-terms.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108289344-1775752289757-gettyimages-2222036706-20250519-rlc00432.jpeg?v=1775752321&w=1920&h=1080",
+    "pubDate": "2026-04-14T12:36:00+00:00"
+  },
+  {
+    "title": "Amazon to buy Globalstar to bolster Leo satellite business",
+    "description": "Amazon said it would acquire Globalstar, giving its nascent satellite internet business a boost as it vies to compete with Elon Musk's SpaceX.",
+    "link": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108129239-17442155342025-04-09t161134z_755527566_rc2fuda37xtw_rtrmadp_0_space-exploration-amazon.jpeg?v=1749587251&w=1920&h=1080",
+    "pubDate": "2026-04-14T12:35:43+00:00"
+  },
+  {
+    "title": "Fed nominee Warsh filings detail vast wealth, far exceeding past chairs",
+    "description": "Kevin Warsh, nominee to lead the Federal Reserve, detailed his holdings in newly released financial disclosures.",
+    "link": "https://www.cnbc.com/2026/04/14/federal-reserve-warsh-wealth.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108173283-1769775665192-108173283-1752755185343-Kevin1.jpg?v=1769775677&w=1920&h=1080",
+    "pubDate": "2026-04-14T12:35:17+00:00"
+  },
+  {
+    "title": "Wholesale prices rose 0.5% in March, much less than expected despite war impact",
+    "description": "The producer price index was expected to increase 1.1% in March, according to the Dow Jones consensus estimate.",
+    "link": "https://www.cnbc.com/2026/04/14/wholesale-prices-rose-0point5percent-in-march-much-less-than-expected-despite-war-impact.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108289766-1775824842732-gettyimages-2270016150-AFP_A7BX86E.jpeg?v=1775824898&w=1920&h=1080",
+    "pubDate": "2026-04-14T12:35:06+00:00"
+  },
+  {
+    "title": "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?",
+    "description": "Iran earned $5bn in oil exports in past month while it shut the strait for most other ships. That revenue is at risk.",
+    "link": "https://www.aljazeera.com/news/2026/4/14/how-much-will-us-hormuz-blockade-hurt-iran-and-does-tehran-have-an-escape?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69dcf12f-1776087343.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-14T12:31:34+00:00"
+  },
+  {
+    "title": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
+    "description": "Lord George Robertson, a former Labour defence secretary, will use a speech to accuse \"non-military experts in the Treasury\" of \"vandalism\".",
+    "link": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b904/live/45309e30-37d2-11f1-879d-1b2f5c3919b8.jpg",
+    "pubDate": "2026-04-14T12:30:20+00:00"
+  },
+  {
+    "title": "Visa throws its weight behind Stripe’s Tempo blockchain",
+    "description": "The card network configured and managed the validator node entirely in-house, it said, following six months of joint work with Tempo’s engineering team.",
+    "link": "https://www.coindesk.com/business/2026/04/14/visa-throws-its-weight-behind-stripe-s-tempo-blockchain",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/14b1a6dc550795775deb9b6d6cffcd15d09f5c3f-360x300.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-14T12:30:00+00:00"
+  },
+  {
+    "title": "JPMorgan tops estimates on Wall Street results, Dimon flags 'increasingly complex' economic risks",
     "description": "JPMorgan CEO Jamie Dimon called the economy resilient, but pointed to an \"increasingly complex set of risks\" across global markets.",
     "link": "https://www.cnbc.com/2026/04/14/jpmorgan-chase-jpm-earnings-1q-2026.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108222463-1762447653799-gettyimages-2244833695-AMERICAN_BUSINESS_FORUM.jpeg?v=1776097675&w=1920&h=1080",
-    "pubDate": "2026-04-14T11:34:02+00:00"
+    "pubDate": "2026-04-14T12:29:26+00:00"
   },
   {
-    "title": "Democrats raised $500 million in Q1 from party's main fundraising platform",
-    "description": "ActBlue, which raises small-dollar donations for Democrats and their causes, reported record first-quarter fundraising for a midterm election year.",
-    "link": "https://www.cnbc.com/2026/04/14/election-2026-democrats-fundraising-act-blue.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108290765-1776115168937-gettyimages-1296421181-dsc_0384-13.jpeg?v=1776115190&w=1920&h=1080",
-    "pubDate": "2026-04-14T11:33:07+00:00"
+    "title": "How many ships have passed the Strait of Hormuz and how many were attacked?",
+    "description": "Ship-tracking data shows 279 ships have passed through the strait and 22 have been attacked since the war on Iran began.",
+    "link": "https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/INTERACTIVE-SHIPS-STUCK-IN-THE-HORMUZ-APRIL-14-2026-1776163401.png?resize=1200%2C630",
+    "pubDate": "2026-04-14T12:27:47+00:00"
   },
   {
-    "title": "Citigroup to report first-quarter earnings before market open",
-    "description": "Citigroup is perceived to be more impacted by the geopolitical environment than many of its peers.",
-    "link": "https://www.cnbc.com/2026/04/14/citigroup-c-earnings-1q-2026.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108254914-1769005505005-YCxCqJY4.jpg?v=1769005594&w=1920&h=1080",
-    "pubDate": "2026-04-14T11:30:01+00:00"
+    "title": "Bitcoin passes halfway point in halving cycle as price gains trail prior cycles",
+    "description": "Slower post-halving gains reflect bitcoin’s shift toward a more mature asset.",
+    "link": "https://www.coindesk.com/markets/2026/04/14/bitcoin-passes-halfway-point-in-halving-cycle-as-price-gains-trail-prior-cycles",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a9240f455d863c326c92ccf03ed11065ecb927c8-3200x1800.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-14T12:23:46+00:00"
   },
   {
-    "title": "A $505bn global bridge construction pipeline, but fewer easy wins",
+    "title": "Perella Weinberg to buy UK advisory boutique Gleacher Shacklock",
     "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/505bn-global-bridge-construction-pipeline-111545896.html",
-    "thumbnail": "https://s.yimg.com/os/en/world_construction_network_914/0f73a1ba91b7a8cc47a0f23af1adc2e0",
-    "pubDate": "2026-04-14T11:15:45+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/perella-weinberg-buy-uk-advisory-122049878.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/kVClnT5U5lyXWI4QepFvQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/private_banker_international_938/87c68d5d816b96a9e3118360764422d5",
+    "pubDate": "2026-04-14T12:20:49+00:00"
   },
   {
-    "title": "Inspectorio AI platform to enhance Gap supply chain oversight",
+    "title": "At a House Republican’s New York Event, Flashes of an Iran Backlash",
+    "description": "Representative Mike Lawler, who is seeking re-election in a swing district in the Hudson Valley, faced tough questions from constituents about his stance on the war in Iran.",
+    "link": "https://www.nytimes.com/2026/04/14/us/politics/at-a-house-republicans-new-york-event-flashes-of-an-iran-backlash.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-14T12:19:45+00:00"
+  },
+  {
+    "title": "Zach Cregger's Resident Evil Movie  Wants You To Feel To Feel Like You're Trapped Inside It",
+    "description": "This year's Cinemacon expo kicked off with a big presentation from Sony, as the company dropped a few closed-door reveals on attendees. Zach Cregger's Resident Evil movie was one of the highlights, and new details on the film have begun to circulate online, revealing how the Weapons director is building something that will potentially leave audiences breathless by the time the end credits roll. According to Deadline, the sneak peek at Resident Evil introduced Austin Abrams as a medical courier caught in the middle of the Raccoon City Incident. The footage showed scenes of Abrams' character stumbling upon a house during a blizzard, after his car had broken down. With the occupants mysteriously missing, Abrams uses a telephone to reveal that all hell has broken loose, and more scenes are shown of him running for his life while infected people chase him. One moment in particular has been described as especially messed up, as the zombies fling themselves at the courier from rooftops and violently collide with the ground. Speaking at the presentation, Cregger said that he'd played \"a sh*tload of Resident Evil\" and that he was aiming to give viewers a \"scary\" ride. Cregger added (via GamesRadar) that Resident Evil will have \"no narrative acrobatics, time jumps or disorienting chapter things,\" and that audiences will be \"locked in with a protagonist on a foot journey through a world hellbent on destroying them.\" Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/zach-creggers-resident-evil-movie-wants-you-to-feel-to-feel-like-youre-trapped-inside-it/1100-6539375/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-04-14T12:19:00+00:00"
+  },
+  {
+    "title": "Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?",
+    "description": "Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.",
+    "link": "https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-14T12:11:05+00:00"
+  },
+  {
+    "title": "Champions League: Barcelona handball claim against Atletico Madrid rejected",
+    "description": "Barca were unhappy with an alleged handball by Atletico's Marc Pubill in quarterfinal first leg but UEFA rejects appeal.",
+    "link": "https://www.aljazeera.com/sports/2026/4/14/champions-league-barcelona-handball-claim-against-atletico-madrid-rejected?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-08T205421Z_1598952744_UP1EM481M2KDI_RTRMADP_3_SOCCER-CHAMPIONS-BAR-ATM-1776166407.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-14T12:10:54+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Wavers Ahead Of Key Inflation Data; Bloom Soars On This Oracle News (Live Coverage)",
     "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/inspectorio-ai-platform-enhance-gap-111054270.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/w04GV45ZUOCj78amLu54xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/just_style_482/853c617ddd492e56d04b391f46bf14de",
-    "pubDate": "2026-04-14T11:10:54+00:00"
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-ppi/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+    "pubDate": "2026-04-14T12:08:20+00:00"
   },
   {
     "title": "Oil falls as IEA predicts ‘demand destruction will spread’ and hopes for fresh Iran talks grow",
     "description": "U.S. Vice President JD Vance said Monday that the next steps in U.S.-Iran peace efforts now depend on Tehran.",
     "link": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108289176-1775738724676-gettyimages-2270494304-dji_20260408180245_0708_d_zbvq7b2t.jpeg?v=1775738799&w=1920&h=1080",
-    "pubDate": "2026-04-14T11:10:49+00:00"
+    "pubDate": "2026-04-14T12:07:35+00:00"
+  },
+  {
+    "title": "Star Wars' Mark Hamill: ‘If you want Luke Skywalker to be gay, he is’",
+    "description": "Fifty years after George Lucas left Luke's sexuality vague, the actor tells Mara Jade fans and Last Jedi haters it's all up to opinion.",
+    "link": "https://www.polygon.com/mark-hamill-interview-luke-skywalker-sexuality/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/luke_skywalker.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-04-14T12:06:21+00:00"
+  },
+  {
+    "title": "Amazon signs $11.57 billion deal for satellite firm Globalstar to challenge Musk's Starlink",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/amazon-signs-11-57-billion-120533254.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/793fd242fba8e306dcfe9129814df0bb",
+    "pubDate": "2026-04-14T12:05:33+00:00"
+  },
+  {
+    "title": "If You Missed Out on Nvidia's Wild Gains, This Might Finally Be the Time to Buy Nvidia Stock.",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/missed-nvidias-wild-gains-might-120500459.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/w77R9lFijNmcOm8.RH8cjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/b0e5e06d5987675948250adeb5464f77",
+    "pubDate": "2026-04-14T12:05:00+00:00"
+  },
+  {
+    "title": "Grandgear, a giant robot movie from Godzilla Minus One director, gets release date",
+    "description": "The live-action mecha film from Takashi Yamazaki is coming in 2028, Sony revealed at CinemaCon",
+    "link": "https://www.polygon.com/grandgear-release-date-godzilla-minus-one-takashi-yamazaki/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25488283/Godzilla_Minus_One_01.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-04-14T12:04:20+00:00"
+  },
+  {
+    "title": "Citigroup beats estimates, boosted by gains in fixed income",
+    "description": "Citigroup reported its best quarterly revenue in a decade and a 56% year-over-year jump in earnings per share.",
+    "link": "https://www.cnbc.com/2026/04/14/citigroup-c-earnings-1q-2026.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108254914-1769005505005-YCxCqJY4.jpg?v=1769005594&w=1920&h=1080",
+    "pubDate": "2026-04-14T12:02:01+00:00"
+  },
+  {
+    "title": "$21 billion in frozen EU funds are at stake as Hungary's markets surge on Orbán's stunning defeat",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/21-billion-frozen-eu-funds-120000080.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xNF8aCHIhFIzsELaK2LwuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/266ec12cc4f4e9c61d32663943b22c2a",
+    "pubDate": "2026-04-14T12:00:00+00:00"
+  },
+  {
+    "title": "The Iran war could cost the American taxpayer $1 trillion, says Harvard academic",
+    "description": "As efforts to reach a lasting settlement have so far proved unsuccessful, one Harvard academic estimates the total could end up far higher than was promised.",
+    "link": "https://www.cnbc.com/2026/04/14/iran-war-cost-us-taxpayer-trillion-harvard.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/100999405-9135082119_b817b86066_k.jpg?v=1421504264&w=1920&h=1080",
+    "pubDate": "2026-04-14T11:57:21+00:00"
+  },
+  {
+    "title": "Stock Market Movers: JPMorgan, Oracle, Bloom Energy, Credo Technology, American Airlines",
+    "description": "",
+    "link": "https://www.investors.com/news/stock-market-movers-jpmorgan-oracle-bloom-energy-credo-tech-american-airlines/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/05/Stock-datacenter-06-shutt.jpg",
+    "pubDate": "2026-04-14T11:55:11+00:00"
+  },
+  {
+    "title": "State of U.S. Blockade Is Unclear as Some Ships Transit Strait of Hormuz",
+    "description": "Ship-tracking data showed that several vessels, including some that had been docked at Iranian ports, had moved through the strait as the U.S. military began its blockade.",
+    "link": "https://www.nytimes.com/2026/04/14/world/middleeast/us-blockade-strait-hormuz-iran-ships-traffic.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-14T11:48:45+00:00"
+  },
+  {
+    "title": "Who controls the Strait of Hormuz?",
+    "description": "A US move to block the strait has intensified a broader struggle over who controls access and under what terms.",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/14/who-controls-the-strait-of-hormuz?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/web-1776167276.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-04-14T11:48:17+00:00"
+  },
+  {
+    "title": "Households could get free electricity for doing washing on sunny weekends",
+    "description": "Providers will be able to encourage people to use energy when \"weather conditions result in excess supply\".",
+    "link": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7167/live/8306eb60-37f5-11f1-8606-05fe34b06e1b.jpg",
+    "pubDate": "2026-04-14T11:42:05+00:00"
+  },
+  {
+    "title": "IPL switch leads to two-year PSL ban for Zimbabwe’s Muzarabani",
+    "description": "Muzarabani ‌had agreed to join Islamabad United but switch to India's Kolkata Knight Riders led to Pakistan cricket ban.",
+    "link": "https://www.aljazeera.com/sports/2026/4/14/blessing-muzarabani-given-two-year-psl-ban-after-ipl-switch?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-29T161118Z_862237274_UP1EM3T18YUPZ_RTRMADP_3_CRICKET-IPL-MI-KKR-1776163645.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-14T11:41:09+00:00"
+  },
+  {
+    "title": "House Republican campaign arm touts tax cuts in new 2026 election ad",
+    "description": "Republicans are trying to defend a razor-thin majority in the House and are running on tax policies passed last year.",
+    "link": "https://www.cnbc.com/2026/04/14/nrcc-touts-tax-cuts-in-new-2026-election-messaging-ad.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108092422-17378989082025-01-25t203950z_316702521_rc22hcaaxyiu_rtrmadp_0_usa-trump.jpeg?v=1737898973&w=1920&h=1080",
+    "pubDate": "2026-04-14T11:36:37+00:00"
+  },
+  {
+    "title": "Deutsche Börse invests $200 million in Kraken parent Payward",
+    "description": "Deutsche Börse said it will invest $200 million in Kraken’s parent company for a fully diluted stake of 1.5%, subject to regulatory approval.",
+    "link": "https://cointelegraph.com/news/deutsche-borse-invest-200m-kraken-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d8ba7-3ff3-7c85-8aa1-140096a10ecf.jpg",
+    "pubDate": "2026-04-14T11:18:43+00:00"
+  },
+  {
+    "title": "Bitcoin, ether in Goldilocks rally while smaller coins take a back seat",
+    "description": "What you need to know for April 14, 2026",
+    "link": "https://www.coindesk.com/daybook-us/2026/04/14/bitcoin-ether-in-goldilocks-rally-while-smaller-coins-take-a-back-seat",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/71df673d351b791c3005560c1b5760411dece6dd-1500x922.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-14T11:17:50+00:00"
+  },
+  {
+    "title": "OneCoin victims get a $40 million lifeline more than a decade after the scam began",
+    "description": "The Department of Justice said it has $40 million in seized assets for victim compensation and it will continue working to seize further criminal proceeds for the defrauded investors",
+    "link": "https://www.coindesk.com/policy/2026/04/14/u-s-doj-opens-up-claim-process-for-victims-of-onecoin-s-usd4-billion-fraud-case",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-14T11:17:08+00:00"
+  },
+  {
+    "title": "A fake Ledger app on the Apple App Store drained $9.5 million in crypto",
+    "description": "A malicious Ledger Live clone slipped onto Apple’s App Store, draining millions from dozens of victims across multiple blockchains in a week-long phishing campaign.",
+    "link": "https://www.coindesk.com/business/2026/04/14/a-fake-ledger-app-on-the-apple-app-store-just-drained-usd9-5-million-in-crypto",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6e0794b53fab4b04d9e3fdbc0f3d1a70cdf36125-1920x1283.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-04-14T11:12:37+00:00"
   },
   {
     "title": "Everything shown and announced at Sony's CinemaCon 2026 panel",
@@ -49,11 +266,18 @@
     "pubDate": "2026-04-14T11:08:43+00:00"
   },
   {
-    "title": "Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?",
-    "description": "Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.",
-    "link": "https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-14T11:06:56+00:00"
+    "title": "Analyst Report: Goldman Sachs Group Inc/The",
+    "description": "",
+    "link": "https://finance.yahoo.com/research/reports/ARGUS_3017_AnalystReport_1776164833000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+    "pubDate": "2026-04-14T11:07:13+00:00"
+  },
+  {
+    "title": "Ian Huntley died from prison attack head injury, inquest hears",
+    "description": "An inquest opens into the death of Soham murderer Ian Huntley, who was fatally attacked in prison.",
+    "link": "https://www.bbc.com/news/articles/cnv883dd25no?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51dd/live/16ea4e20-37f7-11f1-8606-05fe34b06e1b.jpg",
+    "pubDate": "2026-04-14T11:05:17+00:00"
   },
   {
     "title": "Hades 2, one of 2025’s best games, is finally available on PlayStation 5 and Xbox",
@@ -63,46 +287,11 @@
     "pubDate": "2026-04-14T11:00:19+00:00"
   },
   {
-    "title": "House Republican campaign arm touts tax cuts in new 2026 election ad",
-    "description": "Republicans are trying to defend a razor-thin majority in the House and are running on tax policies passed last year.",
-    "link": "https://www.cnbc.com/2026/04/14/nrcc-touts-tax-cuts-in-new-2026-election-messaging-ad.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108092422-17378989082025-01-25t203950z_316702521_rc22hcaaxyiu_rtrmadp_0_usa-trump.jpeg?v=1737898973&w=1920&h=1080",
-    "pubDate": "2026-04-14T11:00:01+00:00"
-  },
-  {
-    "title": "Merged UP-NS would control half of all rail freight: BNSF CEO",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/merged-ns-control-half-rail-110000172.html",
-    "thumbnail": "https://s.yimg.com/os/en/freightwaves_373/7660b1f513464886c240f3dd0e0e5897",
-    "pubDate": "2026-04-14T11:00:00+00:00"
-  },
-  {
-    "title": "The Fed was expected to cut rates in 2026 — but a new inflation forecast suggests relief could be delayed",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/fed-expected-cut-rates-2026-110000248.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/PkYeJRcqo3EJq8w7eqN8uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/d9a88510ea0cb9af2a5a9534bceb2ecd",
-    "pubDate": "2026-04-14T11:00:00+00:00"
-  },
-  {
     "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
     "description": "The IEA's oil 'demand destruction' report comes after its chief said unnamed countries are hoarding stocks.",
     "link": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260326__A4QK4ZR__v1__MidRes__AustraliaEconomyMarketsOil-1774836407.jpg?resize=1200%2C630",
     "pubDate": "2026-04-14T10:59:11+00:00"
-  },
-  {
-    "title": "JPMorgan profits rise 13% as Dimon warns of 'increasingly complex set of risks'",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/article/jpmorgan-profits-rise-13-as-dimon-warns-of-increasingly-complex-set-of-risks-105717397.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/zg.1GHsOakuJnp3McI83Hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/e048ad3a-f8fc-4c19-8868-059ee54d6787",
-    "pubDate": "2026-04-14T10:57:17+00:00"
-  },
-  {
-    "title": "‘Thank you, Mr. Tariff!’: The US just posted a massive 55% deficit cut — Trump calls it the ‘biggest drop in history’",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/thank-mr-tariff-us-just-105500843.html",
-    "thumbnail": "https://s.yimg.com/os/en/moneywise_ecomm_711/55b34ce35a43cfe7f743fe4e02b4d612",
-    "pubDate": "2026-04-14T10:55:00+00:00"
   },
   {
     "title": "007 First Light ending leaked via ratings board",
@@ -117,27 +306,6 @@
     "link": "https://www.coindesk.com/business/2026/04/14/deutsche-boerse-takes-1-5-stake-in-crypto-exchange-kraken-for-usd200-million",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/8c2d1d6c9e47c3db1e4becaf1739fb8dce590d3b-3600x2400.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-04-14T10:51:02+00:00"
-  },
-  {
-    "title": "Here's Why Bloom Energy Stock Is Soaring",
-    "description": "",
-    "link": "https://www.investors.com/news/bloom-energy-stock-why-soaring-late/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/07/Stock-BloomEnergy-01-company.jpg",
-    "pubDate": "2026-04-14T10:49:11+00:00"
-  },
-  {
-    "title": "‘We will not survive’: Toyota, Honda and Ford CEOs issue chilling warning about China — and it could hit your portfolio",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/not-survive-toyota-honda-ford-104500441.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/GUMvJKgDqdErQbFyAwn_Cw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/f1e25ee05606271fb399c8011e0e2a52",
-    "pubDate": "2026-04-14T10:45:00+00:00"
-  },
-  {
-    "title": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
-    "description": "Lord George Robertson, a former Labour defence secretary, will use a speech to accuse \"non-military experts in the Treasury\" of \"vandalism\".",
-    "link": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b904/live/45309e30-37d2-11f1-879d-1b2f5c3919b8.jpg",
-    "pubDate": "2026-04-14T10:42:01+00:00"
   },
   {
     "title": "Jumanji: Open World shares first trailer and plot details at CinemaCon",
@@ -161,18 +329,18 @@
     "pubDate": "2026-04-14T10:39:00+00:00"
   },
   {
+    "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
+    "description": "Students and teachers are among those who were injured in the attack in the country's south-east.",
+    "link": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/7346ad50-37eb-11f1-bf98-335695df34d3.jpg",
+    "pubDate": "2026-04-14T10:38:55+00:00"
+  },
+  {
     "title": "What we know about US-hosted talks between Israel and Lebanon",
     "description": "Officials from Lebanon and Israel are meeting in the US for talks on Tuesday.",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/what-we-know-about-us-hosted-talks-between-israel-and-lebanon?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-11.29.32-1776162946.png?resize=1200%2C630",
     "pubDate": "2026-04-14T10:37:30+00:00"
-  },
-  {
-    "title": "Households could get free electricity for doing washing on sunny weekends",
-    "description": "Providers will be able to encourage people to use energy when \"weather conditions result in excess supply\".",
-    "link": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7e0/live/9f6683d0-37da-11f1-b3d4-79c42c859995.jpg",
-    "pubDate": "2026-04-14T10:30:51+00:00"
   },
   {
     "title": "Bitcoin tests $75,000 as $200 million in shorts face liquidation risk",
@@ -182,32 +350,11 @@
     "pubDate": "2026-04-14T10:30:00+00:00"
   },
   {
-    "title": "Teenager charged over Primrose Hill stabbing",
-    "description": "An 18-year-old is accused of grievous bodily harm with intent, following the death of Finbar Sullivan.",
-    "link": "https://www.bbc.com/news/articles/cdj77dejxw0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/03ea4760-3358-11f1-9d5c-8ba507d7dbde.jpg",
-    "pubDate": "2026-04-14T10:28:15+00:00"
-  },
-  {
     "title": "Israel-Lebanon direct talks in the US: All to know",
     "description": "Israel and Lebanon hold first direct talks since 1993, but Hezbollah's rejection threatens the US-brokered effort.",
     "link": "https://www.aljazeera.com/news/2026/4/14/israel-lebanon-direct-talks-in-the-us-all-to-know?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260411__A7GM2ND__v1__HighRes__LebanonIsraelUsIranWarDemo-1775936117.jpg?resize=1920%2C1440",
     "pubDate": "2026-04-14T10:27:12+00:00"
-  },
-  {
-    "title": "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos",
-    "description": "Iran's Foreign Ministry spokesman says the move aims to 'suppress the truth about their illegal war on Iran'.",
-    "link": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260410__A7BX3LA__v4__HighRes__TopshotUsIranIsraelWarPoliticsMisinformation-1776158806.jpg?resize=1920%2C1440",
-    "pubDate": "2026-04-14T10:16:25+00:00"
-  },
-  {
-    "title": "The Iran war could cost the American taxpayer $1 trillion, says Harvard academic",
-    "description": "As efforts to reach a lasting settlement have so far proved unsuccessful, one Harvard academic estimates the total could end up far higher than was promised.",
-    "link": "https://www.cnbc.com/2026/04/14/iran-war-cost-us-taxpayer-trillion-harvard.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/100999405-9135082119_b817b86066_k.jpg?v=1421504264&w=1920&h=1080",
-    "pubDate": "2026-04-14T10:13:13+00:00"
   },
   {
     "title": "Nauru taps Bitcoiner Dadvan Yousuf for trade role in digital asset push",
@@ -238,13 +385,6 @@
     "pubDate": "2026-04-14T10:00:18+00:00"
   },
   {
-    "title": "Sanctioned tankers transit Strait of Hormuz amid US blockade",
-    "description": "Chinese-owned tanker Rich Starry becomes the first sanctioned vessel to exit the Gulf after the US blockade.",
-    "link": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-09T035632Z_2117935649_RC2B2KAT41B3_RTRMADP_3_IRAN-CRISIS-OIL-SHIPPING-1775725444.jpg?resize=1200%2C630",
-    "pubDate": "2026-04-14T09:58:36+00:00"
-  },
-  {
     "title": "Bitcoin ETFs clock $291M outflows as BTC blasts past $74K",
     "description": "US spot Bitcoin ETFs recorded $291 million in outflows on Monday as BTC climbed above $74,000, marking the biggest day of redemptions since March 27, led by FBTC.",
     "link": "https://cointelegraph.com/news/bitcoin-etfs-291-million-outflow-btc-surge-74000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -259,17 +399,10 @@
     "pubDate": "2026-04-14T09:45:40+00:00"
   },
   {
-    "title": "What's changed since Harry and Meghan last visited Australia in 2018?",
-    "description": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
-    "link": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c2/live/339a4b50-37ee-11f1-879d-1b2f5c3919b8.jpg",
-    "pubDate": "2026-04-14T09:41:22+00:00"
-  },
-  {
     "title": "Chalamet thanked by Royal Ballet and Opera boss for boosting ticket sales",
     "description": "Alex Beard says the public response to Chalamet saying \"no-one cares about ballet or opera\" was \"fantastic.\"",
     "link": "https://www.bbc.com/news/articles/c20qqwwwx73o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1853/live/6742ac90-37e4-11f1-8c2f-f7769b959c48.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4e/live/c41c84e0-37f3-11f1-8606-05fe34b06e1b.jpg",
     "pubDate": "2026-04-14T09:34:42+00:00"
   },
   {
@@ -280,13 +413,6 @@
     "pubDate": "2026-04-14T09:33:34+00:00"
   },
   {
-    "title": "Strategy's STRC sees record-breaking trading day, may surpass that on Tuesday",
-    "description": "Estimated bitcoin purchase from STRC of around 7,800 BTC could mark the largest single-day addition since the preferred stock's debut.",
-    "link": "https://www.coindesk.com/markets/2026/04/14/strategy-s-strc-sees-record-breaking-trading-day-may-surpass-that-on-tuesday",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-14T09:32:35+00:00"
-  },
-  {
     "title": "China calls U.S. blockade of the Strait of Hormuz 'dangerous and irresponsible'",
     "description": "The Chinese foreign ministry said only a \"comprehensive ceasefire\" would help ease the ongoing crisis in the Middle East.",
     "link": "https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html",
@@ -294,25 +420,11 @@
     "pubDate": "2026-04-14T09:29:14+00:00"
   },
   {
-    "title": "Web3 hacks cost $464M in Q1 as phishing drives majority of losses: Hacken",
-    "description": "Hacken’s Q1 2026 report finds $464.5 million lost across 43 incidents, with phishing, legacy code bugs and key compromises driving losses as regulators tighten security demands.",
+    "title": "Web3 hacks cost $482M in Q1 as phishing drives majority of losses: Hacken",
+    "description": "Hacken’s Q1 2026 report finds $482 million lost across 44 incidents, with phishing, legacy code bugs and key compromises driving losses as regulators tighten security demands.",
     "link": "https://cointelegraph.com/news/web3-hacks-cost-464-million-in-q1-hacken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d8bbc-c095-7a9f-9504-07256d35c641.jpg",
     "pubDate": "2026-04-14T09:25:08+00:00"
-  },
-  {
-    "title": "In Rare Direct Talks, Israeli and Lebanese Officials Seek Way Forward",
-    "description": "The talks, set for Tuesday in Washington, were not expected to produce an immediate breakthrough in the war between Hezbollah and Israel.",
-    "link": "https://www.nytimes.com/2026/04/14/world/middleeast/israel-lebanon-talks-dc.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-14T09:23:21+00:00"
-  },
-  {
-    "title": "Maradona’s childhood home becomes soup kitchen for those in need",
-    "description": "Neighbours gather at Maradona's birthplace for meals, keeping compassion alive in the Buenos Aires suburb of Fiorito.",
-    "link": "https://www.aljazeera.com/gallery/2026/4/14/maradonas-childhood-home-now-a-soup-kitchen-for-the-needy?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260413__A7E49EV__v1__MidRes__ArgentinaMaradonaSoupKitchen-1776152817.jpg?resize=1200%2C630",
-    "pubDate": "2026-04-14T09:10:25+00:00"
   },
   {
     "title": "Spider-Man: Beyond the Spider-Verse's release date anticipated as footage wows CinemaCon audience",
@@ -320,13 +432,6 @@
     "link": "https://www.polygon.com/spider-man-beyond-the-spider-verse-release-date-moved-new-footage/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/spider-man_-beyond-the-spider-verse.webp?w=1200&h=675&fit=crop",
     "pubDate": "2026-04-14T09:09:59+00:00"
-  },
-  {
-    "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
-    "description": "China and Russia have been vocal critics of the US-Israel war on Iran, an ally of both world powers.",
-    "link": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69ddee1d43f4-1776152093.jpg?resize=1920%2C1440",
-    "pubDate": "2026-04-14T09:08:46+00:00"
   },
   {
     "title": "In Leo, Trump Faces a Different Kind of Papal Opponent",
@@ -357,20 +462,6 @@
     "pubDate": "2026-04-14T09:02:22+00:00"
   },
   {
-    "title": "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO",
-    "description": "Global agriculture is highly exposed to the blockage of waterways, risking higher commodity prices and food inflation.",
-    "link": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/epa_69dde916efc8-1776150806.jpg?resize=1920%2C1440",
-    "pubDate": "2026-04-14T08:52:52+00:00"
-  },
-  {
-    "title": "Here are key bitcoin price levels to watch as the rally gathers steam",
-    "description": "BTC's price has hit four-week highs above $74,000. Here are next key levels that could amplify volatility or create resistance.",
-    "link": "https://www.coindesk.com/markets/2026/04/14/here-are-key-bitcoin-price-levels-to-watch-as-the-rally-gathers-steam",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bfb4779e9245468a88a2a948bb0e1677ae7e7858-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-14T08:49:36+00:00"
-  },
-  {
     "title": "UK Lib Dems call for probe into Farage over $2.7M Stack BTC promotion",
     "description": "UK Liberal Democrats called on the FCA to examine Nigel Farage’s Stack BTC promotion as scrutiny grows over crypto conflicts and political donations.",
     "link": "https://cointelegraph.com/news/uk-lib-dems-fca-probe-farage-stack-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -392,39 +483,11 @@
     "pubDate": "2026-04-14T07:09:00+00:00"
   },
   {
-    "title": "NFT bull Steve Aoki sells his SHIB, ETH, and PEPE. His Bored Apes are down 88%.",
-    "description": "The DJ who told CoinDesk in 2021 that NFTs would be \"part of culture\" within five years is quietly exiting crypto.",
-    "link": "https://www.coindesk.com/markets/2026/04/14/nft-bull-steve-aoki-sells-his-shib-eth-and-pepe-his-bored-apes-are-down-88",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/ca6fc6e0cd87e97318cb25fad1d304855210ef97-1280x720.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-14T06:39:21+00:00"
-  },
-  {
-    "title": "Nikita Bier says crypto has had a rough year, hints at building something new as X Money launch nears",
-    "description": "The head of product's viral one-liner lands weeks before Elon Musk's fiat payments app goes live with a 6% yield and a Visa card",
-    "link": "https://www.coindesk.com/tech/2026/04/14/crypto-has-had-a-rough-year-x-s-nikita-bier-hints-as-x-money-launch-nears",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/30489da73d13d93c4cca344ace67b0b1d6d9b58d-1470x1102.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-14T06:13:50+00:00"
-  },
-  {
-    "title": "Justice Department opens compensation for victims of $4B OneCoin crypto fraud",
+    "title": "US Justice Department opens compensation for victims of $4B OneCoin crypto fraud",
     "description": "OneCoin was launched by Ruja Ignatova and Karl Sebastian Greenwood in Bulgaria. Ignatova has been missing since 2017, and Greenwood was sentenced to 20 years in prison.",
     "link": "https://cointelegraph.com/news/doj-onecoin-compensation-victims-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d8a0a-073f-7c71-b239-537109153392.jpg",
     "pubDate": "2026-04-14T06:05:49+00:00"
-  },
-  {
-    "title": "Little-known token ranks alongside bitcoin and ether in the top three — just not in the way you think",
-    "description": "RAVE has surged several thousand percent in seven days, driving frenzied trading activity and large liquidations, second only to industry leaders bitcoin and ether.",
-    "link": "https://www.coindesk.com/markets/2026/04/14/rave-ranks-alongside-bitcoin-and-ether-in-the-top-three-just-not-in-the-way-you-think",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/efd01934650dce8e442f4ca433f310f5c4de6800-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-14T05:57:53+00:00"
-  },
-  {
-    "title": "Japan's central bank cools rate hike expectations, removing a key risk for bitcoin's rally",
-    "description": "The BOJ's dovish shift keeps the yen carry trade alive, the same trade whose unwind crashed bitcoin 24% in two days in August 2024.",
-    "link": "https://www.coindesk.com/markets/2026/04/14/japan-s-central-bank-cools-rate-hike-expectations-removing-a-key-risk-for-bitcoin-s-rally",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d3c36f86c5d814d9ec493dae6d7fde7687526f38-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-14T05:56:36+00:00"
   },
   {
     "title": "Bitcoin bears eye $50K bottom as analysts claim final flush still to come",
@@ -432,13 +495,6 @@
     "link": "https://cointelegraph.com/news/analysts-still-see-final-flush-to-50k-despite-current-market-hopium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d8a40-6378-7e48-a712-36ef9779da62.jpg",
     "pubDate": "2026-04-14T05:41:03+00:00"
-  },
-  {
-    "title": "Dogecoin climbs 3% toward 10 cents as ether breakout drives memecoin bets",
-    "description": "Strong institutional activity pushed DOGE out of consolidation, but the real test sits just above current levels.",
-    "link": "https://www.coindesk.com/markets/2026/04/14/dogecoin-climbs-3-toward-10-cents-as-ether-breakout-drive-memecoin-bets",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/566a395d36e7ec4fcff727b443916a72f3c2f63a-1080x658.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-04-14T05:16:57+00:00"
   },
   {
     "title": "Banks challenge White House report on stablecoin yields",
@@ -476,13 +532,6 @@
     "pubDate": "2026-04-14T03:18:07+00:00"
   },
   {
-    "title": "South Korea fines Coinone $3.5M, orders partial business suspension: Reports",
-    "description": "Coinone is the second to face South Korea’s crackdown on exchanges in the last month, following a $24 million fine and a six-month partial suspension order against Bithumb.",
-    "link": "https://cointelegraph.com/news/south-korea-coinone-suspension-aml-fine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019b8af9-8ec5-7a15-a68b-a68de8e37d01.jpg",
-    "pubDate": "2026-04-14T03:05:55+00:00"
-  },
-  {
     "title": "Trump and MAGA Embraced Orban. Now, They’re Worried by His Loss in Hungary’s Election.",
     "description": "Viktor Orban, the Hungarian prime minister, and his right-wing playbook were embraced by parts of the American right. Now some are worried by his defeat.",
     "link": "https://www.nytimes.com/2026/04/13/us/politics/orban-trump-maga.html",
@@ -504,27 +553,6 @@
     "pubDate": "2026-04-14T00:41:24+00:00"
   },
   {
-    "title": "Trump’s Explanation for an Image of Himself as Jesus: ‘I Thought It Was Me as a Doctor’",
-    "description": "The image showed President Trump bathed in divine light and clad in religious robes. His interpretation was that the image depicted him as a doctor, not Jesus Christ.",
-    "link": "https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-picture-pope-leo.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-13T23:25:01+00:00"
-  },
-  {
-    "title": "Why doctors' strikes can actually lead to shorter waiting times and what it costs",
-    "description": "Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.",
-    "link": "https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/33e4db60-374a-11f1-8a34-6b2c37f4bef9.jpg",
-    "pubDate": "2026-04-13T23:06:45+00:00"
-  },
-  {
-    "title": "CNBC's The China Connection newsletter: China's AI glasses have something Meta doesn't",
-    "description": "One Chinese company claims it has the recipe for success in the increasingly competitive smart glasses market",
-    "link": "https://www.cnbc.com/2026/04/13/ai-smart-glasses-china-rokid-virtual-screen-meta-ray-ban-display.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108287757-1775540887398-gettyimages-2249055661-AFP_83Z42ZU.jpeg?v=1775540958&w=1920&h=1080",
-    "pubDate": "2026-04-13T23:00:01+00:00"
-  },
-  {
     "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures mixed amid Iran deal hopes, earnings rush",
     "description": "",
     "link": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-iran-deal-hopes-earnings-rush-225637429.html",
@@ -532,32 +560,11 @@
     "pubDate": "2026-04-13T22:56:37+00:00"
   },
   {
-    "title": "Oracle expands Bloom Energy deal days after receiving $400 million stock warrant",
-    "description": "Last week Oracle received a warrant to buy nearly $400 million in Bloom Energy's stock, which jumped on Monday after the companies announced an expanded deal.",
-    "link": "https://www.cnbc.com/2026/04/13/oracle-expands-bloom-energy-deal-days-after-400-million-stock-warrant.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/104656243-IMG_6731.JPG?v=1776115425&w=1920&h=1080",
-    "pubDate": "2026-04-13T22:32:50+00:00"
-  },
-  {
     "title": "Virgin Punk is one of the most beautiful anime of 2025",
     "description": "Yasuomi Umetsu's Virgin Punk: Clockwork Girl is one of the most detailed anime of all time, with one second reportedly taking a month to create.",
     "link": "https://www.polygon.com/virgin-punk-clockwork-girl-anime-detail/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/virgin-punk-clockwork-girl-anime.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-04-13T22:25:12+00:00"
-  },
-  {
-    "title": "Trump is blockading Iranian ports in the Persian Gulf. What does that mean?",
-    "description": "A former Pentagon official said the goal of the U.S. blockade is to get the Iranians to back down and restore freedom of navigation to the strait.",
-    "link": "https://www.cnbc.com/2026/04/13/trump-iran-war-blockade-persian-gulf-ports.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108290269-1776064093827-gettyimages-2263713947-AFP_99GA3KE.jpeg?v=1776104802&w=1920&h=1080",
-    "pubDate": "2026-04-13T22:03:31+00:00"
-  },
-  {
-    "title": "Hollywood is making yet another Roblox movie adaptation",
-    "description": "Roblox hit 99 Nights in the Forest is being developed as a movie by Disney-owned 20th Century Studios, part of a land rush for Roblox games.",
-    "link": "https://www.polygon.com/hollywood-video-game-movies-roblox/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/roblox-classic-dynamic-heads-faces.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-04-13T21:26:53+00:00"
   },
   {
     "title": "The Truth and Fiction About Copper Cookware",
@@ -570,15 +577,15 @@
     "title": "Humble's Massive Pathfinder 2E Bundle Includes A Physical Book",
     "description": "Dungeons &amp; Dragons may be the most popular tabletop RPG, but there's a vast world of other excellent TTRPGs out there, and one of the best is Pathfinder. Not only is it one of the easiest for D&amp;D fans to transition to (since it's based on older editions of D&amp;D), it's also packed with official and community-made content to add to your table. If you're looking to check out Paizo's fantasy RPG, Humble's new Pathfinder 2E: Bundle At The Center of The World deal is the perfect way to dive in. The bundle includes up to a whopping 41 Pathfinder 2E items--including a physical hardcover copy of the Pathfinder NPC Core book--for just $45. That's a huge savings compared to the bundle's $658 value. A portion of the proceeds from each sale is donated to ComicBooks for Kids, a nonprofit that provides comic books to young cancer patients and children's hospitals. See at Humble Bundle As mentioned above, the maquee item is the Pathfinder NPC Core, a book full of pre-made NPCs that Game Masters can easily drop into their campaigns. The $45 tier includes both physical and digital PDF editions of the book. The bundle also includes loads of other tools, such as battle maps, Society Scenarios, and beginner sets for GMs and players alike. Like other Humble Bundles, cheaper bundle tiers are available, including a 40-item bundle (which does not include the hardcover copy of NPC Core) for $30, a 27-item bundle for $15, and a 9-item bundle for $5. That said, the full $45 bundle is by far the best value; you can check out the full contents listed below. The Humble Pathfinder 2E: Bundle At The Center of The World book bundle will be available until April 30. All digital items are delivered as official keys for eBup, PDF, or JPEG downloads. Keys must be redeemed on Paizo's website before they expire on November 30, 2026. The physical NPC Core book will be mailed to you. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/humbles-massive-pathfinder-2e-bundle-includes-a-physical-book/1100-6539372/?ftag=CAD-01-10abi2f",
-    "thumbnail": "https://www.gamespot.com/a/uploads/original/1752/17528202/4681159-pathfinderbook.jpg",
+    "thumbnail": "",
     "pubDate": "2026-04-13T20:27:00+00:00"
   },
   {
-    "title": "Xbox CEO admits Game Pass is 'too expensive' in leaked memo",
-    "description": "Asha Sharma dissects the value of the popular PC and Xbox subscription service in a revealing memo that suggests a price drop could be imminent",
-    "link": "https://www.polygon.com/xbox-game-pass-price-cut-ceo-asha-sharma-memo-leak/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/xbox-new-ceo-asha-sharma-under-fire.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-04-13T20:07:15+00:00"
+    "title": "Younger Americans 'stretched thin' are making serious credit card mistakes",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/younger-americans-stretched-thin-are-making-serious-credit-card-mistakes-193406565.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Q7C3Qtckprq_12HI6aH5gQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/5fa793d1-693c-49dd-826a-c5eb02a589b1",
+    "pubDate": "2026-04-13T19:34:06+00:00"
   },
   {
     "title": "Game Pass Is Too Expensive And It Will Change, Xbox CEO Says",
@@ -586,13 +593,6 @@
     "link": "https://www.gamespot.com/articles/game-pass-is-too-expensive-and-it-will-change-xbox-ceo-says/1100-6539369/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-04-13T18:35:00+00:00"
-  },
-  {
-    "title": "Stock market today: Dow, S&amp;P 500, Nasdaq edge higher as Trump says Iran wants to talk, US blockades Hormuz",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-after-trump-orders-hormuz-blockade-against-iran-145712025.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7UreIveK3GFd6BGs0S02bA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/1f99bb40-36c2-11f1-beb6-45c5d82e07e8",
-    "pubDate": "2026-04-13T18:32:04+00:00"
   },
   {
     "title": "Call Of Duty's Iconic Ghost Shows Up In New Fanta Ad, Making People Wonder About 2026's Call Of Duty",
@@ -665,13 +665,6 @@
     "pubDate": "2026-04-13T16:46:00+00:00"
   },
   {
-    "title": "Pickmon, Not To Be Confused With Pokemon, Changes Its Name But Still Looks A Lot Like Pokemon",
-    "description": "Pickmon developer PocketGame has announced that it'll be changing the name of the game by swapping one consonant out for another. Now titled \"Pickmos,\" the studio claims this was done to \"better align\" with its brand identity, and not because the project bears a striking resemblance to Pokemon and Palworld. \"Since the beginning of development, we have been dedicated to building a unique and profound ecological world. To better align with our brand identity and lore, our title is officially changing--Pickmon to Pickmos,\" PocketGame wrote in a social media post. \"What does 'mos' represent? A complete ecosystem. A grand cosmos! This name carries a more powerful presence, acting as a better vessel for the fantasy adventure we are building for you.\" Curiously, creatures in Pickmos are still referred to as Pickmon, which might still land the game in Nintendo's legal crosshairs. While the idea of collecting creatures and sending them out to battle isn't the sole intellectual property of Nintendo and The Pokemon Company, there's no getting around just how blatant some of the Pickmon look when compared to Pokemon. A quick glance at the menagerie reveals creatures that look similar to well-known Pokemon like the series mascot Pikachu and other critters like Charizard, Lucario, and Xerneas. Pickmos has also been accused of using stolen Pokemon fanart by multiple \"fakemon\" fan artists. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/pickmon-not-to-be-confused-with-pokemon-changes-its-name-but-still-looks-a-lot-like-pokemon/1100-6539364/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-04-13T16:32:00+00:00"
-  },
-  {
     "title": "Chiffon Is the Secret to a Roll Cake That Doesn't Crack",
     "description": "Master this style of sponge and a whole new world of cakes opens up.",
     "link": "https://www.bonappetit.com/story/chiffon-bake-club",
@@ -684,6 +677,13 @@
     "link": "https://www.bonappetit.com/gallery/bon-appetit-april-may-2026-issue",
     "thumbnail": "https://assets.bonappetit.com/photos/698a6ac6f15840c20146722a/master/pass/gingery-pork-snap-pea-stir-fry_RECIPE_V4_012226_3920_VOG_final.jpg",
     "pubDate": "2026-04-13T16:00:00+00:00"
+  },
+  {
+    "title": "Earnings live updates: Johnson &amp; Johnson Q1 profit beats estimates, BlackRock touts strong start to year",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/article/earnings-live-updates-johnson--johnson-q1-profit-beats-estimates-blackrock-touts-strong-start-to-year-104416084.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/uXxuS4b12ymc2rfxcqAptw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/b211f54e-c604-4072-a279-df10f650e96e",
+    "pubDate": "2026-04-13T10:44:16+00:00"
   },
   {
     "title": "The Punjabi Truck Stop Serving Wyoming's Best Indian Food",
