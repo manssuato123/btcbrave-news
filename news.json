@@ -1,31 +1,80 @@
 [
   {
-    "title": "Homeland Security Expands Deportation Fleet With High-End Jets",
-    "description": "The contract for five planes doubles the Department of Homeland Security’s fleet of jets to expel immigrants, and includes two Gulfstream planes, according to documents and interviews.",
-    "link": "https://www.nytimes.com/2026/04/17/us/politics/homeland-security-gulfstream.html",
+    "title": "White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise",
+    "description": "Friday’s meeting at the White House followed the introduction of Anthropic’s powerful new artificial intelligence model, Mythos, which U.S. officials believe could be critical for security.",
+    "link": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
     "thumbnail": "",
-    "pubDate": "2026-04-17T22:46:04+00:00"
+    "pubDate": "2026-04-17T23:45:45+00:00"
   },
   {
-    "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
-    "description": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
-    "link": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108293554-17764623442026-04-17t194838z_1912925697_rc27rkandzod_rtrmadp_0_usa-anthropic.jpeg?v=1776462379&w=1920&h=1080",
-    "pubDate": "2026-04-17T22:39:32+00:00"
+    "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
+    "description": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.",
+    "link": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad0/live/9f4a1170-3a67-11f1-88e7-17b97289f7a3.jpg",
+    "pubDate": "2026-04-17T23:35:23+00:00"
   },
   {
     "title": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open",
     "description": "The Strait of Hormuz remained effectively closed despite Iran's declaration Friday that it is open, maritime freight and oil analysts told CNBC.",
     "link": "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108291528-1776227507402-gettyimages-2270887323-ir_strait_of_hormuz_apr07_2026_m4m.jpeg?v=1776461570&w=1920&h=1080",
-    "pubDate": "2026-04-17T22:34:34+00:00"
+    "pubDate": "2026-04-17T23:33:49+00:00"
+  },
+  {
+    "title": "Mortgage rates show signs of falling after Iran war peak",
+    "description": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war.",
+    "link": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27de/live/fa2d1d40-3a3e-11f1-826b-272fcb9e69bd.jpg",
+    "pubDate": "2026-04-17T23:33:10+00:00"
   },
   {
     "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
     "description": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
     "link": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108276391-1773186892442-gettyimages-2260125457-sk1_6091_df5c19kn.jpeg?v=1776444145&w=1920&h=1080",
-    "pubDate": "2026-04-17T22:32:32+00:00"
+    "pubDate": "2026-04-17T23:23:42+00:00"
+  },
+  {
+    "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
+    "description": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
+    "link": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108293554-17764623442026-04-17t194838z_1912925697_rc27rkandzod_rtrmadp_0_usa-anthropic.jpeg?v=1776462379&w=1920&h=1080",
+    "pubDate": "2026-04-17T23:22:57+00:00"
+  },
+  {
+    "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
+    "description": "Last year, the highest proportion of men aged 20-34 were still living at home since at least 2007 as the rising cost of living takes hold.",
+    "link": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/5cfbfc50-3a87-11f1-879d-1b2f5c3919b8.jpg",
+    "pubDate": "2026-04-17T23:16:33+00:00"
+  },
+  {
+    "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
+    "description": "Oracle, AMD and Microsoft had major benchmarks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor have all roared in April.",
+    "link": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108248910-1767724217022-gettyimages-2254260723-CES_2026.jpeg?v=1776434430&w=1920&h=1080",
+    "pubDate": "2026-04-17T23:15:41+00:00"
+  },
+  {
+    "title": "Trump Frames Iran War as All but Over in Optimistic Social Media Flurry",
+    "description": "Iranian officials did not confirm most of Mr. Trump’s claims and disputed several of them.",
+    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-17T23:11:04+00:00"
+  },
+  {
+    "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
+    "description": "The vote count continues to determine who will join conservative Keiko Fujimori in Peru's presidential run-off in June.",
+    "link": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69e2b446ab3ee-1776464966.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-17T22:47:21+00:00"
+  },
+  {
+    "title": "Homeland Security Expands Deportation Fleet With High-End Jets",
+    "description": "The contract for five planes doubles the Department of Homeland Security’s fleet of jets to expel immigrants, and includes two Gulfstream planes, according to documents and interviews.",
+    "link": "https://www.nytimes.com/2026/04/17/us/politics/homeland-security-gulfstream.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-17T22:46:05+00:00"
   },
   {
     "title": "Iran says Strait of Hormuz is 'open' but tracking shows few ships moving",
@@ -49,24 +98,17 @@
     "pubDate": "2026-04-17T21:56:47+00:00"
   },
   {
-    "title": "Trump Frames Iran War as All but Over in Optimistic Social Media Flurry",
-    "description": "Iranian officials did not confirm most of Mr. Trump’s claims and disputed several of them.",
-    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-17T21:52:11+00:00"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c6669-7e16-7fb4-9f62-9215e7a70fb0.jpg",
     "pubDate": "2026-04-17T21:50:14+00:00"
   },
   {
     "title": "The 2026 Street Fighter movie trailer is packed with Easter eggs",
     "description": "Capcom's upcoming Street Fighter movie is full of Easter eggs, fan references, and one bizarre Resident Evil crossover that might be a coincidence.",
     "link": "https://www.polygon.com/street-fighter-2026-trailer-easter-eggs/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/street-fighter-movie-akuma.jpg?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T21:45:41+00:00"
   },
   {
@@ -80,7 +122,7 @@
     "title": "Russia introduces bill to criminalize unregistered crypto services",
     "description": "Individuals and groups would be required to register with the Bank of Russia before offering certain crypto services, or potentially face fines and prison time.",
     "link": "https://cointelegraph.com/news/russia-criminalize-unregistered-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDlkMmQtMDU3ZC03YzE4LWExNjAtZTE3OWE1NjU2YWQ4LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9d2d-057d-7c18-a160-e179a5656ad8.jpg",
     "pubDate": "2026-04-17T21:33:01+00:00"
   },
   {
@@ -115,7 +157,7 @@
     "title": "Polymarket odds of Hormuz Strait traffic normalizing by end of May spike to 73%",
     "description": "Traders on the Polymarket prediction market platform place the odds of the Strait returning to normal traffic by May 31, 2026, at 73%.",
     "link": "https://cointelegraph.com/news/polymarket-strait-hormuz-return-normal-may-73?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDlkNDYtYTI5MS03YzE1LThhZjktMGYwMzNlZDYzZjMyLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9d46-a291-7c15-8af9-0f033ed63f32.jpg",
     "pubDate": "2026-04-17T21:12:19+00:00"
   },
   {
@@ -143,7 +185,7 @@
     "title": "Pragmata interactive maps",
     "description": "Our Pragmata interactive maps show you where to find every collectible, including upgrade materials and more",
     "link": "https://www.polygon.com/map/pragmata-interactive-solar-generator-mass-production-array-terra-dome/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/polygon-pragmata-maps-feature-image.png?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T20:41:13+00:00"
   },
   {
@@ -159,13 +201,6 @@
     "link": "https://www.nytimes.com/2026/04/17/us/politics/transgender-prisoners-appeals-court.html",
     "thumbnail": "",
     "pubDate": "2026-04-17T20:22:14+00:00"
-  },
-  {
-    "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
-    "description": "Oracle, AMD and Microsoft are on pace for historic weeks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April.",
-    "link": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108248910-1767724217022-gettyimages-2254260723-CES_2026.jpeg?v=1776434430&w=1920&h=1080",
-    "pubDate": "2026-04-17T20:21:55+00:00"
   },
   {
     "title": "Will the ceasefire in Lebanon hold?",
@@ -213,22 +248,15 @@
     "title": "Marvel's classic Vampire Tales comics get a gorgeous collection",
     "description": "No Blade? No problem. Marvel and Dark Horse are teaming up to bring the classic Vampire Tales comics to modern readers.",
     "link": "https://www.polygon.com/marvels-vampire-tales-receives-a-new-edition/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/vampire-tales-comic.jpg?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T20:04:10+00:00"
   },
   {
     "title": "All unlockable buildings in Tomodachi Life: Living the Dream",
     "description": "There are 13 non-residential buildings to unlock in Tomodachi Life: Living the Dream. Here's a list of them and what they do.",
     "link": "https://www.polygon.com/tomodachi-life-living-the-dream-buildings-list-unlock/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/obs64_2026-04-17_15-05-24.jpg?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T20:00:38+00:00"
-  },
-  {
-    "title": "UN warns South Sudan at risk of ‘full-scale famine’ as fighting intensifies",
-    "description": "UN aid chief Tom Fletcher says hunger is tightening its grip amid rising humanitarian needs and intensifying fighting.",
-    "link": "https://www.aljazeera.com/news/2026/4/17/un-warns-south-sudan-at-risk-of-full-scale-famine-as-fighting-intensifies?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260218__97UR4EG__v1__MidRes__SsudanConflictDisplacement-1772996050.jpg?resize=1200%2C630",
-    "pubDate": "2026-04-17T19:59:26+00:00"
   },
   {
     "title": "Three things to know about FISA Section 702: Congress passes short-term extension of controversial surveillance program",
@@ -248,7 +276,7 @@
     "title": "Best new Xbox Game Pass games to play this weekend (April 17-19)",
     "description": "We have a variety of Xbox Game Pass recommendations to save you from endlessly searching for something new to play.",
     "link": "https://www.polygon.com/best-xbox-game-pass-april-17/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/melinoe.jpg?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T19:30:19+00:00"
   },
   {
@@ -262,21 +290,21 @@
     "title": "Final Fantasy 7 Ascend the Shinra Building board game release date, price, and details",
     "description": "Square Enix’s Final Fantasy 7 board game recreates the Shinra Building climb with a cooperative balancing twist.",
     "link": "https://www.polygon.com/final-fantasy-7-ascend-the-shinra-building-board-game-announcement/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/14.png?w=1200&h=675&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T19:27:40+00:00"
   },
   {
     "title": "US Senator asks for Binance monitor update amid scrutiny of Iran sanctions",
     "description": "A letter from US Senator Richard Blumenthal said he was concerned about “mounting allegations of dangerously lax anti-money laundering prevention by Binance.”",
     "link": "https://cointelegraph.com/news/us-senator-binance-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDljNjUtZmFmMC03NmMwLTk1Y2QtOWI5ZDdiMjNmMzg2LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c65-faf0-76c0-95cd-9b9d7b23f386.jpg",
     "pubDate": "2026-04-17T19:22:53+00:00"
   },
   {
     "title": "Ether accumulation wallet balances increased by 33%: Is a rally to $3K next?",
     "description": "A confirmed cup-and-handle breakout on Ether’s chart and a double-digit increase in ETH accumulation wallet balances could be earlier signs of a longer-term rally for the altcoin.",
     "link": "https://cointelegraph.com/news/ether-accumulation-wallet-balances-increased-by-33percent-is-a-rally-to-dollar3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliZjAtZmFjNC03NzA0LTkyOWUtNDkzNDExZmI4OWNjLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9bf0-fac4-7704-929e-493411fb89cc.jpg",
     "pubDate": "2026-04-17T19:14:41+00:00"
   },
   {
@@ -290,14 +318,14 @@
     "title": "Psychonauts 2's best moment is a single line near the end",
     "description": "Psychonauts 2's PSI-King Sensorium level is when the platformer's message about mental health finally comes into focus",
     "link": "https://www.polygon.com/psychonauts-2-psi-king-helmut-fullbear-memories-my-boy/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/psychonauts-2-psi-king-helmut-fullbear.jpg?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T19:01:19+00:00"
   },
   {
     "title": "The best new movies on Netflix, HBO and streaming right now (April 17-19)",
     "description": "Dust Bunny arrives on HBO Max, Shelby Oaks comes to Hulu, and Night Patrol stalks Shudder.",
     "link": "https://www.polygon.com/new-movies-to-watch-dust-bunny-night-patrol-undertone-april-17-2026/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/unnamed.png?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T19:01:19+00:00"
   },
   {
@@ -311,7 +339,7 @@
     "title": "BAFTA Games Awards 2026 winners announced: the full list",
     "description": "Will Clair Obscur: Expedition 33 continue its GOTY streak? Here are BAFTA's picks for games of the year.",
     "link": "https://www.polygon.com/bafta-games-awards-2026-winners/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/clair-obscur-expedition-33-gustave-exploration.jpg?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T18:47:51+00:00"
   },
   {
@@ -320,13 +348,6 @@
     "link": "https://www.nytimes.com/2026/04/17/world/canada/carney-investors-summit-canada-us-trade.html",
     "thumbnail": "",
     "pubDate": "2026-04-17T18:47:35+00:00"
-  },
-  {
-    "title": "Lutnick Says Canada Trade Deal Needs to Be Reworked Ahead of Talks",
-    "description": "Howard Lutnick, President Trump’s commerce secretary, derided Canada’s trade strategy and said a North American deal needed to be reworked.",
-    "link": "https://www.nytimes.com/2026/04/17/world/canada/trump-lutnick-canada-us-talks-trade-deal.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-17T18:45:40+00:00"
   },
   {
     "title": "Trump Is Urged to Act on Iranian Site Feared Impervious to Airstrikes",
@@ -339,22 +360,15 @@
     "title": "Crypto market liquidations hit $820M as Bitcoin price taps $78K",
     "description": "Nearly a billion dollars in leveraged crypto positions were liquidated in the past 24 hours as the Bitcoin price rallied above $78,000.",
     "link": "https://cointelegraph.com/news/crypto-liquidations-hit-820m-as-bitcoin-price-taps-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDljOTctYmVlNy03MDhkLWJmY2EtNTRiZDlkMDcyMTNlLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c97-bee7-708d-bfca-54bd9d07213e.jpg",
     "pubDate": "2026-04-17T18:27:18+00:00"
   },
   {
     "title": "Kraken's parent company to acquire CFTC-regulated exchange Bitnomial",
     "description": "Payward, the parent company of the Kraken crypto exchange, cited Bitnomial's regulatory licenses as the primary driver for the acquisition.",
     "link": "https://cointelegraph.com/news/kraken-parent-acquire-cftc-bitnomial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwNTAtN2UyZC03M2NiLTkzOTgtM2QxNTljYzJhOWRh.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019ae050-7e2d-73cb-9398-3d159cc2a9da",
     "pubDate": "2026-04-17T18:27:00+00:00"
-  },
-  {
-    "title": "Kanye West concert in Poland cancelled over antisemitic comments",
-    "description": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
-    "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810c/live/db3a3a80-3a7f-11f1-850e-07c4418cf86c.jpg",
-    "pubDate": "2026-04-17T18:19:10+00:00"
   },
   {
     "title": "One Of The Best Call Of Duty Games Just Came To Game Pass",
@@ -395,14 +409,14 @@
     "title": "Price predictions 4/17: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK",
     "description": "Bitcoin pole vaulted to $78,000 and altcoins soared after Iran said that the Strait of Hormuz was fully open. Will bulls be able to sustain the upward momentum?",
     "link": "https://cointelegraph.com/news/price-predictions-4-17-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDljNTUtMmEyNC03MWI3LTkyYzQtZWM2NjU0MWE4NGYxLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c55-2a24-71b7-92c4-ec66541a84f1.jpg",
     "pubDate": "2026-04-17T17:37:07+00:00"
   },
   {
     "title": "Singapore Gulf Bank adds stablecoin mint and redeem for 24/7 settlement",
     "description": "The Bahrain-based lender lets institutional clients convert fiat currency to US dollar-pegged stablecoins directly from their accounts.",
     "link": "https://cointelegraph.com/news/singapore-gulf-bank-stablecoin-mint-redeem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDljN2YtOWYwOC03NzM3LWE0NmUtZjFiYjViNmE2MGZhLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c7f-9f08-7737-a46e-f1bb5b6a60fa.jpg",
     "pubDate": "2026-04-17T17:33:41+00:00"
   },
   {
@@ -423,14 +437,14 @@
     "title": "French finance minister backs euro-pegged stablecoins to compete with US",
     "description": "The country's finance minister supported the Qivalis initiative, launched in 2025, to create a euro-pegged stablecoin under the MiCA framework.",
     "link": "https://cointelegraph.com/news/french-finance-minister-euro-pegged-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliZTctZTNhMC03ODhmLWFlOWMtN2I0ZTVkY2MyMTU5LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9be7-e3a0-788f-ae9c-7b4e5dcc2159.jpg",
     "pubDate": "2026-04-17T17:14:20+00:00"
   },
   {
     "title": "Ex-Marvel artists speak out on Disney layoffs, possible AI use in MCU",
     "description": "As Avengers: Doomsday readies for theaters, Marvel Studios artists have been laid off — and employees are spooked by the implications.",
     "link": "https://www.polygon.com/marvel-studios-artists-disney-layoffs/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3422618/a62a0389535b47ca8ee3626096c51479b89bf986016a2516125f6f446d7cd89b_facebook.0.jpeg?w=1600&h=900&fit=crop",
+    "thumbnail": "",
     "pubDate": "2026-04-17T17:00:18+00:00"
   },
   {
@@ -483,13 +497,6 @@
     "pubDate": "2026-04-17T15:54:00+00:00"
   },
   {
-    "title": "Hope Street actor Finnian Garbutt dies aged 28",
-    "description": "The actor, known for his role in BBC police drama Hope Street, has died \"peacefully at home\".",
-    "link": "https://www.bbc.com/news/articles/cedepz85l0lo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdda/live/954d8240-39d8-11f1-a67b-8b064a7007d7.jpg",
-    "pubDate": "2026-04-17T15:47:18+00:00"
-  },
-  {
     "title": "Netflix was long 'a builder not a buyer.' Is that era over?",
     "description": "Netflix co-CEO Ted Sarandos said during an investor call that the company built its \"M&amp;A muscle\" during its pursuit of WBD's assets.",
     "link": "https://www.cnbc.com/2026/04/17/netflix-mergers-m-a-strategy.html",
@@ -502,13 +509,6 @@
     "link": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bdd4cc72ae9687e69754f184abad15fc93084a8e-5829x3878.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-04-17T15:29:03+00:00"
-  },
-  {
-    "title": "Nursery worker jailed over death of toddler restrained during nap time",
-    "description": "Noah Sibanda died \"alone, scared and in pain\", his mother says.",
-    "link": "https://www.bbc.com/news/articles/ckgwp7kgrgxo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/353f/live/0786e1d0-3a79-11f1-8606-05fe34b06e1b.png",
-    "pubDate": "2026-04-17T15:26:24+00:00"
   },
   {
     "title": "Bessent says to adjust your paycheck withholding — but mistakes could trigger a tax bill, experts caution",
@@ -574,59 +574,59 @@
     "pubDate": "2026-04-16T16:47:00+00:00"
   },
   {
-    "title": "Microsoft Stock Warning: Why Piper Sandler Analysts Just Slashed Their MSFT Price Target by More Than 15%",
+    "title": "Delta Air (DAL) Still Has to Deal With Crunch Despite Having a Great CEO, Says Jim Cramer",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-warning-why-piper-152403647.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/YGJZTPylZQoDogB7AwnNrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/33c5d3ff84b8329590939225add2955c",
-    "pubDate": "2026-04-16T15:24:03+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/delta-air-dal-still-deal-164509260.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/_2DbtItXRrLK3.CDOPDN.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/c34f07b73bbd19241264bdd133ec9bbf",
+    "pubDate": "2026-04-16T16:45:09+00:00"
   },
   {
-    "title": "The TJX Companies, Inc. (TJX) Board Raises Quarterly Dividend",
+    "title": "‘Cheaper than a Mercedes’: Americans are pining for Great Recession-era home bargains — and some are hoping for a repeat",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-inc-tjx-board-151942271.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/679da589a9115fc9865ac003f38bef7d",
-    "pubDate": "2026-04-16T15:19:42+00:00"
+    "link": "https://finance.yahoo.com/economy/articles/cheaper-mercedes-americans-pining-great-164500572.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/PbfOQILwJuh6MeQGdqgDRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/78a92ce03eb114788d042d8b5e2f9679",
+    "pubDate": "2026-04-16T16:45:00+00:00"
   },
   {
-    "title": "Telsey Advisory Keeps an Outperform Rating on Burlington Stores, Inc. (BURL)",
+    "title": "Grandma tells Trump the Big Beautiful Bill protected $11,000 from the taxman – How you can pay less in taxes, too.",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/telsey-advisory-keeps-outperform-rating-151931044.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/1db62b93ee465279e942e09a1f480014",
-    "pubDate": "2026-04-16T15:19:31+00:00"
+    "link": "https://finance.yahoo.com/economy/policy/articles/grandma-tells-trump-big-beautiful-164500124.html",
+    "thumbnail": "https://s.yimg.com/os/en/moneywise_ecomm_711/68d2b19fe0e577963cd7e20115450f97",
+    "pubDate": "2026-04-16T16:45:00+00:00"
   },
   {
-    "title": "Gap (GAP) Plans to Open 50 China Stores",
+    "title": "Jim Cramer Isn’t Impressed With Morgan Stanley’s Arm (ARM) Coverage",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/gap-gap-plans-open-50-151916187.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/1e7bfb92e80e7bae5b10b5f5cf8f3966",
-    "pubDate": "2026-04-16T15:19:16+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-isn-t-impressed-164453006.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8",
+    "pubDate": "2026-04-16T16:44:53+00:00"
   },
   {
-    "title": "Jefferies Raises to Buy from Hold on Boot Barn Holdings, Inc. (BOOT)",
+    "title": "Jim Cramer Still Hasn’t Figured Out Why NVIDIA (NVDA) Stock is Down",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-raises-buy-hold-boot-151846416.html",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-still-hasn-t-164445479.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/6857607624d018154569190d8bf2f815",
+    "pubDate": "2026-04-16T16:44:45+00:00"
+  },
+  {
+    "title": "General Dynamics (GD) Should Be a Buy Amidst Iran War, Says Jim Cramer",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-buy-amidst-164433630.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/b51d4083c48c068654f8ae5eac5e8ac2",
+    "pubDate": "2026-04-16T16:44:33+00:00"
+  },
+  {
+    "title": "Jim Cramer Discusses RTX Corporation (RTX) Stock Amidst Iran War",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-rtx-corporation-164415589.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/b17124e8173b56c40a8fa07d1a27f287",
+    "pubDate": "2026-04-16T16:44:15+00:00"
+  },
+  {
+    "title": "Jim Cramer Wonders Whether It’s Time to Buy The TJX Companies (TJX)",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wonders-whether-time-164404766.html",
     "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/67cff21777fa7eb47bfb2e3d88ac811d",
-    "pubDate": "2026-04-16T15:18:46+00:00"
-  },
-  {
-    "title": "Is Abercrombie &amp; Fitch Co. (ANF) One of the Best Apparel Stocks to Buy in 2026?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-co-anf-one-151833268.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Lb28Y2XUW5V4qjTv8mjQwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Njk-/https://media.zenfs.com/en/insidermonkey.com/4fe711a985904803a473ca52e891d579",
-    "pubDate": "2026-04-16T15:18:33+00:00"
-  },
-  {
-    "title": "BofA Maintains a Neutral Rating on Victoria’s Secret &amp; Co. (VSCO)",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-maintains-neutral-rating-victoria-151826353.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/6c65f518f34f87dc46e31a11a3e4050c",
-    "pubDate": "2026-04-16T15:18:26+00:00"
-  },
-  {
-    "title": "Is Buckle, Inc. (BKE) Among the Best Apparel Stocks to Buy in 2026?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/buckle-inc-bke-among-best-151809696.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ydoGUhd3BSDFWWx61KfZ3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/insidermonkey.com/f4c0b2607c91af2e3810df1e51fcad60",
-    "pubDate": "2026-04-16T15:18:09+00:00"
+    "pubDate": "2026-04-16T16:44:04+00:00"
   }
 ]
