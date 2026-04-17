@@ -1,24 +1,52 @@
 [
   {
-    "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
-    "description": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
-    "link": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108276391-1773186892442-gettyimages-2260125457-sk1_6091_df5c19kn.jpeg?v=1776444145&w=1920&h=1080",
-    "pubDate": "2026-04-17T21:55:32+00:00"
+    "title": "Homeland Security Expands Deportation Fleet With High-End Jets",
+    "description": "The contract for five planes doubles the Department of Homeland Security’s fleet of jets to expel immigrants, and includes two Gulfstream planes, according to documents and interviews.",
+    "link": "https://www.nytimes.com/2026/04/17/us/politics/homeland-security-gulfstream.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-17T22:46:04+00:00"
   },
   {
     "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
     "description": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
     "link": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108293554-17764623442026-04-17t194838z_1912925697_rc27rkandzod_rtrmadp_0_usa-anthropic.jpeg?v=1776462379&w=1920&h=1080",
-    "pubDate": "2026-04-17T21:54:50+00:00"
+    "pubDate": "2026-04-17T22:39:32+00:00"
+  },
+  {
+    "title": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open",
+    "description": "The Strait of Hormuz remained effectively closed despite Iran's declaration Friday that it is open, maritime freight and oil analysts told CNBC.",
+    "link": "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108291528-1776227507402-gettyimages-2270887323-ir_strait_of_hormuz_apr07_2026_m4m.jpeg?v=1776461570&w=1920&h=1080",
+    "pubDate": "2026-04-17T22:34:34+00:00"
+  },
+  {
+    "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
+    "description": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
+    "link": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108276391-1773186892442-gettyimages-2260125457-sk1_6091_df5c19kn.jpeg?v=1776444145&w=1920&h=1080",
+    "pubDate": "2026-04-17T22:32:32+00:00"
   },
   {
     "title": "Iran says Strait of Hormuz is 'open' but tracking shows few ships moving",
     "description": "US President Donald Trump welcomed Tehran's announcement but said the US naval blockade would continue until a peace deal was reached.",
     "link": "https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5ab/live/c7d2fb60-3a9f-11f1-92cb-7d6bf9d113a8.jpg",
-    "pubDate": "2026-04-17T21:54:20+00:00"
+    "pubDate": "2026-04-17T22:26:00+00:00"
+  },
+  {
+    "title": "US judge blocks Justice Department bid to seize voter data in Rhode Island",
+    "description": "Ruling is latest loss for Trump administration, which has sought access to state voter data ahead of the US midterms.",
+    "link": "https://www.aljazeera.com/news/2026/4/17/us-judge-blocks-justice-department-bid-to-seize-voter-data-in-rhode-island?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69e2972a44-1776457514.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-17T22:07:16+00:00"
+  },
+  {
+    "title": "Trump seeks ‘resolution’ of his $10bn lawsuit against IRS, spurring concern",
+    "description": "Critics warn that Trump could arrange his own settlement by negotiating with a US Justice Department under his control.",
+    "link": "https://www.aljazeera.com/news/2026/4/17/trump-seeks-resolution-of-his-10bn-lawsuit-against-irs-spurring-concern?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69e2a6d4e5dce-1776461524.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-17T21:56:47+00:00"
   },
   {
     "title": "Trump Frames Iran War as All but Over in Optimistic Social Media Flurry",
@@ -26,6 +54,13 @@
     "link": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html",
     "thumbnail": "",
     "pubDate": "2026-04-17T21:52:11+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
+    "pubDate": "2026-04-17T21:50:14+00:00"
   },
   {
     "title": "The 2026 Street Fighter movie trailer is packed with Easter eggs",
@@ -45,7 +80,7 @@
     "title": "Russia introduces bill to criminalize unregistered crypto services",
     "description": "Individuals and groups would be required to register with the Bank of Russia before offering certain crypto services, or potentially face fines and prison time.",
     "link": "https://cointelegraph.com/news/russia-criminalize-unregistered-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9d2d-057d-7c18-a160-e179a5656ad8.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDlkMmQtMDU3ZC03YzE4LWExNjAtZTE3OWE1NjU2YWQ4LmpwZw==.jpg",
     "pubDate": "2026-04-17T21:33:01+00:00"
   },
   {
@@ -80,7 +115,7 @@
     "title": "Polymarket odds of Hormuz Strait traffic normalizing by end of May spike to 73%",
     "description": "Traders on the Polymarket prediction market platform place the odds of the Strait returning to normal traffic by May 31, 2026, at 73%.",
     "link": "https://cointelegraph.com/news/polymarket-strait-hormuz-return-normal-may-73?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9d46-a291-7c15-8af9-0f033ed63f32.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDlkNDYtYTI5MS03YzE1LThhZjktMGYwMzNlZDYzZjMyLmpwZw==.jpg",
     "pubDate": "2026-04-17T21:12:19+00:00"
   },
   {
@@ -234,29 +269,15 @@
     "title": "US Senator asks for Binance monitor update amid scrutiny of Iran sanctions",
     "description": "A letter from US Senator Richard Blumenthal said he was concerned about “mounting allegations of dangerously lax anti-money laundering prevention by Binance.”",
     "link": "https://cointelegraph.com/news/us-senator-binance-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c65-faf0-76c0-95cd-9b9d7b23f386.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDljNjUtZmFmMC03NmMwLTk1Y2QtOWI5ZDdiMjNmMzg2LmpwZw==.jpg",
     "pubDate": "2026-04-17T19:22:53+00:00"
-  },
-  {
-    "title": "US Congress extends controversial surveillance power under FISA for 10 days",
-    "description": "The measure has long been criticised for allowing US intelligence agencies to collect citizen data without a warrant.",
-    "link": "https://www.aljazeera.com/news/2026/4/17/us-congress-temporarily-extends-controversial-surveillance-power-under-fisa?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69e27a4d-1776450125.jpg?resize=1920%2C1440",
-    "pubDate": "2026-04-17T19:20:08+00:00"
   },
   {
     "title": "Ether accumulation wallet balances increased by 33%: Is a rally to $3K next?",
     "description": "A confirmed cup-and-handle breakout on Ether’s chart and a double-digit increase in ETH accumulation wallet balances could be earlier signs of a longer-term rally for the altcoin.",
     "link": "https://cointelegraph.com/news/ether-accumulation-wallet-balances-increased-by-33percent-is-a-rally-to-dollar3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9bf0-fac4-7704-929e-493411fb89cc.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliZjAtZmFjNC03NzA0LTkyOWUtNDkzNDExZmI4OWNjLmpwZw==.jpg",
     "pubDate": "2026-04-17T19:14:41+00:00"
-  },
-  {
-    "title": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
-    "description": "Politicians and industry welcome reopening of the vital waterway after throttling of traffic caused oil prices to spike.",
-    "link": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-15T185247Z_1216729001_RC2B2KAX6KP6_RTRMADP_3_IRAN-CRISIS-SHIPPING-HORMUZ-1776443177.jpg?resize=1200%2C630",
-    "pubDate": "2026-04-17T19:10:36+00:00"
   },
   {
     "title": "Perspective: AI demand is inflated, and only Anthropic is being realistic",
@@ -318,14 +339,14 @@
     "title": "Crypto market liquidations hit $820M as Bitcoin price taps $78K",
     "description": "Nearly a billion dollars in leveraged crypto positions were liquidated in the past 24 hours as the Bitcoin price rallied above $78,000.",
     "link": "https://cointelegraph.com/news/crypto-liquidations-hit-820m-as-bitcoin-price-taps-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c97-bee7-708d-bfca-54bd9d07213e.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDljOTctYmVlNy03MDhkLWJmY2EtNTRiZDlkMDcyMTNlLmpwZw==.jpg",
     "pubDate": "2026-04-17T18:27:18+00:00"
   },
   {
     "title": "Kraken's parent company to acquire CFTC-regulated exchange Bitnomial",
     "description": "Payward, the parent company of the Kraken crypto exchange, cited Bitnomial's regulatory licenses as the primary driver for the acquisition.",
     "link": "https://cointelegraph.com/news/kraken-parent-acquire-cftc-bitnomial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019ae050-7e2d-73cb-9398-3d159cc2a9da",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwNTAtN2UyZC03M2NiLTkzOTgtM2QxNTljYzJhOWRh.jpg",
     "pubDate": "2026-04-17T18:27:00+00:00"
   },
   {
@@ -371,24 +392,17 @@
     "pubDate": "2026-04-17T17:38:00+00:00"
   },
   {
-    "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
-    "description": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
-    "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-17T17:37:10+00:00"
-  },
-  {
     "title": "Price predictions 4/17: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK",
     "description": "Bitcoin pole vaulted to $78,000 and altcoins soared after Iran said that the Strait of Hormuz was fully open. Will bulls be able to sustain the upward momentum?",
     "link": "https://cointelegraph.com/news/price-predictions-4-17-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c55-2a24-71b7-92c4-ec66541a84f1.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDljNTUtMmEyNC03MWI3LTkyYzQtZWM2NjU0MWE4NGYxLmpwZw==.jpg",
     "pubDate": "2026-04-17T17:37:07+00:00"
   },
   {
     "title": "Singapore Gulf Bank adds stablecoin mint and redeem for 24/7 settlement",
     "description": "The Bahrain-based lender lets institutional clients convert fiat currency to US dollar-pegged stablecoins directly from their accounts.",
     "link": "https://cointelegraph.com/news/singapore-gulf-bank-stablecoin-mint-redeem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c7f-9f08-7737-a46e-f1bb5b6a60fa.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDljN2YtOWYwOC03NzM3LWE0NmUtZjFiYjViNmE2MGZhLmpwZw==.jpg",
     "pubDate": "2026-04-17T17:33:41+00:00"
   },
   {
@@ -409,7 +423,7 @@
     "title": "French finance minister backs euro-pegged stablecoins to compete with US",
     "description": "The country's finance minister supported the Qivalis initiative, launched in 2025, to create a euro-pegged stablecoin under the MiCA framework.",
     "link": "https://cointelegraph.com/news/french-finance-minister-euro-pegged-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9be7-e3a0-788f-ae9c-7b4e5dcc2159.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliZTctZTNhMC03ODhmLWFlOWMtN2I0ZTVkY2MyMTU5LmpwZw==.jpg",
     "pubDate": "2026-04-17T17:14:20+00:00"
   },
   {
@@ -446,6 +460,13 @@
     "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2716/live/25b6f680-3a48-11f1-b0ac-b54021fa6ada.png",
     "pubDate": "2026-04-17T16:23:47+00:00"
+  },
+  {
+    "title": "Rumeysa Ozturk, Tufts Student Held in Immigration Detention, Returns to Turkey",
+    "description": "Rumeysa Ozturk, who was detained for weeks by the Trump administration after co-writing a pro-Palestinian opinion essay, has graduated and returned home.",
+    "link": "https://www.nytimes.com/2026/04/17/us/tufts-student-rumeysa-ozturk-returns-turkey.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-17T16:14:51+00:00"
   },
   {
     "title": "Beaten-down digital asset treasury names lead crypto stock surge as bitcoin hits $78,000",
@@ -497,25 +518,11 @@
     "pubDate": "2026-04-17T15:01:15+00:00"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c6669-7e16-7fb4-9f62-9215e7a70fb0.jpg",
-    "pubDate": "2026-04-17T14:14:01+00:00"
-  },
-  {
     "title": "Back in the black: Strategy surges 8% as bitcoin's rise to $77,000 puts holdings in profit",
     "description": "Bitcoin climbed above its 100-day moving average, while Strategy moves back above its 200-week trend level.",
     "link": "https://www.coindesk.com/markets/2026/04/17/strategy-back-in-profit-as-bitcoin-hits-two-and-a-half-month-high-above-usd76-300",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e0b3f47a11f708d059ae0c66347141f268b3efcd-6000x3376.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-04-17T13:38:00+00:00"
-  },
-  {
-    "title": "House Dem Sam Liccardo probes suspicious oil trades during Iran war",
-    "description": "A number of well-timed trades during the war have caught the attention of lawmakers and regulators.",
-    "link": "https://www.cnbc.com/2026/04/17/house-dem-probe-iran-war-trades-suspicious.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108292863-1776375371435-gettyimages-2204408124-dem_retreat_456_031325.jpeg?v=1776396055&w=1920&h=1080",
-    "pubDate": "2026-04-17T13:30:01+00:00"
   },
   {
     "title": "CoinDesk 20 performance update: Stellar (XLM) gains 1.5%, leading index higher",
@@ -553,13 +560,6 @@
     "pubDate": "2026-04-17T11:16:56+00:00"
   },
   {
-    "title": "The 27-Year-Old Diplomat Waging Trump’s Cultural War With Europe",
-    "description": "Five years out of college, Samuel Samson has driven the Trump administration’s push to upend America’s postwar relationship with Europe.",
-    "link": "https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-17T09:07:36+00:00"
-  },
-  {
     "title": "127-year-old retailer confirms more cuts in 2026",
     "description": "",
     "link": "https://finance.yahoo.com/markets/stocks/articles/127-old-retailer-confirms-more-231700401.html",
@@ -574,59 +574,59 @@
     "pubDate": "2026-04-16T16:47:00+00:00"
   },
   {
-    "title": "Pros and cons of debt consolidation: Is it a good idea?",
+    "title": "Microsoft Stock Warning: Why Piper Sandler Analysts Just Slashed Their MSFT Price Target by More Than 15%",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/pros-cons-debt-consolidation-023018479.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/u08mx96q21NjM3KZGs6K1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/38e2c47a92bb868ef47ce84c244b4a9e",
-    "pubDate": "2026-04-16T14:27:31+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-warning-why-piper-152403647.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/YGJZTPylZQoDogB7AwnNrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/33c5d3ff84b8329590939225add2955c",
+    "pubDate": "2026-04-16T15:24:03+00:00"
   },
   {
-    "title": "When to use a personal loan to pay off credit card debt",
+    "title": "The TJX Companies, Inc. (TJX) Board Raises Quarterly Dividend",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/personal-loan-pay-off-credit-213800213.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/bEYO2DFelu_tz6ABFY4wcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/3aec06571dc5522e5fd94c92505521ad",
-    "pubDate": "2026-04-16T14:25:57+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-inc-tjx-board-151942271.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/679da589a9115fc9865ac003f38bef7d",
+    "pubDate": "2026-04-16T15:19:42+00:00"
   },
   {
-    "title": "Bank of England says it is testing AI risks to financial system",
+    "title": "Telsey Advisory Keeps an Outperform Rating on Burlington Stores, Inc. (BURL)",
     "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/bank-england-says-testing-ai-142517397.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/b71b394b939e6ac919509c04e340346f",
-    "pubDate": "2026-04-16T14:25:17+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/telsey-advisory-keeps-outperform-rating-151931044.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/1db62b93ee465279e942e09a1f480014",
+    "pubDate": "2026-04-16T15:19:31+00:00"
   },
   {
-    "title": "Fidelity National Earnings Preview: What to Expect",
+    "title": "Gap (GAP) Plans to Open 50 China Stores",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/fidelity-national-earnings-preview-expect-142417779.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/2695287ea49b1fdbbd8e2df66d0145c8",
-    "pubDate": "2026-04-16T14:24:17+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/gap-gap-plans-open-50-151916187.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/1e7bfb92e80e7bae5b10b5f5cf8f3966",
+    "pubDate": "2026-04-16T15:19:16+00:00"
   },
   {
-    "title": "Should you get a personal loan? Here are the pros and cons",
+    "title": "Jefferies Raises to Buy from Hold on Boot Barn Holdings, Inc. (BOOT)",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/pros-cons-personal-loans-233832623.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7Au_XSfz_N21FOoXoK8wBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/2763c923a931faa2665ea4a9dcaadd73",
-    "pubDate": "2026-04-16T14:23:02+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-raises-buy-hold-boot-151846416.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/67cff21777fa7eb47bfb2e3d88ac811d",
+    "pubDate": "2026-04-16T15:18:46+00:00"
   },
   {
-    "title": "JB Hunt Stock Breaks Out After First Sales Gain Since 2022",
+    "title": "Is Abercrombie &amp; Fitch Co. (ANF) One of the Best Apparel Stocks to Buy in 2026?",
     "description": "",
-    "link": "https://www.investors.com/news/jb-hunt-stock-earnings-first-sales-gain/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2020/04/Stock-JB-Hunt-02-adobe.jpg",
-    "pubDate": "2026-04-16T14:20:35+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-co-anf-one-151833268.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Lb28Y2XUW5V4qjTv8mjQwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Njk-/https://media.zenfs.com/en/insidermonkey.com/4fe711a985904803a473ca52e891d579",
+    "pubDate": "2026-04-16T15:18:33+00:00"
   },
   {
-    "title": "Stocks Pressured by Weakness in Chipmakers",
+    "title": "BofA Maintains a Neutral Rating on Victoria’s Secret &amp; Co. (VSCO)",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-weakness-chipmakers-141820985.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/euWistm.kKXxxrJp52WMtA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/7038ce206a3ff0dfdc47b6757729c843",
-    "pubDate": "2026-04-16T14:18:20+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-maintains-neutral-rating-victoria-151826353.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/6c65f518f34f87dc46e31a11a3e4050c",
+    "pubDate": "2026-04-16T15:18:26+00:00"
   },
   {
-    "title": "How Should You Trade Marvell Technology Stock at New Record Highs?",
+    "title": "Is Buckle, Inc. (BKE) Among the Best Apparel Stocks to Buy in 2026?",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/trade-marvell-technology-stock-record-141502195.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/16apesw_9KZEAwrcN2wsSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/barchart_com_477/e486166e0d3b77f6493f2f94956e65d9",
-    "pubDate": "2026-04-16T14:15:02+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/buckle-inc-bke-among-best-151809696.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ydoGUhd3BSDFWWx61KfZ3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/insidermonkey.com/f4c0b2607c91af2e3810df1e51fcad60",
+    "pubDate": "2026-04-16T15:18:09+00:00"
   }
 ]
