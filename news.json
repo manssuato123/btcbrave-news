@@ -1,5 +1,54 @@
 [
   {
+    "title": "DOJ indictment accuses Southern Poverty Law Center of fraud in secretly funding extremist groups",
+    "description": "",
+    "link": "https://www.cnbc.com/2026/04/21/doj-southern-poverty-law-center-indictment-extremist.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108295003-1776807429079-gettyimages-2271874363-AFP_A8KD9RC.jpeg?v=1776808285&w=1920&h=1080",
+    "pubDate": "2026-04-21T21:40:34+00:00"
+  },
+  {
+    "title": "Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo",
+    "description": "A U.S. aid worker said that the Afghans, who were evacuated to Qatar, would face a choice between moving to the Democratic Republic of Congo and living under the Taliban.",
+    "link": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-21T21:36:32+00:00"
+  },
+  {
+    "title": "Sheila Cherfilus-McCormick, a Florida Democrat, Resigns From Congress",
+    "description": "Sheila Cherfilus-McCormick stands accused of stealing $5 million in federal funds. She said she would step down minutes before an ethics panel was to vote on whether to recommend expelling her.",
+    "link": "https://www.nytimes.com/2026/04/21/us/politics/cherfilus-mccormick-florida.html",
+    "thumbnail": "",
+    "pubDate": "2026-04-21T21:24:38+00:00"
+  },
+  {
+    "title": "Myanmar’s military government rebuffed on peace talks offer",
+    "description": "Min Aung Hlaing elected by parliament as president earlier this month after election derided as a sham.",
+    "link": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26100199807690-1776801788.jpg?resize=1200%2C675",
+    "pubDate": "2026-04-21T21:21:37+00:00"
+  },
+  {
+    "title": "Trump extends ceasefire in Iran, citing 'seriously fractured' Iranian government",
+    "description": "Trump's announcement came after an expected trip by Vice President JD Vance to Pakistan for a peace talks with Iranian officials was put on hold.",
+    "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108293256-1776803525589-108293256-1776441277144-gettyimages-2271072130-TRUMP_DEPART_WH.jpeg?v=1776803543&w=1920&h=1080",
+    "pubDate": "2026-04-21T21:13:47+00:00"
+  },
+  {
+    "title": "Trump recounts Tim Cook call to 'kiss my ass,' in stark look at White House dealmaking",
+    "description": "Tech executives from Amazon, Apple, Google and Meta have dined with Trump and donated millions to his inauguration fund and the White House ballroom.",
+    "link": "https://www.cnbc.com/2026/04/21/trump-tim-cook-call-white-house-deals.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/105812214-1553514226501rtx6pz52.jpg?v=1573245475&w=1920&h=1080",
+    "pubDate": "2026-04-21T21:04:19+00:00"
+  },
+  {
+    "title": "Boy, 17, pleads guilty to synagogue arson attack",
+    "description": "Accelerant was thrown through the window of Kenton United Synagogue on Saturday night.",
+    "link": "https://www.bbc.com/news/articles/c86exglegwno?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc63/live/12039d70-3bcc-11f1-9278-4d3af542c6a1.jpg",
+    "pubDate": "2026-04-21T21:02:54+00:00"
+  },
+  {
     "title": "New York sues Coinbase, Gemini over prediction market offerings",
     "description": "New York has become the latest state to argue that prediction market contracts touching on sports and entertainment violate state gambling laws.",
     "link": "https://www.coindesk.com/policy/2026/04/21/new-york-sues-coinbase-gemini-over-prediction-market-offerings",
@@ -21,6 +70,13 @@
     "pubDate": "2026-04-21T20:50:43+00:00"
   },
   {
+    "title": "Pro-Palestine legal aid requests stay high in 2025 amid US campus pressure",
+    "description": "Legal aid group says the rate of requests shows pro-Palestine advocacy persists despite Trump administration's tactics.",
+    "link": "https://www.aljazeera.com/news/2026/4/21/pro-palestine-legal-aid-requests-stay-high-in-2025-amid-us-campus-pressure?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69e7c634-1776797236.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-21T20:48:47+00:00"
+  },
+  {
     "title": "Kevin Warsh, Trump’s Fed Chair Pick, Faces Skepticism Over Claim of Independence",
     "description": "Kevin Warsh’s nomination to lead the Federal Reserve could still be delayed by a Justice Department investigation into the current chair, Jerome H. Powell.",
     "link": "https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html",
@@ -28,24 +84,24 @@
     "pubDate": "2026-04-21T20:46:58+00:00"
   },
   {
-    "title": "Trump extends ceasefire in Iran, citing 'seriously fractured' Iranian government",
-    "description": "Trump's announcement came after an expected trip by Vice President JD Vance to Pakistan for a peace talks with Iranian officials was put on hold.",
-    "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108293256-1776803525589-108293256-1776441277144-gettyimages-2271072130-TRUMP_DEPART_WH.jpeg?v=1776803543&w=1920&h=1080",
-    "pubDate": "2026-04-21T20:40:32+00:00"
+    "title": "Nearly 8,000 people died or disappeared on migration routes in 2025: IOM",
+    "description": "More than four in every 10 deaths and disappearances occurred on sea routes to Europe, UN agency says.",
+    "link": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2023/04/32KN4NY-highres.jpg?resize=1920%2C1400",
+    "pubDate": "2026-04-21T20:43:11+00:00"
   },
   {
-    "title": "Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo",
-    "description": "A U.S. aid worker said that the Afghans, who were evacuated to Qatar, would face a choice between moving to the Democratic Republic of Congo and living under the Taliban.",
-    "link": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-21T20:40:24+00:00"
+    "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
+    "description": "The Trump administration targets 14 individuals and entities over alleged links to Iran's arms industry.",
+    "link": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-02-11T090421Z_522651403_RC2LJJAY8AY9_RTRMADP_3_IRAN-CRISIS-PROTEST-1776795305.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-21T20:42:21+00:00"
   },
   {
     "title": "How Leicester went from Premier League champions to League One in a decade",
     "description": "Ten years ago, Leicester were days away from winning the Premier League. Next season, they will play in League One. How?",
     "link": "https://www.bbc.com/sport/football/articles/cm2kkr9dkrlo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b8b/live/069553d0-3dc4-11f1-b6c7-4f869705a4fe.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c18/live/adb1c8b0-3dc4-11f1-b6c7-4f869705a4fe.jpg",
     "pubDate": "2026-04-21T20:39:29+00:00"
   },
   {
@@ -56,6 +112,20 @@
     "pubDate": "2026-04-21T20:35:24+00:00"
   },
   {
+    "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
+    "description": "The blockade of the Strait of Hormuz is causing concern in Europe, which relies heavily on imported jet fuel.",
+    "link": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-17T152316Z_429483990_RC21RKAXEN6A_RTRMADP_3_IRAN-CRISIS-EU-JETFUEL-1776796138.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-21T20:33:13+00:00"
+  },
+  {
+    "title": "Sudan refugees returning home face new ‘struggle for survival’: UN",
+    "description": "Returnees find chronic need for investment with homes, water supplies, health provision, electricity 'heavily damaged'.",
+    "link": "https://www.aljazeera.com/news/2026/4/21/sudan-refugees-returning-home-face-new-struggle-for-survival-un?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260421__A8A99T6__v1__HighRes__SudanConflict-1776792400.jpg?resize=1920%2C1440",
+    "pubDate": "2026-04-21T20:32:32+00:00"
+  },
+  {
     "title": "Virginia Redistricting Referendum: What to Watch",
     "description": "Republicans have built a small advantage from the gerrymandering clash so far, but Virginia voters could change that.",
     "link": "https://www.nytimes.com/2026/04/21/us/elections/virginia-redistricting-referendum-what-to-watch.html",
@@ -63,7 +133,7 @@
     "pubDate": "2026-04-21T20:26:15+00:00"
   },
   {
-    "title": "Trump announces extending Iran ceasefire but says blockade remains",
+    "title": "Trump announces Iran ceasefire extension but says blockade remains",
     "description": "US president says attacks will be held off until Iranian leaders 'come up with a unified proposal' to end war.",
     "link": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69e7dd9d-1776803229.jpg?resize=1200%2C675",
@@ -84,13 +154,6 @@
     "pubDate": "2026-04-21T20:16:19+00:00"
   },
   {
-    "title": "Rep. Sheila Cherfilus-McCormick resigns, third House member to quit this month",
-    "description": "Cherfilus-McCormick was indicted in November in Miami federal court on charges accusing her of stealing $5 million in Covid-19 disaster funds.",
-    "link": "https://www.cnbc.com/2026/04/21/sheila-cherfilus-mccormick-resigns-congress.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108294824-1776794403318-gettyimages-2256742322-US-NEWS-CONGRESS-CHERFILUS-MCCORMICK-CHARGES-MI.jpeg?v=1776794429&w=1920&h=1080",
-    "pubDate": "2026-04-21T20:14:01+00:00"
-  },
-  {
     "title": "U.S. Turns Up Pressure on Iraq to Distance Itself From Iran",
     "description": "Washington is demanding that the Baghdad government dismantle Iran-backed Iraqi militias that have been attacking Americans and U.S. sites there recently.",
     "link": "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html",
@@ -105,18 +168,18 @@
     "pubDate": "2026-04-21T20:05:52+00:00"
   },
   {
-    "title": "Gates Foundation reviewing Jeffrey Epstein ties, will slash 20% of staff, WSJ reports",
-    "description": "Berkshire Hathaway Chair Warren Buffett had told CNBC he hasn't spoken to Bill Gates since details of Jeffrey Epstein's communications with him were revealed.",
-    "link": "https://www.cnbc.com/2026/04/21/gates-foundation-jeffrey-epstein-jobs-cuts.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108255903-17691060612026-01-22t181732z_2098207748_rc2i6jax6f07_rtrmadp_0_sweden-billgates.jpeg?v=1769106099&w=1920&h=1080",
-    "pubDate": "2026-04-21T20:05:44+00:00"
-  },
-  {
     "title": "United Airlines slashes 2026 forecast as fuel costs surge",
     "description": "The carrier's first-quarter earnings topped Wall Street's expectations.",
     "link": "https://www.cnbc.com/2026/04/21/united-airlines-ual-q1-2026-earnings.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108291388-1776197622882-gettyimages-2268509574-march2026_396_bucket.jpeg?v=1776197742&w=1920&h=1080",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108291388-1776197622882-gettyimages-2268509574-march2026_396_bucket.jpeg?v=1776806784&w=1920&h=1080",
     "pubDate": "2026-04-21T20:04:16+00:00"
+  },
+  {
+    "title": "DoorDash to offer stablecoin payments to users via Tempo blockchain",
+    "description": "Tempo announced the integration of ”stablecoin-powered payment infrastructure” with DoorDash, Stripe, Paradigm, Coastal Bank and ARQ.",
+    "link": "https://cointelegraph.com/news/doordash-stablecoin-payments-tempo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db075-8782-73f1-a1fe-a2ff2ae6bfeb.jpg",
+    "pubDate": "2026-04-21T20:00:38+00:00"
   },
   {
     "title": "Analysis: Warsh emerges from a difficult hearing with his Fed 'regime-change' plan intact",
@@ -143,29 +206,8 @@
     "title": "Blockchain.com adds perpetual futures trading to self-custody wallets",
     "description": "With a CFTC greenlight expected soon, industry momentum is building for the derivative contracts still only available to non-US investors.",
     "link": "https://cointelegraph.com/news/blockchain-com-brings-perpetual-futures-trading-to-self-custody-wallets-via-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIxNTYtMzU4Ni03ODM4LTk3M2QtMDFlYzZhNWE3NTEzLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db156-3586-7838-973d-01ec6a5a7513.jpg",
     "pubDate": "2026-04-21T19:48:14+00:00"
-  },
-  {
-    "title": "Israeli rabbi who bulldozed Gaza honoured as torchbearer",
-    "description": "Avraham Zarbiv, known for gleefully documenting his bulldozing of Gaza, was honoured on Israel’s “Independence Day”.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/israeli-rabbi-who-bulldozed-gaza-honoured-as-torchbearer?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/Avraham_Zarbiv_Israeli_settler_soldier_rabbi-1776799994.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-04-21T19:43:33+00:00"
-  },
-  {
-    "title": "Video: Israeli soldiers sing national anthem on ruins of Lebanese town",
-    "description": "Israeli soldiers were seen singing the Israeli national anthem on the ruins of a demolished town in southern Lebanon.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-israeli-soldiers-sing-national-anthem-on-ruins-of-lebanese-town?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776800094.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-04-21T19:36:41+00:00"
-  },
-  {
-    "title": "Boy, 17, pleads guilty to synagogue arson attack",
-    "description": "Accelerant was thrown through the window of Kenton United Synagogue on Saturday night.",
-    "link": "https://www.bbc.com/news/articles/c86exglegwno?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc63/live/12039d70-3bcc-11f1-9278-4d3af542c6a1.jpg",
-    "pubDate": "2026-04-21T19:32:00+00:00"
   },
   {
     "title": "Core Scientific seeks $3.3 billion bond sale to further AI data center pivot",
@@ -173,13 +215,6 @@
     "link": "https://www.coindesk.com/business/2026/04/21/core-scientific-seeks-usd3-3-billion-bond-sale-to-further-ai-data-center-pivot",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b8b562c87e3d7ab4818e76a4299350365d8bd31c-1500x844.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-04-21T19:27:43+00:00"
-  },
-  {
-    "title": "Sheila Cherfilus-McCormick, a Florida Democrat, Resigns From Congress",
-    "description": "Sheila Cherfilus-McCormick stands accused of stealing $5 million in federal funds. She announced she would step down minutes before the House Ethics Committee was to vote on a recommendation to expel her.",
-    "link": "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html",
-    "thumbnail": "",
-    "pubDate": "2026-04-21T19:13:01+00:00"
   },
   {
     "title": "Mob boss John Gotti’s grandson is headed to prison for a $1.1 million Covid fraud and crypto scheme",
@@ -201,13 +236,6 @@
     "link": "https://www.polygon.com/call-of-duty-all-games-xbox-game-pass/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/cod-infinite-warfare_sp_retribution-bridge_salter.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-04-21T19:09:31+00:00"
-  },
-  {
-    "title": "Russian police raid book publisher accused of pushing ‘gay propaganda’",
-    "description": "Raid is part of Moscow's hardline social conservatism and clampdown on political life.",
-    "link": "https://www.aljazeera.com/news/2026/4/21/russian-police-raid-book-publisher-accused-of-pushing-gay-propaganda?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260421__A8HJ42F__v1__HighRes__RussiaPoliticsLgbtqBooks-1776791548.jpg?resize=1920%2C1440",
-    "pubDate": "2026-04-21T19:05:41+00:00"
   },
   {
     "title": "Sydney Sweeney's politics will orbit her Gundam movie if it's faithful to anime",
@@ -238,25 +266,11 @@
     "pubDate": "2026-04-21T18:48:00+00:00"
   },
   {
-    "title": "Nicaragua’s president says Trump ‘mentally deranged’ over war on Iran",
-    "description": "Nicaraguan President has criticised his US counterpart Donald Trump, over the war on Iran.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/nicaraguas-president-says-trump-mentally-deranged-over-war-on-iran?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776797198.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-04-21T18:47:11+00:00"
-  },
-  {
     "title": "Today's Game Pass Change Is A Great One. The Next One Will Hurt.",
     "description": "Starting today, Xbox Game Pass Ultimate subscribers enjoy something few ever get to experience in the age of the subscription model: a price drop. It's been six months since the price of Game Pass Ultimate went up to $30 a month, but under the new Xbox CEO, Asha Sharma, the cost is unexpectedly falling back down to $23 a month. It's not without caveats--this tier no longer includes Call of Duty entries on their respective launch days--but for the likely millions of players who subscribe to Game Pass Ultimate and don't play Call of Duty, this is only a good thing. This news comes less than a week after an internal memo written by Sharma spoke to how the price of Game Pass had risen too much. In the wake of today's official price reduction, the \"leaked\" internal memo feels more like an intended tease, otherwise known as a controlled leak. That's all fine by me. It's a tried-and-true means of communicating your brand's ideas to the public, and it's at least interesting to begin to see what shape Xbox will take under Sharma. But controlled leak or not, today's headline feels like it guarantees another major change is coming, and it's that next one that worries me. Since 2017, Game Pass has changed many times, but one figurative line it hasn't crossed yet is the involvement of specific types of ads. There are many ways these could be implemented, from picture-in-picture or banner ads to video ads that interrupt gameplay, and more. Plenty of games, even some in Game Pass, do use ads, but they're usually of the sort that players don't balk at. I don't want my time with NBA 2K to be interrupted by an ad for the new Jordans, but I don't mind that there's a Jordan store inside the series' social hub, The City. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/todays-game-pass-change-is-a-great-one-the-next-one-will-hurt/1100-6539533/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-04-21T18:46:00+00:00"
-  },
-  {
-    "title": "US forces detain Iran-linked tanker Tifani with ceasefire talks on edge",
-    "description": "Ship, detained under US policy to stop all Tehran-linked vessels, is under sanctions for smuggling Iranian crude.",
-    "link": "https://www.aljazeera.com/news/2026/4/21/us-forces-detain-iran-linked-tanker-tifani-with-ceasefire-talks-on-edge?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-03T214404Z_81297207_RC2B2KAHFHCA_RTRMADP_3_IRAN-CRISIS-INTELLIGENCE-HORMUZ-1775349084.jpg?resize=1920%2C1440",
-    "pubDate": "2026-04-21T18:45:32+00:00"
   },
   {
     "title": "Game Pass's Price Cut Isn't The Discount You Think It Is",
@@ -271,13 +285,6 @@
     "link": "https://www.cnbc.com/2026/04/21/amazon-glp-1-weight-loss-program.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108294749-1776788593535-assetsaboutamazon-1.png?v=1776790257&w=1920&h=1080",
     "pubDate": "2026-04-21T18:27:58+00:00"
-  },
-  {
-    "title": "Ukraine says Druzhba pipeline running Russian oil to Europe can resume work",
-    "description": "Kyiv hopeful pipeline restoration will unblock EU loan, with bloc's foreign policy chief expecting 'positive decision'.",
-    "link": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-25T151513Z_1953449700_RC2S9U951JKO_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-OIL-EXPORTS-1776785993.jpg?resize=1920%2C1440",
-    "pubDate": "2026-04-21T18:27:14+00:00"
   },
   {
     "title": "Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns",
@@ -311,14 +318,14 @@
     "title": "Bitcoin inflows to Binance fall to 2023 low as BTC bulls set target on $80K",
     "description": "Bitcoin inflows diverge across exchanges as selling pressure eases on Binance, while Coinbase shows more dominant activity.",
     "link": "https://cointelegraph.com/news/bitcoin-inflows-to-binance-fall-to-2023-low-as-btc-bulls-set-target-on-dollar80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIwODgtNzFkNy03NzM5LWIxNzgtNGI5ZmEzNWNkODU2LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db088-71d7-7739-b178-4b9fa35cd856.jpg",
     "pubDate": "2026-04-21T18:00:00+00:00"
   },
   {
     "title": "New York targets Coinbase, Gemini in fresh crackdown on prediction markets",
     "description": "Attorney General Letitia James alleged that Coinbase and Gemini ran unlicensed markets, adding pressure on crypto companies as states move to regulate event-based trading platforms.",
     "link": "https://cointelegraph.com/news/new-york-sues-coinbase-gemini-unlicensed-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIwZjItZTk3Ny03Y2I2LWEyODItMDljOWIxY2NiYTIwLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db0f2-e977-7cb6-a282-09c9b1ccba20.jpg",
     "pubDate": "2026-04-21T17:50:51+00:00"
   },
   {
@@ -334,13 +341,6 @@
     "link": "https://www.gamespot.com/articles/cod-black-ops-7-zombies-map-trailer-teases-a-gigantic-boss-and-og-vibes/1100-6539529/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-04-21T17:39:00+00:00"
-  },
-  {
-    "title": "Tim Cook turned Apple into a $4 trillion juggernaut by not trying to be Steve Jobs",
-    "description": "Tim Cook's 15-year tenure at the helm of Apple was highly profitable for Wall Street, as the company's market cap swelled from $350 billion to $4 trillion.",
-    "link": "https://www.cnbc.com/2026/04/21/tim-cook-apple-steve-jobs-legacy.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108294686-1776783473130-gettyimages-752098117-KWhite34JPG.jpeg?v=1776783495&w=1920&h=1080",
-    "pubDate": "2026-04-21T17:29:36+00:00"
   },
   {
     "title": "The Redistricting War Has Come to Virginia",
@@ -367,7 +367,7 @@
     "title": "Nium taps Coinbase to add USDC into global payments network",
     "description": "Nium integrates Coinbase’s infrastructure to enable USDC-based cross-border payments, allowing businesses to settle in fiat or stablecoins without relying on prefunded accounts.",
     "link": "https://cointelegraph.com/news/nium-taps-coinbase-to-bring-usdc-into-global-payments-cutting-prefunding-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIwZTctMjliMi03ZmI0LTk3MTUtMjM3NzhkOGM3MTRjLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db0e7-29b2-7fb4-9715-23778d8c714c.jpg",
     "pubDate": "2026-04-21T17:16:04+00:00"
   },
   {
@@ -395,28 +395,21 @@
     "title": "Bitcoin price rally 'in progress' but upside could be capped at $84K",
     "description": "Analysts say Bitcoin’s rally has begun, but the upside may be capped at an average spot BTC ETF cost basis near $84,000.",
     "link": "https://cointelegraph.com/news/bitcoin-price-rally-in-progress-but-upside-could-be-capped-at-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1ZDItMWRkZS03NGQxLTlmOWYtMjY1ZWVjNDU0ZTBiLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b35d2-1dde-74d1-9f9f-265eec454e0b.jpg",
     "pubDate": "2026-04-21T16:55:37+00:00"
-  },
-  {
-    "title": "Market Update: FITB",
-    "description": "",
-    "link": "https://finance.yahoo.com/research/reports/ARGUS_46801_MarketUpdate_1776790385000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-    "pubDate": "2026-04-21T16:53:05+00:00"
   },
   {
     "title": "Core Scientific plans $3.3B debt raise to fund AI data center push",
     "description": "The miner plans to refinance short-term debt and scale its US infrastructure as the broader industry pivots toward AI and high-performance computing.",
     "link": "https://cointelegraph.com/news/core-scientific-3-3b-debt-ai-data-center-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIwY2YtMzNlOC03NjVhLTg1ODItOTRiYzU3YzA2ODE2LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db0cf-33e8-765a-8582-94bc57c06816.jpg",
     "pubDate": "2026-04-21T16:50:38+00:00"
   },
   {
     "title": "Bitcoin funding stays negative at $78K as short squeeze expectations grow",
     "description": "BTC price action slowly headed upward but funding stayed negative, a unique occurrence that analysis said would result in a short squeeze.",
     "link": "https://cointelegraph.com/news/bitcoin-funding-stays-negative-78k-short-squeeze-expectations-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIwNzEtYmRjMC03NzMyLWJhMDAtMzFjNjBjMTJkMmYwLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db071-bdc0-7732-ba00-31c60c12d2f0.jpg",
     "pubDate": "2026-04-21T16:48:54+00:00"
   },
   {
@@ -437,7 +430,7 @@
     "title": "Fed chair nominee pressed on potential conflicts of interest, independence",
     "description": "Kevin Warsh faced intense questions from Senator Elizabeth Warren and other lawmakers over his more than $100 million financial disclosure ahead of a confirmation hearing.",
     "link": "https://cointelegraph.com/news/kevin-warsh-fed-hearing-conflicts-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIwYzctMTJhYi03M2M4LThmYzgtOTIwZjZhNTNlOTUwLmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db0c7-12ab-73c8-8fc8-920f6a53e950.jpg",
     "pubDate": "2026-04-21T16:40:47+00:00"
   },
   {
@@ -451,7 +444,7 @@
     "title": "Bitcoin regains $76K as Coinbase-driven demand sustains recovery",
     "description": "A $517 million rise in spot volume led by Coinbase is helping Bitcoin reclaim $76,000, with steady inflows absorbing the weekend selling pressure.",
     "link": "https://cointelegraph.com/news/bitcoin-regains-76k-as-coinbase-driven-demand-sustains-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIwMzMtNzMyZi03OTlhLWIzOGItZWFlMmE2OGExZGI0LmpwZw==.jpg",
+    "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db033-732f-799a-b38b-eae2a68a1db4.jpg",
     "pubDate": "2026-04-21T16:40:31+00:00"
   },
   {
@@ -518,20 +511,6 @@
     "pubDate": "2026-04-21T15:07:23+00:00"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
-    "pubDate": "2026-04-21T15:06:25+00:00"
-  },
-  {
-    "title": "Cottage Cheese Caramelized Onion Dip",
-    "description": "Add a bag of potato chips and you've got yourself a party.",
-    "link": "https://www.bonappetit.com/recipe/cottage-cheese-caramelized-onion-dip",
-    "thumbnail": "https://assets.bonappetit.com/photos/69e6936adaca795510e92f02/master/pass/20260311_01_Cottage%20Cheese%20French%20Onion%20Dip_047_FINAL.jpg",
-    "pubDate": "2026-04-21T15:00:00+00:00"
-  },
-  {
     "title": "No 10 considered giving Starmer aide diplomat job, sacked official says",
     "description": "Sir Olly Robbins says he felt \"uncomfortable\" after No 10 discussed finding a role for Lord Doyle.",
     "link": "https://www.bbc.com/news/articles/cn9qw1jqpgxo?at_medium=RSS&at_campaign=rss",
@@ -560,13 +539,6 @@
     "pubDate": "2026-04-21T14:17:01+00:00"
   },
   {
-    "title": "We Tested 39 Rice Cookers and Found the Best One (2026)",
-    "description": "Whether you’re on a budget or want a model that’s practically sentient, there’s a rice cooker for you.",
-    "link": "https://www.bonappetit.com/story/best-rice-cookers",
-    "thumbnail": "https://assets.bonappetit.com/photos/68dae95d2e8ac914048e07db/master/pass/9.24_BA_Best_Rice_Cooker.jpg",
-    "pubDate": "2026-04-21T13:22:20+00:00"
-  },
-  {
     "title": "Henry Zeffman: Robbins's revelations are a dangerous moment for Starmer",
     "description": "Drawing a line under Lord Mandelson's appointment is proving impossible for the prime minister.",
     "link": "https://www.bbc.com/news/articles/c895jpwl9gpo?at_medium=RSS&at_campaign=rss",
@@ -581,11 +553,11 @@
     "pubDate": "2026-04-21T11:39:52+00:00"
   },
   {
-    "title": "20 Zaynab Issa Recipes to Cook ASAP",
-    "description": "Like a perfect tuna melt and chewy date chocolate cookies.",
-    "link": "https://www.bonappetit.com/gallery/zaynab-issa-recipes",
-    "thumbnail": "https://assets.bonappetit.com/photos/6411f3b35425c986537f97db/master/pass/031423-suhoor-tuna-melt-lede.jpg",
-    "pubDate": "2026-04-21T10:00:00+00:00"
+    "title": "Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy",
+    "description": "Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI.",
+    "link": "https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108294373-1776753579535-gettyimages-1239031817-APPLE_PEEK_PERFORMANCE.jpeg?v=1776786007&w=1920&h=1080",
+    "pubDate": "2026-04-21T06:40:39+00:00"
   },
   {
     "title": "Major bank identifies surprising trend for American crypto investors",
@@ -602,101 +574,59 @@
     "pubDate": "2026-04-20T21:50:00+00:00"
   },
   {
-    "title": "The Best Nontoxic Utensils Start With the Right Materials (2026)",
-    "description": "You probably don’t need more than five pieces—and you definitely don’t need plastic.",
-    "link": "https://www.bonappetit.com/story/best-non-toxic-utensils",
-    "thumbnail": "https://assets.bonappetit.com/photos/69e68f08a8d809feb124ad09/master/pass/nontoxic%20Utensils-Earth%20Day%202026.jpg",
-    "pubDate": "2026-04-20T20:54:32+00:00"
-  },
-  {
-    "title": "Shrimp Scampi With Garlic Marinade",
-    "description": "A brief garlic marinade makes this shrimp scampi stand out from the rest.",
-    "link": "https://www.bonappetit.com/recipe/shrimp-scampi",
-    "thumbnail": "https://assets.bonappetit.com/photos/58a4e12a9fda6d7fbc740e91/master/pass/shrimp-scampi.jpg",
-    "pubDate": "2026-04-20T19:29:09+00:00"
-  },
-  {
-    "title": "Brad Jacobs’ Midas Touch Could Turn QXO Into Your Next Big Winner",
+    "title": "Amazon expected to report a strong quarter on the backs of Anthropic's Claude, AI demand",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/brad-jacobs-midas-touch-could-121208567.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2KAcRXHemPREZug7pkBBpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319",
-    "pubDate": "2026-04-20T12:12:08+00:00"
+    "link": "https://finance.yahoo.com/news/amazon-expected-to-report-a-strong-quarter-on-the-backs-of-anthropics-claude-ai-demand-133116973.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/.pk5fg3aDCT2tGVKitLaKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/3f0b84f0-3cb6-11f1-bcb6-706968142fae",
+    "pubDate": "2026-04-20T13:31:16+00:00"
   },
   {
-    "title": "Is Alphabet (GOOGL) The Best AI Stock to Buy in 2026?",
+    "title": "Expert issues warning over US bank accounts sitting idle: Money can now be turned over to state. Secure your money ASAP",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-best-ai-stock-121126680.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/722fa6e1a067b1274b73f466479e4aad",
-    "pubDate": "2026-04-20T12:11:26+00:00"
+    "link": "https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-133000140.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/SWAUoE4kyipGq3n_ElR1pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/85a394fd64e572dbe5bd3055706b19b1",
+    "pubDate": "2026-04-20T13:30:00+00:00"
   },
   {
-    "title": "Bond investors propose crisis 'pause clauses' for emerging countries",
+    "title": "Tesla Robotaxi Service Expands To Dallas And Houston",
     "description": "",
-    "link": "https://finance.yahoo.com/news/bond-investors-propose-crisis-pause-114937177.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/bf454f4204811a1922406fc346ab5920",
-    "pubDate": "2026-04-20T12:08:52+00:00"
+    "link": "https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Tesla-ScreenInt-shut.jpg",
+    "pubDate": "2026-04-20T13:25:53+00:00"
   },
   {
-    "title": "Monolithic Power Systems' Quarterly Earnings Preview: What You Need to Know",
+    "title": "Institutional Investors See Crypto As Portfolio Diversifier: Poll",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-quarterly-earnings-120130491.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/6a596bc576d595713a444ae547233958",
-    "pubDate": "2026-04-20T12:01:30+00:00"
+    "link": "https://finance.yahoo.com/markets/crypto/articles/institutional-investors-see-crypto-portfolio-131800280.html",
+    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/eb17757340fbd2e84fed7cb85547a2c3",
+    "pubDate": "2026-04-20T13:18:00+00:00"
   },
   {
-    "title": "Dow Jones Futures Fall; Trump Says Talks, Iran Says No; Marvell Jumps, Tesla Earnings Due",
+    "title": "Is Broadcom (AVGO) The Best AI Chip Stock Pick of Motley Fool?",
     "description": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-trump-iran-talks-iran-marvell-jumps-google-tesla-earnings/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/03/stock-iran-map-adobe.jpg",
-    "pubDate": "2026-04-20T12:00:50+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-best-ai-chip-131740989.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/6857607624d018154569190d8bf2f815",
+    "pubDate": "2026-04-20T13:17:40+00:00"
   },
   {
-    "title": "AI Stocks: Google Makes 'Agentic Cloud' Pitch, Adobe Conference Takes Stage",
+    "title": "Will Tesla (TSLA) Make a Comeback in 2026?",
     "description": "",
-    "link": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-tech-earnings-april202026/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2017/12/Stock-ArtifIntel-01-shutt.jpg",
-    "pubDate": "2026-04-20T11:50:44+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-comeback-2026-131738258.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/93c7318f6d92da51bca75b7ff517c10c",
+    "pubDate": "2026-04-20T13:17:38+00:00"
   },
   {
-    "title": "9 S&amp;P 500 Stocks Get Green Light To Post Insane Growth This Year",
+    "title": "Strategy Buys $2.5 Billion Of Bitcoin, Its Third-Largest Purchase Ever",
     "description": "",
-    "link": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-get-green-light-to-post-insane-growth-this-year/?src=A00220&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-04-20T11:36:27+00:00"
+    "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-buys-2-5-billion-131700151.html",
+    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/902f728116b8031a81034a3522b3b183",
+    "pubDate": "2026-04-20T13:17:00+00:00"
   },
   {
-    "title": "29 Recipes With Greek Yogurt (Easy Meals, Desserts &amp; More)",
-    "description": "Like blackout frozen yogurt pie and coconut meatball curry.",
-    "link": "https://www.bonappetit.com/gallery/recipes-with-greek-yogurt",
-    "thumbnail": "https://assets.bonappetit.com/photos/687e7dc4c1ef14d727ab4839/master/pass/beet-salmon-salad-horseradish-yogurt_RECIPE_V3_061225_12615_VOG_final.jpg",
-    "pubDate": "2026-04-19T12:00:00+00:00"
-  },
-  {
-    "title": "37 Mother’s Day Brunch Recipes and Ideas",
-    "description": "Cinnamon rolls, eggs Benedict, and a drink worth raising a glass to.",
-    "link": "https://www.bonappetit.com/gallery/mothers-day-brunch-recipes-ideas",
-    "thumbnail": "https://assets.bonappetit.com/photos/6048f5c5263f39d98776efa3/master/pass/Comfort-Simplest-Rosti.jpg",
-    "pubDate": "2026-04-18T14:00:00+00:00"
-  },
-  {
-    "title": "The Best Wine Fridges for Tiny Spaces, Major Collections, and Everything in Between (2026)",
-    "description": "Whether you’re new to wine or devoted to the cause, how you store your bottles matters.",
-    "link": "https://www.bonappetit.com/story/best-wine-fridges",
-    "thumbnail": "https://assets.bonappetit.com/photos/69e2b103f52e9830f44c5cb5/master/pass/Wine%20Fridges%203.jpg",
-    "pubDate": "2026-04-17T22:33:13+00:00"
-  },
-  {
-    "title": "Trump DoorDashed McDonald's to the White House",
-    "description": "Plus, Crumbl’s slowing down, much ado about rotisserie chickens, and the incoming tide of private equity-funded bagels",
-    "link": "https://www.bonappetit.com/story/trump-doordashed-mcdonalds-to-the-white-house",
-    "thumbnail": "https://assets.bonappetit.com/photos/69e24ea7f52e9830f44c5bd4/master/pass/417OpenTab.jpg",
-    "pubDate": "2026-04-17T17:30:00+00:00"
-  },
-  {
-    "title": "The Best Air Fryers For Faster, Crispier Cooking (2026)",
-    "description": "Here’s what our editors recommend for crunchy fries, crispy chicken skin, blistered veggies, and more.",
-    "link": "https://www.bonappetit.com/story/best-air-fryers-reviewed",
-    "thumbnail": "https://assets.bonappetit.com/photos/69e64d349660fc8818e0f358/master/pass/Airfryers%202026.jpg",
-    "pubDate": "2026-04-17T15:49:21+00:00"
+    "title": "Sanuwave Health (SNWV) Slipped as CMS Dropped the Coverage Limit",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/sanuwave-health-snwv-slipped-cms-131505802.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/0de10cbc343edd4c2e86d6df7a40b25d",
+    "pubDate": "2026-04-20T13:15:05+00:00"
   }
 ]
