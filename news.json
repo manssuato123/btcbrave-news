@@ -1,31 +1,199 @@
 [
   {
-    "title": "Private credit’s $2 trillion boom raises global stability fears, watchdog warns",
-    "description": "The Financial Stability Board wants regulators to tighten up their supervision of private credit amid fears of growing stress in the sector.",
-    "link": "https://www.cnbc.com/2026/05/06/private-credit-stress-risks-financial-stability-markets.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107026308-1646668947631-107026308-16466688712022-03-07t152235z_133006093_rc2pxs9buome_rtrmadp_0_usa-stocks.jpg?v=1691510733&w=1920&h=1080",
-    "pubDate": "2026-05-06T07:16:02+00:00"
+    "title": "5 Takeaways From the California Gubernatorial Debate",
+    "description": "Seven candidates sparred in the first nationally televised debate in the 2026 California governor’s race. Many tried to launch attacks in a last-ditch effort to gain ground on their opponents.",
+    "link": "https://www.nytimes.com/2026/05/06/us/elections/california-governor-debate-cnn-takeaways.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T09:37:38+00:00"
+  },
+  {
+    "title": "Former council leader jailed for sexually assaulting young men",
+    "description": "Jordan Linden stood down as leader of North Lanarkshire Council in 2022 after the allegations emerged.",
+    "link": "https://www.bbc.com/news/articles/c5yrwd2n3weo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf4/live/193e4e50-4860-11f1-b55d-0f258dce1735.jpg",
+    "pubDate": "2026-05-06T09:36:55+00:00"
+  },
+  {
+    "title": "Oil prices fall sharply on report U.S. and Iran closing in on a deal to end war",
+    "description": "Oil prices fell after Trump said the U.S. would pause its naval escort endeavor in the Strait of Hormuz, raising hopes of a potential deal with Iran.",
+    "link": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302769-1778059076103-gettyimages-2273914248-nikoubazl-dailylif260503_npTL1.jpeg?v=1778059107&w=1920&h=1080",
+    "pubDate": "2026-05-06T09:36:06+00:00"
+  },
+  {
+    "title": "Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes",
+    "description": "Bitcoin climbed toward $82,000 alongside a more than 1% rise in Nasdaq futures amid reports of progress toward a U.S.–Iran memorandum of understanding.",
+    "link": "https://www.coindesk.com/markets/2026/05/06/bitcoin-nasdaq-futures-rally-as-oil-crashes-6-on-iran-peace-deal-hopes",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9e47e1f05adb1b250d3f3a586f209821134ed783-2978x1088.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T09:26:02+00:00"
+  },
+  {
+    "title": "AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates",
+    "description": "AMD's earnings report lands as investors rush into the stock on optimism that the AI boom is just getting started.",
+    "link": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302226-1778012523679-108302226-1777987369883-gettyimages-2254260597-CES_2026.jpeg?v=1778013248&w=1920&h=1080",
+    "pubDate": "2026-05-06T09:13:46+00:00"
+  },
+  {
+    "title": "Samsung crosses $1 trillion valuation as AI frenzy drives historic rally, lifting shares over 15%",
+    "description": "The rally comes after the company reported an over eightfold increase in first-quarter operating profits last week.",
+    "link": "https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108299680-1777518266117-gettyimages-1178845030-250305final.jpeg?v=1777518327&w=1920&h=1080",
+    "pubDate": "2026-05-06T09:12:32+00:00"
+  },
+  {
+    "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
+    "description": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
+    "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf1e/live/7bb43ee0-491f-11f1-9546-d74beef04f02.jpg",
+    "pubDate": "2026-05-06T08:59:55+00:00"
+  },
+  {
+    "title": "OKX joins crypto’s pre-IPO frenzy with OpenAI, SpaceX perpetual futures",
+    "description": "Crypto exchanges are increasingly competing to offer retail traders exposure to Silicon Valley’s most valuable private firms, despite the products conferring neither equity ownership nor shareholder rights.",
+    "link": "https://www.coindesk.com/markets/2026/05/06/okx-joins-crypto-s-pre-ipo-frenzy-with-openai-spacex-perpetual-futures",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T08:59:36+00:00"
+  },
+  {
+    "title": "Met forms team after attacks on Jewish community",
+    "description": "The move comes after a series of arson attacks at Jewish sites, as well as a double stabbing.",
+    "link": "https://www.bbc.com/news/articles/ceqp9zj9j9eo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99d4/live/cd6933a0-48aa-11f1-90e6-350a323e11ac.jpg",
+    "pubDate": "2026-05-06T08:54:59+00:00"
+  },
+  {
+    "title": "FIFA chief Infantino defends World Cup ticket prices",
+    "description": "Eye-watering prices reflect demand to watch the World Cup in the US, Infantino says, amid criticism from fans.",
+    "link": "https://www.aljazeera.com/sports/2026/5/6/fifa-chief-infantino-defends-world-cup-ticket-prices?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260506__A9XF7T4__v1__HighRes__UsPoliticsEconomyMilken-1778056352.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T08:54:15+00:00"
+  },
+  {
+    "title": "US petrol prices 50 percent higher than before war on Iran",
+    "description": "The average price of petrol in the United States has reached $4.48 per gallon, according to AAA.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69f108d8425b-1777404120.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T08:52:13+00:00"
   },
   {
     "title": "Next to hike prices by up to 8% outside Europe due to Iran war costs",
     "description": "No extra price rises are slated for the UK, which saw better than expected sales in the first quarter.",
     "link": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/b391b740-d49d-11ef-a70a-7188cb9abb89.jpg",
-    "pubDate": "2026-05-06T07:13:03+00:00"
+    "pubDate": "2026-05-06T08:43:47+00:00"
   },
   {
-    "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
-    "description": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
-    "link": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4985/live/d3d2e270-4915-11f1-b55d-0f258dce1735.jpg",
-    "pubDate": "2026-05-06T07:10:26+00:00"
+    "title": "Beyond humans: Lily Liu says Solana is building the payment rails for the 'AI machine economy'",
+    "description": "At Consensus Miami 2026, Solana Foundation President Lily Liu argued that stablecoin adoption by firms like Western Union validates Solana’s role as financial infrastructure for both human and machine economies.",
+    "link": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7118704abca2e946e75cb2409862966ec466f68f-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T08:35:24+00:00"
   },
   {
-    "title": "Airlines hike fares, cut millions of seats as Iran war drives up fuel costs",
-    "description": "Surging jet fuel prices are prompting carriers to slash their flight schedules, casting a cloud over summer travel rush.",
-    "link": "https://www.aljazeera.com/economy/2026/5/6/airlines-hike-fares-cut-millions-of-seats-as-iran-war-drives-up-fuel-costs?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP23319114880282-1-1778026376.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T07:04:11+00:00"
+    "title": "‘A stress test’: US-Germany rift widens as Iran war drags on",
+    "description": "German official says US-Europe relationship is being tested as opposition MP says Berlin is 'not neutral'",
+    "link": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T203004Z_74987678_RC24XJA1HHB0_RTRMADP_3_USA-TRUMP-EUROPE-1777994298.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T08:35:21+00:00"
+  },
+  {
+    "title": "Bitcoin's price rally has a hidden rhythm. Here are the hours and days driving gains.",
+    "description": "Bitcoin’s three-month rally shows a clear internal structure than most traders might expect, with performance clustering around specific trading windows across global sessions.",
+    "link": "https://www.coindesk.com/markets/2026/05/06/bitcoin-s-price-rally-has-a-hidden-rhythm-here-are-the-hours-and-days-driving-gains",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/1b7f43b2937b9719d09138c2b24d951514b6bdd3-6240x4160.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T08:29:21+00:00"
+  },
+  {
+    "title": "Shopping centre fire kills at least eight people in Iran",
+    "description": "Shopping centre fire kills at least eight people in Iran",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/shopping-centre-fire-kills-at-least-eight-people-in-iran?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/Tehran-shopping-centre-fire-horizontal-thumb-1778055762.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-06T08:26:25+00:00"
+  },
+  {
+    "title": "Australian women with alleged ISIL ties returning from Syria, minister says",
+    "description": "Australian Federal Police Commissioner Krissy Barrett says some individuals will be arrested and charged.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/australian-women-with-alleged-isil-ties-returning-from-syria-minister-says?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69fae3f3-1778050036.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T08:21:26+00:00"
+  },
+  {
+    "title": "Thunder dominate LeBron James, Lakers to win Game 1",
+    "description": "A game-high 27 points by LeBron James were not enough for LA Lakers to upset Oklahoma City in Western Conference semis.",
+    "link": "https://www.aljazeera.com/sports/2026/5/6/thunder-dominate-lebron-james-lakers-to-win-game-1?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260506__2274187543__v1__HighRes__LosAngelesLakersVOklahomaCityThunderGameOne-1778052896.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T08:16:15+00:00"
+  },
+  {
+    "title": "Wegovy pill sales smash forecasts, sending Novo Nordisk stock 7% higher",
+    "description": "Novo Nordisk raised its outlook for 2026 after a strong performance from its newly launched Wegovy pill.",
+    "link": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279913-1773864085826-gettyimages-2260914806-64393_48_ms_4337.jpeg?v=1773864352&w=1920&h=1080",
+    "pubDate": "2026-05-06T08:05:04+00:00"
+  },
+  {
+    "title": "Crypto custodian Taurus moves straight into EU capital markets with MiFID license in Cyprus",
+    "description": "The license allows the firm to offer tokenized financial instruments to EU banks as well as secondary trading for tokenized bonds, fund shares, equities, and structured products.",
+    "link": "https://www.coindesk.com/policy/2026/05/06/crypto-custody-firm-taurus-granted-mifid-license-in-cyprus",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7d899079cd71cda4383349b7a1512f9c1744037d-1920x1440.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T08:00:00+00:00"
+  },
+  {
+    "title": "Syria says it dismantled Hezbollah-linked cell plotting assassinations",
+    "description": "Authorities say the cell was planning 'targeted assassinations against high-level government officials'.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/syrian-authourities-dismantle-hezbollah-linked-cell-plotting-assassinations?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260401__A6ER9T3__v1__HighRes__SyriaLebanonIsraelHezbollahWar-1778048363.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T07:45:51+00:00"
+  },
+  {
+    "title": "Law enforcement freezes $41M connected to $150M crypto Ponzi collapse",
+    "description": "BG Wealth Sharing, according to authorities, claimed to provide guidance on crypto trading, advertised heavily on social media and offered “daily profit opportunities.”",
+    "link": "https://cointelegraph.com/news/law-enforcement-freezes-millions-connected-to-crypto-ponzi-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI%20The%20Most%20Famous%20Financial%20Pyramids%20in%20the%20Crypto%20World.jpg?prefix=media%2Farticle-covers",
+    "pubDate": "2026-05-06T07:37:24+00:00"
+  },
+  {
+    "title": "US must not insult IRGC during the World Cup: Iran’s football chief",
+    "description": "Mehdi Taj says cohosts US must ensure the Iranian military and IRGC are not 'insulted' during the FIFA World Cup.",
+    "link": "https://www.aljazeera.com/sports/2026/5/6/us-must-not-insult-irgc-during-the-world-cup-irans-football-chief?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20221108__32N66ND__v1__HighRes__FblWc2022IrnJersey-1773906501-e1773913382753.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T07:37:22+00:00"
+  },
+  {
+    "title": "Top tennis players could boycott French Open over prize money: Sabalenka",
+    "description": "Women's tennis stars say players 'deserve to be paid more' in prize money at Grand Slam tournaments.",
+    "link": "https://www.aljazeera.com/sports/2026/5/6/top-tennis-players-could-boycott-french-open-over-prize-money-sabalenka?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260428__A9A42EY__v1__HighRes__MadridOpenTennisWtaEsp-1778052601.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T07:33:39+00:00"
+  },
+  {
+    "title": "Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’",
+    "description": "Trump pauses US 'Project Freedom' operation in Strait of Hormuz, citing progress towards Iran agreement.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-05T150241Z_727101349_RC233LAQYSY4_RTRMADP_3_USA-TRUMP-1778045581.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T07:25:53+00:00"
+  },
+  {
+    "title": "A16z raises $2.2B for new fund backing stablecoins, prediction markets",
+    "description": "Andreessen Horowitz’s crypto investment arm said its new fund would seek to back projects that “people keep using when the hype fades.”",
+    "link": "https://cointelegraph.com/news/a16z-raises-2-billion-fund-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/Investment.jpg?prefix=media%2Farticle-covers",
+    "pubDate": "2026-05-06T07:24:40+00:00"
+  },
+  {
+    "title": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
+    "description": "Crypto and traditional finance are converging fast, with perpetual futures emerging as the strongest bridge between the two.",
+    "link": "https://www.coindesk.com/markets/2026/05/06/equity-perps-could-become-more-popular-than-crypto-perps-as-the-line-between-crypto-and-wall-street-dissolves",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/07447c5dda04e18512919e8973cc9ff2f9b87c95-2048x1150.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T07:23:57+00:00"
+  },
+  {
+    "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
+    "description": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
+    "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b7/live/32cb10e0-48b7-11f1-90e6-350a323e11ac.jpg",
+    "pubDate": "2026-05-06T07:10:16+00:00"
   },
   {
     "title": "Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity",
@@ -35,25 +203,11 @@
     "pubDate": "2026-05-06T06:55:26+00:00"
   },
   {
-    "title": "CNBC's UK Exchange newsletter: It's not the 1970s, but the oil shock is still biting hard",
-    "description": "In theory, the U.K. should be less exposed to the impact of higher energy prices than some peers. In practice, the price surge is having a dire impact.",
-    "link": "https://www.cnbc.com/2026/05/06/uk-energy-prices-1970s-oil-shock-consumers-businesses.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302230-1777987640511-gettyimages-1211577915-huty2460901.jpeg?v=1777987706&w=1920&h=1080",
-    "pubDate": "2026-05-06T06:49:11+00:00"
-  },
-  {
     "title": "Catherine to return to overseas visits with Italy trip",
     "description": "The Princess of Wales will go to Italy next week on her first official overseas engagement for more than three years.",
     "link": "https://www.bbc.com/news/articles/c707k90lplno?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d206/live/f3466fa0-4910-11f1-ac78-2112837ce2aa.jpg",
     "pubDate": "2026-05-06T06:49:06+00:00"
-  },
-  {
-    "title": "Wegovy pill sales smash forecasts after launch as Novo Nordisk hikes guidance",
-    "description": "Novo Nordisk raised its outlook for 2026 after a strong performance from its newly launched Wegovy pill.",
-    "link": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279913-1773864085826-gettyimages-2260914806-64393_48_ms_4337.jpeg?v=1773864352&w=1920&h=1080",
-    "pubDate": "2026-05-06T06:46:00+00:00"
   },
   {
     "title": "Colombian president says Bitcoin mining could transform country's Caribbean coast",
@@ -63,67 +217,11 @@
     "pubDate": "2026-05-06T06:43:07+00:00"
   },
   {
-    "title": "Watch: BBC traces how huge wave of Israeli strikes brought chaos to Lebanon",
+    "title": "Watch: The Lebanese neighbourhoods shattered by Israel's ten minute bombing raid",
     "description": "The BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s recent history.",
     "link": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67b/live/434353b0-4916-11f1-b55d-0f258dce1735.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbdd/live/57504f40-4923-11f1-b55d-0f258dce1735.jpg",
     "pubDate": "2026-05-06T06:39:27+00:00"
-  },
-  {
-    "title": "5 Takeaways From the California Gubernatorial Debate",
-    "description": "Seven candidates sparred in the first nationally televised debate in the 2026 California governor’s race. Many tried to launch attacks in a last-ditch effort to gain ground on their opponents.",
-    "link": "https://www.nytimes.com/2026/05/06/us/elections/california-governor-debate-cnn-takeaways.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-06T06:21:21+00:00"
-  },
-  {
-    "title": "Lufthansa faces nearly $2 billion in extra fuel costs amid Middle East conflict",
-    "description": "Germany's largest airline, Lufthansa, is taking on additional fuel costs as the Middle East conflict poses 'enormous challenges.'",
-    "link": "https://www.cnbc.com/2026/05/06/lufthansa-q1-middle-east-conflict-2-billion-fuel-cost.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302205-1777985414990-gettyimages-2273932344-20090101260504-99-322310.jpeg?v=1777985441&w=1920&h=1080",
-    "pubDate": "2026-05-06T06:13:09+00:00"
-  },
-  {
-    "title": "In Gaza, the simplest of weddings are barely affordable",
-    "description": "Couples marry in tents in Gaza as war, displacement, and soaring prices strip weddings of joy.",
-    "link": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/IMG_9137-1778007504.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T05:51:42+00:00"
-  },
-  {
-    "title": "What to know about Israeli President Herzog’s trip to Central America?",
-    "description": "Israeli Foreign Ministry says that four-day visit to Panama and Costa Rica will deepen ties with partners in the region.",
-    "link": "https://www.aljazeera.com/news/2026/5/6/what-to-know-about-israeli-president-herzogs-trip-to-central-america?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69fa3cac-1778007212.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T05:45:27+00:00"
-  },
-  {
-    "title": "China hosts Iran's top diplomat just days ahead of Trump's high-stakes visit",
-    "description": "Iran's Foreign Minister Abbas Araghchi trip to Beijing on Wednesday marks the first time he has visited China since the beginning of the Iran war.",
-    "link": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302718-1778045945768-20260506_XiIranTrump.jpeg?v=1778046122&w=1920&h=1080",
-    "pubDate": "2026-05-06T05:43:04+00:00"
-  },
-  {
-    "title": "US president Trump restarts Pope feud ahead of Rubio visit to Vatican",
-    "description": "Donald Trump has reignited his public attacks on Pope Leo, claiming he supports Iran obtaining nuclear weapons.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-POPE-LEO-1778044926.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T05:23:37+00:00"
-  },
-  {
-    "title": "AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates",
-    "description": "AMD's earnings report lands as investors rush into the stock on optimism that the AI boom is just getting started.",
-    "link": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302226-1778012523679-108302226-1777987369883-gettyimages-2254260597-CES_2026.jpeg?v=1778013248&w=1920&h=1080",
-    "pubDate": "2026-05-06T05:20:04+00:00"
-  },
-  {
-    "title": "In the global AI race, a sanctioned Chinese firm says cheaper models can still win",
-    "description": "As China’s AI competition intensifies, SenseTime is shifting toward multimodal AI, lower-cost models and overseas expansion to remain competitive, co-founder Lin Dahua said.",
-    "link": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302663-1778027104582-gettyimages-2160393288-tang-notitle240706_np4H4.jpeg?v=1778027124&w=1920&h=1080",
-    "pubDate": "2026-05-06T05:09:56+00:00"
   },
   {
     "title": "North Korea terror victims escalate fight to seize $71 million from Aave hack",
@@ -131,13 +229,6 @@
     "link": "https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/574f5eccf684186eb493301ddc39b80ea975f20f-1000x669.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-05-06T05:09:22+00:00"
-  },
-  {
-    "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
-    "description": "Iran's foreign minister meets his Chinese counterpart one week before President Donald Trump's visit to Beijing.",
-    "link": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-06T041513Z_1161362101_RC2F3LANVDGX_RTRMADP_3_IRAN-CRISIS-CHINA-ARAQCHI-1778043143.jpg?resize=1200%2C630",
-    "pubDate": "2026-05-06T04:55:02+00:00"
   },
   {
     "title": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues",
@@ -154,25 +245,11 @@
     "pubDate": "2026-05-06T04:29:35+00:00"
   },
   {
-    "title": "Samsung crossses $1 trillion valuation as AI frenzy drives historic rally, lifting shares over 15%",
-    "description": "The rally comes after the company reported an over eightfold increase in first-quarter operating profits last week.",
-    "link": "https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108299680-1777518266117-gettyimages-1178845030-250305final.jpeg?v=1777518327&w=1920&h=1080",
-    "pubDate": "2026-05-06T04:26:00+00:00"
-  },
-  {
     "title": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
     "description": "Price compression near $1.42 comes as analysts point to a repeating bull flag structure and thinning liquidity conditions.",
     "link": "https://www.coindesk.com/markets/2026/05/06/xrp-above-usd1-42-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/580875c0cb7429ebb8416d921843189e0a01be16-1196x732.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-05-06T04:25:26+00:00"
-  },
-  {
-    "title": "Romania’s pro-EU government ousted after no-confidence vote",
-    "description": "The pro-European Union coalition of Romanian Prime Minister Ilie Bolojan has collapsed after a vote of no confidence.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/romanias-pro-eu-government-ousted-after-no-confidence-vote?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778041324.jpg?resize=1620%2C1080&quality=80",
-    "pubDate": "2026-05-06T04:22:16+00:00"
   },
   {
     "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
@@ -196,18 +273,11 @@
     "pubDate": "2026-05-06T04:04:52+00:00"
   },
   {
-    "title": "US pauses plan to guide ships through the Strait of Hormuz",
-    "description": "Donald Trump has said that the US military operation guiding ships through the Strait of Hormuz will be paused.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-pauses-plan-to-guide-ships-through-the-strait-of-hormuz?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Hormuz-project-freedom-paused-1778038684.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T03:39:28+00:00"
-  },
-  {
-    "title": "Spain agrees to let hantavirus-hit cruise ship dock in Canary Islands",
-    "description": "Three people have died since the outbreak in April, while two crew members on board the ship require urgent care.",
-    "link": "https://www.aljazeera.com/news/2026/5/6/spain-agrees-to-let-hantavirus-hit-cruise-ship-dock-in-canary-islands?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T153002Z_1355855329_RC2B2LAP7RSG_RTRMADP_3_CRUISESHIP-HANTAVIRUS-UPDATE-1778034046.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T03:19:12+00:00"
+    "title": "Disney reports earnings before the bell. Here's what to expect",
+    "description": "Disney's second-quarter earnings report comes less than two months after Josh D'Amaro took the helm as CEO.",
+    "link": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108260683-1770126131917-108260683-1770125907979-gettyimages-1869811750-vcg111470591485.jpg?v=1770126142&w=1920&h=1080",
+    "pubDate": "2026-05-06T04:01:01+00:00"
   },
   {
     "title": "Suspect in National Mall Shooting Expressed Hostility Toward White House, Authorities Say",
@@ -236,13 +306,6 @@
     "link": "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html",
     "thumbnail": "",
     "pubDate": "2026-05-06T02:42:22+00:00"
-  },
-  {
-    "title": "Protesters rally in Louisiana and Tennessee against redistricting",
-    "description": "Demonstrators rallied in Louisiana and Tennessee against against redistricting.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/protesters-rally-in-louisiana-and-tennessee-against-redistricting?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Tennessee-voting-rights-1778034305.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T02:25:51+00:00"
   },
   {
     "title": "Daredevil Born Again season 3 plot, cast, release date window and everything else we know",
@@ -287,25 +350,11 @@
     "pubDate": "2026-05-06T00:15:28+00:00"
   },
   {
-    "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-    "description": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
-    "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c2/live/8a9268b0-48d9-11f1-b64a-cbdeb0211cb5.jpg",
-    "pubDate": "2026-05-06T00:15:14+00:00"
-  },
-  {
-    "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
-    "description": "US Defense Secretary Pete Hegseth says ceasefire with Iran remains in place despite growing tensions in Hormuz Strait.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fa572f0ca4-1778013999.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T00:00:00+00:00"
-  },
-  {
-    "title": "Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress",
-    "description": "President Donald Trump said he is pausing \"Project Freedom,\" the U.S. military's bid to guide commercial ships out of the Strait of Hormuz.",
-    "link": "https://www.cnbc.com/2026/05/05/trump-iran-deal-project-freedom-hormuz-strait.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108301542-17779013932026-05-04t131617z_369764636_rc231lajav82_rtrmadp_0_iran-crisis.jpeg?v=1777901527&w=1920&h=1080",
-    "pubDate": "2026-05-05T23:57:15+00:00"
+    "title": "Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto",
+    "description": "Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.",
+    "link": "https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108098121-1738791949921-gettyimages-2162975316-BITCOIN_2024.jpeg?v=1764687924&w=1920&h=1080",
+    "pubDate": "2026-05-05T23:54:03+00:00"
   },
   {
     "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
@@ -329,11 +378,11 @@
     "pubDate": "2026-05-05T22:56:20+00:00"
   },
   {
-    "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
-    "description": "Speakers point to complexity, poor user experience and lack of transparency as key obstacles for mainstream users.",
-    "link": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/58c032123c0916cfd50f38068a904b2c009f20a2-3770x2122.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-05T22:39:33+00:00"
+    "title": "EV maker Lucid suspends production guidance amid incoming CEO's business review",
+    "description": "Lucid Group said it will make moves to better align its production with customer demand for its luxury all-electric vehicles.",
+    "link": "https://www.cnbc.com/2026/05/05/lucid-lcid-q1-2026.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108229512-17636744012025-11-20t213231z_903556712_rc2i0iaqlai0_rtrmadp_0_autoshow-la.jpeg?v=1778021842&w=1920&h=1080",
+    "pubDate": "2026-05-05T22:52:00+00:00"
   },
   {
     "title": "Diablo 4 interactive map",
@@ -343,6 +392,13 @@
     "pubDate": "2026-05-05T22:31:19+00:00"
   },
   {
+    "title": "OpenAI trial: Brockman rebuts Musk's take on startup's history, recounts secret work for Tesla",
+    "description": "OpenAI President Greg Brockman concluded his testimony on Tuesday as the blockbuster trial between the AI startup and Elon Musk rolled into its second week.",
+    "link": "https://www.cnbc.com/2026/05/05/open-ai-altman-musk-trial-brockman-testimony.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108301688-1777911401575-gettyimages-2273978244-MUSK_ALTMAN_TRIAL.jpeg?v=1777911431&w=1920&h=1080",
+    "pubDate": "2026-05-05T22:27:03+00:00"
+  },
+  {
     "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
     "description": "Investors back a model that moves insurance risk and capital flows onto blockchain rails, as onchain reinsurance looks to attract institutional participation.",
     "link": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -350,56 +406,14 @@
     "pubDate": "2026-05-05T22:20:15+00:00"
   },
   {
-    "title": "Ripple CEO says market structure bill not a ‘done deal,’ despite stablecoin compromise",
+    "title": "Ripple CEO says market structure bill not ‘done deal,’ despite compromise",
     "description": "Brad Garlinghouse addressed attendees at a Tuesday crypto conference on the progress of the CLARITY Act after US lawmakers announced a compromise on stablecoin yield that could advance the legislation.",
     "link": "https://cointelegraph.com/news/ripple-ceo-market-structure-progress-stablecoin-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI-Crypto-donations-in-politics-Ripple.jpg?prefix=media%2Farticle-covers",
     "pubDate": "2026-05-05T22:08:41+00:00"
   },
   {
-    "title": "The world's entire economy will be tokenized, says Consensys’ Joseph Lubin",
-    "description": "The Consensys CEO and founder said tokenization can be traced back to Ethereum, the blockchain he helped co-found.",
-    "link": "https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d24e9e537cd71ad7aac0c7e03d7614f0d51f8618-2048x1365.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-05T22:06:55+00:00"
-  },
-  {
-    "title": "It's transparency, not tech alone, that drives crypto adoption, panelists tell Consensus Miami",
-    "description": "Execs from PayPal, Robinhood, Public.com and 248 Ventures said the way to move retail into crypto and AI is to slow down, show your work, and put users back in control.",
-    "link": "https://www.coindesk.com/business/2026/05/05/it-s-transparency-not-tech-alone-that-drives-crypto-adoption-panelists-tell-consensus-miami",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fa4aefb57d529a0b2dbe742ad352934668de5973-3020x1536.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-05T22:04:41+00:00"
-  },
-  {
-    "title": "Different voices in product, policy and hiring change crypto outcomes, panelists tell Consensus Miami",
-    "description": "Senior leaders from Mastercard, the Crypto Council for Innovation and Clerisy said the right people in the right rooms can reshape internal decisions, citing examples from stablecoin-linked cards and financial access to staking-policy framing in Washington.",
-    "link": "https://www.coindesk.com/business/2026/05/05/different-voices-in-product-policy-and-hiring-change-crypto-outcomes-panelists-tell-consensus-miami",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bc7bf54d188347506acb65c090676e9c35a4f221-3024x1964.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-05T21:57:20+00:00"
-  },
-  {
-    "title": "AI agents are breaking web economics, but Cloudflare says x402 can help",
-    "description": "The company’s Chief Strategy Officer said that more than half of internet traffic is now non-human, but that the x402 Foundation is building the rails for a \"golden age of content.\"",
-    "link": "https://www.coindesk.com/tech/2026/05/05/ai-agents-are-breaking-web-economics-but-cloudflare-says-x402-can-help",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/50dccf242dd353d88baa4f9fbd906c8477ab4aa4-2048x1365.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-05T21:47:54+00:00"
-  },
-  {
-    "title": "Prophet launches AI-powered prediction market with live $10,000 trading tranche",
-    "description": "Prophet, an AI-native prediction market platform, has launched its first live trading tranche, introducing a system where an AI model acts as the counterparty to user trades using real capital.",
-    "link": "https://cointelegraph.com/press-releases/prophet-launches-ai-powered-prediction-market-with-live-10000-trading-tranche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/2352342-1.jpg?prefix=media%2Farticle-covers",
-    "pubDate": "2026-05-05T21:30:00+00:00"
-  },
-  {
-    "title": "Kraken eyes IPO as it partners with MoneyGram to bridge crypto-to-cash gap",
-    "description": "Payward and Kraken co-CEO Arjun Sethi says the exchange is “80% ready” to go public, as a new partnership with MoneyGram aims to expand access to digital assets by solving last-mile cash conversion.",
-    "link": "https://www.coindesk.com/business/2026/05/05/kraken-eyes-ipo-as-it-partners-with-moneygram-to-bridge-crypto-to-cash-gap",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c6a8d9e5fa0a7902d01bc64094e514fa9a1ac32b-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-05T21:29:15+00:00"
-  },
-  {
-    "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+    "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
     "description": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
     "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19c/live/d2e8e220-48c9-11f1-b55d-0f258dce1735.jpg",
@@ -420,11 +434,11 @@
     "pubDate": "2026-05-05T21:19:00+00:00"
   },
   {
-    "title": "The Best Matcha Powder, Vetted by a Daily Drinker (2026)",
-    "description": "I tried a dozen matcha powders to find the very best one.",
-    "link": "https://www.bonappetit.com/story/best-matcha-powder",
-    "thumbnail": "https://assets.bonappetit.com/photos/68912d30d715c1871aba4eb5/master/pass/8.1_BA_Best-Matcha-Powders.jpg",
-    "pubDate": "2026-05-05T21:17:37+00:00"
+    "title": "Aluminum prices are surging. Here's how companies are handling the costs",
+    "description": "Aluminum's surge since the start of the Iran war is creating cost pressures for some of America's largest companies.",
+    "link": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302451-1778004792573-Coors_Ford.jpg?v=1778014767&w=1920&h=1080",
+    "pubDate": "2026-05-05T21:17:20+00:00"
   },
   {
     "title": "Assassin's Creed spinoff takes to the stage (and to Canada) with Heredis",
@@ -434,18 +448,11 @@
     "pubDate": "2026-05-05T21:15:50+00:00"
   },
   {
-    "title": "Bitcoin short liquidations push BTC to multi-month highs: Is $90K next?",
-    "description": "Short liquidations and rising open interest may be signs of the bulls’ plan to push the Bitcoin price closer to $90,000.",
-    "link": "https://cointelegraph.com/markets/bitcoin-eyes-clear-path-to-90k-as-79b-shorts-unwind-since-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI-Bitcoin-vs-Gold-Who-Wins-the-Rally-(1).jpg?prefix=media%2Farticle-covers",
-    "pubDate": "2026-05-05T21:13:22+00:00"
-  },
-  {
-    "title": "Easy Gazpacho (Spanish Cold Tomato Soup; Blender Method)",
-    "description": "This tangy chilled soup is basically summer in a bowl.",
-    "link": "https://www.bonappetit.com/recipe/best-gazpacho-for-summer",
-    "thumbnail": "https://assets.bonappetit.com/photos/57aca0e0f1c801a1038bc671/master/pass/summer-gazpacho.jpg",
-    "pubDate": "2026-05-05T21:03:40+00:00"
+    "title": "FDA withdrew studies finding Covid, shingles vaccines were safe",
+    "description": "The studies were \"withdrawn because the authors drew broad conclusions that were not supported by the underlying data,\" the spokesperson told CNBC.",
+    "link": "https://www.cnbc.com/2026/05/05/fda-studies-covid-shingles-vaccines-safe.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108225405-17630411502025-11-13t081514z_63848571_rc28heain8ko_rtrmadp_0_biocon-usa.jpeg?v=1763041165&w=1920&h=1080",
+    "pubDate": "2026-05-05T20:45:44+00:00"
   },
   {
     "title": "D&amp;D sci-fi book trilogy Neon Odyssey raises $3.7 million in hours on Kickstarter",
@@ -474,13 +481,6 @@
     "link": "https://www.gamespot.com/articles/mindseye-dev-reportedly-laid-off-170-of-250-employees/1100-6539796/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-05-05T20:22:00+00:00"
-  },
-  {
-    "title": "Data suggests 'hiring recession' may be behind us — but the Iran war poses job market risks",
-    "description": "Hiring activity increased in March, according to federal data issued Tuesday. However, the Iran war threatens to stall that progress in the job market.",
-    "link": "https://www.cnbc.com/2026/05/05/hiring-picks-up-but-iran-war-poses-risks-for-job-market.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108250691-1767986912866-gettyimages-2255433542-anotherday172742751_4kwox1dp.jpeg?v=1778003280&w=1920&h=1080",
-    "pubDate": "2026-05-05T20:10:54+00:00"
   },
   {
     "title": "Judge Refers Justice Dept. Lawyer for Possible Discipline, Calling Out ‘Lack of Candor’",
@@ -546,32 +546,11 @@
     "pubDate": "2026-05-05T18:37:35+00:00"
   },
   {
-    "title": "Watch: Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'",
-    "description": "Capt Raman Kapoor's ship is one of several to be stranded in the strait in the midst of the power struggle between the US and Iran.",
-    "link": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca6/live/d630e000-48af-11f1-90e6-350a323e11ac.jpg",
-    "pubDate": "2026-05-05T18:28:35+00:00"
-  },
-  {
-    "title": "Vanilla Powder Is Professional Bakers' Best-Kept Secret",
-    "description": "The concentrated powder adds a punch of flavor without the fuss and cost of fresh vanilla beans.",
-    "link": "https://www.bonappetit.com/story/beyond-good-vanilla-powder-review",
-    "thumbnail": "https://assets.bonappetit.com/photos/69f98ecb9127ff68eeb53b64/master/pass/Vanilla_Rec%202.jpg",
-    "pubDate": "2026-05-05T18:26:10+00:00"
-  },
-  {
     "title": "The Next Assassin's Creed Sure Isn't What We Expected",
     "description": "During the last two decades, the Assassin's Creed franchise has included video games, a feature film, and an upcoming TV series. Now, Ubisoft is taking Assassin's Creed on the road with a live show called Heredis. On social media, Ubisoft announced that Heredis is an original Assassin's Creed story that won't require viewers to have any familiarity with the games. The show is being put on by The 7 Fingers theater group, and the performance will incorporate acrobatics and parkour. According to the show's official description, it will be about \"a young man traveling across history to find his lost father.\" The Creed takes the stage. 🦅Heredis, an original live show with Assassin's Creed, is coming to Montreal for its world premiere.Artists, actors and dancers join forces on stage for a new acrobatic experience! ⚔️ pic.twitter.com/xeaVXiMk4T — Assassin's Creed (@assassinscreed) May 5, 2026 The world premiere of Heredis will be held on December 3 at the Théâtre Maisonneuve, Place des Arts in Montreal. The final performance in Montreal will be on December 20. On January 21, 2027, Heredis will open for a run in Paris at the Casino de Paris before concluding on February 7, 2027. Further performances will be announced at a later date, but the official site for Heredis is already online. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/the-next-assassins-creed-sure-isnt-what-we-expected/1100-6539790/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-05-05T18:23:00+00:00"
-  },
-  {
-    "title": "Hate crime prosecutions to be fast-tracked after antisemitic attacks",
-    "description": "The director of public prosecutions has told prosecutors in England and Wales to bring charges more quickly.",
-    "link": "https://www.bbc.com/news/articles/cz72eye5zzeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e28/live/828cdc00-48a1-11f1-b55d-0f258dce1735.jpg",
-    "pubDate": "2026-05-05T16:56:37+00:00"
   },
   {
     "title": "New Xbox CEO Taps More AI Veterans To Help Lead Xbox",
@@ -595,108 +574,52 @@
     "pubDate": "2026-05-05T03:07:00+00:00"
   },
   {
-    "title": "Vertex tops profit estimates as sales of new cystic fibrosis drug surge",
+    "title": "This Blue-Chip Dividend Stock Is Becoming an AI Star",
     "description": "",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/vertex-tops-profit-estimates-sales-200635156.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/e399242b8f3e0615f46201fbf1bfe0c7",
-    "pubDate": "2026-05-04T20:06:35+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-dividend-stock-becoming-233002536.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/oW4ciAduP7MKpLDlp4ZEmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/barchart_com_477/7a001c013d6478f36b63c9346edbba82",
+    "pubDate": "2026-05-04T23:30:02+00:00"
   },
   {
-    "title": "Tesla Rival Jumps On Strong Orders For Updated Model 3 Competitor",
+    "title": "Meta's Revenue Growth Is Impressive, but Its AI Budget Is Getting Harder to Ignore",
     "description": "",
-    "link": "https://www.investors.com/news/tesla-rival-xiaomi-su7-orders-model-3/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/05/Stock-Xiaomi-SU7Blue-shut.jpg",
-    "pubDate": "2026-05-04T20:03:38+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/metas-revenue-growth-impressive-ai-232628209.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/uEcmyV1PkExiXnVJZRpHwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/4b3c2da69bd2939e15ca5dfa0108a34d",
+    "pubDate": "2026-05-04T23:26:28+00:00"
   },
   {
-    "title": "Duolingo's growth outlook moderates as it prioritizes engagement over monetization",
+    "title": "Apple's Tim Cook says AI-fueled 'RAMmageddon' will make your next laptop and phone a lot pricier",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/duolingos-growth-outlook-moderates-prioritizes-200213132.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/16ba78810417e7b18cb2586e777c5fec",
-    "pubDate": "2026-05-04T20:02:13+00:00"
+    "link": "https://finance.yahoo.com/sectors/technology/articles/apples-tim-cook-says-ai-230500503.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/1amT.xfnwJOTrmY8ckXfiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/c1aaec82fdfa0bf74bc196b167b5029e",
+    "pubDate": "2026-05-04T23:05:00+00:00"
   },
   {
-    "title": "Cathie Wood Cashes In On Surging AMD Stock With Earnings Due",
+    "title": "Big Oil Resists Push To Prioritize Output Growth",
     "description": "",
-    "link": "https://www.investors.com/news/cathie-wood-ark-invest-amd-stock-earnings/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/05/Biz-Cathie-Woods-news.jpg",
-    "pubDate": "2026-05-04T20:02:02+00:00"
+    "link": "https://finance.yahoo.com/sectors/energy/articles/big-oil-resists-push-prioritize-230000111.html",
+    "thumbnail": "https://s.yimg.com/os/en/oilprice.com/8c9a1d0b93deb29a3d194caa8547d696",
+    "pubDate": "2026-05-04T23:00:00+00:00"
   },
   {
-    "title": "IIPR Q3 2025 Earnings Call Transcript",
+    "title": "Canada’s Hut 8 Refinances Debt With New FalconX Loan",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/iipr-q3-2025-earnings-call-195859204.html",
-    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-    "pubDate": "2026-05-04T19:58:59+00:00"
+    "link": "https://finance.yahoo.com/markets/crypto/articles/canada-hut-8-refinances-debt-224600580.html",
+    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/c0fa299340ecd77211ea3197431817a4",
+    "pubDate": "2026-05-04T22:46:00+00:00"
   },
   {
-    "title": "Ahead of Palantir Earnings, Here Is What Barchart Options Data Shows for PLTR Stock",
+    "title": "Mattel CEO says toy industry remains 'resilient' despite $4 gas and economic gloom",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/ahead-palantir-earnings-barchart-options-195141201.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/icm0tInt7hMDh781thIjGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/barchart_com_477/031eab01f1693f46983aef7f212f9424",
-    "pubDate": "2026-05-04T19:51:41+00:00"
+    "link": "https://finance.yahoo.com/news/mattel-ceo-says-toy-industry-remains-resilient-despite-4-gas-and-economic-gloom-214608253.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/5d8s5DmSBewyi9db3pDkWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/649affe9-3d7e-4b99-9093-17e6a4c597c9",
+    "pubDate": "2026-05-04T21:46:08+00:00"
   },
   {
-    "title": "New Mexico seeks $3.7 billion, changes to Meta platforms in youth harm trial",
+    "title": "Stock market today: Dow, S&amp;P 500, Nasdaq slip, oil surges as Middle East attacks escalate",
     "description": "",
-    "link": "https://finance.yahoo.com/news/mexico-seeks-changes-meta-platforms-100455041.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/a9f6216739f0bcf25b2b7d2f123e07c6",
-    "pubDate": "2026-05-04T19:50:15+00:00"
-  },
-  {
-    "title": "How ROKU Stock Could Be One of the Biggest Winners of Sky-High Memory Prices",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/roku-stock-could-one-biggest-194848484.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/YN5KsIxvBMpOu0ngFfLTqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/barchart_com_477/f9197f239b6c754ae5b461a271b93b0e",
-    "pubDate": "2026-05-04T19:48:48+00:00"
-  },
-  {
-    "title": "How to Clean Your Grill and Make Sure It's Always Ready for Action",
-    "description": "No one would know more about this than a lifelong Texas pitmaster, so I talked to one.",
-    "link": "https://www.bonappetit.com/story/how-to-clean-your-grill",
-    "thumbnail": "https://assets.bonappetit.com/photos/69d820e778c3a0d57c7886ac/master/pass/GettyImages-1077133166.jpg",
-    "pubDate": "2026-05-04T18:27:28+00:00"
-  },
-  {
-    "title": "Greek Salad (Crunchy and Bright)",
-    "description": "A classic that’s happy alongside a hearty, meaty main or alone as a vegetarian lunch.",
-    "link": "https://www.bonappetit.com/recipe/greek-salad-recipe",
-    "thumbnail": "https://assets.bonappetit.com/photos/63f677cccd25bfbd2dccfaae/master/pass/022223-greek-salad-lede.jpg",
-    "pubDate": "2026-05-04T17:48:39+00:00"
-  },
-  {
-    "title": "5 Fast Meals Our Editors Make With Instant Noodles",
-    "description": "Like crispy okonomiyaki and sick day soup.",
-    "link": "https://www.bonappetit.com/story/meals-our-editors-make-with-instant-noodles",
-    "thumbnail": "https://assets.bonappetit.com/photos/69e90fa1cce91d16cadd3a70/master/pass/WellStocked_Ramen.gif",
-    "pubDate": "2026-05-03T10:00:00+00:00"
-  },
-  {
-    "title": "Sun, Sand, and Spirits in Mexico's Riviera Nayarit",
-    "description": "The natural landscape acts as Rosewood Mandarina's North Star—including its food and drinks.",
-    "link": "https://www.bonappetit.com/story/rosewood-mandarina-mexico-agave-tasting",
-    "thumbnail": "https://assets.bonappetit.com/photos/69f51cf2d9ba379282ce612b/master/pass/RWMDR_Facilities_Restaurant_Barra%20Penasco_Terrace_Ocean%20View.jpeg",
-    "pubDate": "2026-05-01T21:31:46+00:00"
-  },
-  {
-    "title": "The Best Japanese Knives to Take Your Set to the Next Level (2026)",
-    "description": "Traditional and hybrid Japanese blades have a reputation for being nearly perfect knives, and they deserve it.",
-    "link": "https://www.bonappetit.com/story/best-japanese-knives",
-    "thumbnail": "https://assets.bonappetit.com/photos/69f0da3d8b92365953eebde6/master/pass/Japanese%20Knives%202026.jpg",
-    "pubDate": "2026-05-01T20:20:20+00:00"
-  },
-  {
-    "title": "7 New Snacks We're Most Excited About This May",
-    "description": "This month’s Snack Drop features portable tofu, Sichuan-pepper-laced peanuts, and kid-friendly crackers you'll want to eat too.",
-    "link": "https://www.bonappetit.com/story/snack-drop-may-2026",
-    "thumbnail": "https://assets.bonappetit.com/photos/69ebc3bc271d5f8b865f68a4/master/pass/May2026Snacks.gif",
-    "pubDate": "2026-05-01T18:38:56+00:00"
-  },
-  {
-    "title": "Where to Stay in Houston If You Like to Eat",
-    "description": "In a city that eats this well, your hotel should too.",
-    "link": "https://www.bonappetit.com/story/where-to-stay-houston-food-lovers",
-    "thumbnail": "https://assets.bonappetit.com/photos/69e650966112f77213cc6cf0/master/pass/Hotel%20Saint%20Augustine%20-Lounge%20F&amp;B%20Cocktail%201%20Group%20-%20by%20Grant%20Pifer.jpg",
-    "pubDate": "2026-05-01T16:54:31+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-4-231452685.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ZXlJkzl1Gzrk87_jTsu10A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/552f5c6a-4874-49d4-81f4-170d90cb7270",
+    "pubDate": "2026-05-03T23:14:52+00:00"
   }
 ]
