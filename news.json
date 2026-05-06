@@ -1,10 +1,311 @@
 [
   {
-    "title": "CNN founder Ted Turner dies at 87",
+    "title": "People urged not to cancel flights over fuel shortage fears",
+    "description": "Airlines have cut 13,000 flights globally in May as jet fuel prices soar due to the conflict in the Middle East.",
+    "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf1e/live/7bb43ee0-491f-11f1-9546-d74beef04f02.jpg",
+    "pubDate": "2026-05-06T16:11:59+00:00"
+  },
+  {
+    "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+    "description": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+    "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9c5/live/5a6e0e90-4966-11f1-ac78-2112837ce2aa.jpg",
+    "pubDate": "2026-05-06T16:11:44+00:00"
+  },
+  {
+    "title": "Tofersen, a New Treatment for A.L.S., Reverses Symptoms for Some",
+    "description": "The drug is for a small subset of patients. But evidence that breathing and strength can get better for some of them is remarkable for a paralyzing, usually fatal disease.",
+    "link": "https://www.nytimes.com/2026/05/06/well/als-treatment-tofersen-qalsody.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T16:09:19+00:00"
+  },
+  {
+    "title": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
+    "description": "As one of the most important figures in media history, he oversaw a vast cable empire of news, sports and entertainment channels.",
+    "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T16:03:32+00:00"
+  },
+  {
+    "title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal",
+    "description": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours.",
+    "link": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302767-1778076113317-108302767-1778058274332-gettyimages-2263898051-AA_02032026_2678789.jpeg?v=1778076189&w=1920&h=1080",
+    "pubDate": "2026-05-06T16:03:30+00:00"
+  },
+  {
+    "title": "GameStop is selling $5,000 Pokémon packs after baffling $56 billion eBay bid",
+    "description": "GameStop needs to raise $56 billion in order to afford its proposed acquisition, and the road there involves Pokémon gambling",
+    "link": "https://www.polygon.com/gamestop-5k-pokemon-neutronium-power-packs-afford-ebay/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/pikachu.JPG?w=1200&h=675&fit=crop",
+    "pubDate": "2026-05-06T16:02:38+00:00"
+  },
+  {
+    "title": "Mortal Kombat 2 review: A desperate apology to angry fans who hated the last movie",
+    "description": "Mortal Kombat 2 is also a full-throated apology for the 2021 movie, in response to fan criticism over Cole Young and the lack of tournament fighting",
+    "link": "https://www.polygon.com/mortal-kombat-2-review/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdmoko_wb085.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-06T16:00:19+00:00"
+  },
+  {
+    "title": "Crypto Long &amp; Short: In quiet crypto markets, yield is the trade",
+    "description": "In this week’s Crypto Long &amp; Short Newsletter, Maxime Seiler notes that weak crypto prices mask adoption, making yield strategies the main trade. Then, Kavita Maharaj‑Alexander writes on crypto’s next phase being driven by proving compliance in practice, elevating the infrastructure providers that enable it.",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/05/06/crypto-long-and-short-in-quiet-crypto-markets-yield-is-the-trade",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4adf883a53721400b20c58ac4a2026064bacca42-7054x4703.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T16:00:00+00:00"
+  },
+  {
+    "title": "Apollo CEO Rowan warns of market correction, slams ‘egregious’ practices at rival insurers",
+    "description": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
+    "link": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108192559-1756487145801-gettyimages-1240085105-APOLLO_ROWAN.jpeg?v=1756498039&w=1920&h=1080",
+    "pubDate": "2026-05-06T15:57:17+00:00"
+  },
+  {
+    "title": "Novo Nordisk CEO says the drugmaker is more active than ever in seeking out deals",
+    "description": "Novo Nordisk CEO Mike Doustdar says the Ozempic and Wegovy maker is looking for deals more than ever before.",
+    "link": "https://www.cnbc.com/2026/05/06/novo-nordisk-ceo-mike-doustdar-ozempic-maker-looking-for-deals.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108264668-1770841844066-gettyimages-2260574499-DOUSTDAR_INTERVIEW.jpeg?v=1770841930&w=1920&h=1080",
+    "pubDate": "2026-05-06T15:56:08+00:00"
+  },
+  {
+    "title": "Epstein files: Commerce Sec. Howard Lutnick answering questions from House panel",
+    "description": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
+    "link": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302968-1778076822112-gettyimages-2271953273-AA_22042026_2750093.jpeg?v=1778076941&w=1920&h=1080",
+    "pubDate": "2026-05-06T15:55:26+00:00"
+  },
+  {
+    "title": "Netflix's One Piece anime remake has a baffling episode count that doesn't bode well",
+    "description": "Wit Studio's The One Piece will only have seven episodes and cover just half of the first saga of the manga, ending in an awkward spot.",
+    "link": "https://www.polygon.com/the-one-piece-anime-remake-episode-count/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-one-piece-remake-featured-image-luffy.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-06T15:55:19+00:00"
+  },
+  {
+    "title": "Berkshire-owned distribution giant to deploy driverless big rigs across U.S. Sun Belt",
+    "description": "Berkshire Hathaway-owned McLane, one of America's biggest distribution companies, is deploying self-driving big rigs with Aurora for its restaurants business.",
+    "link": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302540-1778010770000-Aur_Mclane_Press.jpg?v=1778082394&w=1920&h=1080",
+    "pubDate": "2026-05-06T15:54:19+00:00"
+  },
+  {
+    "title": "Halo Infinite update adds new mode six months after development ended",
+    "description": "Halo Infinite is still getting updates in 2026, despite ongoing development ending in late 2025. The new Firefight mode sounds cool.",
+    "link": "https://www.polygon.com/halo-infinite-update-firefight-gauntlet/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/gauntlet_waypoint.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-06T15:50:23+00:00"
+  },
+  {
+    "title": "New Xbox Boot-Up Sequence Goes Green",
+    "description": "Next week, your Xbox Series X|S will be a little different when booting up the Microsoft home console. Xbox CEO Asha Sharma has revealed a new intro sequence for the system on X, with the new green Xbox logo featured front and center. The sound effect also seems slightly altered from the original animation that launched in 2020 with the console. Sharma stated that the new boot-up should arrive May 13 for Xbox Series X|S owners. The green logo replaces the white-on-black animation, and it goes textless when previously \"Xbox\" was written out on screen. There was a soft hint of green on the original sequence, but this new one doesn't hold back from the color associated with the Xbox brand. New boot up coming next Wednesday. Sound on! pic.twitter.com/9HHrZHwjpH — Asha (@asha_shar) May 6, 2026 This comes just a day after Sharma announced that the AI assistant named Copilot won't be coming to Xbox after all. Though, coincidentally, Sharma has just brought on a handful of her former CoreAI colleagues to help lead Xbox going forward. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/new-xbox-boot-up-sequence-goes-green/1100-6539810/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T15:49:00+00:00"
+  },
+  {
+    "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
     "description": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
     "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ba/live/72ac4170-4957-11f1-91ca-0f2f4e61b132.jpg",
-    "pubDate": "2026-05-06T14:26:15+00:00"
+    "pubDate": "2026-05-06T15:46:06+00:00"
+  },
+  {
+    "title": "SharkNinja Brews Q1 Beat On Hot Expresso Machine Sales. But Stock Retreats.",
+    "description": "",
+    "link": "https://www.investors.com/news/technology/sharkninja-stock-sn-q1-2026-earnings/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/02/Stock-SharkNinja-ninjaluxecafe-01-company.jpg",
+    "pubDate": "2026-05-06T15:40:35+00:00"
+  },
+  {
+    "title": "Mortal Kombat Creator On Next Game And Bringing A Street Fighter Character To The Series",
+    "description": "Mortal Kombat creator Ed Boon has offered a tease for the future of the game series and revealed that he wants to see a character from Street Fighter come to Mortal Kombat some day. Speaking to Collider, Boon was asked to tease whatever NetherRealm has coming up next, whether that be the rumored Injustice 3, a new Mortal Kombat, or anything else. He said he would \"probably get in trouble\" if he did so, but he said, \"We're definitely pursuing another Mortal Kombat game.\" Beyond a new entry in the storied series, Boon said there are new things brewing \"with other forms of media and whatnot\" for the Mortal Kombat franchise. \"So, we've got a lot of great announcements that are coming,\" he said. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/mortal-kombat-creator-on-next-game-and-bringing-a-street-fighter-character-to-the-series/1100-6539808/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T15:38:00+00:00"
+  },
+  {
+    "title": "Bitcoin price rejects at $83K as Trump calls Iran deal 'big assumption'",
+    "description": "Bitcoin price action failed to revisit the $83,000 mark after US-Iran war tensions took over to steer the crypto market mood.",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-rejects-83k-trump-calls-iran-deal-big-assumption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/Google-laptop-bitcoin-Trump.jpg?prefix=media%2Farticle-covers",
+    "pubDate": "2026-05-06T15:37:38+00:00"
+  },
+  {
+    "title": "Stocks jump and oil slides after Iran peace deal report",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/asia-markets-hit-records-ai-013631444.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters.com/5839c72a2b92a278a0476c193bbf2746",
+    "pubDate": "2026-05-06T15:33:38+00:00"
+  },
+  {
+    "title": "Mellitah Advances $1.6 Billion Bouri Gas Project Ahead of Schedule",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/mellitah-advances-1-6-billion-153324955.html",
+    "thumbnail": "https://s.yimg.com/os/en/oilprice.com/c963920f806249c02a63ec67a66c75d5",
+    "pubDate": "2026-05-06T15:33:24+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Jumps 600 Points On U.S.-Iran Deal Hopes; Uber Jumps (Live Coverage)",
+    "description": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-amd-stock/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/07/Stock-wallstreet-multiflag-01-adobe.jpg",
+    "pubDate": "2026-05-06T15:32:07+00:00"
+  },
+  {
+    "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+    "description": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
+    "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108016949-1722962216313-gettyimages-2155779205-img_2019_wd10_05312024.jpeg?v=1762962226&w=1920&h=1080",
+    "pubDate": "2026-05-06T15:31:54+00:00"
+  },
+  {
+    "title": "The legal risks and practical considerations of digital asset blacklisting",
+    "description": "When digital assets are frozen, holders can suddenly be deprived of access to their legitimate assets or income. Here’s what to know to keep your digital holdings safe.",
+    "link": "https://www.coindesk.com/opinion/2026/05/06/the-legal-risks-and-practical-considerations-of-digital-asset-blacklisting",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fc345106a317dae0131b94877a37372084c12f3e-4288x2848.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T15:30:00+00:00"
+  },
+  {
+    "title": "All Far Far West Far West grave locations",
+    "description": "All 10 grave locations on the Far West map in Far Far West, marked on a map by number with instructions on how to find each one.",
+    "link": "https://www.polygon.com/far-far-west-all-far-west-grave-locations-map/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/far-far-west-far-west-grave-locations-header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-06T15:27:55+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/article-covers-110589-what-happened-in-crypto-today.jpg?prefix=media%2Farticle-covers",
+    "pubDate": "2026-05-06T15:27:38+00:00"
+  },
+  {
+    "title": "Tennessee Republicans Unveil New Congressional Map Carving Up Majority-Black House District",
+    "description": "The General Assembly is expected to quickly approve the map, which slices up Memphis, a majority-Black city that makes up most of the state’s lone Democratic district.",
+    "link": "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T15:24:31+00:00"
+  },
+  {
+    "title": "Up to 150 former WHSmith high street stores to close",
+    "description": "The stores were purchased by Modella Capital last year, and then rebranded under the name TGJones.",
+    "link": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257a/live/919ac350-4956-11f1-91ca-0f2f4e61b132.jpg",
+    "pubDate": "2026-05-06T15:22:58+00:00"
+  },
+  {
+    "title": "The Protocol: AI Agents form their own firm",
+    "description": "Also: Alpenglow upgrade update, Ripple on North Korea hacking threat, Cloudflare on AI agents and web economics",
+    "link": "https://www.coindesk.com/tech/2026/05/06/the-protocol-ai-agents-form-their-own-firm",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/82824c4c1414de071b93436d25e9db379608b8d8-3840x2160.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T15:18:23+00:00"
+  },
+  {
+    "title": "Political parties make final pitches ahead of key elections",
+    "description": "A final push for votes is under way on the last day of campaigning ahead of elections across England, Scotland and Wales.",
+    "link": "https://www.bbc.com/news/articles/cvgzwdee72eo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4328/live/1d4de8a0-495c-11f1-8771-e5d61459659d.jpg",
+    "pubDate": "2026-05-06T15:16:00+00:00"
+  },
+  {
+    "title": "Ken Griffin: Citadel expanding in Miami in response to NYC mayor Mamdani's 'poor taste' tax video",
+    "description": "Mamdani's office said in response to Griffin, \"our tax system is fundamentally broken. It rewards extreme wealth while working people are pushed to the brink.\"",
+    "link": "https://www.cnbc.com/2026/05/06/mamdani-ken-griffin-nyc-miami-tax.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302877-1778069375600-Mamdani_Griffin.jpg?v=1778069473&w=1920&h=1080",
+    "pubDate": "2026-05-06T15:13:22+00:00"
+  },
+  {
+    "title": "Morgan Stanley takes on crypto trading rivals with E*Trade pilot",
+    "description": "The Wall Street bank is charging 50 basis points per crypto trade, below basic retail pricing at Coinbase, Robinhood and Charles Schwab.",
+    "link": "https://cointelegraph.com/news/morgan-stanley-emerges-as-crypto-exchange-competitor-with-low-fee-trading-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/Moon-Bitcoin1-1.jpg?prefix=media%2Farticle-covers",
+    "pubDate": "2026-05-06T15:08:47+00:00"
+  },
+  {
+    "title": "All Active Neverness To Everness Codes May 2026 For Free Beetle Coins And More",
+    "description": "NTE: Neverness to Everness officially launched in April 2026 and follows Hotta Studio's previous open-world adventure, Tower of Fantasy. Set in a near-future fictional Japanese city filled with skyscrapers, fast cars, and neon signs lighting up the night sky, you'll fight against anomalies by using your character's Esper powers, neutralizing them before they cause too much havoc. As the latest in a sea of gacha-based free games, there's a lot of value in pulling the best characters, accumulating items to use to upgrade your characters, and collecting skins to show off to everyone. Every item is valuable in your quest to eliminate threats to the city, so it's worth checking back often to see if any more items are available in the gacha game. Make sure you claim your new items via the Mailbox once you finish entering your codes.Currently Active Neverness to Everness codes While entering these codes, make sure you either type them in as shown or copy and paste them into the text box. Once you successfully redeem each one, you won't see them immediately. You'll need to open your Mail inbox to find a new message you can open to claim the rewards. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/neverness-to-everness-codes/1100-6539804/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T15:06:00+00:00"
+  },
+  {
+    "title": "Four killed in post-election violence in India’s West Bengal",
+    "description": "Unrest grips the key eastern state after Modi's Hindu nationalist BJP wins the state election for the first time.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fb4aa6287c-1778076326.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T15:03:45+00:00"
+  },
+  {
+    "title": "Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.",
+    "description": "A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff.",
+    "link": "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T15:02:05+00:00"
+  },
+  {
+    "title": "A Look Inside the Case That Enshrined Political Power for Billionaires",
+    "description": "After Watergate, Congress tried to curtail the role of money in politics. But a pivotal Supreme Court case nipped it in the bud. Years later, new details are emerging on how wealthy Americans were conferred with a “right to spend” on elections.",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T15:00:44+00:00"
+  },
+  {
+    "title": "Edge of Eternities was never a Star Trek test run, Magic designer says",
+    "description": "We spoke with Magic principal designer Gavin Verhey about development on the Star Trek set, and its relationship with Edge of Eternities isn't simple.",
+    "link": "https://www.polygon.com/mtg-star-trek-edge-of-eternities-sci-fi-magic-the-gathering-gavin-verhey-interview/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/warp-speed-mtg.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-06T15:00:18+00:00"
+  },
+  {
+    "title": "Hut 8 shares jump over 30% on news of $9.8 billion AI data center lease",
+    "description": "Bitcoin miner expands into AI infrastructure with long-term hyperscale contract in Texas, which includes options that could increase the total value of the agreement to over $25 billion.",
+    "link": "https://www.coindesk.com/business/2026/05/06/hut-8-shares-jump-nearly-30-on-news-of-usd9-8-billion-ai-data-center-lease",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c048a2338d0b73e774b0a8dfd7a95a19bfd35436-3086x1554.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T14:56:37+00:00"
+  },
+  {
+    "title": "Consensus Miami Day 2: Real-time coverage and highlights from on the ground",
+    "description": "It's day two of Consensus Miami 2026 on Wednesday. Stay tuned for updates throughout the day.",
+    "link": "https://www.coindesk.com/business/2026/05/06/consensus-miami-day-2-real-time-coverage-and-highlights-from-on-the-ground",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/ed84d1352767e7a32d544690e862ec7223fd8367-4242x2828.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T14:56:09+00:00"
+  },
+  {
+    "title": "Hades 2 receives new mod that stuff a whole other game inside it",
+    "description": "Developer Supergiant Games is 'blown away' by this player's mod that completely transforms Hades 2.",
+    "link": "https://www.polygon.com/hades-2-mod-adds-hades-1-melinoe-zagreus/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/nemesis.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-06T14:55:06+00:00"
+  },
+  {
+    "title": "Stablecoin industry opposes Bank of England’s unhosted wallet ban",
+    "description": "The crypto industry in the UK has come out against the Bank of England’s proposed policy that would ban custodial wallets for stablecoins.",
+    "link": "https://cointelegraph.com/features/stablecoin-industry-opposes-bank-of-englands-unhosted-wallet-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI%20A%20list%20of%20most%20prominent%20fiat%20backed%20stablecoins.jpg?prefix=media%2Farticle-covers",
+    "pubDate": "2026-05-06T14:55:00+00:00"
+  },
+  {
+    "title": "Nvidia, Corning partner on massive optical fiber deal that may be a game changer for AI",
+    "description": "Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia.",
+    "link": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302673-1778030331411-260109_cn_30_tech_corning_meta_cleanmp400_15_13_17Still021.jpg?v=1778032505&w=1920&h=1080",
+    "pubDate": "2026-05-06T14:53:49+00:00"
+  },
+  {
+    "title": "Who is Zack Polanski, UK Greens leader and rising political star?",
+    "description": "Polanski has been likened to New York's Zohran Mamdani for his popular blend of environmental and socialist policies.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/who-is-zack-polanski-uk-greens-leader-and-rising-political-star?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69fb3ec4-1778073284.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T14:47:33+00:00"
+  },
+  {
+    "title": "AMD's Su explains what's behind massive forecast change as stock roars 15% on earnings",
+    "description": "CEO Lisa Su highlighted the growing demand for central processing units, doubling her long term forecast after strong first-quarter earnings.",
+    "link": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302935-1778074131329-LisaSu5.jpg?v=1778074231&w=1920&h=1080",
+    "pubDate": "2026-05-06T14:39:39+00:00"
   },
   {
     "title": "28 Years Later 3 looks doomed after Bone Temple's failed Netflix run",
@@ -14,53 +315,18 @@
     "pubDate": "2026-05-06T14:25:19+00:00"
   },
   {
-    "title": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
-    "description": "As one of the most important figures in media history, he oversaw a vast cable empire of news, sports and entertainment channels.",
-    "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+    "title": "CNN founder Ted Turner dead at 87",
+    "description": "No cause of death disclosed for media mogul who revolutionised news broadcasting.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/cnn-founder-ted-turner-dead-at-87?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fb4e47ba47-1778077255.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T14:20:26+00:00"
+  },
+  {
+    "title": "Ubisoft Parries Latest Assassin's Creed Leak, Calls It \"Misinformation\"",
+    "description": "A screenshot supposedly from Assassin's Creed Invictus made the rounds earlier this week, ultimately leading to Ubisoft actually commenting on the validity of the picture. The official Assassin's Creed account on X replied to the leaker who goes by j0nathan: \"Nice try... This might have started as an image from our private test, but it's been heavily altered (most probably with AI). Not great to spread misinformation.\" Ubisoft added that it will officially reveal more info about Codename Invictus \"when the time is right.\" The project is focused on PvP multiplayer, with For Honor veterans at Ubisoft Montreal working on the game. Almost two years ago, j0nathan relayed that Invictus was inspired by Fall Guys and supported up to 16 players. Nice try... This might have started as an image from our private test, but it’s been heavily altered (most probably with AI). Not great to spread misinformation. 👎For those genuinely curious about the project: we'll share more when the time is right! — Assassin's Creed (@assassinscreed) May 5, 2026 Earlier this year, another Assassin's Creed multiplayer game called League was reportedly canceled at Ubisoft Annecy. The project supposedly started as DLC for Assassin's Creed Shadows before spinning off into a standalone title. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/ubisoft-parries-latest-assassins-creed-leak-calls-it-misinformation/1100-6539807/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
-    "pubDate": "2026-05-06T14:24:27+00:00"
-  },
-  {
-    "title": "Nvidia, Corning partner on massive optical fiber deal that may be a game changer for AI",
-    "description": "Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia.",
-    "link": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302673-1778030331411-260109_cn_30_tech_corning_meta_cleanmp400_15_13_17Still021.jpg?v=1778032505&w=1920&h=1080",
-    "pubDate": "2026-05-06T14:12:26+00:00"
-  },
-  {
-    "title": "Here’s Why Investors Favored Balchem Corp. (BCPC)",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-investors-favored-balchem-corp-141204920.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/ea1367417c2b6847452d5e88ee66a4fc",
-    "pubDate": "2026-05-06T14:12:04+00:00"
-  },
-  {
-    "title": "AMD's stock soars 16% as data center growth pushes revenue and guidance past estimates",
-    "description": "AMD's earnings report lands as investors rush into the stock on optimism that the AI boom is just getting started.",
-    "link": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302226-1778012523679-108302226-1777987369883-gettyimages-2254260597-CES_2026.jpeg?v=1778013248&w=1920&h=1080",
-    "pubDate": "2026-05-06T14:11:37+00:00"
-  },
-  {
-    "title": "Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.",
-    "description": "A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff.",
-    "link": "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-06T14:11:27+00:00"
-  },
-  {
-    "title": "Car payments squeeze Americans as auto debt hits $1.68 trillion, report finds",
-    "description": "Auto debt has swelled to $1.68 trillion, a new analysis finds. Americans face costlier vehicles, higher interest rates and lengthier loan terms.",
-    "link": "https://www.cnbc.com/2026/05/06/car-payments-squeeze-americans.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108301536-1777901211429-gettyimages-2271203751-jr_12657_4saqpkhc.jpeg?v=1777901250&w=1920&h=1080",
-    "pubDate": "2026-05-06T14:09:50+00:00"
-  },
-  {
-    "title": "CVS Stock Breaks Out On Earnings Due To ACA Exit, Premium Hikes",
-    "description": "",
-    "link": "https://www.investors.com/news/cvs-stock-breaks-out-aca-exit-premium-hikes/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2017/11/Stock-cvs-04-shutter.jpg",
-    "pubDate": "2026-05-06T14:09:00+00:00"
+    "pubDate": "2026-05-06T14:16:00+00:00"
   },
   {
     "title": "NYSE tokenization partners warn synthetic stock tokens could mislead retail traders",
@@ -91,34 +357,6 @@
     "pubDate": "2026-05-06T14:05:47+00:00"
   },
   {
-    "title": "Dollar dips on hopes of US-Iran deal; yen surge sparks intervention buzz",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/dollar-eases-us-iran-deal-010122690.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/3de404f924b70fecc9e6aea826d41ee1",
-    "pubDate": "2026-05-06T14:04:15+00:00"
-  },
-  {
-    "title": "Bristlemoon Global Fund: AppLovin (APP) is an Applied AI Winner",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bristlemoon-global-fund-applovin-app-140405616.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/c9ff7fc94cfb0f147c3098e248ebdc5d",
-    "pubDate": "2026-05-06T14:04:05+00:00"
-  },
-  {
-    "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-    "description": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-    "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35fe/live/3df092e0-494a-11f1-bd52-e755d604ece4.jpg",
-    "pubDate": "2026-05-06T14:03:53+00:00"
-  },
-  {
-    "title": "Stock Market Today: Dow Jumps On U.S.-Iran Deal Hopes; Arista Flashes Sell Signal (Live Coverage)",
-    "description": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-amd-stock/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/07/Stock-wallstreet-multiflag-01-adobe.jpg",
-    "pubDate": "2026-05-06T14:02:43+00:00"
-  },
-  {
     "title": "Rahul Kohli's Saros performance is terrific, but his character is the worst",
     "description": "Saros lead Arjun Devraj is a selfish character who is blinded by his own desire to find Nitya, and he fully deserves what happens to him in the end.",
     "link": "https://www.polygon.com/saros-arjun-devraj-rahul-kohli-performance/",
@@ -133,39 +371,11 @@
     "pubDate": "2026-05-06T14:00:00+00:00"
   },
   {
-    "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
-    "description": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
-    "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf1e/live/7bb43ee0-491f-11f1-9546-d74beef04f02.jpg",
-    "pubDate": "2026-05-06T13:57:46+00:00"
-  },
-  {
-    "title": "Weather Service Races to Rehire as Storm Season Arrives",
-    "description": "After deep cuts last year, the agency is hiring hundreds. But fears linger that it isn’t equipped for imminent tornado and hurricane threats.",
-    "link": "https://www.nytimes.com/2026/05/06/climate/weather-service-staff-storms.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-06T13:56:53+00:00"
-  },
-  {
-    "title": "Disney pops 7% after streaming, parks drive revenue beat in first report under CEO Josh D'Amaro",
-    "description": "Disney revenue topped analyst expectations when the media giant reported its fiscal second-quarter earnings on Wednesday.",
-    "link": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108260683-1770126131917-108260683-1770125907979-gettyimages-1869811750-vcg111470591485.jpg?v=1770126142&w=1920&h=1080",
-    "pubDate": "2026-05-06T13:52:22+00:00"
-  },
-  {
     "title": "Burkina Faso authorities accused of secretly detaining prominent journalist",
     "description": "RSF says investigation found Atiana Serge Oulon held at Ouagadougou villa, contradicting authorities' account.",
     "link": "https://www.aljazeera.com/news/2026/5/6/burkina-faso-authorities-accused-of-secretly-detaining-prominent-journalist?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126033784082-1778074371.jpg?resize=1920%2C1440",
     "pubDate": "2026-05-06T13:52:18+00:00"
-  },
-  {
-    "title": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
-    "description": "The report provided more evidence of a stable labor market and less incentive for the Fed to lower interest rates.",
-    "link": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108300171-1777569700351-gettyimages-2273898394-jr_17633_euk4z7nd.jpeg?v=1777569740&w=1920&h=1080",
-    "pubDate": "2026-05-06T13:49:25+00:00"
   },
   {
     "title": "Araghchi in Beijing: How China could shape the direction of the US-Iran war",
@@ -182,13 +392,6 @@
     "pubDate": "2026-05-06T13:47:13+00:00"
   },
   {
-    "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-    "description": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
-    "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108016949-1722962216313-gettyimages-2155779205-img_2019_wd10_05312024.jpeg?v=1762962226&w=1920&h=1080",
-    "pubDate": "2026-05-06T13:43:08+00:00"
-  },
-  {
     "title": "Russian drone hits kindergarten in Ukraine",
     "description": "A Russian drone strike has hit a kindergarten in Ukraine’s Sumy region.",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russian-drone-hits-kindergarten-in-ukraine?traffic_source=rss",
@@ -196,18 +399,18 @@
     "pubDate": "2026-05-06T13:42:25+00:00"
   },
   {
-    "title": "Ken Griffin: Citadel expanding in Miami in response to NYC Mayor Mamdani's 'poor taste' tax video",
-    "description": "Mamdani's office said in response to Griffin, \"our tax system is fundamentally broken. It rewards extreme wealth while working people are pushed to the brink.\"",
-    "link": "https://www.cnbc.com/2026/05/06/mamdani-ken-griffin-nyc-miami-tax.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302877-1778069375600-Mamdani_Griffin.jpg?v=1778069473&w=1920&h=1080",
-    "pubDate": "2026-05-06T13:41:37+00:00"
-  },
-  {
-    "title": "Hormuz ships plan paused 50 hours after Trump announced it - what happened?",
+    "title": "US plan to escort ships through Hormuz paused after just 50 hours - what happened?",
     "description": "The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.",
     "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eab/live/f8ee4a50-4955-11f1-b55d-0f258dce1735.png",
     "pubDate": "2026-05-06T13:39:09+00:00"
+  },
+  {
+    "title": "Oil Tumbles as Investors Grow Hopeful Turmoil in Gulf May Be Easing",
+    "description": "Oil prices fell and stocks rose after President Trump’s about-face to pause the U.S. operation to escort commercial ships through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T13:35:29+00:00"
   },
   {
     "title": "Elderly man rescued from rubble after Israeli strike on Lebanon",
@@ -215,20 +418,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/elderly-man-rescued-from-rubble-after-israeli-strike-on-lebanon?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778074238.jpg?resize=1920%2C1080&quality=80",
     "pubDate": "2026-05-06T13:31:50+00:00"
-  },
-  {
-    "title": "Trump says Iran will be bombed 'at much higher level' if they don't agree to peace deal",
-    "description": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours.",
-    "link": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302767-1778076113317-108302767-1778058274332-gettyimages-2263898051-AA_02032026_2678789.jpeg?v=1778076189&w=1920&h=1080",
-    "pubDate": "2026-05-06T13:21:10+00:00"
-  },
-  {
-    "title": "Ben-Gvir ‘dreams’ of nooses in video posted to TikTok",
-    "description": "Ben-Gvir has posted a video saying he ‘dreams’ of nooses, in a nod to the death penalty targeting Palestinian detainees.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/ben-gvir-dreams-of-nooses-in-video-posted-to-tiktok?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778073636.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-05-06T13:20:57+00:00"
   },
   {
     "title": "Samsung SDS wins deal to build South Korea’s blockchain securities system: Report",
@@ -259,13 +448,6 @@
     "pubDate": "2026-05-06T13:13:03+00:00"
   },
   {
-    "title": "Prestianni could miss Argentina games as FIFA extends ban to World Cup",
-    "description": "Gianluca Prestianni could miss Argentina's first two group games if he is selected in their World Cup squad.",
-    "link": "https://www.aljazeera.com/sports/2026/5/6/prestianni-could-miss-argentina-games-as-fifa-extends-ban-to-world-cup?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-02-17T200855Z_331242010_UP1EM2H1JYTB6_RTRMADP_3_SOCCER-CHAMPIONS-SLB-RMA-1778072864.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T13:11:41+00:00"
-  },
-  {
     "title": "Critical Role officially reveals when Campaign 4 tables will reunite",
     "description": "After a four-episode Overture, Critical Role's tables for Campaign 4 have been split into three separate groups. This May 21, they are set to reunite.",
     "link": "https://www.polygon.com/critical-role-campaign-4-tables-reunion/",
@@ -280,25 +462,18 @@
     "pubDate": "2026-05-06T13:07:15+00:00"
   },
   {
-    "title": "Australians slam ban on World Cup screenings at Federation Square",
-    "description": "Matches from the World Cup 2026 will not be screened after poor fan behaviour at previous public watch parties in 2023.",
-    "link": "https://www.aljazeera.com/sports/2026/5/6/australians-slam-ban-on-world-cup-screenings-at-federation-square?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2023-08-07T122115Z_1706416896_UP1EJ870YBDA0_RTRMADP_3_SOCCER-WORLDCUP-AUS-DNK-FANS-1778068724.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-06T13:00:52+00:00"
-  },
-  {
-    "title": "Paul Verhoeven's misunderstood sci-fi masterpiece Starship Troopers is still as sharp as ever",
-    "description": "Starship Troopers, directed by Paul Verhoeven, is a satirical military thriller that lampoons right-wing militarism.",
-    "link": "https://www.polygon.com/starship-troopers-now-on-netflix/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/msdsttr_ec128-1.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-06T13:00:19+00:00"
-  },
-  {
     "title": "Colombia wants to mine bitcoin with surplus renewable energy",
     "description": "President Gustavo Petro said Colombia's Caribbean coast could host bitcoin mining facilities powered by surplus renewable energy, following a path similar to Paraguay.",
     "link": "https://www.coindesk.com/tech/2026/05/06/colombia-wants-to-mine-bitcoin-with-surplus-renewable-energy",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7ec5f688f52d28e83a2fd67710cab2f61fd4e04d-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-05-06T12:56:45+00:00"
+  },
+  {
+    "title": "What to Know About the Mideast Standoff",
+    "description": "President Trump paused a plan to help ships exit the Strait of Hormuz just a day after it began, sowing confusion about his goals and next steps in the war with Iran.",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T12:55:21+00:00"
   },
   {
     "title": "MS Flight Sim Adds Mission Where You Water-Bomb A Fire In Australia To Honor Local Firefighters",
@@ -308,39 +483,11 @@
     "pubDate": "2026-05-06T12:54:00+00:00"
   },
   {
-    "title": "Zcash bets turn into second-largest liquidations behind bitcoin as ZEC rockets 30%",
-    "description": "The privacy coin extended its multi-month rally on Tuesday with $46.7 million in shorts liquidated, after Multicoin Capital disclosed a significant ZEC position.",
-    "link": "https://www.coindesk.com/markets/2026/05/06/zcash-bets-turn-into-second-largest-liquidations-behind-bitcoin-as-zec-rockets-30",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e0a4b96ebd375ab0f42d0d43ad1e18c91248ae1b-2560x1707.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-06T12:53:44+00:00"
-  },
-  {
     "title": "Bubblemaps flags MYSTERY token over 90-wallet launch sniping cluster",
     "description": "Bubblemaps said it identified a large wallet cluster that accumulated 90% of the Mystery token’s supply at launch, raising concerns around the token’s distribution.",
     "link": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI%20What%20is%20a%20social%20engineering%20attack.jpg?prefix=media%2Farticle-covers",
     "pubDate": "2026-05-06T12:51:53+00:00"
-  },
-  {
-    "title": "These two Secrets of Strixhaven cards resurrect Magic's oldest combo",
-    "description": "The prepared mechanic in Magic: The Gathering's Secrets of Strixhaven can lead to a deadly combo available for the Witherbloom Pestilence deck.",
-    "link": "https://www.polygon.com/secrets-of-strixhaven-witherbloom-pestilence-lifegain-combo/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/header.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-06T12:51:37+00:00"
-  },
-  {
-    "title": "Wearable patches: How Barrière is trying to disrupt the supplement industry",
-    "description": "Supplement patch company Barrière is launching the first-ever lactose intolerance patch in 1,700 Walmart stores, the company told CNBC exclusively.",
-    "link": "https://www.cnbc.com/2026/05/06/supplements-wearable-patches-barrire.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108301769-1777917531167-Screenshot_2026-05-04_at_15218_PM.png?v=1777917740&w=1920&h=1080",
-    "pubDate": "2026-05-06T12:42:11+00:00"
-  },
-  {
-    "title": "Morgan Stanley brings crypto trading with lower fees than rivals",
-    "description": "The bank is rolling out crypto trading on E*Trade with lower fees than Coinbase, Robinhood and Schwab, according to Bloomberg.",
-    "link": "https://www.coindesk.com/markets/2026/05/06/morgan-stanley-brings-crypto-trading-with-lower-fees-than-rivals",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7bda05f218a0e908b37639579d1962cdf9fe311f-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-06T12:39:37+00:00"
   },
   {
     "title": "Disney CEO On Why Gaming Could Be The Company's Next Big Growth-Driver",
@@ -364,53 +511,11 @@
     "pubDate": "2026-05-06T12:29:44+00:00"
   },
   {
-    "title": "Tofersen, a New Treatment for A.L.S., Reverses Symptoms for Some",
-    "description": "The drug is for a small subset of patients. But evidence that breathing and strength can get better for some of them is remarkable for a paralyzing, usually fatal disease.",
-    "link": "https://www.nytimes.com/2026/05/06/well/als-treatment-tofersen-qalsody.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-06T12:18:25+00:00"
-  },
-  {
-    "title": "Bullish’s Equiniti deal could remake it into a tokenization powerhouse, Clear Street says",
-    "description": "Compass Point took a more cautious stance, reiterating a Neutral rating and $36 target, saying much of the expected growth is already priced in, though it acknowledged potential upside.",
-    "link": "https://www.coindesk.com/markets/2026/05/06/bullish-s-equiniti-deal-could-remake-it-into-a-tokenization-powerhouse-analysts-say",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7165112da3bf0e69e3f0deb7600bea2c0282d2a3-3770x2122.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-06T12:18:00+00:00"
-  },
-  {
-    "title": "Diablo 4 secret cow level found after 3 years and 2 expansions",
-    "description": "Players have finally unlocked the Secret Cow Level in Diablo 4 after solving complex clues in Vessel of Hatred and Lord of Hatred",
-    "link": "https://www.polygon.com/diablo-4-secret-cow-level/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/image-1.png?w=1200&h=675&fit=crop",
-    "pubDate": "2026-05-06T12:13:22+00:00"
-  },
-  {
-    "title": "Bitcoin short-term holder cost basis eyes $92K as next price target",
-    "description": "Bitcoin’s onchain data suggests that the upside may not be over for BTC price, but resistance at $84,000 could delay the recovery.",
-    "link": "https://cointelegraph.com/markets/bitcoins-sth-cost-basis-suggests-92k-is-the-next-stop-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/An%20in-depth%20look%20at%20Bitcoin%20index.jpg?prefix=media%2Farticle-covers",
-    "pubDate": "2026-05-06T12:10:38+00:00"
-  },
-  {
-    "title": "YouTube is finally on the Nintendo Switch 2… sort of",
-    "description": "You can watch YouTube on the Switch 2 by downloading Super Animal Royale and playing one of its videos in the external browser.",
-    "link": "https://www.polygon.com/youtube-nintendo-switch-2-super-animal-royale/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/switch-2-youtube-header.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-06T12:08:29+00:00"
-  },
-  {
-    "title": "Coinbase faces lawsuit over frozen funds from $55M crypto theft",
-    "description": "The plaintiff says Coinbase froze traceable assets from a 2024 DAI phishing theft but refused to return them without a court order.",
-    "link": "https://cointelegraph.com/news/coinbase-sued-for-withholding-frozen-crypto-linked-to-55m-defi-saver-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI%20The%20action%20against%20Coinbase%20is%20bad%20news-1.jpg?prefix=media%2Farticle-covers",
-    "pubDate": "2026-05-06T12:03:39+00:00"
-  },
-  {
-    "title": "Woman stabbed in heart before explosion, court told",
-    "description": "Annabel Rook was stabbed multiple times by her partner, who admits manslaughter but denies murder.",
-    "link": "https://www.bbc.com/news/articles/c5yxekrjxkyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07da/live/f7e14700-486c-11f1-ba51-89e146a2916a.jpg",
-    "pubDate": "2026-05-06T12:02:22+00:00"
+    "title": "Oil prices fall more than 6% as U.S. and Iran appear close to deal to end war",
+    "description": "Oil prices fell sharply after Axios reported that the U.S. and Iran were closing in on an agreement to bring an end to the conflict.",
+    "link": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302769-1778059076103-gettyimages-2273914248-nikoubazl-dailylif260503_npTL1.jpeg?v=1778059107&w=1920&h=1080",
+    "pubDate": "2026-05-06T12:26:46+00:00"
   },
   {
     "title": "Massive Alaska megatsunami was second largest ever recorded",
@@ -418,20 +523,6 @@
     "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3642/live/5902acb0-487f-11f1-b133-d51692f10715.jpg",
     "pubDate": "2026-05-06T12:00:25+00:00"
-  },
-  {
-    "title": "Dead as Disco's musical brawling hits the right notes in early access",
-    "description": "Rhythm action game Dead as Disco just entered early access, delivering some very promising musical kung-fu brawling.",
-    "link": "https://www.polygon.com/dead-as-disco-early-access-impressions/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/dead-as-disco-dodging-axe.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-06T12:00:19+00:00"
-  },
-  {
-    "title": "Apple's R&amp;D investments top 10% of sales as AI race creates 'sense of urgency'",
-    "description": "Apple’s R&amp;D spending has crossed 10% of revenue for the first time in at least 30 years, and increased twice as fast as sales in the latest quarter.",
-    "link": "https://www.cnbc.com/2026/05/06/apples-rd-spending-climbs-to-10percent-of-revenue-on-ai-investments.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257566-1769524908735-gettyimages-2256932535-AFP_93L849E.jpeg?v=1773762797&w=1920&h=1080",
-    "pubDate": "2026-05-06T12:00:01+00:00"
   },
   {
     "title": "What is hantavirus and how does it spread? Key questions after outbreak",
@@ -448,46 +539,11 @@
     "pubDate": "2026-05-06T11:53:20+00:00"
   },
   {
-    "title": "CME Group to launch regulated Bitcoin volatility futures",
-    "description": "CME to launch CFTC‑regulated Bitcoin Volatility futures in June, giving institutions an onshore way to trade implied BTC volatility.",
-    "link": "https://cointelegraph.com/news/cme-group-to-launch-regulated-bitcoin-volatility-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI%20International%20Regulatory%20Milestones%20for%20Crypto%20Exchanges%20in%202020.jpg?prefix=media%2Farticle-covers",
-    "pubDate": "2026-05-06T11:40:49+00:00"
-  },
-  {
     "title": "Strictly Come Dancing: Five pros to leave the show as line-up confirmed",
     "description": "Five members of the show's professional line-up, including the long-serving Karen Hauer, are leaving.",
     "link": "https://www.bbc.com/news/articles/c20214nnggdo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5161/live/bd897250-4932-11f1-a36a-6bbcbd5b2296.jpg",
     "pubDate": "2026-05-06T11:39:31+00:00"
-  },
-  {
-    "title": "DeFi's stress test ends quietly. Nothing broke.",
-    "description": "Your day-ahead look for May 6, 2026",
-    "link": "https://www.coindesk.com/daybook-us/2026/05/06/crypto-daily",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b056ea0bca0df4c9a9e00865d4f58c3c8336031d-6016x4016.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-06T11:31:20+00:00"
-  },
-  {
-    "title": "Two people arrested after BBC asylum investigation",
-    "description": "A BBC report revealed some immigration advisers are helping asylum seekers pretend to be gay to stay in the country.",
-    "link": "https://www.bbc.com/news/articles/cg7p09p2evxo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a314/live/bbc02630-4941-11f1-b55d-0f258dce1735.png",
-    "pubDate": "2026-05-06T11:23:57+00:00"
-  },
-  {
-    "title": "From 'what' to 'how': Robinhood and Bitstamp say banks are ready to build on-chain",
-    "description": "Executives from Ondo, Robinhood and Babylon Labs said at Consensus Miami 2026 that banks and traditional finance firms are embracing crypto infrastructure, though institutional adoption remains constrained.",
-    "link": "https://www.coindesk.com/business/2026/05/06/wall-street-is-finally-coming-to-crypto-but-on-its-own-terms",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/50ceb5bd5f48af0675fb9f621b94c9cdf1e78a99-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-06T11:21:45+00:00"
-  },
-  {
-    "title": "Bitcoin can crash to $50K if 'most critical' bear market test fails: Analysis",
-    "description": "Bitcoin price analysis saw $84,000 as bulls' \"most critical\" reclaim target as the risk of new $50,000 lows returned to the radar.",
-    "link": "https://cointelegraph.com/markets/bitcoin-can-crash-to-50k-if-most-critical-bear-market-test-fails-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/Bear%20bang%20reg%20falling%20crypto%20bitcoin.jpg?prefix=media%2Farticle-covers",
-    "pubDate": "2026-05-06T11:20:30+00:00"
   },
   {
     "title": "Here's This Week's Free Game From The Epic Games Store On Mobile",
@@ -504,39 +560,11 @@
     "pubDate": "2026-05-06T11:03:00+00:00"
   },
   {
-    "title": "Captain America: Civil War took the MCU down the wrong path",
-    "description": "The movie itself is plenty fun, but Captain America: Civil War helped bring about the end of the MCU's golden age",
-    "link": "https://www.polygon.com/captain-america-civil-war-10-years-ago/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdcaam_ec205.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-06T11:00:19+00:00"
-  },
-  {
-    "title": "Life is Strange director says her official adaptation will honor the game",
-    "description": "Horror director Karyn Kusama (The Invitation, Jennifer's Body) shares her approach to bringing Don't Nod's narrative time-travel game to TV.",
-    "link": "https://www.polygon.com/karyn-kusama-life-is-strange-interview/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/630916/life-is-strange-01_1920.0.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-06T10:01:30+00:00"
-  },
-  {
-    "title": "President Trump’s Sudden U-Turn, and a $1 Billion Ballroom Proposal",
-    "description": "Plus, a visit to the “Gates to Hell.”",
-    "link": "https://www.nytimes.com/2026/05/06/podcasts/the-headlines/trump-iran-white-house-ballroom.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-06T10:00:12+00:00"
-  },
-  {
-    "title": "Best CD rates today, May 6, 2026 (Earn up to 4% APY)",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-may-6-2026-100000487.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/j5EPBCvWMZaPFkgUd3W3lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d2-4f64-11ef-8ffb-deebdbfd96c8",
+    "title": "Rice Is the Main Course at My ‘Survivor’ Watch Party",
+    "description": "Plus a tribal council tablescape, castaway dress code, and a supersized dirt cup for dessert.",
+    "link": "https://www.bonappetit.com/story/throw-this-survivor-watch-party",
+    "thumbnail": "https://assets.bonappetit.com/photos/69f9fa03a56132dc1b4c629a/master/pass/TTPSurvivor_Still.png",
     "pubDate": "2026-05-06T10:00:00+00:00"
-  },
-  {
-    "title": "A Look Inside the Case That Enshrined Political Power for Billionaires",
-    "description": "After Watergate, Congress tried to curtail the role of money in politics. But a pivotal Supreme Court case nipped it in the bud. Years later, new details are emerging on how wealthy Americans were conferred with a “right to spend” on elections.",
-    "link": "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-06T09:00:15+00:00"
   },
   {
     "title": "Streamers And Voice Actors Refuse To Work With Popular New Gacha Game Over Gen AI Concerns",
@@ -557,7 +585,7 @@
     "description": "The president helped unseat most of the state lawmakers he targeted after they rebuffed his call to draw new House maps to help Republicans.",
     "link": "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html",
     "thumbnail": "",
-    "pubDate": "2026-05-06T02:50:49+00:00"
+    "pubDate": "2026-05-06T02:50:50+00:00"
   },
   {
     "title": "In Indiana Primary Elections, Most Trump-Backed Challengers Beat Incumbents",
@@ -574,32 +602,25 @@
     "pubDate": "2026-05-06T01:21:47+00:00"
   },
   {
-    "title": "What Happened When Pope Leo XIV Had to Call Customer Service",
-    "description": "Spoiler alert: There was no miracle.",
-    "link": "https://www.nytimes.com/2026/05/05/us/pope-leo-xiv-bank-customer-service.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-05T21:39:02+00:00"
+    "title": "Stock market today: Nasdaq, S&amp;P 500, Dow rally on rising hopes for Iran peace, upbeat tech earnings",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-rally-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128444.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Ui2X9PNFTwwqKBwGPQDJUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/3581bda9-18da-4384-a96a-bc33c2a108e3",
+    "pubDate": "2026-05-05T23:11:28+00:00"
   },
   {
-    "title": "How Much Did GTA 6 Cost To Make? Here's What Take-Two's CEO Had To Say",
-    "description": "Grand Theft Auto VI no doubt had a big production budget, but just how much did the game cost to make? Neither developer Rockstar nor parent company Take-Two has disclosed a number, but Take-Two boss Strauss Zelnick has now commented on the matter, saying \"it was expensive.\" He said this in an interview with Business Insider, which also quoted unnamed industry analysts who said GTA 6's budget could be as much as $1.5 billion. Speaking to Bloomberg, Zelnick said his company has the \"most amazing creative teams\" and that Take-Two management insists that its creatives \"pursue their passions,\" even if it's expensive. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/how-much-did-gta-6-cost-to-make-heres-what-take-twos-ceo-had-to-say/1100-6539797/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-05T21:19:00+00:00"
+    "title": "The Best Matcha Powder, Vetted by a Daily Drinker (2026)",
+    "description": "I tried a dozen matcha powders to find the very best one.",
+    "link": "https://www.bonappetit.com/story/best-matcha-powder",
+    "thumbnail": "https://assets.bonappetit.com/photos/68912d30d715c1871aba4eb5/master/pass/8.1_BA_Best-Matcha-Powders.jpg",
+    "pubDate": "2026-05-05T21:17:37+00:00"
   },
   {
-    "title": "MindsEye Dev Reportedly Laid Off 170 Of 250 Employees",
-    "description": "Build A Rocket Boy, the developer of MindsEye, has reportedly let go a large number of employees its latest round of layoffs. Although the exact number is currently unknown, it's \"roughly 170 members,\" according to Kotaku. Many of the now- or soon-to-be former employees have shared the news on LinkedIn and Discord. If the 170 estimate proves to be accurate, that would leave Build A Rocket Boy with approximately 80 staff members left out of the 250 that were in place prior to the layoffs. Former Rockstar Games executive Leslie Benzies founded Build A Rocket Boy in 2016, and his previous experience with the Grand Theft Auto franchise gave MindsEye a lot of hype heading into its release last year. However, MindsEye was one of the worst-reviewed games of 2025 and its poor reception led to layoffs shortly thereafter. Bizarrely, Build A Rocket Boy co-CEO Mark Gerhard shared his belief that a concerted effort to trash the game and corporate espionage were responsible for the game's shortcomings. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/mindseye-dev-reportedly-laid-off-170-of-250-employees/1100-6539796/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-05T20:22:00+00:00"
-  },
-  {
-    "title": "Copilot Is Kaput On Xbox Consoles",
-    "description": "Like many modern tech companies, Microsoft is gambling a lot on consumers embracing an AI-powered future. Recent moves have seen Microsoft's AI, dubbed Copilot, integrated into numerous products like Windows 11--to not entirely enthusiastic reception. With AI fatigue among consumers seeming to set in and Xbox's gaming division making some large-scale changes, an executive decision has been made: Copilot for consoles and mobile is officially dead. Microsoft's recently promoted Xbox division CEO Asha Sharma officially dropped the news today in a post on X. Xbox needs to move faster, deepen our connection with the community, and address friction for both players and developers.Today, we promoted leaders who helped build Xbox, while also bringing in new voices to help push us forward. This balance is important as we get the business… — Asha (@asha_shar) May 5, 2026 The quick, ignoble death of console Copilot falls in line with all of the recent moves we've seen the Xbox division of Microsoft making--trimming the fat while refocusing on high-quality games. We don't really know what plans existed for console Copilot beyond the already-extant Gaming Copilot app, but whatever they were, they've now been abandoned--and it's possible that Gaming Copilot will follow suit. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/copilot-is-kaput-on-xbox-consoles/1100-6539795/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-05T19:47:00+00:00"
+    "title": "Easy Gazpacho (Spanish Cold Tomato Soup; Blender Method)",
+    "description": "This tangy chilled soup is basically summer in a bowl.",
+    "link": "https://www.bonappetit.com/recipe/best-gazpacho-for-summer",
+    "thumbnail": "https://assets.bonappetit.com/photos/57aca0e0f1c801a1038bc671/master/pass/summer-gazpacho.jpg",
+    "pubDate": "2026-05-05T21:03:40+00:00"
   },
   {
     "title": "107-year-old beloved burger chain closes locations",
@@ -609,17 +630,66 @@
     "pubDate": "2026-05-05T19:27:59+00:00"
   },
   {
-    "title": "Sniper Elite Studio Has No Plans To Use Generative AI In Games, But The Conversation \"Should Be More Nuanced,\" Says CEO",
-    "description": "Rebellion, the team behind Sniper Elite and last year's hidden gem, Atomfall, has no expectations \"to ever use gen AI on the screen,\" according to CEO Jason Kingsley in a conversation with GameSpot. \"This isn't what we think we should be doing.\" Still, the CEO added that he feels having an online conversation on the topic has become \"very difficult.\" \"The online discourse, I think, should be more nuanced. I think we should be able to have a better, more meaningful conversation, and discuss ideas. Because some people are totally against any form of AI at all. Other people are totally for every kind of AI possible. And I think the reality has to be somewhere in the middle.\" Kingsley said that the idea of \"using [gen AI] as part of the tools chain and the process, helping speed up iteration, it may have its practical uses [...] For example, back in the day, one of our big, successful levels in Sniper Elite was a viaduct with a big gun on the top of it. You could take a screenshot of that, and maybe a designer says, 'What would this look like in the snow? Would this play differently in the snow? Would it play differently at night?' We didn't do that, but you could. The designer could put it through a gen AI and say, 'Turn this from an Italian landscape to a snowy landscape, and let me have a look at it. And that means they can explore ideas cheaply and quickly to see whether it's worth exploring with human beings more.\" Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/sniper-elite-studio-has-no-plans-to-use-generative-ai-in-games-but-the-conversation-should-be-more-nuanced-says-ceo/1100-6539793/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-05T19:25:00+00:00"
+    "title": "Vanilla Powder Is Professional Bakers' Best-Kept Secret",
+    "description": "The concentrated powder adds a punch of flavor without the fuss and cost of fresh vanilla beans.",
+    "link": "https://www.bonappetit.com/story/beyond-good-vanilla-powder-review",
+    "thumbnail": "https://assets.bonappetit.com/photos/69f98ecb9127ff68eeb53b64/master/pass/Vanilla_Rec%202.jpg",
+    "pubDate": "2026-05-05T18:26:10+00:00"
   },
   {
-    "title": "Tech stocks today: Intel pops, Semiconductor earnings in focus, Musk-Altman court battle continues",
+    "title": "Micron tops $700 billion market cap, stock extends rally amid AI-driven memory demand",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/article/micron-tops-700-billion-market-cap-stock-extends-rally-amid-ai-driven-memory-demand-143946062.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/x1gFdHc8d2TllQItKA_Rsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDU-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/a8c98aa0-0656-11f0-bfda-eff7f0329a6d",
+    "pubDate": "2026-05-05T14:39:46+00:00"
+  },
+  {
+    "title": "How to Clean Your Grill and Make Sure It's Always Ready for Action",
+    "description": "No one would know more about this than a lifelong Texas pitmaster, so I talked to one.",
+    "link": "https://www.bonappetit.com/story/how-to-clean-your-grill",
+    "thumbnail": "https://assets.bonappetit.com/photos/69d820e778c3a0d57c7886ac/master/pass/GettyImages-1077133166.jpg",
+    "pubDate": "2026-05-04T18:27:28+00:00"
+  },
+  {
+    "title": "Greek Salad (Crunchy and Bright)",
+    "description": "A classic that’s happy alongside a hearty, meaty main or alone as a vegetarian lunch.",
+    "link": "https://www.bonappetit.com/recipe/greek-salad-recipe",
+    "thumbnail": "https://assets.bonappetit.com/photos/63f677cccd25bfbd2dccfaae/master/pass/022223-greek-salad-lede.jpg",
+    "pubDate": "2026-05-04T17:48:39+00:00"
+  },
+  {
+    "title": "Tech stocks today: AMD earnings buoy chip stocks, Musk-Altman court battle continues",
     "description": "",
     "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/9WV4.1Ttej8m.lWBsFCEjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://d29szjachogqwa.cloudfront.net/images/2026-04/8e6e2173-5218-47cf-a7cc-fac542e98335",
     "pubDate": "2026-05-04T10:00:00+00:00"
+  },
+  {
+    "title": "5 Fast Meals Our Editors Make With Instant Noodles",
+    "description": "Like crispy okonomiyaki and sick day soup.",
+    "link": "https://www.bonappetit.com/story/meals-our-editors-make-with-instant-noodles",
+    "thumbnail": "https://assets.bonappetit.com/photos/69e90fa1cce91d16cadd3a70/master/pass/WellStocked_Ramen.gif",
+    "pubDate": "2026-05-03T10:00:00+00:00"
+  },
+  {
+    "title": "Sun, Sand, and Spirits in Mexico's Riviera Nayarit",
+    "description": "The natural landscape acts as Rosewood Mandarina's North Star—including its food and drinks.",
+    "link": "https://www.bonappetit.com/story/rosewood-mandarina-mexico-agave-tasting",
+    "thumbnail": "https://assets.bonappetit.com/photos/69f51cf2d9ba379282ce612b/master/pass/RWMDR_Facilities_Restaurant_Barra%20Penasco_Terrace_Ocean%20View.jpeg",
+    "pubDate": "2026-05-01T21:31:46+00:00"
+  },
+  {
+    "title": "The Best Japanese Knives to Take Your Set to the Next Level (2026)",
+    "description": "Traditional and hybrid Japanese blades have a reputation for being nearly perfect knives, and they deserve it.",
+    "link": "https://www.bonappetit.com/story/best-japanese-knives",
+    "thumbnail": "https://assets.bonappetit.com/photos/69f0da3d8b92365953eebde6/master/pass/Japanese%20Knives%202026.jpg",
+    "pubDate": "2026-05-01T20:20:20+00:00"
+  },
+  {
+    "title": "7 New Snacks We're Most Excited About This May",
+    "description": "This month’s Snack Drop features portable tofu, Sichuan-pepper-laced peanuts, and kid-friendly crackers you'll want to eat too.",
+    "link": "https://www.bonappetit.com/story/snack-drop-may-2026",
+    "thumbnail": "https://assets.bonappetit.com/photos/69ebc3bc271d5f8b865f68a4/master/pass/May2026Snacks.gif",
+    "pubDate": "2026-05-01T18:38:56+00:00"
   }
 ]
