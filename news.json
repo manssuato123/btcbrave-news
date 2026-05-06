@@ -1,17 +1,136 @@
 [
   {
-    "title": "Most Trump-Backed Challengers Beat Indiana Incumbents Who Bucked Trump",
+    "title": "Oil Falls and Stocks Gain as Trump Changes Course in Strait of Hormuz",
+    "description": "Oil prices fell and stocks rose after President Trump’s about-face to pause the U.S. operation to escort commercial ships through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T04:31:27+00:00"
+  },
+  {
+    "title": "Samsung crossses $1 trillion valuation as AI frenzy drives historic rally, lifting shares over 15%",
+    "description": "The rally comes after the company reported an over eightfold increase in first-quarter operating profits last week.",
+    "link": "https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108299680-1777518266117-gettyimages-1178845030-250305final.jpeg?v=1777518327&w=1920&h=1080",
+    "pubDate": "2026-05-06T04:26:00+00:00"
+  },
+  {
+    "title": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
+    "description": "Price compression near $1.42 comes as analysts point to a repeating bull flag structure and thinning liquidity conditions.",
+    "link": "https://www.coindesk.com/markets/2026/05/06/xrp-above-usd1-42-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/580875c0cb7429ebb8416d921843189e0a01be16-1196x732.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T04:25:26+00:00"
+  },
+  {
+    "title": "Romania’s pro-EU government ousted after no-confidence vote",
+    "description": "The pro-European Union coalition of Romanian Prime Minister Ilie Bolojan has collapsed after a vote of no confidence.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/romanias-pro-eu-government-ousted-after-no-confidence-vote?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778041324.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2026-05-06T04:22:16+00:00"
+  },
+  {
+    "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
+    "description": "Strategy executive chairman Michael Saylor signalling a potential bitcoin sale to cover $1.5 billion in annual dividend obligations sent MSTR down 4% after hours and BTC briefly below $81,000.",
+    "link": "https://www.coindesk.com/markets/2026/05/06/bitcoin-tops-usd81-000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligations",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0b6b7100ed4eae8f6d21f97c9f6a99293be82dab-6048x4024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-06T04:11:27+00:00"
+  },
+  {
+    "title": "Strategy could sell Bitcoin ‘just to inoculate the market’ — Michael Saylor",
+    "description": "It marks the first time that Michael Saylor’s company has floated the idea of selling Bitcoin, parting ways with his long-held view that Bitcoin shouldn’t be sold.",
+    "link": "https://cointelegraph.com/news/strategy-posts-125b-net-loss-in-q1-as-btc-fell-xx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwQSUyMGJlZ2lubmVyJ3MlMjBndWlkZSUyMHRvJTIwY3J5cHRvY3VycmVuY3klMjB0cmFkaW5nJTIwc3RyYXRlZ2llcyUyMCUyMFN0cmF0ZWd5Qi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+    "pubDate": "2026-05-06T04:09:33+00:00"
+  },
+  {
+    "title": "US pauses plan to guide ships through the Strait of Hormuz",
+    "description": "Donald Trump has said that the US military operation guiding ships through the Strait of Hormuz will be paused.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-pauses-plan-to-guide-ships-through-the-strait-of-hormuz?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Hormuz-project-freedom-paused-1778038684.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T03:39:28+00:00"
+  },
+  {
+    "title": "China hosts Iran's top diplomat just days ahead of Trump's high-stakes visit",
+    "description": "Iran's Foreign Minister Abbas Araghchi trip to Beijing on Wednesday marks the first time he has visited China since the beginning of the Iran war.",
+    "link": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302655-1778023816795-gettyimages-2224566075-AA_15072025_2330851.jpeg?v=1778023845&w=1920&h=1080",
+    "pubDate": "2026-05-06T03:25:09+00:00"
+  },
+  {
+    "title": "Spain agrees to let hantavirus-hit cruise ship dock in Canary Islands",
+    "description": "Three people have died since the outbreak in April, while two crew members on board the ship require urgent care.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/spain-agrees-to-let-hantavirus-hit-cruise-ship-dock-in-canary-islands?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T153002Z_1355855329_RC2B2LAP7RSG_RTRMADP_3_CRUISESHIP-HANTAVIRUS-UPDATE-1778034046.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T03:19:12+00:00"
+  },
+  {
+    "title": "Suspect in National Mall Shooting Expressed Hostility Toward White House, Authorities Say",
+    "description": "Michael Marx, a 45-year-old Texan, is accused of shooting at Secret Service agents by the Washington Monument on Monday.",
+    "link": "https://www.nytimes.com/2026/05/05/us/politics/secret-service-shooting-gunman-identified.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T03:05:51+00:00"
+  },
+  {
+    "title": "Takeaways From Indiana Primary Elections 2026: Trump Gets Payback",
+    "description": "The president helped unseat most of the state lawmakers he targeted after they rebuffed his call to draw new House maps to help Republicans.",
+    "link": "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T02:50:49+00:00"
+  },
+  {
+    "title": "Bitcoin holds $81K amid flat derivatives markets: Is the rally sustainable?",
+    "description": "Bitcoin carved a path toward $82,000, but derivatives metrics need another push from bulls to sustain the rally.",
+    "link": "https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwV2hvJTIwd2lsbCUyMGRyaXZlJTIwdGhlJTIwbmV4dCUyMGNyeXB0byUyMGJ1bGwlMjBydW4lMjBiaXRjb2luLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
+    "pubDate": "2026-05-06T02:48:53+00:00"
+  },
+  {
+    "title": "In Indiana Primary Elections, Most Trump-Backed Challengers Beat Incumbents",
     "description": "President Trump endorsed primary opponents against seven Republican lawmakers who opposed his redistricting push. At least five of the Trump-backed candidates have won their races.",
     "link": "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html",
     "thumbnail": "",
-    "pubDate": "2026-05-06T01:03:40+00:00"
+    "pubDate": "2026-05-06T02:42:22+00:00"
   },
   {
-    "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-    "description": "\"Project Freedom\", which began less than 48 hours ago, will be halted because progress has been made toward a deal with Iran, the US president says.",
-    "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3f/live/af9c9120-48da-11f1-ac78-2112837ce2aa.jpg",
-    "pubDate": "2026-05-06T00:48:00+00:00"
+    "title": "Protesters rally in Louisiana and Tennessee against redistricting",
+    "description": "Demonstrators rallied in Louisiana and Tennessee against against redistricting.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/protesters-rally-in-louisiana-and-tennessee-against-redistricting?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Tennessee-voting-rights-1778034305.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-06T02:25:51+00:00"
+  },
+  {
+    "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+    "description": "The US president said the operation has been paused after starting on Monday.",
+    "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/959a/live/50900610-48e6-11f1-b75b-95129d40843d.jpg",
+    "pubDate": "2026-05-06T02:23:36+00:00"
+  },
+  {
+    "title": "In the global AI race, a sanctioned Chinese firm says cheaper models can still win",
+    "description": "As China’s AI competition intensifies, SenseTime is shifting toward multimodal AI, lower-cost models and overseas expansion to remain competitive, co-founder Lin Dahua said.",
+    "link": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302663-1778027104582-gettyimages-2160393288-tang-notitle240706_np4H4.jpeg?v=1778027124&w=1920&h=1080",
+    "pubDate": "2026-05-06T02:21:25+00:00"
+  },
+  {
+    "title": "Daredevil Born Again season 3 plot, cast, release date window and everything else we know",
+    "description": "Explore the potential plot twists and character developments in Daredevil: Born Again season 3",
+    "link": "https://www.polygon.com/daredevil-born-again-season-3-plot-cast-release-date/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/otk-206-25139_r2.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-06T02:00:30+00:00"
+  },
+  {
+    "title": "Daredevil: Born Again season 2 ending explained: Is the Marvel show about January 6?",
+    "description": "Daredevil: Born Again takes a surprising turn in its season finale, drawing parallels between New York citizens and the January 6th insurrection",
+    "link": "https://www.polygon.com/daredevil-born-again-season-2-finale-pro-january-6th/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/04/charlie-cox-as-matt-murdock-in-full-daredevil-costume-poised-mid-fight-in-echo-episode-1.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-06T01:52:20+00:00"
+  },
+  {
+    "title": "Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire",
+    "description": "The White House is turning to rhetorical leaps as President Trump tries to put the biggest political crisis of his presidency behind him.",
+    "link": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-06T01:21:47+00:00"
   },
   {
     "title": "Oil prices fall as Trump pauses Hormuz escort effort",
@@ -24,15 +143,8 @@
     "title": "To Rename Its Airport After Trump, Palm Beach Had to License His Name",
     "description": "The Trumps won’t profit from airport-branded merchandise sold on site. But the agreement doesn’t prevent them from profiting off such items sold elsewhere.",
     "link": "https://www.nytimes.com/2026/05/05/us/palm-beach-florida-trump-airport.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/05/multimedia/05nat-trump-airport-flvb/05nat-trump-airport-flvb-facebookJumbo.jpg",
-    "pubDate": "2026-05-06T00:38:29+00:00"
-  },
-  {
-    "title": "Vance Campaigns in Iowa as G.O.P. Fears Rise Ahead of Midterms",
-    "description": "The vice president acknowledged economic headwinds, including rising energy and fertilizer costs. “We got a little — a little blip in the Middle East,” he said, referring to the war in Iran.",
-    "link": "https://www.nytimes.com/2026/05/05/us/politics/jd-vance-iowa.html",
     "thumbnail": "",
-    "pubDate": "2026-05-06T00:31:05+00:00"
+    "pubDate": "2026-05-06T00:38:29+00:00"
   },
   {
     "title": "Campaigning sprint finish ahead of elections around Britain tomorrow",
@@ -42,11 +154,11 @@
     "pubDate": "2026-05-06T00:15:28+00:00"
   },
   {
-    "title": "Ohio Governor’s Race Set Between Vivek Ramaswamy and Amy Acton",
-    "description": "In a close race, Vivek Ramaswamy, the Republican nominee, and Dr. Amy Acton, the Democrat, bring distinctive potential liabilities: his wealth and her time leading Ohio’s pandemic response.",
-    "link": "https://www.nytimes.com/2026/05/05/us/elections/ohio-governor-race-ramaswamy-acton.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-06T00:06:54+00:00"
+    "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
+    "description": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
+    "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c2/live/8a9268b0-48d9-11f1-b64a-cbdeb0211cb5.jpg",
+    "pubDate": "2026-05-06T00:15:14+00:00"
   },
   {
     "title": "Catherine to return to overseas visits with Italy trip",
@@ -77,13 +189,6 @@
     "pubDate": "2026-05-05T23:57:15+00:00"
   },
   {
-    "title": "Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto",
-    "description": "Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.",
-    "link": "https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108098121-1738791949921-gettyimages-2162975316-BITCOIN_2024.jpeg?v=1764687924&w=1920&h=1080",
-    "pubDate": "2026-05-05T23:54:03+00:00"
-  },
-  {
     "title": "Thai temples launch rockets in friendly festival rivalry",
     "description": "Temples in Thailand gathered for the annual ‘Look Noo’ rocket festival, an ancient Mon tradition.",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/thai-temples-launch-rockets-in-friendly-festival-rivalry?traffic_source=rss",
@@ -105,11 +210,18 @@
     "pubDate": "2026-05-05T23:43:44+00:00"
   },
   {
-    "title": "Trump announces pause on US operation to reopen Strait of Hormuz",
+    "title": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
     "description": "US president says 'Project Freedom' suspended to see whether an agreement with Iran can be finalised and signed.",
     "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T131617Z_851851461_RC221LADEVV2_RTRMADP_3_IRAN-CRISIS-1778024951.jpg?resize=1920%2C1440",
     "pubDate": "2026-05-05T23:40:09+00:00"
+  },
+  {
+    "title": "The league is the dream - but is this Arsenal's moment in Europe?",
+    "description": "All the talk has been about Arsenal's Premier League title challenge - but is this now the Gunners' time to conquer Europe?",
+    "link": "https://www.bbc.com/sport/football/articles/cj0p2p60vl2o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/670f/live/8ad0b8f0-48d3-11f1-ac78-2112837ce2aa.jpg",
+    "pubDate": "2026-05-05T23:29:43+00:00"
   },
   {
     "title": "AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates",
@@ -154,24 +266,17 @@
     "pubDate": "2026-05-05T22:31:19+00:00"
   },
   {
-    "title": "OpenAI trial: Brockman rebuts Musk's take on startup's history, recounts secret work for Tesla",
-    "description": "OpenAI President Greg Brockman concluded his testimony on Tuesday as the blockbuster trial between the AI startup and Elon Musk rolled into its second week.",
-    "link": "https://www.cnbc.com/2026/05/05/open-ai-altman-musk-trial-brockman-testimony.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108301688-1777911401575-gettyimages-2273978244-MUSK_ALTMAN_TRIAL.jpeg?v=1777911431&w=1920&h=1080",
-    "pubDate": "2026-05-05T22:27:03+00:00"
-  },
-  {
     "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
     "description": "Investors back a model that moves insurance risk and capital flows onto blockchain rails, as onchain reinsurance looks to attract institutional participation.",
     "link": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI-What-is-VanEck%E2%80%99s-Onchain-Economy-ETF-(NODE)-and-how-does-it-work.jpg?prefix=media%2Farticle-covers",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLVdoYXQtaXMtVmFuRWNrJUUyJTgwJTk5cy1PbmNoYWluLUVjb25vbXktRVRGLShOT0RFKS1hbmQtaG93LWRvZXMtaXQtd29yay5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
     "pubDate": "2026-05-05T22:20:15+00:00"
   },
   {
     "title": "Ripple CEO says market structure bill not a ‘done deal,’ despite stablecoin compromise",
     "description": "Brad Garlinghouse addressed attendees at a Tuesday crypto conference on the progress of the CLARITY Act after US lawmakers announced a compromise on stablecoin yield that could advance the legislation.",
     "link": "https://cointelegraph.com/news/ripple-ceo-market-structure-progress-stablecoin-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI-Crypto-donations-in-politics-Ripple.jpg?prefix=media%2Farticle-covers",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUNyeXB0by1kb25hdGlvbnMtaW4tcG9saXRpY3MtUmlwcGxlLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
     "pubDate": "2026-05-05T22:08:41+00:00"
   },
   {
@@ -189,11 +294,11 @@
     "pubDate": "2026-05-05T22:04:41+00:00"
   },
   {
-    "title": "Indiana’s Primary Elections Will Test Trump’s Influence",
-    "description": "Also, about 150 people are stuck on a cruise ship with a deadly outbreak. Here’s the latest at the end of Tuesday.",
-    "link": "https://www.nytimes.com/2026/05/05/briefing/indiana-trump-elections-tony-nominations.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-05T22:01:14+00:00"
+    "title": "Man charged with attempted Trump assassination indicted for assaulting Secret Service officer",
+    "description": "Cole Tomas Allen is now facing charges from a grand jury indictment, which supersedes his previous charges.",
+    "link": "https://www.bbc.com/news/articles/clyp5rr0lm6o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fca/live/8e77ac70-48c9-11f1-afb4-1b52e3f0d656.jpg",
+    "pubDate": "2026-05-05T22:01:22+00:00"
   },
   {
     "title": "Different voices in product, policy and hiring change crypto outcomes, panelists tell Consensus Miami",
@@ -227,7 +332,7 @@
     "title": "Prophet launches AI-powered prediction market with live $10,000 trading tranche",
     "description": "Prophet, an AI-native prediction market platform, has launched its first live trading tranche, introducing a system where an AI model acts as the counterparty to user trades using real capital.",
     "link": "https://cointelegraph.com/press-releases/prophet-launches-ai-powered-prediction-market-with-live-10000-trading-tranche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/2352342-1.jpg?prefix=media%2Farticle-covers",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlLzIzNTIzNDItMS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
     "pubDate": "2026-05-05T21:30:00+00:00"
   },
   {
@@ -243,20 +348,6 @@
     "link": "https://www.coindesk.com/business/2026/05/05/state-street-says-institutions-want-improved-blockchain-security-in-wake-of-recent-defi-attacks",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f67037cc957fc691fa7520390e1c361bff782113-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-05-05T21:27:36+00:00"
-  },
-  {
-    "title": "Crypto's 'barbell': speculation and stablecoin payments drive adoption, Tempo's Romero says",
-    "description": "Stablecoins are quietly powering real-world money flows as other crypto experiments than speculative trading have failed to scale, Romero said at Consensus 2026.",
-    "link": "https://www.coindesk.com/business/2026/05/05/crypto-s-barbell-speculation-and-stablecoin-payments-drive-adoption-tempo-s-romero-says",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d21d5b898868b38b0827891f41007489fdcbf666-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-05T21:25:01+00:00"
-  },
-  {
-    "title": "Citi exec says fragmented crypto systems risk repeating old banking problems",
-    "description": "Tokenized money efforts face limits as corporate clients demand real-time payments that work seamlessly across banks, Citi’s Ryan Rugg said at Consensus in Miami.",
-    "link": "https://www.coindesk.com/business/2026/05/05/citi-exec-says-fragmented-crypto-systems-risk-repeating-old-banking-problems",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b6e8f74efdfc29d5e0b1f5cdb53ba9b847cddada-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-05T21:23:00+00:00"
   },
   {
     "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
@@ -290,7 +381,7 @@
     "title": "Bitcoin short liquidations push BTC to multi-month highs: Is $90K next?",
     "description": "Short liquidations and rising open interest may be signs of the bulls’ plan to push the Bitcoin price closer to $90,000.",
     "link": "https://cointelegraph.com/markets/bitcoin-eyes-clear-path-to-90k-as-79b-shorts-unwind-since-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI-Bitcoin-vs-Gold-Who-Wins-the-Rally-(1).jpg?prefix=media%2Farticle-covers",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUJpdGNvaW4tdnMtR29sZC1XaG8tV2lucy10aGUtUmFsbHktKDEpLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
     "pubDate": "2026-05-05T21:13:22+00:00"
   },
   {
@@ -308,38 +399,10 @@
     "pubDate": "2026-05-05T21:05:20+00:00"
   },
   {
-    "title": "Apple Reaches $250 Million Settlement Over Claims It Misled People on A.I.",
-    "description": "Some iPhone owners will be eligible to receive $25 to $95 over claims that the tech giant oversold its artificial intelligence system, Apple Intelligence.",
-    "link": "https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/05/multimedia/00biz-apple-settlement-HFO-mqjb/00biz-apple-settlement-HFO-mqjb-facebookJumbo.jpg",
-    "pubDate": "2026-05-05T20:57:07+00:00"
-  },
-  {
-    "title": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
-    "description": "Comments come before Marco Rubio’s meeting with Pope Leo XIV at the Vatican on Thursday.",
-    "link": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP25132720510427-1778002501.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-05T20:53:35+00:00"
-  },
-  {
-    "title": "Israel kills one boy, injures officers in strike on Gaza police station",
-    "description": "A 15-year-old boy, Mahmoud Sahweil, was killed when Israel struck a Gaza police station.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778013770.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-05-05T20:45:25+00:00"
-  },
-  {
-    "title": "US Army says ‘Project Freedom’ in blockaded Hormuz has ‘just begun’",
-    "description": "A US Central Command spokesperson says the mission to secure a safe passage of ships in the blocked waterway has begun.",
-    "link": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fa572f0ca4-1778013999.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-05T20:42:39+00:00"
-  },
-  {
     "title": "Crypto PAC spends $500K in support of Indiana candidate ahead of primary",
     "description": "Days before an Indiana primary, the Defend American Jobs PAC reported spending about $514,000 on media in support of a Republican House member running for reelection in the state‘s 4th Congressional District.",
     "link": "https://cointelegraph.com/news/crypto-pac-spending-indiana-candidate-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI-What-crypto-industry-should-expect-from-regulators-in-US.jpg?prefix=media%2Farticle-covers",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLVdoYXQtY3J5cHRvLWluZHVzdHJ5LXNob3VsZC1leHBlY3QtZnJvbS1yZWd1bGF0b3JzLWluLVVTLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
     "pubDate": "2026-05-05T20:42:00+00:00"
   },
   {
@@ -357,25 +420,18 @@
     "pubDate": "2026-05-05T20:35:24+00:00"
   },
   {
-    "title": "Micron zooms past $700 billion market cap as rally in memory stocks accelerates",
-    "description": "Micron has emerged as one of the most valuable U.S. tech companies thanks to insatiable demand for memory that's needed in AI chips.",
-    "link": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279191-1773779927968-gettyimages-2256071928-MICRON_NY.jpeg?v=1778011808&w=1920&h=1080",
-    "pubDate": "2026-05-05T20:23:48+00:00"
-  },
-  {
-    "title": "Could OPEC break lead to era of energy volatility?",
-    "description": "How unstable is the global oil market?",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778012490.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-05-05T20:23:16+00:00"
-  },
-  {
     "title": "MindsEye Dev Reportedly Laid Off 170 Of 250 Employees",
     "description": "Build A Rocket Boy, the developer of MindsEye, has reportedly let go a large number of employees its latest round of layoffs. Although the exact number is currently unknown, it's \"roughly 170 members,\" according to Kotaku. Many of the now- or soon-to-be former employees have shared the news on LinkedIn and Discord. If the 170 estimate proves to be accurate, that would leave Build A Rocket Boy with approximately 80 staff members left out of the 250 that were in place prior to the layoffs. Former Rockstar Games executive Leslie Benzies founded Build A Rocket Boy in 2016, and his previous experience with the Grand Theft Auto franchise gave MindsEye a lot of hype heading into its release last year. However, MindsEye was one of the worst-reviewed games of 2025 and its poor reception led to layoffs shortly thereafter. Bizarrely, Build A Rocket Boy co-CEO Mark Gerhard shared his belief that a concerted effort to trash the game and corporate espionage were responsible for the game's shortcomings. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/mindseye-dev-reportedly-laid-off-170-of-250-employees/1100-6539796/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-05-05T20:22:00+00:00"
+  },
+  {
+    "title": "Data suggests 'hiring recession' may be behind us — but the Iran war poses job market risks",
+    "description": "Hiring activity increased in March, according to federal data issued Tuesday. However, the Iran war threatens to stall that progress in the job market.",
+    "link": "https://www.cnbc.com/2026/05/05/hiring-picks-up-but-iran-war-poses-risks-for-job-market.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108250691-1767986912866-gettyimages-2255433542-anotherday172742751_4kwox1dp.jpeg?v=1778003280&w=1920&h=1080",
+    "pubDate": "2026-05-05T20:10:54+00:00"
   },
   {
     "title": "Judge Refers Justice Dept. Lawyer for Possible Discipline, Calling Out ‘Lack of Candor’",
@@ -399,25 +455,11 @@
     "pubDate": "2026-05-05T19:56:48+00:00"
   },
   {
-    "title": "Spirit starts monthslong process of dismantling airline after biggest collapse in a generation",
-    "description": "Spirit Airlines was back in bankruptcy court to start dismantling the airline.",
-    "link": "https://www.cnbc.com/2026/05/05/spirit-airlines-bankruptcy-costs.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108301799-1777920216050-gettyimages-2273586791-SPIRIT_AIRLINES.jpeg?v=1777920251&w=1920&h=1080",
-    "pubDate": "2026-05-05T19:56:38+00:00"
-  },
-  {
     "title": "Copilot Is Kaput On Xbox Consoles",
     "description": "Like many modern tech companies, Microsoft is gambling a lot on consumers embracing an AI-powered future. Recent moves have seen Microsoft's AI, dubbed Copilot, integrated into numerous products like Windows 11--to not entirely enthusiastic reception. With AI fatigue among consumers seeming to set in and Xbox's gaming division making some large-scale changes, an executive decision has been made: Copilot for consoles and mobile is officially dead. Microsoft's recently promoted Xbox division CEO Asha Sharma officially dropped the news today in a post on X. Xbox needs to move faster, deepen our connection with the community, and address friction for both players and developers.Today, we promoted leaders who helped build Xbox, while also bringing in new voices to help push us forward. This balance is important as we get the business… — Asha (@asha_shar) May 5, 2026 The quick, ignoble death of console Copilot falls in line with all of the recent moves we've seen the Xbox division of Microsoft making--trimming the fat while refocusing on high-quality games. We don't really know what plans existed for console Copilot beyond the already-extant Gaming Copilot app, but whatever they were, they've now been abandoned--and it's possible that Gaming Copilot will follow suit. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/copilot-is-kaput-on-xbox-consoles/1100-6539795/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-05-05T19:47:00+00:00"
-  },
-  {
-    "title": "When ‘The Late Show With Stephen Colbert’ Goes Away, What Do We Lose?",
-    "description": "Our attachment to an institution may seem counterintuitive, especially with comedy, a rebellious art form. But with Stephen Colbert’s program, there was a lot at stake.",
-    "link": "https://www.nytimes.com/2026/05/05/arts/television/stephen-colbert-the-late-show-carson-letterman-leno.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-05T19:40:35+00:00"
   },
   {
     "title": "Sniper Elite Studio Has No Plans To Use Generative AI In Games, But The Conversation \"Should Be More Nuanced,\" Says CEO",
@@ -444,22 +486,8 @@
     "title": "Tennessee Bankers Association names Stablecore as preferred digital asset provider",
     "description": "Regional lenders gain access to infrastructure for stablecoins, tokenized deposits and crypto-backed lending without building systems in-house, signaling wider bank adoption.",
     "link": "https://cointelegraph.com/news/tennessee-bankers-association-stablecore-digital-asset-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/HI-Bankers-support-Trump.jpg?prefix=media%2Farticle-covers",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUJhbmtlcnMtc3VwcG9ydC1UcnVtcC5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
     "pubDate": "2026-05-05T19:11:47+00:00"
-  },
-  {
-    "title": "Ravnica changed Magic: The Gathering forever 20 years ago",
-    "description": "Two decades ago, the Ravnica block concluded with Dissension. The way Magic players talk about the game has never been the same since.",
-    "link": "https://www.polygon.com/mtg-dissension-anniversary-ravnica-block-color-combo-guild-names/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/ocular-halo-mtg.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-05-05T19:00:20+00:00"
-  },
-  {
-    "title": "Hokum director Damian McCarthy reveals how he's remake his first movie today",
-    "description": "Damian McCarthy still wants another shot at Caveat",
-    "link": "https://www.polygon.com/damian-mccarthy-caveat-remake/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-04-at-2-30-37-pm.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-05T19:00:20+00:00"
   },
   {
     "title": "Battlefield Movie - Everything We Know, Including Who Could Star And Direct",
@@ -472,14 +500,14 @@
     "title": "F.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe",
     "description": "The agency’s scientists and data contractors reviewed millions of patient records for studies that were pulled back before release.",
     "link": "https://www.nytimes.com/2026/05/05/us/politics/fda-covid-vaccine-studies.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/05/multimedia/05dc-fda-vaccine01-photo-ztvh/05dc-fda-vaccine01-photo-ztvh-facebookJumbo.jpg",
+    "thumbnail": "",
     "pubDate": "2026-05-05T18:37:35+00:00"
   },
   {
     "title": "Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?",
     "description": "Improving investor confidence supports Bitcoin’s hold on $80,000, as the Crypto Fear and Greed Index exited the “Extreme Fear” zone and now reads “neutral.” Are the bulls back in control?",
     "link": "https://cointelegraph.com/markets/crypto-fear-and-greed-flips-to-neutral-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/angel%20and%20demon2.jpg?prefix=media%2Farticle-covers",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2FuZ2VsJTIwYW5kJTIwZGVtb24yLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
     "pubDate": "2026-05-05T18:35:46+00:00"
   },
   {
@@ -500,29 +528,8 @@
     "title": "US prosecutors ask for leniency for ex-Celsius exec, citing cooperation",
     "description": "While Roni Cohen-Pavon’s lawyers have asked for time served, US Attorney Jay Clayton was unspecific in the federal government’s recommendation, requesting the judge defer to sentencing guidelines.",
     "link": "https://cointelegraph.com/news/us-prosecutors-recommendation-celsius-exec-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/court-crypto-lawsuit2.jpg?prefix=media%2Farticle-covers",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2NvdXJ0LWNyeXB0by1sYXdzdWl0Mi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
     "pubDate": "2026-05-05T18:01:30+00:00"
-  },
-  {
-    "title": "Woman, 35, died in explosion after ex-partner 'forced entry' into her home",
-    "description": "Police officers are treating the death of Jo Shaw as a homicide.",
-    "link": "https://www.bbc.com/news/articles/cx21q55gz12o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e992/live/28330590-4897-11f1-b55d-0f258dce1735.png",
-    "pubDate": "2026-05-05T17:25:19+00:00"
-  },
-  {
-    "title": "Bernstein cites $4T tokenized credit opportunity for Figure Technology stock",
-    "description": "Bernstein points to Figure’s expansion beyond home equity lending into blockchain-based credit, as tokenization begins to scale across broader loan markets.",
-    "link": "https://cointelegraph.com/news/figure-stock-bernstein-tokenized-credit-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/article-covers-261412-figure-hastra-expand-tokenized-credit-auto-loans.jpg?prefix=media%2Farticle-covers",
-    "pubDate": "2026-05-05T17:06:56+00:00"
-  },
-  {
-    "title": "XRP price copies 2025 chart fractal that last time sparked 66% gains",
-    "description": "XRP price broke out of a multi-month bull flag, while other chart technicals are also supporting more upside in the near term.",
-    "link": "https://cointelegraph.com/markets/xrp-replays-2025-fractal-that-sparked-a-66-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://payload.cointelegraph.com/api/article-covers/file/xrp%20cover.jpg?prefix=media%2Farticle-covers",
-    "pubDate": "2026-05-05T17:02:42+00:00"
   },
   {
     "title": "Hate crime prosecutions to be fast-tracked after antisemitic attacks",
@@ -539,11 +546,11 @@
     "pubDate": "2026-05-05T16:41:00+00:00"
   },
   {
-    "title": "Lidl's new loyalty scheme less generous, shoppers say",
-    "description": "Under the changed system customers collect points rather than reward coupons, with £1 spent equalling one point.",
-    "link": "https://www.bbc.com/news/articles/ckgp7y5jg59o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/733d/live/839af900-4893-11f1-9c3f-fddcc2cc89aa.jpg",
-    "pubDate": "2026-05-05T16:30:30+00:00"
+    "title": "With Free Vodka, and a Few Protests, Russia Returns to the Venice Biennale",
+    "description": "On Tuesday, Russia opened a pavilion at the Venice Biennale for the first since its full-scale invasion of Ukraine. Ukraine’s own exhibit is just a stone’s throw.",
+    "link": "https://www.nytimes.com/2026/05/05/arts/design/russia-ukraine-venice-biennale.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-05T16:36:14+00:00"
   },
   {
     "title": "Halo 2 And Halo 3 Remakes Are Coming, Report Says",
@@ -553,13 +560,6 @@
     "pubDate": "2026-05-05T16:16:00+00:00"
   },
   {
-    "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-    "description": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
-    "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a283/live/cfeeea60-4879-11f1-ac78-2112837ce2aa.jpg",
-    "pubDate": "2026-05-05T11:38:03+00:00"
-  },
-  {
     "title": "Alarm bells raised over fintech firm’s bank purchase",
     "description": "",
     "link": "https://finance.yahoo.com/economy/policy/articles/alarm-bells-raised-over-fintech-030700036.html",
@@ -567,66 +567,66 @@
     "pubDate": "2026-05-05T03:07:00+00:00"
   },
   {
+    "title": "Palantir Earnings: Will AI Commercial Revenue Drive Up Software Stocks?",
+    "description": "",
+    "link": "https://www.investors.com/news/technology/palantir-stock-pltr-software-stocks-q12026/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/02/Stock-Palantirsign-02-shutt.jpg",
+    "pubDate": "2026-05-04T16:49:27+00:00"
+  },
+  {
+    "title": "SOL Strategies Signs $18 Million Deal to Acquire Privacy-Focused Swap Aggregator Houdini",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/sol-strategies-signs-18-million-164900902.html",
+    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/fda2ddd9a2f33c677a410c4bbf4d897c",
+    "pubDate": "2026-05-04T16:49:00+00:00"
+  },
+  {
+    "title": "The Marzetti Company Q3 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/marzetti-company-q3-2026-earnings-164603441.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/c166c37c8b7f218c6a7443729861114d",
+    "pubDate": "2026-05-04T16:46:03+00:00"
+  },
+  {
+    "title": "Superior Group of Companies, Inc. Q1 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/superior-group-companies-inc-q1-164554084.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/9fb2a334848174f71432b79e5d06bed0",
+    "pubDate": "2026-05-04T16:45:54+00:00"
+  },
+  {
+    "title": "Hess Midstream LP Q1 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hess-midstream-lp-q1-2026-164550451.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/e2b74610ad6c871c86cb48712bf0bb67",
+    "pubDate": "2026-05-04T16:45:50+00:00"
+  },
+  {
+    "title": "Cogent Communications Holdings, Inc. Q1 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cogent-communications-holdings-inc-q1-164543552.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/1f74f28aca094bde4bdf4fec7363823f",
+    "pubDate": "2026-05-04T16:45:43+00:00"
+  },
+  {
+    "title": "Twist Bioscience Corporation Q2 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/twist-bioscience-corporation-q2-2026-164541370.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/20dbcdb3d4214b46bcccda3652336645",
+    "pubDate": "2026-05-04T16:45:41+00:00"
+  },
+  {
+    "title": "Losses continue at TL carrier Pamt Corp.",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/losses-continue-tl-carrier-pamt-164223158.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/JxZbQHDqWg2vGOepHRA6Ag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/169cf50a7e17263144fa2607349dc674",
+    "pubDate": "2026-05-04T16:42:23+00:00"
+  },
+  {
     "title": "Amex GBT agrees to $6.3 billion take-private deal with Long Lake",
     "description": "",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amex-gbt-agrees-6-3-163512714.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/0p53LMAIMKjiWqi21CiPqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/c72d5869f9c900930fc160c54d4b919c",
     "pubDate": "2026-05-04T16:35:12+00:00"
-  },
-  {
-    "title": "RadNet (RDNT) Slid on Concerns over the Potentially Disruptive Impact of AI",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/radnet-rdnt-slid-concerns-over-131559654.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/6580bb84223641e70a54d29e2d6176c1",
-    "pubDate": "2026-05-04T13:15:59+00:00"
-  },
-  {
-    "title": "WEX board deal ends bitter proxy battle with activist Impactive",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wex-board-deal-ends-bitter-131356498.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/71ca9fd53da54a063edeb942049873da",
-    "pubDate": "2026-05-04T13:13:56+00:00"
-  },
-  {
-    "title": "Here’s Why Roivant Sciences Ltd (ROIV) Rallied in Q1",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-roivant-sciences-ltd-roiv-131000256.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/e553c653b11c59e38bdd126f4971e8d9",
-    "pubDate": "2026-05-04T13:10:00+00:00"
-  },
-  {
-    "title": "What Makes Welltower (WELL) a Good Investment Choice?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/makes-welltower-well-good-investment-130800067.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/706a90f07e626a873d608950db4c0df2",
-    "pubDate": "2026-05-04T13:08:00+00:00"
-  },
-  {
-    "title": "U.S. equity fund inflows ease to a six-week low",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/u-equity-fund-inflows-ease-130351729.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/d3b7440682d3dad0955d7ccbbaf7b692",
-    "pubDate": "2026-05-04T13:03:51+00:00"
-  },
-  {
-    "title": "U.S. Senate Resolves Issue Of Stablecoin Yield",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/u-senate-resolves-issue-stablecoin-130200817.html",
-    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/f1e1329d4bd3eb1298433418841c38d0",
-    "pubDate": "2026-05-04T13:02:00+00:00"
-  },
-  {
-    "title": "The connection between money and mental health: Why it matters more than you think",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/connection-between-money-and-mental-health-130000083.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/OJxPWVnKc1anfm8wxLqOhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/f33bd990-0e7e-11f1-befb-c46fbb339149",
-    "pubDate": "2026-05-04T13:00:00+00:00"
-  },
-  {
-    "title": "Chase Home Loans launches another mortgage rate sale for 2 weeks only",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-loans-lmortgage-rate-sale-2-weeks-only-130000648.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/9vrFKh8DlIll5ewNe7EDoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/39999195-2f58-4969-bfb0-53d70aa83aee",
-    "pubDate": "2026-05-04T13:00:00+00:00"
   }
 ]
