@@ -1,10 +1,346 @@
 [
   {
-    "title": "Live markets: Bitcoin holds $80,000 as stocks sink, yields rise on ugly inflation print",
+    "title": "EBay rejects GameStop's $56 billion takeover bid, calling it 'neither credible nor attractive'",
+    "description": "Many analysts questioned the deal, citing concerns about how GameStop would finance the transaction and the strategic rationale.",
+    "link": "https://www.cnbc.com/2026/05/12/ebay-rejects-gamestops-takeover-ryan-cohen.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107408364-1714500471897-gettyimages-1468618791-0j7a1534_15d3d4a9-8ce5-4f7a-98b5-40ec187d2acd.jpeg?v=1714500641&w=1920&h=1080",
+    "pubDate": "2026-05-12T17:15:20+00:00"
+  },
+  {
+    "title": "Pokémon Go 'Spring Marathon' event guide",
+    "description": "As part of the Pokémon Go \"Spring Marathon\" event, you can hatch eggs or complete the Go Pass to find Flittle.",
+    "link": "https://www.polygon.com/pokemon-go-spring-marathon-event-flittle-pikachu-visor-go-pass/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/unnamed-2.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-12T17:10:41+00:00"
+  },
+  {
+    "title": "Senate confirms Kevin Warsh as Fed governor, clears way for chair vote",
+    "description": "The upper chamber voted to approve Warsh's nomination by a 51-45 vote, on a mostly party-line basis.",
+    "link": "https://www.cnbc.com/2026/05/12/senate-confirms-kevin-warsh-as-fed-governor-clears-way-for-chair-vote.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108299088-1777469289100-gettyimages-2271888376-warsh_senate_431_042126.jpeg?v=1777469313&w=1920&h=1080",
+    "pubDate": "2026-05-12T17:08:10+00:00"
+  },
+  {
+    "title": "Armed man shot dead by police after overnight stand-off",
+    "description": "The man, in his 40s, \"presented a weapon\" after barricading himself inside a property, police say.",
+    "link": "https://www.bbc.com/news/articles/c4g4k87qqnjo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99aa/live/d29a6920-2051-11f0-9177-cd94edc26715.jpg",
+    "pubDate": "2026-05-12T17:05:00+00:00"
+  },
+  {
+    "title": "Salvation's Child preview: read The Final Architecture prequel's opening here",
+    "description": "Adrian Tchaikovsky's The Final Architecture series is one of the best space operas in years. Read an excerpt of its prequel, Salvation's Child, here.",
+    "link": "https://www.polygon.com/salvations-child-preview-final-architecture-prequel/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/salvations_child.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-12T17:03:19+00:00"
+  },
+  {
+    "title": "Hegseth to Accompany Trump on Trip to China",
+    "description": "Defense secretaries have previously traveled with presidents on overseas trips, to provide advice and represent the U.S. military.",
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T17:02:15+00:00"
+  },
+  {
+    "title": "Anthropic announces new Claude-powered legal software as SaaS stocks continue to struggle",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/technology/article/anthropic-announces-new-claude-powered-legal-software-as-saas-stocks-continue-to-struggle-170000306.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/.JIrlPWegMCcuZ5Fil6heQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/97e01e80-186f-11f1-9aeb-53674cd134c2",
+    "pubDate": "2026-05-12T17:00:00+00:00"
+  },
+  {
+    "title": "Read all the ministers' resignation letters in full",
+    "description": "Ministers including Safeguarding Minister Jess Phillips have resigned over Sir Keir Starmer's leadership.",
+    "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c3/live/31794470-4e05-11f1-ac78-2112837ce2aa.jpg",
+    "pubDate": "2026-05-12T16:59:57+00:00"
+  },
+  {
+    "title": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says",
+    "description": "The most comprehensive report of its kind details harrowing cases of sexual attacks which it says were systematic.",
+    "link": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efcd/live/2bb72400-4e0d-11f1-ac78-2112837ce2aa.jpg",
+    "pubDate": "2026-05-12T16:58:51+00:00"
+  },
+  {
+    "title": "United Airlines flight attendants ratify new contract with 31% raises this summer",
+    "description": "United Airlines flight attendants ratify labor deal that would provide first raises in nearly 6 years.",
+    "link": "https://www.cnbc.com/2026/05/12/united-airlines-flight-attendants-contract.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108291388-1776867053547-108291388-1776197622882-gettyimages-2268509574-march2026_396_bucket.jpg?v=1776867068&w=1920&h=1080",
+    "pubDate": "2026-05-12T16:58:05+00:00"
+  },
+  {
+    "title": "No sign of larger hantavirus outbreak, says UN health agency",
+    "description": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+    "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg",
+    "pubDate": "2026-05-12T16:45:42+00:00"
+  },
+  {
+    "title": "2.6 million student loan borrowers fell into default in early 2026: New York Fed",
+    "description": "Student loan defaults are showing up on consumers' credit reports for the first time since the Covid pandemic, a new blog by the New York Fed shows.",
+    "link": "https://www.cnbc.com/2026/05/12/student-loan-borrowers-default.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108305634-1778596464976-gettyimages-2263788363-04102025_02898.jpeg?v=1778596478&w=1920&h=1080",
+    "pubDate": "2026-05-12T16:38:20+00:00"
+  },
+  {
+    "title": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
+    "description": "Osero is coming with three products: Earn, App, and Foundry.",
+    "link": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/915bbce115c5a32c0f84df9ecfe38a6e8bdc8b77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-12T16:35:02+00:00"
+  },
+  {
+    "title": "Privacy emerges as crypto’s next 'killer app,' with Arc, Canton and Tempo topping $1 billion in funding",
+    "description": "New fundraising rounds for three institution-focused blockchains show how regulation, privacy and corporate competition are reshaping crypto infrastructure, according to Bitwise CIO Matt Hougan.",
+    "link": "https://www.coindesk.com/business/2026/05/12/privacy-emerges-as-crypto-s-next-killer-app-with-arc-canton-and-tempo-topping-usd1-billion-in-funding",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/18172463a019e513e643fd2ed9ab0e0806baf68b-1440x810.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-12T16:33:42+00:00"
+  },
+  {
+    "title": "Israel’s war creating a ‘lost generation’ of Lebanese students",
+    "description": "Israel's war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing country's education system.",
+    "link": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69ec3491-1777087633.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-12T16:33:23+00:00"
+  },
+  {
+    "title": "Kuwait Accuses Iran of Trying to Infiltrate Its Territory",
+    "description": "Kuwait’s interior ministry said a group of armed Iranians arrived at Bubiyan Island in the Persian Gulf on May 1 aboard a rented fishing boat and exchanged fire with Kuwaiti soldiers.",
+    "link": "https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T16:31:10+00:00"
+  },
+  {
+    "title": "These Stocks Are Today’s Movers: Qualcomm, Intel, Micron, Zebra, Nvidia, Quantum Computing, GameStop, and More",
+    "description": "",
+    "link": "https://www.barrons.com/articles/stock-movers-9191624b?siteid=yhoof2&yptr=yahoo",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T16:31:00+00:00"
+  },
+  {
+    "title": "Kuwait says it foils infiltration operation by Iran’s IRGC",
+    "description": "Kuwait arrests four men it accuses of being in Revolutionary Guard and conducting failed infiltration of Bubiyan Island.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a034352d1ac1-1778598738.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-12T16:26:35+00:00"
+  },
+  {
+    "title": "All the Labour MPs who have come out against Starmer",
+    "description": "A growing number of Labour MPs are coming out against the prime minister.",
+    "link": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc3/live/e39eb640-4e22-11f1-b55d-0f258dce1735.jpg",
+    "pubDate": "2026-05-12T16:25:58+00:00"
+  },
+  {
+    "title": "Korea Roils Market by Floating ‘Citizen Dividend’ From AI",
+    "description": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/korea-roils-market-floating-citizen-081026940.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/hqXFBYG54NYX9ahea5SVPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/5f4497a514ee2f1c7bf42a8a9aaa039b",
+    "pubDate": "2026-05-12T16:16:28+00:00"
+  },
+  {
+    "title": "Marvel Rivals Season 8 Says \"To Me, My X-Men\" With Cyclops Reveal",
+    "description": "Marvel Rivals developer NetEase Games has revealed a new look at Season 8: Sins of Alchemax for the free-to-play game, showing off iconic X-Men leader Cyclops in action, as well as a tease for the fan-favorite characters Moon Girl and Devil Dinosaur. Kicking off on May 15, Season 8 revolves around the sinister Alchemax corporation, which was responsible for the recent Time Plague in Lower Manhattan. The devastating outbreak was contained, but with Alchemax responsible for it and still standing defiant, players will have to team up to take down the company before it's too late. The big surprise in the trailer is that Moon Girl and Devil Dinosaur appear in a prominent role. One of the smartest characters in the Marvel Universe, Moon Girl AKA Lunella Lafayette shares a mental link with Devil Dinosaur, who is usually depicted as a crimson-skinned dinosaur that resembles a Tyrannosaurus Rex. Devil Dinosaur will join the game this season, serving a Vanguard role built around raw, savage power. The hero can tear the opposition to shreds, is equipped with a shield, and attacks with primal bites to inflict a continuous bleeding effect on targets. Whenever he smashes through defenses, Devil Dinosaur's aggression will increase, and he can clamp down on enemies to instantly take them out. For his Ultimate Ability, Devil Dinosaur becomes unstoppable and can charge forward to mercilessly trample anyone caught in his path of destruction. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/marvel-rivals-season-8-says-to-me-my-x-men-with-cyclops-reveal/1100-6539900/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T16:14:00+00:00"
+  },
+  {
+    "title": "Pentagon gives new $29bn Iran war price tag, downplays munitions concerns",
+    "description": "Appearing before congressional panel, Defense Secretary Hegseth says US is prepared to either escalate or wind down war.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a033be22948-1778596834_ec15bc-1778602588.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-05-12T16:13:28+00:00"
+  },
+  {
+    "title": "Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’",
+    "description": "The statistics shared by Save the Children refer to the first 25 days of the truce that came into effect on April 16.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/AA-20260410-41074710-41074704-DESTRUCTION_IN_BEIRUTS_CORNICHE_ALMAZRAA_AFTER_ISRAELI_STRIKES-1775870343.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-12T16:12:43+00:00"
+  },
+  {
+    "title": "Qualcomm drops 13% as chip stocks pull back from record AI-driven rally",
+    "description": "The recent rally has shown a broadening of the AI trade beyond chipmaking giant Nvidia.",
+    "link": "https://www.cnbc.com/2026/05/12/qualcomm-chip-stocks-record-ai.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108297464-1777302288549-108297464-1777283377180-gettyimages-2264300751-pekiaridis-notitle260305_np6p9.jpg?v=1777302300&w=1920&h=1080",
+    "pubDate": "2026-05-12T16:10:57+00:00"
+  },
+  {
+    "title": "More Cancer Patients Are Taking Ivermectin. Mel Gibson and Joe Rogan Might Be Why.",
+    "description": "Prescriptions for antiparasitic drugs spiked after the actor claimed it cured his friends of cancer, a new study finds.",
+    "link": "https://www.nytimes.com/2026/05/12/well/ivermectin-cancer-mel-gibson-joe-rogan.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T16:07:32+00:00"
+  },
+  {
+    "title": "Quantum Computing stock surges after revenue beat",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/article/quantum-computing-stock-surges-after-revenue-beat-160415768.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Md_EiI7E4vj9MStQ9zkEmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2263993203_5490.jpg",
+    "pubDate": "2026-05-12T16:04:15+00:00"
+  },
+  {
+    "title": "New York Fed finds ongoing student loan woes in first quarter",
+    "description": "",
+    "link": "https://finance.yahoo.com/economy/articles/york-fed-finds-ongoing-student-150500326.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters.com/cd4adf01006c5d47cb50993422aaf0f3",
+    "pubDate": "2026-05-12T16:02:20+00:00"
+  },
+  {
+    "title": "What to know about Curacao at the FIFA World Cup 2026",
+    "description": "After a fairytale qualification journey, the tiny Caribbean island makes its World Cup debut next month.",
+    "link": "https://www.aljazeera.com/sports/2026/5/12/what-to-know-about-curacao-at-the-fifa-world-cup-2026?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp_691ed3287ee2-1763627816.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-12T16:01:46+00:00"
+  },
+  {
+    "title": "Is Anthropic’s Claude Mythos Really a Cybersecurity Risk?",
+    "description": "Anthropic said that Claude Mythos was too dangerous to release to the public. That claim has reopened an old debate over cybersecurity.",
+    "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T16:01:26+00:00"
+  },
+  {
+    "title": "CoD Veteran's New Shooter Is \"Not A Call Of Duty Killer,\" Inspired By David Lynch",
+    "description": "One of the best-known Call of Duty developers, David Vonderhaar, is making a new game that is \"not a Call of Duty killer\" but is instead something that sounds quite different. It will be a shooter, but Vonderhaar told Bloomberg it's \"definitely not\" another military simulation-type game. Instead, people can think of it as \"if David Lynch made shooters.\" Players will work together to fight environmental challenges and also each other, the report said, suggesting it will be some type of PvPvE game. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/cod-veterans-new-shooter-is-not-a-call-of-duty-killer-inspired-by-david-lynch/1100-6539901/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T16:01:00+00:00"
+  },
+  {
+    "title": "Call of the Elder Gods is the best new game on Xbox Game Pass",
+    "description": "Call of the Elder Gods follows up 2020's Call of the Sea with another brainy puzzle game with bigger ideas.",
+    "link": "https://www.polygon.com/call-of-the-elder-gods-game-pass-rec/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/call-of-the-elder-gods-main-characters.avif?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-12T16:00:20+00:00"
+  },
+  {
+    "title": "Jujutsu Kaisen's Sukuna is canon in the Marvel universe, but where does he stand in terms of power?",
+    "description": "Marvel Comics' Storm: Earth's Mightiest Mutant showed the Jujutsu Kaisen universe and Sukuna, but how would he fare against Marvel's powerhouses?",
+    "link": "https://www.polygon.com/jjk-sukuna-canon-marvel-universe-powerscale/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/sukuna-thanos-storm.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-12T16:00:20+00:00"
+  },
+  {
+    "title": "Clarity Act Text Reveals Stablecoin Rules, Crypto Provisions Ahead Of Hearing",
+    "description": "",
+    "link": "https://www.investors.com/news/clarity-act-text-senate-banking-committee-markup-hearing/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/01/Stock-BlueCongress-AI-adobe.jpg",
+    "pubDate": "2026-05-12T15:58:25+00:00"
+  },
+  {
+    "title": "Quantum Computing Stocks: Rigetti Falls On Q1 Earnings Report",
+    "description": "",
+    "link": "https://www.investors.com/news/technology/quantum-computing-stocks-rigetti-stock-rgti-rigetti-earnings-q12026/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/05/Stock-Rigetti-01-shutt.jpg",
+    "pubDate": "2026-05-12T15:52:08+00:00"
+  },
+  {
+    "title": "Gamer banned for 7,000 years for leaking Xbox game mocks devs",
+    "description": "A Forza Horizon 6 modder known as DVS Squad quickly overcame a ban from Playground Games instituted across the entire racing franchise",
+    "link": "https://www.polygon.com/xbox-ban-leak-forza-horizon-6-modder-youtube-dvs-squad-response/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/fh6_screenshots_po_01-city-night-race-16x9-logo_3840x2160_rgb-e9deb0f73ddaa75eecb2-1900x1080.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-12T15:50:33+00:00"
+  },
+  {
+    "title": "A24's Obsession director wants to make a new Nightmare on Elm Street movie next",
+    "description": "Curry Barker already has Texas Chainsaw Massacre lined up as his next project, but he tells Polygon he'd love to make a Freddy Krueger movie too.",
+    "link": "https://www.polygon.com/curry-barker-new-nightmare-on-elm-street-movie/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdnion_ec018.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-12T15:48:13+00:00"
+  },
+  {
+    "title": "The potential challengers to Keir Starmer",
+    "description": "Andy Burnham, Angela Rayner and Wes Streeting are all potential candidates for the top job.",
+    "link": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e2/live/a9090790-4e1f-11f1-b55d-0f258dce1735.jpg",
+    "pubDate": "2026-05-12T15:47:35+00:00"
+  },
+  {
+    "title": "U.S. CFTC in talks with every major pro sports league on policing prediction markets",
+    "description": "Chairman Michael Selig says the agency has already taken several states to court to prove that sports contracts aren't just betting but that they're derivatives.",
+    "link": "https://www.coindesk.com/policy/2026/05/12/the-cftc-is-in-talks-with-every-major-pro-sports-league-to-crack-down-on-insider-trading",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f8247ad03ed0ee80d0bc837f451e14221f8fa7f3-1900x1067.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-12T15:38:56+00:00"
+  },
+  {
+    "title": "The summer box office is off to a hot start as weekend ticket sales top $160 million",
+    "description": "The summer box office is off to a sizzling start, thanks in part to strong week-after-week performance from returning titles.",
+    "link": "https://www.cnbc.com/2026/05/12/summer-box-office-weekend-ticket-sales.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108305100-1778515613432-Untitled-4.jpg?v=1778515804&w=1920&h=1080",
+    "pubDate": "2026-05-12T15:36:42+00:00"
+  },
+  {
+    "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No.",
+    "description": "The latest artificial intelligence models from Anthropic and OpenAI are extending the United States’ lead over China and intensifying the rivalry between the countries.",
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T15:36:07+00:00"
+  },
+  {
+    "title": "Novo Nordisk says high-dose Wegovy helped some patients lose nearly 28% of their weight",
+    "description": "Novo Nordisk released new data that could help boost the case for the higher dose version of its blockbuster obesity injection Wegovy.",
+    "link": "https://www.cnbc.com/2026/05/12/healthy-returns-novo-nordisk-releases-new-high-dose-wegovy-data.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108226742-1763385742074-gettyimages-2212016352-NOVO_WEGOVY.jpeg?v=1778598193&w=1920&h=1080",
+    "pubDate": "2026-05-12T15:33:44+00:00"
+  },
+  {
+    "title": "Bitcoin’s bull-bear cycle indicator turns green for first time since March 2023",
+    "description": "While some experts point to $90,000 as the next explosive level, others caution that this new \"early bull\" signal isn't a guaranteed crystal ball.",
+    "link": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-bull-bear-cycle-turns-green-for-first-time-since-march-2023",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b1b854b3b88b40537788a866880c7d166d538236-1280x960.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-12T15:31:31+00:00"
+  },
+  {
+    "title": "Anne Leckie's Ancillary Justice world returns with first-look at Radiant Star",
+    "description": "The Hugo- and Nebula-winning author returns to the world of the Imperial Radch with a new novel.",
+    "link": "https://www.polygon.com/ann-leckie-radiant-star-release-excerpt/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/9781549164842_retailcover_retailandcatalog.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-12T15:27:46+00:00"
+  },
+  {
+    "title": "Binance's chief marketing officer Rachel Conlan to leave the exchange",
+    "description": "Eowyn Chen, former CEO of Trust Wallet, will serve as her interim replacement.",
+    "link": "https://www.coindesk.com/business/2026/05/12/binance-s-chief-marketing-officer-rachel-conlan-is-leaving-the-exchange",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6f665e4a0e21533ba1ae35082f90ab33da2cadc9-2724x1550.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-12T15:25:46+00:00"
+  },
+  {
+    "title": "Star Wars: Fate Of The Old Republic Boss Says AI Is \"Creatively Soulless\"",
+    "description": "Casey Hudson, the gaming industry veteran who is leading the team making Star Wars: Fate of the Old Republic, has commented on AI, saying he finds it to be \"creatively soulless.\" He said this in an interview with Bloomberg, adding, \"It's hard to imagine where it's actually helpful in the process. I'm just really unimpressed with it.\" Presumably Hudson is referring to generative AI, which has been the hot-button topic as of late, but whatever the case, he is clearly not enthusiastic about the technology for Fate of the Old Republic. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/star-wars-fate-of-the-old-republic-boss-says-ai-is-creatively-soulless/1100-6539898/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T15:24:00+00:00"
+  },
+  {
+    "title": "Israel killing at least one child a week in occupied West Bank, UN says",
+    "description": "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778599378.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2026-05-12T15:23:04+00:00"
+  },
+  {
+    "title": "Here's the inflation breakdown for April 2026 — in one chart",
+    "description": "The Iran war has pushed up gasoline, groceries and other prices for consumers.",
+    "link": "https://www.cnbc.com/2026/05/12/inflation-breakdown-for-april-2026-cpi-chart.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108290789-1776118085679-gettyimages-2271203884-jr_13657_3n7nctz3.jpeg?v=1776118180&w=1920&h=1080",
+    "pubDate": "2026-05-12T15:11:49+00:00"
+  },
+  {
+    "title": "Live markets: Bitcoin briefly falls below $80,000, as stocks tumble, yields rise on ugly inflation print",
     "description": "Inflation rose to a three-year high in April, according to this morning's Consumer Price Index report.",
     "link": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e7c965f13b0c1b538c6b439b25d61918ab4b5bd8-4032x3024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/368526104f26728e3ceede51fb08d5da5f236db4-1440x810.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-05-12T15:04:41+00:00"
+  },
+  {
+    "title": "How one Palestinian teen’s life changed forever after Israeli gunfire",
+    "description": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778598135.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-12T15:02:22+00:00"
   },
   {
     "title": "What time does Subnautica 2 release in your time zone?",
@@ -21,6 +357,13 @@
     "pubDate": "2026-05-12T15:00:20+00:00"
   },
   {
+    "title": "Sega Cancels Super Game, But New Crazy Taxi And Jet Set Radio Are Still Coming",
+    "description": "The ambiguous Super Game project from Sega--which planned to incorporate NFTs, social networking, and cloud streaming--has been canned. The company behind Sonic the Hedgehog bluntly stated that it \"decided to cancel\" the game in its fiscal 2026 results presentation. This comes almost five years exactly after the original announcement of the Super Game in 2021. A handful of classic franchise reboots are still in the works, however. Sega is still listing Crazy Taxi, Golden Axe, Jet Set Radio, and Streets of Rage as upcoming games, though without a specific release date. These four projects were first unveiled at The Game Awards in 2023. A new Shinobi was also part of that reveal, and Shinobi: Art of Vengeance arrived last year. Leave it to @sega to blow our minds with 5 NEW GAMES in one trailer! This is Sega Power Surge! #TheGameAwards pic.twitter.com/O0an9RbWxm — The Game Awards (@thegameawards) December 8, 2023 In 2024, Sega teased an open world for Crazy Taxi, mixed with MMO elements. The setting is supposedly based on California. The series began in 1999 with Crazy Taxi for arcades, with a Dreamcast release in 2000. The last game in the franchise was a spin-off for mobile platforms released in 2017 called Crazy Taxi Tycoon. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/sega-cancels-super-game-but-new-crazy-taxi-and-jet-set-radio-are-still-coming/1100-6539891/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T15:00:00+00:00"
+  },
+  {
     "title": "Man Found With Meth Pills Shaped Like Mario Is Going To Prison",
     "description": "A Connecticut man has been sentenced to six years in federal prison on charges that he was in possession of meth pills shaped like Mario the video game character. 33-year-old Ronnell Rogers was sentenced on Monday, May 11 to 72 months in prison and three years of supervised release for distributing fentanyl and for violating terms of parole from a previous federal conviction. Continue Reading at GameSpot",
     "link": "https://www.gamespot.com/articles/man-found-with-meth-pills-shaped-like-mario-is-going-to-prison/1100-6539896/?ftag=CAD-01-10abi2f",
@@ -28,25 +371,11 @@
     "pubDate": "2026-05-12T14:53:00+00:00"
   },
   {
-    "title": "Xeinadin expands North East footprint with Wasley Chapman acquisition",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/xeinadin-expands-north-east-footprint-145226187.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/uyiigt_azcIVUp.wY05H8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/international_accounting_bulletin_542/9cd2bcb463f80d776cc732559f983a76",
-    "pubDate": "2026-05-12T14:52:26+00:00"
-  },
-  {
-    "title": "IPA says Australia’s federal budget favours “piecemeal” tax fixes",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/ipa-says-australia-federal-budget-144857614.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/hPOSykAdwNqEourh3NHp_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_accountant_923/f9da57e3ba2376a0cb9063be3feeb9d6",
-    "pubDate": "2026-05-12T14:48:57+00:00"
-  },
-  {
-    "title": "At a glance: Starmer grapples with leadership crisis",
-    "description": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
-    "link": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef6/live/e00df490-4e05-11f1-bd52-e755d604ece4.jpg",
-    "pubDate": "2026-05-12T14:47:25+00:00"
+    "title": "How To Unlock All New Weapons In Battlefield 6 Season 3",
+    "description": "Season 3's new Warlords: Supremacy update is live in Battlefield 6 and Redsec. This update adds the Railway to Golmud multiplayer map, a brand-new battle pass, three new guns, and additional attachments. In this guide, we'll show you how to complete the Warlords: Supremacy challenges and unlock all the new loadout gear for Battlefield 6. Just like past seasons, Season 3 will roll out in three phases. This first season is called Warlords: Supremacy, and this initial phase will include the M16A4 assault rifle, RPK-74M light machine gun, and the L115 sniper rifle as the three new guns. For new attachments, the update introduces the Speed Holster, Aftermarket Buffer, and Burst Mode. You don't need to purchase the Season 3 battle pass to earn any of the weapons or attachments included, but it's worth noting that you receive a 10% XP boost with the $10 standard battle pass purchase and a 15% XP boost for the $25 Pro version of the pass. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/how-to-unlock-all-new-weapons-in-battlefield-6-season-3/1100-6539897/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T14:47:00+00:00"
   },
   {
     "title": "All Far Far North grave locations in Far Far West",
@@ -56,11 +385,25 @@
     "pubDate": "2026-05-12T14:45:36+00:00"
   },
   {
-    "title": "New Nintendo Switch 2 bundles coming ahead of price increase",
-    "description": "Nintendo will offer a new Choose Your Game Switch 2 bundle with Mario Kart World, Donkey Kong Bananza, or Pokémon Pokopia",
-    "link": "https://www.polygon.com/nintendo-switch-2-new-game-bundles/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/choice_lead.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-12T14:40:37+00:00"
+    "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
+    "description": "The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans.",
+    "link": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-12T14:41:48+00:00"
+  },
+  {
+    "title": "Lamine Yamal’s Palestine flag wave hailed by fans, activists and athletes",
+    "description": "Palestinians in Gaza, football fans from around the world and activists laud Barca and Spain footballer.",
+    "link": "https://www.aljazeera.com/sports/2026/5/12/lamine-yamals-palestine-flag-wave-hailed-by-fans-activists-and-athletes?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26132419495480-1778596914.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-12T14:41:29+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "pubDate": "2026-05-12T14:37:33+00:00"
   },
   {
     "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
@@ -77,11 +420,11 @@
     "pubDate": "2026-05-12T14:34:00+00:00"
   },
   {
-    "title": "EBay rejects GameStop's $56 billion takeover bid, calling it 'neither credible nor attractive'",
-    "description": "Many analysts questioned the deal, citing concerns about how GameStop would finance the transaction and the strategic rationale.",
-    "link": "https://www.cnbc.com/2026/05/12/ebay-rejects-gamestops-takeover-ryan-cohen.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107408364-1714500471897-gettyimages-1468618791-0j7a1534_15d3d4a9-8ce5-4f7a-98b5-40ec187d2acd.jpeg?v=1714500641&w=1920&h=1080",
-    "pubDate": "2026-05-12T14:30:21+00:00"
+    "title": "Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return",
+    "description": "Bitcoin showed fresh signs of volatility as US CPI inflation saw new multiyear highs on oil price hikes thanks to the US-Iran war.",
+    "link": "https://cointelegraph.com/markets/bitcoin-digests-highest-us-cpi-print-since-2023-fed-rate-hike-nerves-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/make-bitcoin-great-again3.jpg",
+    "pubDate": "2026-05-12T14:33:51+00:00"
   },
   {
     "title": "The Flotilla Diaries: Inside the 2025 mission to break the Gaza siege",
@@ -94,8 +437,15 @@
     "title": "Watch: Reporters shout questions at ministers leaving No 10",
     "description": "Several ministers were met with a barrage of questions about the PM's future after leaving a cabinet meeting.",
     "link": "https://www.bbc.com/news/videos/cn8p175l7v2o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ff8/live/9f563180-4e12-11f1-b55d-0f258dce1735.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7a/live/18c9c640-4e21-11f1-ac78-2112837ce2aa.jpg",
     "pubDate": "2026-05-12T14:21:31+00:00"
+  },
+  {
+    "title": "'Crisis in Great Britain!' How global media is reporting Starmer's fight for survival",
+    "description": "Sir Keir Starmer's fight for survival after a dismal set of elections last week is receiving coverage across the globe.",
+    "link": "https://www.bbc.com/news/articles/crkp67pdy81o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b7/live/9ef94ad0-4e1a-11f1-b55d-0f258dce1735.jpg",
+    "pubDate": "2026-05-12T14:20:07+00:00"
   },
   {
     "title": "Rana stars as Bangladesh win first home Test against Pakistan",
@@ -105,39 +455,11 @@
     "pubDate": "2026-05-12T14:18:34+00:00"
   },
   {
-    "title": "Here's the inflation breakdown for April 2026 — in one chart",
-    "description": "The Iran war has pushed up gasoline, groceries and other prices for consumers.",
-    "link": "https://www.cnbc.com/2026/05/12/inflation-breakdown-for-april-2026-cpi-chart.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108290789-1776118085679-gettyimages-2271203884-jr_13657_3n7nctz3.jpeg?v=1776118180&w=1920&h=1080",
-    "pubDate": "2026-05-12T14:18:09+00:00"
-  },
-  {
-    "title": "Hot CPI report likely to put Fed on guard for longer-lasting inflation",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/article/hot-cpi-report-likely-to-put-fed-on-guard-for-longer-lasting-inflation-141806779.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/t_WyzkLmZ7zPwKUdxD7rUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fd6f24d0-c282-11ed-beff-fd4b0ed902e6_90af072c793b4f969e0e45fbf6406ac112c292731776d841ee9740bdb39e2b49.jpg",
-    "pubDate": "2026-05-12T14:18:06+00:00"
-  },
-  {
-    "title": "IQMM: The $22.7 Billion ETF You've Never Heard Of",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/iqmm-22-7-billion-etf-141720250.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/CSbPOp5ktTTj7rnfm55htw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/indexuniverse.com/1488d15a75f19b97214a6e9d403d43fa",
-    "pubDate": "2026-05-12T14:17:20+00:00"
-  },
-  {
-    "title": "Tiny move in benchmark diesel as futures prices start to shift higher",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/tiny-move-benchmark-diesel-futures-141603989.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/nWZV1kbFBNShSs_SeMn_Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/58513bc79f16163f965a47f91ffde6ae",
-    "pubDate": "2026-05-12T14:16:03+00:00"
-  },
-  {
-    "title": "Hassett brags that credit card spending is 'through the roof' — as delinquencies climb and farm bankruptcies jump 46%",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/articles/hassett-brags-credit-card-spending-141500850.html",
-    "thumbnail": "https://s.yimg.com/os/en/moneywise_327/932622b8c98ac5a46ba7c15ffe87b570",
-    "pubDate": "2026-05-12T14:15:00+00:00"
+    "title": "LMAX Group launches digital asset collateral solution for institutions",
+    "description": "The new portal lets LMAX clients deposit digital assets into custody and use them as collateral to trade FX, metals, CFDs, perpetual futures and crypto.",
+    "link": "https://cointelegraph.com/news/lmax-group-launches-digital-asset-collateral-solution-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-cryptocurrency-trading-strategies2.jpg",
+    "pubDate": "2026-05-12T14:15:17+00:00"
   },
   {
     "title": "eBay's Rejection Letter To GameStop's $56 Billion Bid Pulls Absolutely No Punches",
@@ -145,34 +467,6 @@
     "link": "https://www.gamespot.com/articles/ebays-rejection-letter-to-gamestops-56-billion-bid-pulls-absolutely-no-punches/1100-6539894/?ftag=CAD-01-10abi2f",
     "thumbnail": "",
     "pubDate": "2026-05-12T14:15:00+00:00"
-  },
-  {
-    "title": "Trump-Xi meeting: Could China, US form a ‘G2’?",
-    "description": "The leaders' upcoming meeting in Beijing has revived the idea of a 'Group of Two' between the superpowers.",
-    "link": "https://www.aljazeera.com/news/2026/5/12/trump-xi-meeting-could-china-us-form-a-g2?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a030bc4ba-1778584516_7ab222-1778595226.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-05-12T14:14:11+00:00"
-  },
-  {
-    "title": "Novo Nordisk says high-dose Wegovy helped some patients lose nearly 28% of their weight",
-    "description": "Novo Nordisk released new data that could help boost the case for the higher dose version of its blockbuster obesity injection Wegovy.",
-    "link": "https://www.cnbc.com/2026/05/12/healthy-returns-novo-nordisk-releases-new-high-dose-wegovy-data.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108226742-1763385742074-gettyimages-2212016352-NOVO_WEGOVY.jpeg?v=1778598193&w=1920&h=1080",
-    "pubDate": "2026-05-12T14:13:50+00:00"
-  },
-  {
-    "title": "All Far Far West Area 41 grave locations",
-    "description": "An annotated map with all 10 grave locations on the Area 41 map in Far Far West along with details on where to find each grave specifically.",
-    "link": "https://www.polygon.com/far-far-west-area-41-all-grave-locations-map/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/far-far-west-area-41-grave-locations-header.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-12T14:12:25+00:00"
-  },
-  {
-    "title": "Goldman Sachs says the S&amp;P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-141019002.html",
-    "thumbnail": "https://s.yimg.com/os/en/moneywise_ecomm_711/979652a891b7baf55cacb22a65e6aeba",
-    "pubDate": "2026-05-12T14:10:19+00:00"
   },
   {
     "title": "Spot XRP ETFs attract biggest inflows since January",
@@ -185,15 +479,8 @@
     "title": "Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M",
     "description": "Exodus Movement reported a $32.1 million net loss in Q1, with revenue down 36.8% to $22.7 million amid a drop in monthly active users.",
     "link": "https://cointelegraph.com/news/exodus-posts-32m-loss-in-q1-sells-63-of-its-bitcoin-holdings-to-fund-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/auction-new.jpg",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/auction-new.jpg",
     "pubDate": "2026-05-12T14:05:01+00:00"
-  },
-  {
-    "title": "D-Wave Falls Amid Revenue Miss. Quantum Computing Surges On Earnings.",
-    "description": "",
-    "link": "https://www.investors.com/news/technology/quantum-computing-stocks-dwave-earnings-q12026/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/01/Stock-Dwave-sign-company.jpg",
-    "pubDate": "2026-05-12T14:03:16+00:00"
   },
   {
     "title": "Nintendo Increased The Switch 2 Price to $500, And It Still Isn't Enough",
@@ -203,31 +490,17 @@
     "pubDate": "2026-05-12T14:03:00+00:00"
   },
   {
-    "title": "Amazon accelerates delivery race with 30-minute drop-offs in dozens of U.S. cities",
-    "description": "Amazon has been gradually speeding up its delivery windows, after getting customers hooked on two-day and next-day shipping.",
-    "link": "https://www.cnbc.com/2026/05/12/amazon-launches-ultrafast-30-minute-delivery-in-dozens-of-us-cities.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107432897-1719326479373-gettyimages-1408261741-032a7236_fc150017-0169-413c-a6fc-f25c28a72449.jpeg?v=1722957958&w=1920&h=1080",
-    "pubDate": "2026-05-12T14:01:10+00:00"
-  },
-  {
-    "title": "Is it time to reconsider contemporary art?",
-    "description": "Is contemporary art relevant today?",
-    "link": "https://www.aljazeera.com/video/doha-debates/2026/5/12/is-it-time-to-reconsider-contemporary-art?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/YOUTUBE-THUMBNAIL-CONTEMPORARY-ART-1778593229.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-05-12T14:00:39+00:00"
-  },
-  {
-    "title": "Directive 8020 gameplay video — see the first hour here",
-    "description": "Check out the first hour of Directive 8020 gameplay, recorded on PS5. Supermassive's first foray into space is as tense as it sounds.",
-    "link": "https://www.polygon.com/directive-8020-gameplay-video-opening/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/vlcsnap-2026-05-11-16h20m47s482.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-12T14:00:20+00:00"
+    "title": "FalconX expands tokenized credit facility to Monad network in lending push",
+    "description": "FalconX’s tokenized credit vaults can now be used as collateral in DeFi markets on Monad, expanding institutional lending products across blockchain networks.",
+    "link": "https://cointelegraph.com/news/falconx-expands-tokenized-credit-facility-to-monad-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-create-the-future.jpg",
+    "pubDate": "2026-05-12T14:00:00+00:00"
   },
   {
     "title": "North Korea ‘industrialized’ crypto theft, laundered billions: CertiK",
     "description": "North Korea-linked hackers stole about $2.06 billion of the $3.4 billion lost in crypto hacks in 2025 and are moving from phishing to physical infiltration, CertiK’s new report finds.",
     "link": "https://cointelegraph.com/news/north-korea-industrialized-crypto-theft-laundered-billions-report-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-hack-2.jpg",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-hack-2.jpg",
     "pubDate": "2026-05-12T14:00:00+00:00"
   },
   {
@@ -238,18 +511,18 @@
     "pubDate": "2026-05-12T14:00:00+00:00"
   },
   {
-    "title": "Inflation Jumps, Oil Prices Rise on U.S.-Iran Standoff",
-    "description": "President Trump has declared the cease-fire on “life support,” and investors are taking a cautious approach as the economic effects of the war become more apparent.",
-    "link": "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html",
+    "title": "How to Eat Through Our List of the Best Restaurants in New York City",
+    "description": "Don’t have the time (or money) to try all 100? Here are a dozen bite-size bucket lists to inspire you.",
+    "link": "https://www.nytimes.com/2026/05/12/dining/nyc-restaurants-user-guide.html",
     "thumbnail": "",
-    "pubDate": "2026-05-12T13:52:49+00:00"
+    "pubDate": "2026-05-12T13:57:51+00:00"
   },
   {
-    "title": "Why the hantavirus outbreak is different from COVID-19",
-    "description": "Experts say the transmission of hantavirus between humans is so rare that a pandemic is nearly 'impossible'.",
-    "link": "https://www.aljazeera.com/news/2026/5/12/why-the-hantavirus-outbreak-is-different-from-covid-19?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a02ff6dd8f4-1778581357_09eadc-1778581389.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-05-12T13:52:09+00:00"
+    "title": "Bitcoin whale 'still short' BTC despite facing $13M in losses",
+    "description": "A growing cluster of bearish indicators points to a possible Bitcoin pullback toward $71,000, potentially easing the whale’s $13 million net losses.",
+    "link": "https://cointelegraph.com/markets/bitcoin-bear-down-13m-btc-short-analysts-predict-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/whale-influence-bitcoin-price.jpg",
+    "pubDate": "2026-05-12T13:56:05+00:00"
   },
   {
     "title": "Crimson Desert Has Already Made $180 Million, And Its Developers Are Just Getting Started",
@@ -259,17 +532,10 @@
     "pubDate": "2026-05-12T13:52:00+00:00"
   },
   {
-    "title": "Henry Zeffman: Keir Starmer fights back for now",
-    "description": "The prime minister told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.",
-    "link": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a536/live/bf8922a0-4e03-11f1-b55d-0f258dce1735.jpg",
-    "pubDate": "2026-05-12T13:50:45+00:00"
-  },
-  {
     "title": "Bitcoin may avoid historic bear market losses as ETF flows grow, says analyst",
     "description": "The current Bitcoin bear market drawdown is far smaller than previous bear markets, as steady ETF inflows and corporate Bitcoin buying continue to absorb selling pressure.",
     "link": "https://cointelegraph.com/markets/bitcoin-may-avoid-historic-bear-market-losses-etf-flows-grow-says-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-notes-from-the-brink-rhyme-and-reason-in-a-bear-market-2.jpg",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-notes-from-the-brink-rhyme-and-reason-in-a-bear-market-2.jpg",
     "pubDate": "2026-05-12T13:49:44+00:00"
   },
   {
@@ -283,29 +549,8 @@
     "title": "Roaring Kitty-linked RKC memecoin crashes as developer cashes out $729K",
     "description": "A Solana memecoin linked to Roaring Kitty’s X account crashed after its developer cashed out $729,000, raising hack and sniping concerns.",
     "link": "https://cointelegraph.com/news/memecoin-dev-cashes-out-729k-gamestop-orchestrators-x-post?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/paper-dollarmemecoin.jpg",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/paper-dollarmemecoin.jpg",
     "pubDate": "2026-05-12T13:44:12+00:00"
-  },
-  {
-    "title": "Uganda’s Yoweri Museveni sworn in for seventh term as president",
-    "description": "The 81-year-old, who has been in power since 1986, won a January election amid reports of intimidation and abductions.",
-    "link": "https://www.aljazeera.com/news/2026/5/12/ugandas-yoweri-museveni-sworn-in-for-seventh-term-as-president?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0317a4-1778587556.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-12T13:42:21+00:00"
-  },
-  {
-    "title": "Spain reports new hantavirus case in passenger evacuated from cruise ship",
-    "description": "The infected man is one of more than 120 passengers and crew members evacuated from MV Hondius, the ministry says.",
-    "link": "https://www.aljazeera.com/news/2026/5/12/spain-reports-new-hantavirus-case-in-passenger-evacuated-from-cruise-ship?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26130664276800-1778494382.jpg?resize=1200%2C630",
-    "pubDate": "2026-05-12T13:39:50+00:00"
-  },
-  {
-    "title": "Israel approves law on death penalty for October 7 detainees",
-    "description": "Israel approves law on death penalty for October 7 detainees",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-approves-law-on-death-penalty-for-october-7-detainees?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/death-penalty-Horizontal-thumb-1778592800.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-05-12T13:35:23+00:00"
   },
   {
     "title": "EBay rejects GameStop’s $56 billion bid, putting bitcoin exposure back in focus",
@@ -318,15 +563,8 @@
     "title": "Four signs that Bitcoin has recovered to ‘full’ bullish momentum",
     "description": "Expanding Bitcoin price momentum, recovering liquidity and surging network activity all point to continued bullish control.",
     "link": "https://cointelegraph.com/markets/four-signs-bitcoin-recovered-full-bullish-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/analysic-analytics-coat-of-arms-red-green-bull-bear1.jpg",
+    "thumbnail": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/analysic-analytics-coat-of-arms-red-green-bull-bear1.jpg",
     "pubDate": "2026-05-12T13:32:06+00:00"
-  },
-  {
-    "title": "Lego's huge Lord of the Rings Minas Tirith set revealed",
-    "description": "Lego's massive new Lord of the Rings set is even bigger than the Star Wars Millennium Falcon, and it comes with 10 minifigures.",
-    "link": "https://www.polygon.com/lego-lotr-lord-of-the-rings-minas-tirith-set-release-date-images/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/11377_lifestyle_envr_02.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-12T13:31:50+00:00"
   },
   {
     "title": "Kraken parent, Franklin Templeton to develop onchain investment products",
@@ -336,123 +574,11 @@
     "pubDate": "2026-05-12T13:30:00+00:00"
   },
   {
-    "title": "Elliptic raises $120 million backed by Nasdaq, Deutsche Bank as AI reshapes crypto security",
-    "description": "The crypto analytics firm plans to expand its AI-powered monitoring tools as stablecoins and tokenized finance grow rapidly, CEO Simone Maini said.",
-    "link": "https://www.coindesk.com/business/2026/05/12/elliptic-raises-usd120-million-backed-by-nasdaq-deutsche-bank-as-ai-reshapes-crypto-security",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a791ca2de15f678b124689e311ac232b0a8197e8-3507x1972.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-12T13:30:00+00:00"
-  },
-  {
-    "title": "Analysis: Iran war hangs over Trump's China trip — and his presidency",
-    "description": "There is no quick fix to the economic and political damage from the war.",
-    "link": "https://www.cnbc.com/2026/05/12/trump-china-iran-war-xi-jinping-analysis.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108305242-1778529722902-gettyimages-2275664179-_l9a2747_tvsmafdd.jpeg?v=1778529762&w=1920&h=1080",
-    "pubDate": "2026-05-12T13:20:26+00:00"
-  },
-  {
-    "title": "CoinDesk 20 performance update: SUI drops 4.9%, as index trades lower",
-    "description": "Bittensor (TAO), down 4.4% from Monday, joined Sui (SUI) as an underperformer.",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/05/12/coindesk-20-performance-update-sui-drops-4-9-as-index-trades-lower",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6c8bfb3c72a6f04dd69777e1038bee67fa6ee562-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-12T13:16:24+00:00"
-  },
-  {
-    "title": "Africa’s richest man plans new Mombasa oil refinery: Why this matters",
-    "description": "Dangote's planned East Africa refinery will model his recent mega project in Nigeria's Lagos.",
-    "link": "https://www.aljazeera.com/economy/2026/5/12/africas-richest-man-plans-new-mombasa-oil-refinery-why-this-matters?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-06T135339Z_914233632_RC2LJKA360MH_RTRMADP_3_NIGERIA-OIL-DANGOTE-1778581092_a36a8d-1778581841.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-05-12T13:14:16+00:00"
-  },
-  {
-    "title": "A secret Israeli base in Iraq? What we know",
-    "description": "Israeli troops reportedly used this base to launch attacks against Iran during the war.",
-    "link": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26094542107814-1775368948.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-12T13:12:22+00:00"
-  },
-  {
-    "title": "Tribeca Festival games list includes 12 most anticipated new games",
-    "description": "The dozen 2026 nominees include Remedy Entertainment's anticipated sequel, as well as buzzy indies like There Are No Ghosts At The Grand",
-    "link": "https://www.polygon.com/tribeca-festival-games-2026/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/there-are-no-ghosts-at-the-grand-3.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-12T13:00:19+00:00"
-  },
-  {
-    "title": "Istanbul Blockchain Week returns in June 2026 amid surging crypto adoption in Türkiye",
-    "description": "Istanbul Blockchain Week, organized by Web3 marketing agency EAK Digital is set to return for its fifth edition on June 2nd-3rd, 2026, at the Hilton Bomonti Hotel.",
-    "link": "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/pr-7.jpg",
-    "pubDate": "2026-05-12T12:56:36+00:00"
-  },
-  {
-    "title": "Hot inflation data pours cold water on Federal Reserve rate cut hopes",
-    "description": "Bitcoin was trading at $80,814 following the news, down 1.2% over the past 24 hours.",
-    "link": "https://www.coindesk.com/markets/2026/05/12/hot-inflation-data-pours-cold-water-on-federal-reserve-rate-cut-hopes",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d687b13ec3ef7b92cad7c07ff5ad6c8a603ecb40-3999x2666.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-12T12:47:06+00:00"
-  },
-  {
-    "title": "eBay rejects GameStop acquisition offer",
-    "description": "Following GameStop's offer to buy eBay, the latter has firmly rejected the acquisition proposal.",
-    "link": "https://www.polygon.com/gamestop-ebay-rejects-takeover-offer/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22263450/GettyImages_1298961483.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-12T12:38:22+00:00"
-  },
-  {
-    "title": "CleanSpark stock slides 9% as quarterly earnings miss estimates on bitcoin holdings loss",
-    "description": "CleanSpark reported a net loss of $378.3 million for the quarter ending on March 31, a steep increase from the $138.8 million loss reported the same period last year.",
-    "link": "https://www.coindesk.com/business/2026/05/12/cleanspark-s-stocks-slides-9-as-firm-reports-usd378-3-million-quarterly-loss",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/45bdf5111c4a585178bf30ba1f0f2dc4a824a8ef-2560x1298.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-12T12:35:20+00:00"
-  },
-  {
-    "title": "Jess Phillips's resignation letter in full",
-    "description": "The prominent Labour MP has resigned as safeguarding minister over Sir Keir Starmer's leadership.",
-    "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c3/live/31794470-4e05-11f1-ac78-2112837ce2aa.jpg",
-    "pubDate": "2026-05-12T12:22:38+00:00"
-  },
-  {
     "title": "Bonnie Tyler 'stable' in Portuguese hospital following emergency surgery",
     "description": "The Welsh star had undergone emergency intestinal surgery in Portugal last week.",
     "link": "https://www.bbc.com/news/articles/clyp8xjwgd5o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7a/live/3e679fd0-4df9-11f1-aa1a-0d2841b91bc2.jpg",
     "pubDate": "2026-05-12T12:17:26+00:00"
-  },
-  {
-    "title": "DTCC builds out blockchain-based collateral system with Chainlink integration",
-    "description": "The platform tokenizes collateral on blockchain rails and uses smart contracts to enable 24/7 automated collateral management across financial markets.",
-    "link": "https://www.coindesk.com/business/2026/05/12/dtcc-taps-chainlink-for-its-tokenized-collateral-platform-ahead-of-q4-launch",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a65930d01e519d4b324288666fb010a01d332c9a-4030x2267.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-12T12:15:00+00:00"
-  },
-  {
-    "title": "Zelda: Tears of the Kingdom gets new Mineru's Construct amiibo in September",
-    "description": "Nintendo has revealed a posable new amiibo for TOTK that will reward Link with a special new paraglider fabric",
-    "link": "https://www.polygon.com/three-years-on-from-zelda-tears-of-the-kingdom-nintendos-make-it/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/totk-mineru-paraglider.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-12T12:14:53+00:00"
-  },
-  {
-    "title": "Hims &amp; Hers plummets 15% after first-quarter loss, weak earnings guidance",
-    "description": "Hims &amp; Hers reached a deal with Novo Nordisk in March to sell its GLP-1 weight loss drug Wegovy on its platform.",
-    "link": "https://www.cnbc.com/2026/05/12/hims-hers-plummets-16percent-after-first-quarter-loss-weak-guidance-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108262492-1770386396199-gettyimages-2206601409-PSWAT_DSC07929.jpeg?v=1776380817&w=1920&h=1080",
-    "pubDate": "2026-05-12T12:05:17+00:00"
-  },
-  {
-    "title": "AI super rally has retail investors acting the most aggressive since trading frenzy during Covid",
-    "description": "Retail traders are buying calls in Cboe's \"Mag 10\" stocks – the big seven plus AMD, Palantir and Broadcom – at the heaviest 10-day clip since 2021, according to a report from the exchange.",
-    "link": "https://www.cnbc.com/2026/05/12/ai-super-rally-has-retail-investors-acting-the-most-aggressive-since-trading-frenzy-during-covid.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108305004-1778510013450-gettyimages-2275115253-AFP_B2HF3XT.jpeg?v=1778510105&w=1920&h=1080",
-    "pubDate": "2026-05-12T11:58:54+00:00"
-  },
-  {
-    "title": "Wells Fargo lifts Ether ETF holdings in Q1 as Bitcoin positions shift",
-    "description": "Wells Fargo lifted Ether ETF exposure while rotating Bitcoin holdings and sharply increasing its Strategy stake, per its Q1 2026 13F filings.",
-    "link": "https://cointelegraph.com/news/wells-fargo-ether-etf-boost-q1-2026-btc-rotation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/man-with-holo-graphics.jpg",
-    "pubDate": "2026-05-12T11:48:37+00:00"
   },
   {
     "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
@@ -462,18 +588,11 @@
     "pubDate": "2026-05-12T11:46:25+00:00"
   },
   {
-    "title": "US in closely guarded talks to open new bases in Greenland",
-    "description": "Negotiations have progressed in recent months, according to multiple officials familiar, with the White House optimistic of reaching a deal.",
-    "link": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d5/live/8f903210-4b1e-11f1-bd52-e755d604ece4.jpg",
-    "pubDate": "2026-05-12T11:44:16+00:00"
-  },
-  {
-    "title": "Bakkt pivots into stablecoin infrastructure as revenue tumbles 77% in Q1",
-    "description": "Bakkt posted a net loss of $0.41 per share in Q1 as revenue fell 77% to $243.6 million on lower crypto trading volumes.",
-    "link": "https://cointelegraph.com/news/bakkt-pivots-into-stablecoin-infrastructure-as-revenue-tumbles-77-in-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-corrupt-governance-what-do-we-know-about-recent-scandal-new.jpg",
-    "pubDate": "2026-05-12T11:10:00+00:00"
+    "title": "Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices move l",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-12-2026-bitcoin-and-ethereum-prices-mv-113324235.html",
+    "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R4fhNy.vnr_QIatr9RUOpQ--~B/aD00MDU7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_2_2928.jpg",
+    "pubDate": "2026-05-12T11:33:24+00:00"
   },
   {
     "title": "BBC unmasks key people smuggler in network behind most small boat crossings",
@@ -483,67 +602,11 @@
     "pubDate": "2026-05-12T11:01:34+00:00"
   },
   {
-    "title": "Bhutan’s GMC offers quick licenses, bank accounts to lure crypto firms",
-    "description": "Gelephu Mindfulness City in Bhutan is offering a faster licensing track with banking and zero‑tax incentives to attract regulated crypto firms willing to build long‑term operations.",
-    "link": "https://cointelegraph.com/news/bhutans-gelephu-offers-quick-licences-bank-accounts-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-gate-io-03.jpg",
-    "pubDate": "2026-05-12T11:00:00+00:00"
-  },
-  {
-    "title": "Rewardy Wallet launches global multi-chain swap campaign with incentives",
-    "description": "Self-custody wallet by Chainwith opens two-week user activation across Ethereum, BNB Chain, Solana, and Aptos, with prizes starting at $100.",
-    "link": "https://cointelegraph.com/press-releases/rewardy-wallet-launches-global-multi-chain-swap-campaign-with-incentives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/100000.jpg",
-    "pubDate": "2026-05-12T10:23:25+00:00"
-  },
-  {
-    "title": "How Iran’s Internet Blackout Is Crippling Its Economy, and the Fight Over Fruit-Flavored Vapes",
-    "description": "Plus, how everything became a subscription.",
-    "link": "https://www.nytimes.com/2026/05/12/podcasts/the-headlines/iran-internet-blackout-ieconomy-fruit-flavored-vapes.html",
+    "title": "The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags",
+    "description": "The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.",
+    "link": "https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html",
     "thumbnail": "",
-    "pubDate": "2026-05-12T10:00:10+00:00"
-  },
-  {
-    "title": "No sign of larger hantavirus outbreak, says UN health agency",
-    "description": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
-    "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg",
-    "pubDate": "2026-05-12T09:35:32+00:00"
-  },
-  {
-    "title": "Green Party admits Polanski may have failed to pay council tax",
-    "description": "The Green Party admits that its leader has, until recently, been living on a houseboat in London and may have failed to pay council tax.",
-    "link": "https://www.bbc.com/news/articles/cy02wdzrg6jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/751f/live/f2591b80-4dc8-11f1-b55d-0f258dce1735.jpg",
-    "pubDate": "2026-05-12T09:18:19+00:00"
-  },
-  {
-    "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No.",
-    "description": "The latest artificial intelligence models from Anthropic and OpenAI are extending the United States’ lead over China and intensifying the rivalry between the countries.",
-    "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-12T09:03:42+00:00"
-  },
-  {
-    "title": "Steel Tariffs Are Raising the Price of Canned Foods",
-    "description": "The cost to put food in cans remains high because manufacturers must still import steel from overseas. U.S. Steel plans to reopen a tin-plate factory.",
-    "link": "https://www.nytimes.com/2026/05/12/business/steel-tariffs-tin-cans-food-prices.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-12T09:01:29+00:00"
-  },
-  {
-    "title": "Crypto legislation faces another hurdle: Labor unions",
-    "description": "Major labor groups ask senators in a letter obtained first by CNBC to oppose a crypto bill over concerns retirement accounts could be harmed.",
-    "link": "https://www.cnbc.com/2026/05/12/congress-crypto-legislation-labor-unions.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108082712-1736198281560-gettyimages-2192180432-porzycki-ripplean250106_npGi4.jpeg?v=1778260580&w=1920&h=1080",
-    "pubDate": "2026-05-12T09:00:01+00:00"
-  },
-  {
-    "title": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
-    "description": "There are calls to investigate the 16 March airstrike - which the UN says likely killed more - as a war crime.",
-    "link": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c2/live/d7a0af30-4d3a-11f1-ac78-2112837ce2aa.jpg",
-    "pubDate": "2026-05-12T07:31:14+00:00"
+    "pubDate": "2026-05-12T10:48:52+00:00"
   },
   {
     "title": "Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit",
@@ -553,80 +616,17 @@
     "pubDate": "2026-05-12T06:21:56+00:00"
   },
   {
-    "title": "China Seeks A.I. Independence, Weakening Trump’s Leverage",
-    "description": "Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.",
-    "link": "https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-12T05:36:10+00:00"
-  },
-  {
-    "title": "Kari Lake, Who Led Effort to Shutter Voice of America, Is Named Ambassador to Jamaica",
-    "description": "Ms. Lake tried and failed to fire hundreds of Voice of America journalists and to cut funding for other federally funded news groups like Radio Free Europe/Radio Liberty.",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/kari-lake-jamaica-ambassador.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-12T04:05:57+00:00"
-  },
-  {
-    "title": "China Increasingly Views Trump’s America as an Empire in Decline",
-    "description": "For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.",
-    "link": "https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-12T04:00:07+00:00"
-  },
-  {
-    "title": "Stock market today: Nasdaq, S&amp;P 500, Dow fall as Wall Street weighs CPI inflation print",
+    "title": "Stock market today: Nasdaq, S&amp;P 500, Dow fall as CPI inflation rises, chip stocks drop",
     "description": "",
-    "link": "https://finance.yahoo.com/economy/live/stock-market-today-nasdaq-sp-500-dow-fall-as-wall-street-weighs-cpi-inflation-print-224350708.html",
+    "link": "https://finance.yahoo.com/economy/live/stock-market-today-nasdaq-sp-500-dow-fall-as-cpi-inflation-rises-chip-stocks-drop-224350498.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/.RHF6yXD.lB_shvFHFzNiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/ad3830aa-0141-42af-a16e-9b8d105ad6d9",
     "pubDate": "2026-05-11T22:43:50+00:00"
   },
   {
-    "title": "Devil May Cry Netflix Creator Has Good Advice For Bloodborne Movie Team",
-    "description": "Adi Shankar has had success in adapting video games into animation, having worked on multiple seasons of Castlevania alongside Konami and Netflix, as well as with Ubisoft for Captain Laserhawk: A Blood Dragon Remix. More recently, he has been collaborating with Capcom on Devil May Cry, the first season of which launched on Netflix in 2025 to a largely favorable reception. Now, with its second season, Shankar and team are delving deeper into the story of Dante and Vergil, as the two characters come to grips with their origins, the divergent paths their lives took following a family tragedy, and how their two perspectives shape them and the fate of a world that hangs in the balance. It also embraces Devil May Cry 2, the video game series' most divisive entry. Of course, with as much experience as Shankar has in taking video game source material and adapting it for animation, we would be remiss not to get his perspective on the latest high-profile announcement of a similar project: Sony's adaptation of From Software's Bloodborne. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/devil-may-cry-netflix-creator-has-good-advice-for-bloodborne-movie-team/1100-6539889/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-11T22:27:00+00:00"
-  },
-  {
-    "title": "Mixtape Interview: \"Where Do You Set Your Fantasy Stories? You Set Them In Places Like California.\"",
-    "description": "Mixtape boldly asks its players to make memories to good music, mixing its coming-of-age story with a head-banging soundtrack filled with the likes of Devo, The Smashing Pumpkins, and The Jesus and Mary Chain. It’s the sophomore release from Beethoven &amp; Dinosaur, an Australian developer known for The Artful Escape, a psychedelic exploration of a musician wanting to create his stage persona. Mixtape is a little more down to earth, following music lovers Stacey, Cass, and Slater on Stacey’s final night in their small town before she follows her dreams and moves to New York. Our reviewer Mark Delaney gave it a 9/10, praising how the game pairs “its heartfelt, often hilarious moments with a sweeping soundtrack to create a coming-of-age story I'll never forget.” GameSpot caught up with Mixtape’s director Johnny Galvatron earlier this year to discuss Beethoven &amp; Dinosaur’s approach to making the game. GameSpot: Do you always think in songs? Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/mixtape-interview-where-do-you-set-your-fantasy-stories-you-set-them-in-places-like-california/1100-6539888/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-11T21:22:00+00:00"
-  },
-  {
-    "title": "How Co-Op Multiplayer Works In Subnautica 2",
-    "description": "After years of wandering the depths of Planet 4546B alone, players can finally team up with their friends in Subnautica 2. The developers at Unknown Worlds Entertainment designed the new entry in the famed survival franchise with co-op at the forefront following an outcry of player feedback from the previous two games. However, knowing that Subnautica 2 has co-op is only half the battle, as you also have to know how it works and its limitations. Below, we'll give you a full rundown of the co-op multiplayer feature in Subnautica 2 so you can hop in with friends right away. How to play with friends in multiplayer in Subnautica 2 Subnautica 2 has a maximum co-op limit of four players, meaning you and up to three other friends can play in the same party at one time. Fortunately, Subnautica 2 also has full cross-play support, meaning you can play with any friend on PC or Xbox. The game also supports cross-progression if you happen to own two systems and purchase two copies. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/how-co-op-multiplayer-works-in-subnautica-2/1100-6539887/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-11T20:18:00+00:00"
-  },
-  {
-    "title": "RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence",
-    "description": "Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.",
-    "link": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-11T20:02:05+00:00"
-  },
-  {
-    "title": "Mortal Kombat Movie Writer Reveals The One Franchise He Wants To Work On Above All Others",
-    "description": "Hollywood writer Jeremy Slater is back in the news with Mortal Kombat 2, which is in theaters now. He wrote the 2021 movie as well and is nearly done with a second draft for Mortal Kombat 3. But what else is he keen to do in the future? There is one franchise above all others that he wants to get to work on some day: Star Wars. He told The Hollywood Reporter that he has already taken meetings with Lucasfilm, and he admitted he \"nerded out to an embarrassing degree.\" He hasn't landed anything yet, though, and he said he wouldn't want to sign on to a Star Wars project unless he felt like he could do it justice. \"Star Wars has always been my white whale. It's always been the one thing that I've been chasing above all else, but I also don't want to take a job unless I can deliver,\" he said. \"I can't think of anything more depressing and terrifying than getting your shot at Star Wars and then dropping the ball.\" Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/mortal-kombat-movie-writer-reveals-the-one-franchise-he-wants-to-work-on-above-all-others/1100-6539886/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-11T19:16:00+00:00"
-  },
-  {
-    "title": "Mortal Kombat 3 Not Confirmed Yet, But Writer Is Nearly Done With Its Script",
-    "description": "Mortal Kombat 2 is in theaters now and it's making millions at the box office, but will there be a third entry in the new series based on the popular video game franchise? A report said Mortal Kombat writer Jeremy Slater was coming back for a third movie, but it has not been confirmed. For his part, director Simon McQuoid said in an interview prior to Mortal Kombat 2's release on May 8 that he doesn't want to be \"overly confident\" about a possible third movie. Slater, meanwhile, said he's nearly finished with a new draft for a third movie's script, should New Line decide to greenlight it. \"I never want to be cocky about how anything's going to land or play. You think about it, and you theorize it,\" he told Entertainment Weekly. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/mortal-kombat-3-not-confirmed-yet-but-director-sees-lots-of-potential-for-more-stories/1100-6539882/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-11T19:11:00+00:00"
-  },
-  {
-    "title": "Earnings live updates: On Holding beats Wall Street's estimates, Hims &amp; Hers stock plunges after surprise loss",
+    "title": "Tech stocks today: Semiconductor stocks sell off, Sam Altman to take stand in OpenAI v. Musk trial",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-on-holding-beats-wall-streets-estimates-hims--hers-stock-plunges-after-surprise-loss-103000080.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/g2LTSVZh5e0akQOJFLqqfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/2c893e70-be6d-11f0-bfcd-9371bf8c0b2f",
-    "pubDate": "2026-05-11T10:30:00+00:00"
+    "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-stocks-sell-off-sam-altman-to-take-stand-in-openai-v-musk-trial-100000148.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/fLkbsoL2uUQklW9G3oIogg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTc-/https://s.yimg.com/os/creatr-uploaded-images/2026-05/40f159a0-47f3-11f1-bc57-1f8825bb2177",
+    "pubDate": "2026-05-11T10:00:00+00:00"
   }
 ]
