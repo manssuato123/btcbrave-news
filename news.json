@@ -1,10 +1,458 @@
 [
   {
-    "title": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers",
-    "description": "Walmart's CFO, John David Rainey, said higher tax returns helped offset the effect of elevated gas prices in the first quarter.",
-    "link": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108306615-1778706947129-gettyimages-2276082037-l1057686_copy_kweoasdj.jpeg?v=1778707131&w=1920&h=1080",
-    "pubDate": "2026-05-21T14:26:48+00:00"
+    "title": "Stellantis unveils $70 billion turnaround plan, targets positive cash flow by 2027",
+    "description": "Stellantis CEO Antonio Filosa unveiled a new five-year strategic plan Thursday worth 60 billion euros ($69.7 billion).",
+    "link": "https://www.cnbc.com/2026/05/21/stellantis-investor-day.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310591-1779375525208-Filosa3.jpg?v=1779375611&w=1920&h=1080",
+    "pubDate": "2026-05-21T17:18:22+00:00"
+  },
+  {
+    "title": "DNC releases 2024 election autopsy, party chair slams it",
+    "description": "A disclaimer sits at the top of each page saying: \"This document reflects the views of the author, not the DNC.\"",
+    "link": "https://www.cnbc.com/2026/05/21/democrats-dnc-2024-election-autopsy-ken-martin.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310568-1779374658059-gettyimages-2274281014-DSC_8519.jpeg?v=1779374685&w=1920&h=1080",
+    "pubDate": "2026-05-21T17:15:58+00:00"
+  },
+  {
+    "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
+    "description": "The nonbinding ruling is expected to be hailed as a victory by workers' groups and influence global labour relations.",
+    "link": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2010/08/201082745955966734_20.jpeg?resize=1200%2C675",
+    "pubDate": "2026-05-21T17:05:50+00:00"
+  },
+  {
+    "title": "Apple Arcade launches free Bluey crossover event for several games",
+    "description": "Five Apple Arcade games are getting limited-time Bluey crossover content.",
+    "link": "https://www.polygon.com/apple-arcade-bluey-crossover/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/stitch-bluey-crossover.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T17:04:24+00:00"
+  },
+  {
+    "title": "Foden and 'shocked' Maguire to miss out on World Cup squad",
+    "description": "Phil Foden and Harry Maguire are among the players set to be left out of Thomas Tuchel's England World Cup squad.",
+    "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+    "pubDate": "2026-05-21T17:01:16+00:00"
+  },
+  {
+    "title": "Trump postpones AI executive order signing: 'I didn't like certain aspects'",
+    "description": "Trump said that AI is \"causing tremendous good,\" and he was concerned that the executive order \"could have been a blocker.\"",
+    "link": "https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310677-1779380461764-gettyimages-2276899230-AFP_B3MM3WK.jpeg?v=1779380509&w=1920&h=1080",
+    "pubDate": "2026-05-21T17:01:07+00:00"
+  },
+  {
+    "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
+    "description": "Chancellor Rachel Reeves made a series of announcements aimed at relieving cost-of-living pressures.",
+    "link": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a6/live/f44cd860-551f-11f1-8b8c-6d33e1d5abb6.jpg",
+    "pubDate": "2026-05-21T17:00:48+00:00"
+  },
+  {
+    "title": "Warhammer Age of Sigmar returns with new Skaven stealth game",
+    "description": "Warhammer Age of Sigmar: Deathmaster lets players take control of a Skaven assassin climbing the ranks of clan Eshin in a stealth-action platformer.",
+    "link": "https://www.polygon.com/warhammer-age-of-sigmar-deathmaster-skaven-assassin-stealth/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/warhammer-age-of-sigmar-deathmaster-logo-new-assets.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T17:00:20+00:00"
+  },
+  {
+    "title": "Warhammer 40,000: Boltgun 2 preview",
+    "description": "Warhammer 40,000: Boltgun 2 from Auroch Digital and Devolver Digital builds upon what worked about the first game while introducing new things",
+    "link": "https://www.polygon.com/warhammer-40000-boltgun-2-summer-preview/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/boltgun-2.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T17:00:20+00:00"
+  },
+  {
+    "title": "Every announcement from the Warhammer Skulls 2026 showcase",
+    "description": "Dawn of War 4 finally has a release date, along with the first-ever Age of Sigmar game where you can play as a Skaven assassin, and more.",
+    "link": "https://www.polygon.com/warhammer-skulls-2026-announcements-dawn-of-war-deathmaster/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/total-war-warhammer-40k.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T17:00:20+00:00"
+  },
+  {
+    "title": "Warhammer Age Of Sigmar: Deathmaster Brings Sneaky Assassinations To PC And Consoles Next Year",
+    "description": "Stealth-action is probably not the first thing you think of when you hear \"Warhammer,\" but sometimes the most satisfying experiences are the most surprising. Announced during Warhammer Skulls 2026, Warhammer Age of Sigmar: Deathmaster is a 2D action-platformer starring a very talented--and disturbed--hooded assassin. Starring the \"ratman\" Vihneek, Warhammer Age of Sigmar: Deathmaster will see you making use of stealth abilities and traps to move around your enemies or deliver death from the shadows. The cartoony art style might suggest something a bit lighter at first glance, but this is a very violent, very Warhammer experience. And as you can see in the teaser trailer, Vihneek might be losing it, just a little bit. \"Vihneek's story is anchored in the rich lore of the Age of Sigmar, where the Skaven have erupted to seize the Mortal Realms for themselves,\" the official announcement said. In general, killing everything in your path is a reliable strategy for Warhammer video games, and Vihneek seems up to the task. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/warhammer-age-of-sigmar-deathmaster-brings-sneaky-assassinations-to-pc-and-consoles-next-year/1100-6540075/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T17:00:00+00:00"
+  },
+  {
+    "title": "Warhammer 40,000: Boltgun Boom Comes To Mobile This Year, Boltgun 2 Demo Out Now On PC",
+    "description": "Warhammer 40,000: Boltgun is a fantastic, action-packed take on the sci-fi series, delivering a throwback boomer-shooter experience that feels like it was ripped out of the '90s. If you're looking to spend even more of your time destroying enemies of the Emperor, you'll be happy to know that a mobile spin-off--Warhammer 40,000: Boltgun Boom--will be hitting mobile devices this year. Announced during Warhammer Skulls 2026, Boltgun Boom is being developed by Nitro Games, and it's described as a \"premium retro FPS featuring different chapters of the Boltgun series.\" The teaser video makes it look pretty much indistinguishable from its console and PC siblings, which shouldn't come as a huge surprise given the '90s-era aesthetic. You can pre-register on both iOS and Android as we approach the game's release later in 2026. But that's not all Boltgun fans can get excited about. The demo for Warhammer 40,000: Boltgun 2 is available right now on Steam, with the full game also coming to PS5 and Xbox Series X|S. You can try out two levels in the demo, which features multiple playable characters this time: Malum Caedo, who plays similarly to the first game, and the more agile Nyra Veyrath. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/warhammer-40000-boltgun-boom-comes-to-mobile-this-year-boltgun-2-demo-out-now-on-pc/1100-6540072/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T17:00:00+00:00"
+  },
+  {
+    "title": "Modern Warfare 4 Reveal Looks Imminent As Infinity Ward Teases A “Relentless” Experience",
+    "description": "Last year's Call of Duty: Black Ops 7 didn't exactly set the world on fire, with reviews being lukewarm at best. A lackluster campaign and multiplayer mode made last year's entry in the annual franchise feel skippable, but what about this year's game? Longtime Call of Duty developer Infinity Ward has begun to hype up what we presume to be Call of Duty: Modern Warfare 4, with the studio promising an experience that is \"bold\" and relentless\" for returning players. \"We build visceral, immersive combat experiences that hit different,\" Infinity Ward wrote on its social media feeds. \"As a new chapter begins for this studio, we're focused on what defines us: passion, precision, obsession, and an unrelenting drive to make the best entertainment in history. Our next game is the result of that mindset. Determined. Bold. Relentless. Built by a team pushing every detail, every system, every moment to its limit. On behalf of everyone at Infinity Ward, we're proud of what we've been building and excited to finally start sharing it with you.\" The reveal for Call of Duty: Modern Warfare 4 is likely imminent, and Infinity Ward is known for producing some of the better entries in the franchise, including the original Modern Warfare trilogy and its 2019 reboot. Infinity Ward's Call of Duty games lean toward a sense of heightened realism with their gameplay and themes--with Call of Duty: Ghosts and Infinite Warfare being the exceptions--and the studio also co-developed the popular Call of Duty battle royale, Warzone, with Raven Software and several smaller Activision studios. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/modern-warfare-4-reveal-looks-imminent-as-infinity-ward-teases-a-relentless-experience/1100-6540082/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T16:59:00+00:00"
+  },
+  {
+    "title": "Grab Xbox Controllers for $39 During Lenovo's Memorial Sale",
+    "description": "Xbox Wireless Controller $39 With Code RAGEQUIT (was $65) | Available now See at Lenovo We've already seen some fantastic Memorial Day sales in advance of the holiday this week, including deals at Best Buy, Fanatical, Asus, Secretlab, and more. Now Lenovo is joining in on the fun with a notable sale of its own that includes laptops, PCs, tablets, accessories, and more, but the standout deal for gamers is the official Xbox controller, which is currently on sale with a discount code for $39. That's the lowest price we've seen in a long time, so if you want to grab a few, the time is now. Xbox Wireless Controller $39 With Code RAGEQUIT (was $65) | Available now The Xbox Wireless Controller is a classic for a reason. It's comfy in the hands, not too light or too heavy, and can be used for PC as well as all your Xbox, iOS, and Android devices. It's got that cozy textured grip, an enhanced D-pad that won't hurt your fingertips, the button mapping functionality you can set up in the Xbox app, and you can even use it wired if you want to. It's probably the best wireless controller you can score for under $40 right now. Five colors are included in the sale, but Robot White and Deep Pink have already sold out. You can still choose from Shock Blue, Pulse Red, and Velocity Green, so no matter what your shade of choice is, one of these likely fits the bill. You'll see this listed on Lenovo's site at $45, so add the ones you want to your cart and enter the code RAGEQUIT at checkout. That will take $25.99 off each, so you'll get one for $39 or two for $78. Shipping is free, making the deal even sweeter. See at Lenovo While this is a very good deal, Lenovo isn't the only retailer with Memorial Day discounts on controllers. We've listed some of the best deals we've seen on them this week below--and keep in mind that additional sales may launch once the weekend starts, too, so keep an eye out. Best Memorial Day Controller Deals 8BitDo All-Button Arcade Wireless Controller (PC, Switch) -- $60 ($91) 8BitDo Wireless Lite 2 (Switch, Android, Raspberry Pi) -- $21 ($35) 8BitDo Wireless Pro 3 With Dock (PC, Switch, Switch 2, iOS/Android) -- $66 ($70) 8BitDo Wireless Ultimate2C (PC, Android) -- $26 ($30) AceGamer Wireless Pocket Controller (PC, Switch, Switch 2, Android) -- $22 ($25) CRKD Wireless Neo S Raven Fortnite Edition (PC, Switch, iOS/Android) -- $30 ($60) Nacon Wireless Revolution 5 Pro (PC, PlayStation) -- $120 ($200) PDP Wireless Afterglow Wave (Switch, Switch 2) -- $40 ($60) PowerA Wireless Advantage Mario &amp; Friends -- $35 ($70) PowerA Wireless Enhanced Pikachu Garden (Switch) -- $40 ($50) PowerA Wireless Pac-Man (PC, Xbox) -- $50 ($100) PowerA Wired Controller (PC, Xbox) -- $10 ($50) Turtle Beach Wireless Rematch Invincible Mario -- $40 ($60) Xbox Wireless Elite Series 2 Refurbished (PC, Xbox) -- $115 ($180) Xbox Wireless Gaming Controller (PC, Xbox, Android) -- $45 ($65) Sign up for GameSpot's Weekly Deals Newsletter: Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/lenovo-memorial-day-sale-xbox-controller-deal/1100-6540056/?ftag=CAD-01-10abi2f",
+    "thumbnail": "https://www.gamespot.com/a/uploads/square_avatar/1873/18732937/4698714-square-image%282%29%281%29.jpg",
+    "pubDate": "2026-05-21T16:54:00+00:00"
+  },
+  {
+    "title": "Elon Musk hated The Boys finale and the cast loves that for him",
+    "description": "Elon Musk proves he never understood Homelander, gets dunked on by The Boys showrunner",
+    "link": "https://www.polygon.com/elon-musk-the-boys-finale-homelander-pathetic/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/04/gettyimages-2207708415.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T16:51:55+00:00"
+  },
+  {
+    "title": "Did Amazon Just Deliver a Sweeping Blow to IonQ?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/did-amazon-just-deliver-sweeping-164900975.html",
+    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/c6c3c33b6b73c1cff4f1ebe0d5e2d989",
+    "pubDate": "2026-05-21T16:49:00+00:00"
+  },
+  {
+    "title": "Luxury Retailers' Earnings Top Views As Affluent Consumers Keep Splurging",
+    "description": "",
+    "link": "https://www.investors.com/news/ralph-lauren-rl-stock-williams-sonoma-wsm-stock-luxury-retailers-earnings/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/07/stock_Ralph-Lauren-02-shutter.jpg",
+    "pubDate": "2026-05-21T16:48:35+00:00"
+  },
+  {
+    "title": "French Open rejects prize money change despite tennis stars’ boycott threat",
+    "description": "Top-ranked Aryna Sabalenka and No 4 Coco Gauff have led player complaints about reduced pay at French Open.",
+    "link": "https://www.aljazeera.com/sports/2026/5/21/french-open-to-reject-prize-money-increase-despite-tennis-stars-complaints?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-06-08T140405Z_1830712077_RC2DYEA3JXF7_RTRMADP_3_TENNIS-FRENCHOPEN-1779379941.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-21T16:47:02+00:00"
+  },
+  {
+    "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",
+    "description": "Trump delayed Biden-era EPA refrigerant rules, saying the move will lower grocery costs, though the impact on food prices remains unclear.",
+    "link": "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310654-17793789562026-05-21t155451z_55673329_rc2rdlaec79m_rtrmadp_0_usa-trump.jpeg?v=1779378979&w=1920&h=1080",
+    "pubDate": "2026-05-21T16:41:45+00:00"
+  },
+  {
+    "title": "‘Lingering shock from tragedy’ weeks after Minab school bombing",
+    "description": "Residents are calling for justice weeks after US missiles killed at least 156 people at a school in Minab, Iran.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/lingering-shock-from-tragedy-weeks-after-minab-school-bombing?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779381498.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-21T16:38:32+00:00"
+  },
+  {
+    "title": "Lego Donkey Kong coming soon, Nintendo reveals",
+    "description": "Lego and Nintendo are teaming up for a new Donkey Kong set coming in 2026, based on the classic arcade game.",
+    "link": "https://www.polygon.com/lego-donkey-kong-nintendo-announcement/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24242031/Screen_Shot_2022_11_29_at_5.05.25_PM.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T16:35:40+00:00"
+  },
+  {
+    "title": "Venom and Thor fans will love this Marvel writer's wild cosmic sword saga",
+    "description": "Donny Cates and Geoff Shaw's God Country features a talking sword — that's also a god. It's a very metal and exciting miniseries from Image Comics.",
+    "link": "https://www.polygon.com/best-comics-god-country-donny-cates/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/god-country-1-cropped.jpg?w=1200&h=675&fit=crop",
+    "pubDate": "2026-05-21T16:32:18+00:00"
+  },
+  {
+    "title": "Trump says he’ll speak to Taiwan’s leader: Why that is significant",
+    "description": "Analysts say the remarks are less a sign of closer US-Taiwan ties than another example of Trump’s unpredictability.",
+    "link": "https://www.aljazeera.com/news/2026/5/21/trump-says-hell-speak-to-taiwans-leader-why-that-is-significant?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-15T062345Z_1142267074_RC2H9LAKUH5I_RTRMADP_3_CHINA-USA-1778834708.jpg?resize=1920%2C1194",
+    "pubDate": "2026-05-21T16:31:40+00:00"
+  },
+  {
+    "title": "Why are India’s mosques turning into temple disputes?",
+    "description": "India’s courts are reopening mosque disputes despite laws meant to protect religious sites. What changed?",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/21/aje-onl-tt_ind_kamalmaula_av_v2-210526?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779380827.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-21T16:30:21+00:00"
+  },
+  {
+    "title": "Is the West de-risking from China or containing its economy?",
+    "description": "As the US and Europe push to reduce reliance on China, Beijing tightens control over supply chains.",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/21/is-the-west-de-risking-from-china-or-containing-its-economy?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779380660.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-21T16:30:00+00:00"
+  },
+  {
+    "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
+    "description": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
+    "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fd/live/e5e53ce0-539e-11f1-a184-d13a0f944f44.jpg",
+    "pubDate": "2026-05-21T16:28:42+00:00"
+  },
+  {
+    "title": "SpaceX Finally Filed and the S-1? Well, She’s a Lot",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-finally-filed-1-well-162727025.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/83c59e166756479ce8ea62275acb7d2e",
+    "pubDate": "2026-05-21T16:27:27+00:00"
+  },
+  {
+    "title": "Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country",
+    "description": "Iran's position on its enriched uranium will likely complicate peace talks with the U.S.",
+    "link": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302899-1778071753701-gettyimages-2274228419-AFP_A9Z34WG.jpeg?v=1778071820&w=1920&h=1080",
+    "pubDate": "2026-05-21T16:25:53+00:00"
+  },
+  {
+    "title": "New Resident Evil Movie Poster Hints At Umbrella's Involvement",
+    "description": "The upcoming Resident Evil movie won't tell the story of any of the video games--a choice that writer and director Zach Cregger knows may upset fans. But the newest promo for the horror flick does strongly hint at Umbrella Corp.'s involvement. That's fitting with the movie's protagonist Bryan eventually finding his way into Raccoon City, as Umbrella is responsible for the zombie outbreak there. On X, the official Resident Evil account posted two new posters for the film. The first image features a car on a forested road encountering what looks like an infected woman. Taking place at night, the headlights and red taillights create a subtle but effective Umbrella logo. From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil pic.twitter.com/8NnRKlHWYe — Resident Evil (@ResidentEvil) May 21, 2026 Meanwhile, the second poster seemingly focuses on a behind-the-back perspective of Bryan (Austin Abrams) walking into a snowy Raccoon City. This image connects back to Resident Evil's debut trailer, which saw infected falling from buildings and splattering on the ground as Bryan ran for his life. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/new-resident-evil-movie-poster-hints-at-umbrellas-involvement/1100-6540081/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T16:22:00+00:00"
+  },
+  {
+    "title": "Bitcoin accumulation trends weaken as realized losses jump to $600M",
+    "description": "Bitcoin whales and investors shift to distribution as realized losses surge past $600 million, as BTC price declines toward $76,000.",
+    "link": "https://cointelegraph.com/markets/bitcoin-accumulation-trends-weaken-as-realized-losses-jump-to-600m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-report-on-bitcoin-market.jpg",
+    "pubDate": "2026-05-21T16:21:13+00:00"
+  },
+  {
+    "title": "Spotify soars 15% after announcing AI music deal with UMG, guidance",
+    "description": "Spotify, which is holding its first investor day in four years, is now under the direction of co-CEOs Gustav Söderström and Alex Norström.",
+    "link": "https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108296581-1776982301862-gettyimages-2261659806-pekiaridis-notitle260217_npdos.jpeg?v=1776982346&w=1920&h=1080",
+    "pubDate": "2026-05-21T16:21:11+00:00"
+  },
+  {
+    "title": "Is Trane Technologies (TT) The Best Under-The-Radar AI Stock?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/trane-technologies-tt-best-under-162103733.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/db0d3d208a3f86c1dc182cbcaef7dd7f",
+    "pubDate": "2026-05-21T16:21:03+00:00"
+  },
+  {
+    "title": "Is Eaton (ETN) The Best Pick-and-Shovel AI Stock?",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/eaton-etn-best-pick-shovel-162023879.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/8f5f7d6cdc24052dda063e3327690280",
+    "pubDate": "2026-05-21T16:20:23+00:00"
+  },
+  {
+    "title": "Some Fed officials and staff are fretting about state of financial markets",
+    "description": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/fed-officials-staff-fretting-state-161942069.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters.com/4fb1da26752c4ab393cf91d36f19d652",
+    "pubDate": "2026-05-21T16:19:42+00:00"
+  },
+  {
+    "title": "Alphabet (GOOGL): Moving Beyond Search in the AI Revolution",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/alphabet-googl-moving-beyond-search-161938467.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/722fa6e1a067b1274b73f466479e4aad",
+    "pubDate": "2026-05-21T16:19:38+00:00"
+  },
+  {
+    "title": "Does Amazon.com (AMZN) Have More Upside?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/does-amazon-com-amzn-more-161841835.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/200db36b3627d8c0741a12874b6a7da4",
+    "pubDate": "2026-05-21T16:18:41+00:00"
+  },
+  {
+    "title": "Teenage boys sentenced for raping lone girls and filming attacks",
+    "description": "The boys filmed themselves laughing and encouraging each other as they raped girls in separate attacks.",
+    "link": "https://www.bbc.com/news/articles/clypg68e2neo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506a/live/61a93150-550d-11f1-89a3-d1f559421220.png",
+    "pubDate": "2026-05-21T16:10:11+00:00"
+  },
+  {
+    "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
+    "description": "On Thursday, the UK confirmed it had summoned Israel's top diplomat in Britain to express its \"condemnation\" of the incident.",
+    "link": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71dc/live/48351120-5509-11f1-9922-c1ca78961024.jpg",
+    "pubDate": "2026-05-21T16:08:34+00:00"
+  },
+  {
+    "title": "Putin and Lukashenko monitor joint Russia-Belarus nuclear exercises",
+    "description": "Moscow and Minsk hold strategic nuclear drills with the two countries' leaders participating via video conference.",
+    "link": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a0f1f4fd034d-1779375951.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-21T16:07:02+00:00"
+  },
+  {
+    "title": "AG Blanche meets with GOP senators on Trump's DOJ  fund; Tillis calls it 'stupid'",
+    "description": "Critics of the \"Anti-Weaponization Fund\" fear it will give money to Trump supporters who attacked police defending the U.S. Capitol on Jan. 6, 2021.",
+    "link": "https://www.cnbc.com/2026/05/21/trump-doj-lawfare-fund-congress-blanche.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310598-1779375909092-gettyimages-2276586088-AA_19052026_2787195.jpeg?v=1779375937&w=1920&h=1080",
+    "pubDate": "2026-05-21T16:04:26+00:00"
+  },
+  {
+    "title": "Here's This Week's Free Game From The Epic Games Store On Mobile",
+    "description": "For the last couple of years, the Epic Games Store has given away free games every week through its PC storefront. With the company having launched its own mobile store, it has also started a second free games program on iOS and Android devices, kicking things off with a curated library of titles and weekly freebies. The app also features mobile versions of Fortnite, Fall Guys, and Rocket League Sideswipe. To access these games you will need to create a free Epic account and install the free Epic Games Store mobile app and log in with your account, but once you do, you can start claiming your free games every Thursday through it. One other thing to note is that Android users can access the app via Android-based emulation devices like Retroid Pocket, as they aren't limited to just smartphone and tablets. Download the Epic Games Store Mobile app For now, only iOS users in the European Union can install the app, but the app is available worldwide to Android device users and they have a wider selection of games to choose from in comparison. Like its PC counterpart, you'll have one week to grab each game that's offered. Here's a closer look at what you can grab this week, and what the current mobile games library has to offer. You can also explore what the free PC games are this week on the Epic Games Store. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/free-games-epic-games-store-mobile/1100-6530257/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T16:04:00+00:00"
+  },
+  {
+    "title": "The best Dungeons and Dragons movie ever made is about to be free on streaming",
+    "description": "On June 1, Dungeons &amp; Dragins: Honor Among Thieves and Teenage Mutant Ninja Turtles: Mutant Mayhem will be available for free on Pluto TV",
+    "link": "https://www.polygon.com/dungeons-and-dragons-honor-among-thieves-tmnt-mutant-mayhem-on-pluto-tv/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdduan_pa050.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T16:00:19+00:00"
+  },
+  {
+    "title": "Assassin's Creed Black Flag Resynced preview: 3 hours shows one of the best remakes ever",
+    "description": "Assassin's Creed Black Flag Resynced looked impressive in a new hands-on gameplay preview. Read Polygon's AC Black Flag Remake preview.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-preview-hands-on/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/black-flag-resynced-edward.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T16:00:19+00:00"
+  },
+  {
+    "title": "Summer Game Fest art showcase highlights Pragmata, Borderlands 4, Absolum and more",
+    "description": "Game Maker’s Sketchbook is an annual celebration of video game art that offers a fascinating glimpse into the creative process",
+    "link": "https://www.polygon.com/game-makers-sketchbook-selections-summer-game-fest-art-show/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/absolum.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-05-21T16:00:19+00:00"
+  },
+  {
+    "title": "Assassin's Creed Black Flag Resynced Might Be Adding As Many Problems As It's Fixing",
+    "description": "There are always the usual questions when a remake for an already-beloved game gets announced. What about it is actually new beyond the visual upgrade? Why is this specific title getting the remake treatment and not another game in the same series? And, most importantly, why remake this older game in a different engine, with new recorded voice lines, different gameplay, and reimagined characters and storylines, when all of the time and resources to do all of that could be used on a brand-new game? That last one in particular kept ringing in my head during a preview event for Assassin's Creed Black Flag Resynced, where I played about three hours of the upcoming pirate adventure. Pessimistically, I think the answer is that Ubisoft needs an easy win, and theoretically, there shouldn't be an easier slam dunk for the developer-publisher than Black Flag. It may not be the number-one Assassin's Creed game on every player's list, but it's near-universally beloved by the community in a way that no other game in the series is. If I had to remake an Assassin's Creed game, Black Flag would definitely be the one that I'd pick. It's the one game in the series that you'd need to change the least to get a ton of fans on board. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/assassins-creed-black-flag-resynced-might-be-adding-as-many-problems-as-its-fixing/1100-6540069/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T16:00:00+00:00"
+  },
+  {
+    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+    "description": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
+    "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg",
+    "pubDate": "2026-05-21T15:58:46+00:00"
+  },
+  {
+    "title": "Afghan women’s refugee team returns to world cricket post Taliban exclusion",
+    "description": "Afghanistan women's refugee team will tour United Kingdom in June and be guests at July's World Cup final at Lord's.",
+    "link": "https://www.aljazeera.com/sports/2026/5/21/afghan-womens-refugee-team-returns-to-world-cricket-post-taliban-exclusion?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP25104087321253-1779376943.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-21T15:53:10+00:00"
+  },
+  {
+    "title": "Bitcoin due '5%+' move as analysis stays bullish on BTC price outlook",
+    "description": "Bitcoin should shift 5% or more \"soon\" with $77,000 staying the focus amid mixed messages over the latest US-Iran peace deal plans.",
+    "link": "https://cointelegraph.com/markets/bitcoin-due-5-move-as-analysis-stays-bullish-on-btc-price-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-btc-options-expire-what-will-happen2-1.jpg",
+    "pubDate": "2026-05-21T15:50:16+00:00"
+  },
+  {
+    "title": "Five held in council election fraud investigation",
+    "description": "Four men and a woman, aged between 23 and 47, were held at addresses in Tameside earlier, police say.",
+    "link": "https://www.bbc.com/news/articles/ckgpj5zpyyno?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2288/live/dc0bdf00-5531-11f1-b682-cf91850925ea.jpg",
+    "pubDate": "2026-05-21T15:48:32+00:00"
+  },
+  {
+    "title": "Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump",
+    "description": "No president has ever used the federal government to advance his own personal interests and those of his family and allies as expansively and openly as Mr. Trump has.",
+    "link": "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-presidents-self-dealing.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T15:44:38+00:00"
+  },
+  {
+    "title": "Crypto prediction markets are turning into dangerous national security risks, and Congress wants to ban them",
+    "description": "Bubblemaps investigators led by Nicolas Vaiman, discovered 80 bets on Polymarket with a 98% win rate that he said is statistically impossible to achieve.",
+    "link": "https://www.coindesk.com/business/2026/05/21/crypto-prediction-markets-are-turning-into-dangerous-national-security-risks-and-congress-wants-to-ban-them",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fcc8b2fefb296b15e64598dd3b6be45febe3ff57-1820x1024.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-21T15:38:47+00:00"
+  },
+  {
+    "title": "The Rocco Fridge Is a Hosting Game Changer—and It's $400 Off",
+    "description": "That Instagram-viral fridge you’ve been eyeing? I tested it, and it’s actually pretty great.",
+    "link": "https://www.bonappetit.com/story/rocco-smart-fridge-review",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a0b4f511420d0d9e1417948/master/pass/Rocco%20Fridge_Highly%20Rec2.jpg",
+    "pubDate": "2026-05-21T15:32:32+00:00"
+  },
+  {
+    "title": "Russia rehearses ‘use of nuclear forces’ in drills with Belarus",
+    "description": "Russia delivered nuclear warheads to sites in Belarus as part of a three-day military exercise involving both countries.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/russia-rehearses-use-of-nuclear-forces-in-drills-with-belarus?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779377536.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-21T15:32:26+00:00"
+  },
+  {
+    "title": "Ecuador’s Disappeared",
+    "description": "Fault Lines investigates forced disappearances conducted by Ecuador’s military while waging a war against drug cartels.",
+    "link": "https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779376054.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-21T15:30:00+00:00"
+  },
+  {
+    "title": "Virtua Fighter 6 Leak Reveals New Character, Old Favorite, And A Fresh Title",
+    "description": "It appears that a big reveal of gameplay features and visuals tied to the new Virtua Fighter game is imminent. Overnight, part of what looks like an online presentation was leaked on Chinese video-sharing platform Bilibili, where it quickly spread like wildfire across Reddit and fighting-game discord channels. The footage, which features four characters showing off new and old fighting techniques, gives us a glimpse of the game's flashy visual presentation, which seems heavily inspired by recent games like Street Fighter 6. The fighting, however, remains true to Virtua Fighter's roots of martial-arts realism, depicting some brutal-looking strikes, kicks, and grapples. The already-revealed Wolf and Stella are present in the leaked footage, but there are two faces we haven't seen yet: a male character who seems to use a mix of Southeast Asian martial arts--with their name shown briefly as \"Cielo\" during a shot of the matchup screen--and what appears to be an older version of longtime Virtua Fighter favorite Pai Chan. The title is also shown in part of the screen as \"Virtua Fighter Crossroads.\" Producer Riichiro Yamada and another RGG studio staff member also speak briefly about the game as the footage plays--which Gematsu has translated for the curious--giving veracity to the leak. It's likely that we get a much bigger look at the upcoming game either during June's State of Play presentation, Summer Games Fest, or EVO 2026. While the leak is unfortunate, it does offer a tantalizing glimpse into a longer showcase of the game coming in the near future that will likely tell us more about game modes, controls, and the narrative element.",
+    "link": "https://www.gamespot.com/articles/virtua-fighter-6-leak-reveals-new-character-old-favorite-and-a-fresh-title/1100-6540079/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T15:26:00+00:00"
+  },
+  {
+    "title": "U.S. CFTC secures deal with National Hockey League on prediction market safeguards",
+    "description": "A new arrangement has been set between the derivatives regulator and professional hockey, following on the heels of a similar baseball agreement.",
+    "link": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7330fcbbf3026e2b7036ab7a140cdd7a46cb6832-3271x2181.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-21T15:12:33+00:00"
+  },
+  {
+    "title": "LIV Golf seeks to raise up to $350 million from investors as post-PIF reality sets in",
+    "description": "LIV Golf is preparing to take its updated business plan and investor pitch on the road as soon as Thursday, in an effort to raise fresh capital.",
+    "link": "https://www.cnbc.com/2026/05/21/liv-golf-fundraise-up-to-350-million-post-pif.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310581-1779375214716-gettyimages-2275518697-tk052455_iyjybxwe.jpeg?v=1779375230&w=1920&h=1080",
+    "pubDate": "2026-05-21T15:06:49+00:00"
+  },
+  {
+    "title": "Lara Croft Returns In This Week's Epic Games Store Freebie",
+    "description": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the free games is create a free Epic account and enable two-factor authentication. You have a week to add the freebies to your library before the new one(s) take their place. At this point, Epic has given away hundreds of free games, and there's no sign that the program will stop any time soon. The company has also extended its freebies to Android devices, and you can claim a free game every week here as well. We keep this article up to date weekly to highlight both the current free games and next week's offerings. If you're looking for more freebies, you can check out our list of the 25 best free PC games to play right now, or for more options, the 25 best free games to play on multiple platforms. Current free games at Epic This week, you can grab Tomb Raider I-III Remastered and Down in Bermuda for free. Tomb Raider I-III Remastered is a complete collection of Lara Croft's original adventures with updated visuals--or the original janky ones if you prefer--and several other quality-of-life features. Down in Bermuda is a 2019 puzzle game, revolving around a stranded adventurer trapped in a time bubble deep inside Bermuda and looking for a way to escape. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/?ftag=CAD-01-10abi2f",
+    "thumbnail": "https://www.gamespot.com/a/uploads/original/1601/16018044/4699039-tomb-raider.jpg",
+    "pubDate": "2026-05-21T15:05:00+00:00"
+  },
+  {
+    "title": "Crypto for Advisors: Crypto Products",
+    "description": "Advisors need to assess ETP custody, sponsor profiles, and fees. Read expert advice on bitcoin-backed loans, including margin call risks and when to sell vs. borrow.",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/05/20/crypto-for-advisors-crypto-products",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/87ba76a24148691504a7e8e4b6821430f3f53503-3574x2010.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-21T15:00:00+00:00"
+  },
+  {
+    "title": "IG Europe taps Bitpanda to expand crypto trading across Europe",
+    "description": "IG Group, which launched spot crypto in the UK last year, is bringing the service to European investors through Bitpanda’s infrastructure.",
+    "link": "https://cointelegraph.com/news/ig-europe-taps-bitpanda-to-expand-crypto-trading-across-the-bloc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-big-banks-think-new-furniture-is-innovation-but-they-are-wrong.jpg",
+    "pubDate": "2026-05-21T14:50:23+00:00"
+  },
+  {
+    "title": "Supreme Court Permits Lawsuits Over U.S. Assets Seized by Cuba in 1960",
+    "description": "The Trump administration backed lawsuits brought by the Havana Docks Corporation that would allow the U.S.-owned entity to get compensation for property confiscated by Fidel Castro’s regime.",
+    "link": "https://www.nytimes.com/2026/05/21/us/politics/supreme-court-cuba-cruises-oil.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T14:49:15+00:00"
+  },
+  {
+    "title": "Cleveland Cavaliers owner Dan Gilbert turns grief over son’s rare disease into search for a cure",
+    "description": "Dan Gilbert honors his son Nick by funding research into neurofibromatosis, the rare disease that took Nick’s life.",
+    "link": "https://www.cnbc.com/2026/05/21/cavs-owner-dan-gilbert-son-rare-disease-cure.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310029-1779302783787-NBADraftLottery-20130521.jpg?v=1779303052&w=1920&h=1080",
+    "pubDate": "2026-05-21T14:45:55+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "pubDate": "2026-05-21T14:45:16+00:00"
+  },
+  {
+    "title": "MoonPay expands into tokenized assets and DeFi markets with new platform for banks",
+    "description": "With MoonPay Trade, the crypto payments firm is building infrastructure for banks, fintechs to access stablecoins, tokenized funds and yield in a one-stop shop.",
+    "link": "https://www.coindesk.com/business/2026/05/21/moonpay-expands-into-tokenized-assets-and-defi-markets-with-new-platform-for-banks",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/020fe30de9a4fcb7795ee0be6909406373fa1bf8-2048x1150.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-21T14:42:16+00:00"
+  },
+  {
+    "title": "Former Splinter Cell Director Thinks Modern Graphics Are Hurting Stealth Games",
+    "description": "Splinter Cell: Chaos Theory creative director Clint Hocking has suggested that modern-day advances in video game graphics have made it more challenging to develop stealth games. Thanks to the evolution of lighting over the years--like ray and path tracing--Hocking believes that the more nuanced shade and darkness levels present in games make it harder for players to read the digital room and see just how hidden they are when sneaking past enemies. \"I actually think one of the difficulties with modern stealth games is the sophistication in the rendering has made lighting so much more realistic,\" Hocking said to FRVR. \"When you think about those old-school stealth games because of their baked lighting, the lighting is very clean and readable and very understandable for the player. \"But once you get into this diffuse and ambient occlusion and all of the stuff that comes with it, it gets very hard to tell what's light, what's shadow, what's dark, what's safe, what's dangerous, and all of that stuff.\" Early Splinter Cell games had a solution to this issue, as they made use of a light meter to give players an indicator if they were cloaked in shadows or on the verge of being spotted. Fast-forward to Splinter Cell: Conviction, and Ubisoft's approach was to remove color from the game world as Sam Fisher blended into the monochrome shadows--this was later removed for Splinter Cell Blacklist, replaced with a small light on Sam Fisher's suit. Continue Reading at GameSpot",
+    "link": "https://www.gamespot.com/articles/former-splinter-cell-director-thinks-modern-graphics-are-hurting-stealth-games/1100-6540077/?ftag=CAD-01-10abi2f",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T14:42:00+00:00"
   },
   {
     "title": "UK migration drops to 171,000 - almost half 2024's figure",
@@ -28,80 +476,31 @@
     "pubDate": "2026-05-21T14:09:40+00:00"
   },
   {
-    "title": "Target moves to elevate supply chain operations, inventory reliability",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/target-moves-elevate-supply-chain-140805698.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/H.SGz7RPEKi3UcirgNHxBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/026f6d6d499db1f7abe854fbdf47cc8a",
-    "pubDate": "2026-05-21T14:08:05+00:00"
+    "title": "Peer-to-peer trading startup Variational raises $50 million for real-world perps in funding round led by Dragonfly",
+    "description": "The company is initially offering perpetual futures on real-world assets including oil, silver, copper and gold.",
+    "link": "https://www.coindesk.com/business/2026/05/21/peer-to-peer-trading-startup-variational-raises-usd50-million-for-real-world-perps-in-funding-round-led-by-dragonfly",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d7d47ac6a612ed029423fc75e17ef46e8e90de2d-1672x941.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-21T13:57:00+00:00"
   },
   {
-    "title": "Wall Street is About to Fund the First City on Mars. Here are the Craziest Details from the SpaceX S-1.",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-fund-first-city-140643698.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/qV5flr8Kvx_lUvhLYzSB9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/602617b66f0f3117d923db0967deda27",
-    "pubDate": "2026-05-21T14:06:43+00:00"
+    "title": "Live markets: Bitcoin's flat action continues as SpaceX IPO, Nvidia earnings capture news cycle",
+    "description": "Hyperliquid's HYPE is the outlier in crypto, rising 16.5% over the past 24 hours to a new record high.",
+    "link": "https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/dfff6399ca792fdc7f83e003231219f8be9884e5-8256x5504.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-21T13:51:11+00:00"
   },
   {
-    "title": "Germany make Neuer first-choice World Cup keeper to cap retirement U-turn",
-    "description": "Manuel Neuer to start for Germany in World Cup on his return, despite Oliver ⁠Baumann long being labelled first choice.",
-    "link": "https://www.aljazeera.com/sports/2026/5/21/germany-make-neuer-first-choice-world-cup-keeper-to-cap-retirement-u-turn?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-16T155254Z_1426288018_UP1EM5G18450L_RTRMADP_3_SOCCER-GERMANY-FCB-KOE-1779368679.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-21T14:06:40+00:00"
-  },
-  {
-    "title": "SpaceX: Musk bets heavily on AI, not just rockets, for future gains",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/article/spacex-musk-bets-heavily-on-ai-not-just-rockets-for-future-gains-140612946.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/EPXrQIlBtyakzce4n2upUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/e6b3e6c5-b626-4681-826f-0b6aad27130f",
-    "pubDate": "2026-05-21T14:06:12+00:00"
-  },
-  {
-    "title": "PlayStation Plus just got more expensive for all tiers",
-    "description": "Sony has raised subscription prices for all tiers of PlayStation Plus: Essential, Extra, and Premium.",
-    "link": "https://www.polygon.com/playstation-plus-price-hike-may-2026-extra-premium-annual-cost/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24179333/kratos_cave2.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-21T14:01:29+00:00"
-  },
-  {
-    "title": "Adventure Time’s Grass Sword changed the show in ways nobody expected",
-    "description": "To celebrate Cool Sword Day, Polygon caught up with Adventure Time's Adam Muto to unpack the origins of the Grass Sword and its evolution into Fern.",
-    "link": "https://www.polygon.com/adventure-time-grass-sword-fern-history-origin-adam-muto-interview/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mv5bmdm1n2nkmtutowzims00mdq5ltkxntctmjyzzdbjmda4mdi3xkeyxkfqcgc-_v1_.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-21T14:01:19+00:00"
-  },
-  {
-    "title": "Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades — here's what's in the president's portfolio",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-froze-live-tv-140000925.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/nzw7NiVSaxTjHWLCsSk1iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/ad87a73d3f99bc9714f2b5d216422464",
-    "pubDate": "2026-05-21T14:00:00+00:00"
-  },
-  {
-    "title": "Analyzing Workday’s (WDAY) Ideocratic Earnings Growth Dynamics",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/analyzing-workday-wday-ideocratic-earnings-135137485.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/31fba658e4859a33a3069b9d3341c5dc",
-    "pubDate": "2026-05-21T13:51:37+00:00"
-  },
-  {
-    "title": "Federal Reserve Proposes Limited Master Accounts For Crypto Firms",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/federal-proposes-limited-master-accounts-135100624.html",
-    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/f2745afaedeb7fa4c31a20149d1d6137",
-    "pubDate": "2026-05-21T13:51:00+00:00"
-  },
-  {
-    "title": "The implosion of Keir Starmer’s Labour",
-    "description": "The UK has had six prime ministers in 10 years. Is it ready for a seventh?",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/21/aje-onl-tt_gbr_starmercoup_av_v2-200526?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779370925.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-05-21T13:48:47+00:00"
+    "title": "Blockchain.com files with SEC for U.S. IPO",
+    "description": "The crypto financial services firm submitted a draft S-1 to the SEC as it explores a public listing amid renewed momentum in digital asset markets.",
+    "link": "https://www.coindesk.com/business/2026/05/21/blockchain-com-files-confidential-paperwork-with-sec-for-u-s-ipo",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/8347497dc2b40aa2c0918f122e4d7a7ab226ecd4-1406x791.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-21T13:50:27+00:00"
   },
   {
     "title": "Late Queen was 'very keen' for Andrew to be given trade envoy role",
     "description": "Newly released documents show that Queen Elizabeth had a \"wish\" for her son Andrew Mountbatten-Windsor to take on a \"prominent role\".",
     "link": "https://www.bbc.com/news/articles/cm2pjg397l2o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0460/live/5aa362c0-5514-11f1-9e5e-fb37d8c40e64.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e0/live/0e7ac820-5523-11f1-b682-cf91850925ea.jpg",
     "pubDate": "2026-05-21T13:47:10+00:00"
   },
   {
@@ -110,48 +509,6 @@
     "link": "https://cointelegraph.com/markets/hyperliquid-whale-wont-close-hype-short-despite-22-unrealized-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-the-increasingly-acute-need-for-crypto-native-insurance3.jpg",
     "pubDate": "2026-05-21T13:44:06+00:00"
-  },
-  {
-    "title": "Sadio Mane, Kalidou Koulibaly star picks in Senegal’s World Cup squad",
-    "description": "Iliman Ndiaye, Nicolas Jackson and Ismaila Sarr are other key players joining Mane in Senegal's World Cup forward line.",
-    "link": "https://www.aljazeera.com/sports/2026/5/21/sadio-mane-kalidou-koulibaly-star-picks-in-senegals-world-cup-squad?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_6959395dce46f-1767455069.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-21T13:43:21+00:00"
-  },
-  {
-    "title": "Eli Lilly says next-generation weight loss drug clears crucial obesity trial",
-    "description": "The results bring Lilly one step closer to filing for approval of the injection, retatrutide, which works differently from existing injections and pills.",
-    "link": "https://www.cnbc.com/2026/05/21/eli-lilly-weight-loss-drug-retatrutide-clears-obesity-trial.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107388672-1710764847941-gettyimages-2092473213-dsc01895copy_8zcnfedn.jpeg?v=1779305415&w=1920&h=1080",
-    "pubDate": "2026-05-21T13:43:14+00:00"
-  },
-  {
-    "title": "Teenage boys sentenced for raping lone girls and filming attacks",
-    "description": "The boys filmed themselves laughing and encouraging each other as they raped girls in separate attacks.",
-    "link": "https://www.bbc.com/news/articles/clypg68e2neo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506a/live/61a93150-550d-11f1-89a3-d1f559421220.png",
-    "pubDate": "2026-05-21T13:42:53+00:00"
-  },
-  {
-    "title": "Activists take part in a land convoy from Libya to bring aid to Gaza",
-    "description": "Activists take part in a land convoy from Libya to bring aid to Gaza",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/activists-take-part-in-a-land-convoy-from-libya-to-bring-aid-to-gaza?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/GAZA-AID-LIBYA-Horizontal-THUMB-1779370693.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-05-21T13:40:23+00:00"
-  },
-  {
-    "title": "What’s behind the forced disappearances in Ecuador?",
-    "description": "As Ecuador’s government cracks down on drug trafficking, how is it starting to impact civilians?",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/21/aje-onl-tt_ecd_disappearances_av_v2-190526?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779370558.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-05-21T13:39:27+00:00"
-  },
-  {
-    "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
-    "description": "Chancellor Rachel Reeves made a series of announcements aimed at relieving cost-of-living pressures.",
-    "link": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d854/live/6d2d41c0-5516-11f1-9e5e-fb37d8c40e64.jpg",
-    "pubDate": "2026-05-21T13:37:15+00:00"
   },
   {
     "title": "Kraken moves closer to UAE launch after Dubai regulatory approval",
@@ -168,27 +525,6 @@
     "pubDate": "2026-05-21T13:31:59+00:00"
   },
   {
-    "title": "Transistor remains the Hades team's best game, even years later",
-    "description": "More than a decade after its release, Supergiant's creative director reflects on the game that led to Hades.",
-    "link": "https://www.polygon.com/transistor-cool-sword-interview/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/transistor-key-art.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-21T13:31:20+00:00"
-  },
-  {
-    "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
-    "description": "Economics of Hormuz closure are skewed towards Iran, so why won't the vessels just pay Tehran and sail away?",
-    "link": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0ddbd6-1779293142.jpg?resize=1200%2C675",
-    "pubDate": "2026-05-21T13:31:11+00:00"
-  },
-  {
-    "title": "What’s Trump’s ‘anti-weaponisation fund’ and why are legal experts alarmed?",
-    "description": "Democrats argue that the fund will be used to compensate January 6 rioters pardoned by Trump.",
-    "link": "https://www.aljazeera.com/news/2026/5/21/whats-trumps-anti-weaponisation-fund-and-why-are-legal-experts-alarmed?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0ee482f06c-1779360899.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-21T13:28:06+00:00"
-  },
-  {
     "title": "US sanctions Sinaloa cartel-linked Ethereum addresses",
     "description": "OFAC sanctioned six Ethereum addresses linked to a Sinaloa Cartel money laundering network allegedly converting drug proceeds into crypto.",
     "link": "https://cointelegraph.com/news/us-sanctions-sinaloa-cartel-ethereum-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -203,39 +539,11 @@
     "pubDate": "2026-05-21T13:23:00+00:00"
   },
   {
-    "title": "India-Africa summit postponed as Ebola spreads to M23-held DR Congo area",
-    "description": "Efforts to stop the latest outbreak of the deadly disease have been hampered by armed conflict in eastern DR Congo.",
-    "link": "https://www.aljazeera.com/news/2026/5/21/india-africa-summit-postponed-as-ebola-spreads-to-m23-held-dr-congo-area?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-21T041619Z_688776570_RC22DLAWMUJA_RTRMADP_3_HEALTH-EBOLA-GOMA-1779356374.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-21T13:18:12+00:00"
-  },
-  {
-    "title": "Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country",
-    "description": "Iran's position on its enriched uranium will likely complicate peace talks with the U.S.",
-    "link": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302899-1778071753701-gettyimages-2274228419-AFP_A9Z34WG.jpeg?v=1778071820&w=1920&h=1080",
-    "pubDate": "2026-05-21T13:18:10+00:00"
-  },
-  {
     "title": "CoinDesk 20 performance update: Internet Computer drops 1.6%, leading index lower",
     "description": "Hedera (HBAR), down 1.3% from Wednesday, joined Internet Computer (ICP) as an underperformer.",
     "link": "https://www.coindesk.com/coindesk-indices/2026/05/21/coindesk-20-performance-update-internet-computer-drops-1-6-leading-index-lower",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0a413f0494fcc063225f24c8d230b8459228d1e6-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-05-21T13:16:12+00:00"
-  },
-  {
-    "title": "How the wealthiest families invest: CNBC and Addepar launch Family Office Portfolio Tracker",
-    "description": "Public stocks are the fastest-growing asset class for family offices, while their real estate assets are shrinking, per the CNBC Family Office Portfolio Tracker.",
-    "link": "https://www.cnbc.com/2026/05/21/cnbc-family-office-portfolio-tracker-addepar.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310015-1779301930205-gettyimages-1391875989-9c0a0398.jpeg?v=1779368164&w=1920&h=1080",
-    "pubDate": "2026-05-21T13:13:30+00:00"
-  },
-  {
-    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-    "description": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
-    "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg",
-    "pubDate": "2026-05-21T13:07:02+00:00"
   },
   {
     "title": "‘We’ve Never Been This Bad.’ Eastern Pennsylvania Weighs Rising Costs.",
@@ -245,25 +553,11 @@
     "pubDate": "2026-05-21T13:05:57+00:00"
   },
   {
-    "title": "Neymar set to shake off injury scare to play for Brazil at World Cup",
-    "description": "All-time record Brazil scorer Neymar misses Santos draw with San Lorenzo in the Copa Sudamericana due to calf injury.",
-    "link": "https://www.aljazeera.com/sports/2026/5/21/neymar-expected-to-shake-off-injury-scare-for-brazil-at-world-cup?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-21T120311Z_2138299660_RC22BLAFO1OO_RTRMADP_3_SOCCER-WORLDCUP-BRA-NEYMAR-1779366915.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-21T13:05:31+00:00"
-  },
-  {
-    "title": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
-    "description": "A number of players submitted visa applications in person at the US embassy in Ankara ahead of their training camp.",
-    "link": "https://www.aljazeera.com/sports/2026/5/21/iran-world-cup-squad-members-apply-for-us-canada-visas-in-turkiye?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260521__B3KF7ZT__v2__HighRes__TurkeyUsFblWc2026Iri-1779366869.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-21T13:01:38+00:00"
-  },
-  {
-    "title": "Masters of the Universe movie nails He-Man's Sword of Power — here's how",
-    "description": "Masters of the Universe director Travis Knight tells Polygon how he designed the coolest sword of 2026 by looking to the past",
-    "link": "https://www.polygon.com/masters-of-the-universe-2026-sword-of-power-design/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/motu_2026_ut_250410_keygil_15269_r6_3000.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-21T13:01:19+00:00"
+    "title": "Sheet-Pan Shawarma-Spiced Chicken",
+    "description": "Save this meal—with juicy chicken, warm pita, and crunchy veg—for your weeknight rotation.",
+    "link": "https://www.bonappetit.com/recipe/sheet-pan-shawarma-spiced-chicken",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a0df49081136012c9048856/master/pass/BA0526chicken01.jpg",
+    "pubDate": "2026-05-21T13:00:00+00:00"
   },
   {
     "title": "Bitcoin’s ‘less aggressive demand’ may lead to months of consolidation: Analysis",
@@ -294,34 +588,6 @@
     "pubDate": "2026-05-21T12:35:38+00:00"
   },
   {
-    "title": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei",
-    "description": "Nvidia CEO Jensen Huang said the company has \"largely conceded\" China's advanced artificial intelligence chip market to Huawei.",
-    "link": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108308587-1779133062069-gettyimages-2276430024-DELL_TECHNOLOGIES_CONVENTION.jpeg?v=1779133175&w=1920&h=1080",
-    "pubDate": "2026-05-21T12:35:21+00:00"
-  },
-  {
-    "title": "Best sword Pokémon of all time",
-    "description": "No, we're not talking about the game Pokémon Sword. We're talking about the best sword Pokémon (not including Scyther).",
-    "link": "https://www.polygon.com/sword-pokemon-best/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/polygon-graphic-pokemon-template-bare-4.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-21T12:31:22+00:00"
-  },
-  {
-    "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-    "description": "Use our interactive tracker to explore the latest migration statistics for the UK",
-    "link": "https://www.bbc.com/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a530/live/da608860-cb5a-11f0-a892-01d657345866.png",
-    "pubDate": "2026-05-21T12:29:37+00:00"
-  },
-  {
-    "title": "Iran reviews U.S. peace proposal as Trump says he’s willing to wait 'a few days'",
-    "description": "It comes after President Donald Trump said he was prepared to wait a few more days to \"get the right answers\" from Tehran.",
-    "link": "https://www.cnbc.com/2026/05/21/iran-war-us-peace-talks-trump-hormuz.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310311-1779346640485-gettyimages-2276312584-AFP_B3737GH.jpeg?v=1779347186&w=1920&h=1080",
-    "pubDate": "2026-05-21T12:23:21+00:00"
-  },
-  {
     "title": "Boerse Stuttgart taps SocGen, flatexDEGIRO for EU blockchain settlement push",
     "description": "Boerse Stuttgart’s Seturion has partnered with Societe Generale, SG-FORGE and flatexDEGIRO to build a pan-European blockchain securities settlement system.",
     "link": "https://cointelegraph.com/news/boerse-stuttgart-societe-generale-flatexdegiro-team-up-for-blockchain-securities-settlement-in-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -329,130 +595,18 @@
     "pubDate": "2026-05-21T12:13:58+00:00"
   },
   {
-    "title": "Star Wars Rebels tops Maul when it comes to the best lightsabers",
-    "description": "The gunsaber, a lightsaber and blaster hybrid, is without a doubt the best lightsaber hybrid in Star Wars and not just because it looks cool.",
-    "link": "https://www.polygon.com/ezra-bridger-blaster-lightsaber-gunsaber-star-wars/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/maul_trailer2_stills_01-25-20-06.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-21T12:01:20+00:00"
-  },
-  {
-    "title": "Fed seeks input on limited payment accounts after Trump order",
-    "description": "The US Federal Reserve proposed a limited “skinny” payment account framework for fintech and crypto firms and called for a temporary pause on Tier 3 applications.",
-    "link": "https://cointelegraph.com/news/fed-skinny-payment-account-proposal-trump-crypto-order?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-crypto3.jpg",
-    "pubDate": "2026-05-21T11:54:16+00:00"
-  },
-  {
-    "title": "Cavs owner Dan Gilbert turns grief over son’s rare disease into search for a cure",
-    "description": "Dan Gilbert honors his son Nick by funding research into neurofibromatosis, the rare disease that took Nick’s life.",
-    "link": "https://www.cnbc.com/2026/05/21/cavs-owner-dan-gilbert-son-rare-disease-cure.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310029-1779302783787-NBADraftLottery-20130521.jpg?v=1779303052&w=1920&h=1080",
-    "pubDate": "2026-05-21T11:51:35+00:00"
-  },
-  {
-    "title": "Inside Trump’s Pressure Campaign on Cuba, and Why Food Banks Are Getting Squeezed",
-    "description": "Plus, Stephen Colbert’s last show.",
-    "link": "https://www.nytimes.com/2026/05/21/podcasts/the-headlines/trump-cuba-food-banks.html",
+    "title": "Stephen Colbert’s Final ‘Late Show’ Marks the End of an Era",
+    "description": "Stephen Colbert’s “Colbert Report” satirized politics. Then his “Late Show” confronted a moment when politics became self-satirizing.",
+    "link": "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html",
     "thumbnail": "",
-    "pubDate": "2026-05-21T11:50:50+00:00"
+    "pubDate": "2026-05-21T11:07:23+00:00"
   },
   {
-    "title": "Quantum stocks soar as U.S. reportedly plans $2 billion ‘award’ and taking equity stakes",
-    "description": "Quantum computing shares popped in premarket trading following reports that the U.S. government will award grants to nine firms operating in the space.",
-    "link": "https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771953167&w=1920&h=1080",
-    "pubDate": "2026-05-21T11:43:10+00:00"
-  },
-  {
-    "title": "Wes Streeting pledges wealth tax as part of leadership pitch",
-    "description": "He proposes equalising capital gains tax with income tax, in a reform he estimates could raise £12bn a year.",
-    "link": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0484/live/d27c4ad0-5494-11f1-a1d5-55f015dfb1f3.jpg",
-    "pubDate": "2026-05-21T11:42:29+00:00"
-  },
-  {
-    "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
-    "description": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
-    "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fd/live/e5e53ce0-539e-11f1-a184-d13a0f944f44.jpg",
-    "pubDate": "2026-05-21T11:34:49+00:00"
-  },
-  {
-    "title": "Fable's Sword of Aeons established the series' boldest choices",
-    "description": "Fable is largely a silly game, but its ending remains one of the most cutting moral decisions of any game 22 years later.",
-    "link": "https://www.polygon.com/fable-sword-of-aeons-jack-of-blades-ending/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/fable-fortune-jack-of-blades.jpeg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-05-21T11:28:07+00:00"
-  },
-  {
-    "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
-    "description": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime.",
-    "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eecb/live/c8f720c0-5511-11f1-8b8c-6d33e1d5abb6.jpg",
-    "pubDate": "2026-05-21T11:22:18+00:00"
-  },
-  {
-    "title": "It's not all HYPE: Privacy and quantum-resistant coins advance as bitcoin coasts",
-    "description": "Your day-ahead look for May 21, 2026",
-    "link": "https://www.coindesk.com/daybook-us/2026/05/21/it-s-not-all-hype-privacy-and-quantum-resistant-coins-surge-as-bitcoin-marks-time",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/98c9b0d2ed0f668a8510ba5216d731e35c032f4f-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-21T11:21:25+00:00"
-  },
-  {
-    "title": "Technical Assessment: Bullish in the Intermediate-Term",
-    "description": "",
-    "link": "https://finance.yahoo.com/research/reports/ARGUS_47095_TechnicalAnalysis_1779361764000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-    "pubDate": "2026-05-21T11:09:24+00:00"
-  },
-  {
-    "title": "NYC's Mayor Mamdani is going live on Twitch in new series",
-    "description": "Zohran Mamdani is making history as the first elected official to host a recurring cross-platform stream.",
-    "link": "https://www.polygon.com/mayor-zohran-mamdani-twitch-stream-talk-with-the-people/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/zohran-mamdani.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-05-21T11:00:19+00:00"
-  },
-  {
-    "title": "The 10 best swords in Dungeons &amp; Dragons",
-    "description": "For Cool Sword Day, we ranked the 10 coolest swords in DnD history, from soul-devouring greatswords to the D&amp;D Vorpal Blade.",
-    "link": "https://www.polygon.com/dnd-best-swords-dungeons-dragons/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/book-of-many-things-dnd.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-05-21T11:00:19+00:00"
-  },
-  {
-    "title": "The $6 billion expiration countdown: Traders pile into $82,000 bitcoin calls ahead of May 29 expiry",
-    "description": "Deribit’s bitcoin open interest has overtaken BlackRock’s IBIT as traders brace for a showdown between $75K max pain and $80K call positioning.",
-    "link": "https://www.coindesk.com/markets/2026/05/21/bitcoin-caught-between-usd75-000-max-pain-and-usd80-000-call-wall-ahead-of-usd6-25-billion-expiry",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/09f6f8dd6ce70c60b94142414b39032f9427163a-2400x1200.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-21T10:53:05+00:00"
-  },
-  {
-    "title": "HYPE leads crypto rebound as traders position for volatility breakout",
-    "description": "Bitcoin and ether stabilized as derivatives activity rebounded, HYPE rose for a fifth straight day and options traders positioned for a breakout.",
-    "link": "https://www.coindesk.com/markets/2026/05/21/hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2045e4ff010e4337ea9b250d5969971fc8d04019-1862x1044.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-21T10:52:57+00:00"
-  },
-  {
-    "title": "Zero Parades: For Dead Spies review: a must-play Disco Elysium follow-up",
-    "description": "Zero Parades: For Dead Spies finds Disco Elysium studio ZA/UM applying its winning RPG formula to an absorbing espionage drama.",
-    "link": "https://www.polygon.com/zero-parades-for-dead-spies-review/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/zero-parades-key-art.avif?w=1200&h=675&fit=crop",
-    "pubDate": "2026-05-21T10:31:18+00:00"
-  },
-  {
-    "title": "OSL Strengthens Asia’s Digital Asset Ecosystem with Listing of State-Supervised Gold-Backed Stablecoin USDKG",
-    "description": "OSL Group (863.HK) (OSL), a global stablecoin payment and trading platform, today announced that its Hong Kong-licensed digital asset exchange OSL HK has officially listed USDKG, the gold-backed stablecoin issued by the Kyrgyz Republic.",
-    "link": "https://cointelegraph.com/press-releases/osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-state-supervised-gold-backed-stablecoin-usdkg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/pressreleaseparticles-1.jpg",
-    "pubDate": "2026-05-21T10:28:20+00:00"
-  },
-  {
-    "title": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
-    "description": "The trader collected about $224,500 in premiums and will keep the full amount if XRP remains close to $1.40.",
-    "link": "https://www.coindesk.com/markets/2026/05/21/a-massive-xrp-trade-is-betting-prices-gravitate-to-usd1-40-until-the-end-of-june",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f49914ceb7bf309a3508637f0335a56784a808e7-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-21T09:34:48+00:00"
+    "title": "Experimental Drug Yields Dramatic Weight Loss",
+    "description": "People who got the injection, retatrutide, lost 28 percent of their body weight on average after 80 weeks, Eli Lilly said.",
+    "link": "https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-21T10:45:05+00:00"
   },
   {
     "title": "Democrats’ Midterm Strength Masks Fierce Divides and Frustration, Poll Shows",
@@ -462,67 +616,11 @@
     "pubDate": "2026-05-21T09:00:54+00:00"
   },
   {
-    "title": "Where To Find The Prybar, Chain-Cutters, And Lockpick In Zero Parades: For Dead Spies",
-    "description": "Zero Parades: For Dead Spies is all about espionage and massive political conspiracies, but you'll also need some quite rudimentary tools for the job. Knowing where to find the lockpick, chain-cutters, and prybar will open many doors, figuratively and metaphorically. As you begin exploring the city of Portofiro, you'll immediately notice all sorts of doors, boxes, and items scattered around that will require a specific tool. The earlier you can get all three tools, the better. Once you've offered to fix the printer, the Foto 24 receptionist will grant you a scredriver as well as the operant toolkit. From then on, if you're wondering where to find the lockpick, the prybar, and the chain-cutters in Zero Parades, we've got you covered. Table of Contents [hide]Where to Find the Lockpick Where to Find the Lockpick Let's start with the easiest one. In order to get the lockpick, you have to speak to Goat Eyes in the Quisach Roundabout. He's located all the way east. After a brief conversation--be kind to him, he's cool--he'll let you see what he has on sale. Amid some extremely particular items, he will offer you a lockpick for 30 sol. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/zero-parades-for-dead-spies-lockpick-chain-cutters-prybar-location-how-to-get/1100-6540003/?ftag=CAD-01-10abi2f",
+    "title": "C.E.O. Behind Huge ‘Vote for Trump’ Sign Has a New Slogan: Vote for Him",
+    "description": "Anthony Constantino has been endorsed by President Trump in his bid to succeed Representative Elise Stefanik in New York. But could his provocative campaign cost the G.O.P. a seat?",
+    "link": "https://www.nytimes.com/2026/05/21/nyregion/constantino-stickers-campaign.html",
     "thumbnail": "",
-    "pubDate": "2026-05-21T09:00:00+00:00"
-  },
-  {
-    "title": "How To Complete The Unassigned Assignment In Zero Parades: For Dead Spies",
-    "description": "Zero Parades: For Dead Spies doesn't start like most RPGs. Your main objective is, well, unknown. The Unassigned Assignment is one of the first tasks to become available when you enter the city of Portofiro. As it turns out, the person who was supposed to walk you through said assignment is incapacitated. Your controller, Melita, tries to call off the assignment. But you're there to prove yourself as a spy once more. In order to finally stumble upon the main objective, which essentially marks the start of the game, you'll have to do some reconnaissance first. Here's everything you'll need to complete The Unassigned Assignment in Zero Parades. How to Complete The Unassigned Assignment in Zero Parades It all starts with Pseudopod, your incapacitated double. Your other task will literally be called What's Wrong, Pseudopod? which has its own list of subtasks. Some will intertwine, but by and large, if you don't manage to wake him up, don't worry. I was able to finish The Unassigned Assignment before completing Pseudopod's own questline. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/zero-parades-for-dead-spies-the-unassigned-assignment-guide/1100-6540001/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-21T09:00:00+00:00"
-  },
-  {
-    "title": "How To Get A Gun In Zero Parades: For Dead Spies",
-    "description": "Shootouts in Zero Parades: For Dead Spies are rare, but knowing how to get a gun is a vital endeavor. Melita, your operator, will tell you so when discussing your task to assemble the crew. One of the related missions is called Procure In-Theatre, which will prove to be a pivotal task as you get to the culmination of the main story. The task itself will grant you a hint about where you should start asking about the gun. Some NPCs you've likely already spoken to will have more dialogue options that are bound to point you toward the same spot. This guide will explain exactly what that entails, while also offering an alternative to get a gun for free in Zero Parades, in case you'd like to save those funds for some shopping at the bazaar. Table of Contents [hide]How to Buy a Gun in Zero Parades How to Buy a Gun in Zero Parades The most straightforward way of completing Procure In-Theater is by purchasing the gun. Melita will give you a stipend of 50 sol. Depending on what you've been doing up to that point, you may also have double the amount in your pockets already. If that's the case, you'll be able to tackle the task fairly quickly. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/zero-parades-for-dead-spies-gun-guide-how-to-get-for-free/1100-6540000/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-21T09:00:00+00:00"
-  },
-  {
-    "title": "TradFi giant IG to expand crypto trading across Europe through Bitpanda",
-    "description": "The London-listed company is broadening its digital asset offering after introducing spot crypto trading for U.K. retail customers last year.",
-    "link": "https://www.coindesk.com/business/2026/05/20/tradfi-giant-ig-to-expand-crypto-trading-across-europe-through-bitpanda",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/56b0ad2c1dff074225ab2d2506ee96ebdc13f859-4032x2268.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-21T08:58:31+00:00"
-  },
-  {
-    "title": "Silvergate’s Fraher breaks silence on settlement with Gensler’s SEC",
-    "description": "Former Silvergate executive Kate Fraher said the rule that prevented her from sharing her side of the story was unconstitutional. It was finally lifted by the SEC this week.",
-    "link": "https://cointelegraph.com/news/silvergates-fraher-breaks-silence-on-settlement-with-genslers-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-inside-makerdao-drama1.jpg",
-    "pubDate": "2026-05-21T07:38:46+00:00"
-  },
-  {
-    "title": "Tax evaders are trying ‘novel digital assets’ to dodge authorities: Chainalysis",
-    "description": "Italian authorities uncovered a tax evasion scheme in which an individual allegedly used Bitcoin Ordinals and the BRC-20 token standard to generate and conceal $1.1 million.",
-    "link": "https://cointelegraph.com/news/criminals-attempt-to-use-bitcoin-ordinals-to-evade-authorities-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoin-be-hacked.jpg",
-    "pubDate": "2026-05-21T07:34:52+00:00"
-  },
-  {
-    "title": "Binance launches SpaceX pre-IPO perps amid $2 trillion valuation bets",
-    "description": "Binance looks to democratize pre-IPO markets, starting with SpaceX perpetual futures.",
-    "link": "https://www.coindesk.com/markets/2026/05/21/binance-launches-spacex-pre-ipo-perps",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d3b0012ee91ace25714d9cd726e345705bb5bdd1-3000x1688.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-21T07:03:20+00:00"
-  },
-  {
-    "title": "Don't call us just a WLFI treasury company, says AI Financial",
-    "description": "The company says it is building a broader fintech, tokenization and digital infrastructure business, but its latest SEC filing shows WLFI still dominates the balance sheet.",
-    "link": "https://www.coindesk.com/markets/2026/05/21/don-t-call-us-just-a-wlfi-treasury-company-says-ai-financial",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a6462c7e6b84bc721cb6296d10cf50ccf716cbb5-1600x1067.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-21T05:20:35+00:00"
-  },
-  {
-    "title": "Colorado Governor Censured for Commuting Sentence of Election Denier",
-    "description": "The Colorado State Democratic Party, reflecting the anger of rank-and-file Democratic voters, rebuked Gov. Jared Polis on Wednesday over his decision to release Tina Peters from prison.",
-    "link": "https://www.nytimes.com/2026/05/20/us/politics/colorado-governor-polis-tina-peters.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-21T03:53:35+00:00"
+    "pubDate": "2026-05-21T07:00:07+00:00"
   },
   {
     "title": "How the $1.8 Billion Trump Fund May Violate Past Practice and Policy",
@@ -532,20 +630,6 @@
     "pubDate": "2026-05-21T02:20:48+00:00"
   },
   {
-    "title": "Justice Dept. Charges Raúl Castro as Trump Escalates Pressure Campaign Against Cuba",
-    "description": "The indictment was an extraordinary escalation of the Trump administration’s multifaceted pressure campaign against Cuba’s Communist government.",
-    "link": "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-21T00:05:00+00:00"
-  },
-  {
-    "title": "Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump",
-    "description": "No president has ever used the federal government to advance his own personal interests and those of his family and allies as expansively and openly as Mr. Trump has.",
-    "link": "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-presidents-self-dealing.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T23:26:30+00:00"
-  },
-  {
     "title": "Stock market today: Dow, S&amp;P 500, Nasdaq fall as oil prices rise on Iran peace talk doubts",
     "description": "",
     "link": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-fall-as-oil-prices-rise-on-iran-peace-talk-doubts-232311176.html",
@@ -553,67 +637,46 @@
     "pubDate": "2026-05-20T23:23:11+00:00"
   },
   {
-    "title": "A Forza Horizon 6 Sound Effect Might Just Trigger Some Awful Memories For You",
-    "description": "Following a nearly five-year hiatus between titles, Forza Horizon 6 debuted this week. And while fans are diving into its open-world take on Japan, some have already discovered a sound effect in Forza Horizon 6 that may trigger anyone who has ever had to work in an office setting. As noted by a player on social media, one of the car horn sounds in Forza Horizon 6 is the Microsoft Teams calling noise--a joke made possible by the fact that the Forza games are published by Microsoft. The sound effect was also in Forza Horizon 5, but it still inspires negative reactions from players who would rather forget about anything work-related when playing the game. PTSD Triggered pic.twitter.com/k02039PVbX — Iphoniez (@Iphoniez) May 20, 2026 i loved using it in FH5 just because it was still during the pandemic. i terrorized so many people with it, watching them physically react in the middle of races so i could pass them. shit was INCREDIBLE — Sir Pootington 💙💛🇻🇪 (🦋) (@SirPootington) May 20, 2026 I would have a breakdown if I heard that outside of work hours — ReplayTJ (@Replay_TJ) May 20, 2026 Lmao instant trigger — J (@calcran4401) May 20, 2026 At the very least, Forza Horizon 6 has fixed one of the most annoying aspects of its predecessors. Players no longer have to painstakingly explore every section of a road to get credit towards exploring 100% of the map. Now, players can get the Trophy or Achievement simply by revealing the entire map. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/a-forza-horizon-6-sound-effect-might-just-trigger-some-awful-memories-for-you/1100-6540071/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T22:13:00+00:00"
+    "title": "Easy Grilled Shrimp With Chimichurri",
+    "description": "Punchy, make-ahead chimichurri adds a bright, fresh finish to this easy summer dinner.",
+    "link": "https://www.bonappetit.com/recipe/grilled-shrimp-with-chimichurri",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a0b784f1420d0d9e1417a79/master/pass/chimichurri-grilled-shrimp_RECIPE_V1_051326_14306_VOG_final.jpg",
+    "pubDate": "2026-05-20T21:00:33+00:00"
   },
   {
-    "title": "Trump Gets His Payback in Primary Elections, but It Comes at a Cost in Congress",
-    "description": "Republican senators are angry the president is working to unseat their colleagues. But he is also creating more free agents in his own party in Congress willing to defy him.",
-    "link": "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-congress.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T22:12:36+00:00"
+    "title": "Your Coffee Will Be Better If You Get The Right Grinder (2026)",
+    "description": "This is what you need to go from good coffee to great coffee.",
+    "link": "https://www.bonappetit.com/story/best-coffee-grinder",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a0e0283f305cd2cc2c0d4ad/master/pass/Best%20Coffee%20Grinder%202026.jpg",
+    "pubDate": "2026-05-20T20:41:22+00:00"
   },
   {
-    "title": "Bezos defends billionaires, hypes AI, talks taxes and praises Trump in CNBC interview",
-    "description": "Jeff Bezos rejected accusations that Amazon's decision to release a documentary on first lady Melania Trump was an effort to curry favor with the president.",
-    "link": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108309737-1779283120589-JeffBezos9.jpg?v=1779308190&w=1920&h=1080",
-    "pubDate": "2026-05-20T21:54:15+00:00"
+    "title": "Homemade Tartar Sauce",
+    "description": "Bright, briny, irresistibly creamy—and superior to anything that comes in a squeeze packet.",
+    "link": "https://www.bonappetit.com/recipe/classic-tartar-sauce",
+    "thumbnail": "https://assets.bonappetit.com/photos/57ae3440f1c801a1038bd113/master/pass/classic-tartar-sauce.jpg",
+    "pubDate": "2026-05-20T19:26:32+00:00"
   },
   {
-    "title": "Franchises Like Deus Ex And TimeSplitters Might Just Have A Future",
-    "description": "Embracer Group will split itself into two separate companies--Fellowship Entertainment and Embracer--in 2027, with the former maintaining the majority of the publisher's biggest video game IP. While Fellowship Entertainment will have a large focus on franchises like Lord of the Rings and Tomb Raiders, there will apparently be room for some of the company's other titles to thrive as well. Embracer's chair of the board Lars Wingefors told investors that it will be seeking partners to work on some of Fellowship's \"other well-known IP such as Saints Row, Legacy of Kain, Deus Ex, Red Faction, The Mask, Thief, TimeSplitters,\" and more. Wingefors added that the company sees potential in teaming up with partners on some of its AAA franchises as well, including Kingdom Come: Deliverance, Dead Island, Darksiders, Remnant, and Metro. The most recent attempt to revive Deus Ex led to a game that was canceled as part of Embracer's cutbacks in 2024. Over 100 developers were laid off from Deus Ex developer Eidos-Montreal earlier this year. In February 2026, Saints Row director Chris Stockman shared his belief that the franchise is dead after he said that Embracer ghosted his attempts to revive it. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/embracer-could-bring-back-franchises-like-deus-ex-timesplitters/1100-6540070/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T20:00:00+00:00"
+    "title": "The Best Meat Thermometer Will Stop You From Making One of the Most Common Cooking Mistakes (2026)",
+    "description": "Once you have a great meat thermometer, you won’t be able to remember how you lived without it.",
+    "link": "https://www.bonappetit.com/story/best-meat-thermometers",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a0e01b73fdc76a6a42a4e98/master/pass/Thermometers%201x%202026.jpg",
+    "pubDate": "2026-05-20T18:48:47+00:00"
   },
   {
-    "title": "New Xbox Controller Is Missing One Key Feature, Suggesting A Permanent Change",
-    "description": "Since the introduction of the Xbox One in 2013, Microsoft has made small, subtle changes to its established Xbox Controller design. But a tweak on its most recent iteration suggests one feature might be permanently removed. With the latest Forza Horizon 6 Xbox Controller, Microsoft's proprietary expansion port has seemingly been removed. A Reddit user shared an image of the controller with the expansion port completely sealed, with the standard auxiliary port still resting to the left. This suggests that Microsoft hasn't yet changed the molds that are used for Xbox controller production, but might not add hardware for the expansion port going forward. The Xbox Controller had a standard auxiliary port introduced in 2015, but prior to that you had to use the controller's proprietary expansion port. This was used for a lot more than just headsets; it supported audio controllers (for volume and chat mix controls, among others) as well as full chat pads that made your controller look like a Blackberry. It's been a long time since Microsoft has developed its own accessories that utilize the port, and it seems it might be removed from controllers going forward. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/new-xbox-controller-is-missing-one-key-feature-suggesting-a-permanent-change/1100-6540067/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T19:20:00+00:00"
+    "title": "Paella de Pollo con Verduras",
+    "description": "A crowd-friendly, crisp-edged chicken and vegetable rice from chef José Andrés.",
+    "link": "https://www.bonappetit.com/recipe/paella-de-pollo-con-verduras",
+    "thumbnail": "https://assets.bonappetit.com/photos/69f0d68d20ab313f37e05fe0/master/pass/arroz-con-pollo-verduras_RECIPE_V1_042226_4906_VOG_final.jpg",
+    "pubDate": "2026-05-20T16:00:00+00:00"
   },
   {
-    "title": "Splitgate 2 Dev's Titanfall-Style Game Pops Up On Steam",
-    "description": "Splitgate developer 1047 Games has dropped the first look at its next game perhaps a little sooner than it planned to. In response to the Titanfall-style game making its first appearance on Steam, 1047 Games has officially announced Empulse, with a promise of an early-access release coming this year. We wanted to share EMPULSE on our own terms, but leaks happen. We knew the risk and took it anyway, because getting real feedback early matters more to us than a perfect reveal.We're a team that loves movement shooters, and we’re putting that passion into EMPULSE, a brand new… https://t.co/a45Z7K1R0C — 1047 Games (@1047Games) May 20, 2026 Empulse is a 6v6 title that lets players battle across the streets of a city called Freehold. Piloting mechs appears to be a big part of the game, but not all of it. Players will be able to fight outside their mechs as well while utilizing P.A.I.N.T. bombs, Holojumps, wallruns, and grappling hooks to quickly travel across the map. 1047 Games calls it a \"movement shooter.\" According to the game's official description, two playable mechs will spawn on the map, each with its own armaments and abilities. Players who can get to one of the mechs first will have a distinct advantage over their opponents. But it's also possible for a squad to take down a mech and reclaim the momentum in a fight. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/splitgate-2-devs-titanfall-style-game-pops-up-on-steam/1100-6540068/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T19:12:00+00:00"
-  },
-  {
-    "title": "How To Unlock All Characters in Lego Batman: Legacy of the Dark Knight",
-    "description": "Lego Batman: Legacy of the Dark Knight is a reinvention of the Lego game formula, including a much-needed trimming of some of the bloat present in the series' past entries. One way bloat has been reduced is by limiting the roster of playable characters, giving each character unique abilities in addition to a variety of costumes. In total, there are seven playable characters, outside of the occasional one-off section in some levels where characters like Alfred are briefly playable. Characters are unlocked via story missions, giving you access to new activities in the open world. If you'd like to see the whole list of capes and cowls you'll be donning, keep scrolling. The characters are listed in the order you unlock them, with minimal story spoilers. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/how-to-unlock-all-characters-in-lego-batman-legacy-of-the-dark-knight/1100-6540066/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T19:11:00+00:00"
-  },
-  {
-    "title": "All Hail Devo: How Mixtape's Soundtrack Made It May's Surprise Hit",
-    "description": "Ignore the haters: American teens absolutely listened to The Jesus and Mary Chain in the '90s. That the music somehow isn't accurate is the most off-base criticism lobbed at Mixtape, Beethoven + Dinosaur's new game about a music-loving teen's \"perfect\" mixtape. Sure, the Scottish noise-mongers were far from the most popular band at the time, but they weren't that obscure; they were on major labels, their records were easily found at chain stores, they played the mainstage of Lollapalooza in 1992 (Pearl Jam actually had an earlier slot than them), and their 1994 song \"Sometimes Always\" hit the Billboard Hot 100 and got regular airplay on MTV. Hell, I spent the summer of 1993 listening to their Honey's Dead tape on repeat while playing Might and Magic II on the Genesis. Almost all of the bands in Mixtape are entirely believable playing on the stereo of a '90s high schooler, especially in the first half of the decade, when \"alternative\" was ascendant and before teen pop and nu metal took over the airwaves. Of course, Mixtape rarely goes with those bands' biggest songs or most recent hits. And that tells you a lot about the game's main character, Stacey Rockford. She's the kind of passionate, restless music fan who would know her favorite bands' deepest cuts. By the time we meet her, at the end of her senior year of high school, she probably would've long since moved away from reading Spin or Rolling Stone in favor of zines, Magnet, and the then-nascent web. She absolutely bought a whole bunch of tapes based on Sassy's Cute Band Alerts. She's a true searcher, not content to just listen to whatever the radio plays, and the result is a soundtrack that feels like a personally curated mixtape. And, well, that's what it is, although it wasn't curated by an entirely fictional American teenager in the '90s, but by the Australian musician and game developer Johnny Galvatron. Galvatron happily acknowledges that Mixtape's music is a direct reflection of his own personal tastes, both today and when he was a teenager. He makes no bones about what he calls its \"undeniable rock 'n' roll core,\" and credits the game's first song as the key to the whole soundtrack, and the inspiration for Mixtape as a whole. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/all-hail-devo-how-mixtapes-soundtrack-made-it-mays-surprise-hit/1100-6540064/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T19:00:00+00:00"
-  },
-  {
-    "title": "This Batman: The Animated Series Batgirl Figure Nails The Show’s Iconic Look",
-    "description": "Batman: The Animated Series - Batgirl 1/6 Scale Figure $235 | Release date TBC Preorder at Mondo Gotham's sixth-scale supervillains have a new vigilante to watch out for, as Mondo has officially announced a new Batgirl figure for its line of Batman: The Animated Series collectible figures. Now available to preorder and priced at $235, the new Batgirl figure is the spitting image of the character as seen in the landmark animated TV series. Batman: The Animated Series - Batgirl 1/6 Scale Figure $235 | Release date TBC Like the other Batman: TAS action figures in this series, the new Batgirl collectible comes with an array of swappable hands, portraits, capes, hair attachments, and accessories. It'll ship with three headsculpts that feature Batgirl's iconic cowl, alongside an alternate hairpiece and cape for those windy Gotham nights. You'll also get an unmasked headsculpt of Batgirl, for when you want to show her off in her alter-ego of Barbara Gordon. There are also plenty of swap-out hands that range from fists to batarang-holding appendages, a grapple gun accessory, a canister of tear gas, a bola to trip up crooks, binoculars, batarangs, and a teddy bear. Finally, you can pose Batgirl on her very own custom display stand. Preorder at Mondo Gallery While the Batgirl figure doesn't have a release date yet, you can prepare for her arrival by checking out all of the other Batman: TAS figures at Mondo. The Dark Knight himself and Robin also come with a ton of accessories, and you can pit them against iconic villains like Two-Face, Clayface, and Scarecrow. Mondo Batman: The Animated Series Figures Batman -- $220 Catwoman -- $160 Clayface -- $260 Harley Quinn -- $185 Man-Bat -- $230 Robin -- $235 Scarecrow -- $195 Two-Face -- $235 For even more Batman action, don't forget to grab a preorder for Lego Batman: Legacy of the Dark Knight ahead of its launch on May 22. Continue Reading at GameSpot",
-    "link": "https://www.gamespot.com/articles/this-batman-the-animated-series-batgirl-figure-nails-the-shows-iconic-look/1100-6540063/?ftag=CAD-01-10abi2f",
-    "thumbnail": "",
-    "pubDate": "2026-05-20T18:05:00+00:00"
+    "title": "Chef José Andrés Invites Us Over for Paella",
+    "description": "The chef and humanitarian throws a backyard bash for his family and friends centered around the centuries-old Valencian dish. And he wants you to join in too.",
+    "link": "https://www.bonappetit.com/story/jose-andres-paella-party",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a0b2fcc0d871e07a9ff2871/master/pass/Jose_Andres_digi_cover.jpg",
+    "pubDate": "2026-05-20T16:00:00+00:00"
   },
   {
     "title": "Target sees unexpected shift in customer behavior",
@@ -621,5 +684,19 @@
     "link": "https://finance.yahoo.com/economy/articles/target-sees-unexpected-shift-customer-150445821.html",
     "thumbnail": "https://s.yimg.com/os/en/thestreet_881/93faeae7d5dc145a0c81efeb3d40723b",
     "pubDate": "2026-05-20T15:04:45+00:00"
+  },
+  {
+    "title": "The Best Sparkling Water Maker, Based on Years of Testing (2026)",
+    "description": "This is how you transform a bad rosé into something bubbly and palatable.",
+    "link": "https://www.bonappetit.com/story/best-soda-makers",
+    "thumbnail": "https://assets.bonappetit.com/photos/672247310f38d6690f43967d/master/pass/best-soda-makers_LEDE_V9_102324_1902_VOG_Badge_final.jpg",
+    "pubDate": "2026-05-20T12:37:00+00:00"
+  },
+  {
+    "title": "I Tried 20 Electrolyte Powders—These Are the Tastiest (2026)",
+    "description": "And after talking to a registered dietitian I also learned why they work.",
+    "link": "https://www.bonappetit.com/story/best-electrolyte-drinks",
+    "thumbnail": "https://assets.bonappetit.com/photos/6882642e5bf09216bfdf9849/master/pass/7.24_BA_Best-Electrolyte-Powder.3.jpg",
+    "pubDate": "2026-05-19T23:30:11+00:00"
   }
 ]
