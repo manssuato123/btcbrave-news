@@ -1,10 +1,45 @@
 [
   {
+    "title": "UFC Unveils Plans for White House Fight on Trump’s Birthday",
+    "description": "The Ultimate Fighting Championship bout is scheduled for June 14, President Trump’s 80th birthday.",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/ufc-fight-trump-white-house.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-26T23:20:40+00:00"
+  },
+  {
+    "title": "Democratic Incumbents Run Against Each Other After Republican Redistricting in Texas",
+    "description": "A Republican-led redistricting effort forced Representative Al Green, who has served 11 terms, and Christian Menefee, one of the newest members of Congress, into a battle for the same seat.",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/texas-runoff-al-green-christian-menefee.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-26T23:19:02+00:00"
+  },
+  {
+    "title": "Trump Administration Wants Employees to Sign NDAs",
+    "description": "Lawyers representing federal workers said the move is intended to chill speech and could be challenged on First Amendment grounds.",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-administration-nondisclosure-agreements.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-26T23:10:46+00:00"
+  },
+  {
+    "title": "HYPE chases new highs as ETF inflows, institutional adoption accelerate",
+    "description": "HYPE reached new highs above $65 following record ETF inflows, futures participation and trading volumes at Hyperliquid exchange. Is $100 next?",
+    "link": "https://cointelegraph.com/markets/hype-price-discovery-next-key-price-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-markets-pro-trading-strategy.jpg",
+    "pubDate": "2026-05-26T23:01:43+00:00"
+  },
+  {
     "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq",
     "description": "With SpaceX headed for the public markets next month, industry experts and people close to Elon Musk are speculating about a potential tie-up with Tesla.",
     "link": "https://www.cnbc.com/2026/05/26/spacex-tesla-merger-chatter-reignites-as-musk-rocket-company-nears-ipo.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310148-1779310407448-gettyimages-2270726829-SPACEX_IPO.jpeg?v=1779318049&w=1920&h=1080",
     "pubDate": "2026-05-26T22:32:58+00:00"
+  },
+  {
+    "title": "Trump Administration to Send Americans Exposed to Ebola to Kenya",
+    "description": "In past outbreaks, Americans exposed to the virus were sent home to be treated in state-of-the-art facilities. The Trump administration has already flown some U.S. citizens to Europe for treatment.",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-ebola-kenya.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-26T22:32:15+00:00"
   },
   {
     "title": "15 years later, the Steam dev behind a failed Minecraft killer won't give up",
@@ -21,6 +56,27 @@
     "pubDate": "2026-05-26T22:26:59+00:00"
   },
   {
+    "title": "Is the viral ‘Cockroach Janta Party’ a threat to Modi’s government?",
+    "description": "Al Jazeera’s @avawarrinerr explores the rise of the Cockroach Janta Party.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_dnrexp-260526-warrinera-modi_05-260526?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779834104.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-26T22:24:02+00:00"
+  },
+  {
+    "title": "Crypto advocacy group challenges Senator Warren's claims on OCC charters",
+    "description": "After Massachusetts Senator Elizabeth Warren's claimed that the Comptroller may have violated US banking laws by approving crypto companies’ charters, The Digital Chamber urged the regulator to defend the applications.",
+    "link": "https://cointelegraph.com/news/digital-chamber-senator-warren-crypto-companies-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/court-crypto-lawsuit-us.jpg",
+    "pubDate": "2026-05-26T22:21:00+00:00"
+  },
+  {
+    "title": "Chemical tank rupture kills multiple people in US state of Washington",
+    "description": "Several injured people have been transported to hospitals to be treated for chemical burns.",
+    "link": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a1614e0ebfa1-1779832032.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-26T22:15:38+00:00"
+  },
+  {
     "title": "The Factors Shaping the 2026 Midterm Elections",
     "description": "President Trump has sought revenge in G.O.P. primaries. Democrats have turned out to vote in large numbers. Republicans have gained a redistricting advantage.",
     "link": "https://www.nytimes.com/2026/05/26/us/politics/midterm-primaries-primer.html",
@@ -31,8 +87,15 @@
     "title": "Bitcoin mining stocks jump as AI infrastructure boom boosts sector outlook",
     "description": "Wall Street’s semiconductor-driven surge is fueling fresh momentum for crypto miners betting their power-heavy infrastructure can support the AI boom.",
     "link": "https://cointelegraph.com/news/bitcoin-mining-stocks-jump-as-ai-infrastructure-boom-boosts-sector-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaXdoYXRpc2FtYXN0ZXJub2RlYW5kaG93ZG9lc2l0d29yay5qcGc=.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hiwhatisamasternodeandhowdoesitwork.jpg",
     "pubDate": "2026-05-26T22:07:21+00:00"
+  },
+  {
+    "title": "Texans Head to the Polls, Again",
+    "description": "Plus, Ferrari’s first fully electric car. Here’s the latest at the end of Tuesday.",
+    "link": "https://www.nytimes.com/2026/05/26/briefing/texas-primaries-iran.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-26T22:06:12+00:00"
   },
   {
     "title": "Better WiFi for hundreds of trains under government plans",
@@ -47,13 +110,6 @@
     "link": "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html",
     "thumbnail": "",
     "pubDate": "2026-05-26T21:56:12+00:00"
-  },
-  {
-    "title": "Democratic Incumbents Run Against Each Other After Republican Redistricting in Texas",
-    "description": "A Republican-led redistricting effort forced Representative Al Green, who has served 11 terms, and Christian Menefee, one of the newest members of Congress, into a battle for the same seat.",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/texas-runoff-al-green-christian-menefee.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-26T21:54:14+00:00"
   },
   {
     "title": "Trump praises prediction markets, defends CFTC as court cases compound",
@@ -161,6 +217,13 @@
     "pubDate": "2026-05-26T20:58:51+00:00"
   },
   {
+    "title": "You Can’t Stop This Data Center, a Mom Was Told. She Won’t Quit.",
+    "description": "Kassi Solberg has concerns about a proposed complex, the size of 3,800 football fields, near her home. Trust us, the developer says.",
+    "link": "https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-26T20:52:24+00:00"
+  },
+  {
     "title": "007 First Light Ending Teases A Sequel",
     "description": "007 First Light, the new James Bond game, releases on May 27, but people who paid extra got to start playing today. Some have already beaten the game and posted all of the game's cutscenes on YouTube, including the final sequence. We won't spoil the specifics, but the ending involves a major moment for James Bond and teases what he may do next in a sequel. That there would be a sequel to First Light should not come as much of a surprise, as the developers at IO said they envisioned a trilogy of Bond games. “I don’t want to speak too big about it, but I just hope we’ll do a thing that will define James Bond in gaming for years to come,” IO CEO Hakan Abrak said in 2024 before the game even had a name. “And that is not only one game, but that we create a universe for gamers to own for many years to come that we can grow with that next to the Bond on the movies.” Many of the James Bond movies, meanwhile, wrap up with Bond preparing for another adventure, so the game ending that way was in keeping with the franchise's tradition of reminding people that Bond will be back. First Light is getting solid reviews, boasting an impressive 87 Metascore on GameSpot sister site Metacritic. GameSpot's First Light review scored it an 8/10. First Light unlocks on May 27 for everyone, and you can consult the game's official unlock times to find out when it arrives where you live. The Switch 2 edition of First Light has been delayed and is now set for release sometime this summer, though a specific date has not been announced. Beyond a possible sequel to First Light, IO is working on a fantasy game and has teased it will return to Hitman someday. As for the James Bond movie series, the 26th Bond movie is in the works now and casting is underway for a new actor to play the lead role. Daniel Craig played the role most recently, wrapping up his five-movie run as the British superspy with 2021's No Time to Die.",
     "link": "https://www.gamespot.com/articles/007-first-light-ending-teases-a-sequel/",
@@ -187,13 +250,6 @@
     "link": "https://www.polygon.com/lego-batman-legacy-of-the-dark-knight-flugelheim-easter-eggs/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/lego-batman-legacy-of-the-dark-knight-joker.jpeg?w=1600&h=900&fit=crop",
     "pubDate": "2026-05-26T20:30:19+00:00"
-  },
-  {
-    "title": "The Wars in Ukraine and Iran Are More Alike Than You May Think",
-    "description": "Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.",
-    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-26T20:29:15+00:00"
   },
   {
     "title": "Nasa unveils next steps to build permanent Moon base",
@@ -280,32 +336,11 @@
     "pubDate": "2026-05-26T19:36:55+00:00"
   },
   {
-    "title": "White House proposes NDAs for all US federal workers",
-    "description": "Trump administration threatens legal action against employees who leak, aiming to curb information flow to journalists.",
-    "link": "https://www.aljazeera.com/economy/2026/5/26/white-house-proposes-ndas-for-all-us-federal-workers?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-16T223651Z_937484727_RC2KQKAPV1S5_RTRMADP_3_USA-CONGRESS-1779815428.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-26T19:32:41+00:00"
-  },
-  {
     "title": "The Mandalorian and Grogu’s quietest sequence should be the template Star Wars' future",
     "description": "The part of The Mandalorian and Grogu and that felt most like classic Star Wars was when Grogu was caring for his poisoned father on Nal Hutta",
     "link": "https://www.polygon.com/mandalorian-and-grogu-nal-hutta-scene-grogu-opinion/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/hbzlqjnbcaeumpc.jpg?w=1200&h=675&fit=crop",
     "pubDate": "2026-05-26T19:31:21+00:00"
-  },
-  {
-    "title": "Iran Begins Lifting Monthslong Internet Blackout, Officials Say",
-    "description": "Organizations that track online traffic confirmed an uptick in activity on Tuesday, as Iranians reconnected to the global internet after a government-imposed shutdown.",
-    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-26T19:19:16+00:00"
-  },
-  {
-    "title": "U.S. Aims to Give Cold War Plutonium to Start-Ups for Nuclear Fuel",
-    "description": "Companies say it’s a better way to dispose of the Cold War-era material — and fix a shortage of nuclear fuel. But the plan has also faced criticism from nonproliferation experts.",
-    "link": "https://www.nytimes.com/2026/05/26/climate/plutonium-nuclear-weapons-fuel.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-26T19:10:39+00:00"
   },
   {
     "title": "Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel  indexes",
@@ -320,13 +355,6 @@
     "link": "https://www.polygon.com/florida-man-accused-of-using-chainsaw-to/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/pikachu.JPG?w=1200&h=675&fit=crop",
     "pubDate": "2026-05-26T18:56:23+00:00"
-  },
-  {
-    "title": "Russia slams US for not granting visa to diplomat for UN meeting",
-    "description": "Moscow's envoy accuses Washington of failing to honour commitments under the 1947 UN Headquarters Agreement.",
-    "link": "https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-21T155751Z_1175890385_RC2RDLAAFX8T_RTRMADP_3_ISRAEL-PALESTINIANS-UN-1779817853.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-26T18:54:24+00:00"
   },
   {
     "title": "The Best Outdoor Griddles Can Have You Cooking Outside Every Day (2026)",
@@ -346,7 +374,7 @@
     "title": "UK authorities sanction HTX crypto exchange over support for Russia",
     "description": "Formerly Huobi Global, the exchange is the latest entity to be named as part of a crackdown on companies “exploited by Russia to circumvent UK sanctions.”",
     "link": "https://cointelegraph.com/news/uk-sanctions-htx-huobi-russia-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jb3VydHZzc2FtLmpwZw==.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/courtvssam.jpg",
     "pubDate": "2026-05-26T18:41:07+00:00"
   },
   {
@@ -381,7 +409,7 @@
     "title": "TeraWulf acquires Kentucky AI data center site with planned 1 GW capacity",
     "description": "WULF shares surged on Tuesday after the Bitcoin miner announced its latest move to expand into AI and HPC through a multi-phase buildout through 2030.",
     "link": "https://cointelegraph.com/news/terawulf-kentucky-ai-data-center-1gw-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtcmlzZS1vZi1tYWpvci1taW5pbmctaW5zdGl0dXRpb25zLWlzLWluZXZpdGFibGUtYWktMS5qcGc=.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-the-rise-of-major-mining-institutions-is-inevitable-ai-1.jpg",
     "pubDate": "2026-05-26T18:01:53+00:00"
   },
   {
@@ -406,13 +434,6 @@
     "pubDate": "2026-05-26T17:42:23+00:00"
   },
   {
-    "title": "Trump Declares Himself in Good Health After Physical Exam at Walter Reed",
-    "description": "President Trump, who will turn 80 next month, did not give details on the exam.",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-physical-walter-reed.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-26T17:42:17+00:00"
-  },
-  {
     "title": "UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks",
     "description": "Britain applied banking-style sanctions to crypto exchanges for the first time, requiring U.K. financial firms to freeze funds and trace transactions.",
     "link": "https://www.coindesk.com/business/2026/05/26/uk-sanctions-huobi-and-ruble-stablecoin-issuer-in-crackdown-on-russia-crypto-networks",
@@ -430,7 +451,7 @@
     "title": "Spanish authorities block Polymarket and Kalshi over gambling laws",
     "description": "Spain joined a growing list of national authorities restricting or banning prediction market platforms amid concerns over unlicensed gambling activities.",
     "link": "https://cointelegraph.com/news/spain-blocks-polymarket-kalshi-gambling-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaXJldmVyc2liaWxpdHljb3VsZGJlY3J5cHRvc25leHRiaWdhbnRpLWNyaW1ldG9vbC5qcGc=.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hireversibilitycouldbecryptosnextbiganti-crimetool.jpg",
     "pubDate": "2026-05-26T17:02:00+00:00"
   },
   {
@@ -444,7 +465,7 @@
     "title": "Bitcoin 'liquidation hunts' control BTC at $77K amid new Iran peace deal doubts",
     "description": "Bitcoin failed to copy US stocks' upside after a spike to $78,000 became one of a series of liquidity grabs.",
     "link": "https://cointelegraph.com/markets/bitcoin-liquidation-hunts-control-btc-at-77k-amid-new-iran-peace-deal-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaWJpdGNvaW5wcmljZXZvbGF0aWxpdHljYW5hZmZlY3R0aGVwZXJzcGVjdGl2ZW9mZXRmYXBwcm92YWwuanBn.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hibitcoinpricevolatilitycanaffecttheperspectiveofetfapproval.jpg",
     "pubDate": "2026-05-26T16:57:58+00:00"
   },
   {
@@ -465,7 +486,7 @@
     "title": "NEAR token price has 'potential to grow 20x,' says Arthur Hayes",
     "description": "NEAR is mirroring a 2023–2024 fractal that preceded a 250% rally, hinting at similar upside in 2026 as privacy coin demand grows.",
     "link": "https://cointelegraph.com/markets/near-token-price-has-potential-to-grow-20x-says-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaXdoYXRpc2FmdWxseWRpbHV0ZWR2YWx1YXRpb25mZHZpbmNyeXB0by5qcGc=.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hiwhatisafullydilutedvaluationfdvincrypto.jpg",
     "pubDate": "2026-05-26T16:42:10+00:00"
   },
   {
@@ -481,13 +502,6 @@
     "link": "https://www.gamespot.com/articles/take-two-boss-knows-youre-paying-more-for-gas-groceries-says-youll-buy-gta-6-anyway/",
     "thumbnail": "",
     "pubDate": "2026-05-26T16:11:12+00:00"
-  },
-  {
-    "title": "UFC Unveils Plans for White House Fight on Trump’s Birthday",
-    "description": "The Ultimate Fighting Championship bout is scheduled for June 14, President Trump’s 80th birthday.",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/ufc-fight-trump-white-house.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-26T16:01:54+00:00"
   },
   {
     "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps",
@@ -507,7 +521,7 @@
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "pubDate": "2026-05-26T15:35:00+00:00"
   },
   {
@@ -521,7 +535,7 @@
     "title": "AI guardrail removals raise questions over limits of open-source model regulation",
     "description": "Financial Times testing found safety controls on open AI models from Meta and Google could be stripped in minutes, raising governance concerns.",
     "link": "https://cointelegraph.com/news/ai-guardrail-removals-raise-questions-over-limits-of-open-source-model-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9nMjAtZGlzY3Vzcy1jcnlwdG8taW4tamFwYW4tZGVzay10YWJsZS1tZWV0aW5nLWhhbmQtcGFwZXItcGVvcGxlMi0xLmpwZw==.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people2-1.jpg",
     "pubDate": "2026-05-26T15:25:18+00:00"
   },
   {
@@ -539,25 +553,11 @@
     "pubDate": "2026-05-26T15:15:29+00:00"
   },
   {
-    "title": "Strategy buys back $1.5B of debt at discount, cuts outstanding notes to $6.7B",
-    "description": "Strategy reduced aggregate convertible notes outstanding to $6.7 billion after repurchasing 2029 notes for $1.38 billion in cash.",
-    "link": "https://cointelegraph.com/news/strategy-repurchases-15b-notes-cuts-outstanding-debt-67b-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaWNoaW5haXNzdWVib25kc29uYmxvY2tjaGFpbmhvd3NpZ25pZmljYW50aXN0aGlzLmpwZw==.jpg",
-    "pubDate": "2026-05-26T15:11:32+00:00"
-  },
-  {
     "title": "American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes",
     "description": "American Airlines said it will install SpaceX's Starlink for inflight Wi-Fi on more than 500 of its airplanes.",
     "link": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310021-1779302316916-gettyimages-2275414815-AA_13052026_2776937.jpeg?v=1779826734&w=1920&h=1080",
     "pubDate": "2026-05-26T15:03:46+00:00"
-  },
-  {
-    "title": "Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs",
-    "description": "Grvt will work with Plume to launch tokenized fixed-income and structured credit products tied to institutional-grade real world assets and onchain yield strategies.",
-    "link": "https://cointelegraph.com/news/grvt-taps-plume-for-tokenized-rwa-yield-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hbmFseXNpcy1hbmFseXRpY3MtY2FyLWZ1dHVyZS1ibXctaG9uZGEtcmVkLWdyZWVuLXRyYWNrLXJ3YS10b2tlbml6YXRpb24uanBn.jpg",
-    "pubDate": "2026-05-26T15:00:00+00:00"
   },
   {
     "title": "TeraWulf jumps 13% on AI data center expansion in Kentucky",
@@ -595,39 +595,67 @@
     "pubDate": "2026-05-26T13:03:36+00:00"
   },
   {
-    "title": "BlackRock Stock: Is Wall Street Bullish or Bearish?",
+    "title": "Is ConocoPhillips (COP) a Natural Hedge during Uncertainties?",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-stock-wall-street-bullish-143106243.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/0372fc4aea3dab6b9ef3337c62e2ebd6",
-    "pubDate": "2026-05-25T14:31:06+00:00"
+    "link": "https://finance.yahoo.com/sectors/energy/articles/conocophillips-cop-natural-hedge-during-155410293.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/5b71334ad33bb97beb2f2ea906ea5119",
+    "pubDate": "2026-05-25T15:54:10+00:00"
   },
   {
-    "title": "A $10 Billion Reason to Buy AMD Stock Now",
+    "title": "Here’s Why EOG Resources (EOG) Surged in Q1",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/10-billion-reason-buy-amd-143002938.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/K3daAwKJOJbNUiTY_hQ3lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/barchart_com_477/ddc8094ced378c3d96ad60750e68f814",
-    "pubDate": "2026-05-25T14:30:02+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-eog-resources-eog-surged-155114268.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/c1cc3ed27dd47895d9ded71490d04dda",
+    "pubDate": "2026-05-25T15:51:14+00:00"
   },
   {
-    "title": "What Are Wall Street Analysts' Target Price for Cooper Companies’ Stock?",
+    "title": "Stocks jump while oil and dollar ease on Iran peace hopes",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-142103653.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/ce0bf03e925f6fdee7fa5be050b7ea94",
-    "pubDate": "2026-05-25T14:21:03+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-oil-dollar-slide-233702158.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters.com/6f4e602e6748033f21ee117fc2507ca8",
+    "pubDate": "2026-05-25T15:50:38+00:00"
   },
   {
-    "title": "Strategy Pauses Bitcoin Buying as $1.5B Bond Repurchase Takes Priority",
+    "title": "Microsoft (MSFT) was Hurt by the “SaaSmaggedon” Market Reaction",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-1-141700285.html",
-    "thumbnail": "https://s.yimg.com/os/en/cryptoprowl_304/56640335cfd8d30a225fc4cac3ca651b",
-    "pubDate": "2026-05-25T14:17:00+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-hurt-saasmaggedon-market-154740514.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/5ec329719e2363fbf46dd87eaacb07c7",
+    "pubDate": "2026-05-25T15:47:40+00:00"
   },
   {
-    "title": "Buy Now Pay Later Isn’t Free Money, It’s Costing You 8-10% in Hidden Fees",
+    "title": "Self-Storage Business Powers U-Haul Holding Company’s (UHAL) Valuation",
     "description": "",
-    "link": "https://finance.yahoo.com/economy/articles/buy-now-pay-later-isn-141614592.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/63ans6olA7NEC51wSoit1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDI-/https://media.zenfs.com/en/24_7_wall_st__718/9b83e02e7d4a1cda910c1fc3111646cf",
-    "pubDate": "2026-05-25T14:16:14+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/self-storage-business-powers-u-154521789.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/7c666f1ee7815eff0ca51d84fd5f4698",
+    "pubDate": "2026-05-25T15:45:21+00:00"
+  },
+  {
+    "title": "The 5-Day Trap: How Missing Less Than a Week Wiped Out $154,000",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/5-day-trap-missing-less-153408337.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/AAWjcXf893dwAmOkJDP_yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/24_7_wall_st__718/3f0afeecd2f61cc21672db6a944e897f",
+    "pubDate": "2026-05-25T15:34:08+00:00"
+  },
+  {
+    "title": "Billionaire Philippe Laffont Is Betting Big on ASML Stock as UBS Declares It the ‘Top Chip Stock’ in Europe",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-betting-big-153002608.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/LCCFGiVRnsINAq0m81lZhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDg-/https://media.zenfs.com/en/barchart_com_477/2a087c3d2506525e616e5d575d7cd217",
+    "pubDate": "2026-05-25T15:30:02+00:00"
+  },
+  {
+    "title": "What Are Wall Street Analysts' Target Price for Labcorp Holdings Stock?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-152102240.html",
+    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/25883cce9727446d024bf972ee246665",
+    "pubDate": "2026-05-25T15:21:02+00:00"
+  },
+  {
+    "title": "Middle East Conflict Lifted Canadian Natural Resources Limited (CNQ)",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/middle-east-conflict-lifted-canadian-151341988.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/0b5927ec2c03123c94e25caa14ba663c",
+    "pubDate": "2026-05-25T15:13:41+00:00"
   },
   {
     "title": "BJ’s Wholesale plans major store changes as customers pull back",
@@ -635,34 +663,6 @@
     "link": "https://finance.yahoo.com/economy/articles/bj-wholesale-plans-major-store-140700001.html",
     "thumbnail": "https://s.yimg.com/os/en/thestreet_881/479aa54cb5f4031ef7f4a611ff08e7f3",
     "pubDate": "2026-05-25T14:07:00+00:00"
-  },
-  {
-    "title": "CDW Corporation Stock: Is Wall Street Bullish or Bearish?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-stock-wall-street-140526976.html",
-    "thumbnail": "https://s.yimg.com/os/en/barchart_com_477/ccf669c5a6c48d5d973b1ca0b67a840a",
-    "pubDate": "2026-05-25T14:05:26+00:00"
-  },
-  {
-    "title": "Twenty One Capital Stock Jumped on a Major Bitcoin Pivot. Here’s What It Will Take for the Momentum to Last.",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/twenty-one-capital-stock-jumped-140002608.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/aK9wNErCx0fQfJTFZ2qpQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/16a41081cb6beb5580cb2f96bab95abc",
-    "pubDate": "2026-05-25T14:00:02+00:00"
-  },
-  {
-    "title": "As Zscaler Doubles Down on AI Security, ZS Stock Still Needs More to Justify Its Steep Valuation",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-doubles-down-ai-security-140002122.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/05biGlPMlrHIJGvKOKDKbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDA-/https://media.zenfs.com/en/barchart_com_477/bd5dae34176ee1c2b303d51d54822803",
-    "pubDate": "2026-05-25T14:00:02+00:00"
-  },
-  {
-    "title": "Dollar drifts lower as oil falls on Hormuz deal optimism",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/dollar-softer-signs-deal-reopen-050626887.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/1134f155f7f85adbab8c8a693e596921",
-    "pubDate": "2026-05-25T13:58:52+00:00"
   },
   {
     "title": "Americans are 'entrenched' in financial stress amid debt and price pressures",
