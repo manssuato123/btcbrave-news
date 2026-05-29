@@ -1,10 +1,227 @@
 [
   {
-    "title": "Scripps Spelling Bee 2026 Takeaways: Shrey Parikh Wins in Spell-Off",
-    "description": "The competition came down to a spell-off. Contestants were eliminated early, and a sixth grader became a crowd favorite.",
-    "link": "https://www.nytimes.com/2026/05/28/us/scripps-spelling-bee-takeaways-winner.html",
+    "title": "Michael Dell courted Trump early. His company has reaped rewards",
+    "description": "The dynamic is emblematic of how business is seeking to sow favor with the president in his second term, and has departed from the norms of big business philanthropy.",
+    "link": "https://www.cnbc.com/2026/05/28/michael-dell-trump-accounts-dod.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108240221-1765399550241-gettyimages-2251234604-aw1a9293_3pjo8m65.jpeg?v=1765399669&w=1920&h=1080",
+    "pubDate": "2026-05-29T11:45:18+00:00"
+  },
+  {
+    "title": "Trump's Oman outburst throws 'Switzerland of the Middle East' into the spotlight",
+    "description": "The Trump administration has threatened sanctions and military action against Oman, a longtime ally and close security partner.",
+    "link": "https://www.cnbc.com/2026/05/29/oman-trump-sanctions-iran-war-bessent.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108313729-1780054468854-gettyimages-2259450267-AFP_969E44Q.jpeg?v=1780054506&w=1920&h=1080",
+    "pubDate": "2026-05-29T11:35:15+00:00"
+  },
+  {
+    "title": "Inquest opens for three sisters who died in sea off Brighton",
+    "description": "Jane Adetoro, Christina Walters, and Rebecca Walters died off Brighton beach on May 13.",
+    "link": "https://www.bbc.com/news/articles/c2l2qe8jjk4o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4679/live/efc979c0-5488-11f1-9e5e-41ceb78553de.jpg",
+    "pubDate": "2026-05-29T11:27:03+00:00"
+  },
+  {
+    "title": "No second retrial for men accused of airport brawl",
+    "description": "Muhammad Amaad and Mohammed Fahir Amaaz denied assaulting a Greater Manchester Police officer in 2024.",
+    "link": "https://www.bbc.com/news/articles/cd0px74kznxo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9c/live/36b66990-39c9-11f1-ae0f-b9a8d6dfceb4.jpg",
+    "pubDate": "2026-05-29T11:22:54+00:00"
+  },
+  {
+    "title": "Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand",
+    "description": "Your day-ahead look for May 29, 2026",
+    "link": "https://www.coindesk.com/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/da862fb7916d4885618625dfdbe53136329965d3-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-29T11:15:00+00:00"
+  },
+  {
+    "title": "'Our flavors are on the shelf': The evolution of Asian grocery beyond the 'ethnic aisle'",
+    "description": "As interest in Asian flavors rises, mainstream grocery stores are incorporating more Asian groceries to work toward being a one-stop shop for all consumers.",
+    "link": "https://www.cnbc.com/2026/05/29/asian-foods-beyond-ethnic-aisle.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108312752-1779909332679-frame_1625684.jpg?v=1779909865&w=1920&h=1080",
+    "pubDate": "2026-05-29T11:00:01+00:00"
+  },
+  {
+    "title": "Top UK chefs call for 10% VAT cut for pubs and restaurants",
+    "description": "Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be slashed to 10% to ease mounting pressure on the hospitality industry.",
+    "link": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37dd/live/ea709f80-5b40-11f1-9f9e-2f9c8c5baaa2.jpg",
+    "pubDate": "2026-05-29T10:55:45+00:00"
+  },
+  {
+    "title": "Oil drops 20% from 2026 peak on optimism over U.S.-Iran ceasefire talks",
+    "description": "Global oil prices have retreated sharply amid hopes that a lasting Middle East ceasefire can unlock the Strait of Hormuz.",
+    "link": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108255380-17690331752026-01-21t220523z_286979253_rc2v5ja1vheb_rtrmadp_0_usa-stocks.jpeg?v=1769033262&w=1920&h=1080",
+    "pubDate": "2026-05-29T10:51:33+00:00"
+  },
+  {
+    "title": "DxSale drained for $7.3M in BNB Chain liquidity exploit",
+    "description": "DxSale was drained for about $7.3 million from BNB Chain liquidity providers, raising fresh concerns over old DeFi locker contracts.",
+    "link": "https://cointelegraph.com/news/memecoin-platform-dxsale-drained-73m-1400-lps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-gift-card-scams-and-how-to-avoid-them.jpg",
+    "pubDate": "2026-05-29T10:42:38+00:00"
+  },
+  {
+    "title": "Train Fire at Penn Station Injures 5 and Disrupts Rail Service",
+    "description": "A fire on a maintenance train affected Friday morning service on NJ Transit, Amtrak and the L.I.R.R. Two people were hospitalized with serious injuries.",
+    "link": "https://www.nytimes.com/2026/05/29/nyregion/penn-station-fire-amtrak-nyc-nj-transit.html",
     "thumbnail": "",
-    "pubDate": "2026-05-29T08:26:50+00:00"
+    "pubDate": "2026-05-29T10:41:18+00:00"
+  },
+  {
+    "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
+    "description": "The longest run of withdrawals since U.S. spot bitcoin ETFs listed in January 2024 comes as bitcoin underperforms high-flying AI and semiconductor stocks.",
+    "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d81686d16b7ee1e84a4412a97f8f426644339360-3200x1800.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-29T10:38:47+00:00"
+  },
+  {
+    "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+    "description": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
+    "link": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3d4/live/c55b7990-5b4a-11f1-a62b-2f41c7c3a318.jpg",
+    "pubDate": "2026-05-29T10:38:46+00:00"
+  },
+  {
+    "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
+    "description": "Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.",
+    "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/06/afp_685be6014444-1750853121.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-29T10:37:19+00:00"
+  },
+  {
+    "title": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
+    "description": "Bitcoin's failed breakout above $83,000 is looking increasingly like a bear market signal, even as S&amp;P 500 and Nasdaq futures notch gains and approach all-time highs.",
+    "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-u-s-equities",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e7ae83f8a5c84dee40c3c5d4e24a7f3941a66bc6-1850x1040.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-29T10:29:14+00:00"
+  },
+  {
+    "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
+    "description": "A digital register of land ownership in the West Bank is seen as an escalation of Israel's occupation.",
+    "link": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a19510f8947-1780044047.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-29T10:28:18+00:00"
+  },
+  {
+    "title": "WHO chief visits DRC amidst Ebola crisis",
+    "description": "WHO chief visits DRC amidst Ebola crisis and urges international community to increase support.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1780050127.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-05-29T10:24:27+00:00"
+  },
+  {
+    "title": "US-Iran 60-day proposal: What we know",
+    "description": "US-Iran memorandum of understanding reportedly covers Strait of Hormuz, sanctions relief and enriched uranium limits.",
+    "link": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a19452c4b-1780041004.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-29T10:23:16+00:00"
+  },
+  {
+    "title": "Kenyan court suspends US Ebola quarantine facility plan",
+    "description": "The plan to send Ebola-exposed US nationals to Kenya, which has no known cases of the virus, has provoked a backlash.",
+    "link": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a1954a0777f-1780044960.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-29T10:12:26+00:00"
+  },
+  {
+    "title": "How the end of the nuclear file could reshape Iran, and the region",
+    "description": "A generation of nuclear ambition shaped the Islamic republic. Its end could undo the damage.",
+    "link": "https://www.aljazeera.com/opinions/2026/5/29/how-the-end-of-the-nuclear-file-could-reshape-iran-and-the-region?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a14db6c-1779751788.jpg?resize=1920%2C1440",
+    "pubDate": "2026-05-29T10:05:14+00:00"
+  },
+  {
+    "title": "Pharmacies in England to prescribe more medication from autumn",
+    "description": "The £340m deal will see five common conditions added to the list of things pharmacists can prescribe medication for from this autumn.",
+    "link": "https://www.bbc.com/news/articles/c2l2qk7ng89o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/821b/live/3d706220-5b2c-11f1-8b8c-6d33e1d5abb6.jpg",
+    "pubDate": "2026-05-29T10:03:28+00:00"
+  },
+  {
+    "title": "Stranded in the Strait of Hormuz",
+    "description": "We hear from two of the thousands of seafarers who became stuck in the middle of the war.",
+    "link": "https://www.nytimes.com/2026/05/29/podcasts/the-daily/iran-strait-of-hormuz-ships.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-29T10:00:14+00:00"
+  },
+  {
+    "title": "U.S. Ramps Up Deadly Boat Strikes, and What Trump’s Stock Trades Show",
+    "description": "Plus, the Friday news quiz.",
+    "link": "https://www.nytimes.com/2026/05/29/podcasts/the-headlines/us-ramps-up-deadly-boat-strikes-and-what-trumps-stock-trades-show.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-29T10:00:10+00:00"
+  },
+  {
+    "title": "Infighting, court battles could put long-hyped air taxi breakthrough in jeopardy",
+    "description": "Trump's eVTOL pilot program is giving the air taxi industry its validation, but legal battles have put investor sentiment on hold.",
+    "link": "https://www.cnbc.com/2026/05/29/evtol-air-taxi-lawsuits-us-launch-trump.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108309659-1779277725218-Untitled-5.jpg?v=1779277886&w=1920&h=1080",
+    "pubDate": "2026-05-29T10:00:01+00:00"
+  },
+  {
+    "title": "Carrot Sheet Cake and More Recipes We Made in May 2026",
+    "description": "Like big bean ceviche and super seedy power cookies.",
+    "link": "https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-may-2026",
+    "thumbnail": "https://assets.bonappetit.com/photos/63db28e19e56df5916fcbfdb/master/pass/carrot-cake.jpg",
+    "pubDate": "2026-05-29T10:00:00+00:00"
+  },
+  {
+    "title": "Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets",
+    "description": "The Governor of Minnesota signed into law a measure that, starting Aug. 1, makes it a crime to advertise and operate prediction market platforms across the state.",
+    "link": "https://www.coindesk.com/policy/2026/05/29/kalshi-follows-cftc-in-suing-minnesota-over-law-criminalizing-prediction-markets",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4afe5178ad72b19c48d5ffdaed6618244b1c462c-3072x2304.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-29T09:59:39+00:00"
+  },
+  {
+    "title": "A visual guide to Ethiopia’s ethnic groups and conflict areas",
+    "description": "Ethiopia has faced near-continuous conflict since 2020, with fighting in Tigray, Oromia and Amhara.",
+    "link": "https://www.aljazeera.com/news/2026/5/29/a-visual-guide-to-ethiopias-ethnic-groups-and-conflict-areas?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/INTERACTIVE-Ethiopia-map-2026-1779794554.png?resize=1200%2C630",
+    "pubDate": "2026-05-29T09:18:30+00:00"
+  },
+  {
+    "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+    "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+    "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cd/live/13cf4080-5aeb-11f1-b8b0-e75ba6be4215.jpg",
+    "pubDate": "2026-05-29T09:17:35+00:00"
+  },
+  {
+    "title": "Strategy's STRC slips below $99 as Strive captures investor attention",
+    "description": "STRC has struggled to maintain its $100 target price, while Strategy's reduced cash reserves and dividend obligations are drawing increased investor attention.",
+    "link": "https://www.coindesk.com/markets/2026/05/29/strategy-s-strc-slips-below-usd99-as-strive-captures-investor-attention",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-29T09:10:49+00:00"
+  },
+  {
+    "title": "Trump’s Boat Strikes Have Failed to Curb Cocaine Flow to U.S., Experts Say",
+    "description": "Despite the rising body count off the South American coast, researchers say cocaine is as easy to get in many parts of the United States as it was before the strikes began.",
+    "link": "https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-29T09:00:43+00:00"
+  },
+  {
+    "title": "NATO chief says alliance ‘ready to defend every inch of Allied territory’ after Russian drone hits member state Romania",
+    "description": "Romania’s president said the collision demands a “firm, coordinated, and appropriate response.\"",
+    "link": "https://www.cnbc.com/2026/05/29/russian-drone-hits-apartment-block-in-nato-state-romania-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108313642-1780038502777-gettyimages-2278013167-AFP_B4D636Y.jpeg?v=1780038522&w=1920&h=1080",
+    "pubDate": "2026-05-29T08:59:53+00:00"
+  },
+  {
+    "title": "OKX Ventures, Korea Investment &amp; Securities to buy 19.6% Coinone stake for $106M",
+    "description": "OKX Ventures and KIS to invest $53 million each for a 19.6% stake in Coinone, deepening ties between traditional finance and crypto in South Korea’s tightly regulated market.",
+    "link": "https://cointelegraph.com/news/okx-ventures-korea-investment-securities-buy-196-stake-in-coinone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-sponsored-of-nexo.jpg",
+    "pubDate": "2026-05-29T08:31:00+00:00"
+  },
+  {
+    "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
+    "description": "The campaign targets crypto, DeFi, AI and security developers with fake tooling packages to steal wallets, SSH keys, GitHub tokens, cloud credentials and browser data.",
+    "link": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-05-29T08:19:42+00:00"
   },
   {
     "title": "Two charged after bystander fatally shot outside bar",
@@ -21,15 +238,8 @@
     "pubDate": "2026-05-29T08:13:57+00:00"
   },
   {
-    "title": "Russian Drone Hits Romanian Apartment Building, Officials Say",
-    "description": "NATO condemned “Russia’s recklessness” and confirmed that it was in touch with the Romanian authorities.",
-    "link": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-29T08:11:12+00:00"
-  },
-  {
     "title": "South Korea’s SK Hynix enters exclusive $1 trillion club",
-    "description": "Chip maker becomes second South Korean company in history to hit milestone.",
+    "description": "Chipmaker becomes second South Korean company in history to hit milestone.",
     "link": "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26112311738483-1-1780035486.jpg?resize=1920%2C1440",
     "pubDate": "2026-05-29T08:04:27+00:00"
@@ -42,74 +252,11 @@
     "pubDate": "2026-05-29T07:50:50+00:00"
   },
   {
-    "title": "Netherlands’ World Cup 2026 team preview: Players to watch, group, squad",
-    "description": "The Dutch were unbeaten across their qualifiers and have a outside chance of lifting the trophy for the first time.",
-    "link": "https://www.aljazeera.com/sports/2026/5/29/netherlands-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a181d8c-1779965324_1af25c-1779965966.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-05-29T07:48:59+00:00"
-  },
-  {
-    "title": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
-    "description": "Ireland's football match against Qatar was stalled by pro-Palestinian protests over upcoming games against Israel.",
-    "link": "https://www.aljazeera.com/sports/2026/5/29/israel-football-dispute-to-heat-up-further-from-ireland-qatar-protests?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-28T192131Z_650223558_UP1EM5S1HRUGM_RTRMADP_3_SOCCER-FRIENDLY-IRL-QAT-1780040265.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-29T07:39:09+00:00"
-  },
-  {
-    "title": "Russian drone hits apartment block in NATO state Romania; EU prepares fresh sanctions against Moscow",
-    "description": "Romania’s president said the collision demands a “firm, coordinated, and appropriate response.\"",
-    "link": "https://www.cnbc.com/2026/05/29/russian-drone-hits-apartment-block-in-nato-state-romania-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108313642-1780038502777-gettyimages-2278013167-AFP_B4D636Y.jpeg?v=1780038522&w=1920&h=1080",
-    "pubDate": "2026-05-29T07:27:29+00:00"
-  },
-  {
-    "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
-    "description": "Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts",
-    "link": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/02/2025-06-17T214313Z_508775542_RC2F4FAJV0RY_RTRMADP_3_G7-SUMMIT-1772132084.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-29T07:22:06+00:00"
-  },
-  {
-    "title": "Blue Origin rocket explodes on launch pad during test",
-    "description": "A rocket belonging to Jeff Bezos’ Blue Origin exploded during a test at the Florida launch pad Thursday night.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/blue-origin-rocket-explodes-on-launch-pad-during-test?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1780038758.jpg?resize=1920%2C1071&quality=80",
-    "pubDate": "2026-05-29T07:15:30+00:00"
-  },
-  {
-    "title": "A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.",
-    "description": "U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+    "title": "Natural Light. Soaring Ceilings. At Penn Station? That’s the Plan.",
+    "description": "A week after Amtrak selected a developer to remake the dreary rail hub, details of its rebirth are emerging. The cost is less clear.",
+    "link": "https://www.nytimes.com/2026/05/29/nyregion/nyc-penn-station-renovation.html",
     "thumbnail": "",
-    "pubDate": "2026-05-29T07:13:33+00:00"
-  },
-  {
-    "title": "Blue Origin Rocket Blows Up on Florida Launchpad During Test",
-    "description": "The rocket, built by the Jeff Bezos-owned space company, was to carry 48 satellites into space. Blue Origin reported on social media that “all personnel have been accounted for.”",
-    "link": "https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-29T07:09:56+00:00"
-  },
-  {
-    "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
-    "description": "US and Iran near a 60-day MoU aimed at reopening the Hormuz strait with talks slated on nuclear and other differences.",
-    "link": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260527__2278471519__v1__HighRes__PresidentTrumpMeetsWithHisCabinetAtTheWhiteH-1780019412.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-29T07:04:00+00:00"
-  },
-  {
-    "title": "At least six feared dead after bridge collapses in northern India",
-    "description": "At least six feared dead after bridge collapses in northern India",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/at-least-six-feared-dead-after-bridge-collapses-in-northern-india?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/Bridge-1780037450.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-29T06:51:02+00:00"
-  },
-  {
-    "title": "More pharmacies in England to prescribe medication from autumn",
-    "description": "The £340m deal will see five common conditions added to the list of things pharmacists can prescribe medication for from this autumn.",
-    "link": "https://www.bbc.com/news/articles/c2l2qk7ng89o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/821b/live/3d706220-5b2c-11f1-8b8c-6d33e1d5abb6.jpg",
-    "pubDate": "2026-05-29T06:49:54+00:00"
+    "pubDate": "2026-05-29T07:00:10+00:00"
   },
   {
     "title": "Blue Origin rocket explodes on launchpad during ground test",
@@ -117,27 +264,6 @@
     "link": "https://www.cnbc.com/2026/05/29/blue-origin-new-glenn-rocket-explosion-florida-test-nasa-artemis.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108313581-1780020482907-gettyimages-2272025550-mazzanti-notitle260422_npF5p.jpeg?v=1780020502&w=1920&h=1080",
     "pubDate": "2026-05-29T06:40:59+00:00"
-  },
-  {
-    "title": "Messi to captain Argentina at World Cup as Scaloni plays down injury fears",
-    "description": "Lionel Messi's World Cup role was thrown into doubt by injury, but Argentina quell fears by appointing him captain.",
-    "link": "https://www.aljazeera.com/sports/2026/5/29/messi-to-captain-argentina-at-world-cup-as-scaloni-plays-down-injury-fears?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-28T233008Z_405146173_RC2J8Y9HXXCK_RTRMADP_3_SOCCER-WORLDCUP-ARG-1780033196.jpg?resize=1920%2C1440",
-    "pubDate": "2026-05-29T06:40:27+00:00"
-  },
-  {
-    "title": "Police watchdog probes handcuffing of murder victim",
-    "description": "Henry Nowak, 18, was initially treated as a suspect by police despite suffering five stab wounds.",
-    "link": "https://www.bbc.com/news/articles/c70vy0kknj4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d1/live/e4164670-5b37-11f1-89a3-d1f559421220.jpg",
-    "pubDate": "2026-05-29T06:36:32+00:00"
-  },
-  {
-    "title": "Europe Is Edging Closer to a Trade War With China. Here’s Why.",
-    "description": "As cheap goods pour in, threatening the continent’s manufacturing sector, a search for solutions is becoming increasingly urgent.",
-    "link": "https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-29T06:14:17+00:00"
   },
   {
     "title": "OKX Ventures buys $53 million stake in Korea's Coinone exchange",
@@ -165,20 +291,6 @@
     "description": "Photonics is considered to be a more efficient alternative to the current process of transferring data using electricity, which could be crucial to the AI boom.",
     "link": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279129-1773774466063-gettyimages-2266555824-NVIDIA_GTC.jpeg?v=1774007143&w=1920&h=1080",
-    "pubDate": "2026-05-29T05:00:02+00:00"
-  },
-  {
-    "title": "I was at the exclusive launch of Ferrari's new EV that sent the stock tumbling. But there may be light at the end of the tunnel",
-    "description": "Is there a \"luce\" at the end of the tunnel for Ferrari's first electric vehicle?",
-    "link": "https://www.cnbc.com/2026/05/29/ferrari-luce-ev-launch-backlash-stock-drop.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108311751-1779780936959-FERRARI_LUCE_FRONT_3Q_V2_16X9_RGB_WEB_SOCIALS.jpg?v=1779781083&w=1920&h=1080",
-    "pubDate": "2026-05-29T05:00:02+00:00"
-  },
-  {
-    "title": "The ECB is in a bind over rate hikes — the private sector could be doing the bank's job for it",
-    "description": "Market expectations that the European Central Bank will hike interest rates this year have already contributed to tighter financial and lending conditions.",
-    "link": "https://www.cnbc.com/2026/05/29/the-ecb-is-debating-rate-hikes-but-the-private-sector-could-help-out.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108254052-1768890973736-gettyimages-2253332247-AFP_89BK4ZQ.jpeg?v=1768890986&w=1920&h=1080",
     "pubDate": "2026-05-29T05:00:02+00:00"
   },
   {
@@ -287,11 +399,11 @@
     "pubDate": "2026-05-29T03:44:40+00:00"
   },
   {
-    "title": "Moment Blue Origin rocket explodes during test in Florida",
-    "description": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
-    "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7498/live/7bfb5d50-5b23-11f1-b682-cf91850925ea.jpg",
-    "pubDate": "2026-05-29T03:02:48+00:00"
+    "title": "After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups",
+    "description": "Following through on threats, the Trump administration has designated Brazil’s two largest drug gangs as terrorist groups.",
+    "link": "https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-29T03:08:44+00:00"
   },
   {
     "title": "In Carroll Lawsuits Inquiry, Scrutiny Turns Toward Private Citizens Who Antagonized Trump",
@@ -306,13 +418,6 @@
     "link": "https://www.nytimes.com/2026/05/28/us/politics/e-jean-carroll-trump-lawsuits.html",
     "thumbnail": "",
     "pubDate": "2026-05-29T02:27:35+00:00"
-  },
-  {
-    "title": "Michael Dell courted Trump early. His company has reaped rewards",
-    "description": "The dynamic is emblematic of how business is seeking to sow favor with the president in his second term, and has departed from the norms of big business philanthropy.",
-    "link": "https://www.cnbc.com/2026/05/28/michael-dell-trump-accounts-dod.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108240221-1765399550241-gettyimages-2251234604-aw1a9293_3pjo8m65.jpeg?v=1765399669&w=1920&h=1080",
-    "pubDate": "2026-05-29T01:26:30+00:00"
   },
   {
     "title": "Buy $72K dip, or jump ship: What will Bitcoin bulls do?",
@@ -336,13 +441,6 @@
     "pubDate": "2026-05-29T00:18:24+00:00"
   },
   {
-    "title": "'I forgot what it feels like to be outside' - UK's first rooftop intensive care ward opens",
-    "description": "The outdoor ward, at King's College Hospital in London, will monitor how much it boosts the recovery of seriously ill patients.",
-    "link": "https://www.bbc.com/news/articles/cm2p1pzzmyeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5973/live/ff036cb0-5b28-11f1-8b8c-6d33e1d5abb6.jpg",
-    "pubDate": "2026-05-29T00:00:10+00:00"
-  },
-  {
     "title": "Are 'heat spikes' becoming more common?",
     "description": "The heatwave that has gripped much of England and Wales this week brought with it record May temperatures. But it has also been exceptional for how quickly it developed as Simon King explains.",
     "link": "https://www.bbc.com/weather/articles/clyp513ynv3o?at_medium=RSS&at_campaign=rss",
@@ -357,25 +455,11 @@
     "pubDate": "2026-05-28T23:40:01+00:00"
   },
   {
-    "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-    "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
-    "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cd/live/13cf4080-5aeb-11f1-b8b0-e75ba6be4215.jpg",
-    "pubDate": "2026-05-28T23:32:19+00:00"
-  },
-  {
     "title": "Epstein survivors lack faith in UK police investigating Andrew, says lawyer",
     "description": "A lawyer representing survivors says his clients lack confidence in the treatment they would receive in the UK.",
     "link": "https://www.bbc.com/news/articles/c8r8nxvzyljo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c703/live/1a4eac60-5ab5-11f1-8f60-593796f4e07d.jpg",
     "pubDate": "2026-05-28T23:09:05+00:00"
-  },
-  {
-    "title": "AI facial recognition to check age of asylum seekers from next year",
-    "description": "The Home Office says the tool will make it easier to identify adult migrants \"attempting to game the system\".",
-    "link": "https://www.bbc.com/news/articles/ce3pe36qe7ro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cdf/live/b79886d0-5aab-11f1-b277-cd187c78657d.jpg",
-    "pubDate": "2026-05-28T23:05:09+00:00"
   },
   {
     "title": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
@@ -392,25 +476,11 @@
     "pubDate": "2026-05-28T22:32:50+00:00"
   },
   {
-    "title": "Americans’ savings rate falls to lowest level since 2022 as inflation outpaces paychecks",
-    "description": "As inflation starts outpacing wages again, Americans have less money to put aside for emergencies and other savings goals.",
-    "link": "https://www.cnbc.com/2026/05/28/savings-inflation-americans-financial-stress.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108282154-1774359904298-gettyimages-2184552922-dsc00164.jpeg?v=1779982686&w=1920&h=1080",
-    "pubDate": "2026-05-28T22:08:50+00:00"
-  },
-  {
-    "title": "Prediction markets legal battles heat up in Minnesota, Rhode Island",
-    "description": "Kalshi sued Minnesota while the CFTC filed against Rhode Island as legal wrangling with state-level authorities seems likely headed to the US Supreme Court.",
-    "link": "https://cointelegraph.com/news/kalshi-cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction.jpg",
-    "pubDate": "2026-05-28T22:06:00+00:00"
-  },
-  {
-    "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
-    "description": "As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.",
-    "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3e122c11f3af7ae63f9dd46ee331ad25ceeee3fc-1796x1000.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-28T22:03:42+00:00"
+    "title": "Exxon warns oil inventories will hit dangerously low levels in weeks, forcing prices to shoot higher",
+    "description": "The price of physical Brent oil cargoes will spike to $150 to $160 per barrel once inventories hit all-time lows, Exxon executive Neil Chapman said.",
+    "link": "https://www.cnbc.com/2026/05/28/oil-inventory-exxon-strait-hormuz-iran-war.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108311257-17794642382026-05-22t153359z_987582334_rc2eela06k53_rtrmadp_0_usa-gasprices.jpeg?v=1780006527&w=1920&h=1080",
+    "pubDate": "2026-05-28T22:25:04+00:00"
   },
   {
     "title": "GTA 6 Boss Says High Review Scores Reflect Rockstar’s “Commitment To Quality”",
@@ -420,25 +490,18 @@
     "pubDate": "2026-05-28T22:01:26+00:00"
   },
   {
-    "title": "Costco says it saw 'record-breaking' gas volumes amid rising prices",
-    "description": "Costco saw \"recording-breaking volumes\" of gas sales and said rising fuel prices drove first-time members to its stations.",
-    "link": "https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108312873-1779919794702-gettyimages-2267767868-dsc2664_costco06_03212026.jpeg?v=1779919845&w=1920&h=1080",
-    "pubDate": "2026-05-28T21:38:39+00:00"
-  },
-  {
-    "title": "Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH",
-    "description": "The purchase pushed the Nasdaq-listed company ahead of Coinbase Global to become the fourth-largest public corporate holder of Ether, according to CoinGecko data.",
-    "link": "https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-why-peter-thiels-founders-fund-walked-away-from-an-ether-treasury-bet-1.jpg",
-    "pubDate": "2026-05-28T21:32:40+00:00"
-  },
-  {
     "title": "Muhammara",
     "description": "You’ll want to eat this smoky, sweet, and tangy red pepper–walnut dip with everything.",
     "link": "https://www.bonappetit.com/recipe/muhammara-recipe",
     "thumbnail": "https://assets.bonappetit.com/photos/5cad1cb59e173502696aeab9/master/pass/muhammara.jpg",
     "pubDate": "2026-05-28T21:32:18+00:00"
+  },
+  {
+    "title": "In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare",
+    "description": "The American blockade and Iran’s control of the Strait of Hormuz have created a stalemate that is neither peace nor raging conflict, with both sides attempting economic strangulation on the water.",
+    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-blockade-strait-hormuz.html",
+    "thumbnail": "",
+    "pubDate": "2026-05-28T21:12:22+00:00"
   },
   {
     "title": "Iran reportedly launches missiles as Trump mulls deal to pause war for two months",
@@ -451,22 +514,15 @@
     "title": "Leaked Persona 6 Design Docs Reveal Potential Protagonists",
     "description": "It's been a hot minute since we've heard anything from Atlus about Persona 6--or whatever it ends up being called--other than reassurances of, \"It's coming, guys, we swear!\" However, it seems now that fans who have been eagerly waiting for years might have a tiny little taste of what to expect when the upcoming RPG does get its full reveal. The leaks come in the form of screenshots that appear to have surfaced on Chinese forums, but may originally have come from Chinese social-media-sharing site RedNote, according to reposters on ResetEra. Among the images seen in the links are concept-art and graphic-design reference sheets of a blonde-haired character with a bowl cut, who is believed to be the game's protagonist. This character is pictured in another image staring wistfully out of a bus or train window in a rough sketch for either an animated sequence or promotional art. Another image shows a female character who has dark hair with red highlights at the tips next to the blonde-haired male. She also has a character sheet showing a variety of different expressions. Some fans are speculating that she may be an additional or selectable protagonist, while others think she might be the primary companion to the main character. There's also a screenshot of a list of file names that seem to be art assets, containing several potential character names in Japanese last-name-first order: Kujo Inko, Karaki Toma, Ogami Renji, Nishiura Akari, Engoku Hana, Sentaka Shino, Hiruma Yumi, and Satozaki Oguriri. There also appears to be a file for a mascot-type character (similar to Persona 4's Teddie and Persona 5's Morgana) named Nilfer. Finally, there's a concept drawing of a train station, which some online observers have said looks similar to the Sakuragicho station in Yokohama, Japan. So when will we be able to verify that this information is legit? 2026 is the Persona series' 30th anniversary, and Atlus has been promoting this fact with events across the globe. An announcement showcasing the first official P6 reveal would be a great way to cap off the celebrations. Of course, it's all speculation at this point, but if the leaks have any veracity to them, Persona fans can be comforted in knowing that at least development seems to be moving along. The Best RPGs To Play In 2026 View Images",
     "link": "https://www.gamespot.com/articles/leaked-persona-6-design-docs-reveal-potential-protagonists/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1585/15855271/4479954-bestrpgs2025(4).jpg?w=1024",
+    "thumbnail": "",
     "pubDate": "2026-05-28T20:17:07+00:00"
   },
   {
     "title": "Fortnite Is Giving Out A Bunch Of Free Stuff, But Only On Saturday",
     "description": "Fortnite is holding what Epic Games is calling a \"community day\" on Saturday, May 30, and that means there will be free cosmetics for everyone who logs in that day, more free stuff for anyone who earns a win in Battle Royale, and a bonus style for The Foundation (Reforged) for battle pass owners. There's a gameplay component to the event as well, as the community day will also add some interesting new one-day-only gameplay changes and our first teaser for the upcoming Chapter 7 Season 3. Free cosmetics for Fortnite community day Anyone who logs in to Fortnite between 9 AM ET on May 30 and 9 AM ET on May 31 will receive the Reflector weapon wrap and the Community Brella. The Reflector wrap is all silver and was added to the game files as part of the Silver Surfer's set in 2020, but it was never released. The Community Brella is an all-black umbrella glider that is very similar to the old One Shot John Wick umbrella, and it also comes with an additional style. And for those who have the battle pass, either by purchasing with V-Bucks or an active Fortnite Crew subscription, you'll also be awarded with the tie-wearing, office-ready variant of The Foundation (Reforged) when you log in. There's also another set of three items you can earn by winning a round of Battle Royale during the community day event: The Lemmie Axe pickaxe, the Space Blaster weapon wrap, and the Loons back bling. Like the Reflector wrap, these items were all originally added to the game files years ago but weren't released, and one of them is particularly interesting--The Loons back bling dates all the way back to 2019, and the skin it belongs to, Brilliant Bomber, still hasn't been released. Lastly, we've got a set of Twitch drops you can earn by watching Fortnite content creators on Twitch. These items are the accessories from the Metal Menace item shop bundle. If you get these drops, you'll be able to buy the bundle, with the Skulldroid skin, for 200 V-Bucks next time it rotates into the shop. Fortnite community day gameplay changes Battle Royale will be full of new wrinkles and loot for the community day event, with golden fireworks guns, finger guns, and supercharged pizza joining the loot pool, and the map being filled with blue chests. And Fortnite will hold a special new Power Hour in Battle Royale from 12:30 PM PT to 1:30 PM PT on May 30, with all players starting each match with a self-res, a Cube Rifle, and an Infinity Blade. The Power Hour will also start the final stretch of the season with some sort of in-game teaser for the Season 2 finale event next Friday. That teaser should also give us our first meaningful clues about Chapter 7 Season 3, which starts just a week after the community day event on June 6.",
     "link": "https://www.gamespot.com/articles/fortnite-is-giving-out-a-bunch-of-free-stuff-but-only-on-saturday/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/05/HJLEQDqWAAA-ko5.jpg?w=1024",
+    "thumbnail": "",
     "pubDate": "2026-05-28T20:04:20+00:00"
-  },
-  {
-    "title": "Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers",
-    "description": "FalconX has hired Cantor and other bankers to advise on a potential IPO and confidentially filed draft paperwork with the SEC, though the listing is not expected until later this year amid volatile market conditions.",
-    "link": "https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/38aee79cab59a25bddb2ecd5cdc315881254baff-3024x2113.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-28T19:53:38+00:00"
   },
   {
     "title": "Xbox Game Pass Price Cut Is Working, CEO Says",
@@ -474,27 +530,6 @@
     "link": "https://www.gamespot.com/articles/xbox-game-pass-price-cut-is-working-ceo-says/",
     "thumbnail": "",
     "pubDate": "2026-05-28T19:20:28+00:00"
-  },
-  {
-    "title": "Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war",
-    "description": "In this week's edition of The Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.",
-    "link": "https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-28T19:09:36+00:00"
-  },
-  {
-    "title": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
-    "description": "USAT's market cap jumped above $140 million in April, though it remains well behind Circle's USDC, PayPal's PYUSD and Ripple's RLUSD tokens.",
-    "link": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-28T18:53:40+00:00"
-  },
-  {
-    "title": "Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction",
-    "description": "Bitwise says investor demand for Hyperliquid exposure is surging as new HYPE ETFs launch.",
-    "link": "https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a8f6d3f36a14bc7b5159a2024f23b158f686e063-1382x754.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-28T18:34:25+00:00"
   },
   {
     "title": "007 First Light Put Up Massive Launch-Day Sales Numbers",
@@ -514,22 +549,15 @@
     "title": "Call Of Duty: Modern Warfare 4 Has A “Loyalty” Discount For The Vault Edition, Here’s How To Get It",
     "description": "As part of the Call of Duty: Modern Warfare 4 announcement today, Activision unveiled what it called a \"Loyalty\" discount that will allow certain people to get the game's $100 Vault Edition for 10% off. That's not a whole lot, but it's enough to offset the tax you'd pay, and in a world where seemingly everything is getting more expensive, it's a notable discount if you want the more expensive version of the game. The discount does not apply to the game's $70 base edition. There are a couple ways to get 10% off Modern Warfare 4's Vault Edition with this program. First, Activision is offering 10% off for anyone who owned and played a Call of Duty game digitally or physically going back to 2019's Call of Duty: Modern Warfare. The full list of qualifying titles is below--note that Call of Duty: Warzone is not included because it's free, nor are any Call of Duty games for mobile. https://www.youtube.com/watch?v=Aj1RQW7phc0 Another way to score the discount on the Vault Edition is to have played one of the qualifying games on Xbox Game Pass and have an active subscription to Game Pass Ultimate, Game Pass Premium, or PC Game Pass. You also qualify for the discount if you claimed a qualifying title from PlayStation Plus. Something further to note is that the 10% discount only applies to preorders and only within the same platform and on the same account. The discount does not apply to the $30 Vault Edition upgrade offering. If you meet all of those criteria, you should see the 10% discount on your preferred digital store. Here is an image of what it should look like: Qualifying Call of Duty titles for the Loyalty discount Call of Duty: Modern Warfare (2019) Call of Duty: Modern Warfare 2 Campaign Remastered (2020) Call of Duty: Black Ops Cold War Call of Duty: Vanguard Call of Duty: Modern Warfare II (2022) Call of Duty: Modern Warfare III (2023) Call of Duty: Black Ops 6 Call of Duty: Black Ops 7 Modern Warfare 4's Vault Edition includes the base game, along with a series of extras, including weapons, cosmetics, and Season 1's BlackCell bundle, among other things. Additionally, people who preorder any edition of Modern Warfare 4 get early access to the open beta and the Hunter Killer operator skin that can be used immediately in Black Ops 7 and Warzone. Modern Warfare 4 launches on October 23 for PS5, Xbox Series X|S, and PC. It's also coming to the Nintendo Switch 2 the same day, and that's notable because the Call of Duty series has been absent from Nintendo's platforms since 2013.",
     "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-has-a-loyalty-discount-for-the-vault-edition-heres-how-to-get-it/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-1.17.21-PM.png?w=1024",
+    "thumbnail": "",
     "pubDate": "2026-05-28T17:47:48+00:00"
   },
   {
     "title": "The Witcher 3’s Incredible Sales Streak Still Hasn’t Slowed Down",
     "description": "The Witcher 3: Wild Hunt hasn't just been one of CD Projekt's most critically acclaimed games in the years since it was first released, but also a consistent best-seller. The company has revealed that the game has reached a new sales milestone, selling 65 million units globally. To put this into perspective, that's another 5 million sales in just one year. While this figure is impressive, it won't budge The Witcher 3 out of its current eighth-place position on the list of best-selling video games. Terraria is still in seventh place with 70 million lifetime sales to date, and it's probably a safe bet that Geralt's adventure won't be unseating Tetris (520 million lifetime sales) or Grand Theft Auto V (230 million lifetime sales). Nevertheless, CDPR says that the game has built a massive network of players since its 2015 launch, and it expects to see more people return to the game when it releases the new expansion--don't call it DLC--Songs of the Past in 2027. Co-developed with Fool's Theory, the new expansion will continue the tale of Geralt. \"The return of Geralt after more than one decade will be an excellent adventure, and a trip down memory lane, before we pass the baton to Ciri in the upcoming The Witcher 4,\" CDPR Joint-CEO Michał Nowakowski said in a statement. The Witcher 3 built up those sales over a long period of time, with re-releases on multiple platforms and big discounts, not to mention the influence of The Witcher on Netflix. The game is usually available at a bargain price on sites like GOG whenever there's an annual sale, and with all of those factors added up, it's no wonder that it reached such high sales numbers. CDPR also provided an updated look at how its development teams are split across several projects. Development teams have increased slightly for games like The Witcher 4 and Cyberpunk 2, with the only exceptions being Project Hadar's team shrinking by two people, and the unit dedicated to \"other\" projects at CDPR hasn't changed at all. As of April 30, 2026, here's what those numbers look like: Several CDPR teams have grown. The Witcher 4: 513 people Cyberpunk 2: 163 people Project Sirius (The Witcher multiplayer game): 83 people Project Hadar (original IP): 24 people Shared services: 173 people Other: 19 people Several other projects are also in development currently. The first Witcher game is also getting a remake, and the first look at the second season of the Cyberpunk: Edgerunners anime series will be shown off at Anime Expo 2026 on July 3. Best-Selling Games Of Each Year Since 1998 In The US View Images",
     "link": "https://www.gamespot.com/articles/the-witcher-3s-incredible-sales-streak-still-hasnt-slowed-down/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/05/CDPR-Development.jpg?w=1024",
+    "thumbnail": "",
     "pubDate": "2026-05-28T17:36:05+00:00"
-  },
-  {
-    "title": "Hyperliquid's pre-IPO SpaceX contracts suffer 45% flash crash, liquidating $1.5 million",
-    "description": "A massive selloff in a SpaceX crypto token wiped out hundreds of retail traders in 30 minutes because the market lacked enough cash to absorb the shock.",
-    "link": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/204e591c0a00e3f9e2afae903d1a72fab434d86e-1782x1186.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-05-28T17:28:57+00:00"
   },
   {
     "title": "47-year-old high-end steak and seafood chain closes 80 locations",
@@ -542,14 +570,14 @@
     "title": "Call Of Duty’s Prestige System Is Getting A Big Change In Modern Warfare 4",
     "description": "Activision officially revealed Modern Warfare 4 today, and we learned several new details about what to expect for a new year of Call of Duty, including a promising new change for how players progress in multiplayer. Modern Warfare 4 arrives on October 23, featuring campaign, multiplayer, and the return of DMZ. While we don't have the full details of how progression will work, or if it will be available across all modes, we did learn that Modern Warfare 4 will give players the choice of two separate progression paths: classic or regular. Call of Duty's classic prestige system is a popular choice in the community, which delivers the traditional reset experience, relocking a player's create-a-class progression in exchange for increased XP earn rates and access to exclusive rewards. However, not everyone wants to deal with the hassle of a reset and lose all their progress. The option to choose Modern Warfare 4's \"regular\" path will still allow players to restart from level one without resetting their create-a-class content and losing everything. This path gives a flexible way to reward continued progression and offers its own set of prestige rewards and progression milestones. Additionally, Modern Warfare 4's big reveal confirms there will be open-beta early access prior to release. It's also worth noting that Call of Duty is leaving the old console generation behind, and Warzone will no longer be playable on PS4 and Xbox One after Season 1 of Modern Warfare 4. The full version of Call of Duty: Modern Warfare 4 will be available for Xbox Series X|S, PlayStation 5, Switch 2, and PC. Multiplayer launches with 12 core multiplayer maps for standard-size matches, and some additional modes are planned for 3v3 and 10v10 experiences as well. The campaign includes a mix of legacy characters like Captain Price and Ghost alongside brand-new characters fighting in a Korean war.",
     "link": "https://www.gamespot.com/articles/call-of-dutys-prestige-system-is-getting-a-big-change-in-modern-warfare-4/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/05/MW4-REVEAL-014-1.jpg?w=1024",
+    "thumbnail": "",
     "pubDate": "2026-05-28T16:23:03+00:00"
   },
   {
     "title": "Call of Duty: Modern Warfare 4 Fixes One Of Black Ops 7’s Biggest Problems",
     "description": "One of the big gripes around last year's Call of Duty: Black Ops 7 was its always-online requirement for its campaign. Progress was often tedious--especially if you had a spotty online connection--and you couldn't even pause the game without risking death and a checkpoint restart. Fortunately, Call of Duty: Modern Warfare 4 looks set to rectify that point of content, as its single-player campaign will be playable offline. As confirmed by Insider Gaming, players will have the option to untether themselves from the internet if they want to play through the single-player campaign, which is particularly good news for anyone looking to experience the game through a mobile gaming PC like the Steam Deck or the Nintendo Switch 2 edition of Modern Warfare 4. Maintaining a stable connection on those platforms isn't always possible, so the removal of the always-online requirement means that users will have one less hurdle to worry about. Call of Duty: Black Ops 7 players can attest to just how annoying this feature was. Originally, the idea for the game's campaign was to promote co-op play over solo missions, but this also meant that players working through a corridor of bullet-sponge enemies could be booted back to the previous checkpoint if their internet connection dropped. Open channels also meant that fellow players could talk over cutscenes, an issue that wasn't too bad if you were playing with friends. But if matchmaking paired you with someone unaware of just how bad their background noise was? It was absolute hell on the ears. https://www.youtube.com/watch?v=Aj1RQW7phc0&amp;pp=ygUIZ2FtZXNwb3Q%3D Call of Duty: Modern Warfare 4 launches on October 23 for PC, PS5, Xbox Series X|S, and Switch 2. Developer Infinity Ward has described the campaign as a dark and dangerous tale, partly told from the perspective of a South Korean soldier as his country faces a full-scale invasion by North Korea. The game will also feature Call of Duty's signature action, without you needing to worry about a car chase being derailed by a bad internet connection. Like previous years, an open beta for the game will kick off ahead of its launch--with more details on that to be revealed soon--and Modern Warfare 2's DMZ mode will be making a return. Best Call Of Duty Games, Ranked View Images",
     "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-fixes-one-of-black-ops-7s-biggest-problems/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1585/15855271/4215938-codthumb.jpg?w=1024",
+    "thumbnail": "",
     "pubDate": "2026-05-28T16:12:42+00:00"
   },
   {
@@ -560,20 +588,6 @@
     "pubDate": "2026-05-28T14:49:58+00:00"
   },
   {
-    "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
-    "description": "The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and shared beliefs with Argentina’s right-wing leader.",
-    "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-28T12:22:29+00:00"
-  },
-  {
-    "title": "More workers are raiding their 401(k)s as average balances fall, Fidelity says",
-    "description": "Retirement account balances sank at the start of 2026 amid market swings, according to Fidelity. At the same time, more savers tapped their accounts for cash.",
-    "link": "https://www.cnbc.com/2026/05/28/fidelity-average-401k-balances-q1-2026.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108130604-1744358956479-gettyimages-2205298490-POWELL_FOMC_NYSE.jpeg?v=1776359544&w=1920&h=1080",
-    "pubDate": "2026-05-28T11:05:02+00:00"
-  },
-  {
     "title": "Spicy Cumin Tofu",
     "description": "In this vegetarian stir-fry, crumbling tofu dramatically increases its surface area, all the better for absorbing heady spices.",
     "link": "https://www.bonappetit.com/recipe/spicy-cumin-tofu",
@@ -581,11 +595,39 @@
     "pubDate": "2026-05-28T10:00:00+00:00"
   },
   {
-    "title": "Not Every Language Has Spelling Bees. Here’s Why English Is Perfect for Them.",
-    "description": "English’s hybrid history, silent letters and overcomplicated rules are what make the competition fierce.",
-    "link": "https://www.nytimes.com/2026/05/28/magazine/spelling-bee-scripps-english-language.html",
-    "thumbnail": "",
-    "pubDate": "2026-05-28T09:01:38+00:00"
+    "title": "VOO Is About to Become the First $1 Trillion ETF",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/voo-become-first-1-trillion-001554357.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Sngc7_8ZUrO_rx2Pv5BPQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/indexuniverse.com/0f1d8df2798302e594c9fc3bd602ec16",
+    "pubDate": "2026-05-28T00:15:54+00:00"
+  },
+  {
+    "title": "HP Inc. Q2 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hp-inc-q2-2026-earnings-001308935.html",
+    "thumbnail": "https://s.yimg.com/os/en/moby_896/40c4061e6c301e907fad27abebf98341",
+    "pubDate": "2026-05-28T00:13:08+00:00"
+  },
+  {
+    "title": "U.S. Scores Major Rare Earth Win With Greenland Deposit Deal",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/u-scores-major-rare-earth-000100726.html",
+    "thumbnail": "https://s.yimg.com/os/en/oilprice.com/88c0cab43058ed418b8d9d3c9e3e1b65",
+    "pubDate": "2026-05-28T00:01:00+00:00"
+  },
+  {
+    "title": "Workday Stock Outlook: Is Wall Street Bullish or Bearish?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/workday-stock-outlook-wall-street-235032723.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/1Qd09nhhGxg3uSv6aa6mbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/barchart_com_477/a97f44c821a35005301ea0ce14785a26",
+    "pubDate": "2026-05-27T23:50:32+00:00"
+  },
+  {
+    "title": "Phreesia (PHR) Q1 2027 Earnings Transcript",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/phreesia-phr-q1-2027-earnings-235019839.html",
+    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+    "pubDate": "2026-05-27T23:50:19+00:00"
   },
   {
     "title": "Some of Vermont’s Best Farm-to-Table Dining Can Be Found at This 8-Room Hotel",
@@ -595,20 +637,6 @@
     "pubDate": "2026-05-27T21:00:00+00:00"
   },
   {
-    "title": "Chipmaker Marvell Posts In-Line Q1, Guides Above Views On AI Strength",
-    "description": "",
-    "link": "https://www.investors.com/news/technology/marvell-stock-mrvl-fiscal-q1-2027-earnings/?src=A00220&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-05-27T20:58:16+00:00"
-  },
-  {
-    "title": "Co-Diagnostics (CODX) Q4 2025 Earnings Transcript",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/co-diagnostics-codx-q4-2025-205247170.html",
-    "thumbnail": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-    "pubDate": "2026-05-27T20:52:47+00:00"
-  },
-  {
     "title": "9 Types of Melons to Try This Summer",
     "description": "Like Crenshaw, Canary, and Christmas melon.",
     "link": "https://www.bonappetit.com/story/types-of-melons-article",
@@ -616,53 +644,11 @@
     "pubDate": "2026-05-27T20:52:28+00:00"
   },
   {
-    "title": "OpenRouter, a one-stop shop for AI with 400+ models, has officially hit unicorn status with a $1.3 billion valuation",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/openrouter-one-stop-shop-ai-204500816.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/5R6I0Chi1vYNfOwzEbHyjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/1664f8954bea0fc98f25089e49e19076",
-    "pubDate": "2026-05-27T20:45:00+00:00"
-  },
-  {
-    "title": "Abercrombie &amp; Fitch Co. Q1 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-co-q1-2026-204325981.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/5f21b4cb7ed3737c8f6043cbe6e340f4",
-    "pubDate": "2026-05-27T20:43:25+00:00"
-  },
-  {
-    "title": "Your AI Agents Will Trade for You on Robinhood",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-agents-trade-robinhood-204302012.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/7e64984d51483cd25a8b32c9c425e8cd",
-    "pubDate": "2026-05-27T20:43:02+00:00"
-  },
-  {
     "title": "Combined or separate finances in marriage: Which option makes sense for you?",
     "description": "",
     "link": "https://finance.yahoo.com/personal-finance/banking/article/combined-or-separate-finances-in-marriage-203904676.html",
     "thumbnail": "https://s.yimg.com/ny/api/res/1.2/5OtYfTI3qPGBiMiIR8M3Ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/75ac86b0-fe38-11f0-bfef-f55be5874d00",
     "pubDate": "2026-05-27T20:39:04+00:00"
-  },
-  {
-    "title": "VIG vs SCHD: Which Dividend ETF Wins in 2026?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/vig-vs-schd-dividend-etf-203719438.html",
-    "thumbnail": "https://s.yimg.com/os/en/indexuniverse.com/734154d10bb652b6e31303d2ab9572e7",
-    "pubDate": "2026-05-27T20:37:19+00:00"
-  },
-  {
-    "title": "Synopsys raises annual forecast on demand for AI chip design software",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/synopsys-raises-annual-forecast-demand-203551569.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/931177e7aff9987af4bc9b2d6f5acbee",
-    "pubDate": "2026-05-27T20:35:51+00:00"
-  },
-  {
-    "title": "Stocks Settle Mixed on Conflicting US-Iran Signals",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mixed-conflicting-us-203536144.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/AiOvmBiEAFtvN40lsruYnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/bc1ca70c2b48d920c5437c60396a6beb",
-    "pubDate": "2026-05-27T20:35:36+00:00"
   },
   {
     "title": "Blouge Is Our Summer Wine Crush",
@@ -691,12 +677,5 @@
     "link": "https://www.bonappetit.com/story/best-countertop-ice-maker",
     "thumbnail": "https://assets.bonappetit.com/photos/68911a41d715c1871aba4eb1/master/pass/8.4_BA_Lede-for-BA's-best-countertop-ice-maker%20(1).jpg",
     "pubDate": "2026-05-27T17:30:41+00:00"
-  },
-  {
-    "title": "I Tested 31 Toasters to Find the Four Best (2026)",
-    "description": "These toasters passed every test for golden brown perfection every time.",
-    "link": "https://www.bonappetit.com/story/best-toasters",
-    "thumbnail": "https://assets.bonappetit.com/photos/672253c074283964f8bb55c4/master/pass/best-toasters_LEDE_V2_102324_2305_VOG_Badge_final.jpg",
-    "pubDate": "2026-05-27T16:49:27+00:00"
   }
 ]
