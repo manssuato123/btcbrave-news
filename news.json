@@ -1,31 +1,535 @@
 [
   {
-    "title": "Stocks Sink and Oil Jumps After Wave of Strikes Across Middle East",
-    "description": "The attacks, which strained a two-month cease-fire between Iran and the United States, were the latest jolt to energy markets.",
-    "link": "https://www.nytimes.com/2026/06/10/business/oil-stocks-gas-prices-iran.html",
+    "title": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs",
+    "description": "Palantir CEO Alex Karp says AI will drive the most important political decisions in the U.S. and shouldn't be decided by party lines.",
+    "link": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108319546-1781102137226-Karp4.jpg?v=1781102197&w=1920&h=1080",
+    "pubDate": "2026-06-10T15:51:39+00:00"
+  },
+  {
+    "title": "Trump doubles down on Pulte for DNI, calls for short-term extension of foreign surveillance law",
+    "description": "Unless Congress acts, a key provision of the Foreign Intelligence Surveillance Act will expire at the end of this week.",
+    "link": "https://www.cnbc.com/2026/06/10/trump-pulte-fisa-extension.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108250042-1767891900752-Bill5.jpg?v=1781106740&w=1920&h=1080",
+    "pubDate": "2026-06-10T15:48:45+00:00"
+  },
+  {
+    "title": "PlayStation Plus Extra/Premium Games For June 2026 Revealed",
+    "description": "Sony has revealed the latest games coming to the Game Catalog for PlayStation Plus Extra and Premium subscribers in May. All of these games will be available starting June 16: Final Fantasy 16 Sonic x Shadow: Generations Kingdom Come: Deliverance Life is Strange: Double Exposure Farming Simulator 25 Blades of Fire Black Desert Gitaroo Man This story is developing",
+    "link": "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-june-2026-revealed/",
     "thumbnail": "",
-    "pubDate": "2026-06-10T11:52:30+00:00"
+    "pubDate": "2026-06-10T15:48:12+00:00"
+  },
+  {
+    "title": "SpaceX primed for double-digit pop on first day, if 'perps' trading is any guide",
+    "description": "Crypto traders are currently pricing the SpaceX pre-IPO perpetual future on Hyperliquid at $162, about 20% above the company's fixed IPO share price of $135.",
+    "link": "https://www.cnbc.com/2026/06/10/spacex-ipo-primed-for-double-digit-pop-on-first-day-perpetual-futures.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310148-1779310407448-gettyimages-2270726829-SPACEX_IPO.jpeg?v=1781106363&w=1920&h=1080",
+    "pubDate": "2026-06-10T15:48:01+00:00"
+  },
+  {
+    "title": "US diplomat found dead in Myanmar, Thai woman in custody",
+    "description": "US State Department confirms the fatality, but refuses to provide more information about the person's death in Yangon.",
+    "link": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a29759cec165-1781101981.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-10T15:41:08+00:00"
+  },
+  {
+    "title": "Jim Cramer Says He Is Not Changing His “Own NVIDIA, Don’t Trade It” View",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-not-changing-153910392.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/A6JtnEC2cUt1EiDqTFKNWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec",
+    "pubDate": "2026-06-10T15:39:10+00:00"
+  },
+  {
+    "title": "Jim Cramer Says He “Cannot Recommend the Stock of Tractor Supply Until I know More”",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-cannot-recommend-153909835.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/VA4ddKF5m00xzeH.CYbDwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/insidermonkey.com/6bb1d8eb85b54c6b741ba52e7feefdcd",
+    "pubDate": "2026-06-10T15:39:09+00:00"
+  },
+  {
+    "title": "Jim Cramer on Cboe Global: “It Suddenly Became a Very Ugly Chart”",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cboe-global-suddenly-153907206.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/2mWx2FJR9eEBT.wywumkpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/293138d34069d99e680c827f55215206",
+    "pubDate": "2026-06-10T15:39:07+00:00"
+  },
+  {
+    "title": "Jim Cramer on Galaxy Digital’s CEO: “Mike Is a Very Smart Guy”",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-galaxy-digital-ceo-153905894.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/S6IYH0WM_poYQo18GZqusg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzY-/https://media.zenfs.com/en/insidermonkey.com/5e79bdc70d115cc1659e1911392f1be1",
+    "pubDate": "2026-06-10T15:39:05+00:00"
+  },
+  {
+    "title": "Jim Cramer Recommends IBM Over Xanadu Quantum",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-recommends-ibm-over-153904634.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/uuVRIqSpOAHai6uIpKXYHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/86b6f1eab4d4c0ffbf065f3a834e0a1b",
+    "pubDate": "2026-06-10T15:39:04+00:00"
+  },
+  {
+    "title": "Jim Cramer on Home Depot: “I Think That This Is a Good Level”",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-think-153902284.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/L7FjHwsnqxhjS.XqJvStMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAw/https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be",
+    "pubDate": "2026-06-10T15:39:02+00:00"
+  },
+  {
+    "title": "Jim Cramer on Costco: “I Think That You Buy Some Here”",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-costco-think-buy-153901851.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/cZ86CCW1NlrGILfBHR7vWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/e0499335d74348b68e5dd2bebcc122f8",
+    "pubDate": "2026-06-10T15:39:01+00:00"
+  },
+  {
+    "title": "Jim Cramer Says Jim Conroy Is “Doing an Incredible Job at Ross Stores”",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-jim-conroy-153859390.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/s_faR1T8HpMqtBNpUyr0pA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2",
+    "pubDate": "2026-06-10T15:38:59+00:00"
+  },
+  {
+    "title": "Bill Gates appears before Congress to testify over Epstein files",
+    "description": "Microsoft founder Bill Gates appeared before Congress to testify over Epstein files",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/bill-gates-appears-before-congress-to-testify-over-epstein-files?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/WD-clean-1781105966.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-10T15:38:38+00:00"
+  },
+  {
+    "title": "Avatar: Fire and Ash streaming release announced for Disney Plus",
+    "description": "The third entry in James Cameron's sci-fi series is coming to Disney Plus a bit ahead of schedule.",
+    "link": "https://www.polygon.com/avatar-fire-and-ash-streaming-date-disney-plus/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/avatar_fire_ash_trailer.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T15:36:16+00:00"
+  },
+  {
+    "title": "Bill Gates tells House panel 'I should have never met' with Jeffrey Epstein",
+    "description": "Gates reportedly prepared for his testimony with the help of Jake Greenberg, who previously was the Oversight committee's chief investigations counsel.",
+    "link": "https://www.cnbc.com/2026/06/10/bill-gates-jeffrey-epstein-house-oversight-interview.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108319473-1781096230609-108319473-1781096167595-gettyimages-2280230529-AFP_B6LL8EB.jpg?v=1781096239&w=1920&h=1080",
+    "pubDate": "2026-06-10T15:34:31+00:00"
+  },
+  {
+    "title": "Sanctions on settlers not enough: Target Israeli gov’t, say campaigners",
+    "description": "Campaigners argue that sanctions reflect a need to manage public anger rather than a genuine shift in state policy.",
+    "link": "https://www.aljazeera.com/news/2026/6/10/sanctions-on-settlers-not-enough-target-israeli-govt-say-campaigners?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2024/06/AFP__20221026__32M84FX__v1__HighRes__IsraelVoteCampaign-1718629643.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-10T15:30:42+00:00"
+  },
+  {
+    "title": "Here's the inflation breakdown for May 2026 — in one chart",
+    "description": "Inflation jumped to a three-year high in May as the Iran war continued to fuel higher energy prices.",
+    "link": "https://www.cnbc.com/2026/06/10/heres-the-inflation-breakdown-for-may-2026-in-one-chart.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108313213-1779979125669-gettyimages-2276955512-MEMORIAL_DAY_TRAVEL.jpeg?v=1781102401&w=1920&h=1080",
+    "pubDate": "2026-06-10T15:29:35+00:00"
+  },
+  {
+    "title": "$80 Games Are Already Here",
+    "description": "While many are waiting to see if Rockstar Games decides to price GTA 6 at $80 or more, the video game market already has games at that price point, they've just gone more under the radar. Two more have been announced just this month but may have been missed amid the Summer Game Fest craze. Back in June 2025, Nintendo was the first major company to ask $10 more than the standard $70 rate with Mario Kart World. It was included with a $500 bundle that also included a console, so the effective price of the game was lower, but it was $80 for anyone who bought the game alone. Now that Nintendo discontinued that bundle, everyone has to pay $80 for Mario Kart World. Nintendo said it charged $80 for the game because it has so much value. Former PlayStation boss Shuhei Yoshida defended Nintendo's decision, saying people could not reasonably expect prices to stay the same despite rising development costs and larger scopes. Mario Kart World.The $80 price for Mario Kart World is for both the digital and physical editions. In March this year, Nintendo announced that it would begin a new pricing strategy whereby digital and physical games would cost different prices, beginning with Yoshi and the Mysterious Book in May. That game cost $60 digitally and $70 physically. Explaining the price differences, Nintendo said this reflects the \"different costs associated with producing and distributing each format,\" and it offers players choice, the company said. Nintendo also reminded everyone that individual retailers set their own prices--Walmart, for example, discounted the physical versions of Nintendo games already to match the digital prices. More $80 games So far in June, we've learned about two more games that will cost $80 when they release, and they're both also Switch 2 titles. Elden Ring for Switch 2 will be $80 when it launches in August with its Tarnished Edition physically and with a Game-Key Card; this is a physical cartridge with a download code. The Tarnished Edition includes the base game, the Shadow of the Erdtree expansion, four new armor sets, two new starting classes, and other digital items. The new Fire Emblem game revealed during the Nintendo Direct will also be $80 for its physical edition (though we don't know yet if it's a Game-Key Card). The digital edition, meanwhile, costs $70 as part of Nintendo's new pricing strategy. \"They will pay\" Former Nintendo PR manager Kit Ellis said Nintendo is charging $80 for the game because it can. \"Nintendo knows fans of that series are as die-hard as they come; they want the game physical and they will pay the premium.\" Ellis said he expects 2027's Xenoblade Genesis to also cost $80 for the same reason. What comes next It is not a stretch to believe that other publishers will start charging $80 or more for new releases. After all, there is already data that says people are ready and willing to pay $80 for games. Analyst Rhys Elliott of Alinea Analytics said \"the floodgates are now open.” He expects every publisher in video games that can raise prices to do so. Microsoft, for its part, said in 2025 that it would begin charging $80 for its big new games in 2025, but the company canceled those plans and has never charged more than $70 for a big new release's standard edition. Sony, meanwhile, is holding steady at $70 as well for major new releases. A Bank of America stock analyst recently said Rockstar should charge $80 for GTA 6 to help convince the industry at large to raise prices as well. GTA 6.Rockstar owner Take-Two was among the first to hike prices from $60 to $70, with the company pricing NBA 2K21 at $70 back in 2020, citing development budgets that have increased by as much as 300% in the past 10 years. The company later said it saw “no pushback” to the new $70 price being the new price for major releases at Take-Two and many other publishers. Take-Two boss Strauss Zelnick said major new releases have actually come down in price over the years when you consider how inflation has affected pretty much everything else you buy these days. The $60 in 2013 dollars that GTA 5 cost at launch is now more than $85 in 2026 dollars, for example. Games have held steady in the $60-$70 range for 10 years, and that “doesn’t make a whole lot of sense,” Zelnick said, with many theorizing that what Zelnick meant here was that GTA 6 could be priced higher. That would not be surprising, but some believe it won't go as high as $100 because Rockstar is keen to funnel people into the game to push them to whatever the developer has in store for the next evolution of GTA Online that is surely coming. Experts have said games not going up in price is causing major issues for the AAA game market. No significant increases help explain why publishers push DLC and microtransactions so much to help cover the costs of ballooning budgets, according to experts and industry veterans. Things like deluxe editions of games, meanwhile, can sell for $80 or more, and the included items--like extra skins and digital weapons--are basically free to develop. Publishers could also look to product placement to help manage costs, and that's a future people generally do not want to see. Prices should have gone up already Former PlayStation executive Shawn Layden said in 2025 that the price of new games should have gone up with every new console generation for the past 20 years. That largely did not happen, and now the industry is worse off for it, he said. \"I think it's because everyone's afraid,\" he told GI.biz. \"No one wants to be the first one to raise the price, because you're afraid to lose traffic. So what you do is you just end up eating into your operating income, your profit margin.\" \"There were more sports cars in the parking lot in the PS1 era than there were in the PS4 era, because if you're selling 20 million units at $60 for something that only cost you $10 million to make, that's different than selling 20 million units at $60 for something that cost you $160 million to make.\" If more companies raise prices to $80 or more for new games, that doesn't mean developers will stop hawking things like microtransactions, DLC, and battle passes--these efforts will likely continue in concert with price hikes. In life, products and services across all categories tend to get more expensive over time, and there is no reason to believe games would be any different. In fact, the US Bureau of Labor and Statistics just announced today, June 10, that inflation in May rose to 4.2%, the highest level in three years. It was up from 3.8% in April, and it's the third month in the row that the Consumer Price Index has gone up. The ongoing increases to inflation are stoking the theories that the US Federal Reserve will raise interest rates in a bid to slow spending and bring down inflation. Inflation is going up, in part, due to the ongoing war in Iran that has sent oil and gas prices soaring. Beyond the price of games, the price of gaming hardware continues to go up and up, due in part to the global macroeconomic environment. Microsoft and Sony have already raised console prices, and Nintendo will follow next with a Switch 2 price hike in September. Just recently, Xbox CEO Asha Sharma said Microsoft will need to come up \"radically different\" business models to help mitigate rising hardware prices against the backdrop of Project Helix. “We’ve reached a point where it will be hard to imagine that mass audiences can afford 1000s of dollars to spend on a console generation. We'll see radically different business models that we never expected start to come into orbit later this year,\" she said, without elaborating further. No one likes to pay more, but increasing costs are easier to stomach when people are getting paid more to offset, or mitigate, the increased costs of things they need and want. But that isn't always the case, either. In fact, the federal minimum wage in the US is still $7.25/hour, though dozens of states have their own minimum wages that are significantly higher. Beyond all of this, the upcoming SpaceX IPO and the millionaires to be minted out of it is only furthering the growing wealth-disparity issue in America. For now, people should expect to pay more for games, hardware, and everything else in life. Hooray?",
+    "link": "https://www.gamespot.com/articles/80-games-are-already-here/",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-10-at-10.34.03-AM.png?w=1024",
+    "pubDate": "2026-06-10T15:28:19+00:00"
+  },
+  {
+    "title": "Takeaways From Tuesday’s Primary Elections in Maine and South Carolina",
+    "description": "Graham Platner won the Democratic primary for Senate in Maine and quickly turned his populist message against Susan Collins, the Republican incumbent.",
+    "link": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T15:27:07+00:00"
+  },
+  {
+    "title": "The myth of white Argentina still shapes the nation",
+    "description": "Milei is deepening a state tradition that has equated whiteness with civilisation since its inception.",
+    "link": "https://www.aljazeera.com/opinions/2026/6/10/the-myth-of-white-argentina-still-shapes-the-nation?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a297e294402a-1781104169.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-10T15:20:21+00:00"
+  },
+  {
+    "title": "What screwworm's appearance in U.S. cattle could mean for beef prices this summer",
+    "description": "The arrival of the invasive New World screwworm in Texas could hit consumers this summer with beef prices already an acute source of inflation.",
+    "link": "https://www.cnbc.com/2026/06/10/texas-screwworm-cattle-beef-prices-inflation.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108318123-1780926112237-gettyimages-2279608006-060626newworldscrewwormlapryorgettywfh010.jpeg?v=1781090762&w=1920&h=1080",
+    "pubDate": "2026-06-10T15:13:47+00:00"
+  },
+  {
+    "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
+    "description": "A night of disorder in Belfast saw people forced to flee their homes, in protests that followed a knife attack in the north of the city.",
+    "link": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/430f/live/22d4ffd0-64c7-11f1-8f51-b550443b533b.jpg",
+    "pubDate": "2026-06-10T15:06:29+00:00"
+  },
+  {
+    "title": "Players Think Kingdom Hearts’ New Art Is AI-Generated",
+    "description": "Yesterday's Nintendo Direct certainly got Kingdom Hearts players talking--but it's not the kind of discourse Square Enix was probably hoping for after unveiling a new Kingdom Hearts 4 trailer and announcing that native versions of the entire Kingdom Hearts trilogy are coming to Switch 2 on October 8. Instead, eagle-eyed players are focused on what appears to be AI-generated key art, which Square Enix shared on X shortly after the announcement of the Kingdom Hearts Collection [I-III] As pointed out by artist and Kingdom Hearts fan Vexmyx, the image appears to show Donald with four fingers on one hand, but five fingers on the other--it's well known at this point that generative AI tools tend to struggle with hands and fingers, frequently generating images with subjects either missing digits, or having too many. As of his most recent appearance in Kingdom Hearts 3, Donald Duck has only four fingers, and knowing how protective Disney is when it comes to legacy characters like Donald and Goofy, it's hard to imagine they'd hire an artist who doesn't know how many fingers he has. Donald's feet are also shaped rather strangely, though that could just be a matter of perspective, as he's floating (flying?) through the air with one foot (flipper?) forward and the other behind him. https://twitter.com/vexmyx/status/2064420981901230165?s=46 Other details, like one of the zippers on Donald's coat and the chain on Sora's beloved Keyblade, are also rather wonky and oddly uneven looking, as if drawn by someone who isn't quite sure how zippers or chain links work. But the fashion faux pas don't end with zippers--the treads on the soles of Sora's shoes are also off, sporting a close-but-not-quite-right pattern of raised squares, when his shoe treads have historically featured tiny, raised crown motifs that match the crown-shaped pendant around his neck. Goofy appears to be wearing steel-toed boots, but his right foot looks much longer than his left foot, and appears to be missing the steel toe. Again, this could simply be a matter of perspective due to the way the characters are posed, but given how beloved the franchise is--and how strict Disney is about sticking to character designs--many Kingdom Hearts fans are wondering if the image was at least partially AI-generated. \"Either fully generated or AI-enhanced, I'm not sure,\" Vexmyx said, sharing an image highlighting parts of the image that feature the most obvious AI fingerprints. \"But I'm disappointed. This is unacceptable if [the AI claims are] true, and needs to be addressed.\" While human error might explain some of the strange aspects of the image, it certainly doesn't explain why the face of the franchise's iconic clocktower has hands that appear to curve and bend. GameSpot has reached out to Square Enix for comment, but did not receive a reply in time for publication.",
+    "link": "https://www.gamespot.com/articles/players-think-kingdom-hearts-new-art-is-ai-generated/",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T15:02:16+00:00"
+  },
+  {
+    "title": "Gears Of War: E-Day Modernizes Movement Without Going Full Parkour",
+    "description": "Popping Locust heads and active reloading has never looked better than in Gears of War: E-Day, but this prequel is also making some big changes to how you'll move through the campaign. Movement has received a massive overhaul in the prequel, as Marcus Fenix and the rest of his squad can get around all manner of obstacles to reposition themselves while in combat. The game technically has a jump button for getting over larger obstacles like display cabinets, but don't expect Gears of War: E-Day to turn the series into a platformer. Speaking with GameSpot, The Coalition studio creative director Matt Searcy explained how Gears of War: E-Day fuses the traditional sticky cover-based systems established in previous games and evolves them to feel more organic. This was on full display in the Xbox Games Showcase, as the gameplay preview for Gears of War: E-Day showed Marcus Fenix moving between chest-high structures, mantling over taller structures, and using the environment to his advantage in surprising ways. https://www.youtube.com/watch?v=Dk2Uf2Th9aM \"How you move in, out, and along cover is a lot more natural,\" Searcy said. \"We still kept cover like it was in Gears, and having that heaviness was important. But being able to move in and out, being able to transfer between different cover shapes more smoothly--you'll see us even interacting through car windows or through shelves--so there's a lot more organic sort of interaction with cover. It's such a core part of the game, we wanted to be able to expand it. You can slide under a car and blow up a guy, it's a really cool move.\" \"The mobility for us was more of a way to evolve the gameplay mechanics than a narrative device. Jumping in Gears, we will never be a platforming game. We don't have levels that are about jumping to get to somewhere. For us, we saw it as a way to add a new dimension to flanking. Just being able to climb onto that high mantle--which you can either do from cover or you can jump onto--and then, just jumping across to another place and flanking someone, it opens up all of our levels.\" Gears of War: E-Day launches for PC and Xbox Series X|S on October 3--but there's no PS5 version--and an open beta kicks off in August. Gears of War: E-Day Standard Edition $70 | Releases October 6 Preorder at Amazon Gears of War: E-Day Premium Edition $100 | Releases October 1 Preorder at Best Buy",
+    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-modernizes-movement-without-going-full-parkour/",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/Gears-Square-1.jpg?w=300",
+    "pubDate": "2026-06-10T15:00:38+00:00"
+  },
+  {
+    "title": "Fable’s 1,000 Romance Options Sounds Like The Ultimate Challenge For Completionists",
+    "description": "Fable isn't just offering a grand fantasy adventure for players to embark on, but also a chance to catch their breath between quests, thanks to a world populated with hundreds of distinct non-playable characters. Each NPC has a unique personality and goals, and according to Playground Games, each one can be romanced. In fact, it's possible to marry every single one--just not all at once, as Fable has a monogamous approach to love. \"There are over 1,000 handcrafted NPCs in the game, and you can get into a relationship with any of them--or all of them--indeed, if that's what you want to do. Might take you quite a while, but you could definitely do that,\" associate game director Craig Littler said to GameSpot. \"One thing I would say, though, is that it really ties into the complex, nuanced morality system because yes, you could get into a relationship with anybody, but not at the same time, because you can't be all things to all people at the same time. One person might want you to be kind. Another might want you to be a murderer. That's just how it goes.\" https://www.youtube.com/watch?v=FuJjIgntefE&amp;pp=0gcJCTkLAYcqIYzv \"All 1,000 of them are handcrafted by our team,\" associate game director William Kennedy added. \"The game design team put a bunch of effort into those goals, and as you saw in the demo, we had the ambitious Megan, and all of her goals revolved around having stuff. She wanted me to have a house. She wanted me to dress in fancy clothes. She wanted me to own my own home, and what the design team was doing with that handcrafting was making sure that each NPC was a cohesive character, that you could end up having different stories when you interact with them.\" Originally scheduled to launch this year, Fable was recently delayed to February 23, 2027, for PC, Xbox Series X|S, and PS5. Last week's Xbox Games Showcase revealed some new details for the game, like the new character Isabel (played by Hayley Atwell), a brief tease of the original Fable's villain, Jack of Blades, and the confirmation of the game's first story-driven expansion, Order of the Hero.",
+    "link": "https://www.gamespot.com/articles/fables-1000-romance-options-sounds-like-the-ultimate-challenge-for-completionists/",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T15:00:35+00:00"
+  },
+  {
+    "title": "Fable Lets You Live A Second Life, Not Just Save The World",
+    "description": "Fable is now arriving in February 2027, but with some extra months to fine-tune the fantasy adventure, Playground Games looks set to release an impressive entry in the classic franchise. Older Fable games from Peter Molyneux's Lionhead Studios had lofty ambitions, but with Playground at the helm, the new title is taking the series in an unexpected direction: life-sims. During Summer Game Fest, GameSpot got a closer look at Fable behind closed doors, with the game's developers showing off just how deep relationships are in the game. In one example, the player had to become a success story to woo their chosen romantic pursuit. This involved dressing in fine clothes, starting a business, and ensuring that it was profitable, all to win the hand of a fair maiden. What makes this even more impressive is that the NPC chosen is one of hundreds who populate the game, and each one has a distinct personality. https://youtu.be/Zzwz7KZNBzY Is it possible to pursue a romance with every single one of them? Yes, says Playground Games, but not all at once because each NPC has their own idealized version of who their life-partner should be. \"One person might want you to be kind. Another might want you to be a murderer. That's just how it goes,\" associate game director Craig Littler said to GameSpot. For more details on every new detail we just learned about the game, you can watch the video above. Fable launches on February 23, 2027, for PC, Xbox Series X|S, and PS5. During last week’s Xbox Games Showcase, we saw the reveal of Fable's first story-driven expansion, Order of the Hero, and our first look at the new character Isabel, played by Hayley Atwell.",
+    "link": "https://www.gamespot.com/articles/fable-lets-you-live-a-second-life-not-just-save-the-world/",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T15:00:28+00:00"
+  },
+  {
+    "title": "Saw: Genesis switches up Dead by Daylight's formula with escape room thrills",
+    "description": "We learned tons of new details about Saw: Genesis, a bloody new asymmetrical horror game based on the Saw movie series.",
+    "link": "https://www.polygon.com/saw-genesis-preview/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/saw-genesis-face-trap.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T15:00:21+00:00"
+  },
+  {
+    "title": "Halo: Campaign Evolved will include 42 skulls — see the full list here",
+    "description": "Xbox's Halo remake will feature more skulls than the series ever has in history. Polygon interview Halo Studios devs about all skulls in the game.",
+    "link": "https://www.polygon.com/halo-campaign-evolved-skulls-interview-list-all/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/hce_skull_find.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T15:00:21+00:00"
+  },
+  {
+    "title": "Resident Evil Veronica won't be a Resident Evil 3 remake situation",
+    "description": "Capcom reveals new details about Resident Evil Veronica, including the fate of Claire, Steve Burnside, and first-person camera view.",
+    "link": "https://www.polygon.com/resident-evil-veronica-remake-preview-sgf-2026/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/resident_evil_veronica_-_screenshot_10.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T15:00:21+00:00"
+  },
+  {
+    "title": "Halo Campaign Evolved preview: Xbox’s remake feels brand-new after 2 hours",
+    "description": "Halo: Campaign Evolved, Xbox's big Halo 1 remake, changes just enough to feel like a brand-new game. Read Polygon's Halo preview for more.",
+    "link": "https://www.polygon.com/halo-campaign-evolved-preview-hands-on/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ss_3696511ddbe8cc4d80706d435f6dbe77620ef64d-1920x1080.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T15:00:21+00:00"
+  },
+  {
+    "title": "Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs",
+    "description": "TRM Labs said onchain gambling reached $51 billion in 2025, with repeat users and stablecoin flows helping the sector remain resilient during a broader crypto market pullback.",
+    "link": "https://cointelegraph.com/news/onchain-gambling-market-pullback-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth-1.jpg",
+    "pubDate": "2026-06-10T15:00:00+00:00"
+  },
+  {
+    "title": "AI deepfake election ad in Minnesota raises transparency concerns",
+    "description": "A deepfake campaign attack ad in the US state of Minnesota has raised questions around the ethics of using AI in political ads and the regulations surround AI use.",
+    "link": "https://cointelegraph.com/features/ai-deepfake-election-ad-in-minnesota-raises-transparency-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-261562-enters-peru-s-elections-key-technology-or-a-work-in-progress.jpg",
+    "pubDate": "2026-06-10T15:00:00+00:00"
+  },
+  {
+    "title": "Gears Of War: E-Day Is Bigger, Bloodier, And More Ambitious Than We Expected",
+    "description": "Gears of War: E-Day made a big splash during the Xbox Games Showcase, as The Coalition dropped an action-packed preview on audiences. Not only is Gears looking better than ever, thanks to Unreal Engine 5 powering it, but several design choices are also adding up to make the game play better through fluid movement mechanics and levels that'll give you opportunities to put your skills to the test. GameSpot had the opportunity to take a closer look at the game and sit down with The Coalition's developers to learn more about the prequel. You can check out everything new that we learned from this interview that wasn't shown off in the initial preview in the video below. https://youtu.be/hh5Swf5p4jo Gears of War: E-Day is a fresh start for the franchise, and according to The Coalition, the developer started with an \"empty hard drive\" to rebuild Gears in Unreal Engine 5. The key location for E-Day is Kalona on the planet Sera, a city that will be devastated during Emergence Day when the Locust rise up to attack humanity. The Coalition says that the destruction will be felt throughout the campaign as environments change, and while E-Day isn't an open-world game, its large-scale arenas are combat puzzles waiting for players to solve them through smoother cover transitions and ultraviolence. Some missions will have tighter spaces to fight in, while others will give players access to entire neighborhoods to wage war in. The main goal is to make players feel like they're in a big-budget action movie as they slide and mantle over obstacles so that they can flank enemies. Other interesting tidbits from our time with The Coalition include the studio mentioning that E-Day has the longest campaign that it has ever designed--with the studio estimating that it'll take around 14 hours to complete--how E-Day was the story the studio wanted to tell next, and owners of PC gaming handhelds should expect to see it run just fine on those systems. Gears of War: E-Day launches for PC and Xbox Series X|S on October 3, but it’s not coming to PS5.",
+    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-is-bigger-bloodier-and-more-ambitious-than-we-expected/",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T15:00:00+00:00"
+  },
+  {
+    "title": "Gears of War: E-Day Happened Because Starting Over Sounded More Fun Than Gears 6",
+    "description": "Gears of War: E-Day will once again see fan-favorite characters like Marcus Fenix and Dominic Santiago headline the next game in the franchise, but what about that unresolved cliffhanger from Gears 5? Will we ever see those lingering plot threads addressed? Developer The Coalition isn't spilling the beans on whether Kait Diaz and her team will be back in action, but the studio has revealed why it chose to craft a prequel instead of a sequel. Speaking to GameSpot, studio creative director Matt Searcy said that the tale of Emergence Day was simply the story it wanted to tell the most, with passion for the project dominating discussions. https://www.youtube.com/watch?v=Dk2Uf2Th9aM \"We've got an opportunity here to tell a story we want to tell. What story do we want to tell? We chose E-Day,\" Searcy said to GameSpot. \"After Gears 5, we shipped a bunch of games back-to-back, and the pandemic hit at the same time. Everybody was evaluating their job, where they wanted to live, and it wasn't so different for us. As a studio, what do we want to do with our next game? And it lined up exactly with Unreal Engine 5. No matter what we do, we're going to be starting with an empty hard drive.\" \"So we looked at those two things, and the story we really want to tell is a story we've been talking about. And the opportunity to build all those things--not just our mechanics--but the Locust, our characters, all those things from scratch, was just too good to pass up. So we looked at that, and it's one of those things where the passion dominates like any other conversation. We love that story, but we went, 'if all we want to do is this,' then this is what we should be doing, and we just chose that.\" Gears 5 introduced some big revelations about the Locust, their origins, and Kait's connection to everything. For now, it looks like the dark origins of the Locust won't be a central plot point in E-Day, but that doesn't mean that the campaign won't be grim. The Coalition revealed that players will see plenty of civilian casualties during the campaign--which the studio estimates will take around 14 hours to complete--and the city of Kalona will start to fall apart as Emergence Day becomes a global catastrophe. Gears of War: E-Day Standard Edition $70 | Releases October 6 Preorder at Amazon Gears of War: E-Day Premium Edition $100 | Releases October 1 Preorder at Best Buy Gears of War: E-Day launches for PC and Xbox Series X|S on October 3, but it's not coming to PS5. Ahead of its launch, The Coalition has shown off how movement in the game has evolved and how the iconic Lancer will get an origin story. An open beta to test out the multiplayer will be held in August.",
+    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-happened-because-starting-over-sounded-more-fun-than-gears-6/",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/Gears-Square-1.jpg?w=300",
+    "pubDate": "2026-06-10T15:00:00+00:00"
+  },
+  {
+    "title": "We Played Halo: Campaign Evolved, And The Old Remade Missions Are Pretty “Meh”",
+    "description": "GameSpot is back from Summer Game Fest, and one of highly anticipated upcoming games we got to try out is Halo: Campaign Evolved. The remake of the 2001 original that's releasing this July for the game's 25th anniversary, the game promises a faithful update to the classic FPS that fans know and love. At SGF, GameSpot senior video producer Jean-Luc Seipke played two of the re-made missions, Assault on the Control Room and The Silent Cartographer. Their verdict? Meh. \"I think every Halo game has felt very unique and special in its own way. Halo: Campaign Evolved, unfortunately, feels more like just an amalgamation of all the Halos, while lacking what makes Halo 1 specifically Halo 1. That's my real core issue with it. It's just generic Halo,\" Seipke said. https://www.youtube.com/watch?v=RZFVVcEM38c Seipke gave Halo Studios credit for upcoming certain elements of the game since we saw it last year. Visors are green again. Grunts now have their classic purple skin and armor that's brighter and more orange than before. The Warthog can now be driven on a particular, important path on The Silent Cartographer. The OG loading screen from the original Xbox version of Halo has been added. And while Seipke acknowledged that Halo Studios listened to fans and made a number of key changes and improvements, it wasn't enough to tilt the scale. \"I just didn't feel wowed the way I want to. This is Halo. It's one of the greatest games ever made. I should be feeling goosebumps. I should be feeling chills,\" they said. \"I should be feeling, 'Oh my god, look at the way they have reimagined this game. They have brought it to life 25 years later.' \"But instead, I was kind of just like, 'Yep. That's Assault on Control Room. That's Halo. I can get inside the Wraith now. I can use the Energy Sword now. I can sprint now. It's fun. It's OK. It's just now wowing me.'\" Halo fans who want to play the classic Halo game with modern updates may like what they get, Seipke said, but ... \"I was just really hoping for something more special.\" Seipke didn't play any of the newly added prequel missions, spanning the three-mission Operation Meteorite story arc, and they said maybe these new missions will offer something more exciting to convince people this is a remake worth playing. Halo: Campaign Evolved launches on July 28 for $50, and in addition coming to the places you'd expect like Xbox and PC, it will also be available on PS5. People who pay more for the $70 premium edition can start playing on July 23. The game does not feature multiplayer support. If Halo: Campaign Evolved doesn't sound interesting to you, Halo Studios is developing another new Halo game. Though it has not been announced yet, it's rumored to be like Fortnite with a live-service multiplayer approach.",
+    "link": "https://www.gamespot.com/articles/we-played-halo-campaign-evolved-and-the-old-remade-missions-are-pretty-meh/",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T15:00:00+00:00"
+  },
+  {
+    "title": "Bloober Team Says It’s Humbled By The “Many Corpses” In The Horror Multiplayer Genre",
+    "description": "The realm of asymmetrical horror multiplayer games grows a little bigger with Saw: Genesis, Bloober Team and Anshar Studios' co-developed 3v1 game based on Lionsgate's Saw franchise. I got to sit in on a roughly 30-minute hands-off preview of the game at Summer Game Fest 2026, and I asked the team about what it's like entering this crowded space, where it seems like Hollywood is seeing dollar signs and throwing its licenses at various teams, then leaving some game studios to pick up the pieces when the game doesn't become a big enough hit to continue development. Bloober Team's head of publishing, Michał Gembicki, told me that the team knows the score, and admitted it does scare them. \"We know this is a saturated market, right? There are many corpses in it, many cadavers [pointing to a prop dead body in the Saw-themed room]. We are afraid of that. We are humbled by it, so we know we need to experiment a lot.\" Gembecki continued, \"But at the same time, from the Bloober perspective, we have established first-party games like Cronos and Silent Hill, obviously, that specialize in storytelling in rather linear worlds, and this is an attempt to enter something new, a completely new division, and become a much broader company.\" You can check out my impressions of the game below for a closer look at the upcoming horror multiplayer game. Broken Mirror Games is Bloober Team's new internal alt-label, and Saw: Genesis represents the first game announced under the banner. Co-developed with Anshar Studios, Saw: Genesis will launch first on Steam Early Access later this year.",
+    "link": "https://www.gamespot.com/articles/bloober-team-says-its-humbled-by-the-many-corpses-in-the-horror-multiplayer-genre/",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T15:00:00+00:00"
+  },
+  {
+    "title": "What are Lebanon’s most important political parties?",
+    "description": "Lebanon's many powerful parties reflect the country's social, sectarian, and political divides.",
+    "link": "https://www.aljazeera.com/news/2026/6/10/lebanon-parties-what-are?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-31T084537Z_1000776652_RC28IU9N5QLQ_RTRMADP_3_LEBANON-CRISIS-PARLIAMENT.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-10T14:46:05+00:00"
+  },
+  {
+    "title": "College sticker prices top $100,000 at 16 schools — but many students pay significantly less",
+    "description": "The cost of attendance at a growing number of colleges is now more than six figures a year, according to data from The Princeton Review.",
+    "link": "https://www.cnbc.com/2026/06/10/college-six-figure-sticker-price.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/104175295-GettyImages-98166246.jpg?v=1529473648&w=1920&h=1080",
+    "pubDate": "2026-06-10T14:44:56+00:00"
+  },
+  {
+    "title": "Latest Inflation Data Shows Airline Ticket Prices Up 27% From Last Year",
+    "description": "Airfares shot up 27 percent from a year earlier in the latest inflation data.",
+    "link": "https://www.nytimes.com/2026/06/10/business/economy/americans-travel-expensive.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T14:40:02+00:00"
+  },
+  {
+    "title": "Regulators' proposed prediction markets rules ban trading on terrorism, assassinations",
+    "description": "The proposed rules from the commission will now face a public comment period.",
+    "link": "https://www.cnbc.com/2026/06/10/regulators-proposed-prediction-markets-rules-ban-trading-on-terrorism-assassinations.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107171021-1671826737567-gettyimages-1245801059-CFTC_HQ_DC.jpeg?v=1779394057&w=1920&h=1080",
+    "pubDate": "2026-06-10T14:38:28+00:00"
+  },
+  {
+    "title": "Facebook bio drama The Social Reckoning gets first trailer, release date",
+    "description": "Aaron Sorkin's spiritual sequel to The Social Network will take on Facebook on Oct. 9.",
+    "link": "https://www.polygon.com/the-social-reckoning-reveal-trailer/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-social-reckoning.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T14:36:28+00:00"
+  },
+  {
+    "title": "Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs",
+    "description": "Robinhood’s new IPO underwriter role comes as SpaceX prepares a record-breaking public offering, with retail brokers and crypto-native derivatives platforms racing to shape price discovery and access.",
+    "link": "https://cointelegraph.com/news/robinhood-secures-underwriter-status-crypto-front-mega-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/robinhood2.jpg",
+    "pubDate": "2026-06-10T14:33:37+00:00"
+  },
+  {
+    "title": "Inflation Keeps Prospects of a Fed Rate Cut Low",
+    "description": "The Consumer Price Index is one of the last major data releases ahead Kevin M. Warsh’s first meeting as chair of the Federal Reserve.",
+    "link": "https://www.nytimes.com/2026/06/10/business/economy/inflation-federal-reserve-interest-rates.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T14:23:29+00:00"
+  },
+  {
+    "title": "Stokes out of England squad, Root named captain",
+    "description": "Ben Stokes will miss England’s second Test against New Zealand at The Oval following an incident in a London nightclub, with Joe Root stepping up as interim captain.",
+    "link": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7136/live/5bb715a0-64cb-11f1-b6a3-ad1d6981e942.jpg",
+    "pubDate": "2026-06-10T14:20:45+00:00"
+  },
+  {
+    "title": "Lacey Turner confirmed as first Strictly contestant",
+    "description": "The actress is best known for her role as Stacey Slater on EastEnders, the BBC One soap she joined in 2004.",
+    "link": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d2d/live/6d2890b0-64d6-11f1-aa53-952ce05f4e6c.jpg",
+    "pubDate": "2026-06-10T14:20:38+00:00"
+  },
+  {
+    "title": "Trump and Iran trade new threats after strikes exchanged",
+    "description": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+    "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/127b/live/d754c2e0-64c4-11f1-8f51-b550443b533b.jpg",
+    "pubDate": "2026-06-10T14:15:39+00:00"
+  },
+  {
+    "title": "What is Gundam Rogue Orbit anyway?",
+    "description": "Gundam Rogue Orbit isn't Monster Hunter or Armored Core, it's an action game being designed to welcome new Gundam fans to the anime franchise.",
+    "link": "https://www.polygon.com/gundam-rogue-orbit-game-preview-sgf-2026/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/gundam-rogue-orbit-key-art.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T14:13:18+00:00"
   },
   {
     "title": "Trump says Iran will 'pay the price' and claims they have 'taken too long' to agree to a deal",
     "description": "The president's comments came after U.S. forces on Tuesday evening launched strikes against Iran.",
     "link": "https://www.cnbc.com/2026/06/10/trump-iran-talks.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316661-1780577598309-gettyimages-2278944441-TRUMP_EO.jpeg?v=1780577643&w=1920&h=1080",
-    "pubDate": "2026-06-10T11:34:06+00:00"
+    "pubDate": "2026-06-10T14:12:15+00:00"
   },
   {
-    "title": "How pandemic car shortages are still making new and used cars expensive",
-    "description": "Pandemic-era shortages are still pushing up used car prices, and automakers learned lessons from that time that stands to keep supply tight",
-    "link": "https://www.cnbc.com/2026/06/10/car-prices-shortages.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/103416530-GettyImages-97765509.jpg?v=1532564179&w=1920&h=1080",
-    "pubDate": "2026-06-10T11:32:03+00:00"
+    "title": "Amazon trucking expansion sparks freight stock sell-off",
+    "description": "Amazon has been spinning out more of its in-house logistics offerings for others to access, posing a growing threat to industry incumbents.",
+    "link": "https://www.cnbc.com/2026/06/10/amazon-trucking-expansion-freight-stock-selloff.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107307277-1695815218060-gettyimages-1702928531-jr027459_xc7hwxvb.jpeg?v=1781100033&w=1920&h=1080",
+    "pubDate": "2026-06-10T14:11:05+00:00"
   },
   {
-    "title": "Two reasons for optimism after Tuesday's whipsaw market sell-off",
-    "description": "There's reason for optimism, judging by bullish options flows around stocks that do better when interest-rates stay lower, and call-buyers who are prepared for the biggest move in Oracle since Covid.",
-    "link": "https://www.cnbc.com/2026/06/10/two-reasons-for-optimism-after-tuesdays-whipsaw-market-sell-off.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108318865-1781019283499-Traders-Photo-20260609-KK-PRESS-015.jpg?v=1781019469&w=1920&h=1080",
-    "pubDate": "2026-06-10T11:26:38+00:00"
+    "title": "Crypto outflows are sentiment shock, not structural crisis: CoinShares' Butterfill",
+    "description": "CoinShares’ James Butterfill said recent crypto outflows reflect a macro-driven sentiment shock, while other analysts warned Bitcoin’s rebound may remain fragile.",
+    "link": "https://cointelegraph.com/news/crypto-outflows-sentiment-shock-structural-crisis-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/aquapark-falling-market-red-3.jpg",
+    "pubDate": "2026-06-10T14:08:44+00:00"
+  },
+  {
+    "title": "Alien Isolation 2 is a standout from Summer Game Fest, but not because of its alien",
+    "description": "Sega and Creative Assembly's Alien Isolation sequel has a brand-new hero, and a compelling setting, plus the same ol' terrifying Xenomorph.",
+    "link": "https://www.polygon.com/alien-isolation-2-game-preview-sega-sgf-2026/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/alien-isolation-2-reveal-trailer.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T14:01:20+00:00"
+  },
+  {
+    "title": "Critical Role star reveals why Percy takes charge in The Legend of Vox Machina's heist episode",
+    "description": "The Legend of Vox Machina star Taliesin Jaffe discusses Percy's leadership role in the epic heist episode of season 4.",
+    "link": "https://www.polygon.com/critical-role-the-legend-of-vox-machina-season-4-de-rolo-eleven/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/1-2.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T14:01:20+00:00"
+  },
+  {
+    "title": "Will Critical Role's The Legend of Vox Machina end after season 5?",
+    "description": "The Legend of Vox Machina season 5 doesn't necessarily mean we won't see more of Tal'Dorei's mightiest heroes.",
+    "link": "https://www.polygon.com/legend-of-vox-machina-season-5-ending-cameos/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/vxma_s4_fg_00031723_still039.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-10T14:01:20+00:00"
+  },
+  {
+    "title": "Pyth unveils continuous pricing indexes for US stocks and commodities",
+    "description": "Coinbase, Kraken and dYdX are adopting Pyth's new indexes, which provide continuous pricing for US stocks, gold and oil outside market hours.",
+    "link": "https://cointelegraph.com/news/pyth-24-7-pricing-indices-tokenized-stocks-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-us-takes-regulatory-steps-for-blockchain-technology-adoption.jpg",
+    "pubDate": "2026-06-10T14:00:00+00:00"
+  },
+  {
+    "title": "Prediction markets get first U.S. rule proposal as CFTC pursues contract reviews",
+    "description": "The Commodity Futures Trading Commission opened a proposed rule for public comment that sets an approach to determine contracts in the \"public interest.\"",
+    "link": "https://www.coindesk.com/policy/2026/06/10/prediction-markets-get-first-u-s-rule-proposal-as-cftc-proposes-contract-reviews",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-10T13:58:41+00:00"
+  },
+  {
+    "title": "Three arrested over Glasgow unrest and racist assaults after Belfast knife attack",
+    "description": "Police Scotland said members of the public were attacked \"because of the colour of their skin\" on Tuesday evening.",
+    "link": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab98/live/5bd02cd0-64d4-11f1-b7c0-7f8add30666b.jpg",
+    "pubDate": "2026-06-10T13:57:18+00:00"
+  },
+  {
+    "title": "Michael Saylor gets into public debate over claims that Strategy's latest share sale was dilutive",
+    "description": "Strategy's BTC Yield fell from 13.0% to 12.8% following its latest bitcoin purchase, prompting a debate on X over whether the purchase was dilutive to shareholders.",
+    "link": "https://www.coindesk.com/markets/2026/06/10/michael-saylor-in-x-back-and-forth-over-claims-strategy-s-latest-share-sale-was-dilutive",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-10T13:56:41+00:00"
+  },
+  {
+    "title": "Two migrants jailed under new small boats law",
+    "description": "A Sudanese national and Afghan national were jailed for piloting small boats across the Channel.",
+    "link": "https://www.bbc.com/news/articles/cjrg4031nglo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/196c/live/cbfabff0-64cc-11f1-8e1d-bbbb1017d210.jpg",
+    "pubDate": "2026-06-10T13:42:42+00:00"
+  },
+  {
+    "title": "Eight red cards shown to Brazil in fiery friendly against US women",
+    "description": "Four Brazilian players and four members of their coaching staff were sent off during a dramatic encounter in Fortaleza.",
+    "link": "https://www.aljazeera.com/sports/2026/6/10/eight-red-cards-shown-to-brazil-in-fiery-friendly-against-us-women?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/GettyImages-2280803804-1781095688.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-10T13:36:58+00:00"
+  },
+  {
+    "title": "US bombs Iran’s water facilities: Why that’s so significant",
+    "description": "The US struck several sites in Iran, saying it retaliated against the downing of a US helicopter in the Strait of Hormuz",
+    "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-irans-water-facilities-why-thats-so-significant?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a294be3de70-1781091299_49ded9-1781092683.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-06-10T13:27:27+00:00"
+  },
+  {
+    "title": "CoinDesk 20 performance update: Index drops 1.4% as all constituents decline",
+    "description": "Bitcoin Cash (BCH) fell 4.1% and NEAR Protocol (NEAR) shed 4.3%, leading the index lower.",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/06/10/coindesk-20-performance-update-index-drops-1-4-as-all-constituents-decline",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a5d6564e59e7292f80523c554fb4cdb50189e1e2-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-10T13:23:13+00:00"
+  },
+  {
+    "title": "Why Complete Election Results in Maine Could Take More Than a Week",
+    "description": "Winners in the Republican and Democratic primary races for governor and in a Democratic congressional primary have not yet been determined.",
+    "link": "https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T13:20:55+00:00"
+  },
+  {
+    "title": "Bitcoin price may slide toward $30K as institutions dump 450% of daily BTC supply",
+    "description": "Bitcoin’s institutional support weakened as ETFs and companies dumped almost 2,000 BTC daily and Strategy’s buying lost momentum.",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-may-slip-under-30k-as-institutions-dump-450-of-daily-btc-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-market-correction-vs-bear-market-btc.jpg",
+    "pubDate": "2026-06-10T13:11:03+00:00"
+  },
+  {
+    "title": "Graham Platner’s Victory in Maine Senate Primary Gives Democrats Hope and Fears",
+    "description": "Graham Platner’s primary victory sets up a high-stakes contest between an insurgent progressive with political baggage and a battle-tested but vulnerable Republican senator.",
+    "link": "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-10T13:10:02+00:00"
+  },
+  {
+    "title": "Mexico vs South Africa: World Cup group match – teams, start and lineups",
+    "description": "As the tournament kicks off, cohosts Mexico face South Africa in a replay of the 2010 edition's opening game.",
+    "link": "https://www.aljazeera.com/sports/2026/6/10/mexico-south-africa-fifa-world-cup-2026-match-lineup-players-news-football?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-01T133211Z_564460570_RC2CXHADDFC3_RTRMADP_3_SOCCER-WORLDCUP-GROUPA-MEXICO-1781065966.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-10T13:06:47+00:00"
+  },
+  {
+    "title": "World Series of Poker adds Solana payments for tournament buy-ins",
+    "description": "The move marks an integration of blockchain-based payments into a major live sporting and gaming event.",
+    "link": "https://www.coindesk.com/tech/2026/06/09/world-series-of-poker-adds-solana-payments-for-tournament-buy-ins",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c4c8cac873e1cc0c098d2d7a2b763c9574ee1a3a-3022x2015.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-10T13:00:00+00:00"
+  },
+  {
+    "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
+    "description": "Israel uses war crimes to accelerate 'annexation agenda and settlement expansion' in occupied land, rights group says.",
+    "link": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a284ce88cac-1781026024.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-10T12:55:23+00:00"
+  },
+  {
+    "title": "7-month-old baby shot by Israeli soldier in Hebron",
+    "description": "An Israeli soldier fired at a Palestinian family’s car in Hebron, fatally shooting a seven‑month‑old in the head.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/7-month-old-baby-shot-by-israeli-soldier-in-hebron?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781095464.jpg?resize=1619%2C1080&quality=80",
+    "pubDate": "2026-06-10T12:44:39+00:00"
+  },
+  {
+    "title": "Bitcoin trims losses after core CPI rises less than feared 0.2% in May",
+    "description": "Headline inflation rose an expected 0.5% in May, but the beat on the core rate — which cuts out food and energy costs — is pleasing markets.",
+    "link": "https://www.coindesk.com/markets/2026/06/10/u-s-inflation-meets-expectations-reinforcing-fed-s-higher-for-longer-stance",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/196a178af5d22874394e6f1fc7fcf26b9878e0ea-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-10T12:42:24+00:00"
+  },
+  {
+    "title": "Equipment finance platform Trad.Fi to bring $650M in private credit onchain",
+    "description": "Trad.Fi plans to bring up to $650 million in equipment-finance credit onchain, targeting a trillion-dollar US market still dominated by paperwork.",
+    "link": "https://cointelegraph.com/news/equipment-finance-tradfi-650m-private-credit-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-tokenizing-real-estate-in-the-united-states-crypto-market.jpg",
+    "pubDate": "2026-06-10T12:09:04+00:00"
+  },
+  {
+    "title": "A 'Bitcoin DeFi' project just shut down with a brutal post-mortem: Users just didn't care",
+    "description": "\"It did not work,\" Botanix said. \"At least not in this market and not in this timeline.\"",
+    "link": "https://www.coindesk.com/tech/2026/06/10/a-bitcoin-defi-project-just-shut-down-with-a-brutal-post-mortem-users-just-didn-t-care",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/030d61604f4bdf32cd4013015de2ad6a80a15e24-7200x4800.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-10T12:00:29+00:00"
+  },
+  {
+    "title": "Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi",
+    "description": "The Spiderchain developer told users to withdraw assets by July 9 after concluding demand for Bitcoin-native DeFi was not sufficient to support the network.",
+    "link": "https://cointelegraph.com/news/botanix-says-it-didnt-work-as-bitcoin-scaling-platform-shuts-down-sets-withdrawal-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news.jpg",
+    "pubDate": "2026-06-10T11:45:36+00:00"
+  },
+  {
+    "title": "Ukraine says missiles hit military plant deep inside Russia",
+    "description": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
+    "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc7/live/e5079930-64d8-11f1-b1db-af71d47507d6.jpg",
+    "pubDate": "2026-06-10T11:43:40+00:00"
+  },
+  {
+    "title": "BBC cancels Doctor Who Christmas special and Russell T Davies announces exit",
+    "description": "The BBC said the decision was made \"after careful consideration\" and had \"not been taken lightly\".",
+    "link": "https://www.bbc.com/news/articles/c621ln7vx7qo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/614e/live/fe532290-64b7-11f1-bedc-d9888df33c20.jpg",
+    "pubDate": "2026-06-10T11:43:14+00:00"
+  },
+  {
+    "title": "Is another heatwave on the way?",
+    "description": "Temperatures are expected to rise by the end of the week where we could see another heatwave developing, Simon King explains",
+    "link": "https://www.bbc.com/weather/articles/c74y8p34nvno?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d54/live/eaa40b40-63f6-11f1-a912-830c48c544bf.jpg",
+    "pubDate": "2026-06-10T11:38:39+00:00"
   },
   {
     "title": "The inflation scenario that could send bitcoin tumbling below $60,000",
@@ -35,60 +539,11 @@
     "pubDate": "2026-06-10T11:20:23+00:00"
   },
   {
-    "title": "Oil prices jump after Trump says Iran will 'pay the price' for failing at peace deal",
-    "description": "Oil prices rose after the U.S. launched military strikes against Iran, raising concerns that renewed clashes may threaten shipping through the Strait of Hormuz.",
-    "link": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108309960-1779298263932-gettyimages-2263984302-AFP_99PU3XR.jpeg?v=1779298319&w=1920&h=1080",
-    "pubDate": "2026-06-10T11:19:31+00:00"
-  },
-  {
-    "title": "Dow Jones Futures Tumble As Trump Says Iran Will 'Have To Pay The Price'; CPI Inflation On Tap",
+    "title": "Technical Assessment: Bullish in the Intermediate-Term",
     "description": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaws-ai-fears-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/06/Stock-TrumpSternScowl-01-shutt.jpg",
-    "pubDate": "2026-06-10T11:13:25+00:00"
-  },
-  {
-    "title": "Silver prices today, Wednesday, June 10, 2026: Down significantly following airstrikes, ahead of CPI report",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-june-10-2026-down-significantly-following-airstrikes-ahead-of-cpi-report-111116623.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/hE7av7rN4k0bf7.MWMTxKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://d29szjachogqwa.cloudfront.net/images/2026-05/4ee3f2ba-4678-4447-ba10-98ba355d52c8",
-    "pubDate": "2026-06-10T11:11:16+00:00"
-  },
-  {
-    "title": "LinkedIn launches new effort in push to capture business advertisers",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/linkedin-launches-effort-push-capture-110103443.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/62306c8bbb6155fa063abbd716978204",
-    "pubDate": "2026-06-10T11:01:03+00:00"
-  },
-  {
-    "title": "The Goonies is officially free to stream on Pluto TV, and it still holds up",
-    "description": "The Goonies remains the gold standard for kid adventure films",
-    "link": "https://www.polygon.com/the-goonies-free-streaming/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/msdgoon_ec005.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-10T11:00:21+00:00"
-  },
-  {
-    "title": "Weekly mortgage demand surges nearly 11% higher, despite volatile interest rates",
-    "description": "Mortgage demand from both current homeowners and potential buyers rose sharply, even though interest rates rose as well.",
-    "link": "https://www.cnbc.com/2026/06/10/weekly-mortgage-demand-surges-nearly-11percent-higher-despite-volatile-interest-rates.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316055-1780500382476-gettyimages-2276694260-US_MORTGAGE_APPLICATIONS.jpeg?v=1781040366&w=1920&h=1080",
-    "pubDate": "2026-06-10T11:00:02+00:00"
-  },
-  {
-    "title": "'Dead money': 3 financial advisors reveal where they're parking cash as inflation hits a 3-year high",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/articles/dead-money-3-financial-advisors-105500641.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/AjXtjkrj0GEFE0Ck1_vDuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/bfe4da88233d6f4baaa377b7659e065f",
-    "pubDate": "2026-06-10T10:55:00+00:00"
-  },
-  {
-    "title": "BBC cancels planned Doctor Who Christmas special",
-    "description": "The BBC said the decision was made \"after careful consideration\" and had \"not been taken lightly\".",
-    "link": "https://www.bbc.com/news/articles/c621ln7vx7qo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/614e/live/fe532290-64b7-11f1-bedc-d9888df33c20.jpg",
-    "pubDate": "2026-06-10T10:54:17+00:00"
+    "link": "https://finance.yahoo.com/research/reports/ARGUS_47283_TechnicalAnalysis_1781090326000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+    "pubDate": "2026-06-10T11:18:46+00:00"
   },
   {
     "title": "Zcash, Hyperliquid tokens lead losses as traders bet against a bitcoin bounce",
@@ -96,62 +551,6 @@
     "link": "https://www.coindesk.com/markets/2026/06/10/zcash-hyperliquid-tokens-lead-losses-as-traders-bet-against-a-bitcoin-bounce",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3005a1ff5cf6f1c90e49c9a0275a89e7468b0183-1920x1203.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-06-10T10:52:54+00:00"
-  },
-  {
-    "title": "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
-    "description": "Ministers have blamed far-right online agitators for stoking racial tension following a stabbing.",
-    "link": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2920c5b5cd-1781080261.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-10T10:50:22+00:00"
-  },
-  {
-    "title": "Gold prices today, Wednesday, June 10: Prices falling after U.S., Iran strikes and ahead of CPI report",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-june-10-prices-falling-after-us-iran-strikes-and-ahead-of-cpi-report-104555976.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/ZLQfbM_FkG3JYZfFBW2Dkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/2026-03/edb7f57c-4e9c-418e-863a-3025d9486f77",
-    "pubDate": "2026-06-10T10:45:55+00:00"
-  },
-  {
-    "title": "Taiwan Semiconductor Sales Rise 30% In May, Remain On Target",
-    "description": "",
-    "link": "https://www.investors.com/news/technology/tsm-stock-tsmc-may-2026-sales/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/05/Stock-TSMC-KevinZhang-company.jpg",
-    "pubDate": "2026-06-10T10:39:59+00:00"
-  },
-  {
-    "title": "Morning Bid: The chips are blue",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-chips-blue-103759847.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/2bb4b3157349323845d243f00c145e60",
-    "pubDate": "2026-06-10T10:37:59+00:00"
-  },
-  {
-    "title": "Who pays for a supersized World Cup?",
-    "description": "The biggest World Cup ever, with 48 teams and 104 matches, is expected to bring a record $13bn for FIFA.",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/10/who-pays-for-a-supersized-world-cup?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/BTN_Thumbnail_Landscape_V07-1781086964.png?resize=1920%2C1008&quality=80",
-    "pubDate": "2026-06-10T10:23:33+00:00"
-  },
-  {
-    "title": "Graham Platner wins Maine primary election: Results and key takeaways",
-    "description": "Platner wins in Maine, Republican Nancy Mace loses in S Carolina. Results for Nevada and North Carolina also announced.",
-    "link": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a291ea73db3-1781079719.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-10T10:22:43+00:00"
-  },
-  {
-    "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
-    "description": "Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781086090.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-06-10T10:09:41+00:00"
-  },
-  {
-    "title": "Bill Gates to face questions about Jeffrey Epstein from House Oversight panel",
-    "description": "Gates reportedly prepared for his testimony with the help of Jake Greenberg, who previously was the Oversight committee's chief investigations counsel.",
-    "link": "https://www.cnbc.com/2026/06/10/bill-gates-jeffrey-epstein-house-oversight-interview.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108171040-17522615752025-05-08t140318z_734903116_rc2qdeamtlun_rtrmadp_0_health-gates-foundation.jpeg?v=1752261599&w=1920&h=1080",
-    "pubDate": "2026-06-10T10:00:01+00:00"
   },
   {
     "title": "Stray Drones Are Setting Off Alarms in Europe, and the U.S. Deports a World Cup Referee",
@@ -175,39 +574,11 @@
     "pubDate": "2026-06-10T10:00:00+00:00"
   },
   {
-    "title": "Why is the FIFA World Cup 2026 being held in three countries?",
-    "description": "The 2026 World Cup is the first to be held in three different host nations - but why? Al Jazeera explains.",
-    "link": "https://www.aljazeera.com/sports/2026/6/10/why-is-the-fifa-world-cup-2026-being-held-in-three-countries?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2025-08-22T175614Z_117278520_RC2HCGA75XFA_RTRMADP_3_USA-TRUMP-1-1776951426-1780661265.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-06-10T09:57:57+00:00"
-  },
-  {
     "title": "EU proposes ban on 11 crypto platforms in Russia sanctions push",
     "description": "The proposed measures would ban transactions on 11 crypto platforms and expand sanctions targeting networks accused of helping Russia evade restrictions.",
     "link": "https://cointelegraph.com/news/eu-russia-sanctions-11-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLW1pY2EtbWFya2V0cy1pbi1jcnlwdG8tYXNzZXRzLXJlZ3VsYXRpb24uanBn.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation.jpg",
     "pubDate": "2026-06-10T09:46:01+00:00"
-  },
-  {
-    "title": "Iran fires missiles at US bases carrying images of killed commanders",
-    "description": "Iranian state media released video showing the launch of missiles towards US bases in the Middle East.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781084722.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-06-10T09:45:33+00:00"
-  },
-  {
-    "title": "US strikes Iran in response to downing of military helicopter",
-    "description": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
-    "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b309/live/8431d0d0-6429-11f1-a614-bb0f90cd931c.jpg",
-    "pubDate": "2026-06-10T09:39:35+00:00"
-  },
-  {
-    "title": "India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions",
-    "description": "Hundreds 'pushed' to border and many others put in detention centres as part of a crackdown on undocumented migrants.",
-    "link": "https://www.aljazeera.com/news/2026/6/10/indias-bengal-pushes-out-muslim-bangladeshis-deepening-religious-tensions?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/undocumented-immigrants-at-Hakimpur-border-1781079161.jpg?resize=1200%2C630",
-    "pubDate": "2026-06-10T09:22:53+00:00"
   },
   {
     "title": "The White House Panic Over the Epstein Files: Six Takeaways From the New York Times Investigation",
@@ -215,13 +586,6 @@
     "link": "https://www.nytimes.com/2026/06/10/magazine/epstein-files-trump-white-house-takeaways.html",
     "thumbnail": "",
     "pubDate": "2026-06-10T09:04:03+00:00"
-  },
-  {
-    "title": "The Battle for the Senate Could Come Down to Hopes and Fears in Maine",
-    "description": "Graham Platner’s primary victory in Maine sets up a high-stakes contest between an insurgent progressive with political baggage and a battle-tested but vulnerable Republican senator.",
-    "link": "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-10T09:02:57+00:00"
   },
   {
     "title": "How Quiet Oman Landed Itself in Trump’s Cross Hairs",
@@ -245,27 +609,6 @@
     "pubDate": "2026-06-10T09:01:04+00:00"
   },
   {
-    "title": "Argentina World Cup 2026 preview: Players to watch, group matches and squad",
-    "description": "Messi is hoping to overcome injury to help Argentina become the first back-to-back World Cup champions since 1962.",
-    "link": "https://www.aljazeera.com/sports/2026/6/10/argentina-world-cup-2026-preview-players-to-watch-group-matches-squad?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2699ca-1780914634_ce87ef-1780915992.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-06-10T08:59:58+00:00"
-  },
-  {
-    "title": "Anti-immigration protests break out in Belfast after knife attack",
-    "description": "Northern Ireland’s political leaders call for calm after a knife attack led to anti-immigration protests in the capital.",
-    "link": "https://www.aljazeera.com/gallery/2026/6/10/anti-immigration-protests-break-out-in-belfast-after-knife-attack?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/GettyImages-2280182679-1781075953.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-10T08:30:15+00:00"
-  },
-  {
-    "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
-    "description": "Israel's war on Gaza has decimated the tech sector, killing experts and destroying incubators that offered opportunity.",
-    "link": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/3-1780742615-1781002288.jpeg?resize=1920%2C1440",
-    "pubDate": "2026-06-10T08:27:28+00:00"
-  },
-  {
     "title": "XRP market shows signs of capitulation as holders sell at loss",
     "description": "XRP holders are capitulating, according to data tracked by Glassnode. That suggests a bottom may be near.",
     "link": "https://www.coindesk.com/markets/2026/06/10/xrp-market-shows-signs-of-capitulation-as-holders-sell-at-loss",
@@ -276,57 +619,8 @@
     "title": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
     "description": "Tech stocks and crypto are selling off in a “classic pre-mega-IPO liquidity squeeze,” say analysts.",
     "link": "https://cointelegraph.com/news/spacex-ipo-nears-four-times-oversubscribed-squeezing-crypto-and-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aHktbG93LWxhdGVuY3ktaXMtaW1wb3J0YW50LWZvci1jcnlwdG9jdXJyZW5jeS1leGNoYW5nZXMtaXBvLTEuanBn.jpg",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-ipo-1.jpg",
     "pubDate": "2026-06-10T07:29:05+00:00"
-  },
-  {
-    "title": "Elon Musk's SpaceX IPO is four times oversubscribed. A crypto bet tells a more cautious story",
-    "description": "The SPCX perpetual still trades above SpaceX’s $135 offer price, but it has fallen sharply from its May highs as traders mark down the first-day premium.",
-    "link": "https://www.coindesk.com/markets/2026/06/10/spacex-s-most-active-pre-ipo-market-has-fallen-27-in-three-weeks",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-10T07:18:44+00:00"
-  },
-  {
-    "title": "Takeaways From Tuesday’s Primary Elections in Maine and South Carolina",
-    "description": "Graham Platner won the Democratic primary for Senate in Maine and quickly turned his populist message against Susan Collins, the Republican incumbent.",
-    "link": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-10T07:07:48+00:00"
-  },
-  {
-    "title": "Chainalysis, South Korean police link up to fight crypto crime",
-    "description": "South Korea's national police has been battling crypto-enabled crimes from DPRK-state level threats to scams targeting retail investors.",
-    "link": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9zb3V0aGtvcmVhLTEuanBn.jpg",
-    "pubDate": "2026-06-10T07:03:20+00:00"
-  },
-  {
-    "title": "Hyperliquid, Paradigm urge revision of GENIUS money-laundering rule",
-    "description": "The Hyperliquid Policy Center and Paradigm say the Treasury’s money-laundering rules for the GENIUS Act are too onerous for stablecoin issuers.",
-    "link": "https://cointelegraph.com/news/hyperliquid-paradigm-urge-revision-of-genius-money-laundering-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jcnlwdG8tYW1sLmpwZw==.jpg",
-    "pubDate": "2026-06-10T06:40:53+00:00"
-  },
-  {
-    "title": "The UK could hit 28C this weekend - is another heatwave on the way?",
-    "description": "Temperatures are expected to rise by the end of the week where we could see another heatwave developing, Simon King explains",
-    "link": "https://www.bbc.com/weather/articles/c74y8p34nvno?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d54/live/eaa40b40-63f6-11f1-a912-830c48c544bf.jpg",
-    "pubDate": "2026-06-10T06:02:59+00:00"
-  },
-  {
-    "title": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
-    "description": "“The same insider trade that improves the accuracy of the price today can reduce the participation that makes the price informative tomorrow,” said Balbinder Singh Gill.",
-    "link": "https://cointelegraph.com/news/prediction-markets-need-a-little-insider-trading-academic-research-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWluc2lkZXItdHJhZGluZy1yZWQtbWFya2V0LmpwZw==.jpg",
-    "pubDate": "2026-06-10T05:55:19+00:00"
-  },
-  {
-    "title": "Live updates: What's next for bitcoin as it faces headwinds from SpaceX, Fed rates, and Mythos",
-    "description": "Anthropic's IPO pipeline, not its new model, is what crypto traders should track.",
-    "link": "https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-10T05:47:56+00:00"
   },
   {
     "title": "Who will win the World Cup? BBC pundits make their predictions",
@@ -336,137 +630,11 @@
     "pubDate": "2026-06-10T05:24:53+00:00"
   },
   {
-    "title": "XRP drops 4.5% as heavy selling breaks another support level",
-    "description": "XRP lost the $1.13 area on elevated volume, leaving traders focused on whether the latest selloff marks a final washout or the start of a deeper move toward $1.00.",
-    "link": "https://www.coindesk.com/markets/2026/06/10/xrp-drops-4-5-as-heavy-selling-breaks-another-support-level",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/18b4f03276ca54eba2f28de13e9ac224170999fd-1202x732.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-10T05:24:42+00:00"
-  },
-  {
-    "title": "Bitcoin and gold fall together as a rate-hike bet hits every hedge",
-    "description": "The relief rally that lifted crypto off last week's lows is unwinding alongside tech stocks and gold, with traders bracing for a US inflation print and a Warsh Fed that may stay hawkish.",
-    "link": "https://www.coindesk.com/markets/2026/06/10/bitcoin-and-gold-fall-together-as-a-rate-hike-bet-hits-every-hedge",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3fefd4274e66ebe6fa9b269e9039d7f0e3e7896d-5000x3111.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-10T05:22:06+00:00"
-  },
-  {
-    "title": "Bitcoin ETFs are no bigger today than when Trump won the election",
-    "description": "Net assets of U.S.-listed spot ETFs have fallen to levels last seen just after Trump won the election in early November 2024.",
-    "link": "https://www.coindesk.com/markets/2026/06/10/bitcoin-etfs-are-no-bigger-today-than-when-trump-won-the-election",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/113d58c52252687aeefe422ee7f400387865a80d-6048x3402.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-10T05:13:53+00:00"
-  },
-  {
-    "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-    "description": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
-    "link": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d097/live/cac11f90-64ad-11f1-b1db-af71d47507d6.jpg",
-    "pubDate": "2026-06-10T05:02:46+00:00"
-  },
-  {
-    "title": "Steve Hilton Wins Second Spot in California Governor Race, Beating Tom Steyer",
-    "description": "Steve Hilton, a Republican endorsed by President Trump, will face Xavier Becerra, a Democrat, in the general election. Tom Steyer, another Democrat, will not advance.",
-    "link": "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-10T04:49:06+00:00"
-  },
-  {
-    "title": "Watch: Residents flee as cars and houses burn in Belfast",
-    "description": "Police and firefighters help families leave their homes amid disorder following a knife attack.",
-    "link": "https://www.bbc.com/news/videos/c5yzpg514v0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc29/live/d40af940-647b-11f1-8546-8f19e4fe30f4.jpg",
-    "pubDate": "2026-06-10T04:17:20+00:00"
-  },
-  {
-    "title": "Illegal mini-marts to shut for up to 12 months under law change prompted by BBC",
-    "description": "Under current rules, shops breaking the law can only be closed for up to six months in England and Wales.",
-    "link": "https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/8a0ee320-64ac-11f1-8e1d-bbbb1017d210.jpg",
-    "pubDate": "2026-06-10T04:17:02+00:00"
-  },
-  {
-    "title": "Crypto users wary as Anthropic releases Claude Mythos with safeguards",
-    "description": "Venture capitalist Simon Dedic said Anthropic’s latest AI models drop the cost and skill needed to find crypto exploits to “basically zero.”",
-    "link": "https://cointelegraph.com/news/anthropic-releases-claude-mythos-with-safeguards-crypto-users-wary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hbGljZTAzLmpwZw==.jpg",
-    "pubDate": "2026-06-10T04:04:52+00:00"
-  },
-  {
-    "title": "Evette and Wilson Advance to Runoff in South Carolina Republican Primary for Governor",
-    "description": "Lt. Gov. Pamela Evette and Alan Wilson, the state attorney general, now head to a runoff in the Republican contest for governor. President Trump vowed to “fight” for Ms. Evette in the second round.",
-    "link": "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-governor-republican-evette-wilson.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-10T03:31:54+00:00"
-  },
-  {
-    "title": "Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release",
-    "description": "Dengeki Daisy returns to the spotlight with a brand-new anime adaptation scheduled for 2027",
-    "link": "https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/aaaabr1fezebssiviubtt68m5g5233g7pyi1hsgwkhjinocrzxg4elg_ljhq9ypxz302ic4bjbolblwdw3hs_9htflosxfroktnisot1.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-06-10T01:30:20+00:00"
-  },
-  {
-    "title": "Aliens: Fireteam Elite 2 preview: A flashy and entertaining co-op shooter",
-    "description": "Knowing Alien: Isolation 2 is on the way makes it easier to enjoy the vastly improved action of Aliens: Fireteam Elite 2 from Cold Iron Studios",
-    "link": "https://www.polygon.com/aliens-fireteam-elite-2-preview/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/afe2_mission3-2_screenshot_-6.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-10T01:00:20+00:00"
-  },
-  {
-    "title": "Kingdom Hearts fans cry foul over AI-generated artwork claims",
-    "description": "Many are accusing Square Enix of using ugly generative AI to create the box art for the new Kingdom Hearts Collection.",
-    "link": "https://www.polygon.com/kingdom-hearts-collection-ai-art-square-enix/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/kingdom-hearts-collection-cover-art.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-10T00:02:15+00:00"
-  },
-  {
-    "title": "Advanced radiotherapy for prostate cancer to cut sessions from 20 to five",
-    "description": "Some men in England with the disease will now be offered an advanced form of treatment on the NHS.",
-    "link": "https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2337/live/461b52a0-6490-11f1-8546-8f19e4fe30f4.jpg",
-    "pubDate": "2026-06-09T23:57:30+00:00"
-  },
-  {
-    "title": "With no team in World Cup, China fans rally around a red card-happy referee",
-    "description": "Ma Ning, known for his stern style, has sparked viral memes and attracted major brand sponsorships.",
-    "link": "https://www.bbc.com/news/articles/cx2x5z4202jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e30/live/fe3146e0-64b0-11f1-8e1d-bbbb1017d210.jpg",
-    "pubDate": "2026-06-09T23:49:56+00:00"
-  },
-  {
-    "title": "How to watch the key World Cup matches - and keep your job",
-    "description": "Football fans and bosses share their strategies to balance late night kick offs with work the next day.",
-    "link": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5904/live/3e5cd850-641c-11f1-9216-c3eba4acaf31.jpg",
-    "pubDate": "2026-06-09T23:03:08+00:00"
-  },
-  {
-    "title": "Kingdom Hearts, Final Fantasy, and Persona stole the show at Summer Game Fest 2026",
-    "description": "The Summer Game Fest 2026 events have been dominated by JRPGs from the release date of Persona 4 Revival to a better look at Kingdom Hearts 4",
-    "link": "https://www.polygon.com/jrpg-summer-game-fest-2026/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/persona4keyart.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-09T23:00:28+00:00"
-  },
-  {
-    "title": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
-    "description": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
-    "link": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108218698-1761754000890-gettyimages-2223502375-FRANCE_RAISE_SUMMIT.jpeg?v=1781041988&w=1920&h=1080",
-    "pubDate": "2026-06-09T22:29:25+00:00"
-  },
-  {
     "title": "23 Cobbler Recipes, Plus Crisps, Buckles, and Everything In Between",
     "description": "Brown butter peach, caramel apple, and more of our favorite easier-than-pies.",
     "link": "https://www.bonappetit.com/gallery/crisp-crumble-and-cobbler-recipes",
     "thumbnail": "https://assets.bonappetit.com/photos/64c962358cef01b48d38050d/master/pass/20230613%200923%20FOB28151.jpg",
     "pubDate": "2026-06-09T22:26:08+00:00"
-  },
-  {
-    "title": "A PS5 reveal game no-shows Summer Game Fest again, 11 years after its Kickstarter reveal",
-    "description": "Sony's \"Future of Gaming\" 2020 event revealed the PlayStation 5 and plenty of games that would come to it. Only one hasn't been released yet.",
-    "link": "https://www.polygon.com/summer-game-fest-2026-little-devil-inside-no-shows/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/little-devil-inside-trailer-screen-1.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-09T22:00:21+00:00"
   },
   {
     "title": "The Best Coffee Ice Cream, According to Our Taste Test",
@@ -476,95 +644,11 @@
     "pubDate": "2026-06-09T22:00:00+00:00"
   },
   {
-    "title": "As LIV Golf faces a Saudi funding cliff, CEO says to take PIF 'at their word'",
-    "description": "PIF is set to stop funding the golf league after the 2026 season, though LIV's Scott O'Neil could not guarantee that the final four tournaments will take place.",
-    "link": "https://www.cnbc.com/2026/06/09/liv-golf-ceo-pif-funding-cliff.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310579-1779375151055-gettyimages-2275518863-tk052567_wblhuxxi.jpeg?v=1779375172&w=1920&h=1080",
-    "pubDate": "2026-06-09T21:52:36+00:00"
-  },
-  {
-    "title": "MTG's Fantastic Four Commander decklist includes an expensive Doctor Who reprint",
-    "description": "Decklists for the Marvel Super Heroes Commander precons have been revealed, and the Fantastic Four deck includes a perfect reprint from Doctor Who.",
-    "link": "https://www.polygon.com/mtg-marvel-super-heroes-fantastic-four-commander-decklist-quantum-misalignment-reprint/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/quantum-misalignment-doctor-who-mtg.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-09T21:30:04+00:00"
-  },
-  {
-    "title": "ETH crash to $1K looms if key support breaks: Will futures traders step in?",
-    "description": "Ether’s futures open interest fell by 25%, putting pressure on the $1,500 support level. Is a drop to $1,000 next?",
-    "link": "https://cointelegraph.com/markets/ether-risks-revisit-of-1000-if-this-support-level-breaks-amid-leverage-reset-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yMTI3ODItZXRoZXJldW0ta3Vycy1ydXRzY2h0LXVudGVyLXdpY2h0aWdlLXRyZW5kbGluaWUtYWIta29tbXQtamV0enQtZGVyLWNyYXNoLmpwZw==.jpg",
-    "pubDate": "2026-06-09T21:21:47+00:00"
-  },
-  {
-    "title": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
-    "description": "The effort to push several tax bills is meant to be bipartisan, but the parties may not be comfortable with all details of the seven bills weighed by the panel.",
-    "link": "https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/976ce7e305132fada910cfe9bc3b0d8254ad588b-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-09T21:06:01+00:00"
-  },
-  {
-    "title": "GM eyes new battery chemistry to grow AI data center, energy storage business",
-    "description": "GM is expanding efforts to capitalize on the expected growth of energy storage and data centers and the development of next-generation sodium-ion batteries.",
-    "link": "https://www.cnbc.com/2026/06/09/gm-batteries-data-centers-energy-storage-business.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108134138-1745253696418-NYIAS_DeVries_04162025-62.jpg?v=1781036162&w=1920&h=1080",
-    "pubDate": "2026-06-09T21:02:10+00:00"
-  },
-  {
-    "title": "Nintendo's plans for the Ocarina of Time remake could shape the future of Zelda",
-    "description": "The Ocarina of Time remake raises questions about Nintendo's plans for Zelda's future, with no message about how traditional the game will be",
-    "link": "https://www.polygon.com/ocarina-of-time-remake-future-of-zelda-games/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ocarina-of-time-remake-future-of-zelda-games.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-09T21:00:20+00:00"
-  },
-  {
-    "title": "If You’re Not Ready For A Showcase, Nintendo, Don’t Force It",
-    "description": "Nintendo's decision to host a Nintendo Direct this June befuddles me. The virtual showcase wasn't terrible, but it certainly didn't wow me either. Deltarune is very cool, so it was nice to see a release date for Chapter 5, and I'm sure plenty of folks are thrilled to jump back into Pokemon Pokopia with its new expansion pass. But the games that would have been this Direct's big hitters, Kingdom Hearts IV and a remake for The Legend of Zelda: Ocarina of Time, got extremely short teasers that didn't drum up much hype (for me, anyway). The entire Direct felt somewhat lackluster, and I wonder why Nintendo didn't just hold off on having a showcase until later this year. The current landscape of virtual game showcases owes a lot to Nintendo. While major virtual presentations being livestreamed were a major part of E3 when that was still a thing, Nintendo established the framework for how showcases should work with its Directs, starting back in 2011. Nintendo basically separated itself from E3 entirely in 2013, ditching its annual stage presentation to just host Directs. And because of that, Nintendo no longer needed to be restrained to summer for big announcements. The community understood that Directs were their own thing, and they could be hosted at any time. This has been incredible for Nintendo as it's been able to have showcases whenever there has been something to showcase. While some Directs have been far more impressive than others, most of them--especially in recent years--have done a great job of getting the audience excited and talking about at least one game. Each one felt carefully curated and well-prepared. The lack of substantial gameplay or news for Kingdom Hearts IV and The Legend of Zelda: Ocarina of Time leaves me wondering why Nintendo revealed anything about them at all. These announcements felt undercooked, like they both could have spent a bit more time in secrecy before their public unveiling to the world. Comparing this Direct to more recent June Directs paints a stark contrast. In 2025, we got a substantial gameplay reveal for Donkey Kong Bananza; in 2024, we got the announcement and gameplay reveal for The Legend of Zelda: Echoes of Wisdom and both a gameplay reveal and plenty of new info for Metroid Prime 4: Beyond; and in 2023, we got the announcement and gameplay reveal for Pokemon Scarlet/Violet's two DLC expansions, the announcement and gameplay reveal for the remake of Super Mario RPG, the gameplay reveal for Pikmin 4, and the announcement and a pretty big gameplay reveal for Super Mario Bros. Wonder. When I compare those showcases to this year's Direct, it feels like night and day. Maybe something was happening behind the scenes that prevented Nintendo from being able to show what it planned to, or perhaps Nintendo thinks the mere mention of Ocarina of Time getting a remake for Switch 2 is an announcement on par with an entire gameplay reveal for Mario, Pokemon, Donkey Kong, Metroid, or any of its other first-party franchises. If anything, however, this showcase felt more like an act of obligation than anything else, as if Nintendo felt a need to showcase something, anything, to warrant being in the Summer Game Fest conversation. And, frankly, Nintendo doesn't need to be a part of the SGF conversation. It continues to draw viewership for its Directs and hype for its games, largely because its showcases for upcoming games almost always celebrate them with detailed looks at gameplay and fun insights from game directors or producers. If Nintendo somehow feels like it needs to host a Direct within the vicinity of SGF, I hope it ditches that philosophy soon. I'd much rather only have Directs when Nintendo has something it wants to show off, not when it feels pressured it has to show anything off.",
-    "link": "https://www.gamespot.com/articles/if-youre-not-ready-for-a-showcase-nintendo-dont-force-it/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/nin3.png?w=1024",
-    "pubDate": "2026-06-09T20:23:16+00:00"
-  },
-  {
-    "title": "Solana Institute CEO says CLARITY Act must shield open-source developers",
-    "description": "Kristin Smith urged the Senate to preserve developer protections in the CLARITY Act, arguing open-source builders should not be regulated as financial intermediaries.",
-    "link": "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xOTExNDEtc3RhYmxlY29pbi1iaWxsLW5leHQtc3RlcHMtY29uZ3Jlc3MuanBn.jpg",
-    "pubDate": "2026-06-09T20:05:52+00:00"
-  },
-  {
-    "title": "The Zelda: Ocarina of Time remake reveal during Nintendo Direct was a mistake",
-    "description": "Nintendo chose to run a short teaser for a game that had already leaked, leaving too many questions hanging",
-    "link": "https://www.polygon.com/nintendo-direct-zelda-ocarina-of-time-remake-trailer-mistake/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_thelegendofzelda_ocarinaoftime_screenshot.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-09T20:00:19+00:00"
-  },
-  {
-    "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect",
-    "description": "If the Wall Street consensus is correct, the consumer price index is expected to show inflation running at a 4.2% annual rate.",
-    "link": "https://www.cnbc.com/2026/06/09/the-may-inflation-numbers-are-due-out-wednesday-morning-heres-what-to-expect.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108307155-1778782582311-gettyimages-2276257565-_75a4177_xw8cb9fm.jpeg?v=1781033609&w=1920&h=1080",
-    "pubDate": "2026-06-09T19:49:59+00:00"
-  },
-  {
     "title": "Diners Are More Curious Than Ever—And It Has These James Beard Nominees Excited",
     "description": "Ahead of the James Beard Awards, six chefs share how eager crowds, passionate young cooks, and deep cultural storytelling keep them inspired.",
     "link": "https://www.bonappetit.com/story/james-beard-award-nominee-interviews",
     "thumbnail": "https://assets.bonappetit.com/photos/6a28683efe3c729f166145cc/master/pass/w_240.jpeg",
     "pubDate": "2026-06-09T19:42:58+00:00"
-  },
-  {
-    "title": "Kingdom Hearts Cloud Versions Shut Down Today, And You’ll Have To Buy New Versions To Keep Playing",
-    "description": "Prior to this week, the only options that Switch owners had to play the Kingdom Hearts franchise was via the cloud versions offered by Square Enix. However, with the new Switch and Switch 2 versions on the horizon, Square Enix has announced that Kingdom Hearts' Switch cloud versions are being delisted. The following titles will be affected by the decision and no longer playable after today, June 9. ・Kingdom Hearts - HD 1.5+2.5 ReMIX - Cloud Version・Kingdom Hearts HD 2.8 Final Chapter Prologue Cloud Version・Kingdom Hearts III + Re Mind (DLC) Cloud Version・Kingdom Hearts Integrum Masterpiece Cloud Version Separately, those game collections ranged from $40 to $50, while Kingdom Hearts Integrum Masterpiece brought them all together for $90. The newly announced digital versions of Kingdom Hearts - HD 1.5+2.5 ReMIX for Switch and Kingdom Hearts Collection [I~III] for Switch 2 are available for preorder now. Players who owned Switch cloud copies of previous Kingdom Hearts games are eligible to get a 50% discount on the following digital versions: ・Kingdom Hearts - HD 1.5+2.5 ReMIX - (Nintendo Switch and Nintendo Switch 2 version)・Kingdom Hearts HD 2.8 Final Chapter Prologue (Nintendo Switch 2 version)・Kingdom Hearts III + Re Mind (DLC) (Nintendo Switch 2 version)・Kingdom Hearts Collection [I~III] (Nintendo Switch 2 version) https://www.youtube.com/watch?v=ldMqRmTwy80 There will be a physical version of Kingdom Hearts Collection [I~III] for Switch 2, but the discount will not be offered for that compilation. There is one bright spot for players who owned cloud versions of these games. Square Enix has confirmed that the save data from those editions will be transferable to the Switch 2 digital versions. As for the future of the Kingdom Hearts franchise, Kingdom Hearts 4 received a surprise teaser during today's Nintendo Direct. That came with the news that the Switch 2 port of Kingdom Hearts 4 will arrive alongside its counterparts on Xbox Series X|S, PlayStation 5, and PC. For now, the sequel doesn't have a release date.",
-    "link": "https://www.gamespot.com/articles/kingdom-hearts-cloud-versions-shut-down-today-and-youll-have-to-buy-new-versions-to-keep-playing/",
-    "thumbnail": "",
-    "pubDate": "2026-06-09T19:31:49+00:00"
-  },
-  {
-    "title": "The New Guitar Hero–Err, Stage Tour–Reveals Its First Songs",
-    "description": "The Guitar Hero series made be dead and gone, but in its place comes a new game called Stage Tour, and it's made by the latest evolution of the same studio that created Guitar Hero. https://www.youtube.com/watch?v=kckXRmcp_Uk A critical component of any good music games is its tracklist, and the Embracer-owned RedOctane Games has announced the first seven tunes for Stage Tour. The officially licensed setlist includes songs from a range of genres, and features big-name bands like Red Hot Chili Peppers, Weezer, and Ghost. Stage Tour songs, so far \"RATATATA\" by Babymetal &amp; Electric Callboy \"Get the Funk Out\" by Extreme \"Square Hammer\" by Ghost \"Mimi's Delivery Service\" by Good Kid \"Dani California\" by Red Hot Chili Peppers \"Terminator Oscillator\" by Static-X \"Island in the Sun\" by Weezer RedOctane will announce more artists and tracks later this summer ahead of launch later this year on console and PC. Just like Guitar Hero and Rock Band before it, Stage Tour allows players to group up or play music solo on guitar, drums, keyboard, and vocals. Some of the in-game guitars for Stage Tour.In terms of peripherals, players can buy a specially designed guitar controller made in partnership with Gibson's Kramer, along with a modulator guitar kit. Additionally, Stage Tour features in-game guitars from Gibson, Epiphone, and Kramer, including the iconic Gibson SG.",
-    "link": "https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/guitars.webp?w=1024",
-    "pubDate": "2026-06-09T19:12:31+00:00"
   },
   {
     "title": "Perfect Pasta Primavera",
@@ -581,81 +665,11 @@
     "pubDate": "2026-06-09T18:53:38+00:00"
   },
   {
-    "title": "Destiny 2 Player Count Soars Above Marathon’s Highest Ever As Guardians Log On For  Final Update",
-    "description": "The Monument of Triumph update is the final content update for Destiny 2. When I first began playing the game a decade ago, I was instantly hooked. Over the years I've made friends, experienced the best long-running narrative in a game ever, and cleared all of my plans to be able to experience the newest raid, dungeon, or next story beat. This time around it's a little different. There is no race to be prepared for, and my clan hasn't been frantically discussing the best builds or possible strategies. We're all just going to log in one final time, see what Bungie has made for us, and enjoy it for what it is. It seems we're not alone in that sentiment, as the Destiny 2 player count on Steam alone has shot up to more than 160,000 and climbing (making it #7 on Steam's most-played charts currently). Notably, the player count is peaking at almost double that of Marathon's highest recorded on SteamDB. It's not quite the lofty heights of the finale of The Final Shape, or the release of Lightfall, which saw 316,750 Guardians log in to discover what would happen after the Vanguard discovered the pyramid-shaped fleet of The Witness was approaching. Still, it's a statement to Sony that people do still care about Destiny. A lot. As the player count soared, the old Destiny 2 traditions began to return in the form of server queues, error codes, and randomly getting kicked from an instance. It wouldn't be a Destiny 2 update without some technical issues, after all. There is still a petition running to get Sony and Bungie to consider making Destiny 3, although the creator of that petition, Luckyy10p, says it's been made to \"send a message\" rather than a genuine belief that this could turn the tide of the game's future. But if any decision makers from those companies are reading this article, we do, in fact, really want Destiny 3.",
-    "link": "https://www.gamespot.com/articles/destiny-2-player-count-soars-above-marathons-highest-ever-as-guardians-log-on-for-final-update/",
-    "thumbnail": "",
-    "pubDate": "2026-06-09T18:49:44+00:00"
-  },
-  {
     "title": "Where to Eat, Drink, and Stay in America's World Cup Cities",
     "description": "Soccer (football?) fever has officially taken ahold of the nation. Here’s how to maximize your enjoyment between matches.",
     "link": "https://www.bonappetit.com/story/world-cup-city-guides",
     "thumbnail": "https://assets.bonappetit.com/photos/6a1f27ff3dbb785c62d13251/master/pass/WORLD_CUP_CITIES_LEDE.jpg",
     "pubDate": "2026-06-09T18:40:00+00:00"
-  },
-  {
-    "title": "Final Fantasy 7 Revelation director confirms where the Gold Saucer fits into the story",
-    "description": "Final Fantasy 7 Revelation director Naoki Hamaguchi confirmed that the Gold Saucer is returning in the sequel, and it's getting a big makeover.",
-    "link": "https://www.polygon.com/final-fantasy-7-revelation-gold-saucer-interview/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25270105/Cait_Sith_Key_Art.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-09T18:30:21+00:00"
-  },
-  {
-    "title": "I Didn’t Care About The New Star Fox Until I Found Out Who’s Making It",
-    "description": "I never played much Star Fox as a kid. Save for maybe a few minutes here and there at a friend or cousin's house, I've basically not played the series whatsoever. So I was safely out on playing the new one arriving this summer for Switch 2. But a funny thing happened this morning: We actually learned who is making it--something that oddly doesn't happen much with Nintendo games until we can watch the credits--and the answer has completely changed my plans. The New York-based Velan Studios was delighted to announce today that it's the development team working with Nintendo on Star Fox, and that the game is built on Velan's proprietary engine, Viper. If you don't know it by name, Velan is a fairly young team, established in 2016, with several games to its name. Of those, the most important one to me is Knockout City. The 3v3 dodgeball game was an incredibly fun arcade sports game, and I've never really gotten over the game coming offline a few years ago. It's one of my favorite games ever. I've followed the team since then and have been enjoying its more recent release, Midnight Murder Club, a PvP shooter set in a completely darkened mansion that demands players rely on flashlights and sounds to track down their opponents. What these two very different games have in common, beyond their novel gameplay mechanics, is their abundance of charm. Both games offer ample opportunities for players to showcase their skills, but they were also soundtracked by the frequent laughter from those playing. There's a childlike heart to both games that can't be missed--what better way to capture a youthful spirit than things like dodgeball and hide-and-seek? https://bsky.app/profile/velanstudios.bsky.social/post/3mnuig2crp225 I don't know much about Star Fox, but to me, that sounds like the perfect team to take on a Nintendo franchise where players fly through space and perform daring combat maneuvers on an adventure with colorful characters. To the extent I can get away with \"rooting\" for a studio, a relatively small team that made one of my favorite games but has since suffered some commercial struggles seems to qualify. I assume the publisher and developer rekindled their relationship from earlier to make Star Fox happen. Believe it or not, the team's very first game was Nintendo's Mario Kart Live: Home Circuit, an augmented-reality racing game. Velan would later go on to use the same tech in a Hot Wheels game, too, and has also released a virtual-reality pinball game called Bounce Arcade. This type of portfolio suggests a team willing to try unconventional things, and to bring Star Fox back, I think you need to think outside the box. I'm excited to see Velan get called on for such a major project. As many players are surely returning to Star Fox as longtime fans hopeful for a revival that feels like it was worth the wait, I come to it from a decidedly different angle, but suddenly eager to play it, too.",
-    "link": "https://www.gamespot.com/articles/i-didnt-care-about-the-new-star-fox-until-i-found-out-whos-making-it/",
-    "thumbnail": "",
-    "pubDate": "2026-06-09T18:15:24+00:00"
-  },
-  {
-    "title": "The SpaceX–OpenAI IPO wave: What investors must do now",
-    "description": "",
-    "link": "https://finance.yahoo.com/video/spacex-openai-ipo-wave-investors-175555019.html",
-    "thumbnail": "https://s.yimg.com/os/en/thestreet_video_805/4f4b93eca0ae663c64f252704f1155eb",
-    "pubDate": "2026-06-09T17:55:55+00:00"
-  },
-  {
-    "title": "Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise",
-    "description": "Bitwise research suggests that Bitcoin is leading a broader risk-off move across markets as global liquidity and stablecoin reserves remain elevated.",
-    "link": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yMzI0MDUtaG93LXUtcy1iaXRjb2luLW1pbmVzLWFyZS1jaG9raW5nLXRoZS1ncmlkLWJpdG1haW4tYXQtdGhlLWNlbnRlci1vZi10aGUtc3Rvcm0uanBn.jpg",
-    "pubDate": "2026-06-09T17:48:44+00:00"
-  },
-  {
-    "title": "BBB refers prediction market Kalshi to state regulators over ad inquiry",
-    "description": "A BBB advertising watchdog escalated its review of Kalshi after the prediction market platform declined to participate in an inquiry into influencer disclosure practices.",
-    "link": "https://cointelegraph.com/news/bbb-nad-refers-kalshi-state-regulators-advertising-influencer-inquiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yNjc0MTEtY2Z0Yy1iYWNrcy1rYWxzaGktYXBwZWFscy1jb3VydC1vaGlvLXByZWRpY3Rpb24tbWFya2V0cy1maWdodC5qcGc=.jpg",
-    "pubDate": "2026-06-09T17:26:49+00:00"
-  },
-  {
-    "title": "Death Stranding Movie’s Script Is “Almost Done,” Director Says",
-    "description": "The upcoming Death Stranding movie from Backrooms studio A24 and director Michael Sarnoski remains in development, and now Sarnoski has provided an update on how it's coming along and what fans can expect. Sarnoski, who is also writing the script, told IGN he is \"almost done\" with it. Hideo Kojima, who is producing the movie, has seen drafts of the script and has passed along revisions, but there is no word on the specifics of the changes. \"Kojima has been really generous in letting me play in his world but letting me tell a story with my own characters and my own sort of corner of this world, but keeping it honest to the game and doing something that fans will really like. So it's been a great process so far, and I'm really excited to share it,\" he said. Sarnoski also said he was impressed that Kojima recognized some of the nods he put into the script, including a reference to the 1985 movie Come and See. \"He just knows movies incredibly well. So that's been very cool to see,\" Sarnoski said. That's not surprising to hear, as Kojima says 70% of his body is made up of movies. Sarnoski is known for directing the movies Pig and A Quiet Place: Day One. His next movie is The Death of Robin Hood, which stars Hugh Jackman as Robin Hood and releases on June 19. Not a whole lot is known about the Death Stranding movie and how it may differ from the games, but Sarnoski previously talked about how his aim is to capture the soul and themes of the game, while featuring new characters. Kojima himself was approached to direct the Death Stranding movie, but he declined. Kojima won't be “involved too much” because if he were, he would “start saying a lot of things.” It’s still early days for the Death Stranding movie and there is no word yet on a cast or a release date. Norman Reedus, who plays main character Sam in the Death Stranding games, has said he’s open to returning for the movie. A Death Stranding animated movie is also in the works, as part of the bigger Death Stranding universe. As for the game series, Death Stranding 2: On the Beach came out in June 2025, and while Kojima has ideas for Death Stranding 3, he doesn’t plan to make it himself. Kojima is also working on the games OD and Physint. A24 is also producing the Elden Ring movie, which is being directed by Oscar-nominated filmmaker Alex Garland.",
-    "link": "https://www.gamespot.com/articles/death-stranding-movies-script-is-almost-done-director-says/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/DS-1.png?w=1024",
-    "pubDate": "2026-06-09T17:16:48+00:00"
-  },
-  {
-    "title": "Overwatch’s New Hero Is A Cyberpunk Demon",
-    "description": "Overwatch's next hero is a dual-wielding cyberpunk demon named Shion, developer Blizzard has revealed, and she looks like she's ripped straight from Cyberpunk 2077. Shion is billed as \"the most terrifying elder of the Hashimoto Clan,\" a Japanese criminal family that has ties to the global terrorist organization Talon and is behind the assassination of Sojiro Shimada, the father of Hanzo and Genji. That should make for some interesting story developments between the two brothers and Shion, with Kiriko and Mizuki also shown in artwork for the new season and presumably set to play a role as well. https://www.youtube.com/watch?v=UKJL7JfIvNg A new animated story trailer gives players their first proper glimpse at Shion in action, as she battles against Sojourn on top of a train in order to obtain a mysterious shipment critical to Talon's plans. Looking almost entirely cybernetic, with red horns and a stylish white suit, she certainly makes a strong first impression, standing out among Overwatch's already incredibly distinct and diverse cast of playable heroes. The trailer doesn't give too much away in terms of what Shion's abilities or role might be, though she can be seen using two pistols and a knife. Her aggressive combat style and attitude is certainly giving Damage-role vibes, but we'll have to wait for Blizzard to reveal her toolkit to know for sure. In case her cyberpunk influences weren't obvious enough, she's also shown drifting around Tokyo on a motorcycle, Akira style. Players won't have to wait long to see more of Shion. She'll be arriving in Overwatch Season 3 for free on June 16, as the game continues its 2026 Reign of Talon storyline. Blizzard rebranded Overwatch 2 into simply Overwatch earlier this year in a massive update that added five new heroes at once. Blizzard additionally promised another new hero each season for the remainder of 2026, for a total of 10 new heroes this year. Season 2 introduced Sierra, a Damage hero with a grappling hook that saw players quickly complaining about her ultimate ability being too powerful. In other related news, some of Overwatch's most iconic characters are now in Fortnite.",
-    "link": "https://www.gamespot.com/articles/overwatchs-new-hero-is-a-cyberpunk-demon/",
-    "thumbnail": "",
-    "pubDate": "2026-06-09T17:15:57+00:00"
-  },
-  {
-    "title": "The Vampire Survivors Team Found The Perfect Anime To Adapt",
-    "description": "During the June Nintendo Direct, Vampire Survivors developer Poncle announced an adaptation of the hit manga and anime series Jujutsu Kaisen, called Jujutsu Kaisen Rumble: Survivaton. Like Vampire Survivors, players will battle sinister forces--Cursed Spirits born from humanity's fears and anxieties--grow in power, and eventually become the strongest sorcerer on the block. The only catch is that this is a multiplayer game, and there's only room for one survivor when the clock runs out. Up to eight players can compete online, and as you cut through enemies, you'll accumulate points. The top two players will face off in a duel, and only one of them will emerge victorious. Another cool feature directly inspired by the source material is how players can add rules once they gather 100 points. This is taken directly from the Culling Games arc of the Jujutsu Kaisen series, and allows for an opponent's momentum to be disrupted while you climb up the ranks. https://www.youtube.com/watch?v=yffQAXMLSL0 As you'd expect, powerful bosses will also appear while you're exorcising Cursed Spirits, new characters can be unlocked by meeting certain conditions, and each sorcerer has a unique ability. Poncle says that the game roster will include over 20 Jujutsu Kaisen characters, each with their own skills and playstyle. The game launches later in 2026 for PC, PS5, Xbox Series X|S, and Switch 2. If you haven't seen Jujutsu Kaisen yet, then you've missed out on one of the hottest anime adaptations of the 2020s. The show follows Yuji Itadori after he swallows the cursed finger--no, really--of history's greatest and most malevolent sorcerer, Ryomen Sukuna, and becomes a vessel for the genocidal hedonist. Throw in outstanding animation, a killer soundtrack, and memorable characters like a talking panda, and you've got all the ingredients you need for a hit anime. Meanwhile, Poncle remains busy with other projects, like a brand-new expansion for Vampire Survivors and a spin-off set in the Warhammer 40,000 universe. The developer also announced the formation of Survivaton, a new label dedicated to Survivors-like projects, and the formation of the studio's Japan branch.",
-    "link": "https://www.gamespot.com/articles/the-vampire-survivors-team-found-the-perfect-anime-to-adapt/",
-    "thumbnail": "",
-    "pubDate": "2026-06-09T17:13:21+00:00"
-  },
-  {
-    "title": "If You’ve Been Sitting On Xenoblade Chronicles, You Have No Excuse With These New Switch 2 Editions",
-    "description": "Xenoblade Chronicles has been one of Nintendo's most significant JRPG series in recent years, but also at a scope pushing the original Switch hardware beyond its limits. So if you've been waiting for a better opportunity to experience these games, Nintendo has announced during the summer Nintendo Direct that all three mainline games will be receiving Nintendo Switch 2 editions. And the first game is out digitally today. Originally released for Wii, the first Xenoblade Chronicles almost wasn't released outside of Japan until a fan campaign convinced Nintendo to localise the game. Since then, it's earned a reputation for being one of the best JRPGs, with epic storylines set on vast semi-open world environments. https://www.youtube.com/watch?v=vTaD8maruNs While there was a free Switch 2 update for Xenoblade Chronicles 3 that improved its performance, the newly announced Switch 2 editions mean that all three mainline games will be getting enhanced visuals and performance, giving you the most definitive version of each game. That doesn't mean this is just for newcomers, since if you already bought these games on Switch, there's also an upgrade path as with other Switch 2 Edition releases. But for fans who have already put in hundreds of hours across Bionis, Alrest, and Mira, there are also exclusive new features to make revisiting worthwhile. That includes a new high-speed vehicle in the first game, new mercenary squad battles in the second game, and new wave-based challenges in the third game. Fortunately, given the time sink these games are, Nintendo has wisely opted to spread these releases out. The Switch 2 Edition of Xenoblade Chronicles: Definitive Edition is out digitally today, Xenoblade Chronicles 2 is out digitally on July 30, and Xenoblade Chronicles 3 is out December 3. Each of these upgrades is priced at $10 for owners of the Switch 1 versions.",
-    "link": "https://www.gamespot.com/articles/if-youve-been-sitting-on-xenoblade-chronicles-you-have-no-excuse-with-these-new-switch-2-editions/",
-    "thumbnail": "",
-    "pubDate": "2026-06-09T16:19:11+00:00"
   },
   {
     "title": "National mall footwear giant closes 82 stores as shoppers trade up",
@@ -665,25 +679,11 @@
     "pubDate": "2026-06-09T16:07:09+00:00"
   },
   {
-    "title": "Dragon’s Dogma 2: Dark Arisen Lets You Explore The Snowy Region Of Norgan",
-    "description": "Capcom and Nintendo have revealed Dragon's Dogma 2: Dark Arisen for Nintendo Switch 2, bringing the epic action-adventure sequel to the portable console later this year. This expanded version of the game will also be available for PS5, Xbox Series X|S, and PC. https://twitter.com/NintendoEurope/status/2064348850324750526?s=20 Announced as part of the June 2026 Nintendo Direct, Dragon's Dogma 2: Dark Arisen arrives on October 9, with this new version of the title bringing some fresh additions and tweaks to gameplay. There will be new character customization options (with new hairstyles and tattoos) and 12 Lost Rites Dungeon Challenges, described as \"freshly uncovered dungeons house trials designed by the Pathfinder to sharpen the Arisen’s skills and recover rare equipment once held by past Arisen that now lay dormant.\" The trailer reveals that this version is an expanded take on the original release of Dragon's Dogma 2, and players can expect to explore the new region of Norgan. Plus, there is a new system that allows players to find spoils and appraise them, all to access a new series of weapons, armors, and skills. Two \"major\" updates are also planned, including one releasing today, June 9, with quality-of-life tweaks and improved fast travel. An update in late August will improve the game's frame rate, provide more save slots, and other adjustments. Dark Arisen will be priced at $50, or as a DLC for owners of the original version on PS5, Xbox Series X|S, and PC for $30. For more news and announcements from today's event, be sure to check out our roundup of the biggest Nintendo Direct reveals.",
-    "link": "https://www.gamespot.com/articles/dragons-dogma-2-dark-arisen-lets-you-explore-the-snowy-region-of-norgan/",
-    "thumbnail": "",
-    "pubDate": "2026-06-09T14:44:40+00:00"
-  },
-  {
     "title": "The Roar of ‘Cease-Fire’ in a Once-Thriving City",
     "description": "The city of Nabatieh once spoke to the changing fortunes of Lebanon. Now, amid unending war, it speaks to the country’s worst fears.",
     "link": "https://www.nytimes.com/2026/06/09/world/middleeast/lebanon-israel-nabatieh.html",
     "thumbnail": "",
     "pubDate": "2026-06-09T09:03:43+00:00"
-  },
-  {
-    "title": "56-year-old beloved fast-food chain closes over 700 locations",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/articles/56-old-beloved-fast-food-005500959.html",
-    "thumbnail": "https://s.yimg.com/os/en/thestreet_881/88dd6a0aec9f401bbaf782c623dd510c",
-    "pubDate": "2026-06-09T00:55:00+00:00"
   },
   {
     "title": "The Best Pellet Smokers for Easy Wood-Fired Cooking (2026)",
