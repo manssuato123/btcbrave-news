@@ -1,10 +1,416 @@
 [
   {
-    "title": "Steven Spielberg breaks down the most important line in Disclosure Day",
-    "description": "For Steven Spielberg, his new sci-fi movie Disclosure Day isn't just entertainment, it's rooted in truth",
-    "link": "https://www.polygon.com/steven-spielberg-disclosure-day-interview-aliens-president-civilian/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/et.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-12T12:30:19+00:00"
+    "title": "Trump denies Iran's account of deal terms, decries new drone attack: 'Dishonorable people'",
+    "description": "\"They better get their act together, and FAST!\" President Donald Trump said of Iran one day after announcing that a deal would be finalized within days.",
+    "link": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108320694-1781211867799-gettyimages-2280450070-AFP_B6TM8NV.jpeg?v=1781211934&w=1920&h=1080",
+    "pubDate": "2026-06-12T15:46:06+00:00"
+  },
+  {
+    "title": "Opera Company Sues to Collect $17 Million From the Kennedy Center",
+    "description": "The Washington National Opera, which left the center amid the Trump administration’s takeover, says its efforts to retrieve its endowment and other assets have been blocked.",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-washington-national-opera-lawsuit-endowment.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T15:45:39+00:00"
+  },
+  {
+    "title": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
+    "description": "A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward.",
+    "link": "https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108320336-1781190877801-gettyimages-2281077484-wm022686_xivobjme.jpeg?v=1781190923&w=1920&h=1080",
+    "pubDate": "2026-06-12T15:42:41+00:00"
+  },
+  {
+    "title": "Oil prices fall even as U.S. and Iran give conflicting accounts of draft deal",
+    "description": "Oil prices fell Friday after a proposed peace deal that would see the Strait of Hormuz reopen was reported by Iranian state media.",
+    "link": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108305940-1778618617116-APA_UK_Ops_01_LowRes.jpg?v=1778618953&w=1920&h=1080",
+    "pubDate": "2026-06-12T15:40:47+00:00"
+  },
+  {
+    "title": "Taliesin Jaffe just answered one of Critical Role's biggest mysteries in the latest Campaign 4 episode",
+    "description": "There are many mysteries surrounding Critical Role, but Taliesin Jaffe just answered one of the biggest in the latest Campaign 4 episode.",
+    "link": "https://www.polygon.com/critical-role-taliesin-jaffe-campaign-4/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/critical-role-campaign-4.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-12T15:39:25+00:00"
+  },
+  {
+    "title": "Alarm as Ebola spreads into new areas of DR Congo",
+    "description": "Cases are being identified in new health zones on a near-daily basis, warns WHO's head of epidemiology.",
+    "link": "https://www.aljazeera.com/news/2026/6/12/alarm-as-ebola-spreads-into-new-areas-of-dr-congo?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2c148f49a1-1781273743.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-12T15:37:25+00:00"
+  },
+  {
+    "title": "The S&amp;P 500 ETF Nobody Talks About That Could Beat VOO",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-etf-nobody-talks-153500559.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/jtGnEl5DRjKCCKTnRspopA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/90a14882687c6d848a3266083f5a0704",
+    "pubDate": "2026-06-12T15:35:00+00:00"
+  },
+  {
+    "title": "Why Intuitive Machines Stock Crashed Today",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-stock-crashed-153500627.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/xonHC1kf7qH4UvCfnWfvkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/cafaa2af38f9c9e8a52999945d49797d",
+    "pubDate": "2026-06-12T15:35:00+00:00"
+  },
+  {
+    "title": "Madison Small Cap Fund Bets on Matador Resources Company (MTDR) For Its Compelling Valuation",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/madison-small-cap-fund-bets-152807014.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/fda93525f7b3e39df94db7fc5b6e76e2",
+    "pubDate": "2026-06-12T15:28:07+00:00"
+  },
+  {
+    "title": "Charles River Labs (CRL) Pulled Back Due to AI Disruption Fears",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/charles-river-labs-crl-pulled-152635926.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/0e857ae9b0144d1996b14fb908ea3840",
+    "pubDate": "2026-06-12T15:26:35+00:00"
+  },
+  {
+    "title": "Madison Small Cap Fund Increased Medpace Holdings (MEDP), Downplaying AI Fears",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/madison-small-cap-fund-increased-152442965.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/4e7d4156e21c19cbd6b25347626139ce",
+    "pubDate": "2026-06-12T15:24:42+00:00"
+  },
+  {
+    "title": "Zimbabwe moves to regulate cryptocurrency sector",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/zimbabwe-moves-regulate-cryptocurrency-sector-152428850.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/a8ed5033dd7ec27fdb16aae4dffabbef",
+    "pubDate": "2026-06-12T15:24:28+00:00"
+  },
+  {
+    "title": "George Miller wants to make one more Mad Max movie",
+    "description": "Mad Max has been around for almost 50 years, but creator George Miller still has a couple more stories he wants to tell.",
+    "link": "https://www.polygon.com/mad-max-george-miller-one-more-movie-fury-road-furiosa/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/4161692/mad-max.0.jpg?w=1200&h=675&fit=crop",
+    "pubDate": "2026-06-12T15:23:00+00:00"
+  },
+  {
+    "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
+    "description": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI.",
+    "link": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108321064-1781276251919-108321064-1781273449146-IMG_9300.jpg?v=1781276262&w=1920&h=1080",
+    "pubDate": "2026-06-12T15:22:26+00:00"
+  },
+  {
+    "title": "Viavi Solutions (VIAV) Gained from the Acquisition and Improved Demand",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/viavi-solutions-viav-gained-acquisition-152218632.html",
+    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/ef9664db3d0fd729c7e54e7888e0286b",
+    "pubDate": "2026-06-12T15:22:18+00:00"
+  },
+  {
+    "title": "CarMax, In Turnaround Mode, Scores Breakout Before Earnings; AI Investors Eye Jabil Results",
+    "description": "",
+    "link": "https://www.investors.com/research/earnings-preview/carmax-stock-new-ceo-earnings-ai-stock-jabil-jbl-markets/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2023/06/Stock-carmaxsign-01-shutt.jpg",
+    "pubDate": "2026-06-12T15:21:10+00:00"
+  },
+  {
+    "title": "Options volume in space stocks boomed as investors look for any way 'to get long SpaceX'",
+    "description": "\"There's a ton of short-dated call buying in these names as a way to get long SpaceX,\" Danny Kirsch, head of options trading at Piper Sandler, said.",
+    "link": "https://www.cnbc.com/2026/06/12/space-stocks-jump-with-huge-demand-as-investors-clamor-for-any-way-to-get-long-spacex.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316641-1780576649687-gettyimages-2278971084-yanow-notitle260603_npjFK.jpeg?v=1780576706&w=1920&h=1080",
+    "pubDate": "2026-06-12T15:18:50+00:00"
+  },
+  {
+    "title": "Ministers want 60% of children walking or cycling to school by 2035",
+    "description": "Thousands of safer paths and crossings are promised to help people become more active in England's towns and cities.",
+    "link": "https://www.bbc.com/news/articles/c3wyezwly69o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ba/live/b365b500-6650-11f1-8e1d-bbbb1017d210.jpg",
+    "pubDate": "2026-06-12T15:11:57+00:00"
+  },
+  {
+    "title": "Activists form human Palestine flag at World Cup opener in Mexico City",
+    "description": "Pro-Palestinian demonstrators gathered in Mexico City to form a giant human Palestinian flag.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/activists-form-human-palestine-flag-at-world-cup-opener-in-mexico-city?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-4.05.19-pm-1781276740.png?resize=1200%2C675",
+    "pubDate": "2026-06-12T15:06:04+00:00"
+  },
+  {
+    "title": "Ben Starr Auditioned For James Bond In First Light, But He’s “So F**king Happy” He Didn’t Get it",
+    "description": "Actor Ben Starr, known for his roles in Final Fantasy XVI, Clair Obscur: Expedition 33, and Hades 2, has revealed that he auditioned for the role of James Bond in 007: First Light. He didn't get the part, which ultimately went to Patrick Gibson, and Starr said he was \"so f**king happy\" to have not gotten the role. \"I never would have gotten it. I was terrible,” Starr told VGC. “I remember doing a self-tape for it. I did the GoldenEye scene, and I got recalled to meet the team. “I was a couple of years into doing Final Fantasy at that point, and it hadn’t been released, so I was just a young actor who liked video games,\" he added. Ben Starr.Although Starr got a callback for the part, he said he \"kind of crumbled under the pressure\" and did not \"deliver what they wanted.\" \"I’m so f**king happy I didn’t get anywhere near it, because my god, Patrick Gibson is so f**king good. He’s unbelievable,” Starr said. First Light is expected to get a sequel, and we'd imagine that Gibson would come back for it. As for Starr, one of his upcoming projects is for the strategy game Stronghold 4.",
+    "link": "https://www.gamespot.com/articles/ben-starr-auditioned-for-james-bond-in-first-light-but-hes-so-fking-happy-he-didnt-get-it/",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T15:01:30+00:00"
+  },
+  {
+    "title": "Stuntman: Hollywood is a brilliant idea, with an uneven execution",
+    "description": "Saber Interactive is reviving Stuntman with Back to the Future, Fast &amp; Furious, and Miami Vice-themed stunts for Stuntman Hollywood.",
+    "link": "https://www.polygon.com/stuntman-hollywood-game-preview-back-to-the-future-fast-furious/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/stuntman_-hollywood-screen-2.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-12T15:00:20+00:00"
+  },
+  {
+    "title": "Erosion preview: the best thing to happen to roguelikes since Hades",
+    "description": "Erosion is a Wild West-themed roguelike that plays with the genre in fascinating way. Read Polygon's Erosion preview for more.",
+    "link": "https://www.polygon.com/erosion-preview-summer-game-fest-2026/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ss_129883af2ee654e4af0136f5a2ce79e2053d6479-1920x1080.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-12T15:00:20+00:00"
+  },
+  {
+    "title": "Titanfall Fans Are In For A Treat With Empulse",
+    "description": "Splitgate developer 1047 Games is back with Empulse, a new competitive shooter that, as GameSpot discovered, is to Titanfall 2 what Splitgate was to Halo. Jean-Luc got to go hands-on with the new shooter, which enters early access later this month. Though it's heavily inspired by the Titanfall games, which should be pretty clear from the gameplay footage, it wasn't the sole source of inspiration for Empulse. Jean-Luc found the gunplay to feel closer to the Halo-y style of Splitgate than the ADS-heavy Titanfall, but the movement and grappling abilities, as well as the mechs (yes, this game has mechs) should be very familiar to fans of Respawn's masterpiece. One big change from Titanfall 2 is the way you deal with those mechs if you're on the ground. There are no dedicated anti-mech guns here, but you do have access to a big ol' hammer that is very effective against them. Rather than use a free-to-play model like Splitgate, Empulse is a $20 release, and 1047 is going with an old-school monetization approach--there will be no cash shop when the game launches in early access on June 24 for PS5, Xbox Series X|S, and PC. A demo will be available via Steam Next Fest on June 15.",
+    "link": "https://www.gamespot.com/articles/titanfall-fans-are-in-for-a-treat-with-empulse/",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T15:00:00+00:00"
+  },
+  {
+    "title": "Watch: Four UFO videos newly declassified by US government",
+    "description": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
+    "link": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2c/live/d7a50d30-666e-11f1-8e1d-bbbb1017d210.jpg",
+    "pubDate": "2026-06-12T14:59:52+00:00"
+  },
+  {
+    "title": "Defence row exposes tensions over how to keep UK safe",
+    "description": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\".",
+    "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e7/live/10eb00d0-6666-11f1-b68a-af11ef3c7f8c.jpg",
+    "pubDate": "2026-06-12T14:46:23+00:00"
+  },
+  {
+    "title": "Re:Zero season 4 takes back Subaru's progress to go back to the series' roots",
+    "description": "A big twist in Re:Zero season 4 undoes all the growth the protagonist went through to rely once again on the series' main gimmick.",
+    "link": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/subaru-rezero.avif?w=1200&h=675&fit=crop",
+    "pubDate": "2026-06-12T14:45:52+00:00"
+  },
+  {
+    "title": "Archaeologists find ancient female-led society in Turkiye",
+    "description": "Archaeologists have discovered evidence of an ancient female-led society in the ruins of a city in present-day Turkiye.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/archaeologists-find-ancient-female-led-society-in-turkiye?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781275270.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-12T14:41:24+00:00"
+  },
+  {
+    "title": "Nintendo Loves Remaking 3D Zelda Games, But For Some Reason, Not The 2D Classics",
+    "description": "After months of speculation, The Legend of Zelda: Ocarina of Time was unveiled for Switch 2 during this week's Nintendo Direct. It's the latest in a long line of remakes and remasters for Zelda 3D titles, but also raises the question: Why aren't there new versions of the franchise's first three mainline entries? Nintendo has never remade The Legend of Zelda, Zelda II: The Adventure of Link, or The Legend of Zelda: A Link to the Past. These 2D classics for NES and SNES are what made people fall in love with the action-adventure series to begin with. They even feature gameplay features still seen today in the series, like puzzle-filled dungeons, pot breaking, and satisfying secrets to discover. https://www.youtube.com/watch?v=Ze-346WTsI0 Weirdly, the only 2D Zelda to get a proper remake is The Legend of Zelda: Link's Awakening on Switch. That's the fourth entry in the mainline franchise, and while a dark-horse favorite of fans, it doesn't have the same widespread acclaim as A Link to the Past. In fact, to this day, many still consider that SNES game as the pinnacle of the series. The Legend of Zelda: A Link to the Past did get re-released on Game Boy Advance, with multiplayer-centric The Four Swords added on to the experience. That game's version of Hyrule was also remade in A Link Between Worlds--so maybe Nintendo considers that 3DS title to be a remake of sorts. But still, in a world where every 3D Zelda game has received the remake or remaster treatment (including Switch 2 Edition upgrades), it's a bit odd Nintendo hasn't given the same glow-ups to the original triforce of games in the franchise. Sure, I'd prefer new Zelda games over these, as someone who remembers playing A Link to the Past as a kid. But at the same time, those 2D classics deserve a second time in the spotlight. Meanwhile, The Legend of Zelda: Ocarina of Time will see its second remake later this year on Switch 2 after previously getting a 3DS makeover in 2011. Nintendo withheld showing any gameplay in the reveal trailer, which hopefully signals bigger changes than just a visual overhaul. Best Zelda Games, Ranked – Where Does Echoes of Wisdom Fall? View Images",
+    "link": "https://www.gamespot.com/articles/nintendo-loves-remaking-3d-zelda-games-but-for-some-reason-not-the-2d-classics/",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T14:41:23+00:00"
+  },
+  {
+    "title": "Berserk returns with a crucial chapter Kentaro Miura wrestled with for 20 years",
+    "description": "Berserk is back and it's not slowing down again with three new chapters on the way following the hotly anticipated release of chapter 384",
+    "link": "https://www.polygon.com/berserk-new-chapter-384-kentaro-miura-20-years/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22527938/guts.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-12T14:39:39+00:00"
+  },
+  {
+    "title": "Kagurabachi anime gets first main character trailer and visual",
+    "description": "We have our first look at Chihiro Rokuhira in the upcoming Kagurabachi anime.",
+    "link": "https://www.polygon.com/kagurabachi-anime-trailer-chihiro/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/11893387/1_xeIOEO_TieWgOOiBUHuvnQ.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-12T14:33:18+00:00"
+  },
+  {
+    "title": "Why Mo Amer jokes to survive",
+    "description": "He’s become one of the most prominent Palestinian voices in comedy, but can Mo Amer laugh through this moment?",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/12/why-mo-amer-jokes-to-survive-2?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781274112.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-12T14:32:52+00:00"
+  },
+  {
+    "title": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
+    "description": "Trump decries 'dishonorable people' after reports Iran made few concessions in deal US has said could be soon signed.",
+    "link": "https://www.aljazeera.com/news/2026/6/12/dishonorable-trump-says-leaked-iran-ceasefire-terms-fake?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2c25985ee3-1781278104.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-12T14:24:03+00:00"
+  },
+  {
+    "title": "What the SpaceX I.P.O. Means for You, and a Giant Act of Vandalism in D.C.",
+    "description": "Plus, the Friday news quiz.",
+    "link": "https://www.nytimes.com/2026/06/12/podcasts/the-headlines/spacex-ipo-washington-vandalism.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T14:23:32+00:00"
+  },
+  {
+    "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
+    "description": "While SpaceX's IPO has caused alarm that it may be overvalued, some retail investors still want in.",
+    "link": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108318741-1781008157990-gettyimages-2280020806-AFP_B6F749C.jpeg?v=1781008180&w=1920&h=1080",
+    "pubDate": "2026-06-12T14:21:20+00:00"
+  },
+  {
+    "title": "A Taskmaster movie could be on the horizon",
+    "description": "In an interview with Greg Davies and Alex Horne, the pair confirmed they want to see a Taskmaster movie soon, like a Batman Begins-style origin story.",
+    "link": "https://www.polygon.com/taskmaster-movie-greg-davies-alex-horne-interview/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/taskmaster-movie-greg-davies-alex-horne.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-12T14:19:59+00:00"
+  },
+  {
+    "title": "SpaceX’s Gwynne Shotwell had IPO doubts for years, now she has a message for investors",
+    "description": "Gwynne Shotwell, long Elon Musk's second-in-command at SpaceX, spoke exclusively with CNBC ahead of her company's highly anticipated IPO.",
+    "link": "https://www.cnbc.com/2026/06/12/spacex-coo-gwynne-shotwell-spcx-ipo.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108320427-1781269436404-108320427-1781196078851-SG_Shotwell_2.jpg?v=1781269460&w=1920&h=1080",
+    "pubDate": "2026-06-12T14:19:24+00:00"
+  },
+  {
+    "title": "Donaldson denies meeting sex abuse accuser to 'nip in the bud' allegations",
+    "description": "Sir Jeffrey Donaldson, the former Democratic Unionist Party (DUP) leader, is on trial for 18 sex abuse charges, including one count of rape, all of which he denies.",
+    "link": "https://www.bbc.com/news/articles/cwyex8lk70jo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a2/live/954a09f0-6645-11f1-8a2f-f94ffe061a79.jpg",
+    "pubDate": "2026-06-12T14:14:13+00:00"
+  },
+  {
+    "title": "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
+    "description": "The onetime FTX CEO did not persuade a panel of judges that his trial was unfair, the appeals court panel ruled Friday.",
+    "link": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9bdd3fc3f543991024fca10da5eb3b01b469ff94-1798x1012.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-12T14:13:40+00:00"
+  },
+  {
+    "title": "XRP sentiment falls to 8-month low, and that has been a buy signal before",
+    "description": "Santiment's weighted sentiment gauge for XRP just hit its weakest reading since October 2025. The firm notes the token's strongest rebounds have tended to start when the crowd was this checked out.",
+    "link": "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e967c0a6b3495d0572d5a7ca83e35490a1e10f74-2048x1365.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-12T14:08:03+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
+    "pubDate": "2026-06-12T14:05:58+00:00"
+  },
+  {
+    "title": "Celebrated British artist David Hockney dies aged 88",
+    "description": "Hockney, one of the UK's most important and influential artists, has died at the age of 88.",
+    "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb3/live/deb28ba0-6661-11f1-b1db-af71d47507d6.jpg",
+    "pubDate": "2026-06-12T14:03:35+00:00"
+  },
+  {
+    "title": "After 8 years, Steven Spielberg is finally returning to the genre he helped define",
+    "description": "Here's how Spielberg's sci-fi filmogrophy is still unmatched today despite an 8-year hiatus from the genre.",
+    "link": "https://www.polygon.com/steven-spielberg-sci-fi-movies-influence/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ready-player-one.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-12T14:01:08+00:00"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time remake's biggest challenge is voice acting and music",
+    "description": "Nintendo's 2026 version of The Legend of Zelda: Ocarina of Time faces changes to one of the all time great game soundtracks",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-voice-acting-music-audio/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19626989/ocarina_emulated.0.0.jpg?w=1200&h=675&fit=crop",
+    "pubDate": "2026-06-12T14:00:20+00:00"
+  },
+  {
+    "title": "The Last Of Us Season 3 Adds Big-Name Actor, But You Won’t Recognize Who He’s Playing",
+    "description": "The latest developments for HBO's The Last of Us are coming into focus, including production shutting down due to the World Cup and a big name joining the cast. Deadline reports that production on Season 3 is undergoing a \"mid-shoot hiatus\" for about a month. This is because the show films in Vancouver, and that's also a World Cup regional site. This is causing headaches and disruptions locally, so HBO has opted to shut down production temporarily. The World Cup final takes place on July 19. It's not precisely clear when production on Season 3 will resume, but Deadline said it's expected to film through the end of 2026, with the new season debuting in 2027. As previously reported, it could be the show's final season. As for the new cast member, the report said veteran character actor Peter Sarsgaard is going to play the role of Amon, a leader of the Seraphites. If that name does not sound familiar, it's because Amon was invented for the show, and we'll apparently be seeing a lot of him. The report said Amon will be a recurring character. Amon isn't The Last of Us show's first original character not from the games, as Yellowjackets actor Melanie Lynskey played the revolutionary leader Kathleen. Additionally, Season 1 showed fans the life of Frank (Murray Bartlett), who was only seen in the games as a dead body. Sarsgaard has more than 70 acting credits to his name. He is known for his roles in the movies Garden State, Jarhead, Black Mass, The Batman, and Green Lantern. He's done a lot of TV work as well, including Dopesick and Presumed Innocent; he earned Emmy nominations for both of those shows. Craig Mazin is the sole showrunner for Season 3, following the departure of Neil Druckmann. The story is expected to focus on Abby (Kaitlyn Dever), though Ellie (Bella Ramsey) is going to show up as well. Ramsey has said that after The Last of Us, they plan to steer away from those kinds of roles. As for the game series, The Last of Us: Part III is rumored to be in the works at Naughty Dog, but this is not confirmed. The company is working on Intergalactic: The Heretic Prophet right now",
+    "link": "https://www.gamespot.com/articles/the-last-of-us-season-3-adds-big-name-actor-but-you-wont-recognize-who-hes-playing/",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T13:47:17+00:00"
+  },
+  {
+    "title": "Kennedy Center Appeals Order to Remove Trump’s Name",
+    "description": "One day before a deadline to take the president’s name off its facade, the arts institution appealed a federal judge’s ruling that also temporarily blocked it from closing.",
+    "link": "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T13:42:17+00:00"
+  },
+  {
+    "title": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+    "description": "Ukraine says its 'lockdown' strategy is working as it disrupts Russian supply lines.",
+    "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-10T112158Z_644796289_RC2XQLAMRE6N_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV-1781267604.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-12T13:34:49+00:00"
+  },
+  {
+    "title": "Indonesian students protest gov’t policies amid economic strain",
+    "description": "Scuffles broke out as some demonstrators attempted to break through the police lines and metal barricades.",
+    "link": "https://www.aljazeera.com/news/2026/6/12/indonesian-students-protest-govt-policies-amid-economic-strain?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26163376596375-1781265095.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-12T13:33:54+00:00"
+  },
+  {
+    "title": "Video: AI models predict World Cup results",
+    "description": "We asked four AI models to predict the winner of the 2026 FIFA World Cup.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-ai-models-predict-world-cup-results?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781270944.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-12T13:29:12+00:00"
+  },
+  {
+    "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
+    "description": "Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third time, just weeks before the end of the EU crypto framework's transitional period.",
+    "link": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9wb2xpY3ltYWtlci1iaWxsLXBvbGFuZC5qcGc=.jpg",
+    "pubDate": "2026-06-12T13:25:53+00:00"
+  },
+  {
+    "title": "David Hockney, Who Restored the Human Form to Art, Dies at 88",
+    "description": "His colorful figurative paintings were both conservative and iconoclastic, defying the dominant abstract schools of the mid-20th century.",
+    "link": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T13:19:45+00:00"
+  },
+  {
+    "title": "Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’",
+    "description": "US actor Jerry Seinfeld is facing backlash after saying Palestine ‘doesn’t exist’.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/backlash-after-us-actor-jerry-seinfeld-says-palestine-doesnt?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-14.12.28-1781270226.png?resize=1920%2C1271",
+    "pubDate": "2026-06-12T13:18:28+00:00"
+  },
+  {
+    "title": "Israeli tech firm accused of targeting First Minister John Swinney in election",
+    "description": "Accounts linked to tech firm BlackCore are alleged to have carried out 'digital interference operations' against John Swinney.",
+    "link": "https://www.bbc.com/news/articles/c77yje7n287o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae8/live/cfc82940-6659-11f1-9afd-55fafa742f4a.jpg",
+    "pubDate": "2026-06-12T13:18:09+00:00"
+  },
+  {
+    "title": "Are Iran, US really close to a breakthrough ‘deal’?",
+    "description": "Trump says a deal with Iran could be signed in Europe over the weekend. Tehran cautions against speculation.",
+    "link": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AA-20260608-41614642-41614638-DAILY_LIFE_IN_TEHRAN_CONTINUES_AS_USUAL_DESPITE_TENSIONS_WITH_ISRAEL_US-1781046723.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-12T13:16:30+00:00"
+  },
+  {
+    "title": "CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower",
+    "description": "Cronos (CRO), down 1.4% from Thursday, was also an underperformer.",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9f15d1510512028900ecbba53c587837289bc142-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-12T13:11:26+00:00"
+  },
+  {
+    "title": "The Best Countertop Microwaves Are Actually Pretty Cheffy (2026)",
+    "description": "The latest batch of microwaves to hit the market are loaded with new features that do, well, everything.",
+    "link": "https://www.bonappetit.com/story/best-countertop-microwaves",
+    "thumbnail": "https://assets.bonappetit.com/photos/67c89cce65d1a7c8565ee24a/master/pass/BA%20Webart_Best%20Microwave_2000x1125.jpg",
+    "pubDate": "2026-06-12T13:09:00+00:00"
+  },
+  {
+    "title": "Risk Strait of Hormuz or Wait? Shipping Companies Face a Costly Dilemma.",
+    "description": "With more than 500 ships still stranded in the Persian Gulf, pressure on the shipowners and sailors is growing by the day.",
+    "link": "https://www.nytimes.com/2026/06/12/business/strait-hormuz-ships-iran.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T13:07:49+00:00"
+  },
+  {
+    "title": "London council takes possession of property linked to Sierra Leone's First Lady",
+    "description": "Southwark Council in south London takes possession of a property linked to Sierra Leone's Fatima Bio.",
+    "link": "https://www.bbc.com/news/articles/clyxkeny8x6o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0a7/live/a7207570-665d-11f1-9afd-55fafa742f4a.jpg",
+    "pubDate": "2026-06-12T13:05:29+00:00"
+  },
+  {
+    "title": "KuCoin has not paid $2M award tied to delisted token dispute, investor says",
+    "description": "A Seychelles court said KuCoin can’t treat unwithdrawn tokens as “abandoned,” and awarded a Swiss investor over $2 million. He says the exchange still hasn’t paid and plans to sue again.",
+    "link": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9qdWRnZS1oYW1tZXItcmVndWxhdGlvbi1jb3VydC1sYXctanVkZ21lbnQtc2V5Y2hlbGxlcy5qcGc=.jpg",
+    "pubDate": "2026-06-12T13:03:23+00:00"
+  },
+  {
+    "title": "The S&amp;P 500 already made a big call on SpaceX stock and index fund investors need to know it",
+    "description": "The S&amp;P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
+    "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316646-1780576777896-gettyimages-2278971115-yanow-notitle260603_npb6Q.jpeg?v=1780576801&w=1920&h=1080",
+    "pubDate": "2026-06-12T12:35:55+00:00"
   },
   {
     "title": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
@@ -14,109 +420,25 @@
     "pubDate": "2026-06-12T12:30:13+00:00"
   },
   {
-    "title": "Renowned British artist David Hockney dies aged 88",
-    "description": "Hockney is considered an influential and defining figure in 20th and 21st century contemporary painting.",
-    "link": "https://www.aljazeera.com/news/2026/6/12/renowned-british-artist-david-hockney-dies-aged-88?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2bf4cbe4a7-1781265611.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-12T12:19:54+00:00"
-  },
-  {
-    "title": "Thai Princess Bajrakitiyabha dies after years in coma",
-    "description": "Thailand is mourning Princess Bajrakitiyabha, the king's eldest child and potential heir, who died at 47.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/thai-princess-bajrakitiyabha-dies-after-years-in-coma?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781266496.jpg?resize=1620%2C1080&quality=80",
-    "pubDate": "2026-06-12T12:15:06+00:00"
-  },
-  {
-    "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-    "description": "While SpaceX's IPO has caused alarm that it may be overvalued, some retail investors still want in.",
-    "link": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108318741-1781008157990-gettyimages-2280020806-AFP_B6F749C.jpeg?v=1781008180&w=1920&h=1080",
-    "pubDate": "2026-06-12T12:10:26+00:00"
-  },
-  {
-    "title": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
-    "description": "The struggle over military service is stoking protests, threatening Israel's coalition and reshaping political debate.",
-    "link": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/08/AFP__20250819__69XX4R6__v2__HighRes__TopshotIsraelPoliticsMilitaryReligion-1755640109.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-12T12:08:33+00:00"
-  },
-  {
-    "title": "What the SpaceX I.P.O. Means for You, and a Giant Act of Vandalism in D.C.",
-    "description": "Plus, the Friday news quiz.",
-    "link": "https://www.nytimes.com/2026/06/12/podcasts/the-headlines/spacex-ipo-washington-vandalism.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-12T12:06:04+00:00"
-  },
-  {
-    "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
-    "description": "The attacks come as Iranian media reports that a draft peace deal with the US would include ending the war in Lebanon.",
-    "link": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2be6c2-1781262018.jpg?resize=1200%2C675",
-    "pubDate": "2026-06-12T12:02:56+00:00"
-  },
-  {
-    "title": "Final Fantasy 7 Revelation director reveals 9 revelations about FF7 Revelation",
-    "description": "Final Fantasy 7 Revelation director Naoki Hamaguchi gave us plenty of new information about the remake trilogy's grand finale.",
-    "link": "https://www.polygon.com/final-fantasy-7-revelation-naoki-hamaguchi-interview/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ff7-revelation-kaiju.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-12T12:00:19+00:00"
-  },
-  {
-    "title": "The Consequences of SpaceX’s Trillion-Dollar I.P.O.",
-    "description": "SpaceX’s trading debut is expected to smash records. Wall Street is watching to see what else it disrupts.",
-    "link": "https://www.nytimes.com/2026/06/12/business/dealbook/musks-spacex-ipo-playbook.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-12T11:54:20+00:00"
-  },
-  {
-    "title": "Nineteen now arrested over Northern Ireland disorder with house targeted in arson",
-    "description": "Thursday night was relatively quiet although police say an arson attack in north Belfast is linked to the disorder.",
-    "link": "https://www.bbc.com/news/articles/cwy03rneqxzo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7461/live/c299e2b0-6639-11f1-b9fb-a3131f00d96e.jpg",
-    "pubDate": "2026-06-12T11:51:54+00:00"
-  },
-  {
-    "title": "Donaldson denies meeting sex abuse accuser to 'nip in the bud' allegations",
-    "description": "Sir Jeffrey Donaldson, the former Democratic Unionist Party (DUP) leader, is on trial for 18 sex abuse charges, including one count of rape, all of which he denies.",
-    "link": "https://www.bbc.com/news/articles/cwyex8lk70jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a2/live/954a09f0-6645-11f1-8a2f-f94ffe061a79.jpg",
-    "pubDate": "2026-06-12T11:47:58+00:00"
-  },
-  {
-    "title": "Space stocks jump with huge demand as investors clamor for any way 'to get long SpaceX'",
-    "description": "Options volumes are booming in stocks with ties to SpaceX ahead of Friday's historic debut.",
-    "link": "https://www.cnbc.com/2026/06/12/space-stocks-jump-with-huge-demand-as-investors-clamor-for-any-way-to-get-long-spacex.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316641-1780576649687-gettyimages-2278971084-yanow-notitle260603_npjFK.jpeg?v=1780576706&w=1920&h=1080",
-    "pubDate": "2026-06-12T11:41:56+00:00"
+    "title": "Metaplanet to form securities arm through Siiibo acquisition",
+    "description": "Metaplanet will acquire Siiibo Securities and rename it Metaplanet Securities as it builds out Project Nova, its Bitcoin-centric finance strategy in Japan.",
+    "link": "https://cointelegraph.com/news/metaplanet-to-form-securities-arm-through-siiibo-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1kZWZpLXdvbnQtbGFzdC1sb25nLXdpdGhvdXQtdW5sb2NraW5nLWJpdGNvaW5zLXRyZWFzdXJlLWNoZXN0LW1ldGFwbGFuZXQuanBn.jpg",
+    "pubDate": "2026-06-12T12:05:09+00:00"
   },
   {
     "title": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut",
-    "description": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut on June 12.",
+    "description": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut today.",
     "link": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/musk-colonizing-the-blockchain-on-different-planets-spacex-ipo.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9tdXNrLWNvbG9uaXppbmctdGhlLWJsb2NrY2hhaW4tb24tZGlmZmVyZW50LXBsYW5ldHMtc3BhY2V4LWlwby5qcGc=.jpg",
     "pubDate": "2026-06-12T11:32:44+00:00"
   },
   {
-    "title": "A year after Air India crash killed 260: Do we know what happened?",
-    "description": "Families of victims still await a final report about the Boeing 787 Dreamliner that crashed in Ahmedabad last year.",
-    "link": "https://www.aljazeera.com/news/2026/6/12/a-year-after-air-india-crash-killed-260-do-we-know-what-happened?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2bc7bd6025-1781254077.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-12T11:32:18+00:00"
-  },
-  {
-    "title": "France-Germany jet plans crash: Can Europe end reliance on US for security?",
-    "description": "Despite the collapse of European fighter jet venture, there is optimism about the future of Europe's strategic autonomy.",
-    "link": "https://www.aljazeera.com/features/2026/6/12/france-germany-jet-plans-crash-can-europe-ever-end-us-security-reliance?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2ad09ed921-1781190814.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-12T11:30:40+00:00"
-  },
-  {
-    "title": "A Trillionaire?",
-    "description": "SpaceX is expected to make Elon Musk even richer when its stock begins trading today.",
-    "link": "https://www.nytimes.com/2026/06/12/briefing/a-trillionaire.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-12T11:24:46+00:00"
+    "title": "Analyst Report: Oracle Corp",
+    "description": "",
+    "link": "https://finance.yahoo.com/research/reports/ARGUS_3282_AnalystReport_1781263588000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+    "pubDate": "2026-06-12T11:26:28+00:00"
   },
   {
     "title": "For crypto, SpaceX's stock market debut could go either way",
@@ -126,13 +448,6 @@
     "pubDate": "2026-06-12T11:23:25+00:00"
   },
   {
-    "title": "Ministers want 60% of children walking or cycling to school by 2035",
-    "description": "Thousands of safer paths and crossings are promised to help people become more active in England's towns and cities.",
-    "link": "https://www.bbc.com/news/articles/c3wyezwly69o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ba/live/b365b500-6650-11f1-8e1d-bbbb1017d210.jpg",
-    "pubDate": "2026-06-12T11:21:47+00:00"
-  },
-  {
     "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
     "description": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame.",
     "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
@@ -140,60 +455,18 @@
     "pubDate": "2026-06-12T11:12:11+00:00"
   },
   {
-    "title": "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
-    "description": "President Tinubu takes victorious tone despite recent mass kidnappings by armed groups across the country.",
-    "link": "https://www.aljazeera.com/news/2026/6/12/nigeria-killed-more-than-13000-terrorists-in-past-year-president-says?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26152714645729-1781257872.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-12T11:11:47+00:00"
-  },
-  {
-    "title": "Monero prices rocket to $438 amid $120 million onchain laundering maze",
+    "title": "Monero price rockets 33% to $438 amid $120 million onchain laundering maze",
     "description": "Onchain sleuth ZachXBT traced remaining funds across exchanges, instant swap services and other blockchains. Tether later froze $72 million in USDT linked to the activity.",
     "link": "https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/282dbd19bbd00126a9a72810cfb32368577aa952-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-06-12T11:10:51+00:00"
   },
   {
-    "title": "Kennedy Center Appeals Order to Remove Trump’s Name",
-    "description": "One day before a deadline to take the president’s name off its facade, the arts institution appealed a federal judge’s ruling that also temporarily blocked it from closing.",
-    "link": "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-12T11:10:47+00:00"
-  },
-  {
-    "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
-    "description": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
-    "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3735/live/52638200-663c-11f1-b9fb-a3131f00d96e.jpg",
-    "pubDate": "2026-06-12T11:02:44+00:00"
-  },
-  {
-    "title": "The Fall of the House of Usher is a Gothic-thriller you need to binge on Netflix",
-    "description": "Mike Flanagan's 8-part miniseries follows some of the most deplorable people you'll ever meet. It's the perfect binge-watch.",
-    "link": "https://www.polygon.com/the-fall-of-the-house-of-usher-netflix-mike-flanagan/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/house-of-usher-kate-siegel.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-12T11:00:20+00:00"
-  },
-  {
-    "title": "SpaceX’s Gwynne Shotwell had IPO doubts for years, now she has a message for investors",
-    "description": "Gwynne Shotwell, long Elon Musk's second-in-command at SpaceX, spoke exclusively with CNBC ahead of her company's highly anticipated IPO.",
-    "link": "https://www.cnbc.com/2026/06/12/spacex-coo-gwynne-shotwell-spcx-ipo.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108320427-1781196078851-SG_Shotwell_2.jpg?v=1781260648&w=1920&h=1080",
-    "pubDate": "2026-06-12T10:59:16+00:00"
-  },
-  {
     "title": "Bitcoin miner 'capitulation' comes as trader sees later 2026 bear-market bottom",
     "description": "Bitcoin miner metic sparked talk of \"capitulation\" as profit margins stayed under 5%, but the BTC price bear-market bottom remained absent.",
     "link": "https://cointelegraph.com/markets/bitcoin-miner-capitulation-comes-as-trader-sees-later-2026-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/how-bitcoin-mining-really-works.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1pcy1iaXRjb2luLW1pbmluZy1zdGlsbC1wcm9maXRhYmxlLmpwZw==.jpg",
     "pubDate": "2026-06-12T10:46:54+00:00"
-  },
-  {
-    "title": "Riots, violence, hate: Anti-immigrant unrest spells danger in Belfast",
-    "description": "Crowds exploiting a knife attack are inflicting terror on Northern Ireland's ethnic minority communities.",
-    "link": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-11T113949Z_1294012910_RC2NRLA11AMV_RTRMADP_3_NIRELAND-STABBING-1781256718.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-12T10:43:15+00:00"
   },
   {
     "title": "While bitcoin holds near $63,000, some data points to pain ahead for bulls",
@@ -203,32 +476,18 @@
     "pubDate": "2026-06-12T10:41:24+00:00"
   },
   {
-    "title": "New Zealand great Kane Williamson retires from international cricket",
-    "description": "New Zealand's most prolific run-scorer and arguably greatest-ever batsman announces immediate retirement.",
-    "link": "https://www.aljazeera.com/sports/2026/6/12/new-zealand-great-kane-williamson-retires-from-international-cricket?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a2bde7313-1781259891_7cb23a-1781260544.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-06-12T10:36:49+00:00"
-  },
-  {
-    "title": "Oil prices fall on proposed U.S.-Iran peace deal to reopen Strait of Hormuz",
-    "description": "Oil prices fell Friday after a proposed peace deal that would see the Strait of Hormuz reopen was reported by Iranian state media.",
-    "link": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108305940-1778618617116-APA_UK_Ops_01_LowRes.jpg?v=1778618953&w=1920&h=1080",
-    "pubDate": "2026-06-12T10:24:38+00:00"
+    "title": "What I Learned From David Hockney",
+    "description": "The curator Norman Rosenthal knew the artist for over 60 years and still discovered something new when they collaborated on a final blockbuster show.",
+    "link": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-norman-rosenthal.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-12T10:21:12+00:00"
   },
   {
     "title": "SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium",
     "description": "SpaceX’s IPO hype may fuel a strong debut, but history shows richly valued listings often struggle after the first-day pop fades.",
     "link": "https://cointelegraph.com/markets/spacex-ipo-update-whale-opens-223m-spcx-long-as-synthetic-price-hits-30-premium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-pilot-launch-what-it-means-for-pioneers-spacex.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1waWxvdC1sYXVuY2gtd2hhdC1pdC1tZWFucy1mb3ItcGlvbmVlcnMtc3BhY2V4LmpwZw==.jpg",
     "pubDate": "2026-06-12T10:18:58+00:00"
-  },
-  {
-    "title": "Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says",
-    "description": "U.S. President Donald Trump said Thursday that the Strait of Hormuz would be reopened as soon as a deal is signed.",
-    "link": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108319105-1781034764748-2026-06-08T105559Z_1023452775_RC2DPLATQG7Z_RTRMADP_3_IRAN-CRISIS.JPG?v=1781034844&w=1920&h=1080",
-    "pubDate": "2026-06-12T10:18:29+00:00"
   },
   {
     "title": "Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans",
@@ -252,32 +511,11 @@
     "pubDate": "2026-06-12T10:00:00+00:00"
   },
   {
-    "title": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
-    "description": "Powerful Shia leader Muqtada al-Sadr among those who say their groups will integrate into the state.",
-    "link": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2bcb364de8-1781254966.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-12T09:55:11+00:00"
-  },
-  {
     "title": "Crypto scammers exploit World Cup ticket demand, TRM warns",
     "description": "FIFA and the FBI warned of ticket scams as TRM Labs identified World Cup-themed crypto fraud operations tied to multiple wallet addresses.",
     "link": "https://cointelegraph.com/news/trm-world-cup-crypto-scams-fake-tickets-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-at-the-fifa-world-cup.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG8tYXQtdGhlLWZpZmEtd29ybGQtY3VwLmpwZw==.jpg",
     "pubDate": "2026-06-12T09:52:36+00:00"
-  },
-  {
-    "title": "Art's great innovator whose vivid paintings made him a household name",
-    "description": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
-    "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b138/live/4dce5590-6654-11f1-8546-8f19e4fe30f4.jpg",
-    "pubDate": "2026-06-12T09:52:22+00:00"
-  },
-  {
-    "title": "Risk Strait of Hormuz or Wait? Shipping Companies Face a Costly Dilemma.",
-    "description": "With more than 500 ships still stranded in the Persian Gulf, pressure on the shipowners and sailors is growing by the day.",
-    "link": "https://www.nytimes.com/2026/06/12/business/strait-hormuz-ships-iran.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-12T09:25:43+00:00"
   },
   {
     "title": "How SpaceX’s IPO Compares With Saudi Aramco, Uber and Others",
@@ -301,17 +539,10 @@
     "pubDate": "2026-06-12T07:57:47+00:00"
   },
   {
-    "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
-    "description": "Meta has reportedly begun dismantling its acquisition of Manus, moving to comply with Beijing's unprecedented order to hand back the Chinese-founded AI startup.",
-    "link": "https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279325-1773812817915-gettyimages-2255015559-img_4584.jpeg?v=1773812854&w=1920&h=1080",
-    "pubDate": "2026-06-12T07:41:11+00:00"
-  },
-  {
     "title": "International sting shuts down $390M crypto money-laundering ring",
     "description": "Eleven countries were involved in the joint operation that ended the AudiA6 crypto laundering ring and Dark2Web marketplace.",
     "link": "https://cointelegraph.com/news/international-sting-shuts-down-390m-crypto-money-laundering-ring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-china-exit-scam-1.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jaGluYS1leGl0LXNjYW0tMS5qcGc=.jpg",
     "pubDate": "2026-06-12T07:12:06+00:00"
   },
   {
@@ -322,17 +553,10 @@
     "pubDate": "2026-06-12T07:07:34+00:00"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "pubDate": "2026-06-12T07:00:00+00:00"
-  },
-  {
     "title": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy",
     "description": "Galaxy’s Alex Thorn says a plan to scrap rules on stock orders and quotes would remove a major barrier to tokenized stocks trading on decentralized platforms.",
     "link": "https://cointelegraph.com/news/sec-plan-to-scrap-rule-611-a-boon-for-tokenized-us-stocks-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/sec-crypto-regulation.jpg",
+    "thumbnail": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9zZWMtY3J5cHRvLXJlZ3VsYXRpb24uanBn.jpg",
     "pubDate": "2026-06-12T06:44:20+00:00"
   },
   {
@@ -343,25 +567,11 @@
     "pubDate": "2026-06-12T06:38:32+00:00"
   },
   {
-    "title": "Live updates: Bitcoin traders eye rally to $75,000, Japan set to hike rate to 31-year high",
-    "description": "Crypto firmed across the board following the largest equity listing in history. The token most tied to Elon Musk traded right in line with the market.",
-    "link": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-12T06:32:02+00:00"
-  },
-  {
-    "title": "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
-    "description": "The former regulator joined a number of interest groups in arguing that prediction markets are overstepping their bounds by offering sports-related contracts.",
-    "link": "https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b37bc2b824a457a4798985cd6489a6e7ebeea6ef-5034x2832.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-12T06:27:20+00:00"
-  },
-  {
-    "title": "SpaceX's crypto-traded IPO was sharply falling. It now points upward to a $2.4 trillion valuation",
-    "description": "The SPCX perpetual on Hyperliquid has bounced from this week’s lows, while Bloomberg says other shadow markets now imply a first-day gain of more than 35%.",
-    "link": "https://www.coindesk.com/markets/2026/06/12/spacex-s-crypto-traded-ipo-was-sharply-falling-it-now-points-upward-to-a-usd2-4-trillion-valuation",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f5a6cbbad8505fcb84a8993e11450483758425e7-1780x1186.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-12T06:13:44+00:00"
+    "title": "'Best Canada team ever' bid to shine at home World Cup",
+    "description": "Amid political turbulence in the US and talk of moving matches out of Mexico, it can be forgotten that there is a third co-host of the 2026 World Cup. Canada hope it will be their time to shine.",
+    "link": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f66/live/1baa6380-52ac-11f1-9ab8-af14435162fc.jpg",
+    "pubDate": "2026-06-12T06:12:21+00:00"
   },
   {
     "title": "Grooming survivors left with criminal records still being failed, BBC told",
@@ -371,48 +581,6 @@
     "pubDate": "2026-06-12T05:03:32+00:00"
   },
   {
-    "title": "LG, Arbitrum launch blockchain-based bid in $679B ad market",
-    "description": "LG is building a blockchain focused on buying and selling ads, joining a wave of companies launching their own blockchains in recent years.",
-    "link": "https://cointelegraph.com/news/lg-arbitrum-launch-blockchain-based-bid-for-679b-ad-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/binoculars-dollar.jpg",
-    "pubDate": "2026-06-12T04:32:04+00:00"
-  },
-  {
-    "title": "Coinbase launches tool letting AI agents make payments and trade crypto",
-    "description": "Coinbase for Agents will allow users of the crypto exchange to manage their holdings without \"constant manual oversight,” autonomously performing a range of tasks.",
-    "link": "https://cointelegraph.com/news/coinbase-launches-tool-letting-ai-agents-make-payments-and-trade-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-coinbase-transaction-ai.jpg",
-    "pubDate": "2026-06-12T04:19:03+00:00"
-  },
-  {
-    "title": "Avalanche Treasury falls 16% as it debuts on Nasdaq",
-    "description": "Avalanche Treasury holds about 15 million of the blockchain’s native token, AVAX, which is trading at a five-year low.",
-    "link": "https://cointelegraph.com/news/avalanche-treasury-starts-trading-on-nasdaq-but-shares-fall-16-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-avalanche-avax-ecosystem.jpg",
-    "pubDate": "2026-06-12T04:16:51+00:00"
-  },
-  {
-    "title": "'No-one knows it's on' - NBA Finals feed US World Cup apathy",
-    "description": "With the World Cup under way, how excited are people across the United States - and do they even know it is on?",
-    "link": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9d9/live/fb473080-65c7-11f1-a495-71dd2487e71b.jpg",
-    "pubDate": "2026-06-12T04:11:21+00:00"
-  },
-  {
-    "title": "U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe",
-    "description": "The plan, outlined by officials and in a written document, provides rare clarity about the extent to which the Trump administration intends to reduce its commitment to NATO.",
-    "link": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-12T04:01:04+00:00"
-  },
-  {
-    "title": "Taskmaster pays Tim Key a yearly fee to do 'literally nothing'",
-    "description": "British comedian Tim Key is paid £50 per year by Taskmaster to do \"literally nothing\" according to the show's hosts, Greg Davies and Alex Horne.",
-    "link": "https://www.polygon.com/taskmaster-tim-key-paid-do-nothing/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/taskmaster-tim-key.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-12T00:30:20+00:00"
-  },
-  {
     "title": "Pirro's losses in Fed investigation should stay on the books, judge rules",
     "description": "In a scathing ruling, Judge James Boasberg denied U.S. Attorney for the District of Columbia Jeanine Pirro's request to vacate his earlier orders.",
     "link": "https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html",
@@ -420,25 +588,11 @@
     "pubDate": "2026-06-12T00:19:38+00:00"
   },
   {
-    "title": "'I spent uni savings on getting my teeth fixed' - the real cost of NHS dentist shortage",
-    "description": "People tell BBC Your Voice the rising cost of private dentistry is putting them in a difficult position.",
-    "link": "https://www.bbc.com/news/articles/czrx7pvx57eo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcbc/live/dffc4bf0-65ac-11f1-8e1d-bbbb1017d210.jpg",
-    "pubDate": "2026-06-11T23:03:30+00:00"
-  },
-  {
-    "title": "My friends always want to split the bill equally, how do I say no?",
-    "description": "It is never easy to speak up when a fellow diner says \"let's just divide it!\"",
-    "link": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fd/live/ba3a51f0-65bb-11f1-bdbe-7dc6d39617db.jpg",
-    "pubDate": "2026-06-11T23:00:29+00:00"
-  },
-  {
-    "title": "Spider-Verse creators are returning to 21 Jump Street for 24 Jump Street",
-    "description": "Lord and Miller are producing 24 Jump Street, the sequel to 22 Jump Street, with Jonah Hill, Channing Tatum and Ice Cube in talks to return.",
-    "link": "https://www.polygon.com/24-jump-street-movie-sequel-lord-miller/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22979120/INTjumpstreet.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-11T22:37:24+00:00"
+    "title": "SpaceX IPO live updates: Elon Musk's  set to make record debut as Dow, S&amp;P 500, Nasdaq rise",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/live/spacex-ipo-live-updates-elon-musks-set-to-make-record-debut-as-dow-sp-500-nasdaq-rise-230015551.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/J4BPIzzuQdNsirT4aHdbEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-06/4e199ecd-7e08-4100-a6e2-8157090bb8fa",
+    "pubDate": "2026-06-11T23:00:15+00:00"
   },
   {
     "title": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
@@ -448,46 +602,11 @@
     "pubDate": "2026-06-11T21:28:03+00:00"
   },
   {
-    "title": "Widow's Bay season 2 confirmed by Apple TV",
-    "description": "Apple TV's horror-comedy Widow's Bay just got greenlit for a second season, a win for one of the best television shows of 2026",
-    "link": "https://www.polygon.com/widows-bay-season-2-announced-apple-tv/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/widows-bay.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-11T21:14:26+00:00"
-  },
-  {
-    "title": "Summer Game Fest 2026 is over, so it's time to rank the showcase waiting room music",
-    "description": "As all the Summer Game Fest 2026 showcases and announcements draw to a close, we take on the important task of ranking the pre-show music",
-    "link": "https://www.polygon.com/summer-game-fest-2026-waiting-room-music-ranked/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/summer-game-fest-music-ranking.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-11T21:00:21+00:00"
-  },
-  {
-    "title": "Taskmaster 'feels a lot more fun now' according to Greg Davies and Alex Horne",
-    "description": "Taskmaster has just wrapped up its 21st season, and even though the format hasn't changed, the hosts explain how it's different behind the scenes.",
-    "link": "https://www.polygon.com/taskmaster-greg-davies-alex-horne-feels-more-fun/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/taskmaster-feels-more-fun-now.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-11T21:00:21+00:00"
-  },
-  {
-    "title": "Zelda's Great Deku Tree Lego set is retiring and nearly sold out",
-    "description": "The Legend of Zelda 2-in-1 Great Deku Tree Lego set is retiring this month and sold out almost everywhere: But you can still get one.",
-    "link": "https://www.polygon.com/lego-legend-of-zelda-deku-tree-set-retiring-sold-out/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25467557/77092_Lifestyle_Build_11_3000x2000.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-11T20:51:36+00:00"
-  },
-  {
     "title": "The Best Carbon Steel Pans, the Pan of Choice for Pro Chefs (2026)",
     "description": "They’re all over professional kitchens for a reason.",
     "link": "https://www.bonappetit.com/story/best-carbon-steel-pans",
     "thumbnail": "https://assets.bonappetit.com/photos/67225648c510db13014e6042/master/pass/best-carbon-steel-pans_LEDE_V2_102424_2980_VOG_Badge_final.jpg",
     "pubDate": "2026-06-11T20:45:23+00:00"
-  },
-  {
-    "title": "The Witcher 3 Songs of the Past DLC was a surprise to Geralt himself",
-    "description": "The Witcher 3's next expansion Songs of the Past was recently announced. It'll be Doug Cockle's return to voicing Geralt, a role he's had since 2007.",
-    "link": "https://www.polygon.com/witcher-3-dlc-geralt-actor-interview-doug-cockle/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-3-songs-of-the-past-key-art-cropped.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-11T20:30:23+00:00"
   },
   {
     "title": "GTA 5 Joins A Subscription Ahead Of GTA 6 Launch",
@@ -497,25 +616,11 @@
     "pubDate": "2026-06-11T19:17:41+00:00"
   },
   {
-    "title": "New Xbox Exec Advocates For Something Everyone Hates To Help Save Gaming",
-    "description": "Xbox chief strategy officer Matthew Ball believes one way to help revitalize gaming is through something most people do not care for: in-game ads. Speaking to The Game Business, Ball said there exists a \"two-sided problem\" in the modern gaming space. Development costs for many games are now \"way too high,\" and consumers do not want to pay more. Something has got to give, and one possible solution, as Ball sees it, is through advertising. He cited streaming TV as an example here, saying most of the growth for a variety of streaming platforms comes from ad-supported tiers. At the same time, people can still pay money to kill the ads on higher-priced tiers. While ad-based games are already prevalent and popular on mobile, they are less so on console. Finding a solution on console for ad-supported games could be one of the ways the gaming business can return to growth, Ball said. \"The question is not can we cram ads in everything. The question is, are there opportunities that allow the people who can’t afford, or wouldn’t try, to have an onboard to our properties and franchises?\" he said. Ball went on to say he has nothing to share about Microsoft's plans specifically, but he said companies would be smart to look at advertising to help grow and manage costs. “How do we keep our products affordable? How do we make sure that we can continue to fund outstanding work from our development teams? That’s the goal. It’s not about placing an ad in front of someone so that we can sell, you know, a pizza,\" he said. Ball previously advocated for more in-game ads, saying people should embrace them, or else things may just get worse for developers and consumers alike. \"We don’t want layoffs, we don’t want fewer games, we don’t just want the same games … We don’t want price increases. The money needs to come in one way or another,\" he said. Developers have tried in-game ads before, like with EA Sports UFC 4's pause-screen ads. There was a swift and angry backlash, and EA removed these ads. Before that, Square Enix launched a gaming platform, Core Online, that allowed people to play games for free in exchange for watching ads, but people didn't embrace it and Square Enix quickly shut it down. Former BioWare veteran Mark Darrah recently said developers can make more money and help the industry become more sustainable by selling product placement. “Product placement is a very small part of video games right now compared to movies and television. Maybe it could be a larger part of development. Maybe there are relationships there to be formed,\" he said. Take-Two boss Strauss Zelnick, meanwhile, has said in-game ads for full-priced games \"would seem unfair.\" Ball joined Xbox earlier this year as Chief Strategy Officer as part of Xbox CEO Asha Sharma's new leadership team. He recently said Xbox languished under previous leaders Phil Spencer and Sarah Bond and has said he is a \"strategic optimist\" when it comes to trying to fix Xbox. Sharma recently announced plans to \"reset\" the Xbox business, and this is expected to include more layoffs and possible studio closures in July.",
+    "title": "New Xbox Exec Clarifies Recent Comments About In-Game Ads",
+    "description": "Xbox chief strategy officer Matthew Ball has clarified comments he made about in-game ads. He set the record straight, saying he was responding to comments he made prior to joining Xbox and that his comments do not necessarily reflect Microsoft's \"plans or beliefs.\" \"What I do say is that ads should be used to offer more affordable alternatives alongside today's ad-free experiences, in the hopes more could play as a result. Similar to how Netflix and Disney+ have ad-tiers with all the same content, but at half the price or so,\" he added. \"At no point do I even mention in-game ads. I personally believe interrupting the gameplay experience would be bad.\" The original story is below. Speaking to The Game Business, Ball said there exists a \"two-sided problem\" in the modern gaming space. Development costs for many games are now \"way too high,\" and consumers do not want to pay more. Something has got to give, and one possible solution, as Ball sees it, is through advertising. He cited streaming TV as an example here, saying most of the growth for a variety of streaming platforms comes from ad-supported tiers. At the same time, people can still pay money to kill the ads on higher-priced tiers. While ad-based games are already prevalent and popular on mobile, they are less so on console. Finding a solution on console for ad-supported games could be one of the ways the gaming business can return to growth, Ball said. \"The question is not can we cram ads in everything. The question is, are there opportunities that allow the people who can’t afford, or wouldn’t try, to have an onboard to our properties and franchises?\" he said. Ball went on to say he has nothing to share about Microsoft's plans specifically, but he said companies would be smart to look at advertising to help grow and manage costs. “How do we keep our products affordable? How do we make sure that we can continue to fund outstanding work from our development teams? That’s the goal. It’s not about placing an ad in front of someone so that we can sell, you know, a pizza,\" he said. Ball previously advocated for more in-game ads, saying people should embrace them, or else things may just get worse for developers and consumers alike. \"We don’t want layoffs, we don’t want fewer games, we don’t just want the same games … We don’t want price increases. The money needs to come in one way or another,\" he said. Developers have tried in-game ads before, like with EA Sports UFC 4's pause-screen ads. There was a swift and angry backlash, and EA removed these ads. Before that, Square Enix launched a gaming platform, Core Online, that allowed people to play games for free in exchange for watching ads, but people didn't embrace it and Square Enix quickly shut it down. Former BioWare veteran Mark Darrah recently said developers can make more money and help the industry become more sustainable by selling product placement. “Product placement is a very small part of video games right now compared to movies and television. Maybe it could be a larger part of development. Maybe there are relationships there to be formed,\" he said. Take-Two boss Strauss Zelnick, meanwhile, has said in-game ads for full-priced games \"would seem unfair.\" Ball joined Xbox earlier this year as Chief Strategy Officer as part of Xbox CEO Asha Sharma's new leadership team. He recently said Xbox languished under previous leaders Phil Spencer and Sarah Bond and has said he is a \"strategic optimist\" when it comes to trying to fix Xbox. Sharma recently announced plans to \"reset\" the Xbox business, and this is expected to include more layoffs and possible studio closures in July.",
     "link": "https://www.gamespot.com/articles/new-xbox-exec-advocates-for-something-everyone-hates-to-help-save-gaming/",
     "thumbnail": "",
     "pubDate": "2026-06-11T18:13:54+00:00"
-  },
-  {
-    "title": "Melania Trump announces a new savings account for youth in foster care",
-    "description": "A new savings program for children in foster care was announced Thursday at an event with the first lady and Treasury Secretary Scott Bessent.",
-    "link": "https://www.cnbc.com/2026/06/11/melania-trump-fostering-the-future-accounts.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108320351-17811913472026-06-11t152150z_270014104_rc2rrlazpf7e_rtrmadp_0_usa-melania-bessent.jpeg?v=1781199859&w=1920&h=1080",
-    "pubDate": "2026-06-11T17:53:30+00:00"
-  },
-  {
-    "title": "Waymo launches premier subscription tier for $29.99 a month, starting in select cities",
-    "description": "Waymo is offering a new subscription tier for power users, starting in San Francisco, Los Angeles and Phoenix",
-    "link": "https://www.cnbc.com/2026/06/11/waymo-launches-premier-subscription-tier-for-29point99-a-month.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108289300-1775748036631-gettyimages-2270578340-mms19003_vnsswh1p.jpeg?v=1775748096&w=1920&h=1080",
-    "pubDate": "2026-06-11T16:57:05+00:00"
   },
   {
     "title": "Best Summer Game Fest 2026 Games You Might Have Missed",
@@ -546,27 +651,6 @@
     "pubDate": "2026-06-11T15:29:06+00:00"
   },
   {
-    "title": "Fable Reboot Delay Was Disappointing To The Devs, But Avoiding GTA 6 Makes Sense",
-    "description": "The Fable reboot from Playground Games was planned for release this year, but Microsoft delayed it to February 2027, and the reason for the delay was to give the game the attention it deserves. That's according to Playground GM Ralph Fulton, who told GamesRadar that there was \"a little bit of disappointment\" when the game was delayed because the studio was \"gunning\" for a 2026 release. The developers got \"really focused\" on hitting the 2026 release. However, now that the developers have had time to \"digest,\" they can \"absolutely see the benefits\" of the delay, Fulton said. One of those benefits? Not having to compete with GTA 6. \"First of all, moving out of that really congested period towards the end of this year, obviously avoiding Grand Theft Auto. And honestly, the thing I love about it now, and the thing I've tried to sell the team on, is going in February, having a much less contested window allows us the opportunity to go out and really make a moment for ourselves, and I think the attention this game deserves,\" he said. People are expecting GTA 6 to \"blot out the sun,\" and because of that, the game doesn't have much competition in November. It doesn't have no competition, though, as Godzilla and Barbie aren't afraid of launching near GTA 6. https://www.youtube.com/watch?v=F0z3ThIb-3w Fable is now releasing on February 23, but people who pay extra can start playing on February 18. More details about the game were divulged at Summer Game Fest, including how Hayley Atwell will play the villain. The game will be available on Xbox Game Pass day one. Eidos Montreal is co-developing the new Fable alongside Playground.",
-    "link": "https://www.gamespot.com/articles/fable-reboot-delay-was-disappointing-to-the-devs-but-avoiding-gta-6-makes-sense/",
-    "thumbnail": "",
-    "pubDate": "2026-06-11T15:27:02+00:00"
-  },
-  {
-    "title": "The Number Of Steam Next Fest Demos This Month Is Too Damn High",
-    "description": "As Not-E3 season starts to wind down and everyone's wishlist starts to look crowded with games scheduled for September and October, the next big event on the calendar is Steam Next Fest. The second of three planned week-long demo showcases for 2026, Next Fest is positioned to provide an early taste of upcoming games across a wide variety of genres. The demo showcase has grown in the years since it was first introduced, and the June 2026 edition has ballooned to a truly ridiculous size, with 4,931 demos being featured at the time of writing. Normally, having too many free game demos to play is a great problem to have, but with Next Fest, the sheer number of participating games feels like overkill. It's worth noting that the original goal of Next Fest was for each demo to only be available to play for the week of the event, but it's not unusual to see these early slices of game remain in place long after the Steam event wraps up. It's also not unusual for these demos to go live before Next Fest even begins, and plenty of these demos have also been around for a while before they got a quick rebranding. https://bsky.app/profile/kriswbennett.co.uk/post/3mnzbtpjlok2u Prepare for some choice paralysis, because the only way to experience everything that Next Fest has to offer would be to forego sleep for a week and work out a way to complete a game demo once every 122 seconds. Or if you really like what you're sampling off of Steam, you can just replay the same demo for as long as it's live--or wonder if certain game demos should even be eligible. Beyond Next Fest, several more Steam events have been dated for June and beyond. The Steam Summer Sale kicks off on June 25 and runs through July 9. Choo-choo fans can check out Train Fest starting July 20, and Cyberpunk Fest is shining a spotlight on neon-soaked sci-fi games. Later in the year, the Steam Autumn Sale will run for one week starting October 1, and the Steam Winter Sale is scheduled to start on December 17.",
-    "link": "https://www.gamespot.com/articles/the-number-of-steam-next-fest-demos-this-month-is-too-damn-high/",
-    "thumbnail": "",
-    "pubDate": "2026-06-11T15:19:31+00:00"
-  },
-  {
-    "title": "Stranger Than Heaven’s Combat System Makes Both Your Hands Play Separate Roles",
-    "description": "Like a Dragon and Yakuza developer RGG Studio has built its gangland dramas around a very distinct combat core over the years, but with its upcoming game Stranger Than Heaven, the studio is introducing a brand-new way to bang knuckles. At Summer Game Fest, we got to go hands-on with the Yakuza prequel, which spans 50 years and five distinct periods in Japan's history. Yakuza and Like a Dragon games have a very arcade-inspired approach to their beat-'em-up action, but in Stranger Than Heaven, RGG Studio wants players to put more thought into every fist thrown or attack parried. How is the team doing this? By introducing a combat system where the left and right sides of the protagonists are controlled independently. For example, you'll use the right shoulder and trigger buttons to throw out attacks from the right side, and vice versa for the left side. In practice, this creates a dynamic sense of action, allowing you to chain attacks together organically, parry enemies, and stun them long enough for you to follow up with a knockout blow. https://youtu.be/hvySwE-Kiu0 You don't have to rely on just your fists, either, as weapons can also help even the odds when you find yourself outnumbered. Overall, it looks like RGG Studio is aiming to expand on its action game heritage and move players closer toward some visceral ground-and-pound violence that isn't as over the top as what you'd see in its other games. Stranger than Heaven launches on January 15, 2027, for PC, PS5, and Xbox Series X|S. The game features a star-studded cast of actors, as well as the rapper Snoop Dogg. The game even features people in its cast who have been deceased for a while, like beloved Japanese actor Bunta Sugawara and legendary rapper Tupac Shakur. Stranger Than Heaven Standard Edition $70 | Releases January 15, 2027 Preorder at Amazon Stranger Than Heaven Deluxe Edition $90 | Releases January 15, 2027 Preorder at Xbox Stranger Than Heaven Collector's Edition $130 | Releases January 15, 2027 Preorder at Amazon",
-    "link": "https://www.gamespot.com/articles/stranger-than-heaven-combat-system-makes-both-your-hands-play-separate-roles/",
-    "thumbnail": "",
-    "pubDate": "2026-06-11T14:00:00+00:00"
-  },
-  {
     "title": "Chopped Salad With Sardines and Preserved Lemon",
     "description": "A feel-good meal full of crunchy veg and even crunchier pita chips.",
     "link": "https://www.bonappetit.com/recipe/chopped-salad-sardines-preserved-lemon",
@@ -586,76 +670,6 @@
     "link": "https://www.bonappetit.com/story/dining-in-weeknight-grilling",
     "thumbnail": "https://assets.bonappetit.com/photos/6a21c74ee0e882d64d0b340a/master/pass/20260409_DINING-IN_02_Spicy%20Ranch%20Grilled%20Chicken_030_FINAL.jpg",
     "pubDate": "2026-06-11T10:00:00+00:00"
-  },
-  {
-    "title": "Iren Ltd (IREN) Announces Its First Australian Data Center. It’s a Big Deal",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/iren-ltd-iren-announces-first-005810752.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/33766453a30362b53d11e3b9f7ef3b7c",
-    "pubDate": "2026-06-11T00:58:10+00:00"
-  },
-  {
-    "title": "Digital Realty Trust Inc (DLR) Teams Up With ePlus. The Focus Is AI",
-    "description": "",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/digital-realty-trust-inc-dlr-005757900.html",
-    "thumbnail": "https://s.yimg.com/os/en/insidermonkey.com/7e40eb864849e832b528ce3543ab3cb7",
-    "pubDate": "2026-06-11T00:57:57+00:00"
-  },
-  {
-    "title": "Equities drop, oil rallies with Iran-US tensions and high inflation in focus",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/asian-stocks-slide-oil-gains-012828874.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters.com/173ad391aab94a05fb7f7694cffbd9ff",
-    "pubDate": "2026-06-11T00:55:45+00:00"
-  },
-  {
-    "title": "J.Jill, Inc. Q1 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/j-jill-inc-q1-2026-002330856.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/b5c02101531274c15e84c0413f43d4ee",
-    "pubDate": "2026-06-11T00:23:30+00:00"
-  },
-  {
-    "title": "Chewy, Inc. Q1 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-inc-q1-2026-earnings-002325805.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/ff2f6671db1d508dcda9ab6dee21fcba",
-    "pubDate": "2026-06-11T00:23:25+00:00"
-  },
-  {
-    "title": "Oxford Industries, Inc. Q1 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/oxford-industries-inc-q1-2026-002059060.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/a750d61f88b1faeac010072cc409bfdf",
-    "pubDate": "2026-06-11T00:20:59+00:00"
-  },
-  {
-    "title": "Core &amp; Main, Inc. Q1 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/core-main-inc-q1-2026-002056394.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/ffca3d80dcaffcf6cab336f7fa04dffe",
-    "pubDate": "2026-06-11T00:20:56+00:00"
-  },
-  {
-    "title": "Analyst reveals the next Bitcoin bottom price",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/analyst-reveals-next-bitcoin-bottom-002000992.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/tfSESH8h91NorCBldDTFYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/thestreet_881/2210fafb76f9f699601624da2dc4c720",
-    "pubDate": "2026-06-11T00:20:00+00:00"
-  },
-  {
-    "title": "Oracle Corporation Q4 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-q4-2026-earnings-001828771.html",
-    "thumbnail": "https://s.yimg.com/os/en/moby_896/bcf6780edecc623f4ada4367eddc0e91",
-    "pubDate": "2026-06-11T00:18:28+00:00"
-  },
-  {
-    "title": "The Software Engine The Broadcom Stock Bears Overlook",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/software-engine-broadcom-stock-bears-001652753.html",
-    "thumbnail": "https://s.yimg.com/os/en/trefis_142/d3ac73e6f5ce0e44b00e440a5814f9ee",
-    "pubDate": "2026-06-11T00:16:52+00:00"
   },
   {
     "title": "36 Beautiful Bedside Carafes That’ll Make Your Space Feel Like a 5-Star Hotel",
@@ -684,12 +698,5 @@
     "link": "https://www.bonappetit.com/story/best-new-cookbooks-summer",
     "thumbnail": "https://assets.bonappetit.com/photos/6a21948c90832f702f69a795/master/pass/2026%20Summer%20Cookbooks%202000x1125.jpg",
     "pubDate": "2026-06-10T10:00:00+00:00"
-  },
-  {
-    "title": "23 Cobbler Recipes, Plus Crisps, Buckles, and Everything In Between",
-    "description": "Brown butter peach, caramel apple, and more of our favorite easier-than-pies.",
-    "link": "https://www.bonappetit.com/gallery/crisp-crumble-and-cobbler-recipes",
-    "thumbnail": "https://assets.bonappetit.com/photos/64c962358cef01b48d38050d/master/pass/20230613%200923%20FOB28151.jpg",
-    "pubDate": "2026-06-09T22:26:08+00:00"
   }
 ]
