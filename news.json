@@ -1,35 +1,308 @@
 [
   {
+    "title": "Tokenized asset market tops $43B as institutions accelerate blockchain adoption",
+    "description": "Tokenized financial assets have surged 37% in six months as institutions expand blockchain adoption and the market broadens beyond funds and private credit, according to Token Terminal.",
+    "link": "https://cointelegraph.com/news/tokenized-rwa-market-tops-43b-wall-street-pushes-deeper-onchain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-268380-rwa-is-the-democratization-of-investment-reaching-latin-america.jpg",
+    "pubDate": "2026-06-16T20:55:09+00:00"
+  },
+  {
+    "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
+    "description": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
+    "link": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108231273-1764019497413-gettyimages-498541178-88290510.jpeg?v=1781642849&w=1920&h=1080",
+    "pubDate": "2026-06-16T20:53:09+00:00"
+  },
+  {
+    "title": "Spider-Man actor Tom Holland reveals his Spider-Man replacement pick",
+    "description": "Spider-Man Brand New Day star Tom Holland once again sounds like he's ready to swing off into the sunset and say goodbye to Peter Parker.",
+    "link": "https://www.polygon.com/tom-holland-reveals-his-spider-man-replacement-pick/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdspma_sp025.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T20:52:28+00:00"
+  },
+  {
+    "title": "The most important scene in Fast &amp; Furious lasts less than a minute and Vin Diesel didn't get paid to film it",
+    "description": "A simple contract negotiation transformed a discarded Fast &amp; Furious sequel into the foundation of a billion-dollar franchise.",
+    "link": "https://www.polygon.com/20-years-ago-vin-diesels-contract-loophole-changed-american-cinema/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/dominic-torretto-fast-and-furious.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T20:47:39+00:00"
+  },
+  {
+    "title": "Bill limiting investors from buying homes set to speed through Congress",
+    "description": "Top lawmakers reached an agreement on a key housing bill that would limit investor ownership, clearing the way for passage through both chambers of Congress.",
+    "link": "https://www.cnbc.com/2026/06/16/housing-bill-limiting-investors-congress.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316058-1780500496281-gettyimages-2277390014-260523_tohomes_100.jpeg?v=1780500546&w=1920&h=1080",
+    "pubDate": "2026-06-16T20:47:37+00:00"
+  },
+  {
+    "title": "Palestinian Bedouin villagers demolish homes after Israeli orders",
+    "description": "Palestinian Bedouins in Beersheba are demolishing their own homes after Israel issued demolition orders.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/palestinian-bedouin-villagers-demolish-homes-after-israeli-orders?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781642514.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-16T20:42:05+00:00"
+  },
+  {
+    "title": "Clive Barker's Hellraiser: Revival hands-on: The first good Hellraiser game?",
+    "description": "Saber Interactive's new Hellraiser game feels like a mix of BioShock and Clive Barker's sadomasochistic horror film franchise.",
+    "link": "https://www.polygon.com/hellraiser-revival-preview-release-date-summer-game-fest/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-7.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T20:40:16+00:00"
+  },
+  {
+    "title": "US Justice Department accuses 15 Minnesota activists of ‘antifa’ activities",
+    "description": "Prosecutors have accused the activists of seeking 'to interfere with lawful immigration enforcement operations'.",
+    "link": "https://www.aljazeera.com/news/2026/6/16/us-justice-department-accuses-15-minnesota-activists-of-antifa-activities?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a31aefe45a0a-1781640958.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-16T20:39:10+00:00"
+  },
+  {
+    "title": "Returning to destruction in south Lebanon",
+    "description": "Many Lebanese are returning to their homes in the south to face the destruction that upended their livelihoods.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/returning-to-destruction-in-south-lebanon?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781642230.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-16T20:38:50+00:00"
+  },
+  {
+    "title": "Iran, Ukraine dominate G7 summit",
+    "description": "Here’s what came out of the G7 summit in France.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-ukraine-dominate-g7-summit?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781642142.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-16T20:36:36+00:00"
+  },
+  {
+    "title": "SpaceX rises 4% to leapfrog Amazon in market cap, closes short of Microsoft",
+    "description": "CEO Elon Musk said Sunday that the company \"might be able to reach approximately\" $1 trillion revenue in 2030.",
+    "link": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108322572-1781623538376-NV11GN5J.jpg?v=1781623596&w=1920&h=1080",
+    "pubDate": "2026-06-16T20:29:47+00:00"
+  },
+  {
+    "title": "Iranian fans honour Minab victims at World Cup match",
+    "description": "Iranian fans turned their World Cup match against New Zealand into a moment of remembrance, raising ‘Minab 168’ banners.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iranian-fans-honour-minab-victims-at-world-cup-match?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781641751.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-16T20:29:23+00:00"
+  },
+  {
+    "title": "SpaceX gets assist from DOJ in effort to toss NAACP air pollution lawsuit",
+    "description": "The DOJ is asking a Mississippi federal court to dismiss a lawsuit filed by the NAACP against Elon Musk's xAI, now owned by SpaceX.",
+    "link": "https://www.cnbc.com/2026/06/16/usdepartment-of-justice-calls-for-dismissal-of-naacp-xai-lawsuit-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108174051-1752860818701-gettyimages-2224956825-kokovlis-notitle250718_npmM4.jpeg?v=1774607084&w=1920&h=1080",
+    "pubDate": "2026-06-16T20:29:22+00:00"
+  },
+  {
+    "title": "Critical Role reveals new Age of Umbra Sallowlands characters ahead of upcoming premiere",
+    "description": "Critical Role revealed the heroes of Age of Umbra: Sallowlands ahead of the July 9 premiere — and a possible Campaign 4 break.",
+    "link": "https://www.polygon.com/critical-role-age-of-umbra-sallowlands-character-art-reveal/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/critical-role-matt-mercer.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T20:26:32+00:00"
+  },
+  {
     "title": "Russian warship fires warning shots near UK-registered yacht in Channel",
     "description": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
     "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b77/live/208679c0-699a-11f1-9685-4f5a66750059.jpg",
-    "pubDate": "2026-06-16T17:48:13+00:00"
+    "pubDate": "2026-06-16T20:21:09+00:00"
   },
   {
-    "title": "Odds that a proposed billionaire tax appears on California ballots plunge on prediction markets",
-    "description": "Odds that a proposed billionaire tax is on California's ballot dropped after reports noted that Gov. Gavin Newsom is pushing to stop the proposal.",
-    "link": "https://www.cnbc.com/2026/06/16/california-billionaire-tax-prediction-markets-show-slide-in-ballot-measure-odds.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108265652-17710002082026-02-13t161944z_792219859_rc23lja6by6t_rtrmadp_0_security-munich-main-stage-day-1.jpeg?v=1771000227&w=1920&h=1080",
-    "pubDate": "2026-06-16T17:34:31+00:00"
+    "title": "Africa’s chances at the World Cup",
+    "description": "From Cape Verde’s debut to Ghana’s quarter-final legacy, six teams from sub-Saharan Africa to watch at the World Cup.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/africas-chances-at-the-world-cup-2?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image_720-1781640232.png?resize=1200%2C675",
+    "pubDate": "2026-06-16T20:14:29+00:00"
   },
   {
-    "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-    "description": "A day earlier, Russia bombarded Kyiv and other Ukrainian cities with missiles and drones, killing at least 11 people and damaging a holy cathedral.",
-    "link": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+    "title": "Baldur’s Gate TV Show Gets A Positive-Sounding Update About The Cast",
+    "description": "When the Baldur's Gate TV show was announced in 2025, people quickly became suspicious when it was confirmed that developer Larian has no involvement in it. Now, actor Samantha Béart--who plays Karlach in Baldur's Gate 3--has shared a positive-sounding update about the live-action series. Béart told GamesRadar that Craig Mazin, who is heading up the Baldur's Gate TV series, reached out to personally express that he believes the \"key cast of Baldur's Gate 3 should be meaningfully on-screen on the show as someone familiar or someone new.\" Those comments don't tell us much in the way of specifics, but it sounds positive that Mazin wants the cast of the game to be involved in the show in some part. That wouldn't be unprecedented for Mazin, as he also hired actors from The Last of Us game to be in The Last of Us TV show. https://www.youtube.com/watch?v=F-GDJDUD6B4 Before this, Larian boss Swen Vincke said Mazin reached out to the studio and discussed how he is a huge fan of the game. The Baldur's Gate TV show, which is being made for HBO where Mazin also has The Last of Us, will depict events that occur after the video game, and fan concerns stem from the fact that there are several possible endings that the show can pick up from. Vincke addressed this as well, saying, “The endings of BG3 were created so they could serve as narrative soil for new adventures. There’s plenty of directions they could go. I’m eager to find out which ones Craig and his team will pick. He’s reached out for a chat, so we’ll have the opportunity to tell him our thoughts.” That Larian would have no official, public involvement in the Baldur's Gate TV show is hardly a surprise given that the studio ended its partnership with Baldur’s Gate and Dungeons &amp; Dragons owner Wizards of the Coast. Up next for Larian is a new Divinity game. The developers used generative AI in the early stages of development, angering fans. The final game won't have any generative AI content in it, however, Larian is promising.",
+    "link": "https://www.gamespot.com/articles/baldurs-gate-tv-show-gets-a-positive-sounding-update-about-the-cast/",
     "thumbnail": "",
-    "pubDate": "2026-06-16T17:33:41+00:00"
+    "pubDate": "2026-06-16T20:12:20+00:00"
   },
   {
-    "title": "Trump signals he could send details of Iran deal to Congress",
-    "description": "The peace deal announced Sunday is meeting lukewarm reactions from Congress, including some allies of President Donald Trump.",
-    "link": "https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108322421-1781610308043-gettyimages-2281848335-090a9782_mnfwnimm.jpeg?v=1781610342&w=1920&h=1080",
-    "pubDate": "2026-06-16T17:31:18+00:00"
+    "title": "Claiming an Antifa Plot, U.S. Charges 15 in Minneapolis With Conspiracy",
+    "description": "The 94-page conspiracy indictment was filed as federal prosecutors in Minnesota had trouble sustaining many criminal cases filed against Immigration and Customs Enforcement protesters.",
+    "link": "https://www.nytimes.com/2026/06/16/us/minnesota-immigration-charges-antifa.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T20:04:59+00:00"
+  },
+  {
+    "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
+    "description": "Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase. Will prices follow?",
+    "link": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-220210-bitcoin-clears-dollar120k-as-onchain-data-points-to-a-new-btc-accumulation-phase.jpg",
+    "pubDate": "2026-06-16T19:54:21+00:00"
+  },
+  {
+    "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
+    "description": "Snap is launching its first AR glasses geared toward the broader public instead of developers.",
+    "link": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1781639537&w=1920&h=1080",
+    "pubDate": "2026-06-16T19:50:47+00:00"
+  },
+  {
+    "title": "Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls",
+    "description": "Defend American Jobs reported spending $7.4 million on media to support Republican Barry Moore ahead of his May 20 Alabama primary, and an additional $4.7 million before Tuesday’s runoffs.",
+    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-senate-primary-alabama-voters?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-crypto-states-in-us-alabama-minnesota.png",
+    "pubDate": "2026-06-16T19:45:47+00:00"
+  },
+  {
+    "title": "Ebola outbreak in DR Congo could become worst in history, Africa CDC warns",
+    "description": "The ⁠number of confirmed cases in ⁠the country has ​increased to 837, including 196 deaths.",
+    "link": "https://www.aljazeera.com/news/2026/6/16/ebola-outbreak-in-dr-congo-could-become-worst-in-history-africa-cdc-warns?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a31969feb7b-1781634719.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-16T19:43:08+00:00"
+  },
+  {
+    "title": "Technical factors are adding fuel to SpaceX's meme stock fire",
+    "description": "Options, leveraged ETFs and index arbitrage are likely boosting the stock ahead of its inclusion in some benchmark stock indexes.",
+    "link": "https://www.cnbc.com/2026/06/16/technical-factors-are-adding-fuel-to-spacexs-meme-stock-fire.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108321571-1781377484010-IMG_1068.jpeg?v=1781377596&w=1920&h=1080",
+    "pubDate": "2026-06-16T19:33:47+00:00"
+  },
+  {
+    "title": "After a Bitter Split, European Leaders Play Nice With Trump",
+    "description": "A peace framework with Iran, and hope for cooperation with Ukraine, softened the tone on Tuesday at a Group of 7 gathering in France.",
+    "link": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T19:32:29+00:00"
+  },
+  {
+    "title": "Coinbase lets users transfer stock portfolios as exchange expands beyond crypto",
+    "description": "The crypto exchange is deepening its push into traditional finance by enabling ACATS stock transfers and expanding trading products beyond digital assets.",
+    "link": "https://cointelegraph.com/news/coinbase-acats-stock-portfolio-transfers-beyond-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-237325-coinbase-stock-trading-prediction-markets-in-everything-app-push.jpg",
+    "pubDate": "2026-06-16T19:31:19+00:00"
+  },
+  {
+    "title": "Trump Breaks Up Education Dept., Prompting Worries Over Civil Rights",
+    "description": "Special education programs and the civil rights office will be moved out of the Education Department, the most aggressive move yet by the Trump administration to dismantle the agency.",
+    "link": "https://www.nytimes.com/2026/06/16/us/politics/education-department-civil-rights-trump.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T19:29:17+00:00"
+  },
+  {
+    "title": "The Big Questions About Jeffrey Epstein: What The Times Has Learned",
+    "description": "Here is what we know about the sexual predator whose secrets spurred an international reckoning over money, power and complicity. Check back for updates.",
+    "link": "https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T19:25:00+00:00"
+  },
+  {
+    "title": "US judge upholds conviction of ex-judge who helped man evade federal agents",
+    "description": "Activists say former judge Hannah Dugan was targeted by the Trump administration for defiance over immigration raids.",
+    "link": "https://www.aljazeera.com/news/2026/6/16/us-judge-upholds-conviction-of-ex-judge-who-helped-man-evade-federal-agents?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26154573137853-1781634453.jpg?resize=1200%2C675",
+    "pubDate": "2026-06-16T19:17:31+00:00"
+  },
+  {
+    "title": "What has Iran won and lost from this war?",
+    "description": "Iran's relationship with its Gulf neighbours, which it attacked during the war, has been damaged.",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781633713.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-16T19:16:42+00:00"
+  },
+  {
+    "title": "Guild Wars 3 Won’t Have “Hidden” Subscriptions Like Battle Passes",
+    "description": "Guild Wars 3, the next MMORPG from developer ArenaNet, won't have a paid subscription, and it won't include battle passes or other paid seasonal systems, either. In a blog post, studio head Colin Johanson outlined the core pillars ArenaNet is focused on when it comes to creating the third entry in the Guild Wars franchise, freshly announced as part of Summer Games Fest 2026. One of those key pillars is something that has been a main focus of every Guild Wars title--no subscription fee, one of the key ways Guild Wars has always set itself apart from other MMOs. \"When Guild Wars launched in 2005, that wasn't the norm,\" Johanson said. \"Subscription fees were a core part of the MMO model. Choosing not to have one wasn't just a pricing decision; it was a statement about accessibility and long-term value. We carried that forward into Guild Wars 2, and it remains just as important today.\" https://www.youtube.com/watch?v=ITPzxITngqA How Guild Wars 3 will differ is that it won't feature any kind of subscription. Johanson said subscriptions in many live-service games or MMOs have evolved to be \"hidden\" inside \"optional packages that obfuscates the subscription from the player.\" He described things like paid battle passes and seasonal reward tracks as systems that are effectively a subscription in a new form. \"When we say Guild Wars 3 won't have a subscription fee, we mean it,\" Johanson said. \"No monthly fees and no battle pass subscription fees. Just buy the game and play when you want. If we earn your trust and you feel we're delivering experiences you love, we'll have expansions and other things you can buy from us if you think they're worth the investment.\" Johanson also made clear Guild Wars 3 won't feature any pay-to-win elements. Players will, however, be able to spend money to gain \"visual distinction and offer more ways to express themselves.\" Additionally, Johanson said players will be able to spend money on account-related services and time-saving convenience items, but that those who spend money will never have \"an unfair advantage over players who spend time.\" Other key areas ArenaNet is focusing on for Guild Wars 3 includes respecting the time and investment of players, as Johanson said the team knows there are more choices when it comes to what to play than ever before. The team wants to create a \"new take on the MMO\" that doesn't feel like a second job, as many MMOs are often described, and can be enjoyed regardless if someone is playing every day or only a few hours a week. As for what Guild Wars 3 will actually play like, Johanson is keeping details vague for now, but said it will fall somewhere in between Guild Wars and Guild Wars 2. He said the team is asking, \"What does the next evolution of an MMO look like right now?\" in a time when the line between MMO and live-service games continue to be blurred. The answer ArenaNet came up with is for Guild Wars 3 to be smaller scale compared to the \"giant-scale experiences\" found in Guild Wars 2 but larger than the mostly instanced content of the original Guild Wars. \"Guild Wars 3 lands near the middle of the MMO spectrum, which supports the goals we have for our movement and combat systems,\" Johanson said. \"While it fits the definition of an MMORPG significantly more than Guild Wars Reforged does, it doesn't try to replicate the large-scale gameplay pillars that so uniquely define Guild Wars 2.\" Not much else is currently known about Guild Wars 3, though a beta is set for Fall 2027. It's slated to release on both PC and PlayStation 5. Those interested in being among the first to take the game for a spin can sign up on the game's official website.",
+    "link": "https://www.gamespot.com/articles/guild-wars-3-wont-have-hidden-subscriptions-like-battle-passes/",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T19:15:50+00:00"
+  },
+  {
+    "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
+    "description": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
+    "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108295278-1776860361515-gettyimages-2271888399-warsh_senate_517_042126.jpeg?v=1778700082&w=1920&h=1080",
+    "pubDate": "2026-06-16T19:12:13+00:00"
+  },
+  {
+    "title": "Exciting Pokopia leaks might make upcoming DLC a must-play",
+    "description": "Bubbly Basin may be but a taste of what's to come for Switch 2 Pokémon fans",
+    "link": "https://www.polygon.com/pokemon-pokopia-shiny-leak-snubbull-artwork-accessories/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/pokop.JPG?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T19:00:55+00:00"
+  },
+  {
+    "title": "They Will Kill You is the perfect movie for Ready Or Not fans",
+    "description": "From the director of IT, They Will Kill You is a horror-comedy that blends love and revenge, and it feels like a perfect replacement for Ready or Not.",
+    "link": "https://www.polygon.com/they-will-kill-you-hbo-streaming/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/mcdthwi_wb002.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T19:00:25+00:00"
+  },
+  {
+    "title": "Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push",
+    "description": "The crypto exchange is expanding into investing, derivatives and banking services as it pursues an all-in-one financial platform.",
+    "link": "https://www.coindesk.com/business/2026/06/16/coinbase-intoduces-ai-advisor-stock-options-and-pre-ipo-markets-in-finance-push",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-16T19:00:00+00:00"
+  },
+  {
+    "title": "‘I know what you’ve been through’: FIFA president visits Iran team",
+    "description": "FIFA President Gianni Infantino praised Iran’s players during a World Cup dressing room visit after the team’s 2-2 draw.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/i-know-what-youve-been-through-fifa-president-visits-iran-team?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781635543.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-16T18:46:52+00:00"
+  },
+  {
+    "title": "XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
+    "description": "Whales pulled more than 720 million XRP from exchanges, as various data points converge to predict a potential 50% rally.",
+    "link": "https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-267001-xrp-metrics-line-up-bull-signals-full-scale-rally-2-dollars.jpg",
+    "pubDate": "2026-06-16T18:44:51+00:00"
+  },
+  {
+    "title": "Paddington: The Musical is headed for Broadway next year",
+    "description": "The award-winning Paddington stage play is coming to NYC in March 2027.",
+    "link": "https://www.polygon.com/padington-the-musical-announced-for-broad-way/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/paddington-stage-show.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T18:13:04+00:00"
+  },
+  {
+    "title": "Ori Dev CEO Says Xbox Was Too Focused On Protecting Its Legacy To Build Its Future",
+    "description": "Moon Studios CEO Thomas Mahler (Ori and the Blind Forest, Ori and the Will of the Wisps, and No Rest for the Wicked) has commented on the recent turbulence at Xbox. The Ori games were previously published by Xbox Game Studios, but Moon Studios remained independent and started work on No Rest for the Wicked shortly after the second Ori game was released. In his informed opinion, Mahler has claimed that Xbox’s troubles began years ago when it decided to focus on legacy IP instead of cultivating the next generation of games and developers. It looks like bad news for the studios that fall under Xbox's first-party developer umbrella. As part of its \"reset\" under new Xbox boss Asha Sharma, Microsoft's gaming division is reportedly planning to cut costs by laying off staff and closing studios like Compulsion Games, Double Fine, and Ninja Theory. While those studios might spin off from Microsoft and strike out on their own, one developer with a long history of working with Xbox says that he's not surprised by the recent turbulence occurring at the company. \"Xbox has struggled for a long time to identify, empower, and protect the key creative people and teams who could have kept the brand at the top,\" Mahler wrote. \"Even when we were making Ori with Xbox, it was clear that the main focus was still Halo, Gears, and Forza--even though gamer excitement around Halo and Gears had already cooled heavily after Bungie and Epic moved on from those franchises. The newer installments simply didn't reproduce the same cultural impact those series once had.\" Ori and the Will of the WispsAs Mahler put it, franchises like Ori could have helped kickstart a new era for Xbox, one that would include younger generations of gamers who could have grown into lifetime fans of the brand. And while it is true that Microsoft owns an impressive selection of video game franchises and intellectual properties, Mahler added that great games are made by people who love the medium and who know what it is that their audiences want. Mahler added that, were he in charge, he'd \"slim down\" Xbox and work to \"bring back the passion for gaming.\" He said that Xbox leans heavily on nostalgia, not the people who make games. \"Xbox should be one of the strongest publishers in the world,\" Mahler wrote. \"With the brands Microsoft owns, that should honestly be fairly straightforward. But nostalgia alone is not enough. Nostalgia can get people to look in your direction, but after that, you still have to deliver the goods. You still have to make products that get players genuinely excited. Products that make gamers literally salivate. And to do that, Xbox has to bet on the right people. They need to find the Miyamotos, Tezukas, and Sakurais within their own ecosystem--the people who actually speak the same language gamers do--and then support them, protect them, and trust them.\" Mahler concluded that Xbox was more than capable of shipping better games than its competition, and it just needs the right people in charge of steering the ship. \"It still looks like Xbox is sitting on an absolute goldmine,\" he wrote. \"They just need to put the right people in charge of mining that gold.\" It looks like bad news for the studios that fall under Xbox's first-party developer umbrella. As part of its \"reset\" under new Xbox boss Asha Sharma, Microsoft's gaming division is reportedly planning to cut costs by laying off staff and closing studios like Compulsion Games, Double Fine, and Ninja Theory. While those studios might spin off from Microsoft and strike out on their own, one developer with a long history of working with Xbox says that he's not surprised by the recent turbulence occurring at the company. The Best Xbox Series X Games In 2026 View Images",
+    "link": "https://www.gamespot.com/articles/ori-dev-ceo-says-xbox-was-too-focused-on-protecting-its-legacy-to-build-its-future/",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T18:12:01+00:00"
+  },
+  {
+    "title": "X-Files: I Want to Believe director's cut Disney Plus release date officially delayed",
+    "description": "The X-Files: I Want to Believe has a new director's cut coming out. It was scheduled for reelease on Disney Plus on June 11, but it has yet to debut",
+    "link": "https://www.polygon.com/x-files-i-want-to-believe-director-cut-delay/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdxfil_fe019.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T18:10:28+00:00"
+  },
+  {
+    "title": "Clair Obscur Expedition 33 star encourages fans to boycott the film if he’s not in it",
+    "description": "A Clair Obscur Expedition 33 movie is in the works. One star from the game would love to be in it, and easily could reprise his role.",
+    "link": "https://www.polygon.com/clair-obscur-expedition-33-movie-rich-keeble-interview/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/05/clair-obscur.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-16T18:08:53+00:00"
+  },
+  {
+    "title": "Helldivers 2 Gets A Much-Welcome Update To Reloading, Vehicles, And Campaign Progression",
+    "description": "Helldivers 2 should feel more responsive to play than ever before, as the game's latest update brings major improvements to reloading. Patch 6.3.0, which is live now, brought a smorgasbord of balance changes, features, and bug fixes. Among them are some major tweaks to how reloading works. At long last, players can reload while diving, and starting a reload animation, only to be ragdolled or staggered, will now continue the animation once you regain control. It also adds \"delayed reloads,\" where, if you try to reload but are unable to do so, the reload animation will be delayed for a short window until it can be started. It's a fairly substantial change that should make spreading Managed Democracy even easier, but better reloads aren't all the update added. Patch 6.3.0 also introduced the Control Center, taking the place of the previously inactive terminal across from the armory on the deck of each player's Super Destroyer. The Control Center lets you learn more about ongoing campaigns, major orders, rewards. It also lets you read up on previous campaigns, making it easier for new or returning players can get up to speed. Each campaign will now have a unique reward players can earn should the Helldivers community emerge victorious in the majority that campaign's major orders. The first campaign under this new system is called Census Thunder, and currently tasks Helldivers with taking control of two planets from hordes of Illuminate Voteless. Should the Helldivers emerge victorious, they'll have a new FRV (Fast-Recon Vehicle, basically Helldiver's version of Halo's Warthog) to play with. https://www.youtube.com/watch?v=EVGHXob14DI Those additions alone would make for a major update, but developer Arrowhead Studios has sweetened the deal with a long list of balance changes as well, with significant adjustments to vehicles, throwables, and Orbital Stratagems. On the vehicle front, Arrowhead outlined that one of its goals with the update was to make vehicles tankier, following a previous update that technically buffed vehicles like Exo Suits but also made enemies more effective against them. In patch 6.3.0, the Bastion tank \"should feel tankier\" and be able to \"ignore small attacks, withstand more medium attacks, and its survivability against heavy attacks should be unchanged,\" according to Arrowhead. As for Exo Suits, they are now able to withstand small and medium attacks, and an increase in their total health should make them feel sturdier overall. Exo Suits can additionally be called in more frequently, with their cooldown reduced from 10 minutes to eight. The FRV also received a health buff that will help it better withstand medium and heavy attacks. For turret fans, all of the game's sentries have had their health increased by 100% to compensate for previous changes that allowed enemies to more easily damage vehicles. Many of the game's grenades have received a buff in the number of starting ammo and max ammo. Orbital Stratagem enjoyers have reason to rejoice, because nearly every Orbital in the game has seen its projectile damage, durable damage, and explosion damage increased. Rocket Pods should be more reliable and deal more damage now, and the Railcannon's huge damage buff should make it so it's deadlier against enemies like Vox Engines (though it will still be unable to one-shot massive enemies like Factory Striders or Hive Lords). This latest update is just a small part of Arrowhead's near-future plans for its co-op shooter, plans Helldivers 2 game director Mikael Eriksson outlined in a blog post earlier this month. Those future additions include new features like Planet Warfronts, additional Super Destroyer progression and customization, and an increase of the game's level cap to 300 from the current 150. In May, Arrowhead called an update mostly focused on improving Helldivers 2's technical performance just the \"opening salvo,\" with more updates to come. You can check out the full Helldivers 2 update 6.3.0 patch notes below. Helldivers 2 Update 6.3.0 Patch Notes Introducing the CONTROL CENTER terminal Super Earth High Command has completed fleet-wide upgrades to the previously unused terminal opposite the armory. Now Helldivers will be able to get more context to the ongoing Campaigns and their subsequent Major Orders. Each Campaign will come with its own potential reward, should the Helldivers be victorious in a majority of the Major Orders within it. The terminal will also feature an archive (to be populated as the first campaign concludes) so that new and returning Helldivers can read up on the twists and turns of previous campaigns. Balancing General balance changes Vehicle armor and enemies AP rebalance Super Earth vehicles now have more accurate Armor values (Bastion gets heavy armor, exosuits a mix of heavy and medium armor, ballistic shield heavy armor). Some enemies have received increased armor penetration values so they can deal with the vehicles, but not all. There will be a lot of smaller enemies and explosions that won't be able to hurt something like the Bastion or the Exo Suits (scavengers, Automatons small arms fire, hunters, small to medium obstacle explosions, cyborg small arms etc). But there are still a lot in the enemies arsenal that can hurt you (and also important is that a lot of YOUR arsenal now has a harder time hurting your own vehicles). Some enemies have had their durable damage reduced There are too many changes to properly list, so we ask you to play and tell us how it feels. The intent is the following The Bastion tank should feel “tankier” and ignore small attacks, withstand more medium attacks and its survivability against heavy attacks should be unchanged The Exo Suits have a similar change as the Bastion tank in terms of ignoring more small attacks and withstanding medium attacks better. The increase in health should overall make it feel a bit more tanky even against heavy attacks. The FRV has received an increase in health that will make it handle medium attacks similar to before, but be able to withstand heavy attacks better granting better survivability. The Ballistic Shield should feel like it can ignore small attacks and handle medium attacks better. Sentry health rebalance Increased the health of all sentries by 100% to compensate for the general damage increase of enemies vs vehicles. We have previously increased durable damage on a lot of enemies and since sentries are durable they have lost some of their utility. We didn't want them to become squishier, this change should improve their versatility on the battlefield. Reloading improvements Improvements to make reloading more responsive, part of this is allowing reloading while dodge diving, also remembering the reload state better so if you're ragdolled while reloading you will continue it when regaining control. Introduced the concept of delayed reloads. If you try to trigger a reload while the player is not allowed to do so, the reload will be delayed until the player is able to reload with a maximum of 1.2s delay from when the reload input was pressed. Bastion Pattern Customization If you own the vehicle patterns from a Premium Warbond, they can now also be applied to the Bastion Tank! It does not apply to Legendary Warbonds retroactively at this time. Decreased Exo Suit cooldown Reduce the cooldown of mechs from 10 minutes down to 8. The intent is to find a better balance with mechs and allow more time with fun stratagems Throwables amounts rebalance Intent is to make some of the less used throwables more available and viable options Orbitals damage rebalance Intent is to make the larger orbitals feel more like the large projectiles from orbit as they are so the projectile and explosion damage should better match that. Larger projectiles explosions like the 380mm and 120mm are increased to make close hits more effective vs larger enemies like Chargers. Compared to explosions like the Ultimatum these will have less damage at the center, but also less damage fall off so it will have a more consistent damage over its total area. The Railcannon also got more damage to be more effective vs some of the largest enemies like the Vox engines. It will still not one shot the largest enemies like Factory strider, Hive lord and similar. Primary weapons M7S SMG Moved scope offset closer to the scope so it will be easier to use in ADS mode. Throwables G-48 Giga Grenade Increased refill from 1 to 2 TED-63 Dynamite Increased max amount from 3 to 4 G-50 Seeker Increased Start amount from 3 to 4 Increased refill from 2 to 3 Increased max amount from 4 to 5 G-12 High Explosive Increased Start amount from 3 to 4 Increased refill from 2 to 3 Increased max amount from 4 to 5 G-16 Impact Increased Start amount from 3 to 4 Increased refill from 2 to 3 Increased max amount from 4 to 5 G-7 Pineapple Increased start amount from 3 to 4 Increased refill from 2 to 3 Increased max amount from 4 to 5 G-23 Stun Increased start amount from 3 to 4 Increased refill from 2 to 3 Increased max amount from 4 to 5 G-109 Urchin Increased start amount from 2 to 4 Increased refill from 2 to 3 Increased max amount from 4 to 5 G-10 Incendiary Increased start amount from 3 to 4 Increased refill from 2 to 3 Increased max amount from 4 to 5 G-13 Incendiary Impact Increased start amount from 3 to 4 Increased refill from 2 to 3 Increased max amount from 4 to 5 Stratagems Eagle 110mm Rocket Pods Intent: Make it better at one shotting smaller heavies like Chargers, Hulks, Harvesters (without shields). It can also kill some larger enemies like Tanks well. It is still not a 100% guaranteed kill, but it will be more reliable. Increased explosion damage 200 to 300 Increased explosion durable damage 200 to 300 Increased explosion armor penetration Medium to Heavy Rockets are fired in a closer pattern to each other to make it easier to hit smaller targets. Lower force impulse on explosion from 40 to 10 (This is to make enemies not fly away to much when they die, because we increased the armor penetration of the explosion) Orbital Precision Strike Increased projectile damage 3500 to 4000 Increased projectile durable damage 3500 to 4000 Increased explosion damage 1000 to 1500 Increased explosion durable damage 1000 to 1500 Orbital 380mm HE Barrage Increased projectile damage 3500 to 4000 Increased projectile durable damage 3500 to 4000 Increased explosion damage 1000 to 1500 Increased explosion durable damage 1000 to 1500 Orbital Walking Barrage Increased projectile damage 3500 to 4000 Increased projectile durable damage 3500 to 4000 Increased explosion damage 1000 to 1500 Increased explosion durable damage 1000 to 1500 SEAF Artillery Explosive/High Yield Explosive Increased projectile damage 3500 to 4000 Increased projectile durable damage 3500 to 4000 Increased explosion damage 1000 to 1500 Increased explosion durable damage 1000 to 1500 Orbital 120mm HE Barrage Increased projectile damage 2500 to 3500 Increased projectile damage 2500 to 3500 Increased explosion damage 750 to 1200 Increased explosion damage 750 to 1200 Orbital Railcannon Strike Increased projectile damage 7500 to 10 000 Increased projectile durable damage 7500 to 10 000 S-11 Speargun The projectile was negated by the Gas resistance armor which did not make much sense. The explosion of the projectile is still gas elemental. Change the projectile damage type from gas to none TX-41 Sterilizer Increased ammo capacity from 100 to 125 Increased starting amount of magazines from 2 to 3 Will be affected less by wind by 60% All Exosuits Increased health from 1600 to 1800 Increased health of arms from 600 to 800 Increased health of legs from 400 to 550 Cooldown reduced from 10 minutes down to 8 minutes M-102 Fast Recon Vehicle Increased health from 2000 to 2400 Increased health of doors by 50% Increased health of tires from 300 to 350 Enemies Terminids Charger Adjusted the chargers turning arc to make them easier to avoid Increase their recovery time after the charge to create a window of opportunity (+1 second). The charger basically keeps running and struggle to stop if it misses its target To compensate for this, charge speed has been slightly increased (8-&gt;9m/s) Alpha commander Removed cowardly behavior, it will now be more aggressive. Hunters Reduced durable damage of normal attack from 50 to 40 Reduced durable damage of tongue attack from 45 to 30 Reduced durable damage of pounce attack from 50 to 35 Warriors and spewers Reduced durable damage of normal attack from 80 to 65 Stalkers Reduced durable damage of tongue attack from 50 to 35 Automatons Vox Engine Reduced health from 11 000 down to 9000 Reduced max turn angle of its upper body so it cannot turn as far as it could previously (from 180 degrees down to 140) Amount of vox engines allowed to be active at the same time limited to 3 Reduced health of their cannon turrets from 8000 down to 3500 Reduced the armor of their cannon turrets from 5 to 4 Reduced durable on cannon turrets from 1 to 0.7 Increased damage of cannon turrets explosion to significantly hurt the vox engine when it dies Illuminate Elevated Overseer Added one attack pattern (short attack burst followed by a longer one) Reduced the current attack duration Reduced accuracy on moving targets 🔧 Fixes Special Shoutout Stimming is no longer interrupted by stagger Crash Fixes Fixed a rare crash that would happen when a player joined a game Fixed a rare crash which would occur when causing an excessive amount of explosions in a single frame Weapons &amp; Stratagem Fixes Fixed a bug where several weapon customizations weren't properly saved when the option was ticked in the player settings B/FLAM-80 Cremator no longer shows the 'Heavy Armour Penetrating' stratagem trait, following similar incendiary weaponry A/FLAM-40 Flame Sentry and EXO-51 Lumberer Exosuits flamethrower can now damage targets within 3 meters of the sentry P-33 Missile Pistol weapon now shows the right trait tags in the menu The R-2 Amendment reload now continues correctly if interrupted - if reload is interrupted early, it will not lose magazines The secondary weapon's chosen customization correctly persists after death if the menu option is selected Orbital Gatling Barrage will play the correct audio The StA-X3 W.A.S.P. Launcher can target illegal broadcast transmitter towers Part of the Bastion Tank's barrel can be damaged with a light penetration weapon Phalanx divers rejoice! Laser beams, explosion damage, electrical arcs and melee attacks no longer collide with the directional shields of your team-mates when hit from behind. SG-97 Sweeper should now reliably eject shells when slamfiring The WASP launcher can target the Illegal Broadcast transmitter tower Enemies Fixed physics to allow more representative shooting on the Dragonroach abdomen Veracitor will not trigger its charge within a narrow path, reducing instances where they'll clip though destructible obstacles Miscellaneous Fixes A hidden broadcast terminal was relocated to its correct spot so that the Helldivers can once again access it Players are no longer removed from terminals when switching between controller and Keyboard and Mouse D-pad/arrow keys navigation can come up and down when viewing teammates' equipment loadout Traversing through foliage such as bushes will no longer interrupt sprinting, which should result in less momentum loss Fixed several issues with some mission assets animation being out of sync for joining players Fixed issue where the map marker for \"Retrieve Mutant Larva\" objective always displayed in a radius Hints have better placements for the reinforcement Hellpods in commando missions SEAF SAM site missiles now have better software to detect and detonate near enemy air units Fixed a bug where certain Automaton mines turned invisible when a nearby mine exploded Fixed a case where the Helldiver head twitched when leaving the Hellpod M-102 Fast Recon Vehicle no longer plays audio for doors if they have been removed from the vehicle Parts of the TD-220 Bastion MK XVI barrel base can no longer be damaged with a light penetration weapon Fix issues with certain physics collisions having no audio Fixed Automaton mines getting under ground after a nearby mine explodes Fixed an issue where an Eradicate Automaton Forces level could generate underwater Fixed a traversal issue where enemies could not reach the player in one of the levels in the E-710 Extraction mission Fixed a traversal issue where enemies could not reach the player in one of the levels in the Annex Untapped Mineral Site mission",
+    "link": "https://www.gamespot.com/articles/helldivers-2-gets-a-much-welcome-update-to-reloading-vehicles-and-campaign-progression/",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T18:00:14+00:00"
+  },
+  {
+    "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
+    "description": "ZDF TV responded to a \"cease and desist\" letter after the tech trillionaire condemned the broadcaster's \"outrageous lies\".",
+    "link": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f4/live/3b494590-6994-11f1-a716-b5396926119a.jpg",
+    "pubDate": "2026-06-16T17:57:00+00:00"
+  },
+  {
+    "title": "You Are Everyone’s Intrusive Thoughts In Citizen Sleeper Dev’s Upcoming Fungal RPG",
+    "description": "The next game from Gareth Damian Martin, the lead developer for Citizen Sleeper and its sequel, is a drastic shift away from playing as a sentient android desperately trying to survive while managing resources and relationships. Called Signet City, the first-person fungalpunk RPG sees you play as a sentient spore who must spread itself through a city by secretly infecting new individuals. As a spore, you become the new guiding psyche of those you infect, acting as a voice that influences how they feel, so you can then shape how they act, and ultimately direct how events play out in the city. Even if it doesn't work like how they do mechanically, narratively, it sounds like you're playing as the sentient skills in Disco Elysium or Esoteric Ebb--you're an outside perspective doing its best to guide your host to what you think is the best outcome. \"As a parasite, each day you choose which host to drop into and then you have a limited number of actions that day,\" Martin told me. \"And each host kind of comes with a part of the city that they live in, like a little hub. I think it's better to think of it as more something like Dishonored where you have these little chunks of the city--you don't have a whole city that you can walk around.\" \"The key thing is the parasite feeds on emotion. And the skill system, the RPG aspect of the game, is all based on emotion. So let's say as the parasite, you want to get to this specific area of a [certain] hub. So you load in as that character and you're like, 'Okay, there's this door in my way. I'm going to have to find a way to get through it. One way that I could get through it is [kicking] it down, but if I want to kick it down, I [can] get a modifier increase if my host is angry. So I'm going to take him into the pub and I'm going to get him in an argument with somebody who's in the pub and that will get [my host] more angry and now I can [more easily] kick down this door.'\" Like both Citizen Sleeper games, you're still rolling a six-sided die in Signet City, so any choice you make can still fail thanks to the cruelty of chance. Martin talked about how, in the kicking down the door example, you could injure your infected host in the attempt. And that might lead you to try solving the same problem but with a different host. And since no two hosts are the same, the manner by which you can help them out is different. To push someone into a state of adrenaline, you might need to have them discover political posters of a person or policy they don't support, for example, or take them to the top of a skyscraper if they're afraid of heights. \"In a weird way, there's a little bit of Firewatch to it in the sense that when you're one of these characters, you're walking around the space and you're kind of discovering it,\" Martin said. \"And then when you find something that the character can do or react to, you find it by looking and then you hold the left trigger to then bring up the UI that relates to that.\" What I find most interesting about this is how this type of storytelling plays with the concept of perception. As someone who plays a lot of tabletop role-playing games, I'm engaging in make-believe with other adults several times a week. And during those sessions, players often switch up how they refer to themselves and the character they're playing as. I'll always use first-person \"I,\" when talking about myself, but I'll also use it when I'm pretending to be my character. But not always, though. I'll also say that my character does something as if I were a narrator directing them. So while I'm almost always using first-person, I'll sometimes use third-person, and even second-person on very rare occasions. In that same respect, Signet City is a game told in first-, second-, and third-person. The camera view is first-person, but the game refers to the parasite as \"you,\" and then the various hosts are talked about in third-person. But it's still just you, the player, behind it all. When I spoke to Martin about it, they said that the relationship of perspective was the exact concept they wanted to explore in Signet City. \"The parasite is influenced by observing tabletop play and how when you're playing a character in tabletop role-playing games, sometimes you're using your name, sometimes you use [your character's] name,\" Martin said. \"Sometimes you're like, 'Oh, it would be really cool if this really bad thing happened to my character right now, because that would be really interesting.' And sometimes you're more in their head and you're more like, 'Oh God, I really don't want this to go bad. I'd really, really like [a good roll] to just make this go well.' And I think that is a really interesting space. I think video games don't really get into that--they don't think about the player [as a conflicting perspective] that much. Maybe in Baldur's Gate [3], you get a bit of that when you do a Dark Urge playthrough. But that, for me, is a really exciting part of tabletop games, so that's something that I'm trying to get into.\" https://www.youtube.com/watch?v=mO4uKabqRQo \"It opens up the writing because I have to try and figure out, 'How do I write this?' So the game is in second-person and third-person simultaneously because [when] I write what it's like to be the parasite, [I use] 'you, you, you,' and then I write what the host is experiencing. So, 'Sid does this, Sid does that, Sid feels this.' And so that is a really exciting and interesting space to play. And so for me, I find it interesting to set myself those challenges and those structures. And a lot of it is really based on things I found interesting in Citizen Sleeper, but that that form couldn't necessarily contain. But if I change the form and I do something a bit more out there [with Signet City], I can find space to do it. Where these perspectives ultimately collide and begin to grate against one another is where Signet City seems to be delving into punk, creating friction and counterculture within its urban setting via the clashing perspectives of the city at large and the more personal battles between the fungal parasite and individual hosts. \"I think there are connections absolutely to authoritarianism, but there are also connections to revolution and radical ideas,\" Martin said. \"And I think that's what really excited me about beginning to work on this, was that a parasite can represent both of those things simultaneously and you can engage with the idea.\" \"If you are the most powerful being in [the city], then ultimately that's what you're growing to be. What are you driving the city towards and what do you see your role in it being? Are you a shepherd or are you a master? Do you instigate or do you control? Do you destroy, or are you like, 'Yeah, f**k the humans. They've destroyed ecology, ecology's coming for them now. They should actually die.' These are the things that I think you can really get into with having a protagonist like [a fungal spore] and having a structure like this game.\" We'll have to wait a bit longer to get a better understanding of how Signet City will look and play, as only an announcement trailer for the game has been revealed so far. In my conversation with Martin, they said they're about midway through development, so there's definitely no chance of the game releasing this year.",
+    "link": "https://www.gamespot.com/articles/you-are-intrusive-thoughts-in-citizen-sleeper-devs-upcoming-fungal-rpg/",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T17:50:15+00:00"
   },
   {
     "title": "Where to Stay in Boston if You Like to Eat",
-    "description": "Bridging the cobblestone charm of Beacon Hill with the sleek Seaport, Boston boasts a wealth of overnight bases near its culinary hotspots.",
+    "description": "Bridging the cobblestone charm of Beacon Hill with the sleek Seaport, Boston boasts a wealth of overnight bases near its culinary hot spots.",
     "link": "https://www.bonappetit.com/story/where-to-stay-in-boston",
     "thumbnail": "https://assets.bonappetit.com/photos/6a3067ffbbc7aab076b8b707/master/pass/Summer%20in%20the%20CIty%20(2014)24.jpg",
     "pubDate": "2026-06-16T17:28:45+00:00"
@@ -49,74 +322,11 @@
     "pubDate": "2026-06-16T17:28:00+00:00"
   },
   {
-    "title": "Playing It Safe at 63 With $850,000 in Cash and Bonds Is Quietly Costing This Retiree About $34,000 a Year",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/playing-safe-63-850-000-172345943.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/BdK4TnkFnxV3uN8klND3sg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/24_7_wall_st__718/b90e7fec1d290892b0b0c0d37b4e01f7",
-    "pubDate": "2026-06-16T17:23:45+00:00"
-  },
-  {
-    "title": "Israel seizes power over occupied West Bank mosque from Palestinians",
-    "description": "Hebron's mayor warns unilateral changes breach agreements, posing significant consequences for the region's stability.",
-    "link": "https://www.aljazeera.com/news/2026/6/16/israel-seizes-power-over-occupied-west-bank-mosque-from-palestinians?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/03/processed-82D3CBE6-B319-4C57-94F4-1A2A5A73380F-1772815235.jpeg?resize=1920%2C1440",
-    "pubDate": "2026-06-16T17:23:12+00:00"
-  },
-  {
     "title": "After U.S. Strike on Iranian School, Months Pass Without Answers",
     "description": "U.S. officials have not publicly acknowledged responsibility for the deaths or released a report on their findings from an investigation into the Feb. 28 strike.",
     "link": "https://www.nytimes.com/2026/06/16/us/politics/us-strike-iranian-school.html",
     "thumbnail": "",
     "pubDate": "2026-06-16T17:22:49+00:00"
-  },
-  {
-    "title": "SpaceX rises 12% to leapfrog Amazon, briefly top Microsoft in market cap",
-    "description": "CEO Elon Musk said Sunday that the company \"might be able to reach approximately\" $1 trillion revenue in 2030.",
-    "link": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108322572-1781623538376-NV11GN5J.jpg?v=1781623596&w=1920&h=1080",
-    "pubDate": "2026-06-16T17:22:14+00:00"
-  },
-  {
-    "title": "Rivian laying off hundreds of workers amid R2 launch",
-    "description": "Rivian said Tuesday it was laying off hundreds of workers, or less than 2% of its workforce.",
-    "link": "https://www.cnbc.com/2026/06/16/rivian-layoffs.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108300294-1777580057592-gettyimages-2273922334-_75a0293_q8x4miaj.jpeg?v=1777580161&w=1920&h=1080",
-    "pubDate": "2026-06-16T17:20:57+00:00"
-  },
-  {
-    "title": "Ronaldo’s last dance as Portugal face DR Congo in World Cup: All to know",
-    "description": "Team news, prediction, and lineups as Cristiano Ronaldo’s Portugal begin quest for maiden Cup trophy against DR Congo.",
-    "link": "https://www.aljazeera.com/sports/2026/6/16/ronaldos-last-dance-as-portugal-face-dr-congo-in-world-cup?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-14T002235Z_1838651335_UP1EM6E011MO5_RTRMADP_3_SOCCER-WORLDCUP-POR-1781613173_d60f0d-1781617261.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-06-16T17:20:36+00:00"
-  },
-  {
-    "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-    "description": "AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.",
-    "link": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279787-1773856963026-gettyimages-2266693711-NVIDIA_GTC.jpeg?v=1779315606&w=1920&h=1080",
-    "pubDate": "2026-06-16T17:20:35+00:00"
-  },
-  {
-    "title": "General Motors announces new defense partnership with Lockheed Martin",
-    "description": "General Motors announced a new defense partnership with Lockheed Martin as the country ramps up its production of weapons.",
-    "link": "https://www.cnbc.com/2026/06/16/general-motors-lockheed-martin.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108322560-1781623229791-Untitled-4.jpg?v=1781623274&w=1920&h=1080",
-    "pubDate": "2026-06-16T17:20:18+00:00"
-  },
-  {
-    "title": "Dow Jones Tech Titan Apple Rebounds From Support; AI Leader Teradyne Breaks Out",
-    "description": "",
-    "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-teradyne-breaks-out/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/08/Stock-Apple-eventLogo-company.jpg",
-    "pubDate": "2026-06-16T17:17:25+00:00"
-  },
-  {
-    "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-    "description": "Snap is launching its first AR glasses geared toward the broader public instead of developers.",
-    "link": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108302255-1777989618743-gettyimages-2235601629-AXIOS_MEDIA_TRENDS.jpeg?v=1778105147&w=1920&h=1080",
-    "pubDate": "2026-06-16T17:16:41+00:00"
   },
   {
     "title": "UK forces face operational cuts without more cash, defence chief warns",
@@ -126,13 +336,6 @@
     "pubDate": "2026-06-16T17:09:36+00:00"
   },
   {
-    "title": "Anthropic IPO: What to know before you buy the stock",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/investing/article/anthropic-ipo-what-to-know-before-you-buy-the-stock-170741665.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/3n9KmY0Ip5.hjx3d3A8r9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-06/43913f41-fd0a-4b3f-9275-00b996f1beb6",
-    "pubDate": "2026-06-16T17:07:41+00:00"
-  },
-  {
     "title": "Nintendo Switch update finally fixes eShop bug fans complained about for 9 years",
     "description": "Nintendo finally addresses a stability issue that's plagued the Switch for nearly a decade",
     "link": "https://www.polygon.com/switch-update-eshop-redesign-patch-notes-color-lag/",
@@ -140,10 +343,10 @@
     "pubDate": "2026-06-16T17:06:38+00:00"
   },
   {
-    "title": "IBD Stock Of The Day: AI Data Center, Power Grid Company Trades In Buy Zone",
+    "title": "Market Update: TEVA, APD, DG",
     "description": "",
-    "link": "https://www.investors.com/research/ibd-stock-of-the-day/quanta-services-pwr-stock-of-the-day-ai-data-centers/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/06/sotd-for-06-16-2026-desktop.png",
+    "link": "https://finance.yahoo.com/research/reports/ARGUS_47346_MarketUpdate_1781629272000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
     "pubDate": "2026-06-16T17:01:12+00:00"
   },
   {
@@ -154,20 +357,6 @@
     "pubDate": "2026-06-16T17:00:00+00:00"
   },
   {
-    "title": "Russian Navy Ship Accused of Firing Warning Shots at U.K. Yacht",
-    "description": "Britain’s Defense Ministry said it was investigating a report that a Russian vessel fired warning shots near a U.K.-registered yacht in the English Channel on Tuesday.",
-    "link": "https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-16T16:58:31+00:00"
-  },
-  {
-    "title": "Trump slams Israeli attacks on Lebanon at G7 summit",
-    "description": "US President Donald Trump slammed Israeli attacks on Lebanon at the G7 Summit.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-slams-israeli-attacks-on-lebanon-at-g7-summit?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781628918.jpg?resize=1621%2C1080&quality=80",
-    "pubDate": "2026-06-16T16:55:31+00:00"
-  },
-  {
     "title": "Prince George to attend Eton College from September",
     "description": "He will follow in the footsteps of his father, the Prince of Wales, who also attended the private school.",
     "link": "https://www.bbc.com/news/articles/clyx4jd9kkdo?at_medium=RSS&at_campaign=rss",
@@ -175,46 +364,11 @@
     "pubDate": "2026-06-16T16:55:22+00:00"
   },
   {
-    "title": "Snap CEO Spiegel defends Specs as long-term bet, pushes back against activist pressure",
-    "description": "",
-    "link": "https://finance.yahoo.com/technology/articles/snap-ceo-spiegel-defends-specs-165336776.html",
-    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/a3186a5d3d6b04516d6b153b15b692c3",
-    "pubDate": "2026-06-16T16:53:36+00:00"
-  },
-  {
-    "title": "Qatar renews mediation efforts for regional stability after US-Iran deal",
-    "description": "Qatar says it is working to prevent a return to war, following the signing of the MoU between the US and Iran.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_qatar-renews-mediation-efforts-after-us-iran-deal-160626?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781628656.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-06-16T16:51:19+00:00"
-  },
-  {
-    "title": "Post-apartheid South Africa: 50 years after Soweto riots, what has changed?",
-    "description": "Black students braved bullets to protest the discriminatory apartheid-era education policies.",
-    "link": "https://www.aljazeera.com/news/2026/6/16/post-apartheid-south-africa-50-years-after-soweto-riots-what-has-changed?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26166721131360-1781612900.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-16T16:45:31+00:00"
-  },
-  {
-    "title": "The overnight World Cup?",
-    "description": "For fans outside North America, watching the FIFA World Cup live means late nights and early mornings.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/the-overnight-world-cup?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781628134.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-06-16T16:42:23+00:00"
-  },
-  {
-    "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
-    "description": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
-    "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d41/live/929b64a0-697a-11f1-8546-8f19e4fe30f4.jpg",
-    "pubDate": "2026-06-16T16:38:14+00:00"
-  },
-  {
-    "title": "World Cup 2026: Day five",
-    "description": "Al Jazeera’s Rahul Pathak has your FIFA World Cup 2026 day five recap.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/world-cup-2026-day-five?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781627683.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-06-16T16:35:02+00:00"
+    "title": "Naomi Campbell blames lawyer for 'fraud and deception' at charity ban appeal",
+    "description": "The supermodel is appealing the ban against her, telling an appeal tribunal that fake emails were used to misdirect funds.",
+    "link": "https://www.bbc.com/news/articles/cj3gn3ly3y1o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02df/live/fb4f74c0-6973-11f1-a610-610c6ec6d3a5.jpg",
+    "pubDate": "2026-06-16T16:41:45+00:00"
   },
   {
     "title": "New Wharton forecast puts Social Security trust fund depletion later than official projections",
@@ -235,28 +389,7 @@
     "description": "The global order has been altered, and economies are unlikely to simply pick up where they left off before the U.S. and Israel began bombing Iran.",
     "link": "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html",
     "thumbnail": "",
-    "pubDate": "2026-06-16T16:17:11+00:00"
-  },
-  {
-    "title": "Shrek 5 trailer reveals 2027 release date and on-going Disney feud",
-    "description": "The official teaser trailer for Shrek 5 confirms a 2027 release date and hints at the ongoing rivalry between DreamWorks and Disney.",
-    "link": "https://www.polygon.com/shrek-5-trailer-updates-its-attacks-on-disney/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/shrek-5.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-16T16:13:54+00:00"
-  },
-  {
-    "title": "Loki's Tom Hiddleston is a 'time detective' in new Disney Plus show",
-    "description": "Disney Plus is releasing a documentary drama hosted by Loki's Tom Hiddleston about the destruction of Pompeii.",
-    "link": "https://www.polygon.com/tom-hiddleston-new-time-travel-disney-plus-show-loki-reunion/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22703764/Screen_Shot_2021_07_07_at_12.43.22_PM.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-16T16:13:27+00:00"
-  },
-  {
-    "title": "Nearly all children globally exposed to at least one climate hazard: Report",
-    "description": "Report highlights the growing threats posed by climate change and calls for the green transition to be accelerated.",
-    "link": "https://www.aljazeera.com/news/2026/6/16/nearly-all-children-globally-exposed-to-at-least-one-climate-hazard-report?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a31741522-1781625877.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-16T16:08:58+00:00"
+    "pubDate": "2026-06-16T16:17:12+00:00"
   },
   {
     "title": "My Cranky 5-Year-Old Helped Me Figure Out the Best Meal Delivery Services for Families (2026)",
@@ -273,60 +406,11 @@
     "pubDate": "2026-06-16T16:06:23+00:00"
   },
   {
-    "title": "Review: Toy Story 5 miraculously returns the series to Pixar's golden age",
-    "description": "Toy Story 5 is a funny, emotional story starring Jessie. It is a worthy addition to the franchise which vastly improves upon the predecessor",
-    "link": "https://www.polygon.com/toy-story-5-review/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/toystory5-online-use_t220.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-16T16:00:21+00:00"
-  },
-  {
-    "title": "Israel went to war with Iran, but Netanyahu may be the loser",
-    "description": "Critics say PM Benjamin Netanyahu's Iran war strengthened Tehran, strained US ties, and left Israel weaker.",
-    "link": "https://www.aljazeera.com/news/2026/6/16/israel-went-to-war-with-iran-netanyahu-may-be-loser?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-03-19T192158Z_654383220_RC2V7KA6O84I_RTRMADP_3_IRAN-CRISIS-ISRAEL-NETANYAHU-1-1781037025.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-16T15:57:03+00:00"
-  },
-  {
-    "title": "Steam game made in 2 months by 1 dev earns $10 million in days",
-    "description": "Meccha Chameleon, a hot new friendslop PC game, is raking in money for solo Japanese developer lemorion_1224.",
-    "link": "https://www.polygon.com/steam-meccha-chameleon-sales-price-lemorion-1224/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-16T15:52:30+00:00"
-  },
-  {
     "title": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market",
     "description": "Carvana has bought seven new vehicle franchises since last year that primarily sell Stellantis' Chrysler, Dodge, Jeep and Ram brands.",
     "link": "https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/107367916-1706819214355-IMG_8094.JPG?v=1730321180&w=1920&h=1080",
     "pubDate": "2026-06-16T15:51:53+00:00"
-  },
-  {
-    "title": "Iron Fist star Jessica Henwick hopes to play Colleen Wing again in Daredevil: Born Again",
-    "description": "The actor discussed the possibility ahead of the premiere of Silo season 3.",
-    "link": "https://www.polygon.com/iron-fist-silo-interview/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8040797/0169_KICK_104_Unit_00983RC.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-16T15:49:43+00:00"
-  },
-  {
-    "title": "The best Steam Next Fest demos to play for free right now",
-    "description": "We've played a bunch of Steam Next Fest demos to tally up the best of the lot, and these are the ones you absolutely must play.",
-    "link": "https://www.polygon.com/steam-next-fest-demos-best-june-2026/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/steam-next-fest-best-demos-june-2026-header.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-16T15:47:48+00:00"
-  },
-  {
-    "title": "A Mexican citizen died in ICE custody. Now his family is demanding answers",
-    "description": "Jose Guadalupe Ramos is one of 19 people who have died in ICE detention this year. Experts say he's part of a trend.",
-    "link": "https://www.aljazeera.com/news/longform/2026/6/16/a-mexican-citizen-died-in-ice-custody-now-his-family-is-demanding-answers?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/GettyImages-2268626002-1780559748_b5be16-1781401641.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-06-16T15:45:59+00:00"
-  },
-  {
-    "title": "Xbox Game Pass June 2026 new games include EA Sports FC 26, Call of Duty",
-    "description": "EA Sports FC 26 arrives just in time for the FIFA Word Cup. Xbox Game Pass is also losing a lot of titles, including Tomb Raider.",
-    "link": "https://www.polygon.com/xbox-game-pass-june-2026-wave-2-ea-sports-fc-26-world-cup/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ea-sports-fc-26-steam-screenshot.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-16T15:45:29+00:00"
   },
   {
     "title": "Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa",
@@ -336,11 +420,11 @@
     "pubDate": "2026-06-16T15:35:40+00:00"
   },
   {
-    "title": "10 best Marvel Super Heroes cards in Magic: The Gathering, ranked",
-    "description": "Magic: The Gathering's new Marvel Super Heroes set is almost here, so look for these 10 powerful chase cards once you start opening packs.",
-    "link": "https://www.polygon.com/mtg-marvel-super-heroes-best-cards/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/go-nuts-mtg-copy.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-06-16T15:30:21+00:00"
+    "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+    "description": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
+    "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/fa1ab490-698f-11f1-bf78-b9ee73ed2967.jpg",
+    "pubDate": "2026-06-16T15:31:24+00:00"
   },
   {
     "title": "What UK social media ban means for gaming and YouTube",
@@ -378,25 +462,11 @@
     "pubDate": "2026-06-16T14:55:35+00:00"
   },
   {
-    "title": "Who is Seren, Anya Taylor-Joy's character in The Hunt for Gollum?",
-    "description": "Anya Taylor-Joy will play an original character in Andy Serkis's 2027 Lord of the Rings movie, but it's still rooted in Tolkien lore.",
-    "link": "https://www.polygon.com/anya-taylor-joy-lotr-character-seren-hunt-for-gollum/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/anya-taylor-joy-as-magick-with-lord-of-the-rings-elves-in-the-background.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-16T14:52:27+00:00"
-  },
-  {
     "title": "Ethereum’s biggest protocol overhaul in years moves into its final development stage",
     "description": "Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.",
     "link": "https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e8877d6a7f602769cd66da027aa2616641323db3-7952x5304.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-06-16T14:48:18+00:00"
-  },
-  {
-    "title": "West End theatre to be named after Dame Judi Dench",
-    "description": "The Shaftesbury Theatre is to be renamed to honour Dame Judi's contribution to the performing arts.",
-    "link": "https://www.bbc.com/news/articles/c4gy4d0d7qjo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c585/live/7faa3320-698a-11f1-bf78-b9ee73ed2967.jpg",
-    "pubDate": "2026-06-16T14:47:16+00:00"
   },
   {
     "title": "'Godfather' of options sees SpaceX surpassing Nvidia, Tesla as early trades come in",
@@ -420,13 +490,6 @@
     "pubDate": "2026-06-16T14:26:56+00:00"
   },
   {
-    "title": "Takeaways From JD Vance’s New Book ‘Communion,’ on Faith and His Political Ambitions",
-    "description": "In a new memoir, Mr. Vance recalls an “unsettling” meeting with Vatican officials on immigration policy and disavows his infamous disparagement of some Democrats as “childless cat ladies.”",
-    "link": "https://www.nytimes.com/2026/06/16/us/politics/jd-vance-communion-book-takeaways.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-16T14:19:13+00:00"
-  },
-  {
     "title": "Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78",
     "description": "Bitcoin joined oil in heading lower while stocks gained on US-Iran peace momentum, with traders seeing a quick end to the BTC price rebound.",
     "link": "https://cointelegraph.com/markets/bitcoin-stocks-divergence-returns-as-btc-drops-to-66k-while-nasdaq-adds-3?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -439,20 +502,6 @@
     "link": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png",
     "pubDate": "2026-06-16T14:11:30+00:00"
-  },
-  {
-    "title": "SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access",
-    "description": "SpaceX’s blockbuster debut didn’t just mint a trillionaire; it became a real-world stress test for crypto’s promise of democratized market access.",
-    "link": "https://cointelegraph.com/features/spacex-ipo-crypto-price-tokenized-stock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-ctdg-spacex-ipo.jpg",
-    "pubDate": "2026-06-16T14:00:00+00:00"
-  },
-  {
-    "title": "Why a ‘safe’ AI can turn dangerous in the wrong company",
-    "description": "A 15-day AI agent simulation shows why short tests may miss long-term risks shaped by tools, rules and other agents.",
-    "link": "https://cointelegraph.com/learn/emergence-world-ai-agent-simulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-the-dangers-of-artificial-intelligence.jpg",
-    "pubDate": "2026-06-16T13:58:15+00:00"
   },
   {
     "title": "Xbox Game Pass Loses 8 More Games Very Soon",
@@ -469,25 +518,18 @@
     "pubDate": "2026-06-16T13:41:31+00:00"
   },
   {
-    "title": "GTA 6 Release Date Confirmed Again By CEO Who Also Explains Why It’s Taking So Long",
-    "description": "The hugely popular TikTok account The School of Hard Knocks caught up with Take-Two CEO Strauss Zelnick recently, and you better believe they asked about GTA 6's release date. In the on-the-street interview, Zelnick confirmed, once again, that GTA 6 remains on track for release on November 19. Why is it taking so long, though? \"The team at Rockstar really does seek to do something that's never been done before. That's really hard and it takes a long time,\" he said. https://www.tiktok.com/@theschoolofhardknocks/video/7651676011813260574?lang=en Zelnick also offered up some business advice, saying people should never compromise on their integrity--he said he learned this the hard way. \"It's the only thing you have. I have flaws. There was a time I acted in a way that wasn't consistent with my views about integrity in business. It hurt me really badly, and I learned a powerful lesson. Never do that,\" he said. Additionally, Zelnick said people looking for an overnight success in business are fooling themselves. \"I think everyone is looking for an overnight success. My experience is that the only overnight successes are someone else's. Everything worth doing is hard and takes a long time,\" he said. GTA 6 will be here somewhat soon.Finally, Zelnick offered up a piece of advice for people with regards to their careers. \"People should chase the intersection of what they're good at and what they like to do with emphasis on what you're good at. Do that thing and the world will probably open up to you,\" he said. GTA 6 is coming to market with an enormous amount of hype behind it, and while it is expected to sell many millions of copies, the game is not going to help save the struggling AAA gaming industry overall. The marketing efforts for GTA 6 are due to begin this summer, and with summer in the northern hemisphere kicking off on June 21, people are going to expect GTA 6 announcements, or a third trailer, any time now.",
-    "link": "https://www.gamespot.com/articles/gta-6-release-date-confirmed-again-by-ceo-who-also-explains-why-its-taking-so-long/",
-    "thumbnail": "",
-    "pubDate": "2026-06-16T13:31:46+00:00"
-  },
-  {
-    "title": "Xbox Game Pass Gets Another Round Of New Games In June",
-    "description": "It's that time of the month once again, as Xbox has announced the second wave of games being added to Game Pass in June. While the first half of the month was pretty stacked in terms of new releases, the latter half of June is taking it easy with four more games arriving, and the first two games of July have also been confirmed. Here's a closer look at what's on the horizon. Kicking things off today is the release of Junkster, a 3D action platformer that also includes building mechanics. A day-one launch, the game puts you in the mechanical boots of a plucky little construction bot charged with repairing his spaceship and recovering human artifacts. On June 17, Call of Duty: Vanguard comes to Game Pass--it's the World War II-themed entry in the franchise that first launched in 2021. In case you're wondering what all the fuss is about with that FIFA World Cup tournament, you can try out some soccer action for yourself on June 18 with EA Sports FC 26. While it's not an official FIFA game--the soccer body and EA split up a few years back--it still features official teams, players, and tournaments. To finish off the month, you can dive into Abyssus for a fast-paced roguelite brine-punk adventure on June 25, while RV There Yet combines the best video game title ever with a co-op camping experience. It'll be added to Game Pass on June 30. Heading into July, Game Pass Premium subscribers can grab Tony Hawk’s Pro Skater 3 + 4 starting July 2, and Winds of Arcana: Ruination brings some old-fashioned metroidvania fun to the service starting July 6. As for the games leaving Game Pass, eight titles in total will exit the service on June 30. The list includes fan-favorite Tomb Raider games and the delightful Unpacking. Xbox Game Pass June Wave 2 Additions June 16 Junkster (Xbox Series X|S, PC, cloud) – Game Pass Ultimate, PC Game Pass June 17 Call of Duty: Vanguard (Xbox Series X|S, PC, cloud) – Game Pass Ultimate, Game Pass Premium, PC Game Pass June 18 EA Sports FC 26 (Xbox Series X|S, PC, cloud) – Game Pass Ultimate, PC Game Pass June 25 Abyssus (Xbox Series X|S, PC, cloud) – Game Pass Ultimate, Game Pass Premium, PC Game Pass June 30 RV There Yet? (Xbox Series X|S, PC, cloud) – Game Pass Ultimate, Game Pass Premium, PC Game Pass July 2 Tony Hawk’s Pro Skater 3 + 4 (Xbox Series X|S, PC, cloud) – Now with Game Pass Premium; joining Game Pass Ultimate and PC Game Pass July 6 Winds of Arcana: Ruination (Xbox Series X|S, PC, cloud) – Game Pass Ultimate, Game Pass Premium, PC Game Pass",
-    "link": "https://www.gamespot.com/articles/xbox-game-pass-gets-another-round-of-new-games-in-june/",
-    "thumbnail": "",
-    "pubDate": "2026-06-16T13:23:25+00:00"
-  },
-  {
     "title": "CoinDesk 20 performance update: Uniswap (UNI) gains 12.9% while index trades lower",
     "description": "Stellar (XLM), up 2.7% from Monday, joined Uniswap (UNI) as a top performer.",
     "link": "https://www.coindesk.com/coindesk-indices/2026/06/16/coindesk-20-performance-update-uniswap-uni-gains-12-9-while-index-trades-lower",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/637a2b4a6d4ad36ffef529acc983e1ef76d52fc1-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-06-16T13:15:01+00:00"
+  },
+  {
+    "title": "Who Are the Leaders at the G7 Summit in France?",
+    "description": "On a roll or against a wall, Group of 7 leaders bring sharply different agendas. The leaders of some other nations are also attending to press their own interests.",
+    "link": "https://www.nytimes.com/2026/06/16/world/europe/who-are-g7-leaders.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-16T13:03:44+00:00"
   },
   {
     "title": "How Our Reporters Got at the Truth of Jeffrey Epstein’s Death",
@@ -504,32 +546,11 @@
     "pubDate": "2026-06-16T12:55:23+00:00"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "pubDate": "2026-06-16T12:54:41+00:00"
-  },
-  {
-    "title": "Bitcoin sell-off toward $60K may resume as Japan hikes interest rates",
-    "description": "Japan’s highest rates since 1995 are putting global liquidity back in focus as traders anticipate 26%–38% BTC price declines.",
-    "link": "https://cointelegraph.com/markets/bitcoin-selloff-toward-60k-may-resume-as-japan-hikes-interest-rates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-sp-bitcoin-funding-stays-negative3.jpg",
-    "pubDate": "2026-06-16T12:37:06+00:00"
-  },
-  {
     "title": "Thames Water closer to nationalisation after government objects to rescue deal",
     "description": "The environment secretary says the deal does not do enough for consumers or the environment.",
     "link": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d51/live/73b4c540-696b-11f1-8e1d-bbbb1017d210.jpg",
     "pubDate": "2026-06-16T12:25:59+00:00"
-  },
-  {
-    "title": "Robinhood cuts 10% of workforce as Tenev touts business strength",
-    "description": "Robinhood cuts about 10% of staff as CEO Vlad Tenev says business “has never been stronger” despite weak Q1 trading.",
-    "link": "https://cointelegraph.com/news/robinhood-cuts-workforce-tenev-strong-business?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-robinhood-down-several-times-as-dj-sees-biggest-one-day-gains2.jpg",
-    "pubDate": "2026-06-16T12:13:55+00:00"
   },
   {
     "title": "BlackRock's new bitcoin income fund offers cash flow alongside BTC exposure",
@@ -546,46 +567,11 @@
     "pubDate": "2026-06-16T11:45:37+00:00"
   },
   {
-    "title": "BlackRock's new bitcoin ETF lets institutions earn from volatility. There's a catch.",
-    "description": "Your day-ahead look for June 16, 2026",
-    "link": "https://www.coindesk.com/daybook-us/2026/06/16/blackrock-s-new-bitcoin-etf-lets-institutions-earn-from-volatility-there-s-a-catch",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2ca6b708bfca66dcd479cd14a0b987dbab9205a8-1440x810.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-16T11:21:02+00:00"
-  },
-  {
-    "title": "Daily Spotlight: Raising GDP Estimates",
-    "description": "",
-    "link": "https://finance.yahoo.com/research/reports/ARGUS_47343_MarketOutlook_1781608155000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-    "pubDate": "2026-06-16T11:09:15+00:00"
-  },
-  {
-    "title": "'Daylight robbery but worth it' - what fans are spending on World Cup",
-    "description": "Fans in the US, Canada and Mexico are spending big on tickets, transport and accommodation - is it worth it?",
-    "link": "https://www.bbc.com/news/articles/cy73xe2006po?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3a9/live/d284ded0-68f7-11f1-b777-eb5f33120f12.jpg",
-    "pubDate": "2026-06-16T10:08:20+00:00"
-  },
-  {
-    "title": "Mortgage and refinance rates today, Tuesday, June 16, 2026: 30- and 15-year rates falling while other rates rising",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-june-16-2026-100000747.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
-    "pubDate": "2026-06-16T10:00:00+00:00"
-  },
-  {
     "title": "Why Is Everyone Waiting Hours for Frozen Yogurt? Why Am I?",
     "description": "The yogurt is not special. Let’s just get that out of the way now.",
     "link": "https://www.nytimes.com/2026/06/16/magazine/frozen-yogurt-lines-myka.html",
     "thumbnail": "",
     "pubDate": "2026-06-16T09:00:32+00:00"
-  },
-  {
-    "title": "How Artisans Are Recreating the American Revolution",
-    "description": "In the spirit of 1776, these shipwrights, printers and textile workers are commemorating George Washington’s legacy through 18th-century techniques.",
-    "link": "https://www.nytimes.com/2026/06/16/travel/1776-revolution-america-250-artisans.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-16T09:00:09+00:00"
   },
   {
     "title": "Woman left traumatised by swinging says website 'facilitated abuse'",
@@ -600,34 +586,6 @@
     "link": "https://www.bonappetit.com/story/tzatziki-sauce-recipe",
     "thumbnail": "https://assets.bonappetit.com/photos/64395f49259b5fd1329ed8de/master/pass/20230410-SEO-RECIPES-28660%201.jpg",
     "pubDate": "2026-06-15T22:32:14+00:00"
-  },
-  {
-    "title": "Hundreds Of Books Are On Sale In Amazon’s Buy 2 Get 1 Free Sale",
-    "description": "Amazon's massive Buy Two, Get One Free sale is back as an early Prime Day deal just in time to stock up your summer reading list. To take advantage of this deal, add three eligible books to your cart; you'll then receive a discount on the lowest-priced item at checkout. Most eligible books are also seeing big price cuts in addition to the B2G1 promotion, meaning you can save quite a bit while the deal is available. Dozens of novels, comics, art books, and other reading material are eligible for the discount, so we've compiled a list of some of our favorite books that are on sale, as well as some trending picks and bestsellers if you're looking for recommendations. See all deals at Amazon If you're looking to pick up a few of the titles we mentioned in our Books You Should Read Based On Your Favorite Video Game story, you'll find Tress of the Emerald Sea, Six of Crows, and Throne of Glass are all included. The first book in the popular LitRPG series Dungeon Crawler Carl is also part of this deal, as are as classic fantasy series like Lord of the Rings and newer sci-fi releases like Red Rising. If you or someone special in your life is a Romantasy fan, several of the genre's most popular books and series are on sale. Sarah J. Maas fans can get the entire Throne of Glass box set right now for 43% off, dropping the price to $88 (normally $155), while From Blood and Ash, Fourth Wing, and The Knight and the Moth are all seeing steep discounts as well. Speaking of steamy romances Game Changer, the first book in the spicy Romance series that inspired HBO's Heated Rivalry, is part of the sale, as well as several other titles that have seen recent or upcoming screen adaptations, such as Project Hail Mary and A Knight of the Seven Kingdoms, while those looking for a new non-fiction book might want to check out Lena Dunham's new memoir Famesick. Check out the list below for even more of our recommendations, or check out Amazon's full Buy Two Get One Free sale to browse all the options. If you or someone special in your life is a Romantasy fan, several of the genre's most popular books and series are on sale. Sarah J. Maas fans can get the entire Throne of Glass box set right now for 43% off, while From Blood and Ash, Fourth Wing, and The Knight and the Moth are all seeing steep discounts as well. Amazon Buy 2 Get 1 Free Book Deals Alchemised -- $20.36 ($35) Artemis -- $10 ($21) Atomic Habits -- $18 ($27) The Butcher's Masquerade (Dungeon Crawler Carl) -- $21.29 ($35) Carl's Doomsday Scenario (Dungeon Crawler Carl) -- $18 ($30) A Court of Mist and Fury -- $12.82 ($19) A Court of Thorns and Roses -- $14.24 ($19) A Court of Silver Flames -- $11.49 ($19) Crown of Midnight -- $10.16 ($19) The Dungeon Anarchist's Cookbook (Dungeon Crawler Carl) -- $17 ($30) Dungeon Crawler Carl -- $15 ($20) Dungeon Crawler Carl Graphic Novel -- $15 ($20) The Eye of the Bedlam Bride (Dungeon Crawler Carl) -- $21.28 ($39) Famesick: A Memoir -- $27 ($32) Fourth Wing -- $11.80 ($21) Game Changer -- $10.61 ($19) The Gate of the Feral Gods (Dungeon Crawler Carl) -- $20.73 ($30) Heated Rivalry -- $13 ($19) Iron Flame -- $11.87 ($22) The Knight and the Moth -- $14.59 ($20) A Knight of the Seven Kingdoms -- $15 ($20) The Lost Bookshop -- $10 ($19) The Martian -- $9 ($19) Metroid Prime 1-3: A Visual Retrospective -- $28.50 ($50) The Midnight Library -- $14.52 ($18) Murdle: Volume 1 -- $12.48 ($16) A Parade of Horribles (Dungeon Crawler Carl) -- $22.38 ($32) Project Hail Mary -- $14 ($22) Red Rising -- $10 ($18) The Road -- $9 ($20) Rosalina's Storybook -- $16.44 ($25) This Inevitable Ruin (Dungeon Crawler Carl) -- $22.47 ($39) Tower of Dawn -- $10 ($19) Throne of Glass -- $10.70 ($19) Six of Crows -- $7 ($16) Sunrise on the Reaping -- $15 ($28) Starside (Deluxe Limited Edition) -- $21 ($34) Tomorrow, and Tomorrow, and Tomorrow -- $10.16 ($19) Tress of the Emerald Sea -- $15 ($20) When the Moon Hatched -- $12.81 ($22) Book Box Set Deals The Bloodsworn Saga Boxed Set -- $38.48 ($55) Crescent City Hardcover Box Set -- $64.88 ($99) George R. R. Martin's A Game of Thrones Five-Book Boxed Set (Leather Bound) -- $45 ($85) The Hunger Games Four-Book Paperback Box Set -- $33.30 ($62) J.R.R. Tolkien 4-Book Boxed Set -- $28 ($36) Mistborn Boxed Set -- $23 ($35) The Stormlight Archive Boxed Set, Books 1-3 -- $25 ($39) Throne of Glass Box Set -- $88 ($155) More Deals And Preorders Tomb Raider: Legacy of Atlantis Preorders Are Live On PS5, Xbox, Switch 2, And PC Super Mario Lego Sets Are Up To 30% Off At Amazon Hundreds Of Books Are On Sale In Amazon’s Buy 2 Get 1 Free Sale Preorders For Kingdom Hearts Collection I-III Amazon’s 3 4K Blu-Rays For $33 Deal Returns This Month PlayStation’s Wireless FlexStrike Fight Stick Preorders Are Now Open Super Mario and Yoshi Lego Set Discounted To Its Lowest Price Yet More Deals And Preorders Links (3) Sign up for GameSpot's Weekly Deals Newsletter: GameSpot's Weekly Deals, Straight to Your Inbox Join GameSpot's Weekly Deals newsletter and get the top game and gear discounts every week. Email Address Sign Up Here’s What Book You Should Read Based On Your Favorite Game View Images",
-    "link": "https://www.gamespot.com/articles/amazons-b1g1-half-off-sale-books/1100-6538075/",
-    "thumbnail": "",
-    "pubDate": "2026-06-15T21:31:00+00:00"
-  },
-  {
-    "title": "Double Fine, Ninja Theory, And More Reportedly Trying To Spin Off From Xbox Game Studios",
-    "description": "Earlier today, word broke that Microsoft is reportedly planning to close Compulsion Games--the studio behind South of Midnight, We Happy Few, and Contrast--as part of a larger round of layoffs and studio closures. Now, there's word that a handful of Xbox Studios' smaller developers are taking some steps to avoid that fate. Bloomberg is reporting that Compulsion, Double Fine, Ninja Theory, and \"several other studios\" have started negotiations with Microsoft to spin off their companies from Xbox Studios and avert full studio closures. Potentially, this would give the studios a chance to buy out Microsoft's stake in their companies or allow them to find financial backers who could become the new owners. However, that may not be enough to save every developer at the affected studios. Bloomberg notes that \"many employees will likely lose their jobs as a result\" of going independent. Consequently, employees at some of the studios have reportedly been cleared to begin looking for other work. It appears this process may be further along at Ninja Theory, with The Verge reporting Microsoft has already opted to close the studio. The scope of the potential layoffs isn't clear, and there have even been reports that Microsoft is considering spinning off Xbox itself into a new standalone company. Microsoft CEO Satya Nadella recently stressed the need for the Xbox gaming division to pull its financial weight. Ahead of any big changes to Xbox itself, Craig Duncan, the head of Xbox Game Studios, has left the company after a 15-year stint with Microsoft. Duncan's chief of staff, Louise O’Connor, is also leaving Xbox.",
-    "link": "https://www.gamespot.com/articles/double-fine-ninja-theory-and-more-reportedly-trying-to-spin-off-from-xbox-game-studios/",
-    "thumbnail": "",
-    "pubDate": "2026-06-15T21:19:30+00:00"
-  },
-  {
-    "title": "Obsession Director Would Be Up For A Video Game Movie",
-    "description": "Filmmaker Curry Barker is on top of the world right now thanks to the success of his horror movie Obsession. It's made more than $220 million against a reported $750,000 budget, and everyone wants to know what he's going to do next. He is making a new Texas Chainsaw Massacre movie, and plans to expand Obsession into possible sequels and a TV show, but what else? A video game movie, perhaps. He told Josh Horowitz on the Happy Sad Confused podcast that while he is not a big gamer himself, he would be open to making a video game movie one day. Asked if there was a specific game that he would jump at the chance to direct, if asked, he said, \"Yeah, probably. I feel like video games are sometimes really good concepts for movies, and I'm like, 'Ah, man, I wish that was a movie.'\" \"I'm not a huge gamer, so I don't know. But Five Nights at Freddy's ... I probably would have went a different direction with it. But that would have been something cool [for me to do],\" he added. Curry also talked about how he had dinner with Zach Cregger (Weapons, Barbarian) and he thinks Cregger is being really smart with his idea for Resident Evil and making a movie in the spirit of the games but not an adaptation of a specific title. Barker and Cregger have had similar career trajectories in some ways, having both started out with sketch comedy (That's A Bad Idea for Barker and Whitest Kids 'U Know for Cregger) before transitioning to making horror/psychological thrillers. https://www.youtube.com/watch?v=J61DU21Q_N4 Barker also revealed his own personal favorite video game, calling out Naughty Dog's Uncharted--though he did not single out a specific entry. That game was already adapted for a film starring Tom Holland and Mark Wahlberg. Another director with a breakout movie this year, Kane Parsons (Backrooms), said he is also interested in making a video game movie, and it could be an adaptation of Valve's Portal.",
-    "link": "https://www.gamespot.com/articles/obsession-director-would-be-up-for-a-video-game-movie/",
-    "thumbnail": "",
-    "pubDate": "2026-06-15T21:17:59+00:00"
-  },
-  {
-    "title": "How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies",
-    "description": "Interceptors show Ukraine’s embrace of autonomous technologies trained on immense troves of wartime data.",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-15T18:34:35+00:00"
   },
   {
     "title": "Paloma",
@@ -651,6 +609,62 @@
     "pubDate": "2026-06-15T13:33:00+00:00"
   },
   {
+    "title": "Is FirstEnergy Stock Underperforming the Dow?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/firstenergy-stock-underperforming-dow-121616169.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/n4eIm_7A70fdMYLsqWc3Og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/barchart_com_477/916cfc305c0ed57547938e7610013518",
+    "pubDate": "2026-06-15T12:16:16+00:00"
+  },
+  {
+    "title": "Is Iron Mountain Stock Underperforming the Nasdaq?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-stock-underperforming-nasdaq-121218171.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/7WNnj6a1Vw9pTp3Ux.2i1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950",
+    "pubDate": "2026-06-15T12:12:18+00:00"
+  },
+  {
+    "title": "Salesforce deepens AI automation push with $3.6 billion Fin buyout",
+    "description": "",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/salesforce-buy-ai-agent-platform-120736363.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/5b3a12d783f3d9eb0100dd3b67357cc9",
+    "pubDate": "2026-06-15T12:07:36+00:00"
+  },
+  {
+    "title": "A Chicago minister allegedly stole $2 million from his own flock — why is affinity fraud so hard to spot?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/chicago-minister-allegedly-stole-2-120500468.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/tN.Rkbv6lFrQonRIK8ugTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/89200b4530c7ac768145f85dadedfcdf",
+    "pubDate": "2026-06-15T12:05:00+00:00"
+  },
+  {
+    "title": "Canada's Nuvei to buy Payoneer for $2.75 billion in cross-border payments push",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/canadas-nuvei-buy-payoneer-2-120127235.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters-finance.com/26dbc8d015e25e5d52c90a3e29361a9d",
+    "pubDate": "2026-06-15T12:01:27+00:00"
+  },
+  {
+    "title": "PTC Inc. Stock: Is PTC Underperforming the Technology Sector?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ptc-inc-stock-ptc-underperforming-120053742.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-15T12:00:53+00:00"
+  },
+  {
+    "title": "Can Their Retirement Portfolio Bankroll Restoring a Historic Home In Vermont?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/retirement-portfolio-bankroll-restoring-historic-120031036.html",
+    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/pqvZUcHiV45sQUMQvWe94A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/24_7_wall_st__718/0c9ec3af64c53f07713bd1ba7bc508ad",
+    "pubDate": "2026-06-15T12:00:31+00:00"
+  },
+  {
+    "title": "India's May trade gap narrows as exports rise; U.S. trade talks in focus",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/indias-may-merchandise-trade-deficit-091641710.html",
+    "thumbnail": "https://s.yimg.com/os/en/reuters.com/f6418e7fb376083a3fa663de0c441269",
+    "pubDate": "2026-06-15T11:55:09+00:00"
+  },
+  {
     "title": "Fresh Tomato Michelada",
     "description": "Use summer’s ripest offerings to make this Mexican party bev.",
     "link": "https://www.bonappetit.com/recipe/big-batch-michelada",
@@ -672,17 +686,17 @@
     "pubDate": "2026-06-15T09:00:00+00:00"
   },
   {
-    "title": "This Chocolate Mousse Is Powered by a Block of Tofu",
-    "description": "Two ingredients and less than five minutes of effort adds up to a fancy-pants treat you could serve in a chic bistro.",
-    "link": "https://www.bonappetit.com/story/its-that-simple-chocolate-tofu-mousse",
-    "thumbnail": "https://assets.bonappetit.com/photos/6a0b85bcffaadb28006e6590/master/pass/2-ingredient-chocolate-mousse_LEDE_V1_050626_4636_VOG_final.jpg",
-    "pubDate": "2026-06-14T10:00:00+00:00"
-  },
-  {
     "title": "2-Ingredient Chocolate Mousse",
     "description": "It comes together in a blender and just happens to be dairy-free.",
     "link": "https://www.bonappetit.com/recipe/2-ingredient-chocolate-mousse",
     "thumbnail": "https://assets.bonappetit.com/photos/6a0b85bcfe4549180e948f10/master/pass/2-ingredient-chocolate-mousse_RECIPE_V2_050626_4651_VOG_final.jpg",
+    "pubDate": "2026-06-14T10:00:00+00:00"
+  },
+  {
+    "title": "This Chocolate Mousse Is Powered by a Block of Tofu",
+    "description": "Two ingredients and less than five minutes of effort adds up to a fancy-pants treat you could serve in a chic bistro.",
+    "link": "https://www.bonappetit.com/story/its-that-simple-chocolate-tofu-mousse",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a0b85bcffaadb28006e6590/master/pass/2-ingredient-chocolate-mousse_LEDE_V1_050626_4636_VOG_final.jpg",
     "pubDate": "2026-06-14T10:00:00+00:00"
   }
 ]
