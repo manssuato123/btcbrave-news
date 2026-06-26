@@ -1,24 +1,346 @@
 [
   {
-    "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
-    "description": "Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer.",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/8dfa10ad341afa503d9695ca51f0263695f46d13-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-26T13:22:16+00:00"
+    "title": "Critical Role is already switching up Campaign 4's West Marches format",
+    "description": "Critical Role is shaking up how it handles the West Marches format in Campaign 4, with the Soldiers table currently having only one player.",
+    "link": "https://www.polygon.com/critical-role-campaign-4-new-tables/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/critical-role-campaign-4-cast-picture.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T15:54:46+00:00"
+  },
+  {
+    "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+    "description": "",
+    "link": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327505-1782488786660-108327505-1782488690382-gettyimages-2264035900-BLOOMBERG_INVEST.jpeg?v=1782488807&w=1920&h=1080",
+    "pubDate": "2026-06-26T15:53:31+00:00"
+  },
+  {
+    "title": "AMD’s stock split history (&amp; prospects) explained",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-split-history-prospects-154400094.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2E1F8DC963F590B86FBC57ADDF905D5A7C79C7342D83D0AC9095BCD1A34E2391/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F25fd153fd8b36de2d9e387ed59a73bd5",
+    "pubDate": "2026-06-26T15:44:00+00:00"
+  },
+  {
+    "title": "ON Semi tanks 20% following Synaptics deal as CEO defends core business",
+    "description": "The pivot into physical AI grows On Semi's addressable market by an additional $30 billion, the company said.",
+    "link": "https://www.cnbc.com/2026/06/26/on-semi-stock-synaptics-ceo-hassane-el-khoury.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327448-1782484347493-gettyimages-2167195393-CZECH_ONSEMI.jpeg?v=1782484421&w=1920&h=1080",
+    "pubDate": "2026-06-26T15:39:01+00:00"
   },
   {
     "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million",
     "description": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein in his prepared statement to the House Oversight and Government Reform Committee.",
     "link": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107375771-1708456916246-gettyimages-1230794654-BLACK_EPSTEIN.jpeg?v=1771952856&w=1920&h=1080",
-    "pubDate": "2026-06-26T13:20:39+00:00"
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327398-1782481669333-108327398-1782481515671-gettyimages-2283423144-kd1_2177_oqlywdir.jpeg?v=1782481678&w=1920&h=1080",
+    "pubDate": "2026-06-26T15:36:37+00:00"
   },
   {
-    "title": "Thermal cameras reveal intense heat for outdoor workers in Europe",
-    "description": "Thermal cameras reveal intense heat for outdoor workers in Europe",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/thermal-cameras-reveal-intense-heat-for-outdoor-workers-in-europe?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782479593.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-06-26T13:13:40+00:00"
+    "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
+    "description": "OpenAI said it confidentially filed its prospectus with the SEC earlier this month, but noted it \"may be a while\" before it goes public.",
+    "link": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1780674650&w=1920&h=1080",
+    "pubDate": "2026-06-26T15:34:49+00:00"
+  },
+  {
+    "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
+    "description": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327420-1782483293832-gettyimages-1605854206-GMO_GRANTHAM.jpeg?v=1782483321&w=1920&h=1080",
+    "pubDate": "2026-06-26T15:34:09+00:00"
+  },
+  {
+    "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+    "description": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
+    "link": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+    "pubDate": "2026-06-26T15:33:31+00:00"
+  },
+  {
+    "title": "Red Lobster's Ultimate Endless Shrimp promotion described as a 'car crash' for the company, lawsuit says",
+    "description": "\"Thai Union doubled down on a campaign to squeeze out every drop of value that it could,\" creditors said",
+    "link": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107417761-1716297372417-gettyimages-2153880580-01-l1020665-_4i4fnrtu.jpeg?v=1731355928&w=1920&h=1080",
+    "pubDate": "2026-06-26T15:32:25+00:00"
+  },
+  {
+    "title": "Genshin Impact just revealed the villain it's been teasing for 6 years",
+    "description": "The Tsaritsa's arrival could mark the beginning of the end for Genshin Impact after the game enters version 7.0",
+    "link": "https://www.polygon.com/genshin-impact-tsaritsa-reveal-snezhyna/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/genshin-impact-tsaritsa-reveal-cropped.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T15:31:41+00:00"
+  },
+  {
+    "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-153100320.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/A694CD4A848A08EF05C32BD2F8FF8ED8EE4A32A848ACB47B60162656E1E2E973/subgraphmysterio/resizefill_w1200_h797;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ffb3e04cf5b6b4f80abe8db28a5a2aecd",
+    "pubDate": "2026-06-26T15:31:00+00:00"
+  },
+  {
+    "title": "Nike Stock Languishes, But Looming Earnings Report Fuels Turnaround Optimism",
+    "description": "",
+    "link": "https://www.investors.com/research/earnings-preview/nike-stock-52-week-low-earnings-china-turnaround/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/04/stock-nike-10-shutter.jpg",
+    "pubDate": "2026-06-26T15:26:42+00:00"
+  },
+  {
+    "title": "From models to studios: how AI video investment is evolving",
+    "description": "",
+    "link": "https://finance.yahoo.com/technology/ai/articles/models-studios-ai-video-investment-152429836.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/1621F47272202999A20C8250494958894EBDE311686E8706CA050C98D83F1C3B/subgraphmysterio/resizefill_w1200_h519;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2F155c9f5f73c767f7e069d6268f152281",
+    "pubDate": "2026-06-26T15:24:29+00:00"
+  },
+  {
+    "title": "BBC DJ and presenter Trevor Nelson taking a break from work due to health issues",
+    "description": "The Radio 2 and 1Xtra presenter said he was now \"concentrating on getting better\".",
+    "link": "https://www.bbc.co.uk/news/articles/c4gykyenweyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c88/live/f40cd6c0-713a-11f1-be59-4b2938e11145.jpg",
+    "pubDate": "2026-06-26T15:24:07+00:00"
+  },
+  {
+    "title": "Trump name-dropped Nokia and Eli Lilly in a Pennsylvania speech. Here's what happened to 5 other stocks he singled out",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/trump-name-dropped-nokia-eli-152209306.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/8424D8E81E5E04340DBD83CE182B8BC7F1EB77C75D2E993173F66C41C661C255/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F89ce07fe04b6b77e2917d24c75778a82",
+    "pubDate": "2026-06-26T15:22:09+00:00"
+  },
+  {
+    "title": "EU targets Somalia with visa curbs as president pushes back on returns",
+    "description": "President says his country will readmit genuine nationals but insists Europe must first verify deportees' identities.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/eu-targets-somalia-with-visa-curbs-as-president-pushes-back-on-returns?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/afp_6953016e0976-1767047534.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T15:18:02+00:00"
+  },
+  {
+    "title": "GTA 6 is the first PS5 game to get the royal treatment from Sony",
+    "description": "Sony and Rockstar Games are pushing Grand Theft Auto 6 hard on PS5, taking over users welcome screens and the PlayStation Store alongside preorders.",
+    "link": "https://www.polygon.com/gta-6-ps5-playstation-store-ad-marketing-sony-rockstar-games/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/vintage_vice_city_pack_exclusive_looks_05.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T15:17:14+00:00"
+  },
+  {
+    "title": "Ex-Trump advisor John Bolton pleads guilty to retaining national defense information",
+    "description": "John Bolton is one of several foes of President Donald Trump who has been indicted since Trump regained the White House.",
+    "link": "https://www.cnbc.com/2026/06/26/john-bolton-guilty-defense-trump.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327374-1782479283531-gettyimages-2283418311-dra02570_epayeqkm.jpeg?v=1782479335&w=1920&h=1080",
+    "pubDate": "2026-06-26T15:14:50+00:00"
+  },
+  {
+    "title": "When Rates Are Up and Your Cash Is Still Tight. Here Is What Is Actually What Could Be Going On.",
+    "description": "",
+    "link": "https://finance.yahoo.com/small-business/articles/rates-cash-still-tight-actually-151257872.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/8AA6F0DB89F35457E3509B69A1FBDD5CBBFE7CDC166E082F0AF42E523093351C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F22b33ab6474004152269c8c82a3e6596",
+    "pubDate": "2026-06-26T15:12:57+00:00"
+  },
+  {
+    "title": "PS5 And Xbox Series X Both Didn’t Sell Very Well In May",
+    "description": "PlayStation 5 and Xbox Series X|S saw a significant drop in unit sales in May, according to new data from Circana. May's US Video Game Market Notes from Circana Senior Director Mat Piscatella detailed this slump, even as the month otherwise saw a 38% year-over-year increase in hardware spending. Sony sold 58% fewer PS5 units last month than in May 2025, as spending on the console dropped 43% year-over-year. It was the fewest number of PlayStation consoles Sony has sold in May since May 2000, back when the original PlayStation was its only console on the market in the United States. Meanwhile, Xbox's units sold fell by 12% between May 2025 and May 2026, making for the worst May performance since the Xbox debuted in November 2001. Oddly, Microsoft still saw hardware spending grow by 7% year-over-year despite the drop in units sold, likely due to the multiple price hikes Xbox consoles have received over the past year. Generally, it seems the past year of price hikes is finally catching up to PlayStation and Xbox. Circana's data points out that the average price of PlayStation and Xbox hardware has increased by 33% and 22%, respectively. That's now clearly impacting how many people will go out and buy a new console, even in a month of high-profile releases like 007 First Light, Forza Horizon 6, and Lego Batman: Legacy of the Dark Knight. The continued success of the Nintendo Switch 2, which Circana estimates has sold 5.9 million units in North America, ultimately offset the PS5 and Xbox Series X|S' poor performance. Hardware spending increased by 37% between May 2025 and May 2026. When you also factor in video game sales and accessories, spending increased by 3% year over year. On Bluesky, Piscatella posted that May 2026 \"will be last month with HW growth for a… while. Pricing and Switch 2 launch comp will be a nasty combo.\"",
+    "link": "https://www.gamespot.com/articles/ps5-and-xbox-series-x-both-didnt-sell-very-well-in-may/",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/3995502-ps5-xbox.jpg?w=1024",
+    "pubDate": "2026-06-26T15:11:50+00:00"
+  },
+  {
+    "title": "Dollar falls for second straight day but poised for weekly gain",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/yen-wobbles-near-40-low-010511440.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/EC369CA53938AA9C4FD7C587DE564B709376D3EEB3CAE2A740FF7519537D0EBB/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fed79d778f6a49b4b3ffee97b3c9d7118",
+    "pubDate": "2026-06-26T15:08:37+00:00"
+  },
+  {
+    "title": "AI trade hits a wall amid report that OpenAI will delay IPO until 2027",
+    "description": "",
+    "link": "https://finance.yahoo.com/technology/article/ai-trade-hits-a-wall-amid-report-that-openai-will-delay-ipo-until-2027-150642366.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/7CD678174F9B05BB1825BF8E8528E079B3E881DA79E6A9B33A21D36E58798687/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2Fee290253-63af-4131-85bb-2fe1d40bb1d5",
+    "pubDate": "2026-06-26T15:06:42+00:00"
+  },
+  {
+    "title": "Securitize aims to raise $400 million as tokenization firm nears public debut",
+    "description": "The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval.",
+    "link": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/88f5265f9e7fa00589829ce020ec867ff5d6135f-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-26T15:04:44+00:00"
+  },
+  {
+    "title": "How transparent are the royals being about money?",
+    "description": "After the King reveals the tax he paid questions remain over how open the Royal Family is being about its wealth.",
+    "link": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/140d/live/d65bd190-7175-11f1-b1db-af71d47507d6.jpg",
+    "pubDate": "2026-06-26T15:03:39+00:00"
+  },
+  {
+    "title": "Blade's Bassam Tariq and Mahershala Ali team up for action flick Your Mother Your Mother Your Mother",
+    "description": "While Marvel's Blade film may never be released, the film's former director, Bassam Tariq, and star, Mahershala Ali, are teaming up again.",
+    "link": "https://www.polygon.com/your-mother-bassam-tariq-mahershala-ali-action-movie-marvel-blade/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/your-mother-your-mother-your-mother-_-official-teaser-trailer-0-36-screenshot.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T15:02:31+00:00"
+  },
+  {
+    "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
+    "description": "A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3792f80b9e-1782027000.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T14:59:15+00:00"
+  },
+  {
+    "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
+    "description": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.",
+    "link": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108311270-17794653632026-05-22t155211z_467637753_rc2fela19pui_rtrmadp_0_usa-fed-warsh.jpeg?v=1779465389&w=1920&h=1080",
+    "pubDate": "2026-06-26T14:54:15+00:00"
+  },
+  {
+    "title": "Morocco jails 29, including politicians and sports figures, in drug trial",
+    "description": "Casablanca court delivers landmark verdict in 'Escobar of the Sahara' case: up to 12 years for top figures.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/morocco-jails-29-including-politicians-and-sports-figures-in-drug-trial?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e840849cd-1782481928.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T14:48:38+00:00"
+  },
+  {
+    "title": "Haunted Chocolatier’s Long Development Comes Down To Chasing Perfection",
+    "description": "With GTA 6 launching in a few months, Eric \"ConcernedApe\" Barone's Haunted Chocolatier is teeing up to be the next big \"when the heck is it coming out\" game. Announced five years ago, Barone has given a few updates and interviews on the status of the game, and in a new blog post, he wrote about the progress on his Stardew Valley follow-up. \"I know it's taking a long time. A big part of that is that I am being very thoughtful about every aspect of the game,\" Barone wrote. \"The things in the game which the player will be interacting with or using very often need to be 'perfect.' They need to be seamless, clear, intuitive, satisfying, aesthetic.\" Barone added that he'd spent time recently revisiting the recipe book for making chocolates, adding that this was one aspect of the game in particular he wanted to be flawless. Since this will be a major component in Haunted Chocolatier's gameplay, Barone wants it to present \"just the right amount\" of data to players that doesn't overwhelm. That's no easy task and a function that most players will likely take for granted, Barone wrote, saying that the process takes several rounds of iterations before he's finally satisfied. Beyond that look behind the curtain, Barone explained that this process was also one of the reasons why he hadn't shown off much of Haunted Chocolatier at all. \"Partly, it feels like I'm serving a half-baked bread. I would rather serve a fully baked bread. Also, I know that many parts of the game will likely evolve and change before release, so if I reveal them early, I risk disappointing players if the final product does not match their expectations,\" Barone concluded. Haunted Chocolatier doesn't have a release date yet, but Barone is aiming for his tale of creating sweet treats and running a confectionery store to be a spooky experience. For now, Barone and the rest of his team remain \"knee-deep\" in development on it. Best Cozy Games To Cuddle Up With In 2026 View Images",
+    "link": "https://www.gamespot.com/articles/haunted-chocolatier-long-development-comes-down-to-chasing-perfection/",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1859/18599218/4570986-acnh2.png?w=1024",
+    "pubDate": "2026-06-26T14:48:28+00:00"
+  },
+  {
+    "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+    "description": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+    "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcea/live/a513f030-716c-11f1-a4f8-ed826651ef10.jpg",
+    "pubDate": "2026-06-26T14:42:49+00:00"
+  },
+  {
+    "title": "Pokémon Unite adds 4 Legendary Pokémon for its 5th anniversary",
+    "description": "The free-to-play MOBA for Nintendo Switch, Android and iOS, Pokémon Unite adds four Legendary Pokémon and a regal look for Pikachu next month in July.",
+    "link": "https://www.polygon.com/pokemon-unite-new-legendaries-regal-pikachu-battle-pass/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/pokemon-unite-regal-pikachu.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T14:36:27+00:00"
+  },
+  {
+    "title": "Dragon's Dogma 2 is the perfect binge for Skyrim fans",
+    "description": "2024's Dragon's Dogma 2 is the perfect antidote to anyone waiting for The Elder Scrolls 6, especially with the Dark Arisen expansion coming soon.",
+    "link": "https://www.polygon.com/skyrim-fans-perfect-binge-dragons-dogma-2/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/dragons-dogma-2-rec-2.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T14:36:15+00:00"
+  },
+  {
+    "title": "Ex-Trump adviser Bolton pleads guilty in classified documents case",
+    "description": "Hawkish national security figure has emerged as critic of President Trump after serving during his first term in office.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/ex-trump-adviser-bolton-pleads-guilty-in-classified-documents-case?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3e8b36-1782483766.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T14:30:17+00:00"
+  },
+  {
+    "title": "Kids Are Home for Summer, Stock Up on Supplies This Prime Day (2026)",
+    "description": "This is some of my favorite gear for my and your little friends.",
+    "link": "https://www.bonappetit.com/story/prime-day-kids-deals-2026",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a3e7bc0d6fd42c0bce8f260/master/pass/Kids-primeday2026.jpg",
+    "pubDate": "2026-06-26T14:29:52+00:00"
+  },
+  {
+    "title": "Stardew Valley creator gives an update on Haunted Chocolatier's release",
+    "description": "Developer Eric Barone (ConcernedApe) admits Haunted Chocolatier is 'taking a long time' as Stardew Valley development continues.",
+    "link": "https://www.polygon.com/haunted-chocolatier-release-update-june-2026-concernedape/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25361902/02_3f2jo.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T14:28:35+00:00"
+  },
+  {
+    "title": "Girls’ Frontline 2: Exilium Reveals Exciting Plans, Updates, And Giveaways For Its 1.5 Anniversary Event",
+    "description": "New dolls, new outfits, and lots of free stuff for players to celebrate 18 months of Girls’ Frontline 2: Exilium.",
+    "link": "https://www.polygon.com/girls-frontline-2-exilium-reveals-exciting-plans-updates-and-giveaways-for-its-15-anniversary-event/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-26-jun-2026-01-44-pm-9848.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T14:21:37+00:00"
+  },
+  {
+    "title": "Robot Chicken parodies Adult Swim for its 25th anniversary",
+    "description": "A new special from Robot Chicken creators will take aim at the programming block's shows on Adult Swim, including Rick and Morty and Metalocalypse.",
+    "link": "https://www.polygon.com/robot-chicken-new-specials-2026-adult-swim-documentary/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/2026_annecy_robotchickenspecial_preivew_wide_01.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T14:15:24+00:00"
+  },
+  {
+    "title": "Tate brothers lose court bid to be told names of their UK accusers",
+    "description": "Andrew and Tristan Tate will face multiple charges, including rape, when they are returned to the UK.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dyrw36gzjo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/433b/live/1f0f6ee0-7155-11f1-8546-8f19e4fe30f4.jpg",
+    "pubDate": "2026-06-26T14:09:17+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "pubDate": "2026-06-26T14:06:06+00:00"
+  },
+  {
+    "title": "Warner Bros. revives Gerry Anderson's puppetry with Hit Squad",
+    "description": "The new puppet and CGI-animated show incorporates modern technology into the style that inspired Team America",
+    "link": "https://www.polygon.com/adult-swim-hit-squad-gerry-anderson-reveal/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/mcdteam_ec021.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T14:05:18+00:00"
+  },
+  {
+    "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
+    "description": "Tehran rejects US-GCC pressure over missiles, the Strait of Hormuz and regional armed groups.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e73676fc4-1782477671.jpg?resize=1200%2C630",
+    "pubDate": "2026-06-26T14:04:34+00:00"
+  },
+  {
+    "title": "South Korean court jails former first lady for seven years in bribery case",
+    "description": "Kim Keon Hee was sentenced for taking bribes including luxury items in return for political favours.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/south-korean-court-jails-former-first-lady-for-seven-years-in-bribery-case?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a3e6c4503-1782475845.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T14:01:38+00:00"
+  },
+  {
+    "title": "Framework Ventures raises $400M to invest beyond crypto: Report",
+    "description": "Framework Ventures raises $400 million fourth fund as it expands into AI, robotics and energy while reportedly planning to continue crypto investments.",
+    "link": "https://cointelegraph.com/news/framework-ventures-raise-400-million-push-beyond-crypto-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-how-stablecoin-yields-could-trigger-deposit-outflows-from-us-banks-according-to-aba2.jpg",
+    "pubDate": "2026-06-26T13:58:28+00:00"
+  },
+  {
+    "title": "Canada eligible to join Eurovision competition",
+    "description": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
+    "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1b/live/3e3335f0-7172-11f1-a417-dfae8167aae6.jpg",
+    "pubDate": "2026-06-26T13:41:36+00:00"
+  },
+  {
+    "title": "Iraq’s new PM launches anticorruption campaign, but is it enough?",
+    "description": "Al-Zaidi campaign to combat corruption seizes $86m, properties, vehicles and gold. But analysts say he needs to do more.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/iraqs-new-pm-launches-anticorruption-campaign-but-is-it-enough?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3c3f22-1782333218.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T13:37:46+00:00"
+  },
+  {
+    "title": "New York’s primaries signal a new force in US politics",
+    "description": "Progressive, Muslim and Arab American candidates are challenging old limits on debate over Israel and Palestine.",
+    "link": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e072ea7c4-1782449966.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T13:37:17+00:00"
+  },
+  {
+    "title": "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
+    "description": "The city is at risk of an 'imminent ground offensive' by the RSF paramilitary and its allies, 38 NGOs warn.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3e75945ed7b-1782478228.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T13:32:14+00:00"
+  },
+  {
+    "title": "Hezbollah demands Israel leave Lebanon ‘unconditionally’ as US talks extend",
+    "description": "As Lebanon-Israel strive for agreement, Hezbollah chief Naim Qassem accepts 'no normalisation' and 'no gains for Israel'",
+    "link": "https://www.aljazeera.com/news/2026/6/26/hezbollah-demands-israel-leave-lebanon-unconditionally-as-us-talks-extend?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e692432a9-1782475044.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T13:28:34+00:00"
+  },
+  {
+    "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
+    "description": "Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer.",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/8dfa10ad341afa503d9695ca51f0263695f46d13-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-26T13:22:16+00:00"
   },
   {
     "title": "Hyperliquid added to Singapore's Investor Alert List",
@@ -28,25 +350,11 @@
     "pubDate": "2026-06-26T13:11:29+00:00"
   },
   {
-    "title": "45 years later, Miss Piggy’s motorcycle stunt double from The Great Muppet Caper looks back",
-    "description": "Actor and stunt double Kiran Shah talks The Great Muppet Caper on the film’s 45th anniversary",
-    "link": "https://www.polygon.com/i-was-miss-piggys-stunt-double/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screen-shot-2026-06-25-at-2-37-59-pm.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-06-26T13:00:20+00:00"
-  },
-  {
     "title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
     "description": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.",
     "link": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
     "thumbnail": "",
     "pubDate": "2026-06-26T12:56:48+00:00"
-  },
-  {
-    "title": "Everything we know so far about the deadly earthquakes in Venezuela",
-    "description": "Everything we know so far about the deadly earthquakes in Venezuela",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/everything-we-know-so-far-about-the-deadly-earthquakes-in-venezuela-2?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782478309.jpg?resize=1920%2C1073&quality=80",
-    "pubDate": "2026-06-26T12:52:27+00:00"
   },
   {
     "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
@@ -56,46 +364,11 @@
     "pubDate": "2026-06-26T12:51:21+00:00"
   },
   {
-    "title": "Which countries have pledged aid to Venezuela after powerful earthquakes?",
-    "description": "Countries in the Americas and beyond are sending aid, medical supplies and paramedics to Venezuela.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/which-countries-have-pledged-aid-to-venezuela-after-powerful-earthquakes?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e512a075f-1782468906.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T12:43:08+00:00"
-  },
-  {
-    "title": "Micron falls 6% in premarket, paring earlier gains amid tech rout",
-    "description": "Micron Technology's shares tumbled on Friday amid a global sell-off in technology stocks.",
-    "link": "https://www.cnbc.com/2026/06/26/micron-stock-earnings-tech-selloff-ai.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108325014-1782152939227-gettyimages-2277829963-boivin-notitle260527_npSZN.jpeg?v=1782153013&w=1920&h=1080",
-    "pubDate": "2026-06-26T12:38:55+00:00"
-  },
-  {
-    "title": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
-    "description": "Kyiv circumvents air defences to target oil supplies, power stations, convoys and bridges, starving Russian front line.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-26T091109Z_39053135_RC2QZLASGAC1_RTRMADP_3_UKRAINE-CRISIS-FRONTLINE-DNIPROPETROVSK-REGION-1782470854.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T12:34:56+00:00"
-  },
-  {
-    "title": "The brands winning with World Cup advertising may not be the sponsors",
-    "description": "The World Cup winners and losers in advertising may be indicative of a broader trend of how people are responding to authentic branding.",
-    "link": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326773-1782392770556-gettyimages-2281418624-fg2_9822_bcbrm2sv.jpeg?v=1782431786&w=1920&h=1080",
-    "pubDate": "2026-06-26T12:30:01+00:00"
-  },
-  {
     "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
     "description": "U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current surge lacks the deal volume and speculative excess that defined the dot-com era.",
     "link": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-06-26T12:25:36+00:00"
-  },
-  {
-    "title": "Imposter scams led fraud reports to the FTC for fifth straight year in 2025, causing $3.5 billion in losses",
-    "description": "The amount lost to imposter scams is part of $15.9 billion in total fraud losses reported to the Federal Trade Commission in 2025",
-    "link": "https://www.cnbc.com/2026/06/26/imposter-scams-led-fraud-reports-to-ftc-in-2025-3point5-billion-losses.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108325538-1782232229530-gettyimages-1460543083-dsc09626copy.jpeg?v=1782232311&w=1920&h=1080",
-    "pubDate": "2026-06-26T12:21:26+00:00"
   },
   {
     "title": "Big Wins for Trump at the Supreme Court, and a $2.5 Billion Cyberattack Whodunit",
@@ -105,13 +378,6 @@
     "pubDate": "2026-06-26T12:18:11+00:00"
   },
   {
-    "title": "The hands behind the beautiful game",
-    "description": "Pakistan's last hand-stitched football makers keep a fading craft alive as machines reshape the world's game.",
-    "link": "https://www.aljazeera.com/features/longform/2026/6/26/the-hands-behind-the-beautiful-game?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/final3-1782400135.jpg?resize=1620%2C1080&quality=80",
-    "pubDate": "2026-06-26T12:15:45+00:00"
-  },
-  {
     "title": "Australian regulator extends no-action period for crypto licensing",
     "description": "Australia’s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country’s licensing system.",
     "link": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -119,39 +385,11 @@
     "pubDate": "2026-06-26T12:14:31+00:00"
   },
   {
-    "title": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
-    "description": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
-    "link": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1777059781&w=1920&h=1080",
-    "pubDate": "2026-06-26T12:10:01+00:00"
-  },
-  {
-    "title": "Wardogs interview: this is a game for 'dad gamers'",
-    "description": "In a chat with Bulkhead CEO Joe Brammer, he explained how Wardogs is the game that they want to play and how it's geared towards dad gamers.",
-    "link": "https://www.polygon.com/wardogs-interview-fps-dad-gamers/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/wardogs-fps-dad-gamers.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-26T12:00:21+00:00"
-  },
-  {
-    "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
-    "description": "World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform.",
-    "link": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310001-1779301089316-gettyimages-2273141501-AFP_A9DR4CR.jpeg?v=1779301207&w=1920&h=1080",
-    "pubDate": "2026-06-26T12:00:11+00:00"
-  },
-  {
-    "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
-    "description": "As the global race for AI moves forward, a shortage of memory chips has begun to drive up prices of consumer electronics and may lead to product shortages.",
-    "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108233495-1764343214433-gettyimages-2248269103-BLACK_FRIDAY_SHOPPING.jpeg?v=1782414137&w=1920&h=1080",
-    "pubDate": "2026-06-26T12:00:01+00:00"
-  },
-  {
-    "title": "New synthetic drugs, cocaine and meth booming, warns UN",
-    "description": "A spike in potent synthetic drugs comes as manufacturers respond to geopolitical changes and look to increase profits.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/new-synthetic-drugs-cocaine-and-meth-booming-warns-un?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2012/04/201241510435625580_20.jpeg?resize=1200%2C675",
-    "pubDate": "2026-06-26T11:58:30+00:00"
+    "title": "One factor that may be partly behind the S&amp;P 500's curious action this week",
+    "description": "There were plenty of reasons for stocks to post a big move on Thursday, but the S&amp;P 500 ended almost exactly where it closed Wednesday.",
+    "link": "https://www.cnbc.com/2026/06/26/one-factor-that-may-be-partly-behind-the-sp-500s-curious-action-this-week.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326976-1782409895280-gettyimages-2282748371-DONCASTERS_IPO.jpeg?v=1782410074&w=1920&h=1080",
+    "pubDate": "2026-06-26T12:02:21+00:00"
   },
   {
     "title": "AscendEX withdrawal complaints mount as ZachXBT questions reserves",
@@ -159,20 +397,6 @@
     "link": "https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-data-aggregators-and-fake-exchange-volumes.jpg",
     "pubDate": "2026-06-26T11:47:02+00:00"
-  },
-  {
-    "title": "Climate change the culprit for Europe’s ‘most severe’ heatwave: Report",
-    "description": "The extreme June temperatures would have been 'virtually impossible' 50 years ago, says World Weather Attribution group.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/climate-change-the-culprit-for-europes-most-severe-heatwave-report?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26176528796558-1782467564.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T11:42:01+00:00"
-  },
-  {
-    "title": "Venezuela earthquakes: What happens in the first 72 hours?",
-    "description": "Experts say the first three days following a serious quake often determine how many lives can still be saved.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-what-happens-in-the-first-72-hours?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3e223ae008-1782456890.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T11:36:53+00:00"
   },
   {
     "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
@@ -185,22 +409,8 @@
     "title": "Mahmood restricts minister's access to documents as Home Office row escalates",
     "description": "Shabana Mahmood believes Mike Tapp should be sacked for writing an article but No 10 says the PM is taking advice.",
     "link": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560e/live/0168a3f0-70c1-11f1-b607-85b4e4066ca8.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b22/live/9b0fd9f0-716c-11f1-b1db-af71d47507d6.png",
     "pubDate": "2026-06-26T11:35:55+00:00"
-  },
-  {
-    "title": "Volkswagen plans to cut 15% of its workforce and close four German plants, report says",
-    "description": "Auto giant Volkswagen is reportedly planning to cut 100,000 jobs and end production at four German plants over the coming years.",
-    "link": "https://www.cnbc.com/2026/06/26/volkswagen-vw-job-cuts-autos-germany.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108126411-1743759329776-gettyimages-2203338931-20090101250308-99-157102.jpeg?v=1743759428&w=1920&h=1080",
-    "pubDate": "2026-06-26T11:27:10+00:00"
-  },
-  {
-    "title": "Egypt vs Iran at World Cup 2026 – Salah, prediction, lineups, how to watch",
-    "description": "Mohamed Salah's Egypt and Mehdi Taremi's Iran are both in the hunt for the FIFA World Cup knockouts in Group G.",
-    "link": "https://www.aljazeera.com/sports/2026/6/26/egypt-vs-iran-world-cup-2026-prediction-kickoff-schedule-teams?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-22T032205Z_1230909015_UP1EM6M08UCXU_RTRMADP_3_SOCCER-WORLDCUP-NZL-EGY-1782457705_f7fd08-1782472927.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-06-26T11:25:13+00:00"
   },
   {
     "title": "Rainbow flags await Egypt and Iran at Pride Match",
@@ -217,67 +427,11 @@
     "pubDate": "2026-06-26T11:17:11+00:00"
   },
   {
-    "title": "Daily – Vickers Top Insider Picks for 06/26/2026",
-    "description": "",
-    "link": "https://finance.yahoo.com/research/reports/ARGUS_47446_InsiderActivity_1782472085000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-    "pubDate": "2026-06-26T11:08:05+00:00"
-  },
-  {
-    "title": "Can Europe’s historic cities survive a warming climate?",
-    "description": "Heatwaves are forcing the continent to choose between preserving the past and adapting for the future.",
-    "link": "https://www.aljazeera.com/opinions/2026/6/26/can-europes-historic-cities-survive-a-warming-climate?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3e10c78a22-1782452423.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T11:06:57+00:00"
-  },
-  {
     "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
     "description": "BTC touched its lowest level since September 2024 before rebounding to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out.",
     "link": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d863a6b1a1248721ab088af0cb3d0043b0e8da0f-1854x988.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-06-26T11:03:20+00:00"
-  },
-  {
-    "title": "King and Queen will not live in Buckingham Palace after renovations",
-    "description": "King Charles and Queen Camilla will continue to reside in Clarence House, Buckingham Palace says.",
-    "link": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/307e/live/2a280890-7138-11f1-b1db-af71d47507d6.jpg",
-    "pubDate": "2026-06-26T11:01:05+00:00"
-  },
-  {
-    "title": "Critical Role CEO clears up huge misunderstanding about The Legend of Vox Machina",
-    "description": "Critical Role co-founders Travis Willingham and Laura Bailey clarify misconceptions about Amazon's involvement in the animated show",
-    "link": "https://www.polygon.com/critical-role-travis-willingham-the-legend-of-vox-machina/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/critical-role-travis-willingham.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-26T11:00:31+00:00"
-  },
-  {
-    "title": "Prime Video's Reacher owes everything to Tom Cruise's underrated Jack Reacher",
-    "description": "Now streaming free on Pluto TV, Cruise's attempt to play the detective and action hero has flaws, but it's a sold crime thriller",
-    "link": "https://www.polygon.com/what-to-watch-free-jack-reacher-movie-tom-cruise/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/mcdjare_ec016.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-26T11:00:19+00:00"
-  },
-  {
-    "title": "Estrogen patches are hard to find, and it may not be resolved any time soon",
-    "description": "Estrogen patches are in short supply as demand for menopause treatments skyrockets, and it could take at least a year for manufacturers to catch up.",
-    "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327074-1782417569804-gettyimages-2261992594-hhhtimelessfeminitygetty2025hhh221.jpeg?v=1782417706&w=1920&h=1080",
-    "pubDate": "2026-06-26T11:00:01+00:00"
-  },
-  {
-    "title": "GTA 6 leak reveals in-game influencers, viral videos, and secret side missions",
-    "description": "According to Brazilian retail listings, GTA 6 will feature influencers, viral videos, and secret side missions discoverable through an in-game phone.",
-    "link": "https://www.polygon.com/gta-6-influencers-viral-videos-social-media/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/gta-6-influencers-viral-videos-social-media.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-26T10:53:22+00:00"
-  },
-  {
-    "title": "Lilo and Stitch to return with new animated short",
-    "description": "Lilo &amp; Scratch premieres ahead of Hexed on Nov. 25",
-    "link": "https://www.polygon.com/disney-lilo-and-stitch-short/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/20041954/965ed72e20946a695aa7aa66785cafbe.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-26T10:46:50+00:00"
   },
   {
     "title": "The Aftermath of Venezuela’s Earthquakes",
@@ -308,11 +462,11 @@
     "pubDate": "2026-06-26T10:06:11+00:00"
   },
   {
-    "title": "Red Lobster's Ultimate Endless Shrimp promotion described as a 'car crash' for the company, lawsuit says",
-    "description": "\"Thai Union doubled down on a campaign to squeeze out every drop of value that it could,\" creditors said",
-    "link": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107417761-1716297372417-gettyimages-2153880580-01-l1020665-_4i4fnrtu.jpeg?v=1731355928&w=1920&h=1080",
-    "pubDate": "2026-06-26T10:02:38+00:00"
+    "title": "Mortgage and refinance interest rates today, Friday, June 26, 2026: Rates relatively flat heading into the weekend",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-june-26-2026-rates-relatively-flat-heading-into-the-weekend-100000320.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/FE29947F7E4012BB2172DF695EC837536EB9CA82DC1820A61AA1A3CCA14D6ED0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2Fc36fbdb0-0289-11ef-be8f-4e0451f1fa09",
+    "pubDate": "2026-06-26T10:00:00+00:00"
   },
   {
     "title": "Strawberry Shortcake Roll and More Recipes We Made in June 2026",
@@ -329,25 +483,11 @@
     "pubDate": "2026-06-26T09:47:07+00:00"
   },
   {
-    "title": "BBC DJ and presenter Trevor Nelson taking a break from work due to health issues",
-    "description": "The Radio 2 and 1Xtra presenter said he was now \"concentrating on getting better\".",
-    "link": "https://www.bbc.co.uk/news/articles/c4gykyenweyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c88/live/f40cd6c0-713a-11f1-be59-4b2938e11145.jpg",
-    "pubDate": "2026-06-26T09:43:20+00:00"
-  },
-  {
     "title": "Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K",
     "description": "US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60,000, lifting year-to-date losses to $4.6 billion.",
     "link": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/dollardambawaterfallmoneyfiat11111.jpg",
     "pubDate": "2026-06-26T09:36:34+00:00"
-  },
-  {
-    "title": "King becomes first monarch to reveal tax bill as royal public funding to double to £100m",
-    "description": "New figures show the monarch paid £12.9m in tax last year, but do not give any detailed breakdown of how that tax was calculated.",
-    "link": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2450/live/78b7a860-713a-11f1-8546-8f19e4fe30f4.jpg",
-    "pubDate": "2026-06-26T09:21:08+00:00"
   },
   {
     "title": "Immigration Hard-Liners Repeatedly Lost in Court Before Justices Ruled in Their Favor",
@@ -392,20 +532,6 @@
     "pubDate": "2026-06-26T08:20:37+00:00"
   },
   {
-    "title": "Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens",
-    "description": "Strategy’s paper loss exceeds the market caps of hundreds of tokens, highlighting the extreme concentration of risk in the crypto market right now.",
-    "link": "https://www.coindesk.com/markets/2026/06/26/too-big-to-fail-strategy-s-usd13-billion-bitcoin-paper-loss-alone-dwarfs-hundreds-of-prominent-tokens",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0339788ec6da49e65916e89c4bf0f137635275cd-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-26T06:37:29+00:00"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "pubDate": "2026-06-26T06:04:04+00:00"
-  },
-  {
     "title": "Tether stablecoin flips Ether by market cap as ETH routs to $1.5K",
     "description": "Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 2025.",
     "link": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -434,39 +560,11 @@
     "pubDate": "2026-06-26T03:56:08+00:00"
   },
   {
-    "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
-    "description": "USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
-    "link": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-b-ethena.jpg",
-    "pubDate": "2026-06-26T03:48:03+00:00"
-  },
-  {
     "title": "He Was Deported Back to Venezuela and Started Anew. Then the Quakes Hit.",
     "description": "Venezuelans in South Florida were frantically trying to track down friends and relatives after two earthquakes in Venezuela. Jorge Erazo was among the missing.",
     "link": "https://www.nytimes.com/2026/06/25/us/florida-venezuela-earthquake-missing-relatives.html",
     "thumbnail": "",
     "pubDate": "2026-06-26T00:56:42+00:00"
-  },
-  {
-    "title": "Watch 1995's Johnny Mnemonic before it leaves Netflix on June 30",
-    "description": "Take the opportunity to watch one of Keanu Reeves's most unhinged performances in this cult-favorite cyberpunk film",
-    "link": "https://www.polygon.com/be-sure-to-catch-johnny-mnemonic-before-it-leaves-netflix/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/johnny-mnemonic.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-26T00:01:19+00:00"
-  },
-  {
-    "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
-    "description": "Stars like Fatboy Slim and Becky Hill will play small local venues to celebrate the UK music scene.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/780d/live/f087f2d0-7097-11f1-86cf-0fd142c2b6fb.jpg",
-    "pubDate": "2026-06-25T23:50:10+00:00"
-  },
-  {
-    "title": "Resident Evil 2 mystery solved: Jill Valentine's 'boyfriend' revealed",
-    "description": "Three decades later, fans have finally figured out who STARS agent Jill Valentine was romantically entangled with in Resident Evil 2.",
-    "link": "https://www.polygon.com/resident-evil-2-jill-boyfriend-kyle-maclachlan/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19445780/RE3_Jill_Reflection.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-25T21:50:53+00:00"
   },
   {
     "title": "Types of Olives Explained: Castelvetrano, Kalamata, Manzanilla, and More",
@@ -481,27 +579,6 @@
     "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html",
     "thumbnail": "",
     "pubDate": "2026-06-25T21:37:23+00:00"
-  },
-  {
-    "title": "Steam Machine questions, answered: a crash course on Valve's new gaming console",
-    "description": "If you're new to PC gaming, here's a crash course on the Steam Machine and how it differs from a traditional video game console.",
-    "link": "https://www.polygon.com/steam-machine-questions-answered-price-specs-pc-console-cost/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/steam_machine.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-25T21:22:23+00:00"
-  },
-  {
-    "title": "Watch: Driver gives lift to armed officer chasing suspect",
-    "description": "The chase was caught on camera as the motorist pulled over to help in Margate.",
-    "link": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f871/live/323818a0-70d8-11f1-8fd9-bbd9722885d9.jpg",
-    "pubDate": "2026-06-25T21:09:16+00:00"
-  },
-  {
-    "title": "One day after arriving on Disney Plus, Avatar: Fire and Ash is already #1 worldwide",
-    "description": "James Cameron's Avatar: Fire and Ash joined Disney Plus just yesterday, yet it's already at the top of the streaming service",
-    "link": "https://www.polygon.com/disney-plus-no-1-streaming-june25/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/avatar-fire-ash.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-25T21:07:34+00:00"
   },
   {
     "title": "Here’s What the Supreme Court’s Decision Means for TPS Holders",
@@ -535,7 +612,7 @@
     "title": "After Confirming $80 Price For GTA 6 And Preorders, Take-Two Stock Is Predicted To Rip",
     "description": "Following the start of preorders for GTA 6 and the confirmation of its $80 price point, stock analysts have weighed in with their price targets for shares of Rockstar's owner, Take-Two, and many see a bright future ahead. Although Take-Two's stock price has actually gone down since GTA 6 preorders began, a number of analysts have issued, or reiterated, major gains. Take-Two's stock is going to surge, analysts say.Bank of America analyst Omar Dessouky, who said Rockstar should price GTA 6 at $80 to help convince other companies to hike prices as well, has raised his price target on Take-Two stock from $320 to $368. That would be a significant increase from the $233/share that Take-Two is trading at today. BMO Capital analyst Brian Pitz, meanwhile, increased his target on Take-Two shares from $280 to $285. TD Cowen's Doug Creutz said he's reiterating his Buy rating for Take-Two and a $284 price target. Drew Crum of B. Riley Securities is forecasting a $300 price target, while BTIG's Clark Lampen reiterated his $290 price target. These price targets and related data were relayed by Tipranks. Take-Two's stock price peaked in 2025 at more than $260 per share, but has fallen since. Year-to-date, Take-Two's stock is down 7% and over the past year, it's fallen by 3%. The stock nosedived all the way down to about $190 in February this year after Google released new AI-based game-making tools. The selloff was foolish, experts said at the time, because AI cannot make sophisticated games or anything that could legitimately compete with GTA 6 or disrupt Take-Two's business in a serious or significant way. Preorder GTA 6 at Amazon GTA 6 launches on November 19 for PS5 and Xbox Series X|S. GTA 6 preorders are finally open on both consoles, and you can choose the $80 standard edition or $100 ultimate edition. There will be no disc-based version of the game, at least at launch.",
     "link": "https://www.gamespot.com/articles/after-confirming-80-price-for-gta-6-and-preorders-take-two-stock-is-predicted-to-rip/",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_VICE_CITY_STYLE_05_21c87c.jpg?w=1024",
     "pubDate": "2026-06-25T18:17:16+00:00"
   },
   {
@@ -549,7 +626,7 @@
     "title": "Buying GTA 6 And A New Console This Fall? You Better Be Rich",
     "description": "When Grand Theft Auto 6 arrives on November 19, 2026, it will undoubtedly be one of the biggest--if not the biggest--entertainment launches in history. The game will, at least initially, only launch on PlayStation 5 and Xbox Series X|S consoles, which have been available for nearly six years. Typically, consoles that have been available for such a long time would be priced significantly lower than they were at launch, letting the current-gen stragglers pick up a console for a nice bargain when it's time to play GTA 6. But nothing is \"typical\" anymore, and players face a very frustrating reality in 2026. Not only will you not get a discount as reward for your patience--you're going to have to pay much more for a system that's basically identical to the one released in 2020. Let's back up a little bit to examine what the situation was like in 2013, when Grand Theft Auto 5 arrived and became the most profitable entertainment product of all time. The Xbox 360 and PlayStation 3 were on their last legs, with their successors scheduled to arrive just a few months after GTA 5's launch. When the Xbox 360 first arrived in 2005, it was priced at $300 for the cheaper Core version. The PS3 arrived the following year, priced at $500 for its cheaper 20GB model. These might as well be pictures of diamonds and gold bars.But by 2013, both systems had received multiple redesigns that not only added more features and improvements, but came with reduced prices. A new model of Xbox 360 released in 2013 with a $200 price tag. Similarly, the PS3 \"Super Slim\" released in 2012 and its cheaper 250GB model retailed for $270. Both prices were drastically lower than the launch versions of either system, and in the case of the PS3, it was nearly half off. Sure, the new systems were due to arrive soon, but Grand Theft Auto 5 didn't require them, and this could feasibly be the only game someone played for months or even years at a time--especially with GTA Online. Anyone willing to wait that long before buying a console was rewarded with massive savings. In 2026, things look a whole lot different. Due almost entirely to the AI industry's never-ending need for chips, the price of computer hardware has gone through the roof. GPUs and RAM are exponentially more expensive, and the problem affects not just the cutting-edge components, but also standard, consumer-level chips. Rather than gradually lower in price--like we've seen video game consoles do for decades--both the PS5 and Xbox Series X have gotten dramatically pricier. Both standard systems were $500 back in 2020, and now sit at $650 (more on that a bit later). The PS5 Digital Edition is also more expensive than it was at launch--$600 versus $400--so anyone looking to capitalize on GTA 6 not launching with a physical disc isn't even going to be saving much money this way. There's been no cheaper redesigns this generation, even though a \"slim\" PS5 did release back in 2023. The console-makers went from the infrastructure nightmare that was launching a console during a worldwide pandemic almost directly into the AI-led chip shortage. With enough trouble already sourcing components for their existing SKUs, launching a new, cheaper model makes little sense. Launching a more expensive version for price-insensitive gamers with monocles and fancy tuxedos seemed to make sense, though. Regardless, if you want to play GTA 6 at its highest possible fidelity and performance come November 19, it'll cost you $900. If you want the Ultimate Edition of GTA 6, that's another $100 on top of that. And sure, you could save $20 and pick up the standard edition--but it is missing several missions. We've never seen such a high barrier to entry for playing a Rockstar game, unless you were just itching to get your hands on Rockstar Games Presents Table Tennis a few months after the Xbox 360 released. GTA 4 launched a few years into the 360/PS3 console generation, with prices starting to decline already. Red Dead Redemption followed in 2010, with the systems becoming even more affordable, and Red Dead Redemption 2 launched in 2018--again, years after the PS4 and Xbox One had launched, with their prices much lower than they were initially. It would be easier to remain optimistic about the future if it seemed like there was some glimmer of hope--some sign that we were eventually going to get over this hump and see the cost of gaming hardware start dropping again. Instead, the opposite is happening. As I was preparing to wrap up this piece, Microsoft announced yet another price increase on Xbox consoles, bringing the Xbox Series S 512GB console up to $500, which is what the 1TB Xbox Series X cost at launch back in 2020. Meanwhile, the aforementioned Xbox Series X 1TB will now be $800, and the 2TB version is being completely discontinued, likely so Microsoft doesn't have to price it at $1,000. How magnanimous. Video games aren't supposed to be a luxury hobby. Grand Theft Auto V would never have sold more than 200 million copies if they were. We're entering a dangerous period that could see the industry morph into something that only the wealthy can even afford to enjoy, and those aren't the people who need to be carjacking someone and stealing their Lamborghini in GTA. At this rate, the people buying an Xbox or a PlayStation will be the same ones buying a Lamborghini in real life.",
     "link": "https://www.gamespot.com/articles/buying-gta-6-and-a-new-console-this-fall-you-better-be-rich/",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/GTA-consoles.jpg?w=1024",
     "pubDate": "2026-06-25T17:38:38+00:00"
   },
   {
@@ -560,32 +637,11 @@
     "pubDate": "2026-06-25T17:20:35+00:00"
   },
   {
-    "title": "Microsoft Is Increasing The Cost Of Xbox Consoles, Again, Starting In August",
-    "description": "After hiking the price of Xbox consoles in October 2025, Microsoft is once again increasing the cost of Xbox consoles worldwide starting August 1. In a June 25 Xbox Wire blog post, the company confirmed that the 512GB models will jump up by $100 while the 1TB models will go up by $150. This puts the Series S at $500 and the Series X at $800. As a result of the price increase, Microsoft is discontinuing the 2TB Xbox consoles. The company explained that although it spent \"the last several months working with suppliers on options,\" it had to enact another price hike because \"console storage and memory prices have increased by more than 2.5x.\" It also expects another doubling by fall 2027, which could mean we'll see another price hike not long after. \"The entire consumer electronics industry is struggling with the current components crisis, but the effects are particularly hard on consoles,\" the company said in its Xbox Wire post. \"Unlike phones, computers, speakers, and other consumer devices, consoles are typically not sold at a profit, but instead for less than they cost to make.\" To assuage the price hike, however, Microsoft is implementing several programs to make buying an Xbox \"more accessible.\" This includes a Buy Now, Pay Later option; interest-free financing plans; a Certified Refurbished Consoles program for up to $100 off; and a \"previously played consoles\" option, which sounds a lot like buying a used console at GameStop. This is the third price increase Microsoft has implemented following the two that came last year. In May 2025, the company jacked up the prices of Xbox consoles between $80 and $100 (depending on the model), and then again in October 2025 between $20 and $70 (though this increase only affected those buying consoles in the US). Game consoles are really pricing themselves out of relevancy.",
-    "link": "https://www.gamespot.com/articles/microsoft-is-increasing-the-cost-of-xbox-consoles-again-starting-in-august/",
-    "thumbnail": "",
-    "pubDate": "2026-06-25T17:00:23+00:00"
-  },
-  {
     "title": "The Massive Prime Day Matcha Markdown Is Here",
     "description": "Prime Day will save you green on our favorite green tea.",
     "link": "https://www.bonappetit.com/story/matcha-prime-day-deals-2026",
     "thumbnail": "https://assets.bonappetit.com/photos/6a3d5f473cd83507b5303230/master/pass/Matcha_primeday%202026%202.1.jpg",
     "pubDate": "2026-06-25T16:53:51+00:00"
-  },
-  {
-    "title": "Unlike GTA 6, Marvel’s Wolverine Will Ship With A Disc",
-    "description": "While everyone is debating the disc-lessness of Grand Theft Auto 6, developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine. Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a very simple, one-line reply: There's a disc. \"The physical version will include a disc in box,\" the studio wrote on X on June 24. The post racked up tens of thousands of likes, a few thousand saves and reshares, and hundreds of comments, with most folks praising the developer for committing to physical media after Rockstar Games' disc-less announcement of GTA 6 on June 24. While preorders of GTA 6 are now live, if you attempt to buy a physical version of Rockstar Games' highly anticipated crime sim, you'll be met with a download code in the box instead of an actual disc. There is a benefit: you can have the game pre-loaded on your PlayStation or Xbox console on November 12, one week ahead of its November 19 launch. There is a drawback, however, in that losing access to your license could mean losing access to the game entirely. The same is true of physical media, though. Scratching the disc, losing it, or having slow or no internet (to download the data on the disc) all make physical media difficult to consume. Still, contrast this with a disc—which, again, Marvel's Wolverine will ship on—where you can play the game for as long as the disc actually works. That's the real win here, especially since some retailers are refusing to carry GTA 6's \"physical\" release. You'll have to contend with the likely day-one patch, though, which is basically essential to playing just about any game these days. See at Amazon Marvel's Wolverine launches as a PlayStation exclusive on September 15, which is a stacked month as almost every release tries to dodge the juggernaut that is Grand Theft Auto 6. There are some changes to this iteration of everyone's favorite berserker, including making Logan appear less sadistic and refusing to include the X-Men proper. But you may be wondering why Wolverine even looks like it does, and we may have an answer for you.",
-    "link": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
-    "thumbnail": "",
-    "pubDate": "2026-06-25T16:17:54+00:00"
-  },
-  {
-    "title": "Razer Put RGB Lighting In A Gaming Chair, And Honestly, It Was Only A Matter Of Time",
-    "description": "One of the running jokes with Razer is that the gaming company will put RGB lighting in any and all of its products eventually. For the last couple of years, its line of gaming chairs was seemingly exempt from that rule, but that's all about to change with the Razer Soma Chroma. It was inevitable, but for anyone who wants their shoulders to experience 16.8 million colors, this gamer chair will light up your back like a 2013 LAN party. The price for this illuminating throne? A cool $500 ahead of its launch in July. Preorder at Razer Store Razer describes the Soma Chroma as its first wireless RGB gaming chair, and it features reactive lighting at the top of the chair, situated around the shoulders and head. Currently, 300+ games can sync wirelessly over PC to the chair's RGB lighting--including Borderlands 4, Battlefield 6, and 007 First Light--and it also has 10 lighting presets. In case you're a little hesitant about having a swivel chair that's plugged into the wall, you can also run the fancy light effects through a standard power bank, as the seat has a built-in USB-C connection and pocket for the power supply to rest in. You can also fine-tune the illumination via an onboard control panel that switches lighting and brightness at the touch of a button. Razer Soma Chroma gaming chairAs for the construction, it sounds like a solid throne for extended gaming sessions. The lumbar curve is meant to help you adopt a neutral sitting position, a reinforced steel frame gives the chair an added layer of durability, and it has a dual-density cold-cured foam seat cushion. This week seems to be a big one for gamer furniture, as Virtuix also announced the \"made for Meta\" Omni One full-body movement system. It's a rig that holds you in place, and the omnidirectional treadmill should help you to physically walk, run, crouch, and jump in 360 degrees--without having to worry about knocking over a TV or tripping over a curious cat. Basically, it's the closest we've come to a replica of the Virtuosity VR rig. To complement the Soma Chroma, you can also check out all the Prime Day deals on Razer. Amazon is currently offering some big discounts on various accessories, including mechanical keyboards, gaming mice, and headsets--and yes, most of them do have RGB lighting.",
-    "link": "https://www.gamespot.com/articles/razer-put-rgb-lighting-in-a-gaming-chair-and-honestly-it-was-only-a-matter-of-time/",
-    "thumbnail": "",
-    "pubDate": "2026-06-25T15:56:59+00:00"
   },
   {
     "title": "The Best Salad Bowls for Entertaining, Even if You’re Just Serving A Caesar Salad Kit",
@@ -600,62 +656,6 @@
     "link": "https://www.bonappetit.com/story/prime-day-zojirushi-deals-2026",
     "thumbnail": "https://assets.bonappetit.com/photos/6a3d2b3473c9681b7e586971/master/pass/primeday-ricecookers.jpg",
     "pubDate": "2026-06-25T13:23:21+00:00"
-  },
-  {
-    "title": "Canaccord Says AbbVie’s (ABBV) Apogee Deal Strengthens Long-Term Growth Outlook",
-    "description": "",
-    "link": "https://finance.yahoo.com/healthcare/articles/canaccord-says-abbvie-abbv-apogee-033501332.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/ED37FF44BAA695BF75D0FE3A9B234388FD7CCA9FE83DC630E6896FA7B1616609/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc554ad8e2af773e2e2a8438bfe2291ee",
-    "pubDate": "2026-06-25T03:35:01+00:00"
-  },
-  {
-    "title": "Wolfe Research Turns Bullish on Target (TGT), Cites Improving Execution",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-turns-bullish-target-033318873.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/57741F44ACAB5628348920ED0A3A99A71617ABF11D920B2B97355ED596FF7CB3/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff5b860e6ce3ba35c97dada05c42c8169",
-    "pubDate": "2026-06-25T03:33:18+00:00"
-  },
-  {
-    "title": "JPMorgan Upgrades IBM on Stronger Software Growth Expectations",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-upgrades-ibm-stronger-software-033119970.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F2648382169EE0AB8CA1C9162EBC2494D4826514DA377B35042754B83814BA11/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F006bcfc0bf6a5e2502bce632646ee7ea",
-    "pubDate": "2026-06-25T03:31:19+00:00"
-  },
-  {
-    "title": "Mizuho Says Duke Energy (DUK) Can Execute Despite Near-Term Regulatory Challenges",
-    "description": "",
-    "link": "https://finance.yahoo.com/energy/articles/mizuho-says-duke-energy-duk-032854783.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F45CE828CF504E7D3D8411116E8BA043BD3279DCC79C077AE3AF9E930AE641FC/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa7df0434e24fba2fa34b9b447fbefe82",
-    "pubDate": "2026-06-25T03:28:54+00:00"
-  },
-  {
-    "title": "DA Davidson Says Emerson Electric (EMR) Benefits from Long-Term Growth Trends, Starts at Neutral",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-says-emerson-electric-032606422.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/152A02B94D965DE1D1AABF6BE6464D3E4E771528C16370FFCC738B56B803E450/subgraphmysterio/resizefill_w1200_h811;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F122bf82d8a60e4e2034afdddbd9c36d5",
-    "pubDate": "2026-06-25T03:26:06+00:00"
-  },
-  {
-    "title": "TotalEnergies Takes 10% Stake in Abu Dhabi's Bab Gas Cap Project",
-    "description": "",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-takes-10-stake-abu-014500384.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F78FEF2BEA703699191C9CD9ED760EDF8481C09C49D6887D7DFD85BD8E1001B3/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fcb621f8330853fc30302fa82d2a621cf",
-    "pubDate": "2026-06-25T01:45:00+00:00"
-  },
-  {
-    "title": "China's BYD sets audacious goal: Overtake Toyota by 2030",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/chinas-byd-sets-audacious-goal-011700083.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/999AEC53F249A5B76D2F249130BB6BF06B8C52CA4865E921C99933C6BD7C7590/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F7be00421a7c7a0f8a23c2945f070a909",
-    "pubDate": "2026-06-25T01:17:00+00:00"
-  },
-  {
-    "title": "Elon Musk loses trillionaire status after tech sell-off erases billions from fortune",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-loses-trillionaire-status-011606311.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/987065282F3C572056E58682FDD02BAA10A225508520EAB6370255E572430A68/subgraphmysterio/resizefill_w1200_h630;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_business_text_367%2F858b7de755d191a1c62d854937e472aa",
-    "pubDate": "2026-06-25T01:16:06+00:00"
   },
   {
     "title": "All the Cool Kids Have Owala Water Bottles—Get Yours for 25% Off",
@@ -679,10 +679,10 @@
     "pubDate": "2026-06-24T20:15:37+00:00"
   },
   {
-    "title": "Easy Ratatouille",
-    "description": "A one-pot celebration of summer vegetables.",
-    "link": "https://www.bonappetit.com/recipe/one-pot-ratatouille",
-    "thumbnail": "https://assets.bonappetit.com/photos/6a1f00133dbb785c62d12ce8/master/pass/ratatouille_RECIPE_V2_052026_14405_VOG_final.jpg",
-    "pubDate": "2026-06-24T18:02:24+00:00"
+    "title": "Tech stocks live: Tech sells off as OpenAI weighs delaying IPO until 2027",
+    "description": "",
+    "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-sells-off-as-openai-weighs-delaying-ipo-until-2027-143422690.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2DB6D974E79F85BFBDE252CF3447BD92EAFEB37879E6C2021A6EE98A196B3046/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Fd29f1ec2-0cd1-465f-92b2-33e139a97dc7",
+    "pubDate": "2026-06-22T14:34:22+00:00"
   }
 ]
