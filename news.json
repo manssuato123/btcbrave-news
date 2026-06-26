@@ -1,73 +1,262 @@
 [
   {
+    "title": "Can Europe’s historic cities survive a warming climate?",
+    "description": "Heatwaves are forcing the continent to choose between preserving the past and adapting for the future.",
+    "link": "https://www.aljazeera.com/opinions/2026/6/26/can-europes-historic-cities-survive-a-warming-climate?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3e10c78a22-1782452423.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T11:06:57+00:00"
+  },
+  {
+    "title": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman",
+    "description": "Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while digesting a flurry of news from the region.",
+    "link": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326763-1782392209142-gettyimages-2282654401-06212026qabooswaters-10_iwaqipn9.jpeg?v=1782392429&w=1920&h=1080",
+    "pubDate": "2026-06-26T11:03:37+00:00"
+  },
+  {
+    "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
+    "description": "BTC touched its lowest level since September 2024 before rebounding to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out.",
+    "link": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d863a6b1a1248721ab088af0cb3d0043b0e8da0f-1854x988.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-26T11:03:20+00:00"
+  },
+  {
+    "title": "'The cult of Elon': SpaceX investors grapple with volatility amid big swings",
+    "description": "SpaceX stock has seen big spikes and drop in its opening two weeks as a public company.",
+    "link": "https://www.cnbc.com/2026/06/26/spacex-volatility.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpeg?v=1781310835&w=1920&h=1080",
+    "pubDate": "2026-06-26T11:02:43+00:00"
+  },
+  {
+    "title": "King and Queen will not live in Buckingham Palace after renovations",
+    "description": "King Charles and Queen Camilla will continue to reside in Clarence House, Buckingham Palace says.",
+    "link": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/307e/live/2a280890-7138-11f1-b1db-af71d47507d6.jpg",
+    "pubDate": "2026-06-26T11:01:05+00:00"
+  },
+  {
+    "title": "Critical Role CEO clears up huge misunderstanding about The Legend of Vox Machina",
+    "description": "Critical Role co-founders Travis Willingham and Laura Bailey clarify misconceptions about Amazon's involvement in the animated show",
+    "link": "https://www.polygon.com/critical-role-travis-willingham-the-legend-of-vox-machina/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/critical-role-travis-willingham.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T11:00:31+00:00"
+  },
+  {
+    "title": "Prime Video's Reacher owes everything to Tom Cruise's underrated Jack Reacher",
+    "description": "Now streaming free on Pluto TV, Cruise's attempt to play the detective and action hero has flaws, but it's a sold crime thriller",
+    "link": "https://www.polygon.com/what-to-watch-free-jack-reacher-movie-tom-cruise/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/mcdjare_ec016.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T11:00:19+00:00"
+  },
+  {
+    "title": "Estrogen patches are hard to find, and it may not be resolved any time soon",
+    "description": "Estrogen patches are in short supply as demand for menopause treatments skyrockets, and it could take at least a year for manufacturers to catch up.",
+    "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327074-1782417569804-gettyimages-2261992594-hhhtimelessfeminitygetty2025hhh221.jpeg?v=1782417706&w=1920&h=1080",
+    "pubDate": "2026-06-26T11:00:01+00:00"
+  },
+  {
+    "title": "GTA 6 leak reveals in-game influencers, viral videos, and secret side missions",
+    "description": "According to Brazilian retail listings, GTA 6 will feature influencers, viral videos, and secret side missions discoverable through an in-game phone.",
+    "link": "https://www.polygon.com/gta-6-influencers-viral-videos-social-media/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/gta-6-influencers-viral-videos-social-media.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T10:53:22+00:00"
+  },
+  {
+    "title": "Lilo and Stitch to return with new animated short",
+    "description": "Lilo &amp; Scratch premieres ahead of Hexed on Nov. 25",
+    "link": "https://www.polygon.com/disney-lilo-and-stitch-short/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/20041954/965ed72e20946a695aa7aa66785cafbe.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-06-26T10:46:50+00:00"
+  },
+  {
+    "title": "IAEA demands verification of Iran nuclear ambitions amid ‘statement war’",
+    "description": "Watchdog's call for 'strong system' comes as US and Iran issue conflicting claims over ceasefire negotiations.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e3ee6b6ab-1782464230.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T10:38:38+00:00"
+  },
+  {
+    "title": "The Aftermath of Venezuela’s Earthquakes",
+    "description": "Adriana Loureiro Fernandez, a photographer for The New York Times, describes the scene on the ground after the Venezuelan earthquakes.",
+    "link": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-26T10:32:05+00:00"
+  },
+  {
+    "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
+    "description": "Investors are watching the preferred stock's ex-dividend date and monthly dividend rate reset closely.",
+    "link": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/86a60e8940b9813a4ac1d02b4f1c07724d16e365-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-26T10:28:24+00:00"
+  },
+  {
+    "title": "Who has profited most from the war on Iran?",
+    "description": "Defence contractors, energy companies and investment banks saw profits soar as war and uncertainty upended markets.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/INTERACTIVE-WAR-BENEFIT-COVER-JUNE-26-2026-1782455901.png?resize=1200%2C630",
+    "pubDate": "2026-06-26T10:25:20+00:00"
+  },
+  {
+    "title": "Baby pulled alive from rubble after Venezuela earthquake",
+    "description": "Baby pulled alive from rubble after Venezuela earthquake",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/baby-pulled-alive-from-rubble-after-venezuela-earthquake?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782469299.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-26T10:23:01+00:00"
+  },
+  {
+    "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+    "description": "A day after withdrawing its MiCA license application in Greece and saying it is ‘not leaving Europe,’ Binance notified users across the European Union that it will suspend some services.",
+    "link": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e0e7d56858850b6e7a6abc32a3772680fdc761b7-5504x3220.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-26T10:19:22+00:00"
+  },
+  {
+    "title": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
+    "description": "The drone attack is one of Kyiv's biggest of the war, sustaining pressure on Russia as it struggles with fuel shortages.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-18T105325Z_1756175838_RC27WLA8MTLJ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MOSCOW-1781877104.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T10:12:32+00:00"
+  },
+  {
+    "title": "FIFA World Cup: Friday schedule, predictions, standings, knockout race",
+    "description": "World Cup knockout places are on the line as Groups G, H and I conclude, with fixtures, predictions, and standings.",
+    "link": "https://www.aljazeera.com/sports/2026/6/26/fifa-world-cup-friday-schedule-predictions-standings-knockout-race?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e3da8f170-1782463913.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T10:08:05+00:00"
+  },
+  {
+    "title": "Red Lobster's Ultimate Endless Shrimp promotion described as a 'car crash' for the company, lawsuit says",
+    "description": "\"Thai Union doubled down on a campaign to squeeze out every drop of value that it could,\" creditors said",
+    "link": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107417761-1716297372417-gettyimages-2153880580-01-l1020665-_4i4fnrtu.jpeg?v=1731355928&w=1920&h=1080",
+    "pubDate": "2026-06-26T10:02:38+00:00"
+  },
+  {
+    "title": "Big Wins for Trump at the Supreme Court, and a $2.5 Billion Cyberattack Whodunit",
+    "description": "Plus, the Friday news quiz.",
+    "link": "https://www.nytimes.com/2026/06/26/podcasts/the-headlines/trump-supreme-court-uk-jaguar-cyberattack.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-26T10:00:10+00:00"
+  },
+  {
+    "title": "Strawberry Shortcake Roll and More Recipes We Made in June 2026",
+    "description": "Like zhug-marinated chicken thighs and overnight oats.",
+    "link": "https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-june-2026",
+    "thumbnail": "https://assets.bonappetit.com/photos/69b77fb71aabbca0debb743e/master/pass/20260128_0426_03_Bake%20Club_Strawberry%20Swiss%20Roll_0113_FINAL.jpg",
+    "pubDate": "2026-06-26T10:00:00+00:00"
+  },
+  {
+    "title": "Mother gives birth amid Venezuela earthquake devastation",
+    "description": "Mother gives birth amid Venezuela earthquake devastation",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/mother-gives-birth-amid-venezuela-earthquake-devastation?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782467840.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-06-26T09:57:50+00:00"
+  },
+  {
+    "title": "Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares",
+    "description": "Crude prices are again approaching prewar levels, as trading remains volatile.",
+    "link": "https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-26T09:54:49+00:00"
+  },
+  {
+    "title": "Ethereum treasury firm Sharplink takes in ether for the first time in eight months",
+    "description": "The second-largest corporate ether holder received 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion.",
+    "link": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-26T09:47:07+00:00"
+  },
+  {
+    "title": "BBC DJ and presenter Trevor Nelson taking a break from work due to health issues",
+    "description": "The Radio 2 and 1Xtra presenter said he was now \"concentrating on getting better\".",
+    "link": "https://www.bbc.co.uk/news/articles/c4gykyenweyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c88/live/f40cd6c0-713a-11f1-be59-4b2938e11145.jpg",
+    "pubDate": "2026-06-26T09:43:20+00:00"
+  },
+  {
+    "title": "Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K",
+    "description": "US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60,000, lifting year-to-date losses to $4.6 billion.",
+    "link": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/dollardambawaterfallmoneyfiat3.jpg",
+    "pubDate": "2026-06-26T09:36:34+00:00"
+  },
+  {
+    "title": "Venezuela earthquakes: Why is Caracas so vulnerable?",
+    "description": "Inadequate infrastructure in Caracas due to underfunding intensified destruction from the tremors.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-why-is-caracas-so-vulnerable?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e2a3ebcb2-1782458942.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T09:36:27+00:00"
+  },
+  {
     "title": "King becomes first monarch to reveal tax bill as royal public funding to double to £100m",
-    "description": "The figures show the King paid £12.9m in tax for 2024-25, putting him among the UK's top 100 taxpayers.",
+    "description": "New figures show the monarch paid £12.9m in tax last year, but do not give any detailed breakdown of how that tax was calculated.",
     "link": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0691/live/dfcb8d20-711f-11f1-8e1d-bbbb1017d210.jpg",
-    "pubDate": "2026-06-26T08:20:27+00:00"
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2450/live/78b7a860-713a-11f1-8546-8f19e4fe30f4.jpg",
+    "pubDate": "2026-06-26T09:21:08+00:00"
   },
   {
-    "title": "Neighbours aid rescue effort as Venezuela quake death toll hits 235",
-    "description": "Rescuers and humanitarian aid are flooding in from across the Americas as hospitals fill up with patients.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3e21feb23d-1782456830.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T08:02:28+00:00"
+    "title": "‘London cooking’: Why can’t the UK cope with the heat; when will it adapt?",
+    "description": "A nation used to cold, rainy weather is starting to discuss the value of overhauling its systems.",
+    "link": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-25T144659Z_1929649431_RC2X0MAS2UH3_RTRMADP_3_EUROPE-WEATHER-BRITAIN-1782461818.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T09:20:53+00:00"
   },
   {
-    "title": "Home Office plan to use more military bases to house asylum seekers",
-    "description": "Three new sites in Oxfordshire, Suffolk, and Yorkshire could house about 3,750 asylum seekers if permission is granted.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjm61lkl4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5061/live/8ebf79a0-390c-11f1-9d5c-8ba507d7dbde.jpg",
-    "pubDate": "2026-06-26T07:54:50+00:00"
+    "title": "Immigration Hard-Liners Repeatedly Lost in Court Before Justices Ruled in Their Favor",
+    "description": "“This is a victory 10 years in the making,” a White House official said after the Supreme Court ruled that the Trump administration could end deportation protections for some migrants.",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/supreme-court-trump-tps.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-26T09:01:56+00:00"
   },
   {
-    "title": "Tumbling AI stocks signal another day of turmoil for tech companies",
-    "description": "SoftBank Group plunged, leading a broad selloff in Asian technology stocks amid mounting concerns over the rising cost of artificial intelligence infrastructure.",
-    "link": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246220-1767018173604-gettyimages-2247119893-AFP_84NZ8T3.jpeg?v=1767018246&w=1920&h=1080",
-    "pubDate": "2026-06-26T07:44:12+00:00"
+    "title": "How Three Months of War Changed the Gulf Forever",
+    "description": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.",
+    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-26T09:01:04+00:00"
   },
   {
     "title": "Intel’s Chip Business Shows Signs of Life After Years of Struggle",
     "description": "It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.",
     "link": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
     "thumbnail": "",
-    "pubDate": "2026-06-26T07:36:17+00:00"
+    "pubDate": "2026-06-26T08:54:16+00:00"
   },
   {
-    "title": "How a Niche Technology Became a Choke Point for A.I.",
-    "description": "Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever.",
-    "link": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-26T07:34:44+00:00"
+    "title": "‘Affordability crisis’: How the Western housing crisis spiralled",
+    "description": "Rising rents and prices outpacing wages provoke global debate: Is housing a basic right or an investment asset?",
+    "link": "https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3d375813599-1782396760.jpg?resize=1920%2C1440",
+    "pubDate": "2026-06-26T08:36:52+00:00"
   },
   {
-    "title": "The High School Pipeline to South Korea’s Chip-Making Fortunes",
-    "description": "Huge memory-chip profits from the global A.I. boom have increased interest in semiconductor factory work. But behind the hype are uncertain job prospects.",
-    "link": "https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-26T07:34:37+00:00"
+    "title": "Japanese financial services giant SBI Holdings to buy Bitbank for $289 million",
+    "description": "SBI said the purchase of the crypto exchange is set to close in October.",
+    "link": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/25090ff126224815eb4859930f8912dbba7ec186-7952x5304.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-26T08:31:57+00:00"
   },
   {
-    "title": "Binance to stop providing services to European clients after failing to obtain license: Financial Times",
-    "description": "All crypto companies have to obtain a license under the bloc's Markets in Crypto-Assets Regulation by July 1, or risk penalties.",
-    "link": "https://www.cnbc.com/2026/06/26/binance-to-stop-providing-services-to-european-clients-after-failing-to-obtain-license-ft.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108115770-1741896157478-gettyimages-2204315727-porzycki-binancec250313_npPgQ.jpeg?v=1762218881&w=1920&h=1080",
-    "pubDate": "2026-06-26T07:23:50+00:00"
+    "title": "Grant Cardone says he will keep buying bitcoin using real estate cash flows",
+    "description": "The real estate investor pitched his model as a treasury company backed by cash-flowing property rather than stock sales, framing the slide in bitcoin as a chance to accumulate.",
+    "link": "https://www.coindesk.com/business/2026/06/26/grant-cardone-says-he-will-keep-buying-bitcoin-using-real-estate-cash-flows",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/93d464fc4284b08cd9ff597efc7a57e9d09e9c73-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-26T08:25:44+00:00"
   },
   {
-    "title": "Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares",
-    "description": "Stock markets across Asia tumbled, as investors continue to wrestle with whether the boom in artificial intelligence spending is overdone or just beginning.",
-    "link": "https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-26T07:22:43+00:00"
+    "title": "Polymarket hit by $2.9M theft, users to be refunded",
+    "description": "Polymarket said it contained the compromise and removed the affected dependency after attackers injected a malicious script into its frontend.",
+    "link": "https://cointelegraph.com/news/polymarket-vendor-compromise-drains-29m-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-impersonation-scams-in-crypto-5.jpg",
+    "pubDate": "2026-06-26T08:20:37+00:00"
   },
   {
-    "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-    "description": "Israeli and Lebanese delegations will continue their talks on Friday.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26175402493686-1782374352_0e79c4-1782456082.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-06-26T07:07:47+00:00"
+    "title": "Starmer and home secretary in row over minister's future",
+    "description": "Shabana Mahmood believes Mike Tapp should be sacked for writing an article but No 10 say he remains in post.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560e/live/0168a3f0-70c1-11f1-b607-85b4e4066ca8.jpg",
+    "pubDate": "2026-06-26T08:00:20+00:00"
   },
   {
     "title": "U.S.-Iran peace deal grants access to Tehran's nuclear sites, UN watchdog says",
@@ -84,32 +273,18 @@
     "pubDate": "2026-06-26T06:37:29+00:00"
   },
   {
-    "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-    "description": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b01/live/23e949a0-7136-11f1-be59-4b2938e11145.jpg",
-    "pubDate": "2026-06-26T06:16:01+00:00"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "pubDate": "2026-06-26T06:04:04+00:00"
   },
   {
     "title": "Tether stablecoin flips Ether by market cap as ETH routs to $1.5K",
     "description": "Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 2025.",
-    "link": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "link": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-prices-arent-surging-anytime-soon-ethereum-2.jpg",
     "pubDate": "2026-06-26T06:02:01+00:00"
-  },
-  {
-    "title": "NBA targets Asian resurgence with technology and talent push",
-    "description": "Southeast Asia has emerged as one of the NBA's fastest-growing markets for fan engagement, making the region a focal point for both player development and business expansion.",
-    "link": "https://www.cnbc.com/2026/06/26/nba-targets-asian-resurgence-with-technology-and-talent-push-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327225-1782452514988-nbarsi_day1_nabilnazri-39.jpg?v=1782452648&w=1920&h=1080",
-    "pubDate": "2026-06-26T05:50:42+00:00"
   },
   {
     "title": "Investigation after up to 40 hospital staff access records of boy attacked by crocodile",
@@ -133,102 +308,39 @@
     "pubDate": "2026-06-26T05:28:48+00:00"
   },
   {
-    "title": "US ends deportation protections (TPS) for Haitians and Syrians",
-    "description": "The US Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS).",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782451416.jpg?resize=1620%2C1080&quality=80",
-    "pubDate": "2026-06-26T05:25:44+00:00"
-  },
-  {
     "title": "Coinbase's Base resumes block production after 2-hour outage",
     "description": "Coinbase's blockchain Base says a consensus problem knocked its network offline for around two hours on Thursday before it returned online.",
-    "link": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "link": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/red-down-falling-car1.png",
     "pubDate": "2026-06-26T05:10:44+00:00"
   },
   {
-    "title": "Live markets: Bitcoin rebounds to nearly $60,000. Kospi, Nikkei sink",
+    "title": "Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink",
     "description": "BTC sees a relief bounce as Asian stocks wilt following sharp losses on Wall Street.",
     "link": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-06-26T05:10:37+00:00"
   },
   {
-    "title": "Oil slides 2% as markets look past fresh Iran tensions and focus on supply outlook",
-    "description": "Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while digesting a flurry of news from the region.",
-    "link": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326763-1782392209142-gettyimages-2282654401-06212026qabooswaters-10_iwaqipn9.jpeg?v=1782392429&w=1920&h=1080",
-    "pubDate": "2026-06-26T05:01:21+00:00"
-  },
-  {
-    "title": "Airwallex hits $11 billion valuation with $320 million raise as fintech pushes into finance run by AI agents",
-    "description": "Airwallex raised $320 million to build the financial infrastructure powering a world where AI agents handle business payments and finance.",
-    "link": "https://www.cnbc.com/2026/06/26/airwallex-series-h-funding-11-billion-valuation-ai-finance.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108327180-1782438476880-gettyimages-2250089824-kokovlis-notitle251208_npPBh.jpeg?v=1782438501&w=1920&h=1080",
-    "pubDate": "2026-06-26T04:48:25+00:00"
-  },
-  {
-    "title": "Turkiye beat US with stoppage-time goal in World Cup dead rubber",
-    "description": "Kaan Ayhan scored the winner late in stoppage time as Turkiye handed the US their first defeat of 2026 FIFA World Cup.",
-    "link": "https://www.aljazeera.com/sports/2026/6/26/turkiye-usa-fifa-world-cup-2026-ayhan-guler-yilmaz-trusty-berhalter-pulisic?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260626__B8DB39K__v1__HighRes__FblWc2026Match59TurUsa-1782447501.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T04:44:06+00:00"
-  },
-  {
-    "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-    "description": "The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.",
-    "link": "https://www.aljazeera.com/sports/2026/6/26/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260626__2283364879__v1__HighRes__ParaguayVAustraliaGroupDFifaWorldCup2026-1782447852.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T04:20:22+00:00"
-  },
-  {
-    "title": "Apple, Microsoft hike prices over surging chip costs",
-    "description": "Tech giants roll out steep price increases amid shortage of memory chips used to power AI.",
-    "link": "https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260625__2283305768__v1__MidRes__AppleAnnouncesItsRaisingPricesOnComputersAndI-1782440125.jpg?resize=1200%2C630",
-    "pubDate": "2026-06-26T04:17:14+00:00"
-  },
-  {
-    "title": "Australia reach World Cup knockouts after gritty draw with Paraguay",
-    "description": "The Socceroos finish second in Group D with four points and are through to the 2026 FIFA World Cup round of 32.",
-    "link": "https://www.aljazeera.com/sports/2026/6/26/australia-paraguay-fifa-world-cup-2026-score-report-socceroos?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-26T041238Z_119892976_UP1EM6Q0BP124_RTRMADP_3_SOCCER-WORLDCUP-PRY-AUS-1782447209.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T04:15:20+00:00"
-  },
-  {
-    "title": "Egypt coach offers support for Iranian team before crucial World Cup match",
-    "description": "Hossam Hassan invokes FIFA's 'respect and fair play' rules amid US restrictions on Iran, whom Egypt face in Seattle.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/egypt-coach-offers-support-for-iranian-team-before-crucial-world-cup-match?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260625__2283334249__v1__HighRes__EgyptTrainingAndPressConferenceFifaWorldCup2-1782445348.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T04:04:29+00:00"
+    "title": "New bodycam footage shows Henry Nowak killer's arrest and repeated lies to police",
+    "description": "Henry Nowak's killer is seen lying to police in bodycam video released after a request from the BBC.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzl5xl3gjo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa97/live/656db050-70cd-11f1-b1db-af71d47507d6.jpg",
+    "pubDate": "2026-06-26T05:03:23+00:00"
   },
   {
     "title": "Sharplink buys ETH after 8-month pause as token hits 2026 low",
     "description": "In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the price of Ether, some of which have begun to materialize.",
-    "link": "https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "link": "https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.jpg",
     "pubDate": "2026-06-26T03:56:08+00:00"
   },
   {
-    "title": "Satellite images show Venezuela’s La Guaira before and after twin quakes",
-    "description": "Satellite images compare Venezuela's coastal city of La Guaira before and after twin earthquakes struck.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/satellite-images-show-venezuelas-la-guaira-before-and-after-twin-quakes?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-VENEZUELA-1782445347.jpg?resize=1920%2C1201",
-    "pubDate": "2026-06-26T03:50:29+00:00"
-  },
-  {
     "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
     "description": "USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
-    "link": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "link": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-b-ethena.jpg",
     "pubDate": "2026-06-26T03:48:03+00:00"
-  },
-  {
-    "title": "Forever wars: Israel’s cycle of conflict shows no finish line",
-    "description": "Despite ceasefires and shifting military fronts, Israel’s wars continue, with no clear end or lasting security gains.",
-    "link": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP25273642728474-1782205164.jpg?resize=1920%2C1440",
-    "pubDate": "2026-06-26T03:16:13+00:00"
   },
   {
     "title": "Hoping for Miracles as Venezuela Digs Out From Massive Quakes",
@@ -238,39 +350,11 @@
     "pubDate": "2026-06-26T02:54:38+00:00"
   },
   {
-    "title": "Mamdani’s Rent Freeze Is Approved by New York City Board",
-    "description": "Mayor Zohran Mamdani’s pledge to freeze rents for rent-stabilized apartments became a centerpiece of his campaign. Six months into his first year, a city panel delivered.",
-    "link": "https://www.nytimes.com/2026/06/25/nyregion/nyc-rent-freeze-vote-mamdani.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-26T02:36:22+00:00"
-  },
-  {
-    "title": "The Aftermath of Venezuela’s Earthquakes",
-    "description": "Adriana Loureiro Fernandez, a photographer for The New York Times, describes the scene on the ground after the Venezuelan earthquakes.",
-    "link": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-26T02:31:38+00:00"
-  },
-  {
-    "title": "UN agency pauses Hormuz ship evacuation plan after first vessel attack under peace deal",
-    "description": "The pause follows a container ship being struck near the coast of Oman on Thursday, with a U.S. official saying that Iran was responsible for the attack.",
-    "link": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108321902-17815304562026-06-11t130233z_286950723_rc2prlahy3d2_rtrmadp_0_iran-crisis.jpeg?v=1781530476&w=1920&h=1080",
-    "pubDate": "2026-06-26T02:07:59+00:00"
-  },
-  {
-    "title": "Rescues and prayers a day after Venezuelan earthquakes",
-    "description": "The BBC's Vanessa Silva reports from Caracas as the city faces the aftermath of back-to-back tremors.",
-    "link": "https://www.bbc.co.uk/news/videos/cz6vny382q9o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d675/live/e7096500-70ff-11f1-8e1d-bbbb1017d210.jpg",
-    "pubDate": "2026-06-26T01:54:39+00:00"
-  },
-  {
-    "title": "How male infertility is still not getting enough attention",
-    "description": "How could the system better support men who have been told they might have a fertility issue?",
-    "link": "https://www.bbc.co.uk/news/articles/cx2w4kz7z1ko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ec/live/fbb4bdf0-63db-11f1-8546-8f19e4fe30f4.jpg",
-    "pubDate": "2026-06-26T01:05:11+00:00"
+    "title": "Quake is devastating blow at time of uncertainty",
+    "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+    "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4e/live/476ba1c0-7104-11f1-b1db-af71d47507d6.jpg",
+    "pubDate": "2026-06-26T02:12:07+00:00"
   },
   {
     "title": "He Was Deported Back to Venezuela and Started Anew. Then the Quakes Hit.",
@@ -282,16 +366,9 @@
   {
     "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
     "description": "BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
-    "link": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "link": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-box.jpg",
     "pubDate": "2026-06-26T00:41:02+00:00"
-  },
-  {
-    "title": "Chris Mason: The anatomy of the prime minister's downfall",
-    "description": "Sir Keir, like his predecessors Liz Truss and Boris Johnson, lost the capacity to viably govern, our political editor writes.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/2d6dce40-70f7-11f1-9a82-89f06f847cb2.jpg",
-    "pubDate": "2026-06-26T00:38:18+00:00"
   },
   {
     "title": "Watch 1995's Johnny Mnemonic before it leaves Netflix on June 30",
@@ -301,18 +378,25 @@
     "pubDate": "2026-06-26T00:01:19+00:00"
   },
   {
-    "title": "Teens who hacked TfL were known to police years before cyber-attack",
-    "description": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
-    "pubDate": "2026-06-25T23:19:48+00:00"
+    "title": "Trump keeps turning Republican wins into loyalty tests — and political liabilities",
+    "description": "President Donald Trump’s moves on housing, FISA, Iran and Washington projects are creating new headaches for Republicans trying to show voters they can govern.",
+    "link": "https://www.cnbc.com/2026/06/25/trump-gop-housing-bill-save-act-fisa.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326348-1782326107740-gettyimages-2283149989-ah808871_zivcnl78.jpeg?v=1782326284&w=1920&h=1080",
+    "pubDate": "2026-06-25T23:45:22+00:00"
   },
   {
     "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
     "description": "The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?",
-    "link": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "link": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how-1.jpg",
     "pubDate": "2026-06-25T23:09:10+00:00"
+  },
+  {
+    "title": "I'm back at home again after uni - here's how I'm making it work",
+    "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+    "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9469/live/74937fd0-6d79-11f1-a2ba-775ae811ce10.jpg",
+    "pubDate": "2026-06-25T23:03:48+00:00"
   },
   {
     "title": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
@@ -322,11 +406,18 @@
     "pubDate": "2026-06-25T22:59:43+00:00"
   },
   {
-    "title": "Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic",
-    "description": "The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement.",
-    "link": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-25T22:25:19+00:00"
+    "title": "As Social Security faces trust fund depletion, some Washington lawmakers call for taxing high earners",
+    "description": "High earners may only contribute Social Security payroll taxes for part of the year. As the program faces funding woes, some lawmakers say that should change.",
+    "link": "https://www.cnbc.com/2026/06/25/social-security-why-some-washington-lawmakers-want-to-tax-high-earners.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108166365-1751380219316-gettyimages-2208901888-MEI-USA-BD-FTRUSC-20250410-030.jpeg?v=1782425787&w=1920&h=1080",
+    "pubDate": "2026-06-25T22:37:55+00:00"
+  },
+  {
+    "title": "Democrats probe Trump's troubled $16 million reflecting pool renovation",
+    "description": "President Donald Trump has attempted to spruce up Washington in advance of the country's 250th anniversary.",
+    "link": "https://www.cnbc.com/2026/06/25/trump-reflecting-pool-renovation-cost-congress.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326965-1782409144839-gettyimages-2283276956-090a4832_qszvq4cj.jpeg?v=1782424467&w=1920&h=1080",
+    "pubDate": "2026-06-25T22:07:34+00:00"
   },
   {
     "title": "Resident Evil 2 mystery solved: Jill Valentine's 'boyfriend' revealed",
@@ -343,11 +434,25 @@
     "pubDate": "2026-06-25T21:37:45+00:00"
   },
   {
+    "title": "Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians",
+    "description": "The split mirrored one that has long divided Americans: how seriously to take the president’s loose, provocative and sometimes ugly remarks.",
+    "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-25T21:37:23+00:00"
+  },
+  {
     "title": "Steam Machine questions, answered: a crash course on Valve's new gaming console",
     "description": "If you're new to PC gaming, here's a crash course on the Steam Machine and how it differs from a traditional video game console.",
     "link": "https://www.polygon.com/steam-machine-questions-answered-price-specs-pc-console-cost/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/steam_machine.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-06-25T21:22:23+00:00"
+  },
+  {
+    "title": "Watch: Driver gives lift to armed officer chasing suspect",
+    "description": "The chase was caught on camera as the motorist pulled over to help in Margate.",
+    "link": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f871/live/323818a0-70d8-11f1-8fd9-bbd9722885d9.jpg",
+    "pubDate": "2026-06-25T21:09:16+00:00"
   },
   {
     "title": "One day after arriving on Disney Plus, Avatar: Fire and Ash is already #1 worldwide",
@@ -357,9 +462,23 @@
     "pubDate": "2026-06-25T21:07:34+00:00"
   },
   {
+    "title": "Here’s What the Supreme Court’s Decision Means for TPS Holders",
+    "description": "The ruling on Temporary Protection Status will have swift repercussions for migrants and employers alike.",
+    "link": "https://www.nytimes.com/2026/06/25/us/supreme-court-tps-decision-explainer.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-25T21:04:37+00:00"
+  },
+  {
+    "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+    "description": "In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.",
+    "link": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108269125-1771945237321-gettyimages-2262823261-NABE_ECONOMIC_CONFERENCE.jpeg?v=1771945269&w=1920&h=1080",
+    "pubDate": "2026-06-25T21:03:16+00:00"
+  },
+  {
     "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
     "description": "Bitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its gap with AI-connected stock returns.",
-    "link": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "link": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/behind-bitcoins-1k-bounce.jpg",
     "pubDate": "2026-06-25T21:02:50+00:00"
   },
@@ -369,13 +488,6 @@
     "link": "https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2026-06-25",
     "thumbnail": "https://assets.bonappetit.com/photos/6a3c280b141288141999722b/master/pass/Primeday-26_1.jpg",
     "pubDate": "2026-06-25T21:02:00+00:00"
-  },
-  {
-    "title": "King and Queen will not live in Buckingham Palace after renovations",
-    "description": "King Charles and Queen Camilla will continue to reside in Clarence House, Buckingham Palace says.",
-    "link": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8d/live/34565000-7120-11f1-b1db-af71d47507d6.jpg",
-    "pubDate": "2026-06-25T21:01:21+00:00"
   },
   {
     "title": "Does Supergirl have a post-credits scene? We asked the director",
@@ -399,55 +511,6 @@
     "pubDate": "2026-06-25T20:28:41+00:00"
   },
   {
-    "title": "All character and specialist locations in Fortnite Chapter 7 Season 3",
-    "description": "Characters and specialist in Fortnite provide you with services as long as you have gold. Here's where you can find them all in Chapter 7 Season 3.",
-    "link": "https://www.polygon.com/fortnite-chapter-7-season-3-character-specialist-locations-c7s3/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/john-wick_fn-1.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-25T20:15:34+00:00"
-  },
-  {
-    "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
-    "description": "Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy.",
-    "link": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-sp-bitcoin-funding-stays-negative.png",
-    "pubDate": "2026-06-25T20:10:41+00:00"
-  },
-  {
-    "title": "When is Galaxy Hour in Fortnite Chapter 7 Season 3?",
-    "description": "Sprite power hours are back in Fortnite, and this time there Galaxy Sprites will appear more often. Here's when Galaxy Hours start in your time zone.",
-    "link": "https://www.polygon.com/fortnite-chapter-7-season-3-galaxy-hour-when-edt-pdt/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/galaxy-hours_fn.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-25T20:02:44+00:00"
-  },
-  {
-    "title": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’",
-    "description": "Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.",
-    "link": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-238240-battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-wa.jpg",
-    "pubDate": "2026-06-25T19:51:35+00:00"
-  },
-  {
-    "title": "All sprites in Fortnite Chapter 7 Season 3",
-    "description": "Sprites are back in Fortnite Chapter 7 Season 3, but, this time, they have revamped abilities. Here's every sprite's ability and how they work.",
-    "link": "https://www.polygon.com/fortnite-chapter-7-season-3-sprite-abilities-list/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/sprites_fn.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-25T19:48:36+00:00"
-  },
-  {
-    "title": "The next Shrek movie is coming a year after Shrek 5 apparently",
-    "description": "Dreamworks is making more Shrek movies, with a Donkey spinoff origin story coming one year after Shrek 5 hits theaters.",
-    "link": "https://www.polygon.com/shrek-donkey-movie-spinoff-announced/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/shrek-donkey.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-25T19:27:26+00:00"
-  },
-  {
-    "title": "U.S. Military’s Weapons Shortage Shows Few Signs of Easing Soon",
-    "description": "President Trump and Pentagon officials tried to reassure manufacturers as they sought additional funding from Congress.",
-    "link": "https://www.nytimes.com/2026/06/25/us/politics/us-military-weapons-shortage.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-25T19:07:56+00:00"
-  },
-  {
     "title": "Xbox Series S, The “Cheap” Option, Now Costs As Much As Series X Did Six Years Ago",
     "description": "When Xbox Series S launched alongside Series X and PS5, it presented a compelling argument: Play all of the same games as elsewhere, albeit with lesser performance and visuals, for way cheaper. $300 felt surprisingly reasonable, giving you a way to save $100 compared to the cheapest PS5 and $200 compared to the more premium PS5 and Series X models. With the Series S turning six later this year, you'd expect it--like every other console--to get cheaper over time, as has always been the case. But this is 2026, baby. Welcome to hell. Beginning August 1, Xbox Series S will cost as much as Xbox Series X did at launch in November 2020: $500. Almost six years after launch, the price will have increased 67%. We've already covered news of this Xbox price increase, and yet the reality of Series S now hitting the Series X's nearly six-year-old launch price is one of the most staggering facts of this entire saga. (For now, you can still grab one for $380 on Amazon or in this Best Buy deal, which is more than you would have previously paid but still a whole lot better than $500.) It's the exact opposite direction the price should be going in based on historical precedent. Yet the Series S is, like virtually any piece of modern hardware that needs RAM and storage, faced with price increases due to the AI-driven chip storage--a shortage, it should be noted, that Microsoft has meaningfully contributed to as one of the biggest purveyors of AI products. Much has been said about the way gaming consoles are arguably pricing themselves out of relevance. Major change is afoot in almost every way--how games are played, made, distributed, and engaged with over longer and longer periods of time. Series S at launch was a much more palatable option for those who are price-conscious, with Microsoft proudly declaring it \"the smallest, most affordable next-generation console.\" That might still strictly be true at $500 with other consoles also going up in price, but the reality is, if you're an average person just looking for a cheap way to play something like GTA 6 this fall--or, frighteningly, any point in 2027 or beyond--you're pretty much screwed.",
     "link": "https://www.gamespot.com/articles/xbox-series-s-the-cheap-option-now-costs-as-much-as-series-x-did-six-years-ago/",
@@ -460,13 +523,6 @@
     "link": "https://www.gamespot.com/articles/far-cry-tv-show-adds-a-fantastic-actor/",
     "thumbnail": "",
     "pubDate": "2026-06-25T18:55:39+00:00"
-  },
-  {
-    "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
-    "description": "The incident temporarily halted transaction processing on one of Ethereum's largest layer-2 networks.",
-    "link": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/719d80685a3042ba9bd5e2ba263b4d995299e379-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-25T18:46:08+00:00"
   },
   {
     "title": "After Confirming $80 Price For GTA 6 And Preorders, Take-Two Stock Is Predicted To Rip",
@@ -483,13 +539,6 @@
     "pubDate": "2026-06-25T18:00:15+00:00"
   },
   {
-    "title": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
-    "description": "The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle.",
-    "link": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-25T17:48:18+00:00"
-  },
-  {
     "title": "Buying GTA 6 And A New Console This Fall? You Better Be Rich",
     "description": "When Grand Theft Auto 6 arrives on November 19, 2026, it will undoubtedly be one of the biggest--if not the biggest--entertainment launches in history. The game will, at least initially, only launch on PlayStation 5 and Xbox Series X|S consoles, which have been available for nearly six years. Typically, consoles that have been available for such a long time would be priced significantly lower than they were at launch, letting the current-gen stragglers pick up a console for a nice bargain when it's time to play GTA 6. But nothing is \"typical\" anymore, and players face a very frustrating reality in 2026. Not only will you not get a discount as reward for your patience--you're going to have to pay much more for a system that's basically identical to the one released in 2020. Let's back up a little bit to examine what the situation was like in 2013, when Grand Theft Auto 5 arrived and became the most profitable entertainment product of all time. The Xbox 360 and PlayStation 3 were on their last legs, with their successors scheduled to arrive just a few months after GTA 5's launch. When the Xbox 360 first arrived in 2005, it was priced at $300 for the cheaper Core version. The PS3 arrived the following year, priced at $500 for its cheaper 20GB model. These might as well be pictures of diamonds and gold bars.But by 2013, both systems had received multiple redesigns that not only added more features and improvements, but came with reduced prices. A new model of Xbox 360 released in 2013 with a $200 price tag. Similarly, the PS3 \"Super Slim\" released in 2012 and its cheaper 250GB model retailed for $270. Both prices were drastically lower than the launch versions of either system, and in the case of the PS3, it was nearly half off. Sure, the new systems were due to arrive soon, but Grand Theft Auto 5 didn't require them, and this could feasibly be the only game someone played for months or even years at a time--especially with GTA Online. Anyone willing to wait that long before buying a console was rewarded with massive savings. In 2026, things look a whole lot different. Due almost entirely to the AI industry's never-ending need for chips, the price of computer hardware has gone through the roof. GPUs and RAM are exponentially more expensive, and the problem affects not just the cutting-edge components, but also standard, consumer-level chips. Rather than gradually lower in price--like we've seen video game consoles do for decades--both the PS5 and Xbox Series X have gotten dramatically pricier. Both standard systems were $500 back in 2020, and now sit at $650 (more on that a bit later). The PS5 Digital Edition is also more expensive than it was at launch--$600 versus $400--so anyone looking to capitalize on GTA 6 not launching with a physical disc isn't even going to be saving much money this way. There's been no cheaper redesigns this generation, even though a \"slim\" PS5 did release back in 2023. The console-makers went from the infrastructure nightmare that was launching a console during a worldwide pandemic almost directly into the AI-led chip shortage. With enough trouble already sourcing components for their existing SKUs, launching a new, cheaper model makes little sense. Launching a more expensive version for price-insensitive gamers with monocles and fancy tuxedos seemed to make sense, though. Regardless, if you want to play GTA 6 at its highest possible fidelity and performance come November 19, it'll cost you $900. If you want the Ultimate Edition of GTA 6, that's another $100 on top of that. And sure, you could save $20 and pick up the standard edition--but it is missing several missions. We've never seen such a high barrier to entry for playing a Rockstar game, unless you were just itching to get your hands on Rockstar Games Presents Table Tennis a few months after the Xbox 360 released. GTA 4 launched a few years into the 360/PS3 console generation, with prices starting to decline already. Red Dead Redemption followed in 2010, with the systems becoming even more affordable, and Red Dead Redemption 2 launched in 2018--again, years after the PS4 and Xbox One had launched, with their prices much lower than they were initially. It would be easier to remain optimistic about the future if it seemed like there was some glimmer of hope--some sign that we were eventually going to get over this hump and see the cost of gaming hardware start dropping again. Instead, the opposite is happening. As I was preparing to wrap up this piece, Microsoft announced yet another price increase on Xbox consoles, bringing the Xbox Series S 512GB console up to $500, which is what the 1TB Xbox Series X cost at launch back in 2020. Meanwhile, the aforementioned Xbox Series X 1TB will now be $800, and the 2TB version is being completely discontinued, likely so Microsoft doesn't have to price it at $1,000. How magnanimous. Video games aren't supposed to be a luxury hobby. Grand Theft Auto V would never have sold more than 200 million copies if they were. We're entering a dangerous period that could see the industry morph into something that only the wealthy can even afford to enjoy, and those aren't the people who need to be carjacking someone and stealing their Lamborghini in GTA. At this rate, the people buying an Xbox or a PlayStation will be the same ones buying a Lamborghini in real life.",
     "link": "https://www.gamespot.com/articles/buying-gta-6-and-a-new-console-this-fall-you-better-be-rich/",
@@ -502,20 +551,6 @@
     "link": "https://www.gamespot.com/articles/sonys-stricter-guidelines-on-shovelware-playstation-games-are-reportedly-targeting-more-developers/",
     "thumbnail": "",
     "pubDate": "2026-06-25T17:20:35+00:00"
-  },
-  {
-    "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
-    "description": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked.",
-    "link": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b5ae4fb4478c42b7ccde14b1283bce493cf7f8de-3324x1870.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-25T17:14:19+00:00"
-  },
-  {
-    "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache",
-    "description": "The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.",
-    "link": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/42963008a3d40459c55785a6a7a9d895e242656a-5376x3072.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-25T17:06:10+00:00"
   },
   {
     "title": "Microsoft Is Increasing The Cost Of Xbox Consoles, Again, Starting In August",
@@ -539,25 +574,11 @@
     "pubDate": "2026-06-25T16:17:54+00:00"
   },
   {
-    "title": "BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics",
-    "description": "BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.",
-    "link": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f3eb0cafe5efcb1ede1776ce0e0d588e14a3913a-6000x4002.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-25T16:05:06+00:00"
-  },
-  {
     "title": "Razer Put RGB Lighting In A Gaming Chair, And Honestly, It Was Only A Matter Of Time",
     "description": "One of the running jokes with Razer is that the gaming company will put RGB lighting in any and all of its products eventually. For the last couple of years, its line of gaming chairs was seemingly exempt from that rule, but that's all about to change with the Razer Soma Chroma. It was inevitable, but for anyone who wants their shoulders to experience 16.8 million colors, this gamer chair will light up your back like a 2013 LAN party. The price for this illuminating throne? A cool $500 ahead of its launch in July. Preorder at Razer Store Razer describes the Soma Chroma as its first wireless RGB gaming chair, and it features reactive lighting at the top of the chair, situated around the shoulders and head. Currently, 300+ games can sync wirelessly over PC to the chair's RGB lighting--including Borderlands 4, Battlefield 6, and 007 First Light--and it also has 10 lighting presets. In case you're a little hesitant about having a swivel chair that's plugged into the wall, you can also run the fancy light effects through a standard power bank, as the seat has a built-in USB-C connection and pocket for the power supply to rest in. You can also fine-tune the illumination via an onboard control panel that switches lighting and brightness at the touch of a button. Razer Soma Chroma gaming chairAs for the construction, it sounds like a solid throne for extended gaming sessions. The lumbar curve is meant to help you adopt a neutral sitting position, a reinforced steel frame gives the chair an added layer of durability, and it has a dual-density cold-cured foam seat cushion. This week seems to be a big one for gamer furniture, as Virtuix also announced the \"made for Meta\" Omni One full-body movement system. It's a rig that holds you in place, and the omnidirectional treadmill should help you to physically walk, run, crouch, and jump in 360 degrees--without having to worry about knocking over a TV or tripping over a curious cat. Basically, it's the closest we've come to a replica of the Virtuosity VR rig. To complement the Soma Chroma, you can also check out all the Prime Day deals on Razer. Amazon is currently offering some big discounts on various accessories, including mechanical keyboards, gaming mice, and headsets--and yes, most of them do have RGB lighting.",
     "link": "https://www.gamespot.com/articles/razer-put-rgb-lighting-in-a-gaming-chair-and-honestly-it-was-only-a-matter-of-time/",
     "thumbnail": "",
     "pubDate": "2026-06-25T15:56:59+00:00"
-  },
-  {
-    "title": "Strategy has a 10-month cash runway for dividends, but retail investors are losing faith",
-    "description": "STRC was marketed as a low volatility income product designed to trade near $100, and its sharp decline has undermined investor trust.",
-    "link": "https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0339788ec6da49e65916e89c4bf0f137635275cd-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-25T15:45:43+00:00"
   },
   {
     "title": "The Best Salad Bowls for Entertaining, Even if You’re Just Serving A Caesar Salad Kit",
@@ -574,25 +595,46 @@
     "pubDate": "2026-06-25T13:23:21+00:00"
   },
   {
-    "title": "One of India's largest gold exporters paid its managing director just $180 a month, investigators say in accounting probe",
-    "description": "Indian authorities have found accounting discrepancies in books of Indian gold company Rajesh Exports, and owner of Swiss refiner Valcambi.",
-    "link": "https://www.cnbc.com/2026/06/25/india-rajesh-exports-investigation-accounting-irregularities-valcambi.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326574-1782367920343-gettyimages-2254206522-SWITZERLAND_VALCAMBI.jpeg?v=1782367944&w=1920&h=1080",
-    "pubDate": "2026-06-25T07:23:53+00:00"
-  },
-  {
-    "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
-    "description": "The AI lab is hiring for AI data center roles in Australia and Japan as it rushes to expand compute capacity overseas.",
-    "link": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1776020277&w=1920&h=1080",
-    "pubDate": "2026-06-25T05:00:01+00:00"
-  },
-  {
     "title": "All the Cool Kids Have Owala Water Bottles—Get Yours for 25% Off",
     "description": "The cult-favorite water bottle brand is marked down for Amazon Prime Day.",
     "link": "https://www.bonappetit.com/story/owala-prime-day-deals-2026",
     "thumbnail": "https://assets.bonappetit.com/photos/6a3c6d4bcacc693f28f9ff0b/master/pass/owala-primeday1.jpg",
     "pubDate": "2026-06-25T00:36:15+00:00"
+  },
+  {
+    "title": "Samsara tracking label targets $35B cargo theft problem",
+    "description": "",
+    "link": "https://finance.yahoo.com/technology/articles/samsara-tracking-label-targets-35b-000431094.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/46924982C411649BEE73895711F06723C242B6D043625A60B9754A9F4DA35967/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F5c04524c069d245a4b8177e3a6aaf357",
+    "pubDate": "2026-06-25T00:04:31+00:00"
+  },
+  {
+    "title": "Why the AI Boom Could Trigger the Biggest Energy Trade in Decades",
+    "description": "",
+    "link": "https://finance.yahoo.com/energy/articles/why-ai-boom-could-trigger-000000322.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/C0153FB477AA566CD3020977CFC14866EC66C3B31C31927A92246A4F83383F08/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Ff5fac4725d9d39df373b45d9f04754e0",
+    "pubDate": "2026-06-25T00:00:00+00:00"
+  },
+  {
+    "title": "If You Crave Dividends, This Tasty Dividend Stock Is a Buy at New 52-Week Lows",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/crave-dividends-tasty-dividend-stock-233002951.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/9EB5AA3A6871B9DB8CA1846DDC6F5DECA3EA95981EE18B1F81B2A385D2109C60/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb6284a317b229d5809a504c51dcc1d29",
+    "pubDate": "2026-06-24T23:30:02+00:00"
+  },
+  {
+    "title": "Why Your Income Replacement Ratio Could Matter More Than Your 401(k) Balance",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/articles/why-income-replacement-ratio-could-231721023.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/995F1BF9AA1FEC2AB59071F5292BD42C983FDADD5EC77CC8FFEBE36EB1C9CB0D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestopedia_245%2F61de056454919d63cd4114b06030fb0a",
+    "pubDate": "2026-06-24T23:17:21+00:00"
+  },
+  {
+    "title": "Petco pulls back on what Amazon and Chewy can't match",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/petco-pulls-back-amazon-chewy-231700566.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/FBB8026A2F902FF2EBA5B94E028A59DB57DB6384F19EC256CE4C708EACC9AF49/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F1c8ba0b34a6686e1d4918874895332fd",
+    "pubDate": "2026-06-24T23:17:00+00:00"
   },
   {
     "title": "9 (and Only 9) of the Best Prime Day Deals for Home Cooks",
@@ -602,69 +644,6 @@
     "pubDate": "2026-06-24T21:07:37+00:00"
   },
   {
-    "title": "Energy &amp; Utilities Roundup: Market Talk",
-    "description": "",
-    "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-b9a03780?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-06-24T20:54:00+00:00"
-  },
-  {
-    "title": "RUN Stock Pops as Sunrun Teams Up With Tesla, Renew Home on Data Centers",
-    "description": "",
-    "link": "https://finance.yahoo.com/energy/articles/run-stock-pops-sunrun-teams-205219953.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/1D403FDAFED944A7BE9233CE81A57ABA012170986DA29EFFEF795C0D0053F3FA/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F28886dc55c03f4ac00f819d20f0f0d1d",
-    "pubDate": "2026-06-24T20:52:19+00:00"
-  },
-  {
-    "title": "Tech, Media &amp; Telecom Roundup: Market Talk",
-    "description": "",
-    "link": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-868b55c8?siteid=yhoof2&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-06-24T20:52:00+00:00"
-  },
-  {
-    "title": "NVDA Stock Alert: The Prices of Nvidia’s Chips Could Drop for Some Time Amid Intensifying Competition",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-alert-prices-nvidia-205048868.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/771DA3C0563BBC382072F12CF9180552DC5E6A20AA0209437CDCE9EF7EACAEFC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F828805b72adb05952504a4fefd6c1a8a",
-    "pubDate": "2026-06-24T20:50:48+00:00"
-  },
-  {
-    "title": "Amazon Stock Has Stumbled in 2026. Prime Day Could Change the Story.",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-stumbled-2026-prime-204952230.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/8FFD63FCD6392D0A04EA4CB8DC599E1FDAB2535661CE465475C20672173D37CA/subgraphmysterio/resizefill_w1200_h749;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fafaec7a65bcc5585158771b427bbb12e",
-    "pubDate": "2026-06-24T20:49:52+00:00"
-  },
-  {
-    "title": "Are Thematic ETFs a $300B Trap for Everyday Investors?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/thematic-etfs-300b-trap-everyday-204521203.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/3B4046ED5036313AE8558D0D6021FCE45460C9C0E0D8C13E4DA5B8CFA9B3D52C/subgraphmysterio/resizefill_w1200_h821;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Findexuniverse.com%2Fa1449195c9667456bdce00f537fc908c",
-    "pubDate": "2026-06-24T20:45:21+00:00"
-  },
-  {
-    "title": "Fortinet, IBD Stock Of The Day, Gets Network Firewall Boost From AI Data Centers",
-    "description": "",
-    "link": "https://www.investors.com/research/ibd-stock-of-the-day/fortinet-stock-growth-artificil-intelligence-data-centers-firewalls/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/06/sotd-for-06-24-2026-desktop-1.png",
-    "pubDate": "2026-06-24T20:44:43+00:00"
-  },
-  {
-    "title": "Daktronics, Inc. Q4 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/daktronics-inc-q4-2026-earnings-204240377.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/C9CFC0B3D3E361CCB56758543138DCA67DAF43D21391AC190E9F9BDCC6E5BEA0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fcb4a66b5a915e2f365600cad4a08f432",
-    "pubDate": "2026-06-24T20:42:40+00:00"
-  },
-  {
-    "title": "Micron Stock Jumps As Memory-Chip Maker Crushes Q3 Estimates",
-    "description": "",
-    "link": "https://www.investors.com/news/technology/micron-stock-mu-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/06/stock-Micron-Sanjay-Mehrotra-company.jpg",
-    "pubDate": "2026-06-24T20:41:22+00:00"
-  },
-  {
     "title": "How to Revive Stale Bread",
     "description": "Don’t toss that stale loaf. A little water and a hot oven can revive past-its-prime bread in minutes.",
     "link": "https://www.bonappetit.com/test-kitchen/cooking-tips/article/how-to-revive-stale-bread",
@@ -672,24 +651,24 @@
     "pubDate": "2026-06-24T20:15:37+00:00"
   },
   {
+    "title": "Can you write checks from a money market account?",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/can-you-write-checks-from-a-money-market-account-194030965.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/A5CA5A9C62DB29398260E1FA0C6729C324634A55909477C46FD01AFCDB7F1DEC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F900714c7-9d8f-4e04-9844-690ffa7d0015",
+    "pubDate": "2026-06-24T19:40:30+00:00"
+  },
+  {
+    "title": "Retirees face a new challenge: How to spend their 401(k) savings",
+    "description": "",
+    "link": "https://finance.yahoo.com/personal-finance/investing/article/retirees-face-a-new-challenge-how-to-spend-their-401k-savings-191224511.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0C43C79221E2A1E292BB53B48B7545E2E3B9B2791076EB97343E25A6F9B02CEC/subgraphmysterio/resizefill_w1200_h633;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F0324cb50-ea58-11f0-befb-5137586322a4",
+    "pubDate": "2026-06-24T19:12:24+00:00"
+  },
+  {
     "title": "Easy Ratatouille",
     "description": "A one-pot celebration of summer vegetables.",
     "link": "https://www.bonappetit.com/recipe/one-pot-ratatouille",
     "thumbnail": "https://assets.bonappetit.com/photos/6a1f00133dbb785c62d12ce8/master/pass/ratatouille_RECIPE_V2_052026_14405_VOG_final.jpg",
     "pubDate": "2026-06-24T18:02:24+00:00"
-  },
-  {
-    "title": "Yeti Tumblers and Coolers Are Up To 30% Off for Prime Day",
-    "description": "Save on Rambler tumblers, Hopper backpack coolers, and more.",
-    "link": "https://www.bonappetit.com/story/yeti-prime-day-deals-2026-6-24",
-    "thumbnail": "https://assets.bonappetit.com/photos/686edf1a57558d9e9e3e67c9/master/pass/7.9_BA_Lede-Image--Yeti-Prime-Deals.jpg",
-    "pubDate": "2026-06-24T17:23:50+00:00"
-  },
-  {
-    "title": "Stock market today: Dow rises, S&amp;P 500 and Nasdaq slip as AI jitters return ahead of Micron earnings",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rises-sp-500-and-nasdaq-slip-as-ai-jitters-return-ahead-of-micron-earnings-230105138.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/B957C233E327809ACE17C3183547E3DB2FED1DB7FF6C70500448C2A664BA4754/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-06%2F4a796080-6e9f-11f1-9d38-34001a4b5a7e",
-    "pubDate": "2026-06-23T23:01:05+00:00"
   }
 ]
