@@ -1,66 +1,234 @@
 [
   {
+    "title": "Patient tested for suspected Ebola virus  at Glasgow hospital",
+    "description": "It is understood a patient was admitted to the Queen Elizabeth University Hospital during the early hours of Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/czde8y03qzvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "pubDate": "2026-06-30T18:52:20+00:00"
+  },
+  {
+    "title": "Starmer trims budgets to fund extra £15bn for defence",
+    "description": "The plan outlines how billions will be spent on equipping the UK armed forces in the years ahead.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3a35ce80-7470-11f1-b8da-6d87dfdc4508.jpg",
+    "pubDate": "2026-06-30T18:51:04+00:00"
+  },
+  {
+    "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public",
+    "description": "Bending Spoons, an Italian company that buys aging internet companies, is going public this week at a potential value of $19 billion.",
+    "link": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-30T18:43:00+00:00"
+  },
+  {
+    "title": "Private equity in youth sports draws bipartisan scrutiny in Congress",
+    "description": "Democratic and Republican Congress members expressed alarm at the trend of private equity investment in youth sports.",
+    "link": "https://www.cnbc.com/2026/06/30/private-equity-youth-sports-congress-scrutiny.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108225205-1763004346907-gettyimages-2245739762-dct251111024_kent_at_akr.jpeg?v=1763004898&w=1920&h=1080",
+    "pubDate": "2026-06-30T18:31:55+00:00"
+  },
+  {
+    "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+    "description": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+    "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/bd280e50-74a9-11f1-9c5b-41132a229f02.jpg",
+    "pubDate": "2026-06-30T18:28:41+00:00"
+  },
+  {
+    "title": "The Founding Father Who Sought a Last-Minute Deal to Avert the Revolution",
+    "description": "Recently discovered documents reveal a back-channel attempt by a leader of the Continental Congress to make peace. (He did not succeed.)",
+    "link": "https://www.nytimes.com/2026/06/30/us/250-american-revolution-john-dickinson.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-30T18:25:10+00:00"
+  },
+  {
+    "title": "Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen",
+    "description": "Bitcoin faced downside pressure as the US dollar hit its highest levels against the Japanese yen since 1986, while BTC price analysis revealed \"capitulation\" by 2025 top-buyers.",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-slumps-to-near-58k-as-us-dollar-hits-40-year-high-against-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-201145-japan-remixpoint-ceo-salary-bitcoin.jpg",
+    "pubDate": "2026-06-30T18:17:56+00:00"
+  },
+  {
+    "title": "Supreme Court upholds birthright citizenship, blocks Trump order",
+    "description": "President Donald Trump attended oral arguments in the case, underscoring his staunch opposition to granting automatic citizenship to many immigrants' babies.",
+    "link": "https://www.cnbc.com/2026/06/30/supreme-court-birthright-citizenship-ruling.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328682-1782827047417-108328682-1782826953023-gettyimages-2268820524-AA_02042026_2720217.jpg?v=1782827058&w=1920&h=1080",
+    "pubDate": "2026-06-30T18:17:04+00:00"
+  },
+  {
+    "title": "Record-Breaking Heat Wave Expected to Hit New York City Ahead of July 4 Weekend",
+    "description": "Mayor Zohran Mamdani signed an executive order that aims to protect workers who must toil outside. Temperatures this week could exceed 100 degrees.",
+    "link": "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-30T18:16:01+00:00"
+  },
+  {
+    "title": "American Airlines brings grab-and-go lounge to New York's JFK",
+    "description": "American Airlines is opening a grab-and-go lounge at New York's JFK",
+    "link": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328730-1782831738855-JFK_Provisions_Rendering.jpg?v=1782831906&w=1920&h=1080",
+    "pubDate": "2026-06-30T18:00:01+00:00"
+  },
+  {
+    "title": "Hitman, 007 First Light Studio Begins Layoffs As Its Fantasy RPG Project Suffers Setbacks",
+    "description": "Hitman and 007 First Light developer IO Interactive is the latest in a growing list of studios suffering layoffs, this time, this time in relation to a franchise that it hasn't even launched yet. Project Fantasy, IO Interactive's first attempt at crafting a fantasy RPG, is still in development, but the end of a recent external partner relationship has forced the studio to make some cuts to its team. In a statement, IO says that these are short-term consequences, and that the proposed layoffs are currently in progress. \"This means we have to adapt to this new reality and its short-term consequences, including staffing decisions, which is what is happening as we write this update, and we are fully committed to supporting those affected through this challenging transition,\" the statement reads. In spite of the setback, IO's statement ends with a promise that Project Fantasy is not dead. \"This wonderful universe will see the light of day,\" the statement concludes. Although the identity of the partner has been speculation throughout Project Fantasy's development, Xbox confirmed today that it was working with IO Interactive on the IP. In a statement to Bloomberg, Xbox confirmed that it had pulled its funding, saying, “We expect to invest about the same in content as we did last year. What's changing is where we're investing and the kinds of projects we're backing.” IO Interactive's latest game and its first outside of the Hitman franchise in a while, 007 First Light, has been a critical and commercial success, with the studio celebrating 3 million copies sold in the first two weeks after launch.",
+    "link": "https://www.gamespot.com/articles/hitman-007-first-light-studio-begins-layoffs-as-its-fantasy-rpg-project-suffers-setbacks/",
+    "thumbnail": "",
+    "pubDate": "2026-06-30T17:59:37+00:00"
+  },
+  {
+    "title": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
+    "description": "The Trump administration has expanded access to nicotine products despite concerns from public health critics about youth use and addiction.",
+    "link": "https://www.cnbc.com/2026/06/30/fda-zyn-philip-morris-nicotine-pouches-cigarettes-trump.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107365866-1706551309220-gettyimages-1970321896-ms2_5513_hn4kys4h.jpeg?v=1782841306&w=1920&h=1080",
+    "pubDate": "2026-06-30T17:57:15+00:00"
+  },
+  {
+    "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
+    "description": "Managers of exchange-traded funds, including those in the crypto sector, may see some changes at the Securities and Exchange Commission as it weighs its approach.",
+    "link": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fd51f9f5e20179bc0e007999827636f83eabd525-3582x2015.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-06-30T17:51:57+00:00"
+  },
+  {
+    "title": "AI’s power crunch turns Bitcoin miners’ grid access into an asset",
+    "description": "Bitcoin miners have the power sites AI companies need, but turning old mining campuses into real data center revenue is no easy pivot.",
+    "link": "https://cointelegraph.com/features/bitcoin-miners-ai-data-centers-power-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-1.jpg",
+    "pubDate": "2026-06-30T17:44:31+00:00"
+  },
+  {
+    "title": "What to Know About the Supreme Court’s Birthright Citizenship Order",
+    "description": "The decision ends one of the most aggressive parts of Trump’s immigration agenda. But hundreds of other restrictions have taken effect.",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/birthright-citizenship-order-explained.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/30/multimedia/30scotus-birthright-citizenship-background-1-khjp/30scotus-birthright-citizenship-background-1-khjp-facebookJumbo.jpg",
+    "pubDate": "2026-06-30T17:43:48+00:00"
+  },
+  {
+    "title": "Helldivers 2 Gets Closer To Modern Politics With Campaign To Build A Wall",
+    "description": "Helldivers 2's latest campaign calls for Super Earth's finest to aid in the construction of a \"Celestial Fence\" to keep out the ongoing Terminid menace. It's up to the Helldivers community to help deploy what Super Earth Command has billed as a \"flawless, updated, and entirely safe Terminid Control System wall\" that will \"permanently quarantine\" the \"fascist\" Terminids. The Helldivers are tasked with defending construction sites, gathering necessary resources for the campaign, and holding the line against the Terminids to \"guarantee eternal planetary security.\" Should the Helldivers succeed, players will be awarded with a \"morale boosting freedom incentive, the R-4 Hyena Marksmen rifle. This follows a previous successful campaign against the Illuminate's Voteless hordes, which Super Earth Command has informed players have now been sent to \"humanitarian processing facilities.\" https://www.youtube.com/watch?v=s5xxT-LWRYY Considering Super Earth's last attempt to deploy Termicide resulted in a mutant strain of new, even deadlier Terminids and a subsequent order to shut down all the Terminid Control System towers players had just helped build, it remains to be seen how effective this new \"flawless\" solution will be. One in 2026 does not issue an order to build a wall without intentionally echoing the campaign promises of current US President Donald Trump for a border wall between the US and Mexico. Developer Arrowhead Studios, which is based in Sweden, knows this. Arrowhead has always worn its Paul Verhoeven's Starship Troopers-inspired brand of satire on its sleeve when it comes to Helldivers 2. Whether it's invading desert-like Terminid planets for what is essentially their oil or battling against \"communist\" cyborgs, Helldivers 2 has always leaned into the farce that is Super Earth's authoritarian government for comedic effect. Under the facade of \"Managed Democracy,\" Super Earth sends millions of soldiers to their deaths in pointless, preventable wars that are often the result of Super Earth's own disastrous policies. It's not exactly subtle. Helldivers 2 is clearly tongue-firmly-in-cheek satire, but much like Verhoeven's 1997 sci-fi classic, that hasn't stopped some from missing the point entirely. A US Marines anniversary celebration from last October saw one member of the armed forces walk out to Helldivers 2's iconic music and even repeat lines verbatim from the game's opening cinematic, asking the audience if they had the \"strength and the courage to be free\" and to join the Marines. Whether players will succeed in stopping the Terminids (not likely) with the new Terminid Control System remains to be seen, but Arrowhead will no doubt continue laying on the satire thick, regardless of if players are in on the joke. Helldivers 2's previous campaign brought a much-welcome update to Arrowhead's shooter, including the ability to reload while diving and major buffs to orbital stratagems and vehicles. Arrowhead recently announced it has delayed its June Warbond, stating it needs \"more time to cook.\" A Warhammer 40K and Helldivers 2 crossover is still slated for later this year.",
+    "link": "https://www.gamespot.com/articles/helldivers-2-gets-closer-to-modern-politics-with-campaign-to-build-a-wall/",
+    "thumbnail": "",
+    "pubDate": "2026-06-30T17:41:57+00:00"
+  },
+  {
+    "title": "Microsoft Could Cancel Marvel’s Blade And Close Its Developer",
+    "description": "A new report claims that Microsoft is considering cancelling the upcoming Marvel's Blade game and closing its developer. According to The Verge, Microsoft is considering closing at least five studios, one of which is Arkane, the developer of the upcoming Blade game. The report said Blade was originally set to launch in 2026, but was delayed to late 2027 and is over budget. Earlier in June, a report said Marvel's Blade was not canceled, despite it being a no-show at the Xbox Games Showcase. The game was announced in 2023, but no gameplay footage has ever been released. https://www.youtube.com/watch?v=basLDO2bj2k Microsoft is also said to be exploring the possibility of selling Arkane Studios, though The Verge's report did not name any potential buyers. This reporting follows previous stories that said Microsoft is also trying to offload Compulsion Games, Double Fine, Ninja Theory, and Undead Labs. \"If buyers are found for these studios, then they’ll avoid being closed, but sources stress these talks could take months in some cases,\" The Verge said. Marvel's Blade is in development at Arkane's office in Lyon, France. The company's US-based counterpart in Austin, Texas--the studio that made Redfall--was shuttered in May 2024. Microsoft acquired the Arkane teams as part of its buyout of parent company ZeniMax years prior. Layoffs could begin July 6 The report also included more information on the job cuts coming to Xbox, saying they will begin on July 6 and \"hit most parts of Xbox.\" Unconfirmed reporting from other sources said the layoffs could be as many as 1,000. If the five studios are shuttered, that would amount to at least 500 employees, The Verge said. This is happening as part of Xbox CEO Asha Sharma's plan to \"reset\" the Xbox business with the aim of making it the \"No. 1 gaming and entertainment company.\"",
+    "link": "https://www.gamespot.com/articles/microsoft-could-cancel-marvels-blade-and-close-its-developer/",
+    "thumbnail": "",
+    "pubDate": "2026-06-30T17:32:44+00:00"
+  },
+  {
+    "title": "The UK’s lithium moment: new issue of MINE out now!",
+    "description": "",
+    "link": "https://finance.yahoo.com/energy/articles/uk-lithium-moment-issue-mine-172157862.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2374A14F36A054D6E91A8B3CB9E5994192C08A46156A7122F6DAE4C19E16FE4D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmining_technology_700%2Fd10799e777f8181aea36a7ec6371da06",
+    "pubDate": "2026-06-30T17:21:57+00:00"
+  },
+  {
+    "title": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
+    "description": "The crypto industry, big tech and gambling interest groups are betting big on politicians in the 2026 primaries and elections, with almost $300 million shelled out so far.",
+    "link": "https://cointelegraph.com/news/crypto-companies-spent-2026-us-election-cycle-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/dollars-fly-away-us-senate.jpg",
+    "pubDate": "2026-06-30T17:19:17+00:00"
+  },
+  {
+    "title": "Wall Street’s Blue-Chip Index Just Cast Out Verizon for a Higher-Risk AI Growth Machine",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-blue-chip-index-171723117.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/E7C8EE7F40C2AEEA3E41E4F2872B63CF0B537CCBD8A54B9D08E417385073F2EC/subgraphmysterio/resizefill_w1200_h670;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fe465b15a12570ead564fb452a684c055",
+    "pubDate": "2026-06-30T17:17:23+00:00"
+  },
+  {
+    "title": "Ambarella Stock Rockets As AI Chipmaker Scores 'Top Pick' Rating",
+    "description": "",
+    "link": "https://www.investors.com/news/technology/ambarella-stock-rockets-ai-chipmaker-top-pick-rating/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/06/Stock-Ambarella-EmbeddedWorld-company.jpg",
+    "pubDate": "2026-06-30T17:11:43+00:00"
+  },
+  {
+    "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+    "description": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
+    "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+    "thumbnail": "",
+    "pubDate": "2026-06-30T17:07:20+00:00"
+  },
+  {
+    "title": "I Thought Matching Colors Would Be Relaxing, But I Was Wrong",
+    "description": "Think fast!You might think that you've got the memory of a vengeful elephant, but according to science, your ability to recall colors isn't so hot. Research has claimed that humans are terrible at remembering certain shades of color, and that's where this new timesink of a game is aiming to improve things. The goal is simple: Look at the Pantone swatch shown on your screen, try to match it as closely as possible, and see how well you do over a run. It's a concept that can easily gobble up hours of your time as you work to out the exact shade of green or red that you were briefly exposed to. Play Dialed By the way, my top score is 48.4 out of 50. Top that, if you can (and without cheating, please). Created by the father-son duo of Geoff and Sam Teehan, Dialed launched back in February, and the vibe-coded game quickly racked up millions of plays. The tools are easy to use, as you're given sliders for color, saturation, and brightness, with your final result determining your best score out of 10 based on how close you get to matching the original color. A player will have to match five colors in total, and each challenge is accompanied by some text that either mocks you gently for being way off the mark or serves you up a sardonic congratulations on your color-matching skills. \"I think we just figured out a simple formula that works,\" Geoff Teehan said to Fast Company in May. \"You're going to perceive a stimulus, then you're going to re-create it from memory using simple inputs or controls. \"We're stripping out everything else that's unnecessary. There are no instructions, there are no sign-ups or logins. There's no onboarding. There's no app to download. You just click a link, and you're playing.\" If this sounds like your idea of a good time, you can also check out What's My JND, a color perception game. Another easy-to-play game in your desktop browser, the goal of this one is to see how good you are at noticing the differences between colors and clicking on the border between them. For example, you can easily see the line separating teal from orange, but as you progress, the hues and colors become increasingly more difficult to separate. 19 Games Like Wordle To Spend Lunchtime With In 2025 View Images",
+    "link": "https://www.gamespot.com/articles/i-thought-matching-colors-would-be-relaxing-but-i-was-wrong/",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/Dialed-GG.jpg?w=1024",
+    "pubDate": "2026-06-30T17:05:51+00:00"
+  },
+  {
+    "title": "Anthropic launches Claude Science in bid to expand revenue streams ahead of IPO",
+    "description": "",
+    "link": "https://finance.yahoo.com/technology/article/anthropic-launches-claude-science-in-bid-to-expand-revenue-streams-ahead-of-ipo-170000823.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/CCB0283AC0A8BE5897B512D3C20D06F3D160705D22FDAE06A9C7297FE2F6034A/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F439d2033-468c-43d8-99cc-503efc80df8f",
+    "pubDate": "2026-06-30T17:00:00+00:00"
+  },
+  {
+    "title": "Oil prices little changed but set for steepest monthly and quarterly losses since 2020",
+    "description": "",
+    "link": "https://finance.yahoo.com/news/oil-falls-investors-focus-potential-040903565.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/14178CD7032F93C1040512058B7F7568F9F1739021D2BEBC9601E48C8420BFE2/subgraphmysterio/resizefill_w1200_h759;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8cb6bc9817938854fef3e2160d22b6c3",
+    "pubDate": "2026-06-30T16:58:22+00:00"
+  },
+  {
+    "title": "Major egg producers settle price inflation probe for $3.3 million",
+    "description": "Cal-Maine Foods, Versova and Hickman's Egg Ranch agreed to settle allegations of price manipulation by the Justice Department and 17 states.",
+    "link": "https://www.cnbc.com/2026/06/30/egg-producers-settle-price-inflation-probe-for-3point3-million.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328797-1782836652450-gettyimages-2200487377-075a1119_snzjsxjc.jpeg?v=1782836683&w=1920&h=1080",
+    "pubDate": "2026-06-30T16:58:13+00:00"
+  },
+  {
+    "title": "The RAM Crisis Is One Big Price-Fixing Monopoly, New Lawsuit Claims",
+    "description": "A class-action lawsuit has accused the three biggest memory manufacturers of colluding to fix pricing in the midst of an unprecedented increase of consumer RAM and storage pricing. Samsung, Micron, and SK Hynix has been targeted in the lawsuit, filed on June 25 at the United States District Court for the Northern District of California. The lawsuit claims that the three manufacturer form a monopoly and accuses them of undertaking \"concerted anticompetitive behavior.\" It goes on to detail how all three retreated from the manufacture of consumer-level memory, such as DDR3 and DDR4, simultaneously, switching instead to feed the growing demand for HBM (High-Bandwidth Memory) and its use in AI data centers. In another market, this orchestrated supply constraint would often allow other players to take advantage and secure a larger portion of an ignored consumer market. But, as the suit goes on to explain, the capital and, more importantly, time required to construct factories that are capable of manufacturing memory are so high that it's almost impossible to compete with the established trio at the top. \"No new entrant can discipline [Samsung, SK Hynix, or Micron] in the conventional DRAM market,\" the complaint reads, \"A single modern DRAM fab costs fifteen to twenty billion dollars and takes years to build; the extreme ultraviolet lithography machines it requires come from one supplier in the Netherlands, committed years ahead to the incumbents; the process recipes that make a fab yield usable chips comprise decades of accumulated trade secrets.\" The lawsuit also points towards similar collusion between the companies in the past. In 2005, SK Hynix and Samsung were fined $180 million and $300 million respectively after pleading guilty to price-fixing DRAM pricing. It is suggested that the same occurred between 2016 and 2018 when prices spiked again, although no legal ruling was passed at the time. The lawsuit seeks both damages and \"injunctive relief\" that would end the collusion and offer relief to consumers. \"Micron disagrees with the allegations contained in the complaint,\" reads a statement by the US-based manufacturer, provided to Rock Paper Shotgun. \"We compete vigorously, fairly and in compliance with all applicable laws wherever we do business. We will defend ourselves against these claims.\" The supply constraints for both RAM and storage has had a detrimental impact on the electronics industry, and especially so for PC and gaming hardware. Valve's Steam Machine and its $1000+ price tag is the most recent example, hot on the heels of the company increasing the price of its 2022 Steam Deck by almost 50%. Sony, Nintendo, and Microsoft have all increased prices of the PlayStation 5, Xbox Series X, and Nintendo Switch 2 respectively, while even Apple was forced to adjust pricing across its product range after attempts to find alternatives failed. Microsoft also doesn't expect prices to come down soon, stating recently that \"console storage and memory prices have increased by more than 2.5x and we expect another doubling by the fall of 2027.\"",
+    "link": "https://www.gamespot.com/articles/the-ram-crisis-is-one-big-price-fixing-monopoly-new-lawsuit-claims/",
+    "thumbnail": "",
+    "pubDate": "2026-06-30T16:46:38+00:00"
+  },
+  {
+    "title": "Wartime economy: Maersk lifts full-year guidance on strong demand",
+    "description": "",
+    "link": "https://finance.yahoo.com/economy/articles/wartime-economy-maersk-lifts-full-164517015.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/741DCD516864A5ECA55FB4FE00EF7366B15E8C1BFF200A47C74A8F57AABBAE61/subgraphmysterio/resizefill_w1200_h622;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2Fadb0ee18aca4ef9dd4080c252f7ee56f",
+    "pubDate": "2026-06-30T16:45:17+00:00"
+  },
+  {
+    "title": "Cruise passengers 'stranded' after air con failure to be flown home",
+    "description": "Tui has apologised and told passengers it has arranged flights home for tomorrow and a full refund.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0639x4dp8o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257b/live/e2d75360-7489-11f1-8546-8f19e4fe30f4.png",
+    "pubDate": "2026-06-30T16:45:05+00:00"
+  },
+  {
+    "title": "Is Jack In The Box On The Verge Of A Short Squeeze?",
+    "description": "",
+    "link": "https://www.investors.com/news/jack-in-the-box-short-squeeze-wendys-reddit/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/12/stock-JackInBox-03-shutter.jpg",
+    "pubDate": "2026-06-30T16:39:19+00:00"
+  },
+  {
+    "title": "When President Trump or another celeb buys a stock, here is the one investing rule to follow",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/article/when-president-trump-or-another-celeb-buys-a-stock-here-is-the-one-investing-rule-to-follow-163701893.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/7A474B0319218A1F89CB1F42DCE31BC77092B8BAB3C7BDBF271CCCFE7059DB67/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F27f66e65-6f92-4d60-8a8b-c6868d52f754",
+    "pubDate": "2026-06-30T16:37:01+00:00"
+  },
+  {
+    "title": "Business use of stablecoins set for growth surge: Cybrid report",
+    "description": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption.",
+    "link": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-1.jpg",
+    "pubDate": "2026-06-30T16:34:31+00:00"
+  },
+  {
     "title": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
     "description": "The businessman known as Miles Guo, who pushed the fraudulent H-Coin project and had close ties to Steve Bannon, was finally sentenced after his 2024 conviction.",
     "link": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/88703914da9ad4028e7026a6dcc5ba7f5cea3421-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-06-30T16:31:46+00:00"
-  },
-  {
-    "title": "Times/Siena Poll Finds Talarico and Paxton Tied in Texas Senate Race",
-    "description": "James Talarico, a Democratic state lawmaker, is tied with Ken Paxton, the Republican state attorney general, according to a New York Times/Siena poll.",
-    "link": "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/29/multimedia/2026-06-23-poll-texas/2026-06-23-poll-texas-facebookJumbo-v8.png",
-    "pubDate": "2026-06-30T16:31:24+00:00"
-  },
-  {
-    "title": "I Bonds are rising again — but waiting could get you a better deal",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/bonds-rising-again-waiting-could-162532689.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/8ECB57D59AE0E2D0DB32A15D905438349204244CFAC08EF4D0C6E84DCFA0EC11/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F617bddf6e7795247d020348282553781",
-    "pubDate": "2026-06-30T16:25:32+00:00"
-  },
-  {
-    "title": "Forget SanDisk: This Coiled-Spring Semiconductor Titan Is Primed to Outperform",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/forget-sandisk-coiled-spring-semiconductor-162524245.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/18D794E3AD9F54302091D8563088467A2DB25426CB01E56DE8D23150B67AD5CF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8df37ca298d80708d42e6ab56d00eebe",
-    "pubDate": "2026-06-30T16:25:24+00:00"
-  },
-  {
-    "title": "Lam Research Stock, Chip Gear Peers Hit Record Highs",
-    "description": "",
-    "link": "https://www.investors.com/news/technology/lam-research-stock-chip-gear-peers-hit-record-highs/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/06/Stock-LamResearch-Akara-company.jpg",
-    "pubDate": "2026-06-30T16:18:33+00:00"
-  },
-  {
-    "title": "FactSet Welcomes Google's Agents Deeper Within Its Gates",
-    "description": "",
-    "link": "https://www.investors.com/news/factset-google-new-generation-of-ai-agents-finance/?src=A00220&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T16:13:17+00:00"
-  },
-  {
-    "title": "US Supreme Court to hear Apple appeal of contempt in Epic Games lawsuit",
-    "description": "",
-    "link": "https://finance.yahoo.com/technology/articles/us-supreme-court-hear-apple-161008703.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/E34C920A5BB8B020ECC42E9DAAFCCD87D00F9D95E7532FE80A8E9B74BB37C685/subgraphmysterio/resizefill_w1200_h747;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F31d23c7396c17fadfb84a34f1c119b21",
-    "pubDate": "2026-06-30T16:10:08+00:00"
-  },
-  {
-    "title": "Love and Deepspace dev cancels new love interest amid fan backlash",
-    "description": "The romance gacha game Love and Deepspace from the Infinity Nikki developers announced Valko 8 days ago. Now he's forever canceled.",
-    "link": "https://www.polygon.com/love-and-deepspace-backlash-new-love-interest-valko-canceled/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/valko-cropped.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-30T16:06:25+00:00"
-  },
-  {
-    "title": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
-    "description": "The Russian authorities said 419 drones were shot down across Russia, including in the capital, and in Crimea.",
-    "link": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T16:06:13+00:00"
   },
   {
     "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
@@ -77,32 +245,18 @@
     "pubDate": "2026-06-30T16:03:17+00:00"
   },
   {
+    "title": "Nike is set to report earnings after the bell. Here's what to expect",
+    "description": "Nike is expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
+    "link": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108297266-1777127244178-gettyimages-2272978539-anotherday208771149_942vh80l.jpeg?v=1777127293&w=1920&h=1080",
+    "pubDate": "2026-06-30T16:00:01+00:00"
+  },
+  {
     "title": "Bistro-Style Croque Monsieur",
     "description": "A Paris-inspired version of the classic ham and cheese sandwich from chef Alexia Duchêne.",
     "link": "https://www.bonappetit.com/recipe/bistro-style-croque-monsieur",
     "thumbnail": "https://assets.bonappetit.com/photos/6a3979042ad1f98c2a0fc301/master/pass/Croque-40_final.jpg",
     "pubDate": "2026-06-30T16:00:00+00:00"
-  },
-  {
-    "title": "Solana Company Partners With Alatau City to Advance Central Asia Blockchain Push",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/solana-company-partners-alatau-city-155500208.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/7C2947510D0B30F9037CFAEA799E230D0E40790B39749C6B019AC55F7E789493/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fd443f0ef3ca900d7a7850d1961ee58c2",
-    "pubDate": "2026-06-30T15:55:00+00:00"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie lands July streaming release date",
-    "description": "Nintendo and Illumination's latest animated adventure will be available to stream in July when The Super Mario Galaxy Movie lands on Peacock.",
-    "link": "https://www.polygon.com/super-mario-galaxy-movie-streaming-release-date-peacock/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mario-galaxy-movie-peach.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-30T15:54:02+00:00"
-  },
-  {
-    "title": "Stock Market Today: Nasdaq Shows Its Might; This Tech Player Hits A New High (Live Coverage)",
-    "description": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-economic-data-aerovironment-avav/?src=A00220&yptr=yahoo",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T15:52:51+00:00"
   },
   {
     "title": "Brother of TV star Caroline Flack dies",
@@ -112,32 +266,11 @@
     "pubDate": "2026-06-30T15:51:39+00:00"
   },
   {
-    "title": "zerohash Launches Portfolio Strategies for Crypto Wealth Platforms",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/zerohash-launches-portfolio-strategies-crypto-155000582.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/60E5F110DCD4C0BAE74845ECC26AB63FC776F978CA45DC5F6810E1126535D2AC/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Feb17757340fbd2e84fed7cb85547a2c3",
-    "pubDate": "2026-06-30T15:50:00+00:00"
-  },
-  {
-    "title": "Stock bulls in control of the quarter as oil tumbles the most in years; gold, yen also fall",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/C86E0FBA22BC25C4D03ECFAE2D586F04AD5ABCCB6A6D5B0B2C5FE6A5EC6A5B29/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F32e29488a6a3c8496b908033e8abf44f",
-    "pubDate": "2026-06-30T15:47:06+00:00"
-  },
-  {
-    "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-    "description": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
-    "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7c/live/6bbbc950-7484-11f1-8e1d-bbbb1017d210.jpg",
-    "pubDate": "2026-06-30T15:40:50+00:00"
-  },
-  {
-    "title": "'Choose Your Path Charged Embers' June 2026 Timed Research in Pokémon Go",
-    "description": "Which option should you pick in Pokémon Go's new \"Choose Your Path\" research? We list the bonuses and rewards in our guide.",
-    "link": "https://www.polygon.com/pokemon-go-choose-your-path-timed-research-bonuses-steps-rewards/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/jlee_260625_1002_pogo_weekly2.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-30T15:40:21+00:00"
+    "title": "GOP Rep. Tom Kean says depression diagnosis caused months-long absence from Congress",
+    "description": "New Jersey Rep. Tom Kean said he was diagnosed with depression, explaining a months-long absence from Congress in a competitive district in the midterm elections.",
+    "link": "https://www.cnbc.com/2026/06/30/tom-kean-depression-congress-absence.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328742-1782832834344-gettyimages-2284019533-090a6501_b3zsdjf6.jpeg?v=1782832884&w=1920&h=1080",
+    "pubDate": "2026-06-30T15:49:50+00:00"
   },
   {
     "title": "Tom Kean, New Jersey Congressman, Says Depression Led to Long Absence",
@@ -147,6 +280,13 @@
     "pubDate": "2026-06-30T15:34:55+00:00"
   },
   {
+    "title": "Trump's massive defense budget, depleted war machine, spark U.S. state battle for business and jobs",
+    "description": "Trump's huge defense budget request and a race to replenish weapons stocks while building hypersonic missiles lead to war between U.S. states for jobs.",
+    "link": "https://www.cnbc.com/2026/06/30/trump-trillion-dollar-defense-budget-missile-contracts.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328190-1782748783388-2025-10-24T101012Z_1487556149_RC29IHA5YU0N_RTRMADP_3_USA-PENTAGON-HYPERSONIC.JPG?v=1782748837&w=1920&h=1080",
+    "pubDate": "2026-06-30T15:31:39+00:00"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -154,11 +294,18 @@
     "pubDate": "2026-06-30T15:31:03+00:00"
   },
   {
-    "title": "Obsession is officially now available to watch at home",
-    "description": "After earning rave reviews and smashing the box office, Obsession is now available to watch digitally, with a physical release confirmed for July.",
-    "link": "https://www.polygon.com/obsession-movie-digital-release-date-blu-ray-dvd/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/obsession-3.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-30T15:25:48+00:00"
+    "title": "Splatoon Raiders Takes A Page From Monster Hunter To Boost Your Co-Op Chances",
+    "description": "The Splatoon Raiders Direct outlined the structure of the upcoming single-player-focused title, and it looks packed with challenging encounters against hordes of Salmonids. If any raids get a little too punishing, an online feature will lend solo players support in a way that recalls modern Monster Hunter games. As detailed in Nintendo's video presentation, you can send out a call for help before beginning a raid--other players can select a \"Go Help\" option on the map to be matched with another player seeking help and join their lobby. Failing a raid results in players losing all the loot they collected in that session, but succeeding will give the helper a \"help bonus\" in the form of \"nifty in-game rewards.\" If the raid is successful, there will be a cooldown period before you can call for help again. It's not unlike the SOS Flare mechanic from Monster Hunter World (and Monster Hunter Wilds). The big difference here is that in Monster Hunter, your player character will quite literally shoot up a flare in-game during a quest instead of calling for help from a menu. Of course, Splatoon Raiders lets you team up with up to three other players through online or local wireless play, but difficulty will scale depending on the number of players. GameSpot's preview of Splatoon Raiders observed how players' different builds can synergize with each other, and said that \"multiplayer seems like a fertile ground for high-level raids against tough opponents.\" Preorder at Amazon Splatoon Raiders is the first spin-off and the first Switch 2 entry in the series. It launches on July 23 alongside other heavy hitters that month. Every Nintendo Switch 2 Exclusive (So Far) View Images",
+    "link": "https://www.gamespot.com/articles/splatoon-raiders-takes-a-page-from-monster-hunter-to-boost-your-co-op-chances/",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/NintendoSwitch2_SplatoonRaiders_scrn_25.png?w=1024",
+    "pubDate": "2026-06-30T15:29:42+00:00"
+  },
+  {
+    "title": "Amid Xbox “Reset,” Microsoft Is Having Its Worst Month In 26 Years",
+    "description": "Microsoft's stock price is currently down bad, but just how much have shares slid lately? A lot. So much so that June 2026 is expected to be Microsoft's worst month since December 2000 based on percent decline in a single month. The stock is down about 20% in June, which would be the worst since the 24% decline in December 2000. This is happening at the same time that Xbox CEO Asha Sharma is implementing a \"reset\" of the Xbox business that may include mass layoffs and studio closures. A year ago, Microsoft's total market cap was around $4 trillion, but it's dropped off mightily since then, falling more than 25% in the past year to around $2.75 trillion today. But why is Microsoft stock falling while the company continues to grow revenue and beat Wall Street estimates? One theory is that Microsoft is spending a lot of money on capital expenditures as part of its huge AI-based infrastructure buildout. This negatively affects free cash flow, putting limits on how much Microsoft can pay in dividends and spend on stock buybacks, both of which investors normally like to see. How does Xbox factor in? Xbox's struggles of late have been well documented, and in response, Sharma is putting Xbox through a \"reset\" that is expected to result in major changes that include layoffs, studio closures, and game cancellations. We could learn more about these plans soon, as Microsoft's fiscal year ends today, June 30, and that's the timeline some have reported regarding when changes could be announced. Windows Central reported that Microsoft CFO Amy Hood is driving the upcoming cuts at Xbox. The report said she has \"demanded a variety of savings at Xbox to offset losses.\" Major changes are coming to Xbox.Microsoft is a gigantic company--one of the largest on Earth--and Xbox is just one part of the overall business. It remains to be seen if the changes coming to Xbox would move the needle in any way with regards to Microsoft's stock price. The human cost of the forecasted Xbox cuts could be severe, with Microsoft reportedly looking to close beloved developers and cut staff. Recently, Sharma confirmed that Xbox’s accountability margins only amount to a 3% profit, which isn’t exactly great considering how Microsoft has invested billions of dollars in acquiring studios and publishers in recent years. The return on investment is not looking good, especially when games are becoming more expensive and are sold to a much smaller playerbase when compared to the PS5 and Nintendo Switch, while recent Game Pass price hikes saw millions of people cancel their memberships. Reporter Jason Schreier reminded people that a business with 3% margins--which means for every $100 made, the company spends $97 and keeps $3--could be doing just fine. However, he pointed out that some of Microsoft's other businesses have 40%+ margins, which in turn makes it more challenging to convince higher-ups to invest in a business like Xbox. One possibility for the future of Xbox is having it get spun out from Microsoft, but it remains to be seen if that will actually happen. Keep checking back with GameSpot for more.",
+    "link": "https://www.gamespot.com/articles/amid-xbox-reset-microsoft-is-having-its-worst-month-in-26-years/",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/Xboxlogo_8c1cca.jpg?w=1024",
+    "pubDate": "2026-06-30T15:27:57+00:00"
   },
   {
     "title": "Burnham plans to work some days in Manchester as PM",
@@ -168,31 +315,17 @@
     "pubDate": "2026-06-30T15:09:30+00:00"
   },
   {
-    "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
-    "description": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
-    "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T15:04:20+00:00"
-  },
-  {
-    "title": "Acclaimed fantasy manga The Bugle Call is getting an anime in 2027",
-    "description": "CyberAgent just announced an anime adaptation of fantasy manga The Bugle Call: Song of War alongside a teaser trailer.",
-    "link": "https://www.polygon.com/bugle-call-anime-announced-trailer/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/bugle-call-anime.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-30T14:55:36+00:00"
-  },
-  {
-    "title": "Persona 4 Revival update reveals more changes coming in remake",
-    "description": "Atlus quietly reveals new Persona 4 Revival details: The RPG's beauty pageant event may not go exactly as P4 Golden players remember, fans discover.",
-    "link": "https://www.polygon.com/persona-4-revival-vs-golden-beauty-pageant-changes/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/2980293/maxresdefault.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-06-30T14:45:26+00:00"
+    "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
+    "description": "AWS FDEs will look to leave behind self-sufficient teams with new AI solutions and capabilities in a matter of weeks, the company said.",
+    "link": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108298892-1782835903981-108298892-17774389372025-12-05t144936z_254473113_rc279iahprbv_rtrmadp_0_aws-conference.jpeg?v=1782835930&w=1920&h=1080",
+    "pubDate": "2026-06-30T15:00:01+00:00"
   },
   {
     "title": "GTA 6 Preorders Include Auto-Renewing Membership To Something You Might Not Actually Want",
     "description": "GTA 6 preorders are now available, and anyone placing an order might have noticed that they also get a free month of GTA+ with their purchase. The fine print states that this membership auto-renews, so if it's not something you want to keep, you should be sure to cancel it prior to the end of the first month. Otherwise, you'd be on the hook for paying $8 for another month. It's not immediately clear, however, when the clock begins ticking on the first month. These details should become more clear as launch approaches. How to cancel GTA+ GTA+ members can cancel their subscription on console through the platform where they subscribed in the first place. On PC, this can be done through the Rockstar Games Launcher, Steam, the Epic Games Store, and the Xbox app for PC. You can see detailed instructions on how to cancel at Rockstar's website. GTA 6 releases in November.What is GTA+? GTA+ is Rockstar's subscription service that gives subscribers an allotment of $GTA 500,000 per month to spend in GTA Online. Members also get access to The Vinewood Club in GTA Online, where they can claim a free vehicle each month. There are also rotating monthly benefits for GTA Online, which can include things like GTA$ and RP multipliers for certain modes. Another perk of the membership is access to a catalog of Rockstar Games titles. Some of the games currently in the catalog include GTA 5, Red Dead Redemption, GTA: Vice City, Bully, and LA Noire. GTA 6's online mode remains a mystery When Rockstar announced the preorder date for GTA 6, the company said GTA 6 would feature a \"single-player experience\" and made no mention whatsoever of multiplayer. Given the enormous success of GTA Online, it stands to reason that GTA 6 will have its own online mode, too, but this remains to be confirmed. Given that GTA+ comes with GTA 6 preorders, it follows that GTA 6 would leverage GTA+ in some capacity, but, again, it's unknown how it will do so. The existing version of GTA Online has a huge userbase of passionate players, so many are wondering what's going to happen when GTA 6 launches. GameSpot's Mark Delaney ran through some possibilities, including having a separate, standalone GTA Online mode for GTA 6 that lives alongside GTA 5's GTA Online. Another possibility would be Rockstar giving GTA Online a massive update based on GTA 6. Delaney also theorized that a new version of GTA Online could replace the existing GTA Online. In each scenario, people will be upset. GTA 6 launches on November 19 for PS5 and Xbox Series X|S. Controversially, Rockstar is not offering the game on a disc.",
     "link": "https://www.gamespot.com/articles/gta-6-preorders-include-auto-renewing-membership-to-something-you-might-not-actually-want/",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_ELECTRIC_FANG_02.jpg?w=1024",
     "pubDate": "2026-06-30T14:45:16+00:00"
   },
   {
@@ -210,13 +343,6 @@
     "pubDate": "2026-06-30T14:32:33+00:00"
   },
   {
-    "title": "Forgotten Odysseys is a deadly TTRPG inspired by The Odyssey and Final Destination",
-    "description": "Currently crowdfunding on Kickstarter, the Mörk Borg hack sends players on a dangerous journey home from the Trojan War",
-    "link": "https://www.polygon.com/forgotten-odysseys-ttrpg-christopher-nolan-final-destination/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-odyssey.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-30T14:30:20+00:00"
-  },
-  {
     "title": "Government promises to act on maternity care failings which 'shame our society'",
     "description": "An independent inquiry has found \"unacceptable racism and discrimination\" is affecting patient safety.",
     "link": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss",
@@ -224,43 +350,8 @@
     "pubDate": "2026-06-30T14:25:42+00:00"
   },
   {
-    "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
-    "description": "The moves come as oil traders monitor the prospect of U.S.-Iran talks in Doha on Tuesday.",
-    "link": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328542-1782812691430-gettyimages-2283378045-varittyakkal-flagplaz260629_npSVQ.jpeg?v=1782812722&w=1920&h=1080",
-    "pubDate": "2026-06-30T14:23:45+00:00"
-  },
-  {
-    "title": "Pokémon reveals new cards &amp; products for TCG 30th anniversary expansion",
-    "description": "The Pokémon Company unveils TCG's 30th anniversary celebration expansion, with ETBs and an Ultra Premium Box up for pre-order ahead of September.",
-    "link": "https://www.polygon.com/pokemon-30th-anniversary-tcg-expansion-product-list-etb-ultra-premium/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/etb.JPG?w=1200&h=675&fit=crop",
-    "pubDate": "2026-06-30T14:22:12+00:00"
-  },
-  {
-    "title": "Reports of Xbox pausing new Game Pass deals suggest service is changing",
-    "description": "Asha Sharma's 'reset' of Xbox strategy apparently includes a review of what is working for the subscription service",
-    "link": "https://www.polygon.com/xbox-game-pass-pause/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23179061/jbareham_220118_ecl1087_stock_xbox_one_pass.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-30T14:08:27+00:00"
-  },
-  {
-    "title": "Senator Gallego’s Use of Campaign Funds for Family Trips Prompts Scrutiny",
-    "description": "The Arizona senator used campaign money to fly his family to Nantucket and the Caribbean. The Justice Department has said it is investigating his campaign finance activity.",
-    "link": "https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T14:01:55+00:00"
-  },
-  {
-    "title": "Xbox might close State of Decay studio Undead Labs, report says",
-    "description": "State of Decay 3 developer Undead Labs is in danger of being shut down or sold off by Xbox. The gaming giant is preparing significant layoffs.",
-    "link": "https://www.polygon.com/state-of-decay-3-studio-undead-labs-xbox-layoffs/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/state-of-decay-3-screenshot.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-06-30T14:00:27+00:00"
-  },
-  {
     "title": "MetaMask launches stablecoin yield account with card spending",
-    "description": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU.",
+    "description": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and sanctioned jurisdictions.",
     "link": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-sell-crypto-via-metamask-a-step-by-step-guide.jpg",
     "pubDate": "2026-06-30T14:00:00+00:00"
@@ -280,39 +371,11 @@
     "pubDate": "2026-06-30T14:00:00+00:00"
   },
   {
-    "title": "Resident Evil Director’s Dream Ending For Leon Kennedy Sounds A Lot Like Stardew Valley",
-    "description": "Resident Evil Requiem saw its co-protagonist Leon S. Kennedy deal with yet another zombie outbreak, but will he ever get a happy ending? Resident Evil 2 game director Hideki Kamiya certainly hopes so, and he has an idea for a retirement game that would be radically different from the survival-action adventures that starred Kennedy. Kamiya--who directed the first Resident Evil game to star Kennedy and recently mused about a non-scary game mode in Requiem--elaborated on his idea after one of his followers asked him about it. According to Kamiya, if he were given the opportunity to direct Kennedy's retirement game, he'd wrap up the video game icon's career with a cozy Stardew Valley-inspired send-off. https://youtu.be/Nt6mVYnXaHk \"If I made it, it'd turn into a game where [a] retired Leon goes fishing in the countryside, forages for wild veggies, bakes bread, walks the dog, tends a home garden, drives 50 km to the general store for supplies, invites old buddies over for a barbecue, fixes the neighbor grandma's oven at her request, [and] sells homemade lemonade at the local festival--but that'd be cool,\" Kamiya wrote on X/Twitter (via Google Translate). While there's no way to tell just how serious Kamiya is with his comments, a cozy Resident Evil game would likely do very well. Wholesome games have become a fixture in the industry, with numerous developers putting their own spin on digital experiences that are relaxing to play--pretty much the polar opposite of a Resident Evil game, as those are made to keep their players on edge. As for what's actually in store for Leon, Capcom isn't saying anything yet. Following the release of the new game mode Leon Must Die in Resident Evil Requiem, a new story expansion is in development for the hit survival-horror-action game. Capcom also announced its upcoming remake of Resident Evil: Veronica, which will hit PC and console in 2027, and if you're looking for Stardew Valley with spooky vibes, Moonlight Peaks looks like it'll fill that niche quite nicely when it launches in July. Best Resident Evil Requiem Mods To Download In 2026 View Images",
-    "link": "https://www.gamespot.com/articles/resident-evil-directors-dream-ending-for-leon-kennedy-sounds-a-lot-like-stardew-valley/",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T13:55:17+00:00"
-  },
-  {
-    "title": "After Plotting Buyouts Of EA And Activision, This Media Giant Could Again Try To Push Into Gaming",
-    "description": "NBC Universal and Comcast are splitting into two companies, and when that happens, NBC Universal could go after gaming assets as it looks to grow. This is according to a report from Reuters, which clarified that nothing is locked down as of yet, and any potential transaction would not happen until Comcast and NBC Universal officially split in about a year. In any event, the report reminded everyone that Comcast CEO Brian Roberts has been interested in gaming for a long time, previously pondering acquisitions of Activision and Electronic Arts, as well as an investment in Fortnite studio Epic Games. Those plans never came to be, but Roberts' son, Tucker Roberts, is currently running Comcast's gaming division and is reportedly keen to do more in the area. Comcast previously tried to buy Activision and EA, reportedly.Comcast is already involved in gaming adjacently through its partnership with Nintendo for the mega-successful Mario animated movies that are made at Comcast's Illumination studio. Additionally, NBC Universal has an existing partnership with the generative AI gaming startup Wolf Games, which released its first game, Law &amp; Order: Clue Hunter, earlier this year, based on the popular NBC TV show. NBC Universal will be run by Michael Cavanagh when the company splits from Comcast. He told Reuters that the companies breaking up provides the \"freedom now to explore adjacent businesses where we have the right to play.\" The Reuters report mentioned names like Take-Two and Xbox in the report, but not specifically as acquisition targets. The report did not include any further specifics about NBC Universal's reported plans for gaming. This news comes at the same time that Xbox is reportedly looking to close or sell a number of its development studios as part of a strategic \"reset\" under Xbox CEO Asha Sharma. There has also been chatter of Microsoft considering the possibility of spinning Xbox out, which in theory could make it an acquisition target. As for the report's mention of Take-Two, the company is about to release the biggest game ever, GTA 6, and there is no indication that it is looking to sell. If NBC Universal does make a bigger play in gaming, it wouldn't be the only media giant doing so. Paramount is in the process of buying Warner Bros. Discovery, and as part of this, the company will take ownership of a number of game studios, including NetherRealm, Avalanche Software, Rocksteady, TT Games, WB Games, and more.",
-    "link": "https://www.gamespot.com/articles/after-plotting-buyouts-of-ea-and-activision-this-media-giant-could-again-try-to-push-into-gaming/",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T13:44:55+00:00"
-  },
-  {
-    "title": "AeroVironment skyrockets 21% as dronemaker capitalizes on defense spending surge",
-    "description": "AeroVironment is benefiting from U.S. plans to modernize the U.S. military and secure space.",
-    "link": "https://www.cnbc.com/2026/06/30/aerovironment-avav-stock-earnings-defense.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/105449917-1536870467520img_5682.jpg?v=1536870529&w=1920&h=1080",
-    "pubDate": "2026-06-30T13:41:26+00:00"
-  },
-  {
     "title": "OKX launches AI marketplace for autonomous agent economy",
     "description": "OKX launched a beta marketplace for the agentic economy, enabling AI agents to autonomously find work and collaborate with other agents.",
     "link": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-happens-when-chatgpt-becomes-the-front-door-to-crypto-1.jpg",
     "pubDate": "2026-06-30T13:39:39+00:00"
-  },
-  {
-    "title": "Trump's massive defense budget, depleted war machine, spark U.S. state battle for business and jobs",
-    "description": "Trump's huge defense budget request and a race to replenish weapons stocks while building hypersonic missiles lead to war between U.S. states for jobs.",
-    "link": "https://www.cnbc.com/2026/06/30/trump-trillion-dollar-defense-budget-missile-contracts.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328190-1782748783388-2025-10-24T101012Z_1487556149_RC29IHA5YU0N_RTRMADP_3_USA-PENTAGON-HYPERSONIC.JPG?v=1782748837&w=1920&h=1080",
-    "pubDate": "2026-06-30T13:29:59+00:00"
   },
   {
     "title": "Tokenized securities need competition, not gatekeepers",
@@ -329,39 +392,11 @@
     "pubDate": "2026-06-30T13:22:15+00:00"
   },
   {
-    "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
-    "description": "The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.",
-    "link": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108139249-17461007952025-05-01t110135z_141929000_rc26x7av6mkm_rtrmadp_0_health-obesity-who.jpeg?v=1746100832&w=1920&h=1080",
-    "pubDate": "2026-06-30T13:22:03+00:00"
-  },
-  {
     "title": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
     "description": "Strategy’s new Bitcoin capital framework draws Wall Street backing from Benchmark with a $570 per share target even as traders question long-term demand risk.",
     "link": "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-24.jpg",
     "pubDate": "2026-06-30T13:14:47+00:00"
-  },
-  {
-    "title": "Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ",
-    "description": "This comes as the foundation continues to review its ties to the late sex offender Jeffery Epstein.",
-    "link": "https://www.cnbc.com/2026/06/30/warren-buffett-delays-gates-foundation-donation-epstein-review.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106961112-1634306064173-gettyimages-632858658-94238841.jpeg?v=1681306858&w=1920&h=1080",
-    "pubDate": "2026-06-30T13:13:25+00:00"
-  },
-  {
-    "title": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it",
-    "description": "The advance marks a sharp turnaround after years of underperformance versus large-cap peers.",
-    "link": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108246251-1767021860581-Traders-Photo-20251229-KK-PRESS-016.jpg?v=1767022020&w=1920&h=1080",
-    "pubDate": "2026-06-30T13:04:02+00:00"
-  },
-  {
-    "title": "A Developer Said No To Baldur’s Gate 4 Because Following BG3 Would Be “Insanity”",
-    "description": "Following the enormous critical and commercial success of Larian's Baldur's Gate 3, the studio passed on making Baldur's Gate 4 to produce a new Divinity instead. A fourth Baldur's Gate game is as close to a sure thing as possible, but who will make it? That remains to be seen, but Hasbro and Wizards of the Coast pitched one of its studios, Archetype Entertainment--and they said no as well. Archetype is headed by James Ohlen and Kevin Martens, both of whom were co-lead designers on Baldur's Gate 2. Hasbro CEO Chris Cox called Ohlen after learning that Larian was passing on Baldur's Gate 4 to ask if he would do it. \"He called me. 'Hey James, what do you think about doing Baldur's Gate 4?' And I was like, 'I don't, I would fail, and here's why I would fail,'\" he told PC Gamer. He said he would not want to compete with Larian's legacy. He said working on Archetype's current project, Exodus, was hard enough. \"Having to compete against Baldur's Gate 3? That would be insanity,\" he said. Part of what made Baldur's Gate 3 special was that it was built on Larian's own engine. Ohlen said it would \"at least half a decade of horror\" to build a new version for Baldur's Gate 4. Ohlen said he asked Cox if Larian could license its engine for Baldur's Gate 4, but even if this was possible, Ohlen said Baldur's Gate 4 would still lack the special sauce of being made at Larian. He said Larian CEO Swen Vincke is \"always going to be the master of building those kinds of things. It's really hard to take him off that throne, just because of everything—the tools, institutional knowledge, team.\" Baldur's Gate 3 sold more than 20 million copies and won multiple Game of the Year awards. Given that, Larian has said it feels \"more pressure\" to deliver with Divinity.",
-    "link": "https://www.gamespot.com/articles/a-developer-said-no-to-baldurs-gate-4-because-following-bg3-would-be-insanity/",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T13:04:01+00:00"
   },
   {
     "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
@@ -385,41 +420,6 @@
     "pubDate": "2026-06-30T12:44:21+00:00"
   },
   {
-    "title": "StarkWare unveils Starknet quantum roadmap, says industry has no excuse",
-    "description": "“The crypto industry shouldn’t need wake-up calls from the White House or anyone else,” said StarkWare CEO Eli Ben-Sasson.",
-    "link": "https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-vs-quantum-computing-1.jpg",
-    "pubDate": "2026-06-30T12:30:00+00:00"
-  },
-  {
-    "title": "Spiko links EU regulated T-bill funds to Coinbase stablecoin rails",
-    "description": "Spiko integrated Coinbase Payments into two EU regulated UCITS Treasury funds, enabling USDC and EURC subscriptions and redemption payments through Base.",
-    "link": "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-how-it-works-benefits-and-opportunities.jpg",
-    "pubDate": "2026-06-30T12:21:03+00:00"
-  },
-  {
-    "title": "Cyberpunk 2077 Is Having A Moment Again, And It’s For One Simple Reason",
-    "description": "Cyberpunk 2077 is enjoying another resurgence in popularity, with the game's player count on Steam being at its highest level in over two years. While the game has averaged around 30,000 concurrent players per day (via SteamDB) over the last month, currently, that number has spiked over the last week and has peaked at over 87,000 players so far. What's the driving force behind this increase in chooms headed to Night City? A simple answer: It's dirt-cheap to buy right now. With the Steam Summer Sale in full swing, Cyberpunk 2077 has been discounted to $18 for the duration of the event, a price reduction of 70%. The award-winning Phantom Liberty expansion is on sale for the same price--a discount of 40%--making this a particularly good deal given the numerous updates and upgrades that CD Projekt Red has poured into Cyberpunk 2077 following its disastrous launch back in December 2020. https://www.youtube.com/watch?v=kBnPNwv6C0E On top of that, the new trailer for Cyberpunk: Edgerunners 2 also went live this week, and it looks like the anime sequel series will drive more people to pick up the game. The first series streamed through Netflix had this very same effect on Cyberpunk 2077, pushing sales to 20 million units sold and helping developer CD Projekt Red achieve its most profitable quarter in its history. At one point, more than 1 million people were playing Cyberpunk 2077 daily, and the first anime series is considered to have played an instrumental part in saving the game, alongside organizational changes at CDPR. As of mid 2025, 35 million copies of Cyberpunk 2077 have been sold across PC and consoles, and in the wake of that success, work on the Cyberpunk 2 sequel continues.",
-    "link": "https://www.gamespot.com/articles/cyberpunk-2077-is-having-a-moment-again-and-its-for-one-simple-reason/",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T12:00:30+00:00"
-  },
-  {
-    "title": "White House AI crackdown opens door for Chinese model makers to close gap",
-    "description": "The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.",
-    "link": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108306926-1778763497797-gettyimages-2275601892-AA_14052026_2779029.jpeg?v=1778763521&w=1920&h=1080",
-    "pubDate": "2026-06-30T12:00:01+00:00"
-  },
-  {
-    "title": "GTA 6 Might Normalize $80 Games, But Analysts Say Only A Few Can Pull It Off",
-    "description": "With GTA 6 setting its price point at $80, the general consensus is that it may be a trendsetter that will encourage more publishers to sell their games at this new baseline MSRP. According to analysts, while this new sticker price baseline is possible, only a handful of games might be able to get away with it. Speaking to GamesRadar, DFC Intelligence's David Cole believes that $80 games will become more commonplace over time, thanks partly to GTA 6 and Nintendo being the first company to wade into these waters with Mario Kart World. \"The issue is there are only a handful of premium games that command this price point,\" Cole explained, adding that \"only the most in-demand games with a built-in initial audience\" will have the sway to convince people to pay extra for them. Business professor and author, Joost van Dreunen, echoed those beliefs on his Substack, saying that studios attempting to charge $80 on games that don't offer the same perception of value \"will likely come to regret that.\" \"Gaming is increasingly becoming a luxury category,\" van Dreunen wrote. \"Its economics have historically centered around a winner-takes-most model, and GTA 6 raises the bar again. Publishers who can clear it will pull further ahead, and those who cannot will have to compete on distribution instead, finding new channels, bundles, and pricing models to reach players the blockbusters don't.\" It's worth noting that GTA 6 publisher Take-Two Interactive is credited with setting a $70 precedent for video game prices back in 2020, and the rest of the industry quickly followed in its footsteps. The idea of a new Call of Duty or a Super Mario game commanding an $80 price tag wouldn't be unusual, but at least there are more affordable options out there. Live-service games like Marathon and Helldivers 2 launched for $40, and Assassin's Creed: Black Flag Resynced is launching for $60 in July. Between those AAA games, live-service titles, and remakes, indie games are typically priced at $30, and some of the breakout hits of the year have offered a lot of value for their modest price point. Of course, the best way to not pay $80 for a game is to wait it out, as they typically go on sale not long after release--unless that game is from Nintendo, that is. GTA 6: 241 Screenshots To Ease The Wait View Images",
-    "link": "https://www.gamespot.com/articles/gta-6-might-normalize-80-games-but-analysts-say-only-a-few-can-pull-it-off/",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T11:59:52+00:00"
-  },
-  {
     "title": "Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous",
     "description": "The token has traded in a tight band near $59,000 to $60,000 all week. The pattern echoes a calm stretch from 2024, but this one is forming below support in a falling market, and a break could open the way toward $40,000.",
     "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-quiet-usd59-000-usd60-000-range-is-starting-to-look-dangerous",
@@ -432,20 +432,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cx2wl6ynn2no?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a105/live/4d7551d0-7486-11f1-8e1d-bbbb1017d210.jpg",
     "pubDate": "2026-06-30T11:36:13+00:00"
-  },
-  {
-    "title": "Germany fans in need of hope as prospect of Klopp looms",
-    "description": "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by Paraguay and what happens next.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f7/live/06668fe0-7470-11f1-b8da-6d87dfdc4508.jpg",
-    "pubDate": "2026-06-30T11:35:31+00:00"
-  },
-  {
-    "title": "A Founder’s Previously Unknown Attempt to Avert the Revolutionary War",
-    "description": "Recently discovered documents reveal a back-channel attempt by a leader of the Continental Congress to make peace. (He did not succeed.)",
-    "link": "https://www.nytimes.com/2026/06/30/us/250-american-revolution-john-dickinson.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-30T11:23:40+00:00"
   },
   {
     "title": "New York Life's $800 billion asset manager makes tokenization debut with Centrifuge fund",
@@ -462,13 +448,6 @@
     "pubDate": "2026-06-30T11:18:34+00:00"
   },
   {
-    "title": "France superstars thriving thanks to Deschamps' bold changes",
-    "description": "Why Didier Deschamps' changes to personnel and formation could propel 2022 runners-up France to go one better in this World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40cc/live/dafe9160-73b4-11f1-a8ee-df4f88a2912f.jpg",
-    "pubDate": "2026-06-30T11:18:24+00:00"
-  },
-  {
     "title": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
     "description": "Those surveyed showed a 78.9% rate of workers who \"reported feeling positive at the end of their shifts.\"",
     "link": "https://www.cnbc.com/2026/06/30/surprising-survey-of-american-job-satisfaction-.html",
@@ -476,46 +455,11 @@
     "pubDate": "2026-06-30T11:08:24+00:00"
   },
   {
-    "title": "Solana Company to back Kazakhstan’s $6B crypto megacity ambition",
-    "description": "Nasdaq-listed Solana Company has signed a memorandum of understanding with Kazakhstan's Alatau City, which seeks to become a key crypto hub in Central Asia.",
-    "link": "https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-create-the-future-1.jpg",
-    "pubDate": "2026-06-30T11:00:00+00:00"
-  },
-  {
     "title": "Analyst Report: MDU Resources Group Inc",
     "description": "",
     "link": "https://finance.yahoo.com/research/reports/ARGUS_3181_AnalystReport_1782817097000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
     "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
     "pubDate": "2026-06-30T10:58:17+00:00"
-  },
-  {
-    "title": "Bitcoin nears 2024 lows as options traders pay up for downside protection",
-    "description": "Bitcoin and ether slid toward key support price levels. DeFi tokens were hit hardest, even as XLM and LIT bucked the broader market weakness.",
-    "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-nears-2024-lows-as-options-traders-pay-up-for-downside-protection",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/11c835cc3f5219594fb028e204b1bfd7d714cd00-1854x992.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-06-30T10:48:06+00:00"
-  },
-  {
-    "title": "Another UK heatwave could be on the way",
-    "description": "As parts of Europe continue to swelter in record temperatures, higher temperatures could develop again across the UK later this week, as Simon King explains.",
-    "link": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8586/live/a3eae070-7454-11f1-b1db-af71d47507d6.jpg",
-    "pubDate": "2026-06-30T10:33:03+00:00"
-  },
-  {
-    "title": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
-    "description": "ESMA said EU crypto clients must be served through a MiCA-authorized entity as Binance faces questions over its servicing model in the region after the MiCA deadline.",
-    "link": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-one-month-left-to-crypto-tax-season-5-critical-mistakes-to-avoid-1.jpg",
-    "pubDate": "2026-06-30T10:25:48+00:00"
-  },
-  {
-    "title": "Digital Realty falls 5% after taking $3.5 billion stake in Blackstone's Virginia data centers",
-    "description": "Digital Realty fell in premarket trading Tuesday after it announced its buying a $3.5 billion stake in three data centers from asset manager Blackstone.",
-    "link": "https://www.cnbc.com/2026/06/30/digital-realty-blackstone-virginia-data-center-35-billion-stake.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108314428-1780313342106-gettyimages-2278505514-VIRGINIA_DATA_CENTERS.jpeg?v=1780313364&w=1920&h=1080",
-    "pubDate": "2026-06-30T09:49:29+00:00"
   },
   {
     "title": "Fourth of July Heat Wave Forecast: Here Are the Day-by-Day Temperatures",
@@ -532,32 +476,18 @@
     "pubDate": "2026-06-30T09:26:06+00:00"
   },
   {
-    "title": "State Of Decay Studio Undead Labs Reportedly At Risk Of Closure",
-    "description": "Amid reports that Microsoft is planning massive layoffs in its Xbox gaming division, first-party studios like Double Fine, Compulsion Games, and Ninja Theory have been rumored to be in talks to avoid total closure. Now, State of Decay developer Undead Labs is said to be facing the same fate if a potential buyer can't be found. According to GamesBeat and Windows Central, Undead Labs is one if the studios that Microsoft may unload following the end of its current fiscal year on June 30. What makes this move so surprising is that Undead Labs' State of Decay 3 has been given a promotional push by Xbox, including a new trailer that debuted earlier this month. That title is believed to be nearly finished, and it's unclear if State of Decay 3 will even be released if Undead Labs closes beforehand. Bloomberg's Jason Schreier offered some clarification about the studios reported to be on Microsoft's chopping block. Schreier didn't confirm Undead Labs to be among them, but he stated that it's \"possible (even likely) ... that some of the studios that are lined up for closure will be spun out and taken independent again by their management, potentially saving some jobs.\" However, it appears that some layoffs will be inevitable. State of Decay 3 is currently expected to hit Xbox Series X|S, PlayStation 5, and PC in 2027. In the meantime, developers from numerous first-party Xbox studios have called for Microsoft to provide them with layoff protections before any potential cuts this summer. Even the future of Xbox itself may be on the line, as rumors suggest that the division may be spun out of Microsoft as a separate company. Microsoft recently raised the price of Xbox consoles again and more price hikes may be coming in 2027. Microsoft CEO Satya Nadella has indicated that Xbox has to begin pulling its weight financially. That may mean more drastic steps are ahead to achieve that goal.",
-    "link": "https://www.gamespot.com/articles/state-of-decay-studio-undead-labs-reportedly-at-risk-of-closure/",
+    "title": "How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’",
+    "description": "George Arison, the gay dating app’s chief executive, is aiming for all code to be eventually written by artificial intelligence, making the company “leaner.”",
+    "link": "https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html",
     "thumbnail": "",
-    "pubDate": "2026-06-29T23:58:41+00:00"
+    "pubDate": "2026-06-30T09:00:19+00:00"
   },
   {
-    "title": "Waymo and Uber end robotaxi pilot in Phoenix",
-    "description": "The Waymo self-driving cars deployed in Phoenix for the Uber pilot will remain in use and make autonomous deliveries with DoorDash.",
-    "link": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108253204-1768506877899-gettyimages-2256473943-bb2_5286_mct2m6ds.jpeg?v=1771516627&w=1920&h=1080",
-    "pubDate": "2026-06-29T23:24:59+00:00"
-  },
-  {
-    "title": "What to Watch in Colorado Primary Elections: Will Left-Wing Energy Keep Rising?",
-    "description": "Primaries on Tuesday will be the latest test of Democrats’ anti-establishment mood.",
-    "link": "https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html",
-    "thumbnail": "",
-    "pubDate": "2026-06-29T22:14:56+00:00"
-  },
-  {
-    "title": "Xbox Devs Call For Worker Protections Ahead Of Likely Layoffs",
-    "description": "Earlier this month, rumors began to spread about potentially massive layoffs coming to Microsoft's Xbox gaming division this summer. While the majority of those those cuts don't appear to have happened yet, game developers under Xbox have come together to push for more layoff protections for their members. Members of the United Video Game Workers and representatives from workers at Microsoft's first-party studios--including Bethesda's parent company Zenimax, as well as Activision Blizzard--were present at a press conference conducted by the Communications Workers of America. Collectively, they pushed for enhanced layoff protections for all Xbox workers, including advance warning of impending layoffs, temporary hiring freezes to give the remaining devs a chance to advance internally, and two years of recall rights for affected employees. As reported by Kotaku, speakers noted that Microsoft has paid its executives exorbitant amounts of money while investing billions in AI while recently raising the price of Xbox consoles again. \"The money is there, leadership is simply choosing where it goes and who pays,\" said CWA District 9 vice president Frank Arce, who added that Xbox employees \"will not be treated as disposable.\" During the press conference, union representatives noted that Microsoft has been slow to address layoff protections with its current unions. Developers from Zenimax and Activision both noted that Microsoft hasn't responded to their proposals, while workers from Blizzard's World of Warcraft team reportedly said they had seen \"positive movement\" on the issue. South of Midnight developer Compulsion Games has reportedly already been hit with some layoffs as it--and other developers like Double Fine and Ninja Theory--negotiate with Microsoft to avoid full studio closures. The head of Xbox Game Studios, Craig Duncan, has also departed from Microsoft after 15 years. Microsoft CEO Satya Nadella recently shared his desire for Xbox to begin pulling its weight financially. That's led to rumors that the entire Xbox division may be spun out of Microsoft as a separate company. It's also been reported that more price hikes may be coming to Xbox consoles in 2027.",
-    "link": "https://www.gamespot.com/articles/xbox-devs-call-for-worker-protections-ahead-of-likely-layoffs/",
-    "thumbnail": "",
-    "pubDate": "2026-06-29T19:49:29+00:00"
+    "title": "Stock market today: S&amp;P 500, Nasdaq rise, Dow eyes fresh record to wrap up standout quarter",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-dow-eyes-fresh-record-to-wrap-up-standout-quarter-224823556.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/D660D0D144907F36E2DA9AC91401C523E3D8229EB858444F7CF23F72781B2124/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2Fec530b50-1eb3-11f0-9fb4-3931ade834e4",
+    "pubDate": "2026-06-29T22:48:23+00:00"
   },
   {
     "title": "Summer, Served Alfresco",
