@@ -1,31 +1,311 @@
 [
   {
-    "title": "What’s with Trump’s sudden fixation on communism?",
-    "description": "US President Donald Trump has denounced communism more than 80 times in the past two weeks.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/whats-with-trumps-sudden-fixation-on-communism?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783567320.jpg?resize=1619%2C1080&quality=80",
-    "pubDate": "2026-07-09T03:22:27+00:00"
+    "title": "AstraZeneca stock dives 9% after heart drug trial misses target",
+    "description": "",
+    "link": "https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108198691-1757936194403-gettyimages-2221649488-Astrazeneca_Office_Building_in_Shanghai.jpeg?v=1760116750&w=1920&h=1080",
+    "pubDate": "2026-07-09T07:34:08+00:00"
+  },
+  {
+    "title": "Tanker Attacks Risk Overplaying Iran’s Hand, Analysts say",
+    "description": "Iran’s history shows it is willing to dig in, even when it may suffer big losses.",
+    "link": "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-09T07:33:52+00:00"
+  },
+  {
+    "title": "Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey",
+    "description": "The Secret Service is said to have asked that the president not use the Qatari-donated jet when he left Ankara. The swap deepens questions about the retrofitting of the new plane.",
+    "link": "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-09T07:31:27+00:00"
+  },
+  {
+    "title": "U.S., Iran trade fresh strikes as Trump says he's 'not sure' he wants deal",
+    "description": "Centcom said it launched dozens of strikes on Iranian military infrastructure and small boats; Trump said the U.S. might take more military action \"tonight.\"",
+    "link": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108332197-1783535732268-108332197-1783527715517-gettyimages-2284651945-AA_08072026_2875826.jpeg?v=1783535772&w=1920&h=1080",
+    "pubDate": "2026-07-09T07:23:00+00:00"
+  },
+  {
+    "title": "Flooding from Tropical Storm Maysak kills 39 in southern China",
+    "description": "About 130,000 people have been evacuated from the Guangxi region while thousands of rescuers have been deployed.",
+    "link": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/GettyImages-2284977311-1783580723.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-09T07:11:37+00:00"
+  },
+  {
+    "title": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+    "description": "Israeli air attacks and gunfire kill nine Palestinians in Gaza despite ceasefire, medics say.",
+    "link": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/AA-20260708-41922367-41922345-FUNERAL_OF_PALESTINIANS_KILLED_IN_ISRAELI_BOMBING_ON_A_CIVILIAN_VEHICLE-1783575967.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-09T07:08:32+00:00"
+  },
+  {
+    "title": "Oil Prices Hold Gains After U.S. and Iran Trade Another Round of Strikes",
+    "description": "Choppy trading in stocks and bonds also reflected anxiety among investors about the war’s effects on inflation and growth.",
+    "link": "https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-09T07:01:17+00:00"
+  },
+  {
+    "title": "Live markets: Bitcoin ETFs slip back to outflows while ether funds extend their streak",
+    "description": "U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million",
+    "link": "https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/bbcbfcc3c2b1d31c49856b8826ea03a38b150fce-1500x1001.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-07-09T06:51:10+00:00"
+  },
+  {
+    "title": "Oil prices ease after spiking following fresh U.S. strikes against Iran",
+    "description": "Oil prices turned lower on Thursday after the U.S. carried out fresh strikes on Iran, renewing concerns about supply disruptions in the Middle East.",
+    "link": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108332466-1783554981046-gettyimages-2265273047-AA_10032026_2688940.jpeg?v=1783554991&w=1920&h=1080",
+    "pubDate": "2026-07-09T06:51:07+00:00"
+  },
+  {
+    "title": "Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns",
+    "description": "Former BOJ official issues interest-rate warning as yen continues to slide against the dollar.",
+    "link": "https://www.coindesk.com/markets/2026/07/09/bank-of-japan-may-speed-up-rate-hikes-pushing-borrowing-costs-above-2-ex-boj-official-warns",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c8c93b03e50b546e9a09a9b174568777709ef2d3-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-07-09T06:42:09+00:00"
+  },
+  {
+    "title": "'CASHCAT' trader turns $800 into over $1 million on Robinhood's brand new blockchain",
+    "description": "Robinhood's blockchain went live on July 1 to move stocks onchain. Its first breakout hit is a memecoin named after the mascot the company abandoned.",
+    "link": "https://www.coindesk.com/tech/2026/07/09/cashcat-trader-turns-usd800-into-over-usd1-million-on-robinhood-s-brand-new-blockchain",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f021b8489c514048a19284a683921ac81755aa3c-2782x954.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-07-09T06:40:50+00:00"
+  },
+  {
+    "title": "Lord’s Cricket Ground set for first-ever women’s Test as England host India",
+    "description": "England host India in a women's Test at the iconic Lord's Cricket Ground - the first of such a kind at the venue.",
+    "link": "https://www.aljazeera.com/sports/2026/7/9/lords-cricket-ground-set-for-first-ever-womens-test-as-england-host-india?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20240711__363W6GG__v1__HighRes__CricketEngWis-1783576972.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-09T06:30:58+00:00"
+  },
+  {
+    "title": "Inspector of Buckling Building Cited for Missing Problems at Other Sites",
+    "description": "A New York Times review of city records shows that the firm, Domani Inspection Services, was repeatedly accused of breaking New York City rules.",
+    "link": "https://www.nytimes.com/2026/07/09/nyregion/nyc-building-collapse-inspection.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-09T06:13:28+00:00"
+  },
+  {
+    "title": "AirPods maker Luxshare slides over 5% in Hong Kong market debut",
+    "description": "The company, which is already listed in Shenzhen, had priced shares in the IPO at 63.28 Hong Kong dollars apiece, raising HK$24.27 billion ($3.09 billion).",
+    "link": "https://www.cnbc.com/2026/07/09/luxshare-ipo-hong-kong-debut-apple-airpod-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107089528-1657903174069-gettyimages-1312494236-vcg111325692793.jpeg?v=1657903241&w=1920&h=1080",
+    "pubDate": "2026-07-09T06:06:27+00:00"
+  },
+  {
+    "title": "Wyden urges Senate leaders to keep dev protections in crypto bill",
+    "description": "Senator Ron Wyden has called on Senate leaders to ensure the Blockchain Regulatory Certainty Act remains in the CLARITY Act when it is brought to the floor.",
+    "link": "https://cointelegraph.com/news/senate-leaders-urged-to-keep-dev-protections-in-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/united-states-capitol-1.jpg",
+    "pubDate": "2026-07-09T06:03:49+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "pubDate": "2026-07-09T06:00:00+00:00"
+  },
+  {
+    "title": "Trader loses $1M after signing phishing token approval",
+    "description": "Onchain scammers netted more than $14 billion last year, and approval phishing remains a primary attack vector.",
+    "link": "https://cointelegraph.com/news/trader-loses-1m-after-signing-phishing-token-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-phishing-link-clicked-5-fast-actions-to-stop-a-disaster.jpg",
+    "pubDate": "2026-07-09T05:57:23+00:00"
+  },
+  {
+    "title": "AI is shortening the shelf life of crypto security audits, researchers warn",
+    "description": "Hackers have also been exploiting the codebases of defunct decentralized finance protocols, draining millions of dollars in customer funds.",
+    "link": "https://cointelegraph.com/news/ai-is-shortening-the-shelf-life-of-crypto-security-audits-researchers-warn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-hack-overview-what-happened-and-why.jpg",
+    "pubDate": "2026-07-09T05:47:09+00:00"
+  },
+  {
+    "title": "France vs Morocco: World Cup quarterfinal – prediction, start time, lineups",
+    "description": "Title favourites France face African champions Morocco, as football's 2026 World Cup enters the last-eight phase.",
+    "link": "https://www.aljazeera.com/sports/2026/7/9/france-morocco-world-cup-quarterfinal-mbappe-saibari-prediction-start-time-lineups?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260704__B9AD2FT__v2__HighRes__TopshotFblWc2026Match89ParFra-1783408619.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-09T05:22:46+00:00"
+  },
+  {
+    "title": "Son of Mexican national who was fatally shot by ICE speaks out",
+    "description": "The son of Mexican man, Lorenzo Salgado Araujo, who was fatally shot by an officer from ICE.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/son-of-mexican-national-who-was-fatally-shot-by-ice-speaks-out?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783574422.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2026-07-09T05:21:18+00:00"
+  },
+  {
+    "title": "Ukraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest",
+    "description": "Ukraine’s deep drone strikes on Russian refineries are reshaping the war and pushing NATO toward a $40 billion counter-drone plan.",
+    "link": "https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108331855-1783487957374-gettyimages-2284522645-porzycki-natosumm260707_np24C.jpeg?v=1783502905&w=1920&h=1080",
+    "pubDate": "2026-07-09T05:15:02+00:00"
+  },
+  {
+    "title": "XRP holds near $1.10 as traders watch long-term breakout setup",
+    "description": "XRP defended the $1.00-$1.05 support zone, but the near-term chart remains capped below resistance as analysts track larger wedge and channel patterns.",
+    "link": "https://www.coindesk.com/markets/2026/07/09/xrp-holds-near-usd1-10-as-traders-watch-long-term-breakout-setup",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4fcddf8c056c654e5088667bee415a130229b5a9-1196x744.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-07-09T05:07:11+00:00"
+  },
+  {
+    "title": "Platner Suspends Senate Bid in Maine After Rape Accusation",
+    "description": "Mr. Platner’s withdrawal, which comes after a woman accused him of rape, creates deep uncertainty in a race that both parties see as crucial to their hopes of winning the Senate.",
+    "link": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-maine-senate.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-09T05:06:07+00:00"
+  },
+  {
+    "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+    "description": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1127/live/fbe04900-7b0c-11f1-bd97-bb877df31663.jpg",
+    "pubDate": "2026-07-09T05:04:17+00:00"
+  },
+  {
+    "title": "Misinformation fuelling violent attacks on Ebola health workers",
+    "description": "False claims about Ebola are linked to attacks on treatment facilities, assaults on health workers and disruptions to burials.",
+    "link": "https://www.bbc.co.uk/news/articles/c79yj09nd4qo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/87e99d10-7af0-11f1-b976-0b9c15b0ccfc.png",
+    "pubDate": "2026-07-09T05:02:07+00:00"
+  },
+  {
+    "title": "Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again",
+    "description": "Oil climbed for a third day and gold fell for a fourth while bitcoin is up 1.6% on the week.",
+    "link": "https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f1989cca173a6179b4bf2c5e784f3cb6ef51c75a-1000x668.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "pubDate": "2026-07-09T04:57:35+00:00"
+  },
+  {
+    "title": "UK police arrest activists at Israeli-owned drone engine plant",
+    "description": "UK police arrest activists at Israeli-owned drone engine plant.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/uk-police-arrest-activists-at-israeli-owned-drone-engine-plant-2?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/UK-arrests-horiz-1783571593.png?resize=1800%2C1063",
+    "pubDate": "2026-07-09T04:34:22+00:00"
+  },
+  {
+    "title": "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
+    "description": "The prime minister was presented with an award during a visit to the Seychelles, adding to his large trophy collection.",
+    "link": "https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-02-25T164145Z_1740813662_RC24TJAD9YS3_RTRMADP_3_ISRAEL-INDIA-MODI-KNESSET-1783077520_e9bbac-1783090721.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-07-09T04:30:51+00:00"
+  },
+  {
+    "title": "Trump says he will remove Syria from the state sponsor of terrorism list",
+    "description": "US President Trump said he will remove Syria from the US state sponsor of terrorism list at the NATO summit.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-says-he-will-remove-syria-from-the-state-sponsor-of-terrorism-list?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783571213.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2026-07-09T04:28:44+00:00"
+  },
+  {
+    "title": "‘A Slow-Rolling Disaster’: Inside the Implosion of the Platner Campaign",
+    "description": "Graham Platner’s bid for the Senate inspired progressive Democrats. But the campaign, which he suspended Wednesday, was messy, disorganized and ultimately doomed by a steady drip of scandal.",
+    "link": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-09T04:25:49+00:00"
+  },
+  {
+    "title": "AI boom fuels inflation fears, complicating Fed’s next rate move",
+    "description": "Ongoing strong demand for AI infrastructure “would likely sustain upward pressure on prices for technology products and electricity,” Federal Reserve policymakers said.",
+    "link": "https://cointelegraph.com/news/ai-boom-fuels-inflation-fears-complicating-feds-next-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/us-federal-reserve-rate.jpg",
+    "pubDate": "2026-07-09T04:12:10+00:00"
+  },
+  {
+    "title": "Best hideout upgrades in Assassin's Creed Black Flag Resynced",
+    "description": "In this guide, we listed all the best hideout upgrades in Assassin's Creed Black Flag Resynced and we explain how to unlock new facilities.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-hideout-upgrade-best/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced_guide_hideout_header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "Treasure maps and buried treasure locations in Assassin's Creed Black Flag Resynced",
+    "description": "Treasure maps and buried treasure are one of the many secrets in Assassin's Creed Black Flag Resynced. Here's where to find them all.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-treasure-maps-buried-locations/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced-treasure-maps-header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "All shanty locations in Assassin's Creed Black Flag Resynced",
+    "description": "Here's how to find all song sheet locations needed to unlock shanties in Assassin's Creed Black Flag Resynced.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-shanty-song-sheet-location-all/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced-shanties-header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "Mayan stone locations in Assassin's Creed Black Flag Resynced",
+    "description": "Mayan stones are discovered through Mayan stelae puzzles around Assassin's Creed Black Flag Resynced. Here's where to find every Mayan stone.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-mayan-stone-stelae-ruin-locations-all/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced-mayan-stones-header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "Where to find crocodile leather in Assassin's Creed Black Flag Resynced",
+    "description": "Here's where you can find crocodile leather in Assassin's Creed Black Flag Resynced, a crafting material required to upgrade the Blow Pipe.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-crocodile-leather-location/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced_guide_crocodileheader.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "10 beginner's tips to not let your crew down in Assassin's Creed Black Flag Resynced",
+    "description": "Here are 10 beginner's tips to help you in Assassin's Creed Black Flag Resynced, covering topics like naval battles to fishing for sharks.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-beginners-tips/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced_guide_beginners_header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "Where to find hammerhead shark bones in Assassin's Creed Black Flag Resynced",
+    "description": "Here's how to get hammerhead shark bones in Assassin's Creed Black Flag Resynced, and where hammerhead sharks are located.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-hammerhead-shark-bone-location/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced_guide_hammerheadshark_header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "Best Jackdaw upgrades in Assassin's Creed Black Flag Resynced",
+    "description": "Here are all the best Jackdaw upgrades in Assassin's Creed Black Flag Resynced, which will allow you to dominate the seas.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-best-ship-upgrades-jackdaw/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced_guide_shipupgrades_header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "How to unlock every officer in Assassin's Creed Black Flag Resynced",
+    "description": "Officers in Assassin's Creed Black Flag Resynced come with abilities to boost the strength of the Jackdaw. Here's how to unlock each one.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-officers-all-how-to-unlock/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced_guide_officers_header.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
+  },
+  {
+    "title": "'And My Sugar?' quest walkthrough in Assassin's Creed Black Flag Resynced",
+    "description": "Here's how to steal Captain Mendoza's key and recover the stolen goods in the \"And My Sugar?\" quest in Assassin's Creed Black Flag Resynced.",
+    "link": "https://www.polygon.com/assassins-creed-black-flag-resynced-and-my-sugar-quest-walkthrough/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced-and-my-sugar-quest-1.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-09T04:01:24+00:00"
   },
   {
     "title": "Graham Platner Suspended His Senate Campaign. Here’s What’s Next for Democrats.",
     "description": "The deadline to pick a new nominee is July 27 and candidates are already lining up. State party leaders said they would hold some form of nominating convention.",
     "link": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-out-whats-next.html",
     "thumbnail": "",
-    "pubDate": "2026-07-09T03:20:27+00:00"
+    "pubDate": "2026-07-09T03:58:03+00:00"
   },
   {
-    "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
-    "description": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
-    "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg",
-    "pubDate": "2026-07-09T03:13:25+00:00"
+    "title": "US court rules that Trump’s name must stay off Kennedy Center during appeal",
+    "description": "Trump’s name was removed from the centre's facade and signage last month, after a judge ordered its removal.",
+    "link": "https://www.aljazeera.com/news/2026/7/9/us-court-rules-that-trumps-name-must-stay-off-kennedy-center-during-appeal?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-13T050551Z_1686092527_RC2TSLAIIUJL_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-1783567846.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-09T03:57:46+00:00"
   },
   {
-    "title": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
-    "description": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
-    "link": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-25T160830Z_53922505_RC2SBBAIW9GG_RTRMADP_3_IMF-OUTLOOK-1783555160_fa7720-1783556200.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-07-09T02:58:20+00:00"
+    "title": "Do fans still trust referees and VAR at the World Cup?",
+    "description": "Do fans still trust referees and VAR at the World Cup?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/do-fans-still-trust-referees-and-var-at-the-world-cup?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/samantha-wide-thumb-1783569188.png?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-07-09T03:54:53+00:00"
   },
   {
     "title": "Trump loses appeals court bid to delay paying E. Jean Carroll $5M in damages",
@@ -33,34 +313,6 @@
     "link": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108030387-17256341152024-09-06t144513z_471652169_rc22v9a6pfwi_rtrmadp_0_usa-trump-defamation-appeal.jpeg?v=1783543833&w=1920&h=1080",
     "pubDate": "2026-07-09T02:47:58+00:00"
-  },
-  {
-    "title": "Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions",
-    "description": "Oil rises Thursday, amid worries over supply disruptions in the Middle East following fresh strikes on Iran by the U.S. military.",
-    "link": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108332466-1783554981046-gettyimages-2265273047-AA_10032026_2688940.jpeg?v=1783554991&w=1920&h=1080",
-    "pubDate": "2026-07-09T02:47:19+00:00"
-  },
-  {
-    "title": "US launches more strikes on Iran with blasts reported in south of country",
-    "description": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
-    "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
-    "pubDate": "2026-07-09T02:43:32+00:00"
-  },
-  {
-    "title": "‘A Slow-Rolling Disaster’: Inside the Implosion of the Platner Campaign",
-    "description": "Graham Platner’s bid for the Senate inspired progressive Democrats. But the campaign, which he suspended Wednesday, was messy, disorganized and ultimately doomed by a steady drip of scandal.",
-    "link": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-09T02:39:39+00:00"
-  },
-  {
-    "title": "Would the US protect NATO allies if they were attacked?",
-    "description": "This is America: Jim Townsend says he is unsure whether the US would send troops if a NATO ally were attacked.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_would-the-us-protect-nato-allies-080726?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783564760.jpg?resize=1919%2C1080&quality=80",
-    "pubDate": "2026-07-09T02:39:35+00:00"
   },
   {
     "title": "Crypto VC Paradigm raises $1.2B to push into AI",
@@ -84,34 +336,6 @@
     "pubDate": "2026-07-09T02:31:37+00:00"
   },
   {
-    "title": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
-    "description": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
-    "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e675/live/2d7ced30-7b2e-11f1-8a1e-d1fe57c2b5bf.jpg",
-    "pubDate": "2026-07-09T02:18:21+00:00"
-  },
-  {
-    "title": "US Senate nominee Platner halts campaign after assault allegations",
-    "description": "A string of high-profile Democrats have withdrawn support for Platner following sexual assault allegation.",
-    "link": "https://www.aljazeera.com/news/2026/7/9/us-senate-nominee-platner-halts-campaign-after-assault-allegations?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-05-26T023854Z_235368377_RC2MGLAL7B57_RTRMADP_3_USA-ELECTION-MAINE-1783558069.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-09T02:02:11+00:00"
-  },
-  {
-    "title": "Confirmed Ebola deaths in DR Congo hit 600",
-    "description": "The number of deaths comes as healthcare workers threaten to walk off the job over a delay in payments.",
-    "link": "https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-07T131059Z_561337671_RC2W7MAAK7IP_RTRMADP_3_HEALTH-EBOLA-CONGO-WHO-1783556239.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-09T01:48:42+00:00"
-  },
-  {
-    "title": "AirPods maker Luxshare slides over 5% in Hong Kong debut",
-    "description": "The company, which is already listed in Shenzhen, had priced shares in the IPO at 63.28 Hong Kong dollars apiece, raising HK$24.27 billion ($3.09 billion).",
-    "link": "https://www.cnbc.com/2026/07/09/luxshare-ipo-hong-kong-debut-apple-airpod-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107089528-1657903174069-gettyimages-1312494236-vcg111325692793.jpeg?v=1657903241&w=1920&h=1080",
-    "pubDate": "2026-07-09T01:38:29+00:00"
-  },
-  {
     "title": "Does a Sex Assault Claim Kill a Political Career? It Depends.",
     "description": "The swift exit of Graham Platner from the Maine Senate race followed Eric Swalwell’s similar exit from the California governor’s race, but Republicans have taken a different tack.",
     "link": "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html",
@@ -133,74 +357,32 @@
     "pubDate": "2026-07-09T01:32:12+00:00"
   },
   {
-    "title": "Trump to ask US Supreme Court for new hearing on birthright citizenship",
-    "description": "In June, the Supreme Court ruled against Trump’s order to end birthright citizenship for individuals born in the US.",
-    "link": "https://www.aljazeera.com/news/2026/7/9/trump-to-ask-us-supreme-court-for-new-hearing-on-birthright-citizenship?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-08T220453Z_150597596_RC2EGKAURB5I_RTRMADP_3_USA-COURT-TRUMP-BIRTHRIGHT-1783553994.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-09T00:54:32+00:00"
+    "title": "Starmer hints at bank holiday if England win World Cup",
+    "description": "The prime minister says he does not want to \"jinx it\" but \"ask me again if we get to the final\".",
+    "link": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff07/live/4822f750-7b2a-11f1-bee8-53ce494e1abc.jpg",
+    "pubDate": "2026-07-09T01:25:24+00:00"
   },
   {
-    "title": "Rights group plans complaint to IOC against Infantino over Trump support",
-    "description": "FairSquare says it will lodge the complaint regarding the FIFA president's 'repeated breach of political neutrality'.",
-    "link": "https://www.aljazeera.com/sports/2026/7/9/rights-group-plans-complaint-to-ioc-against-infantino-over-trump-support?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a04d94aad6a8-1778702666.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-09T00:53:41+00:00"
-  },
-  {
-    "title": "Morocco dealt huge blow as injured Saibari out of World Cup quarterfinal",
-    "description": "Ismael Saibari will miss the match against France in Boston due to a hamstring injury sustained last week.",
-    "link": "https://www.aljazeera.com/sports/2026/7/9/morocco-dealt-huge-blow-as-injured-saibari-out-of-world-cup-quarterfinal?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a48bdf8-1783152120_b0ae9d-1783152220.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-07-09T00:51:48+00:00"
-  },
-  {
-    "title": "Eight killed as landslide hits Rohingya school in Bangladesh",
-    "description": "At least seven children and a teacher were killed after a landslide hit a girls’ school at a refugee camp in Bangladesh.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/eight-killed-as-landslide-hits-rohingya-school-in-bangladesh?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a4ef065051d0-1783558245.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-09T00:51:32+00:00"
-  },
-  {
-    "title": "Met investigate donation to Jenrick's Tory leadership campaign",
+    "title": "Met investigates donation to Jenrick's Tory leadership campaign",
     "description": "The former Conservative, now Reform UK, MP says the allegations are \"entirely false\".",
     "link": "https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7778/live/a673afa0-7b22-11f1-b976-0b9c15b0ccfc.jpg",
     "pubDate": "2026-07-09T00:50:56+00:00"
   },
   {
-    "title": "South Sudan, 15 years on: Still fighting for peace",
-    "description": "A stalled peace process, deepening humanitarian needs and economic challenges test the world's youngest nation.",
-    "link": "https://www.aljazeera.com/news/2026/7/9/south-sudan-15-years-on-still-fighting-for-peace?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/South-Sudan_Healthcare_Photo-1-1783506390.jpeg?resize=1920%2C1440",
-    "pubDate": "2026-07-09T00:33:38+00:00"
-  },
-  {
-    "title": "Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey",
-    "description": "The Secret Service is said to have asked that the president not use the Qatari-donated jet when he left Ankara. The swap deepens questions about the retrofitting of the new plane.",
-    "link": "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-09T00:03:28+00:00"
-  },
-  {
-    "title": "New Muppet Show’s most controversial element now seems validated",
-    "description": "Despite fan criticism, Matt Vogel, Kermit's performer since 2017, just recieved an Emmy nod for the 2026 Disney Plus special The Muppet Show.",
-    "link": "https://www.polygon.com/muppet-show-kermit-emmy-nomination/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/hapvkiqxaaa3r9g.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-07-08T23:11:52+00:00"
-  },
-  {
-    "title": "No crude proposals on disability benefits, minister leading review says",
-    "description": "Sir Stephen Timms says personal independence payments (Pip) are not \"fit for purpose\" and need changing.",
+    "title": "Disability benefit not fit for purpose, minister leading review says",
+    "description": "Sir Stephen Timms says personal independence payments (Pip) in England and Wales need changing.",
     "link": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb2/live/69d40850-7aec-11f1-94d8-c95634a95d3e.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/de506470-ecbd-11f0-85c7-cf9da063a58e.jpg",
     "pubDate": "2026-07-08T23:10:43+00:00"
   },
   {
-    "title": "Divisions Festered Within Iran Over Talks With the U.S.",
-    "description": "Iran’s president and foreign minister were physically attacked this week by supporters of a hard-line faction that vehemently opposes any deal with the United States.",
-    "link": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-08T23:00:00+00:00"
+    "title": "Paralympic great Dame Sarah Storey retires from GB competition",
+    "description": "Dame Sarah Storey, Great Britain's most-decorated Paralympian, retires from international competition with immediate effect.",
+    "link": "https://www.bbc.co.uk/sport/articles/cy047zjr5rqo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f7/live/aa8f49a0-7ae6-11f1-9a9c-53fd8f110370.jpg",
+    "pubDate": "2026-07-08T23:01:17+00:00"
   },
   {
     "title": "Persona 4 Revival Producer Confirms Some Noteworthy Character Changes Are Coming",
@@ -224,13 +406,6 @@
     "pubDate": "2026-07-08T21:59:57+00:00"
   },
   {
-    "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
-    "description": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1127/live/fbe04900-7b0c-11f1-bd97-bb877df31663.jpg",
-    "pubDate": "2026-07-08T21:57:19+00:00"
-  },
-  {
     "title": "Bitcoin tumbles back to key $60K support level: What’s behind the sell pressure?",
     "description": "Bitcoin faces renewed sell pressure amid an oil price surge, Japan economic contagion risks and a fresh round of selling from Strategy.",
     "link": "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -238,46 +413,25 @@
     "pubDate": "2026-07-08T21:55:17+00:00"
   },
   {
-    "title": "The U.S. Attacks Iran Again",
-    "description": "Also, tech I.P.O.s are causing a housing frenzy in the Bay Area. Here’s the latest at the end of Wednesday.",
-    "link": "https://www.nytimes.com/2026/07/08/briefing/us-iran-attacks-ukraine-patriot-missiles.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-08T21:53:03+00:00"
-  },
-  {
-    "title": "What time does Marvel Rivals Season 9 release in your time zone?",
-    "description": "Marvel Rivals Season 9's release times are closing in fast, and the newest season of Marvel Rivals has a lot in store, including a Black Widow rework",
-    "link": "https://www.polygon.com/marvel-rivals-season-9-release-time-edt-pdt-utc/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/marvel-rivals-season-9-release-times.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T21:36:58+00:00"
-  },
-  {
     "title": "Burnham's last potential rival Al Carns rules out leadership bid",
     "description": "Carns's said a leadership contest was \"not the best use of Labour's time\" and \"we need to get on board\" with Burnham.",
     "link": "https://www.bbc.co.uk/news/articles/cy9rzelexqlo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc0c/live/ccb67030-7b04-11f1-9742-ddd4bea925d0.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc5/live/f3f7a6d0-7b5b-11f1-9510-1546718f668b.jpg",
     "pubDate": "2026-07-08T21:31:00+00:00"
   },
   {
-    "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion",
-    "description": "SpaceX's record IPO raised a total of $85.7 billion after underwriters exercised the \"greenshoe\" overallotment.",
-    "link": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108321372-1781290329252-gettyimages-2280581263-AFP_B6X34BX.jpeg?v=1781290362&w=1920&h=1080",
-    "pubDate": "2026-07-08T21:10:47+00:00"
+    "title": "MenB vaccine offers men no protection from gonorrhoea, claims major study",
+    "description": "The Meningitis B vaccine does not prevent gonorrhoea infections despite being offered to at-risk men, scientists say.",
+    "link": "https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefb/live/ad332400-7ae7-11f1-9a9c-53fd8f110370.jpg",
+    "pubDate": "2026-07-08T21:06:53+00:00"
   },
   {
-    "title": "UK heatwave spreads further north and west as temperatures continue to climb",
-    "description": "This year's third heatwave is one of the longest lasting heatwaves since the infamous year of 1976.",
-    "link": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d677/live/7a0b4f20-7aca-11f1-b541-536d253827b8.jpg",
-    "pubDate": "2026-07-08T20:34:56+00:00"
-  },
-  {
-    "title": "World of Warcraft's divisive change to combat addons is here to stay",
-    "description": "The director of Blizzard's MMO doubles down on WoW: Midnight's most controversial feature",
-    "link": "https://www.polygon.com/world-of-warcraft-director-midnight-add-on-removal/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/midnight-_-intercession-cinematic-_-world-of-warcraft-0-30-screenshot.jpeg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T20:34:41+00:00"
+    "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
+    "description": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
+    "link": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd18/live/6993ef10-7b0d-11f1-bee8-53ce494e1abc.jpg",
+    "pubDate": "2026-07-08T20:58:10+00:00"
   },
   {
     "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
@@ -287,39 +441,11 @@
     "pubDate": "2026-07-08T20:29:10+00:00"
   },
   {
-    "title": "U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal",
-    "description": "Centcom said it launched dozens of strikes on Iranian military infrastructure and small boats; Trump said the U.S. might take more military action \"tonight.\"",
-    "link": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108332197-1783535732268-108332197-1783527715517-gettyimages-2284651945-AA_08072026_2875826.jpeg?v=1783535772&w=1920&h=1080",
-    "pubDate": "2026-07-08T20:28:12+00:00"
-  },
-  {
-    "title": "Dune 3's new trailer teases big changes from the books",
-    "description": "Denis Villeneuve's third Dune movie may be the biggest departure from its source material yet.",
-    "link": "https://www.polygon.com/dune-part-3-trailer-changes-from-book/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dun3-t2-0063.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T20:26:58+00:00"
-  },
-  {
-    "title": "License to Make Patriot Missiles Could Help Ukraine Defend Against Russia",
-    "description": "With Patriot interceptors in short supply, President Trump’s statement that he would allow Ukraine to build them is a boon to Kyiv as it fights off Russian missile attacks. But it is just the start.",
-    "link": "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-08T20:07:35+00:00"
-  },
-  {
-    "title": "X-Men '97 kills a major character — here's what it means",
-    "description": "There's a lot of precedent for seemingly dead member of the X-Men to return, especially when Apocalypse is involved.",
-    "link": "https://www.polygon.com/x-men-97-death-season-2-episode-4-explained/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/xmen97s2_203_1030_r.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T20:01:20+00:00"
-  },
-  {
-    "title": "As U.S.-Iran Cease-Fire Frays, Trump Faces a Muddled War and Unpalatable Options",
-    "description": "The president appears to be confronting the consequences of a cease-fire deal cobbled together in haste, with little movement toward resolving the key issues driving the conflict.",
-    "link": "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-08T19:31:19+00:00"
+    "title": "Wimbledon thought it had seen everything - then Fery arrived",
+    "description": "Wimbledon has witnessed some extraordinary days on Centre Court - but British wildcard Arthur Fery reaching the semi-finals is among the very best.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cm2dgm39mz6o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b876/live/61c9fed0-7b64-11f1-936a-038dbfe02d14.jpg",
+    "pubDate": "2026-07-08T19:40:38+00:00"
   },
   {
     "title": "Your Loyalty To Sony Or Xbox Means Nothing, Analyst Says",
@@ -336,53 +462,11 @@
     "pubDate": "2026-07-08T19:25:41+00:00"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "pubDate": "2026-07-08T19:22:58+00:00"
-  },
-  {
     "title": "Over 220,000 People Petition Sony Not To Kill Physical PlayStation Game Discs",
     "description": "As Sony plans to kill all PlayStation disc production in January 2028, a Canadian retailer has done what everyone was probably thinking of doing: urging the company to change its mind with a petition that's garnered over 220,000 signatures. PNP Games is an independent retailer based in Canada that started in 2005 by selling games on eBay. Since then, it opened three locations around Canada, becoming a budding business that supplies its customers with everything from home goods like art and drinkware to gaming products such as controllers and consoles. Think GameStop but make it Canadian. On July 1, just as Sony announced its plans to end disc production of all new PlayStation games in 2028, PNP Games started a petition called Don't Kill the Disc. The mission statement is simple: \"Sign to tell Sony to keep disc-based games alive beyond 2028, so the next generation can own the games they play, not just rent them,\" per the Change.org petition page. \"If we do not speak up now, the disc disappears, and the choice goes with it.\" Since starting the petition, over 220,000 people have signed the appeal, essentially telling Sony that physical media is important to not just gamers but entertainment enthusiasts as a whole. In a July 6 IGN interview, PNP Games CEO Jade Pearce spoke about how vital physical media is for businesses and consumers. \"Physical games support an entire industry that an all-digital future quietly erases: retailers, distributors, manufacturers, warehousing and logistics, the pre-owned and trade-in market, and the collector and preservation community,\" Pearce said. \"That is thousands of jobs and countless small businesses. Ending physical media removes consumer choice, weakens local economies, and hands a few platform holders total control over how, and whether, you can access the games you buy.\" This sentiment is echoed in the petition's messaging as well. PNP Games noted that the death of physical media is \"about jobs\" as much as it is about the disc being \"a real game\" that you own, share, resell, trade, collect, gift, and pass down to your kids. An all-digital future puts the very idea of ownership in a precarious spot, which is what PNP Games hopes to change Sony's mind on with the Don't Kill the Disc petition. \"We are not against digital,\" Pearce wrote on the petition's page. \"We are against digital being the only option. A large and passionate community still wants a real, physical game they own outright, and Sony is about to take that choice away.\" GameSpot has reached out to PNP Games for comment and will update this story when we hear back. You can imagine what the comments have been on the petition. Many of the signatories said Sony's decision weighs heavily on whether they'll buy PlayStation products going forward. Others took to calling the company consumer-unfriendly, stating they feel like Sony is taking advantage of the goodwill it built over the years. And quite a few mentioned that, if we're being hurtled toward an all-digital future, they might as well buy a PC. The internet--and the signers of the petition--have a lot to say about what Sony's doing.",
     "link": "https://www.gamespot.com/articles/over-220000-people-petition-sony-not-to-kill-physical-playstation-game-discs/",
     "thumbnail": "",
     "pubDate": "2026-07-08T19:20:43+00:00"
-  },
-  {
-    "title": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
-    "description": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
-    "link": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-understanding-mica-token-types-a-complete-guide-3.jpg",
-    "pubDate": "2026-07-08T19:14:15+00:00"
-  },
-  {
-    "title": "Marvel Rivals may have solved season 9's Apocalypse murder mystery",
-    "description": "NetEase Games teased Marvel Rivals' next big villain for season 10 with Apocalypse's murder, but fans have already figured it out: Gorr did it.",
-    "link": "https://www.polygon.com/marvel-rivals-season-10-apocalypse-mystery-leaks-gorr-god-butcher/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/apocalypse-murdered-cropped.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T19:09:58+00:00"
-  },
-  {
-    "title": "Pragmata speedrun completed in under 80 minutes during Games Done Quick 2026",
-    "description": "Pragmata made its speedrunning debut at Summer Games Done Quick with a thrilling run that showed off its high-skill tricks.",
-    "link": "https://www.polygon.com/pragmata-speedrun-summer-games-done-quick/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/pragmata-dad-game.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T19:00:22+00:00"
-  },
-  {
-    "title": "Stephen King's original Pet Sematary is free to stream on Pluto TV",
-    "description": "Pluto TV has the Stephen King film Pet Sematary, which King himself wrote the screenplay for. This zombie movie is a great blend of scary and corny.",
-    "link": "https://www.polygon.com/pet-semetary-stephen-king-free-streaming-on-pluto-tv/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/msdpese_ec009.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T19:00:22+00:00"
-  },
-  {
-    "title": "Fallout New Vegas devs are finally making a new Fallout RPG",
-    "description": "The makers of the critically acclaimed spinoff, Fallout New Vegas, are returning to Bethesda's franchise with a new post-apocalyptic game",
-    "link": "https://www.polygon.com/new-fallout-game-xbox-obsidian-entertainment-bethesda/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/fallout-new-vegas.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T18:59:58+00:00"
   },
   {
     "title": "Xbox Kills Obsidian’s Avowed Sequel In The Wake Of Layoffs – Report",
@@ -399,13 +483,6 @@
     "pubDate": "2026-07-08T18:55:23+00:00"
   },
   {
-    "title": "Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over?",
-    "description": "Bitcoin hovered around the $62,000 mark following a spike in oil prices, escalating hot war in Iran and traders’ move to cut risk ahead of a Federal Reserve policy statement.",
-    "link": "https://cointelegraph.com/markets/bitcoin-peels-back-to-62k-as-fed-wary-futures-traders-cut-risk-is-the-btc-rally-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-70719-bitcoin-golden-cross-due-in-days-as-bears-draw-a-line-at-47k-btc-price.jpg",
-    "pubDate": "2026-07-08T18:41:25+00:00"
-  },
-  {
     "title": "Love And Deepspace Drama Continues As Chinese Government Indicates New Love Interest Is Gone For Good",
     "description": "Regardless of if you play the action-packed dating-sim or not, you've probably heard a bit about the intense controversy surrounding Love and Deepspace recently. And no, it somehow has nothing to do with its spicy content or gacha-style gameplay. Instead, it revolves around the introduction--and quick cancellation--of Valko, the game's sixth love interest. There's been a new development in the ongoing drama, and it doesn't look good for all the fans who have been petitioning for developer Papergames to bring Valko back. Per Kotaku, Papergames has announced it is pulling Love and Deepspace's booth from BilliBilli World 2026, one of Asia's largest anime and gaming conventions. This somewhat makes sense considering how profoundly his absence was felt at last week's Anime Expo, in which an entire booth that was originally reserved for a Valko cosplayer was left vacant. However, the exact phrasing, written below by cross-referencing numerous translations, is concerning: \"Recently, the game Love and Deepspace has attracted widespread attention from all sectors of society, causing significant distress to all players and creating a negative impact. We are deeply remorseful. We have no excuses, and must profoundly reflect, confront our own issues, and take responsibility. We solemnly offer our sincerest apologies to everyone!\"We sincerely accept all criticism and corrections regarding the problems exposed this time, and will not shirk our responsibilities,\" Papergames continued. \"We will conduct comprehensive personnel training, self-examination, and rectification, using reverence for history, protection of national sentiment, and inheritance of Chinese culture as our benchmark.\" While this reference to protecting \"national sentiment\" and using Chinese culture as a \"benchmark\" seem innocuous--respectful, even--the story continues. Since news of Valko's removal surfaced, a battle perceived as being between Chinese Love and Deepspace fans--who overwhelming do not want Valko in the game--and Western audiences, who do, has ensued. Across social media, Chinese fans have shared posts that seem to indicate there are primarily three reasons Valko should not be in the game: 1) He's taking away attention that desperately needs to be spent on the game's main story and already-existing love interests, 2) His appearance goes against Chinese beauty standards, and 3) Valko's promotion slogans, which included \"What's wrong with letting a wolf into the house?\" could be perceived as condoning trespassing and sexual assault. Shortly after Papergames announcement it would not be attending BilliBilli World 2026, the Chinese government made its own post latching on to the third of these points. \"Recently, an online game targeting female players has sparked widespread controversy. The game features a storyline where the male protagonist breaks into a woman's home late at night, accompanied by offensive promotional slogans such as, \"What's wrong with letting a wolf into the house?\", packaging the illegal act of trespassing as a romantic encounter. This kind of entertainment-driven, traffic-driven creative work disregards public order and morality, crosses legal boundaries, and may ultimately endanger public safety,\" a representative from the Ministry of Public Security News and Media wrote. The post went on to say that, \"If a game packages such behavior as 'fun interaction,' it may be suspected of promoting and glorifying illegal and criminal methods, which is not only a disregard for the authority of the law but also a blatant transgression against the spirit of the rule of law.\" The writer then cited a 2018 case in which a 15-year-old \"addicted to a violent video game\" murdered his 23-year-old female neighbor as evidence that \"online game content that crosses ethical boundaries can seriously negatively impact the healthy development of teenagers.\" \"As of now, all relevant characters and storylines in the game have been taken offline for rectification, a move that addresses public concerns,\" the post continues. \"However, taking it offline is not the end; deeper reflection is needed. This incident serves as another warning to the industry: Any content production that deliberately blurs the lines of illegality, glorifies dangerous behavior, or undermines public safety will ultimately be subject to legal sanctions and public resistance.\" In short, things are not looking too good for Papergames, which seems to have found itself in a lose-lose-lose situation that is quickly intensifying. With the Chinese government weighing in on the issue--and considering the amount of power it has over the country's media--it seems increasingly unlikely that Papergames will tempt legal action and that Valko will ever resurface. In fact, this raised awareness could lead to more scrutiny towards Love and Deepspace in general, as the game frequently showcases behavior and scenarios that could be perceived as problematic, to borrow one of the internet's favorite words. The game's fifth love interest, Caleb, locks up and interrogates the player's character at one point, while Sylus fulfils all the dark romance tropes we love as the violent head of a criminal organization. It's possible all this attention could have major ramifications for the beloved game, and although the petition to bring back Valko is nearing a 250,000 signatures, I wouldn't count on that being enough at this point.",
     "link": "https://www.gamespot.com/articles/love-and-deepspace-drama-continues-as-chinese-government-indicates-new-love-interest-is-gone-for-good/",
@@ -418,41 +495,6 @@
     "link": "https://www.gamespot.com/articles/fallout-tv-series-lands-10-emmy-nominations-for-season-2-but-actors-get-snubbed/",
     "thumbnail": "",
     "pubDate": "2026-07-08T18:28:53+00:00"
-  },
-  {
-    "title": "Knight of the Seven Kingdoms brings Game of Thrones back to awards season",
-    "description": "A Knight of the Seven Kingdoms marks a return to form for Game of Thrones, which previously set the record for most Emmy wins of all time.",
-    "link": "https://www.polygon.com/game-of-thrones-knight-of-the-seven-kingdoms-emmys-hotd/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/peter-claffey-dexter-sol-ansell-1.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-08T17:56:31+00:00"
-  },
-  {
-    "title": "McConnell health update demanded by Gov. Beshear as Senate vacancy questions grow",
-    "description": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to a hospital on June 14.",
-    "link": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108332076-1783517927698-gettyimages-2276597000-US_SENATE.jpeg?v=1783517951&w=1920&h=1080",
-    "pubDate": "2026-07-08T17:42:25+00:00"
-  },
-  {
-    "title": "British wildcard Arthur Fery through to Wimbledon semi-finals after stunning victory",
-    "description": "British wildcard Arthur Fery will play for a place in the Wimbledon final after extending his sensational run with a stunning victory over Flavio Cobolli.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3d5/live/ebeee040-7aeb-11f1-bee8-53ce494e1abc.jpg",
-    "pubDate": "2026-07-08T17:42:04+00:00"
-  },
-  {
-    "title": "Adam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger",
-    "description": "The Bitcoin Standard Treasury Company and Cantor Equity Partners I announced that they were looking into amending the terms of a 2025 merger deal that “better reflected market conditions.”",
-    "link": "https://cointelegraph.com/news/adam-back-bitcoin-treasury-company-terms-spac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/handshake-agreement-partnership-merger-3.jpg",
-    "pubDate": "2026-07-08T17:31:36+00:00"
-  },
-  {
-    "title": "Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research",
-    "description": "A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized TradFi markets while gaining traction in payments and savings.",
-    "link": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-the-defi-stack-stablecoins-exchanges-synthetics-money-markets-and-insurance-eu.png",
-    "pubDate": "2026-07-08T17:23:19+00:00"
   },
   {
     "title": "Bernie Sanders Rips Microsoft For Xbox Layoffs And Price Hikes",
@@ -490,13 +532,6 @@
     "pubDate": "2026-07-08T15:11:45+00:00"
   },
   {
-    "title": "Police name man wanted over murders of wife and daughters",
-    "description": "An international manhunt is under way for Ndodana Mkhanyisi Tshuma, who left the country via Heathrow Airport.",
-    "link": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1e/live/1ecc43a0-7ad2-11f1-a130-2b898c796aa9.png",
-    "pubDate": "2026-07-08T14:38:47+00:00"
-  },
-  {
     "title": "Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities",
     "description": "The move comes as firms race to build the infrastructure for blockchain-based stocks and debate how tokenized stocks should work.",
     "link": "https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities",
@@ -511,13 +546,6 @@
     "pubDate": "2026-07-08T14:17:26+00:00"
   },
   {
-    "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
-    "description": "The network aims to process over 100,000 transactions per second by streaming them directly, eliminating public queues to make trades faster and more secure.",
-    "link": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c7b0140bc11a7f46205bb4b2e99839d42cd2acfa-1920x1600.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-07-08T14:01:44+00:00"
-  },
-  {
     "title": "How U.S. Satellite Imagery Restrictions Are Changing How We Report on Iran",
     "description": "U.S. satellite image limitations have hampered journalists covering the Iran war. But other sources are offering workarounds, making it harder for militaries to conceal their actions.",
     "link": "https://www.nytimes.com/2026/07/08/insider/iran-war-satellite-image-restrictions.html",
@@ -530,34 +558,6 @@
     "link": "https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108331905-1783498546960-gettyimages-2285163295-wm010087_lqtmactq.jpeg?v=1783510982&w=1920&h=1080",
     "pubDate": "2026-07-08T13:26:53+00:00"
-  },
-  {
-    "title": "Citadel abandons multi-year crypto lawsuit to focus on bankruptcy order against an ex-employee",
-    "description": "After winning a 6 million-pound London arbitration award, Citadel dropped its U.S. trade secrets case, saying another judgment would likely go uncollected.",
-    "link": "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/1714e8872a94d9380695461a6d13ece0e872f77b-1024x700.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-07-08T12:45:30+00:00"
-  },
-  {
-    "title": "SpaceX's first bitcoin wallet movements in six months likely don't signal sales",
-    "description": "Onchain trackers found the newly public company shifted a tiny amount of bitcoin between its own addresses. Nothing reached an exchange.",
-    "link": "https://www.coindesk.com/markets/2026/07/08/spacex-s-first-bitcoin-wallet-movements-in-six-months-likely-don-t-signal-sales",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/249d6c14ac0d44a35751e146929a057c3121b920-3000x2000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-07-08T12:44:27+00:00"
-  },
-  {
-    "title": "Bitcoin's inflation quagmire gets stickier as renewed MidEast conflict sends oil price soaring",
-    "description": "Your day-ahead look for July 8, 2026",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/08/bitcoin-s-inflation-quagmire-gets-stickier-as-renewed-mideast-conflict-sends-oil-price-soaring",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/728f1c4d7d3e3ad57795074a8f7602efad6c0fb7-5636x3170.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-07-08T11:15:42+00:00"
-  },
-  {
-    "title": "Crypto and stocks tumble after Trump declares ceasefire 'over' following Iran strikes",
-    "description": "Bitcoin fell, altcoins slid after Trump said the ceasefire with Iran is \"over\" as U.S. and Iran traded airstrikes.",
-    "link": "https://www.coindesk.com/markets/2026/07/08/crypto-and-stocks-tumble-after-trump-declares-ceasefire-over-following-iran-strikes",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/eeaed39946c9410c300731fdc97d3a830320bfff-1858x984.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "pubDate": "2026-07-08T10:37:10+00:00"
   },
   {
     "title": "The Best Dinnerware Sets, Tested and Reviewed (2026)",
@@ -581,6 +581,62 @@
     "pubDate": "2026-07-07T20:23:00+00:00"
   },
   {
+    "title": "Big Oil's Windfall Earnings Threaten to Reignite Trump's Price-Gouging Push",
+    "description": "",
+    "link": "https://finance.yahoo.com/energy/articles/big-oils-windfall-earnings-threaten-200000293.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/C7D2D021B5FFF384E6E65A94A1883DBEA9C3B61701B1D2DA6E70CC4DB5D322A5/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F0dcc0f3664adf9fc1b0a6854b12ca65b",
+    "pubDate": "2026-07-07T20:00:00+00:00"
+  },
+  {
+    "title": "Is the AI Bubble Really About to Burst? What the Dot-Com Crash Tells Us About Your Money in 2026.",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-really-burst-dot-195604988.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/4061F8F3859851680D429848D2A8195C21A68C814383E5D92719B1A80EE82D7F/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F68e703c3a7ceec6923cfa4542a9ce88b",
+    "pubDate": "2026-07-07T19:56:04+00:00"
+  },
+  {
+    "title": "HSBC Just Issued Wall Street’s Boldest Call on Intel Stock",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-just-issued-wall-street-194027018.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0367F9DEFAC1F3A5FA319CF24633565AFAF25CF0615F34BA0C94F915097793C5/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F2b8bc6bdcf1e2a6585e2052cce9823e2",
+    "pubDate": "2026-07-07T19:40:27+00:00"
+  },
+  {
+    "title": "Dollar Edges Up on Weak Stocks and Crude Oil Strength",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-edges-weak-stocks-crude-193922564.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F544E7C505A392D25B0CE085BB6A3A48E132E33FB2F24711AAB4D12F7064A475/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F2c2f5b83145598d80c022d2c80d7d9cb",
+    "pubDate": "2026-07-07T19:39:22+00:00"
+  },
+  {
+    "title": "Crude Oil Prices Sharply Higher on Supply Disruptions",
+    "description": "",
+    "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-higher-192156873.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/3F861D25C9A9873F5160B8F1FD4793761131F73BB448FAD4690681906DA8557E/subgraphmysterio/resizefill_w1200_h767;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb38318330c92ac93a081252350c20f53",
+    "pubDate": "2026-07-07T19:21:56+00:00"
+  },
+  {
+    "title": "Nat-Gas Prices Climb on Carryover Support from European Nat-Gas",
+    "description": "",
+    "link": "https://finance.yahoo.com/energy/articles/nat-gas-prices-climb-carryover-192047704.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/25281E2CE413F5E5CB02B7F2273C057D169BE4EC3F22126C9371A58ADAE7418D/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F8ac3262311507eb4485570fa7ba26166",
+    "pubDate": "2026-07-07T19:20:47+00:00"
+  },
+  {
+    "title": "The New AI Revolution Is Here: Buy These 3 Stocks Before They Surge",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-revolution-buy-3-stocks-192000835.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/9B0C645C29FACC3C671AC80FB595D6DD8761B9E8558C3BA33EEC91B02A00D5CF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F67b23c604a1bd5f2e39ebc9a06300a88",
+    "pubDate": "2026-07-07T19:20:00+00:00"
+  },
+  {
+    "title": "Dow Jones Payments Leader Visa Breaks Out; Arista Networks Eyes Buy Point",
+    "description": "",
+    "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-visa-stock-v-buy-zone-investing-markets/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2017/10/stock-visa-01-shutter.jpg",
+    "pubDate": "2026-07-07T19:18:46+00:00"
+  },
+  {
     "title": "The Best Wine Glasses for Everyday Drinking and Special Occasion Bottles (2026)",
     "description": "From everyday universals to beautiful crystal for your fanciest pours, here’s the stemware you need—and the stemware you don’t.",
     "link": "https://www.bonappetit.com/story/best-wine-glasses",
@@ -595,67 +651,11 @@
     "pubDate": "2026-07-07T18:02:29+00:00"
   },
   {
-    "title": "DHL Group raises earnings forecast after pre-tax income jumps 29%",
+    "title": "Mortgage &amp; refinance interest rates today, Tuesday, July 7: Rates moving lower",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/dhl-group-raises-earnings-forecast-161700693.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/6CB763AB5DECCC6E148065FC305A7F5830A8E3128C69A2CD89A35529C98193E8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F8744465eda96c749b1a08371f3adcb22",
-    "pubDate": "2026-07-07T16:17:00+00:00"
-  },
-  {
-    "title": "The Micron Stock Rally Is Far From Over. Here’s Why Bulls See $2,200 for MU Next.",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-rally-far-over-161235310.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/CE3EF5A086434053C2CF85F0304149255CC1D57B4182FD22EF42260923161634/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb3f702a9023bce76e94a3d700612e681",
-    "pubDate": "2026-07-07T16:12:35+00:00"
-  },
-  {
-    "title": "Behind the Grain Rally: Real Commercial Demand or Just Headline Noise?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/behind-grain-rally-real-commercial-161148447.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/D0818117B1C09D8CC065858B1CB91828C135063544E3D68FAC363263CA38484D/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Ffa7422837399be466c52b6a193877941",
-    "pubDate": "2026-07-07T16:11:48+00:00"
-  },
-  {
-    "title": "Earnings Preview: What To Expect From Prudential Financial's Report",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-prudential-financials-160130283.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/FE511569295219DD0AB5B4B6F070078F58E3F0A0DEA86F8DE41F38B31B9649F4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fd54ebff361c152a1853d79951ca5e196",
-    "pubDate": "2026-07-07T16:01:30+00:00"
-  },
-  {
-    "title": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric",
-    "description": "",
-    "link": "https://finance.yahoo.com/technology/article/anthropic-says-customers-are-using-claude-cowork-for-the-work-around-work-as-ai-companies-soften-job-loss-rhetoric-160000661.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/4CD6F851B4C1ADA80A7A461ABD6DF30FF41B4D279577B166E69CEC603BB11BDC/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcowork-web-mobile-press-claude-logo-1920x1080_1458.png",
-    "pubDate": "2026-07-07T16:00:00+00:00"
-  },
-  {
-    "title": "A $2.5 Million Nest Egg at 62 Only Buys $46,000 of Real Spending",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/articles/2-5-million-nest-egg-155608666.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/02EC8D96EEEC44CE5FE62E4FBEB677D134D766747E659CA1B7FF1500445E0F45/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fa431202fd165f646b95ee2f7def340dc",
-    "pubDate": "2026-07-07T15:56:08+00:00"
-  },
-  {
-    "title": "US billionaires grew $1.5 trillion richer under Trump, up 22%. Here's how to follow their lead and build your own wealth",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-billionaires-grew-1-5-155500595.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/A394E9293A4B9F3138F6E1D88248B80A42F22F2EDDAE4587754FE22BC53F3276/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F57ca7b2a7d577d7b93923f466fcc3f66",
-    "pubDate": "2026-07-07T15:55:00+00:00"
-  },
-  {
-    "title": "How Adobe Stock Could Benefit From AI Disruption",
-    "description": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/adobe-stock-could-benefit-ai-155123750.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F434446788BDCA2C77789AF360291B81A6A9845A8308B6D24E60BC06F47C1CEC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F218d1eb678443b48222d7ef3ca6a3e80",
-    "pubDate": "2026-07-07T15:51:23+00:00"
-  },
-  {
-    "title": "The Nasdaq-100 Could Be Forming a Textbook Diamond Top. Here's What to Watch on the QQQ Chart Now.",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-could-forming-textbook-154718597.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/6E09443EBA63321C681B2E14D3D86CB3D0B0063FBA1491786F9CDC938E24DAF0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F2e30b0c28d8aafbb12655059a197a218",
-    "pubDate": "2026-07-07T15:47:18+00:00"
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-7-rates-moving-lower-100000320.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/159D556EAE2D846642B1F6F59E1241C933C672694FB94D6353575B1D2433698B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F700e25a0-fb43-11ee-be6b-a40c5cf2631a",
+    "pubDate": "2026-07-07T10:00:00+00:00"
   },
   {
     "title": "The Best Stand Mixers, Judged by Our Expert Testers (2026)",
