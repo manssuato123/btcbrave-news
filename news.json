@@ -1,5 +1,75 @@
 [
   {
+    "title": "YouTube still recommending eating disorder videos to teens, research finds",
+    "description": "The site is continuing to recommend harmful videos despite new rules meant to better protect teenagers in the UK, a study finds.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzn2g0xw9o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de31/live/9bb93260-7d2a-11f1-b976-0b9c15b0ccfc.jpg",
+    "pubDate": "2026-07-13T23:05:00+00:00"
+  },
+  {
+    "title": "No significant rain forecast for at least a week as UK heatwave continues",
+    "description": "Heat has been this big story of the summer so far but there has also been a lack of wet weather, as Ben Rich explains.",
+    "link": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5737/live/5693fd90-7eac-11f1-a302-011524d23ac9.jpg",
+    "pubDate": "2026-07-13T23:02:25+00:00"
+  },
+  {
+    "title": "The secretive crypto firm backed by Farage's biggest donor",
+    "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae0/live/c36317c0-7ef3-11f1-83a7-0959f8cc10cc.jpg",
+    "pubDate": "2026-07-13T23:00:59+00:00"
+  },
+  {
+    "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+    "description": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare\" fund that has since been scrapped.",
+    "link": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108332588-1783589607833-gettyimages-2285302450-wm020381_rmjhx8dg.jpeg?v=1783589691&w=1920&h=1080",
+    "pubDate": "2026-07-13T22:52:19+00:00"
+  },
+  {
+    "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+    "description": "The US military later said it had started the third consecutive night of strikes on Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
+    "pubDate": "2026-07-13T22:47:52+00:00"
+  },
+  {
+    "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
+    "description": "The Strait of Hormuz is a major oil shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+    "link": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328334-17827616532026-06-29t193125z_2021591577_rc2v3ma801s8_rtrmadp_0_usa-trump.jpeg?v=1783961713&w=1920&h=1080",
+    "pubDate": "2026-07-13T22:24:15+00:00"
+  },
+  {
+    "title": "Trump’s Cease-Fire Effectively Collapses as He Vows to Restart Blockade and Tolls",
+    "description": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
+    "link": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-13T22:20:27+00:00"
+  },
+  {
+    "title": "ICE Shot Lorenzo Salgado Araujo Through Open Passenger Window in Houston, Witnesses Say",
+    "description": "A congresswoman and a lawyer relayed witness accounts that diverge from Immigration and Customs Enforcement’s version of the fatal encounter.",
+    "link": "https://www.nytimes.com/2026/07/13/us/houston-ice-shooting-video-witnesses.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-13T22:13:47+00:00"
+  },
+  {
+    "title": "Lindsey Graham’s Death Transforms the Race for His Democratic Challenger",
+    "description": "Annie Andrews, a pediatrician, has offered condolences to those who loved Mr. Graham while considering the political fallout from his death. Republicans are scrambling to arrange a new primary election.",
+    "link": "https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-13T22:11:22+00:00"
+  },
+  {
+    "title": "Trump to claim declassified intel reveals 2020 election interference: MS NOW",
+    "description": "Trump said he will make a \"Speech to the Nation on Thursday evening, at 9 P.M. Eastern,\" without providing further details.",
+    "link": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108334223-17839664592026-07-13t180657z_514593739_rc26dmayshk1_rtrmadp_0_usa-trump.jpeg?v=1783966478&w=1920&h=1080",
+    "pubDate": "2026-07-13T22:09:22+00:00"
+  },
+  {
     "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
     "description": "The shooting occurred in Biddeford, south of Portland. It was the second death in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.",
     "link": "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html",
@@ -14,27 +84,6 @@
     "pubDate": "2026-07-13T21:51:38+00:00"
   },
   {
-    "title": "Hamas Forces Interfered With Aid Distribution, U.N. Says",
-    "description": "A raid by armed personnel led the World Food Program to suspend its operations in one part of Gaza, the U.N. said. Hamas disputed the accusations.",
-    "link": "https://www.nytimes.com/2026/07/13/world/middleeast/un-says-hamas-forces-interfered-with-aid-distribution-at-a-gaza-site.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-13T21:47:55+00:00"
-  },
-  {
-    "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-    "description": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-    "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
-    "pubDate": "2026-07-13T21:46:06+00:00"
-  },
-  {
-    "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
-    "description": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare\" fund that has since been scrapped.",
-    "link": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108332588-1783589607833-gettyimages-2285302450-wm020381_rmjhx8dg.jpeg?v=1783589691&w=1920&h=1080",
-    "pubDate": "2026-07-13T21:45:33+00:00"
-  },
-  {
     "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
     "description": "Reed Smith’s Aquarius platform automates regulatory filings and legal workflows as demand for MiCA compliance tools grows across Europe.",
     "link": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -47,13 +96,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa6f/live/426291a0-7ec1-11f1-bee8-53ce494e1abc.jpg",
     "pubDate": "2026-07-13T21:26:28+00:00"
-  },
-  {
-    "title": "Lindsey Graham’s Death Transforms the Race for His Democratic Challenger",
-    "description": "Annie Andrews, a pediatrician, has offered condolences to those who loved Mr. Graham while considering the political fallout from his death. Republicans are scrambling to arrange a new primary election.",
-    "link": "https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-13T21:13:29+00:00"
   },
   {
     "title": "Burnham cements Labour leadership with backing of 349 MPs",
@@ -91,13 +133,6 @@
     "pubDate": "2026-07-13T20:45:51+00:00"
   },
   {
-    "title": "Trump to claim declassified intel reveals 2020 election interference: MS NOW",
-    "description": "Trump said he will make a \"Speech to the Nation on Thursday evening, at 9 P.M. Eastern,\" without providing further details.",
-    "link": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108334223-17839664592026-07-13t180657z_514593739_rc26dmayshk1_rtrmadp_0_usa-trump.jpeg?v=1783966478&w=1920&h=1080",
-    "pubDate": "2026-07-13T20:40:18+00:00"
-  },
-  {
     "title": "Best tactics RPGs to play like Fire Emblem: Fortune's Weave",
     "description": "Tactics RPGs including Mario + Rabbids, Triangle Strategy, and the Banner Saga offer tactical gameplay in the lead up to Fire Emblem: Fortune's Weave.",
     "link": "https://www.polygon.com/best-games-like-fire-emblem-fortunes-wave/",
@@ -119,13 +154,6 @@
     "pubDate": "2026-07-13T20:27:47+00:00"
   },
   {
-    "title": "Trump Administration Announces New Attack on the International Criminal Court",
-    "description": "Secretary of State Marco Rubio said that the United States will “dismantle” the international court that tries grave crimes “brick by brick, if necessary.”",
-    "link": "https://www.nytimes.com/2026/07/13/us/politics/trump-international-criminal-court.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-13T20:23:16+00:00"
-  },
-  {
     "title": "Disney's D23 fan event to feature big Kingdom Hearts 'deep dive'",
     "description": "Kingdom Hearts 4 news and a rumored Fortnite crossover could be revealed at Disney's D23 fan event.",
     "link": "https://www.polygon.com/kingdom-hearts-anniversary-fortnite-d23-kh4-square-enix/",
@@ -138,13 +166,6 @@
     "link": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b36b75d01d091c23de67fe9b5ef996a83c4ad96d-742x418.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-07-13T20:15:29+00:00"
-  },
-  {
-    "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
-    "description": "The Strait of Hormuz is a major oil shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
-    "link": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328334-17827616532026-06-29t193125z_2021591577_rc2v3ma801s8_rtrmadp_0_usa-trump.jpeg?v=1783961713&w=1920&h=1080",
-    "pubDate": "2026-07-13T20:15:22+00:00"
   },
   {
     "title": "Mahmood says law will be changed to help deport grooming gang leader",
@@ -329,18 +350,18 @@
     "pubDate": "2026-07-13T18:28:04+00:00"
   },
   {
-    "title": "Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?",
-    "description": "Some tech executives are nervous that the administration’s recent scrutiny of artificial intelligence models could be a prelude to a demand for an ownership stake.",
-    "link": "https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-13T18:18:01+00:00"
-  },
-  {
     "title": "Spaghett Recipe: An Easy 3-Ingredient Aperol-Beer Cocktail",
     "description": "It’s like the laid-back cousin of an Aperol Spritz.",
     "link": "https://www.bonappetit.com/story/wet-city-brewing-spaghett",
     "thumbnail": "https://assets.bonappetit.com/photos/5d38977dd1ff8500097df7d8/master/pass/HR-Miller-Spritz-Drink-Wet-City.jpg",
     "pubDate": "2026-07-13T18:15:09+00:00"
+  },
+  {
+    "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
+    "description": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
+    "link": "https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-13T18:00:46+00:00"
   },
   {
     "title": "Cousin, Where’s The GTA 4 Remaster? Roman Bellic Actor Wants Answers",
@@ -411,13 +432,6 @@
     "link": "https://cointelegraph.com/news/us-senate-session-plans-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-trump.jpg",
     "pubDate": "2026-07-13T16:27:43+00:00"
-  },
-  {
-    "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-    "description": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e86/live/076e2020-7ec9-11f1-af40-3101fe5a127d.jpg",
-    "pubDate": "2026-07-13T16:19:15+00:00"
   },
   {
     "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
@@ -532,13 +546,6 @@
     "pubDate": "2026-07-13T13:08:49+00:00"
   },
   {
-    "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-    "description": "The actor built up a long string of screen credits over a five-decade career.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea5/live/c04458f0-7eae-11f1-a302-011524d23ac9.jpg",
-    "pubDate": "2026-07-13T12:10:38+00:00"
-  },
-  {
     "title": "UK tokenization push could add as much as $44B to annual output by 2035: Report",
     "description": "The government-backed roadmap calls for the UK’s first digital gilt by early 2027 and seeks to make tokenized bonds usable for trading and borrowing.",
     "link": "https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -553,13 +560,6 @@
     "pubDate": "2026-07-13T11:36:00+00:00"
   },
   {
-    "title": "Heatwave to intensify in second week as wildfires burn across UK",
-    "description": "After a brief drop in temperature many areas will see heat and humidity build again this week",
-    "link": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e3f/live/2e5e4370-7ec6-11f1-b976-0b9c15b0ccfc.jpg",
-    "pubDate": "2026-07-13T10:04:04+00:00"
-  },
-  {
     "title": "This is how rich SpaceX workers are after the IPO",
     "description": "",
     "link": "https://finance.yahoo.com/markets/stocks/articles/rich-spacex-workers-ipo-143700468.html",
@@ -567,66 +567,66 @@
     "pubDate": "2026-07-12T14:37:00+00:00"
   },
   {
+    "title": "Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nabors-industries-ltd-nbr-top-142403732.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/6538C6DCC80D74FFA379C636F6CC6C065A36F49E04857E2D1148C3FBEB14144D/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F526f61194a7af8782131e15778bacf1a",
+    "pubDate": "2026-07-12T14:24:03+00:00"
+  },
+  {
+    "title": "Crescent Energy Company (CRGY) Is A Top Stock In Miller Value Partners’ Filings",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-company-crgy-top-142340318.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/3C8FC2858B38BC4ECDF044810EC33F1A46714392FFBE25E9DE054590F65B7180/subgraphmysterio/resizefill_w1200_h924;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F333c3048829bf721bed46d336ee0af0b",
+    "pubDate": "2026-07-12T14:23:40+00:00"
+  },
+  {
+    "title": "Gray Media, Inc. (GTN) Is A Top Stock To Buy According To Miller Value Partners",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/gray-media-inc-gtn-top-142333672.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/4D107792426BB8EEA1040984367F18DD1AD10AE0D27A710427C633497481F0E4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4a811374fa363eaf0960a52f8fde9271",
+    "pubDate": "2026-07-12T14:23:33+00:00"
+  },
+  {
+    "title": "Should You Buy Lincoln National Corporation (LNC)’s Shares?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-lincoln-national-corporation-lnc-142326811.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/A740A7921A85C1249198F42F1A6282A7B4E540CFFBA929AD161F5165E5843DD1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F503b27da6f7cff6d6eb3d75867d5d463",
+    "pubDate": "2026-07-12T14:23:26+00:00"
+  },
+  {
+    "title": "Bread Financial Holdings, Inc. (BFH) Is A Top Stock In Miller Value Partners’ Filings",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bread-financial-holdings-inc-bfh-142315738.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/6993A50513E55AE9A9AD508CACA1EDFB3DBBFFC585CCEF92E3E42632C31FB004/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F052b065ee41fda8484a8885b5284fb72",
+    "pubDate": "2026-07-12T14:23:15+00:00"
+  },
+  {
+    "title": "Should You Buy USA TODAY Co., Inc. (TDAY)’s Shares?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-usa-today-co-inc-142308475.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/D8DBAE83BF0898A237C6476CA86B1777A01BFF5D7C96C8244E9006F4DF7FED9A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F611bb833552cde88c66fc349ef31946e",
+    "pubDate": "2026-07-12T14:23:08+00:00"
+  },
+  {
+    "title": "United Parcel Service, Inc. (UPS) Is A Top Stock In Miller Value Partners’ Filings",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-inc-ups-top-142255427.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F6A99CCFE279800A1B2AEE0F638EE88B08A05D849C53E0502C2D269C03E5CEE4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6aabae116163b659e9743e573f89a03f",
+    "pubDate": "2026-07-12T14:22:55+00:00"
+  },
+  {
+    "title": "Should You Buy Bloomin’ Brands, Inc. (BLMN)’s Shares?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-bloomin-brands-inc-blmn-142248040.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/61DD86FC0287D0B3C66765D49232688F9DA0BE1FB57BBF8C769CAD993CB36CA3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa99ac3909649524d2fbed79dead27451",
+    "pubDate": "2026-07-12T14:22:48+00:00"
+  },
+  {
     "title": "Mark Cuban has strong words on AI companies and job losses",
     "description": "",
     "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-strong-words-ai-140700495.html",
     "thumbnail": "https://s.yimg.com/lo/mysterio/api/CA4EE117B8B6C8FA899304AA04B702D276EDBC11BC359D933BF61B76CC8621E8/subgraphmysterio/resizefill_w1200_h844;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Ff3b9183208dfd1354ac0c0a462c3aa5a",
     "pubDate": "2026-07-12T14:07:00+00:00"
-  },
-  {
-    "title": "Nvidia Stock Has Been Flat, But NVDA Price Targets are Higher - Shorting Puts Works",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/nvidia-stock-flat-nvda-price-133002981.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/97F0E7D5063BCA2E07EE5B14F9CC23276CD70745F7939BB7D4ED4215ED9267E6/subgraphmysterio/resizefill_w1200_h788;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F337ef2aa4ebd8d00907733852db3f778",
-    "pubDate": "2026-07-12T13:30:02+00:00"
-  },
-  {
-    "title": "Why Analysts Still See Big Upside for Micron Stock After Its Massive Rally",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-see-big-130002524.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/CE3EF5A086434053C2CF85F0304149255CC1D57B4182FD22EF42260923161634/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb3f702a9023bce76e94a3d700612e681",
-    "pubDate": "2026-07-12T13:00:02+00:00"
-  },
-  {
-    "title": "Coursera Stock Can Rally from Oversold Levels on Merger Synergies",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/coursera-stock-rally-oversold-levels-130002138.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/404456ECF65F4955F8F43CA69BB7927FF3E44A1F25A38EBCAA6122A858DAEEA2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F43d435805a88b91c182ac9070ff1d6fd",
-    "pubDate": "2026-07-12T13:00:02+00:00"
-  },
-  {
-    "title": "IBM Just Unveiled Major Updates to Its Bob AI Platform. How to Play IBM Stock Here.",
-    "description": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ibm-just-unveiled-major-updates-130002103.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/1E8C080AAB5FF7E96E366D27A403FB5386E266AFAF9CF250B9666C706871485C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F5e8f936c3140d7b4b2c375470b4a7378",
-    "pubDate": "2026-07-12T13:00:02+00:00"
-  },
-  {
-    "title": "Banks collected $12 billion in overdraft fees in 2025 after Congress reversed the $5 cap — here's how to avoid them",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/banks-collected-12-billion-overdraft-130000476.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/7BB27A187FF00B187E4A9AC07ED8AD574B36CB5577D718799C22C85C6A4FE65D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fcb08e23a97ddb207ea9cca2c8ed5fff5",
-    "pubDate": "2026-07-12T13:00:00+00:00"
-  },
-  {
-    "title": "$800K in savings and a job loss at 64 — a financial planner explains how to know if you can afford to retire",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/articles/800k-savings-job-loss-64-123000139.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/010F3D144DB6F68C803EE9E64D354D4E40C57F8047F03EBA7FC9DB0B4EF349CA/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F11f773ad4b10d12f928cbdf505185c61",
-    "pubDate": "2026-07-12T12:30:00+00:00"
-  },
-  {
-    "title": "US boomers should probably stop paying cash for their cars. Why a big ‘financial flex’ costs you thousands of dollars",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/articles/us-boomers-probably-stop-paying-121500193.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/306B6F59D1B25282D2DCA8186A4F3AE0C244D3FB34E523D6783F15D6A30934BF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F95377e3ff3b63b5b73ac26ae439dc767",
-    "pubDate": "2026-07-12T12:15:00+00:00"
-  },
-  {
-    "title": "Why Credo Technology (NASDAQ:CRDO) Is Emerging as a Leading AI Connectivity Play Across Copper and Optical Networking",
-    "description": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/why-credo-technology-nasdaq-crdo-121332702.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0382D1E6D463A788AE32904E7C737EF8F198D80FB3144E3C99EBFEE0C1B36A9A/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F26b271f9e89b87fafe7fcdf53e8458d7",
-    "pubDate": "2026-07-12T12:13:32+00:00"
   }
 ]
