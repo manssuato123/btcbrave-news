@@ -1,17 +1,87 @@
 [
   {
-    "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
-    "description": "Oracle will supply on-premises software to the U.S. Department of Defense.",
-    "link": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108339513-1784838713932-gettyimages-2194583400-AFP_36V924J.jpeg?v=1784838824&w=1920&h=1080",
-    "pubDate": "2026-07-23T21:26:21+00:00"
-  },
-  {
     "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
     "description": "Intel rallied after the company reported blowout earnings and guidance.",
     "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
-    "pubDate": "2026-07-23T21:25:26+00:00"
+    "pubDate": "2026-07-23T22:17:09+00:00"
+  },
+  {
+    "title": "U.S. Withdraws Subpoenas Issued to New York Times Journalists",
+    "description": "A federal judge raised questions about the government’s handling of the subpoenas, which The Times called an attempt to intimidate the free press.",
+    "link": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-23T22:14:47+00:00"
+  },
+  {
+    "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
+    "description": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
+    "link": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-23T22:03:50+00:00"
+  },
+  {
+    "title": "New Dragon Quest Monsters game reveals its weird new creatures",
+    "description": "Square Enix's catch-'em-all spinoff returns in December, promising plenty of monster collecting hijinks for Dragon Quest fans",
+    "link": "https://www.polygon.com/dragon-quest-monsters-withered-world-new-details/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dqm4_02_07_en_web.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-23T22:00:12+00:00"
+  },
+  {
+    "title": "Kagan Says Supreme Court Has Stood Up to Trump in Key Cases",
+    "description": "At an annual meeting of judges and lawyers, the liberal justice defended her conservative colleagues from criticism that they have rubber-stamped President Trump’s agenda.",
+    "link": "https://www.nytimes.com/2026/07/23/us/politics/elena-kagan-supreme-court-trump.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-23T21:59:39+00:00"
+  },
+  {
+    "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+    "description": "Oracle will supply on-premises software to the U.S. Department of Defense.",
+    "link": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108339513-1784838713932-gettyimages-2194583400-AFP_36V924J.jpeg?v=1784843479&w=1920&h=1080",
+    "pubDate": "2026-07-23T21:56:31+00:00"
+  },
+  {
+    "title": "Trump to Impose Tariffs on More Than 80 Countries",
+    "description": "Also, oil hits $100 a barrel. Here’s the latest at the end of Thursday.",
+    "link": "https://www.nytimes.com/2026/07/23/briefing/trump-impose-tariffs-popcorn-buckets.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-23T21:54:50+00:00"
+  },
+  {
+    "title": "King's Tardis entrance as Commonwealth Games begin",
+    "description": "King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow.",
+    "link": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe9/live/a599bc10-86e3-11f1-a4b5-5bff16c7b9ab.jpg",
+    "pubDate": "2026-07-23T21:53:02+00:00"
+  },
+  {
+    "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+    "description": "The Bitcoin donation can be used to support Donald Trump as a New York court considers whether to reverse a $5 million settlement between the CFTC and Gemini.",
+    "link": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/winklevoss-trump.jpg",
+    "pubDate": "2026-07-23T21:47:39+00:00"
+  },
+  {
+    "title": "US announces tariffs on dozens of countries over forced labour concerns",
+    "description": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg",
+    "pubDate": "2026-07-23T21:46:34+00:00"
+  },
+  {
+    "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+    "description": "The Trump administration has ramped its tariff actions back up since the president's trade agenda suffered major legal setbacks earlier this year.",
+    "link": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108337238-1784547817150-gettyimages-2286821263-ah707285_prdomcki.jpeg?v=1784547850&w=1920&h=1080",
+    "pubDate": "2026-07-23T21:43:10+00:00"
+  },
+  {
+    "title": "PM to spend first day working from northern branch of No 10",
+    "description": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14b9/live/8c842050-86c3-11f1-926f-c90d1bcfbc84.jpg",
+    "pubDate": "2026-07-23T21:31:03+00:00"
   },
   {
     "title": "Big-Batch Old-Fashioned Cocktails Recipe",
@@ -28,18 +98,11 @@
     "pubDate": "2026-07-23T21:17:37+00:00"
   },
   {
-    "title": "US to Impose New Global Tariffs of Around 10% After Previous Duties Lapse",
+    "title": "Trump Administration to Impose New Tariffs of Around 10% on Over 80 Nations",
     "description": "The administration announced new duties tied to countries’ imports of goods made with forced labor, replacing a global 10 percent tariff set to expire at midnight.",
     "link": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
     "thumbnail": "",
     "pubDate": "2026-07-23T21:16:25+00:00"
-  },
-  {
-    "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
-    "description": "The Trump administration has ramped its tariff actions back up since the president's trade agenda suffered major legal setbacks earlier this year.",
-    "link": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108337238-1784547817150-gettyimages-2286821263-ah707285_prdomcki.jpeg?v=1784547850&w=1920&h=1080",
-    "pubDate": "2026-07-23T21:15:31+00:00"
   },
   {
     "title": "Xbox testing ad-supported game streaming in new rollout",
@@ -61,13 +124,6 @@
     "link": "https://www.polygon.com/5-key-takeaways-from-the-avatar-seven-havens-trailer/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/avatar-seven-havens-korra.png?w=1600&h=900&fit=crop",
     "pubDate": "2026-07-23T21:00:13+00:00"
-  },
-  {
-    "title": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-    "description": "A new bill would let the US government order the shutdown AI models that pose a major public threat.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg",
-    "pubDate": "2026-07-23T20:58:35+00:00"
   },
   {
     "title": "Trump Administration Drops Subpoena Demanding List of Jews From Penn",
@@ -140,13 +196,6 @@
     "pubDate": "2026-07-23T20:16:37+00:00"
   },
   {
-    "title": "Southport killer Axel Rudakubana moved to psychiatric hospital",
-    "description": "Rudakubana was jailed for 52 years in 2025 for the murder of three young girls at a dance class.",
-    "link": "https://www.bbc.co.uk/news/articles/cx27md9e09po?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7514/live/f80c6ad0-b4e1-11f0-ba75-093eca1ac29b.png",
-    "pubDate": "2026-07-23T20:12:54+00:00"
-  },
-  {
     "title": "Stocks Tumble as A.I. Spending and Oil Prices Weigh on Market",
     "description": "The S&amp;P 500 tumbled more than 1 percent, while the tech-heavy Nasdaq Composite sank more than 2 percent.",
     "link": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
@@ -196,20 +245,6 @@
     "pubDate": "2026-07-23T19:41:10+00:00"
   },
   {
-    "title": "Saying ‘Google It’ Makes You Sound Old. ‘Search It Up’ Instead.",
-    "description": "As online research evolves, so has the language we use to describe it.",
-    "link": "https://www.nytimes.com/2026/07/23/magazine/google-it-search-it-up.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-23T19:37:55+00:00"
-  },
-  {
-    "title": "U.S. to Withdraw Subpoenas Issued to New York Times Journalists",
-    "description": "A federal judge raised questions about the government’s handling of the subpoenas, which The Times said were an attempt to intimidate the free press.",
-    "link": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-23T19:36:19+00:00"
-  },
-  {
     "title": "X-Men comics debut new name for Gambit",
     "description": "Marvel has revealed Remy LeBeau's new codename, and it is a sign of dangerous changes in Gail Simone's Uncanny X-Men",
     "link": "https://www.polygon.com/x-men-gambit-wyvern-marvel-comics/",
@@ -222,13 +257,6 @@
     "link": "https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.png",
     "pubDate": "2026-07-23T19:30:17+00:00"
-  },
-  {
-    "title": "The best base locations in Palworld for farming resources",
-    "description": "The best base locations in Palworld position you to farm tons of different resources. Here are the best places to place a base in Palworld.",
-    "link": "https://www.polygon.com/palworld-guides/24050846/best-base-locations-resources-farming/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25249951/palworld_base_locations.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-23T19:19:05+00:00"
   },
   {
     "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
@@ -378,13 +406,6 @@
     "pubDate": "2026-07-23T16:34:57+00:00"
   },
   {
-    "title": "Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant",
-    "description": "Ether trades below its realized price while onchain indicators point to easing selling pressure and recovering demand, though a definitive cycle bottom has yet to emerge.",
-    "link": "https://cointelegraph.com/news/ethereum-nears-market-bottom-against-bitcoin-key-signals-remain-unconfirmed-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-is-now-superior-over-gold2-1.jpg",
-    "pubDate": "2026-07-23T16:26:43+00:00"
-  },
-  {
     "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
     "description": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
     "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
@@ -462,20 +483,6 @@
     "pubDate": "2026-07-23T14:53:34+00:00"
   },
   {
-    "title": "Senior ministers and aides set to work from No 10 North",
-    "description": "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months.",
-    "link": "https://www.bbc.co.uk/news/articles/czrjl0nev3no?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f3/live/a84c4d30-86c8-11f1-bee8-53ce494e1abc.jpg",
-    "pubDate": "2026-07-23T14:46:01+00:00"
-  },
-  {
-    "title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
-    "description": "President Trump has put Saudi Arabia on the path to enriching uranium on its own soil, a demand South Korea has been making for years.",
-    "link": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-skorea-us-nuclear-bwtm/23int-skorea-us-nuclear-bwtm-facebookJumbo.jpg",
-    "pubDate": "2026-07-23T14:24:39+00:00"
-  },
-  {
     "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
     "description": "The framework, developed with Superstate, Securitize and Dowgo, lets regulated funds and securities trade on Uniswap while enforcing compliance rules necessary for institutions.",
     "link": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
@@ -495,13 +502,6 @@
     "link": "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c8c2bea5d82e1ca3893570623f6ec6b87f44a9d6-4032x3024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
     "pubDate": "2026-07-23T13:53:19+00:00"
-  },
-  {
-    "title": "Why I Sought Out a Taliban Commander I Had Fought",
-    "description": "First as a Marine and then as a journalist, I spent years tied to Afghanistan. I returned one last time to speak to a former enemy in search of answers, and perhaps closure.",
-    "link": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-23T13:26:28+00:00"
   },
   {
     "title": "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
