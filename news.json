@@ -1,5 +1,124 @@
 [
   {
+    "title": "Police declare 'major incident' over Cairngorms wildfire",
+    "description": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98d/live/a5729fd0-8806-11f1-b2ab-0dd01740f9f6.jpg",
+    "pubDate": "2026-07-25T10:40:22+00:00"
+  },
+  {
+    "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
+    "description": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
+    "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108340170-1784972818688-gettyimages-2286281340-AFP_C2MN3LB.jpeg?v=1784972833&w=1920&h=1080",
+    "pubDate": "2026-07-25T10:22:58+00:00"
+  },
+  {
+    "title": "Fires Rage in Spain and France, Forcing Thousands to Flee",
+    "description": "Firefighters were scrambling to contain blazes that were moving toward major cities. Some 200,000 people have evacuated or sheltered at home.",
+    "link": "https://www.nytimes.com/2026/07/25/world/europe/france-spain-wildfires-evacuations.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-25T10:21:54+00:00"
+  },
+  {
+    "title": "OpenAI hack has turned into a whodunnit with serious questions to answer",
+    "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+    "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
+    "pubDate": "2026-07-25T10:14:41+00:00"
+  },
+  {
+    "title": "Dango’s perp DEX taps out nearly 4 months after launch",
+    "description": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
+    "link": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-perpetual-dex-closure.jpg",
+    "pubDate": "2026-07-25T10:01:26+00:00"
+  },
+  {
+    "title": "Splatoon Raiders fans are already shipping its characters, somehow",
+    "description": "Splatoon Raiders doesn't leave a lot of space for romance, but the Splatoon community has wasted no time pairing up its characters.",
+    "link": "https://www.polygon.com/splatoon-raiders-fan-shipping-shiver/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/splatroon-raiders-shiver-laughing.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-25T10:00:12+00:00"
+  },
+  {
+    "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+    "description": "The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
+    "link": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/800c636f7f1593410f22ed849c8620a1f9d1cfd0-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-07-25T10:00:00+00:00"
+  },
+  {
+    "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+    "description": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
+    "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a64768bf27fb-1784968844.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-25T09:54:44+00:00"
+  },
+  {
+    "title": "Wildfire Smoke Chokes Skies in Spain and France",
+    "description": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
+    "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-25T09:49:31+00:00"
+  },
+  {
+    "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+    "description": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
+    "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a646768365c-1784964968.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-25T09:10:01+00:00"
+  },
+  {
+    "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
+    "description": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.",
+    "link": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-25T09:02:10+00:00"
+  },
+  {
+    "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
+    "description": "A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.",
+    "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-25T09:02:08+00:00"
+  },
+  {
+    "title": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
+    "description": "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.",
+    "link": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-25T09:01:55+00:00"
+  },
+  {
+    "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
+    "description": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, the likely Democratic nominee, has a lot of catching up to do.",
+    "link": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-25T09:00:32+00:00"
+  },
+  {
+    "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
+    "description": "While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.",
+    "link": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-25T09:00:23+00:00"
+  },
+  {
+    "title": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
+    "description": "Dharmendra Pradhan quits in first major concession from PM Narendra Modi's government after nationwide demonstrations.",
+    "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260725__C36T42E__v1__HighRes__IndiaPoliticsEducationProtest-1784973927.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-25T08:54:20+00:00"
+  },
+  {
+    "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+    "description": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
+    "link": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108335934-1784206429202-gettyimages-2285710540-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
+    "pubDate": "2026-07-25T08:49:00+00:00"
+  },
+  {
     "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
     "description": "Living near Taiz's front line forces families to make difficult choices amid sniper threats and economic hardships.",
     "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
@@ -28,13 +147,6 @@
     "pubDate": "2026-07-25T07:40:35+00:00"
   },
   {
-    "title": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
-    "description": "President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.",
-    "link": "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-25T07:35:25+00:00"
-  },
-  {
     "title": "Surprise: God Of War Laufey Has A Release Date, And Its Kratos-Led Sequel Has Been Announced",
     "description": "The God of War Laufey release date has been announced and, much like we anticipated, you won't have to wait too long before you can play Faye's story. At San Diego Comic-Con 2026, Sony Santa Monica Studios officially announced that the God of War Laufey release date will be 16 February, 2027. https://twitter.com/SonySantaMonica/status/2080831512820519253 Game director Cory Barlog also announced that the game will ship with physical discs. That announcement comes just weeks after Sony announced that it would be halting the production of physical discs entirely from 2028. The release date announcement wasn't the only surprise, as Barlog also confirmed that the next God of War game will put players back in the boots of Kratos. According to IGN, he said, \"Everything we are doing in the Faye game is a continuation of what came before and to set up and expand what comes next. Phranque has been around since the beginning. It's interesting to see how to build this world out. Everything in the game is setting up for something so amazing.\" While there are many theories about what, or who, Phranque could be, it sounds like we'll have plenty of time to get familiar with him throughout the future of God of War. God of War Laufey was originally revealed with 20 minutes of gameplay during a Sony State of Play broadcast in June 2026. The game looked pretty polished then, so it's unsurprising that its release date is just seven short months away. It also means that February 2027 is looking pretty stacked now, with God of War Laufey, Tomb Raider: Legacy of Atlantis, Persona 4 Revival, Fable, and Metro 2039 all slated to release within two weeks of one another.",
     "link": "https://www.gamespot.com/articles/surprise-god-of-war-laufey-has-a-release-date-and-its-kratos-led-sequel-has-been-announced/",
@@ -52,15 +164,8 @@
     "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
     "description": "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
     "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a64564d16d65-1784960589.jpg?resize=1920%2C1440",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a647a0d12de-1784969741.jpg?resize=1920%2C1440",
     "pubDate": "2026-07-25T07:22:47+00:00"
-  },
-  {
-    "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
-    "description": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.",
-    "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98d/live/a5729fd0-8806-11f1-b2ab-0dd01740f9f6.jpg",
-    "pubDate": "2026-07-25T07:08:41+00:00"
   },
   {
     "title": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -91,13 +196,6 @@
     "pubDate": "2026-07-25T05:50:04+00:00"
   },
   {
-    "title": "South Africa’s le Clos breaks Commonwealth Games record with 19th medal",
-    "description": "A record 19th medal took South Africa's Chad le Clos past shooters Phil Adams of Australia and Mick Gault of England.",
-    "link": "https://www.aljazeera.com/sports/2026/7/25/south-africas-le-clos-breaks-commonwealth-games-record-with-19th-medal?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-24T212749Z_865706187_UP1EM7O1NMAD2_RTRMADP_3_GAMES-COMMONWEALTH-1784957786.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-25T05:48:52+00:00"
-  },
-  {
     "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
     "description": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
     "link": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
@@ -112,25 +210,11 @@
     "pubDate": "2026-07-25T05:00:21+00:00"
   },
   {
-    "title": "Funerals held for four Palestinians killed in deadly West Bank shooting",
-    "description": "Overnight funerals were held for four Palestinians killed near Nablus.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784953705.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-07-25T04:29:17+00:00"
-  },
-  {
     "title": "After Stabbings, a Rise in Jewish Fears and Questions for Mamdani",
     "description": "Some politicians said Mayor Zohran Mamdani’s criticism of Israel had created a dangerous environment. He pushed back, condemning the stabbings of two men on the Upper West Side and defending his statements.",
     "link": "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html",
     "thumbnail": "",
     "pubDate": "2026-07-25T03:36:09+00:00"
-  },
-  {
-    "title": "‘The show must go on’: Trump returns to rescheduled White House press gala",
-    "description": "US president makes jokes, mocks opponents at correspondents' dinner that was halted by a shooting in April.",
-    "link": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a641a2863ee-1784945192.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-25T02:59:04+00:00"
   },
   {
     "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
@@ -147,25 +231,11 @@
     "pubDate": "2026-07-25T01:58:01+00:00"
   },
   {
-    "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
-    "description": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-25T01:57:36+00:00"
-  },
-  {
     "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
     "description": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
     "link": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html",
     "thumbnail": "",
     "pubDate": "2026-07-25T01:46:39+00:00"
-  },
-  {
-    "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
-    "description": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-25T01:29:29+00:00"
   },
   {
     "title": "Amazon pushes back Tomb Raider: Catalyst's release day to 2028",
@@ -189,6 +259,13 @@
     "pubDate": "2026-07-24T23:31:11+00:00"
   },
   {
+    "title": "Parents on how they get through the summer holidays on a budget",
+    "description": "The best tips and tricks to have a fun - yet affordable - summer break with the family.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y65z47xwzo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd29/live/7f2eb8b0-85b1-11f1-9454-77c2271a5b4a.jpg",
+    "pubDate": "2026-07-24T23:29:12+00:00"
+  },
+  {
     "title": "Claudia Winkleman's chat show ended after one series - can anyone replace Graham Norton?",
     "description": "The presenter said she was \"incredibly grateful\" for the opportunity but simply \"too nervous to enjoy it\".",
     "link": "https://www.bbc.co.uk/news/articles/c1m1rz7n0pzo?at_medium=RSS&at_campaign=rss",
@@ -203,13 +280,6 @@
     "pubDate": "2026-07-24T23:23:53+00:00"
   },
   {
-    "title": "OpenAI hack has turned into a whodunnit with serious questions to answer",
-    "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-    "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
-    "pubDate": "2026-07-24T23:11:13+00:00"
-  },
-  {
     "title": "The pop band who went from playing for rescue dogs to selling out arenas",
     "description": "Muna discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
     "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
@@ -217,25 +287,11 @@
     "pubDate": "2026-07-24T23:01:10+00:00"
   },
   {
-    "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-    "description": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-    "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab1d/live/078fb020-8804-11f1-b8ee-9b3c26ad07bb.jpg",
-    "pubDate": "2026-07-24T23:01:06+00:00"
-  },
-  {
     "title": "Keanu Reeves' 4-part fantasy series is a perfect HBO Max binge hiding in plain sight",
     "description": "You might not realize it, but this action-packed thrillride was actually a fantasy tale all along.",
     "link": "https://www.polygon.com/john-wick-is-secretly-one-of-the-best-fantasy-franchises-of-the-last-decade/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19938695/john_wick_3.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-07-24T23:00:12+00:00"
-  },
-  {
-    "title": "Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum",
-    "description": "President Trump said the signage at the National Museum of American History would correct what a disputed White House report described as “extreme political activism.”",
-    "link": "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-24T22:11:17+00:00"
   },
   {
     "title": "Dungeons &amp; Dragons and World of Warcraft crossover leaks ahead of Gen Con",
@@ -259,27 +315,6 @@
     "pubDate": "2026-07-24T21:53:05+00:00"
   },
   {
-    "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
-    "description": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
-    "link": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108255725-1769094685480-7VYxj_8U.jpg?v=1769094774&w=1920&h=1080",
-    "pubDate": "2026-07-24T21:48:45+00:00"
-  },
-  {
-    "title": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
-    "description": "President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short “excursion,” although it has lasted nearly five months, with no end in sight.",
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-24T21:41:12+00:00"
-  },
-  {
-    "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
-    "description": "Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.",
-    "link": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-24T21:32:37+00:00"
-  },
-  {
     "title": "Nintendo officially gives a huge Switch 2 makeover to its most underrated RPG",
     "description": "Xenoblade Chronicles 2 is getting its Nintendo Switch 2 version and with it, Pyra and Mythra eceive new outfits",
     "link": "https://www.polygon.com/xenoblade-chronicles-2-xc2-nw2-upgrade-pyra-mythra-outfits/",
@@ -294,18 +329,18 @@
     "pubDate": "2026-07-24T21:29:32+00:00"
   },
   {
+    "title": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
+    "description": "President Trump has said he would expand the war if the Iran-backed Houthi militants launched additional attacks.",
+    "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-24T21:26:23+00:00"
+  },
+  {
     "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
     "description": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
     "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271378-1772294792405-gettyimages-2263498770-porzycki-paramoun260228_npy9K.jpeg?v=1776439601&w=1920&h=1080",
     "pubDate": "2026-07-24T21:24:09+00:00"
-  },
-  {
-    "title": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him",
-    "description": "Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.",
-    "link": "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-24T21:10:49+00:00"
   },
   {
     "title": "Why bond investors are pushing up some of your interest rates",
@@ -343,13 +378,6 @@
     "pubDate": "2026-07-24T20:45:11+00:00"
   },
   {
-    "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
-    "description": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar.",
-    "link": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108340048-1784921864182-gettyimages-2287509569-elx06927_xax64guk.jpeg?v=1784921908&w=1920&h=1080",
-    "pubDate": "2026-07-24T20:23:12+00:00"
-  },
-  {
     "title": "House passes bill on lawmakers using insider information for stock trading",
     "description": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
     "link": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -357,25 +385,11 @@
     "pubDate": "2026-07-24T20:05:50+00:00"
   },
   {
-    "title": "Halo: Campaign Evolved won't let you boundary break, annoyed fans say",
-    "description": "Halo: Combat Evolved let you use tricks to escape levels, but players of the Halo: Campaign Evolved remake are mad that it removed that perk.",
-    "link": "https://www.polygon.com/halo-campaign-evolved-level-boundaries/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bb_b30_after_pc_env_05-ba41cc584084fab518c2.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-24T20:00:12+00:00"
-  },
-  {
     "title": "CDC says massive cyclospora outbreak is now in nine states",
     "description": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
     "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108339473-1784836316181-gettyimages-2287358427-l1110466_pvxolbwk.jpeg?v=1784913729&w=1920&h=1080",
     "pubDate": "2026-07-24T19:53:01+00:00"
-  },
-  {
-    "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-    "description": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
-    "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108177537-1753680021898-gettyimages-2226607379-ah800036.jpeg?v=1784915475&w=1920&h=1080",
-    "pubDate": "2026-07-24T19:39:50+00:00"
   },
   {
     "title": "Jimothy, The Viral Raccoon, Is Becoming An Earnable WoW Pet",
@@ -411,13 +425,6 @@
     "link": "https://www.gamespot.com/articles/halo-campaign-evolved-secret-ending-seems-to-tease-a-halo-2-remake/",
     "thumbnail": "",
     "pubDate": "2026-07-24T18:24:59+00:00"
-  },
-  {
-    "title": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
-    "description": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-24T18:18:50+00:00"
   },
   {
     "title": "Mississippi Mud Pie (Frozen Coffee Ice Cream Pie)",
@@ -525,13 +532,6 @@
     "pubDate": "2026-07-24T14:36:16+00:00"
   },
   {
-    "title": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
-    "description": "Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout.",
-    "link": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/bungee-jumping-bitcoin-1.jpg",
-    "pubDate": "2026-07-24T14:28:03+00:00"
-  },
-  {
     "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
     "description": "New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations",
     "link": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
@@ -574,13 +574,6 @@
     "pubDate": "2026-07-24T11:34:53+00:00"
   },
   {
-    "title": "Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market",
-    "description": "BTC held just under $65,000 and crypto broadly rose on Friday even as Brent crude surged to $97.66, its highest since May, as the Iran conflict persists and traditional markets stay muted.",
-    "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e8450b5fd2ea53520d4c9b8a233c30546550b731-1862x994.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-07-24T11:19:38+00:00"
-  },
-  {
     "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
     "description": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
     "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
@@ -609,60 +602,60 @@
     "pubDate": "2026-07-24T10:00:00+00:00"
   },
   {
-    "title": "Stifel’s earnings expose Wall Street’s AI blind spot",
+    "title": "US Dollar Price Forecast: ECB Holds Steady, PMI Data in Focus – Can DXY Extend Gains Against GBP/USD and EUR/USD?",
     "description": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/stifel-earnings-expose-wall-street-030700080.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/092D8F8868F082265E405C1C4D26B4AFB2B7B4F1264DBFDC63948BF7526B2A16/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fa2a47e956351101285700bae6fd8d4ed",
-    "pubDate": "2026-07-24T03:07:00+00:00"
+    "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-ecb-080448089.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/D5FFC902B8A0BF3EC2CC1F9C4CA4F20A4BA2730B44DD7870B7BB3CC0ABE58337/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fd8de8e06c6531c6a0321e0fc756837de",
+    "pubDate": "2026-07-24T08:04:48+00:00"
   },
   {
-    "title": "Thermo Fisher (TMO) Climbs 8.7% on Solid Earnings, Price Target Upgrades",
+    "title": "Stagflation talk returns to rattle markets as oil rebounds to $100",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/thermo-fisher-tmo-climbs-8-030559625.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/71CF09B05717402F75DE5AB66FC7C0BD467A1FD5577DA5A38B4C6D19F8FC098D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F25c2f9a82d994c0db376f8bb184a1aeb",
-    "pubDate": "2026-07-24T03:05:59+00:00"
+    "link": "https://finance.yahoo.com/economy/articles/stagflation-talk-returns-rattle-markets-080105374.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0A7534484F23F138BC447F09F504081FC9F00AD0A371ECD4535984E3D948CD65/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05cc3484f5b18095e3bff332da1c0dd2",
+    "pubDate": "2026-07-24T08:02:53+00:00"
   },
   {
-    "title": "Exclusive-BOJ likely to keep inflation warning but expect no big build-up in risks, sources say",
+    "title": "India's HCLTech to invest $1.48 billion in AI data center, open 5,000-seat tech hub",
     "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-boj-likely-keep-inflation-024849928.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/1528EF715347112EF3EB7AF1C7CBCD3A88AFAA551FB32B4843733093047A7AAB/subgraphmysterio/resizefill_w1200_h789;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb64a05d23468402ba2cd38887bcf6816",
-    "pubDate": "2026-07-24T02:48:49+00:00"
+    "link": "https://finance.yahoo.com/technology/ai/articles/indias-hcltech-sarvam-set-1-065004157.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F88771BF6775929BB056A2C4760371824DDD32C8ED272718E5008F2483B68591/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F8ea948281be87ca47cb879c5f231d955",
+    "pubDate": "2026-07-24T06:50:04+00:00"
   },
   {
-    "title": "Uniswap Opens Permissioned Pools for Tokenized Funds and Equities",
+    "title": "TJX Companies Earnings Preview: What to Expect",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/uniswap-opens-permissioned-pools-tokenized-021400526.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/DB2EF25EB76B00058FF070769E6773BBEB2FEC6E1A109E52E2EA37B859A4B258/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fb4eb4412361f8408996d958cd335188c",
-    "pubDate": "2026-07-24T02:14:00+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-earnings-preview-expect-061717067.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0008FDEF1AEC7143AE4389CDE9571C693F7F07562E608ED42D56B709509726EB/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F9085cd493b2cc793baf9036916148ac2",
+    "pubDate": "2026-07-24T06:17:17+00:00"
   },
   {
-    "title": "Matador Expands Delaware Basin With $1.28 Billion Paloma Acquisition",
+    "title": "Analysis-AstraZeneca 'magic' faces rare test after trial failure, share slide",
     "description": "",
-    "link": "https://finance.yahoo.com/energy/articles/matador-expands-delaware-basin-1-020000803.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/818497B0E6ECE3D32BD74640FF44D64B6C62E7F1C0AED14AF6BD377F6E9FF224/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Faad7e4dd25829ae34ff94a5c30105ea0",
-    "pubDate": "2026-07-24T02:00:00+00:00"
+    "link": "https://finance.yahoo.com/news/analysis-astrazeneca-magic-faces-rare-061630655.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/82C5A3C0E275A966C0AE1B9034E5B90B873C57FA1A740F76A0A78F03881DB2FF/subgraphmysterio/resizefill_w1200_h782;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1634eb176e5eb584f4c47599cf0e6eda",
+    "pubDate": "2026-07-24T06:16:30+00:00"
   },
   {
-    "title": "IMAX Corp (IMAX) Rockets 11.86% on Earnings Beat, H2 Optimism",
+    "title": "FTSE 100 Live: London stocks called lower as Big Tech burns cash and oil hits $100",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/imax-corp-imax-rockets-11-014804578.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/EC25051CAB8B9615FA2F4FDBF8F2365510A99FC64A41684A6FD7173BFA2BF919/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F665212742ae9f168e4d921f258b54059",
-    "pubDate": "2026-07-24T01:48:04+00:00"
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-london-stocks-061500559.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/581B352E5F98EF4DD6E69820C410C09FA770A764F0BEC7A680CCF4D1A30FC72A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2Ff1159ec722109d4c2c944a732049175f",
+    "pubDate": "2026-07-24T06:15:00+00:00"
   },
   {
-    "title": "Norfolk Southern Posts Record Revenue as Freight Demand Strengthens",
+    "title": "Switzerland disputes US forced labour claims as new tariffs take effect",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-posts-record-revenue-013547099.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/C648812FAA05719F9C5D3AE40E86B85CCAC126DC50095EF7AA1B0A85D1828ABF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F939ba3dcf97973f1d7b43936abaab191",
-    "pubDate": "2026-07-24T01:35:47+00:00"
+    "link": "https://finance.yahoo.com/news/switzerland-disputes-us-forced-labour-055936063.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/29E75F01C621F2ADD8DB09FD7F58DAE8D1D83119AF83552A9D0E73C5857E9329/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9aa996932606fa295ea19d61d8d94549",
+    "pubDate": "2026-07-24T05:59:36+00:00"
   },
   {
-    "title": "Cleveland-Cliffs (CLF) Climbs 16% on Strong Earnings, Highly Upbeat Outlook",
+    "title": "India's private sector growth slumped to over four-year low in July, PMI shows",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-clf-climbs-16-011802271.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/B614CA9B744CD37F6778CA1FF790ED74F3AFC253D5B12E028ECAD2E29C1E35E6/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff5a15c5def37b9c2ed5c6e03c13ffc8f",
-    "pubDate": "2026-07-24T01:18:02+00:00"
+    "link": "https://finance.yahoo.com/economy/articles/indias-private-sector-growth-slumped-050511328.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/953592B767BFE82CFC3C8C54265CB23BAC38B329FFEFEBC31EF0E6A0431E0A4C/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3ff2dd599cee82bb9cea8d0e730649f4",
+    "pubDate": "2026-07-24T05:05:11+00:00"
   },
   {
     "title": "World’s quietest metal just dropped a huge bullish signal",
@@ -684,6 +677,13 @@
     "link": "https://www.bonappetit.com/story/best-mezcal",
     "thumbnail": "https://assets.bonappetit.com/photos/6a57defd6f031a29998d20a5/master/pass/20260625_BA_02_Mezcal%20Taste%20Test_592_FINAL.jpg",
     "pubDate": "2026-07-23T20:00:00+00:00"
+  },
+  {
+    "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+    "description": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+    "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108331527-1783439064152-gettyimages-2213179432-07_artificial_intelligence_editorial_dsc_2369.jpeg?v=1783439101&w=1920&h=1080",
+    "pubDate": "2026-07-23T17:10:06+00:00"
   },
   {
     "title": "Dover Sole Meunière",
