@@ -1,10 +1,59 @@
 [
   {
+    "title": "Latest updates.",
+    "description": "Firefighters were scrambling to contain blazes that were moving toward major cities. Some 200,000 people have evacuated or sheltered at home.",
+    "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/france-spain-wildfires-evacuations",
+    "thumbnail": "",
+    "pubDate": "2026-07-25T11:40:12+00:00"
+  },
+  {
+    "title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+    "description": "Families visiting France from the UK and elsewhere have told the BBC how their holidays have become evacuation missions.",
+    "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1712/live/40afcd70-8815-11f1-afbe-b9a38c21b1d6.jpg",
+    "pubDate": "2026-07-25T11:39:27+00:00"
+  },
+  {
+    "title": "Fidelity joins push for Senate passage of CLARITY Act",
+    "description": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
+    "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.jpg",
+    "pubDate": "2026-07-25T11:30:15+00:00"
+  },
+  {
+    "title": "Tuberculosis: How drones are transforming care in the Philippines",
+    "description": "101 East meets the doctors using drones to fight tuberculosis and save lives in remote communities in the Philippines.",
+    "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784878236.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-07-25T11:30:00+00:00"
+  },
+  {
     "title": "Police declare 'major incident' over Cairngorms wildfire",
-    "description": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.",
+    "description": "Some residents in the village of Nethy Bridge have left their homes over the threat the wildfire spreading.",
     "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98d/live/a5729fd0-8806-11f1-b2ab-0dd01740f9f6.jpg",
-    "pubDate": "2026-07-25T10:40:22+00:00"
+    "pubDate": "2026-07-25T11:22:30+00:00"
+  },
+  {
+    "title": "Two buses collide in Syria, killing at least 35 people",
+    "description": "This is a breaking news story.",
+    "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/46543-1784977796-1784979514.webp?resize=1200%2C675",
+    "pubDate": "2026-07-25T11:14:14+00:00"
+  },
+  {
+    "title": "India’s youth protesters are fighting Modi with irreverent humour and memes",
+    "description": "Modi built his political brand through social media. Now protesters are using same platforms to mock his administration.",
+    "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26205517735283-1784974681.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-25T11:09:05+00:00"
+  },
+  {
+    "title": "Mike Flanagan's lesser-known Netflix series The Midnight Club is a perfect weekend binge",
+    "description": "The tribute to YA horror legend Christopher Pike uses dark stories to explore the fear of death and the meaning of life",
+    "link": "https://www.polygon.com/midnight-club-weekend-binge-rec/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tcdmicl_zx028.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-07-25T11:00:12+00:00"
   },
   {
     "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
@@ -12,13 +61,6 @@
     "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108340170-1784972818688-gettyimages-2286281340-AFP_C2MN3LB.jpeg?v=1784972833&w=1920&h=1080",
     "pubDate": "2026-07-25T10:22:58+00:00"
-  },
-  {
-    "title": "Fires Rage in Spain and France, Forcing Thousands to Flee",
-    "description": "Firefighters were scrambling to contain blazes that were moving toward major cities. Some 200,000 people have evacuated or sheltered at home.",
-    "link": "https://www.nytimes.com/2026/07/25/world/europe/france-spain-wildfires-evacuations.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-25T10:21:54+00:00"
   },
   {
     "title": "OpenAI hack has turned into a whodunnit with serious questions to answer",
@@ -49,7 +91,7 @@
     "pubDate": "2026-07-25T10:00:00+00:00"
   },
   {
-    "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+    "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
     "description": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
     "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a64768bf27fb-1784968844.jpg?resize=1920%2C1440",
@@ -175,25 +217,11 @@
     "pubDate": "2026-07-25T06:41:42+00:00"
   },
   {
-    "title": "Trump: ‘I’m running for a fourth term as President of the United States’",
-    "description": "During the White House Correspondents' Association dinner, Trump joked about running for a fourth presidential term.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784961611.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-07-25T06:40:26+00:00"
-  },
-  {
-    "title": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
-    "description": "Gabriel Langton suffers concussion after headfirst crash off horizontal bar in the ⁠final rotation of the competition.",
-    "link": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/GettyImages-2287501850-1784958340.jpg?resize=1200%2C675",
-    "pubDate": "2026-07-25T06:36:22+00:00"
-  },
-  {
-    "title": "Venezuelans hold vigil one month after devastating earthquakes",
-    "description": "One month after Venezuela’s earthquakes, families are still searching collapsed buildings for missing loved ones.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784958567.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-07-25T05:50:04+00:00"
+    "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
+    "description": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+    "link": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19cc/live/976e3410-84f2-11f1-ae95-69a18db8092b.jpg",
+    "pubDate": "2026-07-25T06:14:54+00:00"
   },
   {
     "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
@@ -252,18 +280,11 @@
     "pubDate": "2026-07-25T00:18:53+00:00"
   },
   {
-    "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+    "title": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
     "description": "The government wants to relax wedding laws so couples can get married almost anywhere.",
     "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ee/live/cd7c6030-82c3-11f1-b976-0b9c15b0ccfc.jpg",
     "pubDate": "2026-07-24T23:31:11+00:00"
-  },
-  {
-    "title": "Parents on how they get through the summer holidays on a budget",
-    "description": "The best tips and tricks to have a fun - yet affordable - summer break with the family.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y65z47xwzo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd29/live/7f2eb8b0-85b1-11f1-9454-77c2271a5b4a.jpg",
-    "pubDate": "2026-07-24T23:29:12+00:00"
   },
   {
     "title": "Claudia Winkleman's chat show ended after one series - can anyone replace Graham Norton?",
@@ -299,13 +320,6 @@
     "link": "https://www.polygon.com/dnd-wow-world-of-warcraft-dungeons-dragons-crossover-leak/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25477697/WoW_The_War_Within_Beta_Key_Art.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-07-24T21:59:45+00:00"
-  },
-  {
-    "title": "Horror injury overshadows gymnastics silver for England at Commonwealths",
-    "description": "A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.",
-    "link": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f983/live/f269bf90-87ab-11f1-8c66-158b9f0049ad.jpg",
-    "pubDate": "2026-07-24T21:53:49+00:00"
   },
   {
     "title": "EU authorities include HTX exchange in Russian sanctions",
@@ -371,13 +385,6 @@
     "pubDate": "2026-07-24T21:00:12+00:00"
   },
   {
-    "title": "Rick and Morty spinoff President Curtis renewed for season 2 before premiere",
-    "description": "Adult Swim showed its confidence in the series starring Keith David defending the United States from aliens and supernatural threats",
-    "link": "https://www.polygon.com/president-curtis-season-2-rick-and-morty/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/rick-and-morty-president-curtis.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-07-24T20:45:11+00:00"
-  },
-  {
     "title": "House passes bill on lawmakers using insider information for stock trading",
     "description": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
     "link": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -423,7 +430,7 @@
     "title": "Halo: Campaign Evolved Secret Ending Seems To Tease A Halo 2 Remake",
     "description": "The original Halo might not be the only entry in the series to get a full redo, with the secret ending of Halo: Campaign Evolved giving a wink and a nod to fans by hinting at a Halo 2 remake. Spoilers for Halo: Campaign Evolved (and the 2001 original) follow. Completing the campaign on Legendary difficulty adds a light-hearted sequence featuring Sergeant Johnson, who is relaxing on a makeshift beach chair on the shore while somehow viewing the original Legendary joke ending from Halo: Combat Evolved. After realizing that the eponymous Halo is exploding (spoilers for the 2001 original, I guess), Johnson gets picked up by a Pelican, but not before turning to the camera, breaking the fourth wall, and declaring: \"See you in the sequel.\" I don't know exactly why, but that final shot made it seem like \"Don't You (Forget About Me)\" was about to blare in the background to cap off the scene. https://youtu.be/vbk_a53lAZo?si=sDO0jjJZBHrvmw77&amp;t=158 Leakers have previously claimed that remakes of Halo 2 and 3--albeit, without multiplayer--are in active development. A report in May from Rebs Gaming purported that the two remakes are moving forward \"regardless of how well Campaign Evolved does.\" Halo 2 got a remaster in the form of Halo 2 Anniversary, which was part of 2014's Halo: The Master Chief Collection. Campaign Evolved is the first title from the rebranded Halo Studios. It's also believed by Rebs Gaming that the studio is building a Halo live-service game. It's easy to imagine Halo Studios working on a model similar to Capcom and the Resident Evil series, alternating between remakes and new titles. Whether that's the case or not, Halo: Campaign Evolved at least serves as proof of concept on what the franchise could look like going forward. GameSpot's Halo: Campaign Evolved review said that it \"feels like the new gold standard for playing through the first Halo.\" The game releases on Xbox Series X|S, PS5, and PC on July 28, but those who bought the premium edition were granted access starting yesterday (though Xbox and PC players ran into some snags). Halo Games, Ranked – The Best Halo FPS Games View Images",
     "link": "https://www.gamespot.com/articles/halo-campaign-evolved-secret-ending-seems-to-tease-a-halo-2-remake/",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/3885432-halo4.jpg?w=636",
     "pubDate": "2026-07-24T18:24:59+00:00"
   },
   {
@@ -500,15 +507,8 @@
     "title": "Is PSN Down? It Was For Hours Today, But It’s Back Up Now",
     "description": "Sony's PlaYStation Network was experiencing network issues today, July 24, but those problems now seem to have been resolved. As usual, your mileage may vary, but the hours-long outage now seems to be fixed. The official PlayStation Status page notes that, \"All services are up and running.\" The outage earlier today was severe. All services were initially impacted, including account management, gaming and social, PlayStation Video, PlayStation Store, and PlayStation Direct. The website Downdetector notes that the PSN issues had been going on for hours before things improved. People reported issues with logging in, launching games, and connecting to servers. And.... we're back!Whenever the PSN goes down, it's unfortunate, but the timing was especially tough for people wanting to try the Marvel Tokon multiplayer beta that started today, July 24. \"We're aware that some PlayStation players are experiencing login and network issues. Our team is actively investigating the problem and working to identify the cause. We'll share updates as soon as we have more information,\" the developers wrote. On the PlayStation Status page, Sony wrote, \"We're working to resolve the issue as soon as possible. Thank you for your patience.\" That work has now been concluded, it seems, with services restored to normal operation.",
     "link": "https://www.gamespot.com/articles/psn-is-down-2/",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-3.28.53-PM.png?w=636",
     "pubDate": "2026-07-24T15:10:21+00:00"
-  },
-  {
-    "title": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
-    "description": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.",
-    "link": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-fundraising-ripple-a-beginners-guide-on-raising-funds-using-cryptocurrencies.png",
-    "pubDate": "2026-07-24T15:09:33+00:00"
   },
   {
     "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
@@ -602,6 +602,48 @@
     "pubDate": "2026-07-24T10:00:00+00:00"
   },
   {
+    "title": "China Rushes to Secure Russian Oil as Middle East Supply Risks Escalate",
+    "description": "",
+    "link": "https://finance.yahoo.com/energy/articles/china-rushes-secure-russian-oil-094500091.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/960C1AB15D963EC7F630839D95633F41A53CE8F2724ECAF4BF809BC12F3A0990/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fe8bbea062bf20e599a7740d312366bd4",
+    "pubDate": "2026-07-24T09:45:00+00:00"
+  },
+  {
+    "title": "Ziggi’s Coffee taps Noodles vet as growth chief",
+    "description": "",
+    "link": "https://finance.yahoo.com/small-business/articles/ziggi-coffee-taps-noodles-vet-093200337.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/7D008DA3FAE91C12ABCCD594498A714EFC7C9BC51967A4B6FACFB4CFD49854C8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Frestaurant_dive_404%2Fc7c4dd4ec104d116ca8c3b058e5421d8",
+    "pubDate": "2026-07-24T09:32:00+00:00"
+  },
+  {
+    "title": "Google just posted the biggest profit in its history — but two-thirds of it was money it hasn't actually made yet",
+    "description": "",
+    "link": "https://finance.yahoo.com/technology/ai/articles/google-just-posted-biggest-profit-093000085.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/4F880C269F3F7266B30CDAC2D779551DE2E62158CA0D71C59E972FC3C323D997/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F7d5076db3d5b94c664c962cedb97b271",
+    "pubDate": "2026-07-24T09:30:00+00:00"
+  },
+  {
+    "title": "Ethereum Rising Wedge Warns of ETH Price Drop Toward $1.6K",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-rising-wedge-warns-eth-091407396.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2146E7E1A9FBE0526ACB9703E2CC5C3C0ED33D433E2259BCE85A5023F4614B01/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F183c8acd38a0da69cea05d7b5cce19cd",
+    "pubDate": "2026-07-24T09:14:07+00:00"
+  },
+  {
+    "title": "Ask an Advisor: How Should We Invest $1.25M to Generate $50k in Annual Retirement Income?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/options/articles/ask-advisor-1-25m-retirement-140000652.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/6AEF893733D80AF2087F04891621A214C0A7C82818E0FA577DDD9963C46E13AE/subgraphmysterio/resizefill_w1200_h940;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsmartasset_475%2Fd7a4702cfb7e60a0e27d208e78876626",
+    "pubDate": "2026-07-24T09:00:00+00:00"
+  },
+  {
+    "title": "Florida woman, 32, was saving to buy a house. Scammers posing as Chase Bank convinced her to hand over $50,000 instead",
+    "description": "",
+    "link": "https://finance.yahoo.com/real-estate/articles/florida-woman-32-saving-buy-090000256.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/322BBDDF076E3D234A2E3FF7CCB2AB0984A17D822AF423DCC26F1163E8D1E0E7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fbc74ff5f2d091613507d8d60ea13b0d4",
+    "pubDate": "2026-07-24T09:00:00+00:00"
+  },
+  {
     "title": "US Dollar Price Forecast: ECB Holds Steady, PMI Data in Focus – Can DXY Extend Gains Against GBP/USD and EUR/USD?",
     "description": "",
     "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-ecb-080448089.html",
@@ -614,55 +656,6 @@
     "link": "https://finance.yahoo.com/economy/articles/stagflation-talk-returns-rattle-markets-080105374.html",
     "thumbnail": "https://s.yimg.com/lo/mysterio/api/0A7534484F23F138BC447F09F504081FC9F00AD0A371ECD4535984E3D948CD65/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05cc3484f5b18095e3bff332da1c0dd2",
     "pubDate": "2026-07-24T08:02:53+00:00"
-  },
-  {
-    "title": "India's HCLTech to invest $1.48 billion in AI data center, open 5,000-seat tech hub",
-    "description": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/indias-hcltech-sarvam-set-1-065004157.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F88771BF6775929BB056A2C4760371824DDD32C8ED272718E5008F2483B68591/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F8ea948281be87ca47cb879c5f231d955",
-    "pubDate": "2026-07-24T06:50:04+00:00"
-  },
-  {
-    "title": "TJX Companies Earnings Preview: What to Expect",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-earnings-preview-expect-061717067.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0008FDEF1AEC7143AE4389CDE9571C693F7F07562E608ED42D56B709509726EB/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F9085cd493b2cc793baf9036916148ac2",
-    "pubDate": "2026-07-24T06:17:17+00:00"
-  },
-  {
-    "title": "Analysis-AstraZeneca 'magic' faces rare test after trial failure, share slide",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/analysis-astrazeneca-magic-faces-rare-061630655.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/82C5A3C0E275A966C0AE1B9034E5B90B873C57FA1A740F76A0A78F03881DB2FF/subgraphmysterio/resizefill_w1200_h782;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1634eb176e5eb584f4c47599cf0e6eda",
-    "pubDate": "2026-07-24T06:16:30+00:00"
-  },
-  {
-    "title": "FTSE 100 Live: London stocks called lower as Big Tech burns cash and oil hits $100",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-london-stocks-061500559.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/581B352E5F98EF4DD6E69820C410C09FA770A764F0BEC7A680CCF4D1A30FC72A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2Ff1159ec722109d4c2c944a732049175f",
-    "pubDate": "2026-07-24T06:15:00+00:00"
-  },
-  {
-    "title": "Switzerland disputes US forced labour claims as new tariffs take effect",
-    "description": "",
-    "link": "https://finance.yahoo.com/news/switzerland-disputes-us-forced-labour-055936063.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/29E75F01C621F2ADD8DB09FD7F58DAE8D1D83119AF83552A9D0E73C5857E9329/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9aa996932606fa295ea19d61d8d94549",
-    "pubDate": "2026-07-24T05:59:36+00:00"
-  },
-  {
-    "title": "India's private sector growth slumped to over four-year low in July, PMI shows",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/articles/indias-private-sector-growth-slumped-050511328.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/953592B767BFE82CFC3C8C54265CB23BAC38B329FFEFEBC31EF0E6A0431E0A4C/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3ff2dd599cee82bb9cea8d0e730649f4",
-    "pubDate": "2026-07-24T05:05:11+00:00"
-  },
-  {
-    "title": "World’s quietest metal just dropped a huge bullish signal",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/world-quietest-metal-just-dropped-221118249.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/51868003D483DC816F59F1F2E8BC037EE8ED933C384C977E6B1048B603E56453/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F65fea4fa550ef8704b86fb0ec92a57c7",
-    "pubDate": "2026-07-23T22:11:18+00:00"
   },
   {
     "title": "Big-Batch Old-Fashioned Cocktails Recipe",
@@ -698,5 +691,12 @@
     "link": "https://www.bonappetit.com/recipe/any-berry-shrub",
     "thumbnail": "https://assets.bonappetit.com/photos/60a3e65341ef9619801e3a43/master/pass/0621-61.jpg",
     "pubDate": "2026-07-23T15:44:04+00:00"
+  },
+  {
+    "title": "Everything is going wrong for oil markets right now",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/article/everything-is-going-wrong-for-oil-markets-right-now-145945382.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/001099A36B04C26A7E43436C9F5AAF97F63D633346F84C9EF9C678B8E3B2E2AE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F4f6777e0-cf05-42a9-ae00-0f7558eae331",
+    "pubDate": "2026-07-23T14:59:45+00:00"
   }
 ]
