@@ -1,17 +1,129 @@
 [
   {
-    "title": "Shares of SK Hynix plunge 10% in Seoul as semiconductor selloff deepens",
+    "title": "Massive Wildfires Draw Close to Madrid",
+    "description": "Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check.",
+    "link": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-28T04:01:36+00:00"
+  },
+  {
+    "title": "Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?",
+    "description": "President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.",
+    "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-28T04:01:27+00:00"
+  },
+  {
+    "title": "SK Hynix shares plunge 13% in Seoul as chip sell-off deepens",
     "description": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
     "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
-    "pubDate": "2026-07-28T01:02:23+00:00"
+    "pubDate": "2026-07-28T03:55:49+00:00"
   },
   {
-    "title": "New technical education routes to be offered at 14 in England",
+    "title": "Oil prices drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes",
+    "description": "Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.",
+    "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326764-1782392209077-gettyimages-2282654424-06212026qabooswaters-11_prs49dod.jpeg?v=1782392429&w=1920&h=1080",
+    "pubDate": "2026-07-28T03:38:41+00:00"
+  },
+  {
+    "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
+    "description": "Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
+    "link": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/coinsavanna.jpg",
+    "pubDate": "2026-07-28T03:17:10+00:00"
+  },
+  {
+    "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+    "description": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
+    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25230703321245-1768108042.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-28T03:16:30+00:00"
+  },
+  {
+    "title": "Burnham says pupils in England need clearer pathway into work",
     "description": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
     "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/76a92500-89f7-11f1-ad85-33848ec6bcfe.jpg",
-    "pubDate": "2026-07-28T00:57:43+00:00"
+    "pubDate": "2026-07-28T02:56:21+00:00"
+  },
+  {
+    "title": "US warns hundreds of Boeing jets may require seat safety inspections",
+    "description": "US regulator warns of Boeing 737 MAX seat safety concerns, calls for inspection of 453 US-registered jets.",
+    "link": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP24045841760718-1785207427.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-28T02:54:18+00:00"
+  },
+  {
+    "title": "Trump says Iran talks taking place during pause in US military strikes",
+    "description": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785205987.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2026-07-28T02:47:55+00:00"
+  },
+  {
+    "title": "Ebola response workers strike in DR Congo as death toll spikes",
+    "description": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785205841.jpg?resize=1200%2C675",
+    "pubDate": "2026-07-28T02:33:05+00:00"
+  },
+  {
+    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
+    "description": "The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
+    "link": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg",
+    "pubDate": "2026-07-28T02:21:04+00:00"
+  },
+  {
+    "title": "How telehealth is helping close the healthcare gap in rural Zimbabwe",
+    "description": "Virtual consultations are replacing hours of travel, bringing affordable healthcare closer to rural Zimbabweans.",
+    "link": "https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/Noreen-Chimanya-a-nurse-working-at-a-telehealth-centre-in-Nyazura-Zimbabwe-Farai-Shawn-MatiasheAl-Jazeera-1784812423.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-28T02:08:54+00:00"
+  },
+  {
+    "title": "Johnson &amp; Johnson offers up to $5.5bn to settle baby powder lawsuits",
+    "description": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988d/live/89834e70-8a1b-11f1-8e1d-ab6aa2cf2cd1.jpg",
+    "pubDate": "2026-07-28T01:53:58+00:00"
+  },
+  {
+    "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+    "description": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
+    "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108311666-1779755440703-gettyimages-2275322799-jung-kospihit260512_npSpV.jpeg?v=1779755478&w=1920&h=1080",
+    "pubDate": "2026-07-28T01:34:28+00:00"
+  },
+  {
+    "title": "BBC reports from outside court after judge rules singer D4vd will stand trial for murder",
+    "description": "The body of 14-year-old Celeste Rivas Hernandez was found last September inside the trunk of a Tesla registered to singer D4vd.",
+    "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49b4/live/4f708a60-8a23-11f1-b2ab-0dd01740f9f6.jpg",
+    "pubDate": "2026-07-28T01:29:25+00:00"
+  },
+  {
+    "title": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
+    "description": "Binance has been phishing its own staff to get ahead of potential attacks. South Korean crypto volumes tank 89% — plus all of the week’s other crypto news from Asia.",
+    "link": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg",
+    "pubDate": "2026-07-28T01:23:07+00:00"
+  },
+  {
+    "title": "Former senior ICE official says rush for numbers is causing deaths",
+    "description": "Fmr. Acting Chief of Staff at ICE: a rush to hire officers and a focus on detention numbers is causing fatal mistakes.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_former-ice-official-rush-for-numbers-causing-deaths-270726?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/Wide_Clean-1-1785201449.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-07-28T01:18:24+00:00"
+  },
+  {
+    "title": "Johnson &amp; Johnson offers $5.5bn to settle talc cancer lawsuits",
+    "description": "Johnson &amp; Johnson agrees to pay $5.5bn to settle nearly 70,000 US lawsuits over talc-based baby powder cancer claims.",
+    "link": "https://www.aljazeera.com/news/2026/7/28/jj-reaches-5-5bn-settlement-over-lawsuits-tying-talc-to-ovarian-cancer?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67f620-1785198112.jpg?resize=1920%2C1440",
+    "pubDate": "2026-07-28T01:07:09+00:00"
   },
   {
     "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
@@ -63,13 +175,6 @@
     "pubDate": "2026-07-28T00:00:12+00:00"
   },
   {
-    "title": "Iran war live: Trump touts ‘friendly talks’; Netanyahu arrives in US",
-    "description": "Iran says US 'struggling' to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-27T155803Z_1463333074_RC2FMMAYLHRZ_RTRMADP_3_IRAN-CRISIS-SAUDI-ABQAIQ-1785195601.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-28T00:00:00+00:00"
-  },
-  {
     "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
     "description": "The majority leader is pursuing floor time for unrelated bills as the crypto industry waits for its policy effort to get its chance for votes.",
     "link": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
@@ -112,18 +217,11 @@
     "pubDate": "2026-07-27T23:13:13+00:00"
   },
   {
-    "title": "US diplomats walk out as France addresses UN Security Council",
-    "description": "US diplomats walk out of UN meeting during France's speech amid tensions over human rights chief's reappointment.",
-    "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a67d60a18e0-1785189898.jpg?resize=1200%2C675",
-    "pubDate": "2026-07-27T23:07:55+00:00"
-  },
-  {
-    "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-    "description": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f55/live/663c7760-86d9-11f1-bba7-35d3e67315de.jpg",
-    "pubDate": "2026-07-27T22:58:49+00:00"
+    "title": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
+    "description": "The AI race is heating up so fast this summer that it's reshaping national priorities in the U.S. and China.",
+    "link": "https://www.cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108340261-1785122274093-gettyimages-2282553160-HL_IBENYOUSSEF_3208649.jpeg?v=1785122689&w=1920&h=1080",
+    "pubDate": "2026-07-27T23:00:02+00:00"
   },
   {
     "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
@@ -133,32 +231,11 @@
     "pubDate": "2026-07-27T22:55:44+00:00"
   },
   {
-    "title": "Shot fired outside US consulate in Canada for second time this year",
-    "description": "Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate.",
-    "link": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67d4f3-1785189619.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-27T22:34:38+00:00"
-  },
-  {
     "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
     "description": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
     "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108326888-1782401753108-gettyimages-2278793695-CALIFORNIA_PRIMARY_ELECTION.jpeg?v=1782405357&w=1920&h=1080",
     "pubDate": "2026-07-27T22:23:50+00:00"
-  },
-  {
-    "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
-    "description": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
-    "link": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108202841-1758643560411-gettyimages-2236938634-vcg111592748341.jpeg?v=1758647792&w=1920&h=1080",
-    "pubDate": "2026-07-27T22:20:01+00:00"
-  },
-  {
-    "title": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
-    "description": "The Trump administration asks justices to intervene after an appeals court blocked key parts of a mail-in voting executive order.",
-    "link": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-27T22:17:17+00:00"
   },
   {
     "title": "Love Island UK crowns winners of twist-filled series",
@@ -203,39 +280,11 @@
     "pubDate": "2026-07-27T21:33:37+00:00"
   },
   {
-    "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-    "description": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
-    "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108329722-1782971099939-gettyimages-2281424331-AFP_B7DV3ND.jpeg?v=1782971255&w=1920&h=1080",
-    "pubDate": "2026-07-27T21:29:50+00:00"
-  },
-  {
-    "title": "Video shows man subdued after stabbing three women in Paris",
-    "description": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-27-at-22.22.39-1785187441.png?resize=1200%2C675",
-    "pubDate": "2026-07-27T21:27:08+00:00"
-  },
-  {
     "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
     "description": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
     "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108337556-17845778412026-07-20t195630z_1807659533_rc2thmadohpw_rtrmadp_0_space-spacex-starship.jpeg?v=1784577868&w=1920&h=1080",
     "pubDate": "2026-07-27T21:26:03+00:00"
-  },
-  {
-    "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-    "description": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.",
-    "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67c173-1785184627.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-27T21:24:31+00:00"
-  },
-  {
-    "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
-    "description": "UN chief Guterres says settlements a 'flagrant violation' of international law, amid escalating violence.",
-    "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a67c20f6e9a8-1785184783.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-27T21:17:15+00:00"
   },
   {
     "title": "Skillet-Fried Chicken",
@@ -252,11 +301,11 @@
     "pubDate": "2026-07-27T21:12:26+00:00"
   },
   {
-    "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
-    "description": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.",
-    "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67abd4-1785179092.jpg?resize=1920%2C1440",
-    "pubDate": "2026-07-27T21:08:21+00:00"
+    "title": "Trump says Iran war talks taking place during lull in strikes",
+    "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+    "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17b/live/2c584380-89f9-11f1-b8ee-9b3c26ad07bb.jpg",
+    "pubDate": "2026-07-27T21:10:56+00:00"
   },
   {
     "title": "Cross River to enable P2P payments, banking services for X Money",
@@ -392,13 +441,6 @@
     "pubDate": "2026-07-27T18:15:18+00:00"
   },
   {
-    "title": "McConnell Extends Senate Leave, Will Miss State Picnic",
-    "description": "A new statement said the senator was not “medically cleared” to leave a rehabilitation facility and would miss a Kentucky political event.",
-    "link": "https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-27T18:02:25+00:00"
-  },
-  {
     "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
     "description": "Regulated perpetual futures are officially landing in the U.S., but while agile trading firms and crypto exchanges race to capture massive retail demand, traditional Wall Street banks are holding back until liquidity, rules, and infrastructure mature.",
     "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
@@ -427,24 +469,10 @@
     "pubDate": "2026-07-27T16:40:39+00:00"
   },
   {
-    "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
-    "description": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
-    "link": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ec6/live/225c1a20-89c5-11f1-a501-d9a9d2e9b6c1.jpg",
-    "pubDate": "2026-07-27T16:38:33+00:00"
-  },
-  {
-    "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-    "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a3e/live/b5882cf0-1d6c-11f1-b048-c9424b2cf5fd.png",
-    "pubDate": "2026-07-27T16:33:05+00:00"
-  },
-  {
     "title": "Heat From France’s Wildfires Creates a ‘Fire Cloud,’ or Pyrocumulonimbus",
     "description": "A pyrocumulonimbus — a thundercloud created by intense heat — is a phenomenon that can spark new blazes and is “unprecedented in France,” officials said.",
     "link": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-fireclouds-tpbv/27europe-wildfires-fireclouds-tpbv-facebookJumbo.jpg",
+    "thumbnail": "",
     "pubDate": "2026-07-27T16:04:03+00:00"
   },
   {
@@ -467,13 +495,6 @@
     "link": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
     "thumbnail": "https://s.yimg.com/lo/mysterio/api/26B4C0169A4ADC61CB636D0C9227116849AF1233FB550EAE5AC366705B789C37/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F960e684726db56732f7203dcd298d088",
     "pubDate": "2026-07-27T14:57:07+00:00"
-  },
-  {
-    "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
-    "description": "Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session.",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/gym-up-bitcoin.jpg",
-    "pubDate": "2026-07-27T14:51:26+00:00"
   },
   {
     "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
@@ -511,25 +532,11 @@
     "pubDate": "2026-07-27T14:00:00+00:00"
   },
   {
-    "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
-    "description": "Hong Kong’s HashKey will unify its crypto exchange branches, with users from its Hong Kong, Global, Singapore and Middle East regions using the same platform.",
-    "link": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-hong-kong.jpg",
-    "pubDate": "2026-07-27T13:41:44+00:00"
-  },
-  {
     "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
     "description": "Bitkub was the victim of a cyberattack in May 2021, which led to hacks stealing 1.7 billion baht across 16 different digital assets.",
     "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2ff11efd63b3586d84e43397e95166d87d433586-2499x1449.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
     "pubDate": "2026-07-27T13:32:16+00:00"
-  },
-  {
-    "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
-    "description": "Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflation data and US-Iran war triggers keep risk-assets in an unpredictable state.",
-    "link": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-1.jpg",
-    "pubDate": "2026-07-27T13:31:07+00:00"
   },
   {
     "title": "Stalker 2’s First Major Expansion Arrives Very Soon",
@@ -546,13 +553,6 @@
     "pubDate": "2026-07-27T12:50:29+00:00"
   },
   {
-    "title": "Wildfire Smoke Chokes Skies in Spain and France",
-    "description": "Hundreds of thousands of people have been forced to evacuate or told to take shelter inside.",
-    "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-    "thumbnail": "",
-    "pubDate": "2026-07-27T12:48:09+00:00"
-  },
-  {
     "title": "What Are Protein-Packed Breakfasts I Can Make in 3 Minutes?",
     "description": "A cottage cheese smoothie, speedy omelet roll-up, and more hand-picked recipes from our Dear Bon Appétit column.",
     "link": "https://www.bonappetit.com/story/dear-bon-appetit-july-27-quick-protein-breakfast",
@@ -560,11 +560,11 @@
     "pubDate": "2026-07-27T10:00:00+00:00"
   },
   {
-    "title": "India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor",
-    "description": "In a rare occurrence, Modi's government was forced to concede demands of Gen Z protesters, underscoring their rising influence in the country's polity.",
-    "link": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108340296-1785133752576-gettyimages-2287064319-aditya-notitle260726_npGtJ.jpeg?v=1785133769&w=1920&h=1080",
-    "pubDate": "2026-07-27T08:41:01+00:00"
+    "title": "Paramount is Betting Johnny Depp Can Make a Comeback With ‘Ebenezer: A Christmas Carol’",
+    "description": "Paramount is betting that audiences will re-embrace the star a decade after allegations of domestic abuse and a defamation trial.",
+    "link": "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html",
+    "thumbnail": "",
+    "pubDate": "2026-07-27T09:00:42+00:00"
   },
   {
     "title": "47 Gochujang Recipes for Chicken, Steak, Noodles, and More",
@@ -574,67 +574,67 @@
     "pubDate": "2026-07-27T01:38:36+00:00"
   },
   {
-    "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
+    "title": "SpaceX Bears May Be Right On Value And Wrong On Timing",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/241F3A08C1F35AF34459B4C5951301ACAA05ADAE0132738B45689595DD421623/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F3d65b1b20e0c195e58d59983b9aa0775",
-    "pubDate": "2026-07-26T15:07:00+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-bears-may-value-wrong-180410380.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/BD33E09E267E672986F8353F3B3EC9286D1ABD5F56A98FC3ED92FFA69789AE98/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F165693ca1b57acb895a8a86d5d9adcca",
+    "pubDate": "2026-07-26T18:04:10+00:00"
   },
   {
-    "title": "Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks",
+    "title": "Arizona State launches degree on becoming an influencer — exactly the career more than half of Gen Z adults dream of",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/elizabeth-warren-says-house-stock-143000935.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/4DAE1CF7D2A7A96A5D608C2CADFF05C3ADEDE1000C8BB7055EA038872BB29652/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F435f849678f286bba4338556b9726af5",
-    "pubDate": "2026-07-26T14:30:00+00:00"
+    "link": "https://finance.yahoo.com/small-business/articles/arizona-state-launches-degree-becoming-180000860.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/D4836462B57CC7F5A34CD93D17C6976D860EDFEF456C58732EEBE309CA36E6CE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F80e33e2d1b1a1f74be228e53fbaeee88",
+    "pubDate": "2026-07-26T18:00:00+00:00"
   },
   {
-    "title": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
+    "title": "Amazon Stock Just Hit a Major Hurdle Ahead of Earnings",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/B8ED1B4960D2EE230F303AED9E8E4358C186FE605D6FB842BC2A5962FAF16D1F/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fd3b0735997823ab2c69af690f505d319",
-    "pubDate": "2026-07-26T14:00:02+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-just-hit-major-173002306.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/B41E953C0804A163136AD31A5D6B01455F4DDE633BD39A52EB3EBBE1D91531F1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fc67ec0d98ea8187cd2f72312ec448fc6",
+    "pubDate": "2026-07-26T17:30:02+00:00"
   },
   {
-    "title": "ICE uses a $125 million Thomson Reuters deal to access your credit card data without a warrant",
+    "title": "Fed Decision, Tech Earnings and Other Can't Miss Items this Week",
     "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/ice-uses-125-million-thomson-140000150.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/CF1CAD0DE6692F403BBEBFFD717D3E92283FF7A467F81FD2590CE3DC0DC1A654/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fb1261245c9131ae1d84919bfaf53df5f",
-    "pubDate": "2026-07-26T14:00:00+00:00"
+    "link": "https://finance.yahoo.com/economy/policy/articles/fed-decision-tech-earnings-other-170002542.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/DC69E3585292550416F9683DC696ECC3B31920F15AAB14A639FEBF25E7DB423B/subgraphmysterio/resizefill_w1200_h797;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fa3f8b7b175c2147da9ed22b631b9dee3",
+    "pubDate": "2026-07-26T17:00:02+00:00"
   },
   {
-    "title": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
+    "title": "A $25,000 home repair could wipe out her $27,000 emergency fund — experts say there's a smarter move",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/shein-reveals-key-financials-ahead-134128865.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/6724DCC59E3909AC4611AE8A896C580633EC7C81616EC732F37635BE637F0E01/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F8167253a5bfecfa35fad69b5dad02514",
-    "pubDate": "2026-07-26T13:41:28+00:00"
+    "link": "https://finance.yahoo.com/real-estate/articles/25-000-home-repair-could-170000821.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/6066DD49D683B1F6271BFD09CB6EE2EF6759F15E87411D2B18BB4FC33DCAA046/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F33ad8be4a89b5d098f77f966819df688",
+    "pubDate": "2026-07-26T17:00:00+00:00"
   },
   {
-    "title": "Intel Corp Shows Strong Q2 Results and Free Cash Flow - Shorting INTC Puts is Still the Best Play",
+    "title": "Google spent $490 million a day on AI and burned $5.9 billion in cash — its first negative quarter since going public",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-shows-strong-q2-133002161.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/AEAF8CB0B8D162A02880F83AD75A4396E270F440E94BEC7CA80C7E6209E82DC6/subgraphmysterio/resizefill_w1200_h835;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb87446c2842f36a7d4900f8f7c1bcd32",
-    "pubDate": "2026-07-26T13:30:02+00:00"
+    "link": "https://finance.yahoo.com/technology/ai/articles/google-spent-490-million-day-163000234.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/E6F0F50D54A11C126AAD0480D4A4EFCE61F8432A503916F7A9060A35E3042D7D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F0af53d7dfad4c9bd99f6bf05ec5c67ca",
+    "pubDate": "2026-07-26T16:30:00+00:00"
   },
   {
-    "title": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
+    "title": "Better AI Software Stock: Palantir vs. ServiceNow",
     "description": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/major-anthropic-chip-deal-really-130002547.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F3C39B4B5DF863F8B416626DAA95AA3E2FA3B482BBBB299D3322FA1FC2D95E5D/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Ffa55004840141999980cf909890c1654",
-    "pubDate": "2026-07-26T13:00:02+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/A6F7A9C9B372CF4FA7F343ABFF384C2C4B552555837D35EE275F78E8928EA940/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F55db37c849534bcc91814eef6ea23abf",
+    "pubDate": "2026-07-26T16:07:00+00:00"
   },
   {
-    "title": "5 crystal-clear signs you’re (very) well prepared for retirement. Can you finally stop stressing?",
+    "title": "Oil Market's Glut Narrative Just Blew Up",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/articles/5-crystal-clear-signs-very-125500900.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/99CC34E36DF3E064614E989759A638CD8640B178A87A82688D4AF028B7D66648/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fc6e984372b5ac35eba450998314f8a05",
-    "pubDate": "2026-07-26T12:55:00+00:00"
+    "link": "https://finance.yahoo.com/energy/articles/oil-markets-glut-narrative-just-160000237.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/00B414A5BB116DC2C282E8757C8967F9EF5FBD73ED4AD692C7E08915FBAC188E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F942ef93f387f85ac8e663c304f5d5ed4",
+    "pubDate": "2026-07-26T16:00:00+00:00"
   },
   {
-    "title": "Dave Ramsey says you can save money by raising your car insurance deductible. We did the math to see if it works",
+    "title": "Intel Just Delivered Its Best Quarter in Years, But There Are Still Better AI Stocks to Buy",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/articles/dave-ramsey-says-save-money-124500438.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F47CEE4B18A0AAD8812225A79B1C5FA9A3A66DD79BAA4C6B061EC9C21EAB763F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F70d867d02504785aceeec420a11dd8d4",
-    "pubDate": "2026-07-26T12:45:00+00:00"
+    "link": "https://finance.yahoo.com/technology/ai/articles/intel-just-delivered-best-quarter-153002421.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/FA7B3328CB2EA2AB0ABCE8725FFC6705DECBA57F1CEAD970490055416F768783/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F03263d1eeb676e7f1fb7c073ff6dc90f",
+    "pubDate": "2026-07-26T15:30:02+00:00"
   },
   {
     "title": "19 Eggplant Recipes That Go Beyond Parm",
