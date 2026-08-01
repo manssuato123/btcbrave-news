@@ -1,10 +1,66 @@
 [
   {
-    "title": "Fifa scraps controversial World Cup investment plan",
-    "description": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+    "title": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
+    "description": "A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.",
+    "link": "https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108340213-1785093979339-gettyimages-2286666732-AFP_C2YU9CT.jpeg?v=1785409532&w=1920&h=1080",
+    "pubDate": "2026-08-01T06:58:41+00:00"
+  },
+  {
+    "title": "Iran's overlapping power centers make ending the war more complicated",
+    "description": "Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.",
+    "link": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108330702-1783336454754-gettyimages-2284192770-AFP_B9AV9G6.jpeg?v=1783336518&w=1920&h=1080",
+    "pubDate": "2026-08-01T06:52:42+00:00"
+  },
+  {
+    "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+    "description": "The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed unauthorized transactions or fee draining.",
+    "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-01T06:09:51+00:00"
+  },
+  {
+    "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+    "description": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
+    "link": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/ee774b5ffc09b1ed7b4b987d689ad1a95db24aaa-1280x720.jpg?auto=format&q=75",
+    "pubDate": "2026-08-01T05:55:46+00:00"
+  },
+  {
+    "title": "Fifa scraps World Cup investment plan after outcry",
+    "description": "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead.",
     "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg",
-    "pubDate": "2026-08-01T04:18:59+00:00"
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg",
+    "pubDate": "2026-08-01T05:42:31+00:00"
+  },
+  {
+    "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/678b/live/ea29f390-8c56-11f1-b8ee-9b3c26ad07bb.jpg",
+    "pubDate": "2026-08-01T05:01:56+00:00"
+  },
+  {
+    "title": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?",
+    "description": "BBC Verify has spoken to experts and analysed satellite imagery to piece together what we know about the site, and the potential impact of a US strike.",
+    "link": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53b8/live/bedaaee0-8ce8-11f1-b2ab-0dd01740f9f6.png",
+    "pubDate": "2026-08-01T05:01:19+00:00"
+  },
+  {
+    "title": "Protesters detained at rally in support of Pakistan-administered Kashmir",
+    "description": "Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785559152.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-08-01T04:39:22+00:00"
+  },
+  {
+    "title": "US drops charges against Olympian for damage to Reflecting Pool",
+    "description": "The US Department of Justice has moved to dismiss its case against Olympian David Hearn.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785558883.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2026-08-01T04:36:10+00:00"
   },
   {
     "title": "How 50,000 People Surged Into a Spanish Exclave in Africa",
@@ -49,8 +105,8 @@
     "pubDate": "2026-08-01T02:12:17+00:00"
   },
   {
-    "title": "Russian missile attack kills three in Ukraine’s Kyiv",
-    "description": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+    "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
+    "description": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
     "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a6d3fd2-1785544658.jpg?resize=1920%2C1440",
     "pubDate": "2026-08-01T02:06:00+00:00"
@@ -77,11 +133,11 @@
     "pubDate": "2026-08-01T01:10:58+00:00"
   },
   {
-    "title": "Victims of disgraced funeral boss demand industry regulation",
-    "description": "Campaigners say \"full statutory regulation\" must be brought in following Legacy funerals scandal.",
-    "link": "https://www.bbc.co.uk/news/articles/cr49w13w9d0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/563651e0-8c0d-11f1-8665-e382dc49dfdb.jpg",
-    "pubDate": "2026-08-01T00:55:15+00:00"
+    "title": "I was working to survive and I wasn't paid",
+    "description": "Sonia Garcia Monuz is among ex-catering firm employees who claim they are owed unpaid wages.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rv3899g8o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9e4/live/5ef93bf0-8c15-11f1-94b2-05bc97107049.jpg",
+    "pubDate": "2026-08-01T01:04:30+00:00"
   },
   {
     "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
@@ -91,25 +147,11 @@
     "pubDate": "2026-08-01T00:48:37+00:00"
   },
   {
-    "title": "Trump administration to dismiss Reflecting Pool charges against David Hearn",
-    "description": "US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of 'botched installation'.",
-    "link": "https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6d3636-1785542198.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-01T00:02:37+00:00"
-  },
-  {
-    "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
-    "description": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any 'mad' US strikes.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6ba39e3e0e-1785439134.jpg?resize=1200%2C630",
-    "pubDate": "2026-07-31T23:59:40+00:00"
-  },
-  {
-    "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-    "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
-    "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87d/live/23d70e10-8bf9-11f1-b8ee-9b3c26ad07bb.png",
-    "pubDate": "2026-07-31T23:58:12+00:00"
+    "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+    "description": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+    "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/c89709f0-8d39-11f1-a7ab-8b30adf0800a.jpg",
+    "pubDate": "2026-08-01T00:20:43+00:00"
   },
   {
     "title": "Trump to Appeal Judge’s Ruling Denouncing I.R.S. Lawsuit as Exercise in Self-Dealing",
@@ -126,11 +168,11 @@
     "pubDate": "2026-07-31T23:43:10+00:00"
   },
   {
-    "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-    "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
-    "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f06/live/74ae3130-8a6c-11f1-a7ab-8b30adf0800a.jpg",
-    "pubDate": "2026-07-31T23:41:10+00:00"
+    "title": "He bought a fitness supplement online to bulk up, but ended up losing his mind",
+    "description": "Daniel Murphy went into psychosis after taking missold drugs which had been mixed with steroids.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c6/live/dd498740-8c28-11f1-9488-69577cd5e4e0.jpg",
+    "pubDate": "2026-07-31T23:42:03+00:00"
   },
   {
     "title": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
@@ -194,13 +236,6 @@
     "link": "https://www.polygon.com/booster-gold-tv-show-dcu-david-jenkins/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/booster-gold-and-blue-beetle.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-07-31T21:18:44+00:00"
-  },
-  {
-    "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
-    "description": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal.",
-    "link": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c578/live/0117af90-8d22-11f1-8806-e38839242051.jpg",
-    "pubDate": "2026-07-31T20:58:27+00:00"
   },
   {
     "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
@@ -287,13 +322,6 @@
     "pubDate": "2026-07-31T19:05:33+00:00"
   },
   {
-    "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
-    "description": "President Donald Trump said the U.S. hasn't agreed to grant Ukraine licenses to produce Patriot missile systems.",
-    "link": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343259-1785514920036-gettyimages-2287743679-AFP_C3PP9VA.jpeg?v=1785514949&w=1920&h=1080",
-    "pubDate": "2026-07-31T18:52:10+00:00"
-  },
-  {
     "title": "Dragon's Dogma 2: Dark Arisen is getting a fan-requested hard mode",
     "description": "Dragon's Dogma 2: Dark Arisen will add hard mode to Capcom's expanded edition of the 2024 action RPG",
     "link": "https://www.polygon.com/dragons-dogma-2-dark-arisen-hard-mode/",
@@ -322,13 +350,6 @@
     "pubDate": "2026-07-31T18:24:55+00:00"
   },
   {
-    "title": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
-    "description": "Investors saw Warsh’s press conference as dovish, but a closer reading of the Fed chair's prepared remarks suggests he may be close to raising interest rates.",
-    "link": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108342007-17853541062026-07-29t193815z_169839558_rc2vnmanqtme_rtrmadp_0_usa-markets-fed.jpeg?v=1785354138&w=1920&h=1080",
-    "pubDate": "2026-07-31T18:16:18+00:00"
-  },
-  {
     "title": "World Of Warcraft Is Coming To D&amp;D, And Will Let You Grind Renown Just Like The MMO",
     "description": "World of Warcraft is getting the Dungeons &amp; Dragons treatment, with the iconic tabletop roleplaying game set to translate developer Blizzard's popular MMORPG into a proper pencil-and paper-experience this November. D&amp;D: World of Warcraft is bringing a lot to the table, with everything a dungeon master might potentially need to create an Azeroth campaign. For starters, all 13 WoW classes will be playable, with six additional subclasses, three modified ones, and over 40 class specializations to choose from. The expansion additionally adds 11 WoW races (or species, as they are called in D&amp;D), including tauren, draenei, forsaken, and trolls, along with WoW-specific rules for existing D&amp;D races like humans, dwarves, goblins, orcs, and elves. \"From Azeroth's ancient races to newcomers from distant realms, these species bring a wide range of histories, cultures, and perspectives to your adventures,\" Blizzard writes in its announcement. \"Your choice of species can even grant a starting Renown Score with one of Azeroth's factions--so whether you ride out 'For the Horde! or 'For the Alliance!', your allegiance is baked into your origin.\" https://www.youtube.com/watch?v=1yMOZlYqsnY Blizzard's MMO is filled with iconic spells, items, and enemies, and D&amp;D: World of Warcraft includes those as well. There will be over 60 new spells added as part of the expansion, as well 25 new magic items that include mounts and companion creatures. D&amp;D's spin on WoW even attempts to replicate some of the gameplay and systems longtime players of the MMO are all too familiar with. The expansion adds 10 WoW professions to choose from, allowing players to spend their downtime crafting items or improving their gear. There are even 25 different factions that players can grind out Renown with. Just like in WoW proper, increasing Renown with a faction will grant perks and rewards for those who the climb ranks. On the monster front, 50 new monsters are being added as part of the setting alongside 30 dungeon bosses. Seven of WoW's most iconic dungeons will be playable, including the Deadmines, Onyxia's Lair, and the Scarlet Monastery. An optional Icecrown Citadel Adventure Map Pack will also be available--one that will carry players level 16-20 from the lower spire of the citadel to the Frozen Throne and a confrontation with the Lich King himself. For WoW players who aren't keen on sitting down at the table, there are still a few reasons to take notice. Preordering certain editions, including the D&amp;D: World of Warcraft Ultimate Bundle or Collector's Edition, unlocks D&amp;D-themed items in WoW, including a Black Dragon mount, Gazer pet, Mimic chest toy, and Mimic chest housing decor. The cheapest option for snagging the in-game items according to the official D&amp;D Beyond website appears to be by preordering the $80 physical and digital combo edition. D&amp;D: World of Warcraft will release November 17, with early access beginning November 3. In other WoW news, Blizzard will be adding the viral Jimothy to the MMORPG in the game's next update, while a Blizzard employee was recently fired for allegedly helping a group of players cheat in a Mythic+ dungeon.",
     "link": "https://www.gamespot.com/articles/world-of-warcraft-is-coming-to-dd-and-will-let-you-grind-renown-just-like-the-mmo/",
@@ -353,7 +374,7 @@
     "title": "Unsurprisingly, It’s PlayStation, Not You, Benefiting From Tariff Refunds",
     "description": "US tariffs may have forced Sony to increase the prices of its PlayStation hardware, but the company is now benefiting from those tariffs being refunded. As part of the company's latest earnings report, it noted an increase in operating income can be attributed in part to tariff refunds--refunds it seems unlikely to pass onto consumers who paid those higher prices. Those refunds were issued earlier this year after the US Supreme court declared tariffs implemented by President Trump to be unlawful. Sony's Q1 2026 earnings (covering April through June) call out tariff refunds as one of the positive contributors to a 37% increase that its Game &amp; Network Services business saw. Shortly after the tariffs were first implemented, Sony raised the price of its PS5 consoles in August 2025, and again in May 2026. The company has not issued an official statement regarding any potential passing of the refunds back to consumers, and earlier this year, a class-action-complaint was filed. The plaintiffs are arguing that Sony passed the cost of its price hikes onto consumers, and if the nationwide class suit is successful, Sony would be required to pay an undisclosed sum to anyone who purchased a PlayStation console from August 1, 2025. Although Sony has not explicitly said it will not share tariff refunds with consumers who paid higher prices, we've already seen Nintendo and others retain those refunds for themselves. Sony calling out the positive impact on its operating income also suggests no plan to pass along those refunds. It's worth noting that Sony has never mentioned the US tariffs as the sole reason for the console price hikes, as it referenced \"pressures in the global economic landscape\" as the reason for the last price increase. The ongoing RAM shortage driven by large-scale investment in AI and data centers has also been a key factor in console price increases. Xbox manufacturer Microsoft explained that it had to enact another price hike in June because console storage and memory prices had more than doubled, and it also expects another doubling of component prices in 2027, suggesting more price hikes will follow soon after. This probably sounds familiar, as a class action lawsuit was filed in April 2026 on behalf of Nintendo consumers. The plaintiffs are arguing that Nintendo had an obligation to refund customers who purchased its products, following its decision to claim refunds on the tariffs. In a reply, Nintendo disputed the claims and said that customers were never forced to make a purchase and that it didn't raise the price of all of its products. \"Those who bought Nintendo's products received exactly what they bargained and paid for: a console, game and/or accessory at a price to which both parties agreed,\" Nintendo wrote. In more Sony news, the ratio of physical-to-digital game sales increased last quarter, PS5 console sales are slowly creeping toward the 100 million lifetime sales mark, and Sony has broken its silence over its decision to go all-digital with game sales in 2028.",
     "link": "https://www.gamespot.com/articles/playstation-parent-company-made-more-money-thanks-to-tariffs-it-shouldnt-have-paid/",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/07/Sony-tariffs.jpg?w=636",
     "pubDate": "2026-07-31T17:56:29+00:00"
   },
   {
@@ -413,13 +434,6 @@
     "pubDate": "2026-07-31T16:56:31+00:00"
   },
   {
-    "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
-    "description": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bac/live/5fea3750-8cf4-11f1-a7ab-8b30adf0800a.png",
-    "pubDate": "2026-07-31T16:52:16+00:00"
-  },
-  {
     "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
     "description": "Trimmed mean measures are painting a different picture than the headline numbers.",
     "link": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
@@ -430,7 +444,7 @@
     "title": "Here’s Why People Think The Ocarina Of Time Remake Will Launch A Week Before GTA 6",
     "description": "Suspicions are arising among Legend of Zelda fans that the Ocarina of Time remake will launch in mid-November--just within spitting distance of Grand Theft Auto 6. The theories revolve around an apparent pattern of Nintendo's Amiibo releases, and it's hard to blame anyone for buying into them. Per Kotaku, fans claim to have spotted a November 11 release date (adjusted to November 12 with the correct regional system clock settings) for a pair of Kirby Air Riders Amiibo figures (Sword Kirby and Noir Dedede) on Nintendo UK's store--though those listings have since been removed. And fans have observed that Nintendo generally releases Amiibo figures on the same day as its first-party game launches, whether the Amiibos tie into those launches or not. Two Kirby Air Riders Amiibo figures are set to release in November, according to apparent listings on the Nintendo UK store.For instance, the Mineru's Construct Amiibo for The Legend of Zelda: Tears of the Kingdom is coming out on September 17, the same day that Fire Emblem: Fortune's Weave releases on Switch 2. Earlier this year, the King Dedede &amp; Tank Star Amiibo launched simultaneously with Rhythm Heaven Groove on July 2, and the Meta Knight &amp; Shadow Star Amiibo coincided with Pokemon Pokopia on March 5. That all leads many to the conclusion that Nintendo is releasing something in mid-November. With Nintendo firm on a 2026 release window for the Ocarina of Time remake, taking a prime November spot appears logical. Of course, Ocarina of Time would be facing off against the most anticipated video game launch in recent history with GTA 6, which is set for a November 19 launch. Pretty much every other gaming company has scrambled to avoid being near the epicenter of GTA 6's release, leading to an awfully crowded September. Nintendo seems like the one big player (if you don't count Atari with its Barbie game re-releases, or Devolver with whatever it's planning for GTA 6 day) willing to poke Rockstar's upcoming blockbuster with a stick. Presuming this prediction becomes reality, it'll be a fascinating example of counter-programming. Zelda (especially Ocarina of Time) and the GTA franchise are heavy-hitters with different audiences, and with GTA 6 not on Switch 2 at launch, the Ocarina of Time remake will give Switch 2-only players something to get their hands on in November. Both titles would have the opportunity to thrive despite occupying the same space on the calendar. And if you're a fan of both franchises, November could be the opportunity to eat two entire cakes to yourself, which could be a fun, albeit possibly overwhelming and time-consuming feat. Nintendo’s Top-Selling Switch 2 Games Of All Time View Images",
     "link": "https://www.gamespot.com/articles/heres-why-people-think-the-ocarina-of-time-remake-will-launch-a-week-before-gta-6/",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/07/HOe8KsRaQAAbCCU.jpg?w=636",
     "pubDate": "2026-07-31T16:29:54+00:00"
   },
   {
@@ -507,7 +521,7 @@
     "title": "Here Is Xbox CEO’s Plan To Turn Things Around",
     "description": "While Microsoft itself just set a record for the biggest single-day market cap swing in history, the company's Xbox division is struggling. How will new Xbox CEO Asha Sharma turn things around? In a memo to staff obtained by The Verge, Sharma shared the top Xbox priorities for the current fiscal year and beyond. These included four main buckets--Core, Content, Creation, and Connection. Some of the efforts include making Minecraft \"the world's creator platform\" and getting Xbox games to become \"global franchises.\" She also wants to \"strengthen\" the Xbox platform, \"led by console\" and undertake an effort to \"extend the worlds that fans love.\" Here are the four pillars, as written by Sharma: CORE: Strengthen our platform, led by console CONTENT: Grow great games into global franchises CREATION: Make Minecraft the world’s creator platform CONNECTION: Extend the worlds that fans love Xbox revenue decreased by 7% for the latest fiscal year, or about $1.7 billion. It's not uncommon for businesses to have up and down swings, but what's particularly notable here is that most of Microsoft's other divisions are booming. Microsoft's Windows and Devices division dipped, too, but not by as much as Xbox. Additionally, every other business unit showed year-over-year revenue gains. Microsoft's biggest success in the past year was its \"server products and cloud services\" division, which jumped by $31 billion thanks in part to the AI craze. \"Our business did not grow with our audience\" Sharma said in FY2026 (July 1, 2025-June 30, 2026), more than 200 million \"new players\" came to Xbox, \"but our business did not grow with our audience.\" She said Microsoft must \"close that gap by investing in what players value.\" She said this will take time--but not that much time, at least for the first stage. Sharma said Xbox is expected to \"return to growth\" by the end of FY2027, so by June 30, 2027. In her memo, Sharma said for FY2028 and FY2029, the Xbox division must \"move into businesses producing meaningful player value and revenue acceleration.\" She also talked about trying to \"scale what works\" and by FY2030, she said Xbox's ambition is to \"be halfway to our long-term daily-player goal with sustained double-digit growth in players and engagement and industry-leading margins.\" Xbox is undergoing a \"reset.\"Additionally, Sharma said Xbox is already \"one of the largest stadiums\" out there, reaching 100 million people daily, 500 million monthly, and nearly 1 billion each year. Sharma also spoke about how important console is to Xbox, saying console \"generates the majority of Xbox revenue and remains the foundation of our fandom.\" Microsoft is working on a new system, Project Helix, but it may be undergoing changes due to AI-related memory and component pressures that are being fueled, in part and ironically, by Microsoft. Also in the memo, Sharma talked about moving away from a decentralized model for game development to a system that is \"more focused around our strongest franchises and biggest new ideas.\" Part of this has included divesting of five studios and re-focusing on games like Fallout and Elder Scrolls that have the best chance at succeeding. She added that Xbox leadership is coming up with \"long-term plans\" for the company's biggest franchises, spanning games, film, TV, consumer products, live experiences, sponsorships, and doing more in China. On the subject of games specifically, Sharma said Xbox already has three franchises that generate $1 billion or more annually. She didn't name them outright, however. She also said Microsoft will invest in Minecraft \"more than ever before.\" As for film and TV projects, Microsoft is working with Paramount on a Call of Duty movie that's coming in 2028. There is also a Gears of War movie in the works for Netflix. A Gears of War animated TV show is coming as well. There is also a new Minecraft movie set for release in 2027, a third season of Fallout, and a Sea of Thieves movie. In total, Microsoft has a dozen film and TV projects in the works. Earlier this year, Xbox's new chief strategy officer, Matthew Ball, spoke frankly about how Xbox languished in recent years and what comes next. Another way Microsoft is trying to get back to growth is by cutting staff. The company laid off 1,600 people this month and will part ways with another 1,600 people in the next year. For more, check out GameSpot's breakdown of the Xbox studios that are left and what they're working on.",
     "link": "https://www.gamespot.com/articles/here-is-xbox-ceos-plan-to-turn-things-around/",
-    "thumbnail": "",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/07/Xboxreset-4.png?w=636",
     "pubDate": "2026-07-31T15:36:55+00:00"
   },
   {
@@ -574,25 +588,11 @@
     "pubDate": "2026-07-31T13:20:45+00:00"
   },
   {
-    "title": "RWA perps will outpace tokenization",
-    "description": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs.",
-    "link": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/81ec8c6cf32b1ab496743941c1f77e7361545eaa-7517x5012.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-07-31T13:00:00+00:00"
-  },
-  {
     "title": "The Best Cocktail Shakers Will Never Leak, Never Spill, and Always Dilute Just So (2026)",
     "description": "And all my top picks feel oh so good in your hand.",
     "link": "https://www.bonappetit.com/story/best-cocktail-shaker",
     "thumbnail": "https://assets.bonappetit.com/photos/6a5e5e1f1fda0147d49f24b4/master/pass/Cocktail%20shakers%20bg%202026.jpg",
     "pubDate": "2026-07-31T12:37:00+00:00"
-  },
-  {
-    "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-    "description": "Shelbit allegedly sent hundreds of millions of dollars to major crypto exchanges, including Binance, as it linked gambling sites and sanctioned Iranian entities to global crypto markets.",
-    "link": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9bc166a43d61272151ae89ff698586929d81a0b6-2084x1092.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-07-31T12:28:02+00:00"
   },
   {
     "title": "EV prices aren't following the 'law of used cars,' analyst says — what it means for buyers and sellers",
@@ -616,39 +616,60 @@
     "pubDate": "2026-07-31T09:02:04+00:00"
   },
   {
-    "title": "Apple Stock Falls As iPhone Maker Guides Below Views",
+    "title": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
     "description": "",
-    "link": "https://www.investors.com/news/technology/apple-stock-aapl-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/07/stock-Apple-iPhone-7ProMax-company.jpg",
-    "pubDate": "2026-07-30T21:54:10+00:00"
+    "link": "https://finance.yahoo.com/energy/articles/u-just-took-big-step-000000238.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0685E17992FAD727BF2D730E6D0FF9734C5977BA77D250292D97423B60E6F4BF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fe601b766d29b93b82639b77ad37c0899",
+    "pubDate": "2026-07-31T00:00:00+00:00"
   },
   {
-    "title": "CNX Resources Corporation Q2 2026 Earnings Call Summary",
+    "title": "Is AMD Stock Heading to $600 per Share?",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cnx-resources-corporation-q2-2026-215143119.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/37D63FED1423260C1E3054C04547C9171F3D3FE12D3999911DAFB868B748DE04/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F1d0eec5737604b68c745d1866ecd5278",
-    "pubDate": "2026-07-30T21:51:43+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-heading-600-per-235000067.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/DE7F1288F23F7831817C49A139DD71B1142B93ED9B395F496928340DE10FE6AA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Facd01507cf93e4b23dc733cf82052bc4",
+    "pubDate": "2026-07-30T23:50:00+00:00"
   },
   {
-    "title": "Avery Dennison Corporation Q2 2026 Earnings Call Summary",
+    "title": "Jersey Mike's shares slip in debut after $1 billion IPO",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/avery-dennison-corporation-q2-2026-215106999.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2127FBE2DD87AF4E72572CA4C45F376096D968E285DA3A2190497249FFF91C31/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fc98f49906f2b13db8839179653411b80",
-    "pubDate": "2026-07-30T21:51:06+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mikes-shares-slip-debut-233124610.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/E016E38D0FDCA47E4F823A4A2E6C9D6142014EDECE0D7136CD2A35AA2DA1E646/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2F80307acb27971feff5c5f95a6608cfe6",
+    "pubDate": "2026-07-30T23:31:24+00:00"
   },
   {
-    "title": "Jones Lang LaSalle Incorporated Q2 2026 Earnings Call Summary",
+    "title": "Here’s Why Verizon Stock Is a Buy for Income Investors in August",
     "description": "",
-    "link": "https://finance.yahoo.com/real-estate/articles/jones-lang-lasalle-incorporated-q2-215028821.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/7B31DB54E09CC3A5AE58A19CB2BADA4BA49CA89995D4941042EB2B158FB71180/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fa04b97d1e3eb308560eab2343d7aa7d8",
-    "pubDate": "2026-07-30T21:50:28+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-verizon-stock-buy-income-233002143.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/5A288FF841F53429F8BBC80133A1D63DBAB3F845E785609F6E22BF941EAF4D8B/subgraphmysterio/resizefill_w1200_h706;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fec14845660f7196c7b84e98377543779",
+    "pubDate": "2026-07-30T23:30:02+00:00"
   },
   {
-    "title": "Cullen/Frost Bankers, Inc. Q2 2026 Earnings Call Summary",
+    "title": "How China Became the Ultimate Swing Oil Buyer",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cullen-frost-bankers-inc-q2-214511609.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/51AF70DBD9A7C7BE23D657D4D0BF05CB560B6DCB1D945E0AB8B87C559E2D8290/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F3f84e428c5c4db44eb9156bb4fae094c",
-    "pubDate": "2026-07-30T21:45:11+00:00"
+    "link": "https://finance.yahoo.com/energy/articles/china-became-ultimate-swing-oil-230000808.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/A40295ECAD12AD7F2C7119DA2DA4568005780F12AB5ECE87A1FA9403AD4F601C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F887b57a5b0a08a687705ec4c9abb262c",
+    "pubDate": "2026-07-30T23:00:00+00:00"
+  },
+  {
+    "title": "5 charts: VC-backed IPOs hit a record 2026, but the aftermath is dimmer",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/5-charts-vc-backed-ipos-225013160.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/11ED3FE7CCDA23AA035C1717C24A30D7BE03F733CA29B34B6105119C1CBB2B45/subgraphmysterio/resizefill_w1200_h1129;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2F9c9b31cdbc9ccaade1e3511ac8a10ee0",
+    "pubDate": "2026-07-30T22:50:13+00:00"
+  },
+  {
+    "title": "Huntington Ingalls Industries, Inc. Q2 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-inc-q2-223533628.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/FED3E5B5AE18EF5B16632BEA79268844BE0CBD4C59DF81F06C4D9549D860B138/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F1a2d41fb93253c8eaeed6afd29c7ee81",
+    "pubDate": "2026-07-30T22:35:33+00:00"
+  },
+  {
+    "title": "Group 1 Automotive, Inc. Q2 2026 Earnings Call Summary",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/group-1-automotive-inc-q2-223528374.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/379CF38A2BA06E7866B363C7C115C3ACF191C65DCEECF8B4BA88F875F8C4F348/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F99755ed177dd54e19371ad84655ebe7e",
+    "pubDate": "2026-07-30T22:35:28+00:00"
   },
   {
     "title": "The Best Air Fryers For Faster, Crispier Cooking (2026)",
@@ -658,39 +679,11 @@
     "pubDate": "2026-07-30T21:42:11+00:00"
   },
   {
-    "title": "EMCOR Group, Inc. Q2 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-inc-q2-2026-214031583.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/71EFAC37ACEA1BF422B494C5D6B6B52F345ABB9C2E31130455DA177C77D0421D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F3074e0e0d8c79ac34c9f3d5005dfa459",
-    "pubDate": "2026-07-30T21:40:31+00:00"
-  },
-  {
-    "title": "Brunswick Corporation Q2 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/brunswick-corporation-q2-2026-earnings-213611407.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/C8798DF0D3CD6B92013021CFFF0F40BA5DB685B8B083A2B3BD092861FE350F36/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Febd5982262ac61b0a4e7f9438717c747",
-    "pubDate": "2026-07-30T21:36:11+00:00"
-  },
-  {
-    "title": "Xenia Hotels &amp; Resorts, Inc. Q2 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/xenia-hotels-resorts-inc-q2-212438788.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2C128243CED862078FDC63F00E96E5290A783E5A9F9794261B0C29560002B0D0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F0c51e3df9e16b1bf9cce2ef5871cfd9b",
-    "pubDate": "2026-07-30T21:24:38+00:00"
-  },
-  {
     "title": "What Is Tonnato? The Classic Italian Sauce I Can’t Stop Making",
     "description": "Made with canned tuna, anchovies, lemon, and olive oil, this creamy, savory condiment is good on just about everything.",
     "link": "https://www.bonappetit.com/story/tonnato-sauce-recipe",
     "thumbnail": "https://assets.bonappetit.com/photos/6a3d3e214f65ee945ac67794/master/pass/tonnato-summer-bean-salad-LEDE.jpg",
     "pubDate": "2026-07-30T21:18:39+00:00"
-  },
-  {
-    "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F1A4796B6C5FFED8159BF96D489BF58F37DF831D05D3931EAFD521B7B01FA3A5/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fc37b30c866cd6334b42fbc14a1d54756",
-    "pubDate": "2026-07-30T16:33:00+00:00"
   },
   {
     "title": "‘Spider-Man: Brand New Day’ Review: Can We Do Whatever a Spider Can?",
