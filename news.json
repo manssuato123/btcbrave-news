@@ -1,45 +1,311 @@
 [
   {
-    "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
-    "description": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
-    "link": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-03T15:02:34+00:00"
+    "title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+    "description": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
+    "link": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106832536-16119421532021-01-27t171439z_1922726570_rc2hgl9hfcnl_rtrmadp_0_boeing-737max.jpeg?v=1663880112&w=1920&h=1080",
+    "pubDate": "2026-08-03T17:19:27+00:00"
   },
   {
-    "title": "Doctor Doom threatens the Marvel multiverse in new What If...? book",
-    "description": "Gear up for Avengers: Doomsday with a story of heroes teaming up to stop Doom's conquest",
-    "link": "https://www.polygon.com/marvel-doomsday-what-if-the-multiverse-was-doomed-book-excerpt/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/doom-final.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-08-03T15:00:12+00:00"
-  },
-  {
-    "title": "10 years later, the director of Korea's first great zombie movie reveals why it became a global sensation",
-    "description": "Train to Busan director Yeon Sang-ho reveals how he crafted a modern horror classic, and why the sequel flopped.",
-    "link": "https://www.polygon.com/train-to-busan-director-interview-10-years-anniversary/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/21786124/download.jpeg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T15:00:12+00:00"
-  },
-  {
-    "title": "Reform UK insists using Navy to stop migrant boats would be legal",
-    "description": "The party says under its plan it would override French objections to return migrants to France.",
-    "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54cb/live/d39608f0-8f10-11f1-a7ab-8b30adf0800a.jpg",
-    "pubDate": "2026-08-03T14:57:19+00:00"
+    "title": "Michigan confirms first two deaths in cyclospora outbreak",
+    "description": "The Michigan Health Department said that both individuals had underlying health conditions.",
+    "link": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343973-1785777214855-gettyimages-2285641469-cyclosporiasis-outbreak.jpeg?v=1785777292&w=1920&h=1080",
+    "pubDate": "2026-08-03T17:18:06+00:00"
   },
   {
     "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
     "description": "Electric low-speed vehicles, or LSVs, are a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.",
     "link": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343314-1785520947892-Screenshot_2026-07-31_140114.png?v=1785763397&w=1920&h=1080",
-    "pubDate": "2026-08-03T14:55:42+00:00"
+    "pubDate": "2026-08-03T16:57:42+00:00"
+  },
+  {
+    "title": "Even Attack on Titan 3 is avoiding GTA 6",
+    "description": "Omega Force and Koei Tecmo's Attack on Titan 3 got a Dec. 10 release date, meaning even it's avoiding launching anywhere near Grand Theft Auto 6",
+    "link": "https://www.polygon.com/attack-on-titan-3-release-date/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/attack-on-titan-3-screenshot-2-7-1-26.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T16:57:10+00:00"
+  },
+  {
+    "title": "White House to host AI companies Tuesday to review new model-testing framework",
+    "description": "President Donald Trump’s June executive order directed officials to develop a process to evaluate the cybersecurity capabilities of advanced AI models.",
+    "link": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108329722-1782971099939-gettyimages-2281424331-AFP_B7DV3ND.jpeg?v=1785773751&w=1920&h=1080",
+    "pubDate": "2026-08-03T16:56:52+00:00"
+  },
+  {
+    "title": "France hits out at Reform UK plan to return migrants using Navy",
+    "description": "It comes after the party said it would override French objections to return migrants to France.",
+    "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54cb/live/d39608f0-8f10-11f1-a7ab-8b30adf0800a.jpg",
+    "pubDate": "2026-08-03T16:48:58+00:00"
+  },
+  {
+    "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
+    "description": "A new digital verification platform aims to reduce forged certificates by allowing employers and universities to authenticate academic records onchain.",
+    "link": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/bookkenya.png",
+    "pubDate": "2026-08-03T16:46:22+00:00"
+  },
+  {
+    "title": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
+    "description": "Trump on Truth Social accused Iran's leaders of lying about peace talks, which he said are underway \"whether Iran wants to admit it or not.\"",
+    "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343280-1785516846329-gettyimages-2287747867-AFP_C3PR8JU.jpeg?v=1785516877&w=1920&h=1080",
+    "pubDate": "2026-08-03T16:39:37+00:00"
+  },
+  {
+    "title": "Son who kept mum's body in freezer for years collected £78k of her benefits",
+    "description": "Christopher Phillips’ mother, Sylvia, had yellow and pink roses and a birthday card placed on her body.",
+    "link": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e4/live/62763700-8f31-11f1-b2ab-0dd01740f9f6.jpg",
+    "pubDate": "2026-08-03T16:34:36+00:00"
+  },
+  {
+    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+    "description": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
+    "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343878-1785771033709-gettyimages-2151606047-BLOOMBERG_TECHNOLOGY_SUMMIT.jpeg?v=1785771160&w=1920&h=1080",
+    "pubDate": "2026-08-03T16:30:54+00:00"
+  },
+  {
+    "title": "Overwatch season 4 will introduce some much-needed map changes to Paraiso and Busan",
+    "description": "Blizzard is revamping a handful of Overwatch maps in season 4, including new attack angles in Paraiso and a Junker tower in Busan",
+    "link": "https://www.polygon.com/overwatch-season-4-map-changes-paraiso-busan-eichenwalde/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/overwatch-season-4-map-changes-paraiso-busan-eichenwalde.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T16:30:12+00:00"
+  },
+  {
+    "title": "Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.",
+    "description": "The Ohio Republican who is seeking a third term defiantly denied domestic abuse allegations ahead of a deadline to replace him on the ballot.",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T16:29:34+00:00"
+  },
+  {
+    "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+    "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5274/live/8a260ec0-8f58-11f1-b2ab-0dd01740f9f6.jpg",
+    "pubDate": "2026-08-03T16:27:43+00:00"
+  },
+  {
+    "title": "How Democratic Socialists Are Wrestling With Their Next Moves",
+    "description": "After notching primary victories, D.S.A. members in Chicago debated whether socialist candidates should be free to distance themselves from goals like abolishing prisons as they chase more seats this fall.",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T16:25:13+00:00"
+  },
+  {
+    "title": "Xbox Price Hikes Are Now In Effect Worldwide",
+    "description": "Buying a new Xbox just got a lot more expensive in the US, Europe, and UK. The previously announced Xbox Series X|S price hikes are now in effect as of August 1, and people should expect to pay significantly more. In the US, all 512GB Xbox models went up by $100, while the 1 TB systems are now $150 more expensive. All 2 TB models are discontinued. You can see all the new US prices below, and prices for other regions further down (via VGC). Xbox Series S 512GB - $500 Xbox Series S 1TB - $600 Xbox Series X 1TB digital edition - $750 Xbox Series X 1TB with disc drive - $800 In Europe, the cheapest new Xbox--the 512GB Xbox Series S--is going up from €350 to €500. The system originally launched in 2020 at €300, so it's gone up by €200 since then. The 1TB Xbox Series S is now going for €600 (was €400). Moving on to the Xbox Series X, the 1TB digital model is now €750 (was €550), while the 1TB disc version is a whopping €800 (was €600). That's the most expensive edition, and it works out to about $920 USD. Xbox consoles are now more expensive globally.The UK is seeing Xbox price hikes, too, where the cheapest Xbox--the 512GB Xbox Series S--is now going for £430 (was £300). The highest-end version, the 1TB disc version of the Xbox Series X, is now selling for £670 (was £500). Microsoft previously raised prices in October 2025. The company said it hoped another increase would not be necessary, but \"console storage and memory prices have increased by more than 2.5x, and we expect another doubling by the fall of 2027.\" A report from Windows Central said Microsoft was losing $150 per console sold. Microsoft, along with Sony and Nintendo, are set to receive tariff refunds, and none of the companies have announced any plans to return any money to consumers who paid more. Beyond the tariff-related impacts, the ongoing AI-fueled memory and component shortages are expected to continue, and another Xbox price hike could come in 2027. In response to the new, higher prices for Xbox consoles, Microsoft rolled out new Buy Now, Pay Later and 0% APR financing options. Microsoft also sells certified refurbished Xbox consoles for lower prices. As for other consoles, the PS5 got its latest price hike this past April, while the Switch 2 is getting a price increase in September.",
+    "link": "https://www.gamespot.com/articles/xbox-price-hikes-are-now-in-effect-worldwide/",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T16:19:14+00:00"
+  },
+  {
+    "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+    "description": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve assets under the US GENIUS Act.",
+    "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-j-blackrock-investments-explained.jpg",
+    "pubDate": "2026-08-03T16:13:12+00:00"
+  },
+  {
+    "title": "Denzel Washington's underrated detective thriller beat Spider-Man: Brand New Day to the punch by 38 years",
+    "description": "This 1998 thriller starring Denzel Washington is an irresistible thrillride that offers several surprising similarites with Marvel's new Spidey flick.",
+    "link": "https://www.polygon.com/spider-man-brand-new-day-fallen-1998-denzel-washington-streaming/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/fallen_1998_15a-copy.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T16:00:12+00:00"
+  },
+  {
+    "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+    "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/a2cd4400-8f46-11f1-bea5-516364e5690e.jpg",
+    "pubDate": "2026-08-03T15:59:48+00:00"
+  },
+  {
+    "title": "Spider-Man: Brand New Day coming to IMAX after massive opening weekend",
+    "description": "Spider-Man: Brand New Day will be available in IMAX in a few days, taking over screen time from The Odyssey, which also stars Tom Holland.",
+    "link": "https://www.polygon.com/spider-man-brand-new-day-imax-box-office/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/spider-man-brand-new-day-tom-holland.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T15:58:17+00:00"
+  },
+  {
+    "title": "Love And Deepspace’s Biggest Controversy Is Now Hitting Its Wallet",
+    "description": "Love and Deepspace just had its worst financial month to date, as the dating gacha sim's revenue has cratered. While it was pulling in around $30 - $60 million in revenue every month (per Sensor Data), July saw the game make a noticeably smaller amount of cash, to the tune of $10.3 million. That's a massive 73% drop when compared to June 2026 ($38 million), and the fall can all be traced back to the announcement--and subsequent cancellation--of Valko, who would have been the game's sixth love interest. In comparison, top gacha games like Genshin Impact, Honkai: Star Rail, and Zenless Zone Zero--all produced by HoyoVerse--continue to dominate the revenue charts, with ZZZ in particular rocketing up from 15th place to third place in July. You'd think that revealing an occasionally furry love interest wouldn't result in a fandom being ripped apart, but you'd be wrong. Valko proved to be a polarizing figure, as the ruggedly handsome tech CEO and werewolf clan leader has half the Love and Deepspace community baying for his blood, while the other half is actively boycotting and petitioning for developer Papergames to officially add him to the gacha Otome game. Valko dissenters have cited concerns that a new character will take developer attention away from the game’s main story and established love interests, while those for Valko argue Eastern beauty standards led to his swift dismissal. Things got even worse for Papergames, as it decided to pull its booth from one of the largest anime and gaming conventions in Asia, BilliBilli World 2026. The Chinese Government has also gotten involved, taking aim at Valko's promotional slogans that could be perceived as problematic and promoting home intrusions and sexual assault. \"What’s wrong with letting a wolf into the house?\" the text for Valko reads, after he was shown \"This kind of entertainment-driven, traffic-driven creative work disregards public order and morality, crosses legal boundaries, and may ultimately endanger public safety,\" a representative from the Ministry of Public Security News and Media wrote. Since then, characters and storylines were removed and are in the process of being re-certified, as the Chinese government holds considerable power over what it allows in and out of the country when it comes to entertainment. The government is also treating Love and Deepspace as a warning to other game studios, saying that any content that \"deliberately blurs the lines of illegality, glorifies dangerous behavior, or undermines public safety\" will face removal. The writing might be on the wall for Papergames, as it looks like its community is ready to break up with Love and Deepspace.",
+    "link": "https://www.gamespot.com/articles/love-and-deepspace-biggest-controversy-is-now-hitting-its-wallet/",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T15:51:07+00:00"
+  },
+  {
+    "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+    "description": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
+    "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108341734-1785334177351-gettyimages-2287498019-AMAZON_EARNS.jpeg?v=1785334197&w=1920&h=1080",
+    "pubDate": "2026-08-03T15:50:20+00:00"
+  },
+  {
+    "title": "Inside the Secretive Boards Deciding Trans Troops’ Fate",
+    "description": "The Pentagon is relying on closed-door hearings to kick out transgender service members. An Army Reserve lawyer is one of the few who have seen how they really work.",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/transgender-troops-ban.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T15:48:34+00:00"
   },
   {
     "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
     "description": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
     "link": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343257-1785514864450-spidey_Cropped.png?v=1785514907&w=1920&h=1080",
-    "pubDate": "2026-08-03T14:55:29+00:00"
+    "pubDate": "2026-08-03T15:46:27+00:00"
+  },
+  {
+    "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+    "description": "The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.",
+    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T15:42:08+00:00"
+  },
+  {
+    "title": "One Spider-Man: Brand New Day scene explains the new structure of the MCU heading into Avengers: Doomsday",
+    "description": "A seemingly throwaway joke introduces a way to rank the problems each hero is capable of facing.",
+    "link": "https://www.polygon.com/spider-man-brand-new-day-mcu-power-structure/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdspma_sp140_h.JPG?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T15:39:41+00:00"
+  },
+  {
+    "title": "Vin Diesel cried over Fast Forever, but its director hasn’t read it",
+    "description": "Louis Letterier says he is still set to direct the Fast X sequel, yet an Instagram update from the star makes the saga more confusing",
+    "link": "https://www.polygon.com/vin-diesel-fast-forever-script-louis-letterier-update/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdfaxx_uv034.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T15:39:20+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Jumps As Oil Skids On Trump Iran Move; Defense Play Clears Entry (Live Coverage)",
+    "description": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2017/10/stock-amazon-13-shutter.jpg",
+    "pubDate": "2026-08-03T15:38:05+00:00"
+  },
+  {
+    "title": "Big Walk just became Metacritic's highest-rated game of 2026 (so far)",
+    "description": "Multiplayer game Big Walk is out today, and it's already the best reviews game of 2026.",
+    "link": "https://www.polygon.com/big-walk-review-roundup/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/big-walk.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T15:36:26+00:00"
+  },
+  {
+    "title": "Could Masco (MAS) Be One of the Better Home Improvement Stocks to Watch?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/could-masco-mas-one-better-153603674.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/3B8C7E50DAB530A0D54C00A42CCABE2C007B76532EBF9432C8744FC70DA711D1/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4d418f1c757fb8c29324eade2826f479",
+    "pubDate": "2026-08-03T15:36:03+00:00"
+  },
+  {
+    "title": "Why Knowles (KN) Could Be a Small-Cap Stock to Watch",
+    "description": "",
+    "link": "https://finance.yahoo.com/small-business/articles/why-knowles-kn-could-small-153521877.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/97A3F831027025C2D9975FE3950C35335CAA9E8F27671D22CFFD18B896811028/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F89894eca51b93f0a51358ab0620a7463",
+    "pubDate": "2026-08-03T15:35:21+00:00"
+  },
+  {
+    "title": "Pokémon Legends: Z-A becomes a dramatically different game with season 15",
+    "description": "Season 15for Pokémon Legends: Z-A multiplayer begins this week, and we have the details of which Pokémon are banned and when it starts.",
+    "link": "https://www.polygon.com/pokemon-legends-z-a-season-15-release-time-details-water-type-winds-and-waves/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/pokemon-legends-z-a-feraligator.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T15:35:15+00:00"
+  },
+  {
+    "title": "Is Brink’s (BCO) Being Undervalued After Its Latest Deal?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/brink-bco-being-undervalued-latest-153457132.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2D6C2DE5589C47469DC0878D2392AEC3661D313B18DA7221F94C1080BB1CFE14/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc5fec8e53a9b096a2c18985b5efac602",
+    "pubDate": "2026-08-03T15:34:57+00:00"
+  },
+  {
+    "title": "Why UnitedHealth Group (UNH) Is Back on Investors’ Radar",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-unitedhealth-group-unh-back-153314421.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/E9FDCECD79E16669385973A302D318457E9F4CE5521E61F87EA3C8D49463754C/subgraphmysterio/resizefill_w1200_h769;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa819ba24b68433b00160773d71e89e74",
+    "pubDate": "2026-08-03T15:33:14+00:00"
+  },
+  {
+    "title": "Datadog (DDOG) Grows Revenue by Over 30% as AI Demand Accelerates",
+    "description": "",
+    "link": "https://finance.yahoo.com/technology/ai/articles/datadog-ddog-grows-revenue-over-153259286.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/235DF392FEFF357F6D1B056FD59E103EF1614C452CD954076C77AF5887FF4FAE/subgraphmysterio/resizefill_w1200_h802;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F8c524954dfc10f4a1b8ec3596e1096d9",
+    "pubDate": "2026-08-03T15:32:59+00:00"
+  },
+  {
+    "title": "Star Wars Unlimited designer reveals the powerful villain card that players are sleeping on",
+    "description": "Fantasy Flight Games John Leo believes there's one card from The Acolyte that has the potential to become a sleeper hit in Star Wars: Unlimited's meta",
+    "link": "https://www.polygon.com/star-wars-unlimited-designer-the-stranger-the-acolyte/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/star-wars-acolyte.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T15:32:38+00:00"
+  },
+  {
+    "title": "Everyone's playing the fantastic Spider-Man PS5 games after Brand New Day",
+    "description": "Between massive game sales and titles that were GOTY contenders during their release year, it's a great time to (re)visit Insomniac's adventure",
+    "link": "https://www.polygon.com/spider-man-brand-new-day-game-best-ps5-marvel-movie-steam/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22024958/EmZ365SW8AEkLm0.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-03T15:29:50+00:00"
+  },
+  {
+    "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
+    "description": "The BBC is the first media organisation to gain access to the city and speak to people on the ground in Rawalakot.",
+    "link": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f0/live/43872f30-8f4e-11f1-b2ab-0dd01740f9f6.jpg",
+    "pubDate": "2026-08-03T15:29:13+00:00"
+  },
+  {
+    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+    "description": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343866-1785769849914-108343866-1785769727874-gettyimages-2286551435-US_GAS.jpg?v=1785769861&w=1920&h=1080",
+    "pubDate": "2026-08-03T15:27:52+00:00"
+  },
+  {
+    "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
+    "description": "The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.",
+    "link": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e2f5cb0c0f6d5f289b42230f0ca14cd77e71f0a3-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-03T15:24:45+00:00"
+  },
+  {
+    "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
+    "description": "The spot price Bitcoin exchange-traded fund, which was never able to attract more than $18 million in net assets, will pay out investors and sell its 225 BTC in the coming weeks.",
+    "link": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg",
+    "pubDate": "2026-08-03T15:24:43+00:00"
+  },
+  {
+    "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
+    "description": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T15:16:24+00:00"
+  },
+  {
+    "title": "Viral Steam Game Made $1.3 Million But Creator Only Got $2,000 After Mass Refunds",
+    "description": "An 18-year-old from New Hampshire released a game called This Game Costs $200 earlier this year as a joke--but a lot of people bought it. The game generated $1.3 million in sales, but creator Michael Major didn't get anywhere near that big of a payday. He told WMUR that he set the price at $200 because that was the maximum a game could be listed for on Steam, and he expected no one to buy it. When he saw revenue of $1.3 million, he \"almost died,\" Major said. To be sure, there are games on Steam that cost more than $200--there is a $1,000 game, for example. https://www.youtube.com/watch?v=MlKPZxn7RF4 The developer only walked away with $2,000, however, in part because of mass refunds. Major also said it's curious that the majority of sales came from China. \"I'm not joking. I have heard of expensive games on Steam being used for money laundering. I have no idea. I could be on a hit list right now,\" he said. Steam sales data shared in the video showed that the game sold 6,717 units, but 6,707 people got refunds, meaning 99.9% of sales were refunded. The lifetime gross revenue for This Game Costs $200 was $1.38 million, but Major walked away with $2,045 after all the refunds. The Steam page for This Game Costs $200 describes it as \"the swindle to end all swindles.\" \"This game is also a psychological experience, where I try to convince you that this game truly does cost 200 dollars,\" reads a line from its description. The game takes place in the world of Schizopia and has players walking around a map full of cases of beer and packs of cigarettes. The game has one review, from someone who played for 0.6 hours and said they recommend it. They said they made a lot of bad decisions in their life, like eating a toilet water-soaked sandwich straight from the bowl. But spending $200 on This Game Costs $200 was not the worst decision they ever made, they said. This Game Costs $200 is a sequel to This Game Costs $10.",
+    "link": "https://www.gamespot.com/articles/viral-steam-game-made-1-3-million-but-creator-only-got-2000-after-mass-refunds/",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T15:12:55+00:00"
+  },
+  {
+    "title": "After Colleges Reject ‘Compact,’ Trump Officials Try a Letter",
+    "description": "The open letter from Education Secretary Linda McMahon fell far short of the attempt at a compact last year that dangled research money in return for embracing the Trump administration’s agenda.",
+    "link": "https://www.nytimes.com/2026/08/03/us/trump-mcmahon-colleges-letter.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T15:05:47+00:00"
+  },
+  {
+    "title": "The World’s Gone To Hell, But You Still Have To Go To Work, Just Like In This Horror Game",
+    "description": "A famous poet once said, \"Work sucks; I know.\" That timeless truth is the backdrop for HR: Human Remains, an upcoming first-person horror game in which demons have taken over the world, but you're still clocking in for your desk job. Today, GameSpot can exclusively reveal the release date; it's coming to Steam on September 22. Check out the brand-new release date trailer below for more. With an aesthetic reminiscent of the original PlayStation era, HR: Human Remains has a darkly humorous tone, but is still very much a horror game. In it, you'll be stuck as an office clerk, interacting with co-workers and your extra-horrible bosses while uncovering a story with multiple endings to experience based on your choices. There are Sunday Scaries, and then there's whatever this guy has got himself into. You'll need to solve puzzles to explore hidden places, while also collecting items with which you can decorate your break room. To me, it sounds sort of like three parts Hellraiser and one part Office Space, and I can surely dig that. The game is on the way from developer DennisCorner and publisher Black Lantern Collective, which specializes in indie horror games. You can check out HR: Human Remains on Steam. 30 Best Horror Games To Play In The Dark In 2026 View Images",
+    "link": "https://www.gamespot.com/articles/the-worlds-gone-to-hell-but-you-still-have-to-go-to-work-just-like-in-this-horror-game/",
+    "thumbnail": "",
+    "pubDate": "2026-08-03T15:00:00+00:00"
   },
   {
     "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
@@ -49,13 +315,6 @@
     "pubDate": "2026-08-03T14:46:08+00:00"
   },
   {
-    "title": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
-    "description": "Firefighters were hopeful that improving weather conditions in Washington state could help efforts to contain the blaze, which officials described as the largest natural disaster in the history of Spokane.",
-    "link": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-03T14:42:16+00:00"
-  },
-  {
     "title": "Fire Emblem: Fortune’s Weave Nintendo Direct Announced For This Week",
     "description": "A new Nintendo Direct has been announced, and this time, the focus is on Fire Emblem: Fortune's Weave. If you're interested, you can tune in at 7 AM PT / 10 AM ET on August 4 to watch the broadcast. Nintendo says that you can expect \"roughly 20 minutes\" of new information about the game. One of several big first-party games from Nintendo scheduled for launch this year, Fire Emblem: Fortune's Weave is the first game in the longrunning tactical-RPG series to be developed exclusively for Switch 2 consoles. The last time it was in the spotlight was during the June Nintendo Direct, where a few more details about the game were revealed. The game will feature four characters competing to win the Dagosian Games--a high-stakes tournament--with combat taking place inside of an arena. This is a departure from the battlefields of previous Fire Emblem games, but outside of the tournament, there'll still be opportunities to explore new locations and deal with bandits who are hoarding treasure. Each of the four main champions also possesses a special crest that can grant them special abilities in combat, and it looks like there'll be social events to take part in when you're not fighting for glory. Launching on September 17, Fire Emblem: Fortune's Weave enters a stacked month of new releases as several games are attempting to hit the ground running before heavyweight titles like Call of Duty: Modern Warfare 4 and GTA 6 descend. Preorders are open for Fire Emblem: Fortune's Weave, with the standard edition priced at $70 - $80 depending on whether you want a physical version or a download code. You can also pick up the Special Edition of the game for $120, which includes the full physical edition of the game and a selection of collectibles.",
     "link": "https://www.gamespot.com/articles/fire-emblem-fortunes-weave-nintendo-direct-announced-for-this-week/",
@@ -63,32 +322,11 @@
     "pubDate": "2026-08-03T14:22:59+00:00"
   },
   {
-    "title": "Henry Cavill is producing a Warhammer 40K Space Marines series animated by the perfect studio",
-    "description": "Warhammer 40,000 is getting an animated TV show about Space Marines from Blur Studios, who did Secret Level's \"And They Shall Know No Fear.\"",
-    "link": "https://www.polygon.com/warhammer-40k-animated-show-secret-level-episode/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/warhammer-secret-level.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T14:21:52+00:00"
-  },
-  {
-    "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-    "description": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
-    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/a2cd4400-8f46-11f1-bea5-516364e5690e.jpg",
-    "pubDate": "2026-08-03T14:18:30+00:00"
-  },
-  {
-    "title": "Nintendo announces new Nintendo Direct showcase for Aug. 4",
-    "description": "Fire Emblem: Fortune's Weave is the focus of a new Nintendo Direct presentation coming this Tuesday, Nintendo has announced.",
-    "link": "https://www.polygon.com/nintendo-direct-august-2026-fire-emblem-fortunes-weave/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/switch2_fireemblemfortunesweave_scrn_15.jpeg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T14:17:06+00:00"
-  },
-  {
-    "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-    "description": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
-    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+    "title": "Park Service Finds Trump’s Arch Could Detract From Dozens of Historic Places",
+    "description": "The 250-foot-tall edifice would alter views across Washington and Arlington Cemetery.",
+    "link": "https://www.nytimes.com/2026/08/03/upshot/arch-trump-historic-review.html",
     "thumbnail": "",
-    "pubDate": "2026-08-03T14:15:19+00:00"
+    "pubDate": "2026-08-03T14:17:50+00:00"
   },
   {
     "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
@@ -98,31 +336,10 @@
     "pubDate": "2026-08-03T14:11:26+00:00"
   },
   {
-    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-    "description": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
-    "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108243542-1766065302256-gettyimages-2160458217-kokovlis-notitle240707_npTKI.jpeg?v=1766065329&w=1920&h=1080",
-    "pubDate": "2026-08-03T14:11:17+00:00"
-  },
-  {
-    "title": "Wall St starts the month strong as Mideast deal hopes rise",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-edge-mideast-100930076.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/ACA6D5B091D5A25D27A909E9D6416DA44561F55836292A6B510E21D10F2C31B4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4fa933f976d493df28170a36d9b283cb",
-    "pubDate": "2026-08-03T14:10:56+00:00"
-  },
-  {
-    "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
-    "description": "",
-    "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/3C09237AD9505FC5DEC4C7F4D1ADEE032113B8711E0E9018CAD78B393A2BB7B3/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fspcx_3440.png",
-    "pubDate": "2026-08-03T14:04:19+00:00"
-  },
-  {
     "title": "Marvel’s Wolverine Might Be Continuing Hugh Jackman’s Infamous Bare Butt Tradition",
     "description": "Marvel's Wolverine is finally slashing its way onto PS5 next month, and ahead of its release, it looks like the game is going to earn its Mature 17+ rating with blood and ass. According to the Entertainment Software Rating Board, the game contains blood, gore, drug references, strong language, and \"partial nudity,\" but it's not specified whose gluteus maximus is on display. \"A handful of sequences briefly depict a character's exposed buttocks,\" the ESRB rating reads. That's a pretty vague description, but we'd wager that we could see Wolverine's butt paraded about, given the character's habit of being occasionally transformed into a naked and feral mutant weapon by shadowy organizations like Canada's Department H. Read the comics if you don't believe us! It's a scene that has been adapted into live-action media as well, with longtime Wolverine actor Hugh Jackman's butt briefly appearing in alternate cuts and near-misses during several scenes across multiple movies. He infamously refused to wear a modesty sock during the filming of his adamantium implants in X-Men: Origins - Wolverine, and in 2014's X-Men: Days of Future Past, audiences got a full look at his backside during the '70s hotel room scene. Other characters in the game include Jean Grey, Sabretooth, Mystique, and Lady Deathstrike, but we're guessing that they won't be around for scenes requiring them to get cheeky. There's also precedent for this when it comes to PS5 games, as Ghost of Tsushima and its sequel Ghost of Yotei both featured brief scenes where you could see the uncovered rears of their respective protagonists. If the Ghost of Tsushima film ever enters into production, actor Daisuke Tsuji said that he's prepared to show some skin. Beyond seeing exposed hams, the ESRB also noted that Marvel's Wolverine will allow you to tear enemies apart and that the game features some naughty language. It's not long to go now, as Marvel's Wolverine launches on September 15 for PS5. For more on the game, you can check out all the Easter eggs we've spotted so far, every costume revealed for Marvel's Wolverine, and 13 new details we learned at San Diego Comic-Con about Logan's adventure. Every Upcoming Superhero Game To Look Out For In 2026 And Beyond View Images",
     "link": "https://www.gamespot.com/articles/marvels-wolverine-might-be-continuing-hugh-jackmans-infamous-bare-butt-tradition/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4451851-herogames.jpg?w=636",
+    "thumbnail": "",
     "pubDate": "2026-08-03T14:03:08+00:00"
   },
   {
@@ -133,39 +350,11 @@
     "pubDate": "2026-08-03T14:02:11+00:00"
   },
   {
-    "title": "Eli Roth reveals how he made the bloodiest thriller of the year: \"It was a really joyous experience\"",
-    "description": "The trailblazing director breaks down his ultra-gory new horror movie, Ice Cream Man",
-    "link": "https://www.polygon.com/eli-roth-interview-ice-cream-man/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/9s2a7963_rtalt.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T14:00:12+00:00"
-  },
-  {
-    "title": "Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/articles/experts-putting-every-dollar-toward-140000861.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/CBE3A9E4C3691E382E7D479FAC5693D5959469E174D6484A6D13E43517809790/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F5254e1c9aff500720a485cee98fe0fdd",
-    "pubDate": "2026-08-03T14:00:00+00:00"
-  },
-  {
     "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
     "description": "The bank said tokenized money market funds, Open USD and slower USDC growth could weigh on the stablecoin issuer's earnings.",
     "link": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/5375c855453eb305797281edc37be56277accf7e-5819x3273.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
     "pubDate": "2026-08-03T13:59:50+00:00"
-  },
-  {
-    "title": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
-    "description": "",
-    "link": "https://www.investors.com/news/tesla-rival-byd-sales-overseas-demand-flash-charging/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2024/09/Stock-BYD-aotta3-01-shutt.jpg",
-    "pubDate": "2026-08-03T13:58:39+00:00"
-  },
-  {
-    "title": "Stock Market Today: Dow Jumps 600 Points On Trump Strikes Reversal; Oil Prices Plunge (Live Coverage)",
-    "description": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2025/02/Stock-Trump-smirk-03-shutt.jpg",
-    "pubDate": "2026-08-03T13:49:49+00:00"
   },
   {
     "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
@@ -175,13 +364,6 @@
     "pubDate": "2026-08-03T13:49:40+00:00"
   },
   {
-    "title": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
-    "description": "Washington's decision to join Japan in supporting the battered yen has prompted questions over what motivated the rare coordinated intervention.",
-    "link": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108175508-1753238112301-gettyimages-1489146803-dollaryenyuangenericcoin.jpeg?v=1785729192&w=1920&h=1080",
-    "pubDate": "2026-08-03T13:49:17+00:00"
-  },
-  {
     "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
     "description": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
     "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
@@ -189,32 +371,11 @@
     "pubDate": "2026-08-03T13:45:02+00:00"
   },
   {
-    "title": "What the market is saying about the U.S. intervention to prop up the yen",
-    "description": "Following the joint involvement the yen now sits at 157 to the dollar, down from just above 163, which represented its lowest level in four decades.",
-    "link": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107274598-1689905875468-gettyimages-585529336-160803_TFEA_PHT12.jpeg?v=1785757096&w=1920&h=1080",
-    "pubDate": "2026-08-03T13:43:55+00:00"
-  },
-  {
-    "title": "Semiconductor stocks sink over fears of increased competition from China",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-sink-over-fears-of-increased-competition-from-china-133938642.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0DCC3C35631ED7988AE4070ACC4358803C666DE55685E8EF0BE353F60E1F32CF/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fbfc8f556-b760-476b-8054-208be8346f08",
-    "pubDate": "2026-08-03T13:39:38+00:00"
-  },
-  {
     "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
     "description": "The columnist died in hospital in Middlsbrough on Sunday.",
     "link": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/99f5b1c0-8f44-11f1-b2ab-0dd01740f9f6.jpg",
     "pubDate": "2026-08-03T13:35:45+00:00"
-  },
-  {
-    "title": "Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.",
-    "description": "The Ohio Republican who is seeking a third term defiantly denied domestic abuse allegations ahead of a deadline to replace him on the ballot.",
-    "link": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-03T13:34:41+00:00"
   },
   {
     "title": "How Fake World Assets and onchain gacha became crypto’s latest craze",
@@ -229,13 +390,6 @@
     "link": "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html",
     "thumbnail": "",
     "pubDate": "2026-08-03T13:26:13+00:00"
-  },
-  {
-    "title": "What Kind of Democrat Does It Take to Win in Conservative Kansas?",
-    "description": "In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.",
-    "link": "https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-03T13:19:26+00:00"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -255,15 +409,8 @@
     "title": "Obsession Star Inde Navarrette Has Been Offered Video Game Roles, Loves Shrek",
     "description": "Inde Navarrette reached a new level of fame this year after starring in Curry Barker's horror movie Obsession. She's also a big fan of video games. She's now revealed that she's been offered roles in games, and that she loves Shrek. \"Yes, and I'm starting my journey with that soon,\" she told Variety when asked if any studios had come calling to ask her to be in a video game. \"I want to try something smaller to test the waters and then later, different. Video games are, obviously, a big interest of mine.\" She is a big fan of Resident Evil, adding that she would \"die inside\" if she got the chance to have a role in one of the games someday. Navarrette did not name the companies that have pitched her or what games she could appear in. Inde Navarrette in Obsession.Also in the interview, Navarrette talked about some of her earliest memories with video games, and her comments are highly relatable. She said one of her favorites from yesteryear was the Shrek game for PS2, Shrek Super Party. In particular, she said she's a fan of the characters' big heads in the game. Navarrette went on to say that Call of Duty is another favorite gaming series of hers. She's mentioned this before, and Activision obviously took note, hiring her to appear on a Call of Duty: Modern Warfare 4 panel in July. https://www.youtube.com/watch?v=pnvlSfoB0Fw Navarrette is a gamer who, like any reasonable person, watched Henry Cavill videos to help build her gaming PC. She also formerly hosted Twitch streams for Call of Duty. Obsession, meanwhile, was made on a reported $750,000 budget and has earned more than $470 million worldwide, making it a huge success. Prior to Obsession, Navarrette starred in Netflix's 13 Reasons Why.",
     "link": "https://www.gamespot.com/articles/obsession-star-inde-navarrette-has-been-offered-video-game-roles-loves-shrek/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/08/Inde-1.png",
+    "thumbnail": "",
     "pubDate": "2026-08-03T13:09:22+00:00"
-  },
-  {
-    "title": "Big Walk review: 2026’s best multiplayer game tested all of us",
-    "description": "Big Walk puts your communication skills to the test in an unexpectedly emotional multiplayer adventure built for multiplayer bonding.",
-    "link": "https://www.polygon.com/big-walk-review/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/big-walk-characters-on-beach.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T13:00:12+00:00"
   },
   {
     "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
@@ -273,17 +420,10 @@
     "pubDate": "2026-08-03T12:53:21+00:00"
   },
   {
-    "title": "Senate appears ready to advance Blanche after Cornyn strikes deal",
-    "description": "Sen. John Cornyn, R-Texas, a key holdout on confirming Todd Blanche for attorney general, struck a deal to end the controversial \"anti-weaponization fund.\"",
-    "link": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108339235-1784816986313-gettyimages-2285625893-AA_15072026_2884080.jpeg?v=1784817037&w=1920&h=1080",
-    "pubDate": "2026-08-03T12:52:20+00:00"
-  },
-  {
     "title": "Cody Rhodes Went Full Street Fighter For SummerSlam",
     "description": "Summerslam weekend saw several new champions emerge, but Cody Rhodes wasn't one of them. While the American Nightmare failed in his bid to dethrone CM Punk as the WWE Undisputed Champion, at least he managed to turn heads with his ring outfit, which went all in with Street Fighter influences. Rhodes--who plays Guile in the upcoming Street Fighter movie--hit the ring with a mask that captured the absurdity of Guile's signature hairdo and M. Bison's Shadaloo organization. Given that the Street Fighter film was one of Summerslam's sponsors, it wasn't too surprising to see Rhodes geared up to help promote the upcoming movie. Just before he appeared, the PPV featured a character select screen in the same style as Street Fighter 2, with WWE performers like Seth Rollins, Danhausen, and Becky Lynch subbing in for Capcom's brawlers. You can see the entrance for yourself, in the timestamped video below: https://youtu.be/ZgFWYMrAnNQ?t=279 In the ring, Rhodes' costume consisted of tights that mixed white with camouflage patterns similar to what Guile wears in his default Street Fighter costume, and on his entrance coat, you could spot Rhodes' name stitched on in the familiar Street Fighter font. Sadly, the former WWE champion didn't use a single Sonic Boom or Flash Kick attack against Punk. It's worth noting that Street Fighter wasn't the only video game-related sponsor for Summerslam, as Gears of War: E-Day was also prominently displayed on the ring mat. Rhodes--and the rest of the ensemble cast--will hit theaters soon when Street Fighter arrives on October 16. Ahead of its release, the marketing for Street Fighter has begun to start up, and last week saw a sneak peek at one of the film's fight scenes. In case you missed it, you can click the link to see an imprisoned Ryu (Andrew Koji) take on a beastly incarnation of Blanka (Jason Momoa). Street Fighter Movie Cast Revealed, Including An Unexpected Eric Andre Role View Images",
     "link": "https://www.gamespot.com/articles/cody-rhodes-went-full-street-fighter-for-summerslam/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1597/15976769/4562276-542509990_1181262133867461_9172664464645125311_n.jpg?w=636",
+    "thumbnail": "",
     "pubDate": "2026-08-03T12:51:31+00:00"
   },
   {
@@ -301,25 +441,11 @@
     "pubDate": "2026-08-03T12:21:19+00:00"
   },
   {
-    "title": "Presenter Tony Livesey leaves BBC Radio 5 Live after 16 years",
-    "description": "He stepped back from his show last month following allegations against his former boss David Sullivan.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g6pvv2zgjo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9332/live/27a0e740-8f2e-11f1-ad38-d1c77c68a0b1.jpg",
-    "pubDate": "2026-08-03T12:17:22+00:00"
-  },
-  {
     "title": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
     "description": "The company trimmed bitcoin holdings by 1,638 coins, while raising $290.6 million with sales of common stock.",
     "link": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
     "pubDate": "2026-08-03T12:17:10+00:00"
-  },
-  {
-    "title": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds",
-    "description": "Greece is entering its second week of wildfires spread by extreme winds as more countries in Southern Europe battle with intensifying climate change.",
-    "link": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343674-1785754942406-gettyimages-2288012251-npb01698.jpeg?v=1785754947&w=1920&h=1080",
-    "pubDate": "2026-08-03T12:11:05+00:00"
   },
   {
     "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
@@ -350,13 +476,6 @@
     "pubDate": "2026-08-03T11:40:09+00:00"
   },
   {
-    "title": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed'",
-    "description": "The companies have discussed a potential merger over several months, reports say.",
-    "link": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108317498-1780677508096-gettyimages-2279271800-US_STOCKS.jpeg?v=1780677967&w=1920&h=1080",
-    "pubDate": "2026-08-03T11:35:03+00:00"
-  },
-  {
     "title": "X Factor finalist denies murdering influencer by running her over with car",
     "description": "Gabrielle Carrington denies killing Klaudia Zakrzewska outside Inca nightclub in Soho on 19 April.",
     "link": "https://www.bbc.co.uk/news/articles/c75gq56qrwno?at_medium=RSS&at_campaign=rss",
@@ -371,25 +490,18 @@
     "pubDate": "2026-08-03T11:18:31+00:00"
   },
   {
-    "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
-    "description": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
-    "link": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-03T11:17:23+00:00"
+    "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+    "description": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+    "link": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a2/live/784485e0-8f23-11f1-b5a8-c9ccaae98ebb.jpg",
+    "pubDate": "2026-08-03T11:18:10+00:00"
   },
   {
-    "title": "Son who kept mum's body in freezer for years collected £78k of her benefits",
-    "description": "Christopher Phillips’ mother, Sylvia, had yellow and pink roses and a birthday card placed on her body.",
-    "link": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e4/live/62763700-8f31-11f1-b2ab-0dd01740f9f6.jpg",
-    "pubDate": "2026-08-03T11:14:33+00:00"
-  },
-  {
-    "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
-    "description": "At least 70 House offices used identifiable AI tools in early 2026, with Democrats leading visible spending and broader use likely undercounted.",
-    "link": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316422-17805242542026-06-03t220228z_1200635707_rc2hmlaazfo0_rtrmadp_0_usa-congress-openai.jpeg?v=1785534946&w=1920&h=1080",
-    "pubDate": "2026-08-03T11:00:01+00:00"
+    "title": "Mango Chicken Summer Rolls",
+    "description": "Rotisserie chicken makes quick work of these no-cook rolls with a spicy peanut sauce.",
+    "link": "https://www.bonappetit.com/recipe/mango-chicken-summer-rolls",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6b9f45e893a70cf553bc3d/master/pass/mango-chicken-summer-rolls_RECIPE_V2_072926_5595_VOG_final.jpg",
+    "pubDate": "2026-08-03T11:00:00+00:00"
   },
   {
     "title": "Ariana Grande to take a break from public life citing 'endless, ongoing scrutiny'",
@@ -399,13 +511,6 @@
     "pubDate": "2026-08-03T10:59:12+00:00"
   },
   {
-    "title": "Ripple invests in Zilo and Licuido to assist tokenized capital markets push",
-    "description": "Ripple made a strategic investment in Zilo and Licuido as it looks to enable the use of tokenized funds as collateral from the point of issuance.",
-    "link": "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/bankripple-new.jpg",
-    "pubDate": "2026-08-03T10:58:36+00:00"
-  },
-  {
     "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
     "description": "Nevertheless, the drop in crypto prices seems restrained given the magnitude of losses in the wallet hack and the erosion of confidence in cold storage.",
     "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
@@ -413,81 +518,18 @@
     "pubDate": "2026-08-03T10:51:37+00:00"
   },
   {
-    "title": "Bithumb now targets 2028 IPO after major internal restructuring",
-    "description": "The South Korean crypto trading platform plans to see a preliminary listing review in 2027, but did not identify a proposed listing venue yet.",
-    "link": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/376b384856e7fed73b3062e3a29025b2c8262362-4942x2941.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-03T10:41:08+00:00"
-  },
-  {
-    "title": "Bitcoin may find bear market bottom in August: 10x Research",
-    "description": "Bitcoin could confirm an August bear-market bottom, though rising Treasury yields could force the Fed to raise rates in September, according to 10x Research.",
-    "link": "https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/rumors-of-big-corporations-buying-or-accepting-crypto-swirl-lead-to-another-spike-in-btc-price-copy.jpg",
-    "pubDate": "2026-08-03T10:25:32+00:00"
-  },
-  {
-    "title": "New Limits on Trump’s I.R.S. Deal, and Prosecutors Say Reflecting Pool Work Was ‘Botched’",
-    "description": "Plus, why college jerseys suddenly have corporate logos.",
-    "link": "https://www.nytimes.com/2026/08/03/podcasts/the-headlines/new-limits-on-trump-irs-immunity-deal-reflecting-pool-botched-college-football-logos.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-03T10:00:10+00:00"
-  },
-  {
-    "title": "Divinity fan discovers massive secret hiding in the game's trailer",
-    "description": "A Divinity content creator has translated the Elder Futhark runic language to reveal the Lord of Chaos is likely the main antagonist in Divinity.",
-    "link": "https://www.polygon.com/divinity-lord-of-chaos-hidden-runes-trailer/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/divinity-burned-man.JPG?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T09:51:05+00:00"
-  },
-  {
-    "title": "There will be nudity in Marvel's Wolverine — but there's a catch",
-    "description": "Alongside gore and guts, players should expect plenty of cake when Marvel's Wolverine releases on the PlayStation 5 this September 15.",
-    "link": "https://www.polygon.com/marvel-wolverine-nudity-ps5/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/wolverine.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T09:35:56+00:00"
-  },
-  {
-    "title": "Stock market today: Dow, S&amp;P 500, Nasdaq rise as Trump calls off Iran attack, oil prices ease",
+    "title": "Stock market today: Nasdaq leads Dow, S&amp;P 500 higher as Big Tech gains, oil prices ease",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html",
     "thumbnail": "https://s.yimg.com/lo/mysterio/api/B4F9B248DE0FE23B4983F04DB49BFD7BBB12203470E832CE0F1E3C50F35F8B0A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F269787f2-cbdd-43b5-b20f-3aa669a54c77",
     "pubDate": "2026-08-03T09:25:16+00:00"
   },
   {
-    "title": "HashKey receives JPMorgan approval to open client money account",
-    "description": "HashKey Exchange said it received approval to open client money accounts with JPMorgan, weeks after it launched customer fund accounts with DBS Bank.",
-    "link": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-plans-to-become-hong-kongs-first-crypto-ipo.jpg",
-    "pubDate": "2026-08-03T09:14:38+00:00"
-  },
-  {
-    "title": "Fortnite teases upcoming Gaming Legends season with hidden Easter egg",
-    "description": "Recent leaks indicate Chapter 7 Season 4 will be gaming-themed, and an audio on the Fortnite island points towards this as well",
-    "link": "https://www.polygon.com/fortnite-gaming-legends-season-teaser/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fortnite-gaming-legends-trailer.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T09:09:58+00:00"
-  },
-  {
-    "title": "Palworld is getting an MMO spin-off coming in 2026",
-    "description": "Coming to mobile devices later this year, Palworld Online is an MMO spin-off from the 2024 hit that promises base-building, PvE, and PvP gameplay.",
-    "link": "https://www.polygon.com/palworld-online-announcement/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/12/palworld-feybreak-green.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-08-03T09:01:34+00:00"
-  },
-  {
-    "title": "Michigan’s Tense Democratic Senate Race Poses a Big Test for a Divided Party",
-    "description": "Progressives hope momentum by Dr. Abdul El-Sayed will give them a signature victory. Centrists warn that picking him will backfire in November. Acrimony is everywhere.",
-    "link": "https://www.nytimes.com/2026/08/03/us/michigan-senate-primary-democrats-el-sayed-stevens.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-03T09:00:58+00:00"
-  },
-  {
-    "title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
-    "description": "By expanding the arena of fighting in the region, experts say, Tehran sent a warning about the dangers of a widening war.",
-    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-03T08:50:11+00:00"
+    "title": "‘I Think Tony Would Have Hated This.’ Anthony Bourdain's Former Assistant, Brother Dissect A24's New Biopic",
+    "description": "How would Tony the man feel about Tony the film? As Bourdain’s longtime assistant, I learned never to predict his responses.",
+    "link": "https://www.bonappetit.com/story/anthony-bourdain-a24-biopic-tony-review",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6b9d514e287bf2075628a2/master/pass/BOURDAIN_ARCHIVAL_06.jpg",
+    "pubDate": "2026-08-03T09:00:00+00:00"
   },
   {
     "title": "English FA set to withdraw support for Fifa president Infantino",
@@ -495,20 +537,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d57f/live/14aa9760-8f17-11f1-a7ab-8b30adf0800a.jpg",
     "pubDate": "2026-08-03T07:49:33+00:00"
-  },
-  {
-    "title": "Mother has pioneering womb surgery to fix baby's intestines - before he's even born",
-    "description": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
-    "link": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d3/live/42a93070-8f3c-11f1-b8ee-9b3c26ad07bb.jpg",
-    "pubDate": "2026-08-03T05:02:25+00:00"
-  },
-  {
-    "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
-    "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/85553550-8f22-11f1-b8ee-9b3c26ad07bb.jpg",
-    "pubDate": "2026-08-03T03:32:21+00:00"
   },
   {
     "title": "Cathie Wood sells $5.5 million of surging tech stock",
@@ -525,6 +553,62 @@
     "pubDate": "2026-08-02T16:03:00+00:00"
   },
   {
+    "title": "23 Almond Recipes From Simple Snacks to Stunning Desserts",
+    "description": "Like a raspberry skillet cake with almond flour and spicy almond-butter green beans.",
+    "link": "https://www.bonappetit.com/gallery/almond-recipes",
+    "thumbnail": "https://assets.bonappetit.com/photos/5bdce3ffb6ba7a3e01b4e72e/master/pass/30102018-Healthyish-CK-10740.jpg",
+    "pubDate": "2026-08-02T12:00:00+00:00"
+  },
+  {
+    "title": "Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data",
+    "description": "Nanit and other start-ups want to track your children through the night — and soon, for much longer than that.",
+    "link": "https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-02T11:29:20+00:00"
+  },
+  {
+    "title": "5 Protein-Powered Dishes Our Editors Make With Cottage Cheese",
+    "description": "Like charred elote salad and a mind-blowing berry smoothie.",
+    "link": "https://www.bonappetit.com/story/protein-powered-meals-our-editors-make-with-cottage-cheese",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6bc327432340adf97fcd07/master/pass/WellStocked_CottageCheese.gif",
+    "pubDate": "2026-08-02T10:00:00+00:00"
+  },
+  {
+    "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+    "description": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
+    "link": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-02T00:58:57+00:00"
+  },
+  {
+    "title": "Dill Pickle Puffs, Gochujang Almonds, and More New Snacks to Try This August",
+    "description": "This month’s Snack Drop features two types of puffs, a gochujang nut mix, and flavor-packed protein chips.",
+    "link": "https://www.bonappetit.com/story/snack-drop-august-2026",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6cdabd9d98bc920adf06c3/master/pass/snackdropaug.gif",
+    "pubDate": "2026-08-01T12:00:00+00:00"
+  },
+  {
+    "title": "BA's Best Morning Buns",
+    "description": "Tender, buttery breakfast pastries with crisp caramelized edges, a fragrant cinnamon-orange filling, and a crackly sugar topping.",
+    "link": "https://www.bonappetit.com/recipe/best-morning-buns",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6cfe90ad7383eafa893e4e/master/pass/single-morning-bun.jpg",
+    "pubDate": "2026-08-01T11:00:00+00:00"
+  },
+  {
+    "title": "Plum Karpatka (Polish Cream Puff Cake)",
+    "description": "With dramatic choux layers and fruit-rippled cream, it’s the drag queen of Polish desserts.",
+    "link": "https://www.bonappetit.com/recipe/plum-karpatka-polish-cream-puff-cake",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6aa1d672fe76313c2f3bae/master/pass/plum-cheesecake-karpatka_LEDE_V6_072926_5577_VOG_Badge_final.jpg",
+    "pubDate": "2026-08-01T10:00:00+00:00"
+  },
+  {
+    "title": "BA Bake Club’s August Recipe Is a Sky-High Cream Puff Cake",
+    "description": "Jesse riffs on Polish karpatka with a no-bake cheesecake filling swirled with tangy plum jam.",
+    "link": "https://www.bonappetit.com/story/bake-club",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6cb371432340adf97fd93b/master/pass/plum-cheesecake-karpatka_LEDE_V6_072926_5577_V1_Badge_final.jpg",
+    "pubDate": "2026-08-01T10:00:00+00:00"
+  },
+  {
     "title": "If You Were Excited About Stellar Blade: Blood Rain, Here’s An AI-Slop Music Video To Fix That",
     "description": "Stellar Blade: Blood Rain is being promoted with an AI-slop music video created by developer Shift Up, and it's all about as soulless as you might expect. The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer that debuted as part of Summer Games Fest. At one point while wandering the city, Evie picks up a KPop Demon Hunters keychain. Towards the end of the video, there is \"behind the scenes footage\" of Shift Up developers \"on set\" with Evie, giving her direction, doing her makeup, and high-fiving members of the team. https://www.youtube.com/watch?v=5Ncuote9ADo An entirely AI-generated video serving as the first major piece of marketing for the Stellar Blade sequel following its reveal is certainly a choice, though it's more than a little concerning Shift Up somehow decided this was a good idea. It is, however, not all that surprising. Shift Up CEO and Stellar Blade director Hyung-tae Kim earlier this year said (as translated by Automaton) during a South Korean \"Economic Growth Strategy\" briefing he believed AI to be an \"essential tool for going up against large competitors like China on a global level.\" He also said AI will not result in people losing their jobs, even though it will enable \"one person\" to perform the \"work of 100 people.\" South Korea as a whole is doubling down on AI, with the country set to invest nearly $14 billion in AI and related infrastructure. The Stellar Blade franchise is no stranger to controversy, ranging from having to patch out unintentional racial slurs to the culture war over the appearance of main character Eve and her revealing outfits in the first game. Stellar Blade: Blood Rain is proving to be no exception, with some criticizing the sexualization of Evie, who appears more childlike in appearance, even as Shift Up promises \"more appealing\" outfits. In an interview with IGN, Kim was asked whether he was worried about using a younger-looking character for Blood Rain, and how that may be perceived by players. He said Evie is indeed younger and smaller in size than Eve, but largely dodged the question. \"If you actually play the game, you will not think that,\" Kim said. Stellar Blade: Blood Rain does not yet have a release date. However, the original Stellar Blade is coming to Nintendo Switch 2 later this year.",
     "link": "https://www.gamespot.com/articles/if-you-were-excited-about-stellar-blade-blood-rain-heres-an-ai-slop-music-video-to-fix-that/",
@@ -532,31 +616,17 @@
     "pubDate": "2026-07-31T19:05:33+00:00"
   },
   {
-    "title": "World Of Warcraft Is Coming To D&amp;D, And Will Let You Grind Renown Just Like The MMO",
-    "description": "World of Warcraft is getting the Dungeons &amp; Dragons treatment, with the iconic tabletop roleplaying game set to translate developer Blizzard's popular MMORPG into a proper pencil-and paper-experience this November. D&amp;D: World of Warcraft is bringing a lot to the table, with everything a dungeon master might potentially need to create an Azeroth campaign. For starters, all 13 WoW classes will be playable, with six additional subclasses, three modified ones, and over 40 class specializations to choose from. The expansion additionally adds 11 WoW races (or species, as they are called in D&amp;D), including tauren, draenei, forsaken, and trolls, along with WoW-specific rules for existing D&amp;D races like humans, dwarves, goblins, orcs, and elves. \"From Azeroth's ancient races to newcomers from distant realms, these species bring a wide range of histories, cultures, and perspectives to your adventures,\" Blizzard writes in its announcement. \"Your choice of species can even grant a starting Renown Score with one of Azeroth's factions--so whether you ride out 'For the Horde! or 'For the Alliance!', your allegiance is baked into your origin.\" https://www.youtube.com/watch?v=1yMOZlYqsnY Blizzard's MMO is filled with iconic spells, items, and enemies, and D&amp;D: World of Warcraft includes those as well. There will be over 60 new spells added as part of the expansion, as well 25 new magic items that include mounts and companion creatures. D&amp;D's spin on WoW even attempts to replicate some of the gameplay and systems longtime players of the MMO are all too familiar with. The expansion adds 10 WoW professions to choose from, allowing players to spend their downtime crafting items or improving their gear. There are even 25 different factions that players can grind out Renown with. Just like in WoW proper, increasing Renown with a faction will grant perks and rewards for those who the climb ranks. On the monster front, 50 new monsters are being added as part of the setting alongside 30 dungeon bosses. Seven of WoW's most iconic dungeons will be playable, including the Deadmines, Onyxia's Lair, and the Scarlet Monastery. An optional Icecrown Citadel Adventure Map Pack will also be available--one that will carry players level 16-20 from the lower spire of the citadel to the Frozen Throne and a confrontation with the Lich King himself. For WoW players who aren't keen on sitting down at the table, there are still a few reasons to take notice. Preordering certain editions, including the D&amp;D: World of Warcraft Ultimate Bundle or Collector's Edition, unlocks D&amp;D-themed items in WoW, including a Black Dragon mount, Gazer pet, Mimic chest toy, and Mimic chest housing decor. The cheapest option for snagging the in-game items according to the official D&amp;D Beyond website appears to be by preordering the $80 physical and digital combo edition. D&amp;D: World of Warcraft will release November 17, with early access beginning November 3. In other WoW news, Blizzard will be adding the viral Jimothy to the MMORPG in the game's next update, while a Blizzard employee was recently fired for allegedly helping a group of players cheat in a Mythic+ dungeon.",
-    "link": "https://www.gamespot.com/articles/world-of-warcraft-is-coming-to-dd-and-will-let-you-grind-renown-just-like-the-mmo/",
-    "thumbnail": "",
-    "pubDate": "2026-07-31T18:10:12+00:00"
+    "title": "Bordeaux Wildfires Threaten the 2026 Vintage",
+    "description": "Even worse, a fresh heatwave could turn Bordeaux into a tinderbox and complicate firefighting efforts.",
+    "link": "https://www.bonappetit.com/story/bordeaux-wildfires",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6b5f976d2fd20088491d3b/master/pass/GettyImages-2287500620.jpg",
+    "pubDate": "2026-07-31T18:32:44+00:00"
   },
   {
-    "title": "Unsurprisingly, It’s PlayStation, Not You, Benefiting From Tariff Refunds",
-    "description": "US tariffs may have forced Sony to increase the prices of its PlayStation hardware, but the company is now benefiting from those tariffs being refunded. As part of the company's latest earnings report, it noted an increase in operating income can be attributed in part to tariff refunds--refunds it seems unlikely to pass onto consumers who paid those higher prices. Those refunds were issued earlier this year after the US Supreme court declared tariffs implemented by President Trump to be unlawful. Sony's Q1 2026 earnings (covering April through June) call out tariff refunds as one of the positive contributors to a 37% increase that its Game &amp; Network Services business saw. Shortly after the tariffs were first implemented, Sony raised the price of its PS5 consoles in August 2025, and again in May 2026. The company has not issued an official statement regarding any potential passing of the refunds back to consumers, and earlier this year, a class-action-complaint was filed. The plaintiffs are arguing that Sony passed the cost of its price hikes onto consumers, and if the nationwide class suit is successful, Sony would be required to pay an undisclosed sum to anyone who purchased a PlayStation console from August 1, 2025. Although Sony has not explicitly said it will not share tariff refunds with consumers who paid higher prices, we've already seen Nintendo and others retain those refunds for themselves. Sony calling out the positive impact on its operating income also suggests no plan to pass along those refunds. It's worth noting that Sony has never mentioned the US tariffs as the sole reason for the console price hikes, as it referenced \"pressures in the global economic landscape\" as the reason for the last price increase. The ongoing RAM shortage driven by large-scale investment in AI and data centers has also been a key factor in console price increases. Xbox manufacturer Microsoft explained that it had to enact another price hike in June because console storage and memory prices had more than doubled, and it also expects another doubling of component prices in 2027, suggesting more price hikes will follow soon after. This probably sounds familiar, as a class action lawsuit was filed in April 2026 on behalf of Nintendo consumers. The plaintiffs are arguing that Nintendo had an obligation to refund customers who purchased its products, following its decision to claim refunds on the tariffs. In a reply, Nintendo disputed the claims and said that customers were never forced to make a purchase and that it didn't raise the price of all of its products. \"Those who bought Nintendo's products received exactly what they bargained and paid for: a console, game and/or accessory at a price to which both parties agreed,\" Nintendo wrote. In more Sony news, the ratio of physical-to-digital game sales increased last quarter, PS5 console sales are slowly creeping toward the 100 million lifetime sales mark, and Sony has broken its silence over its decision to go all-digital with game sales in 2028.",
-    "link": "https://www.gamespot.com/articles/playstation-parent-company-made-more-money-thanks-to-tariffs-it-shouldnt-have-paid/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/07/Sony-tariffs.jpg?w=636",
-    "pubDate": "2026-07-31T17:56:29+00:00"
-  },
-  {
-    "title": "Here’s Why People Think The Ocarina Of Time Remake Will Launch A Week Before GTA 6",
-    "description": "Suspicions are arising among Legend of Zelda fans that the Ocarina of Time remake will launch in mid-November--just within spitting distance of Grand Theft Auto 6. The theories revolve around an apparent pattern of Nintendo's Amiibo releases, and it's hard to blame anyone for buying into them. Per Kotaku, fans claim to have spotted a November 11 release date (adjusted to November 12 with the correct regional system clock settings) for a pair of Kirby Air Riders Amiibo figures (Sword Kirby and Noir Dedede) on Nintendo UK's store--though those listings have since been removed. And fans have observed that Nintendo generally releases Amiibo figures on the same day as its first-party game launches, whether the Amiibos tie into those launches or not. Two Kirby Air Riders Amiibo figures are set to release in November, according to apparent listings on the Nintendo UK store.For instance, the Mineru's Construct Amiibo for The Legend of Zelda: Tears of the Kingdom is coming out on September 17, the same day that Fire Emblem: Fortune's Weave releases on Switch 2. Earlier this year, the King Dedede &amp; Tank Star Amiibo launched simultaneously with Rhythm Heaven Groove on July 2, and the Meta Knight &amp; Shadow Star Amiibo coincided with Pokemon Pokopia on March 5. That all leads many to the conclusion that Nintendo is releasing something in mid-November. With Nintendo firm on a 2026 release window for the Ocarina of Time remake, taking a prime November spot appears logical. Of course, Ocarina of Time would be facing off against the most anticipated video game launch in recent history with GTA 6, which is set for a November 19 launch. Pretty much every other gaming company has scrambled to avoid being near the epicenter of GTA 6's release, leading to an awfully crowded September. Nintendo seems like the one big player (if you don't count Atari with its Barbie game re-releases, or Devolver with whatever it's planning for GTA 6 day) willing to poke Rockstar's upcoming blockbuster with a stick. Presuming this prediction becomes reality, it'll be a fascinating example of counter-programming. Zelda (especially Ocarina of Time) and the GTA franchise are heavy-hitters with different audiences, and with GTA 6 not on Switch 2 at launch, the Ocarina of Time remake will give Switch 2-only players something to get their hands on in November. Both titles would have the opportunity to thrive despite occupying the same space on the calendar. And if you're a fan of both franchises, November could be the opportunity to eat two entire cakes to yourself, which could be a fun, albeit possibly overwhelming and time-consuming feat. Nintendo’s Top-Selling Switch 2 Games Of All Time View Images",
-    "link": "https://www.gamespot.com/articles/heres-why-people-think-the-ocarina-of-time-remake-will-launch-a-week-before-gta-6/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/07/HOe8KsRaQAAbCCU.jpg?w=636",
-    "pubDate": "2026-07-31T16:29:54+00:00"
-  },
-  {
-    "title": "Mistfall Hunter’s Best Class Just Got Even Better",
-    "description": "Developer Bellring Games' extraction brawler Mistfall Hunter is finally out after a handful of betas, and following its July 29 release, the developer has already dropped an update that made one of the game's best classes even better. Launched on July 30, this new update makes some important balance adjustments to the newest class, the Withered Knight. During the beta, the hallowed sentinel only wielded a greatsword. But now that the full game is out, the Withered Knight gets a second weapon like the five other classes: a polearm and shield. It's this set of weapons that saw some improvements, with Bellring Games boosting the damage of some of its attacks to make the Withered Knight even more deadly in combat. Despite sitting in the B-tier on GameSpot's class rankings, what makes the Withered Knight such a lethal class is its ability to apply constant pressure, its heavy burst damage thanks to the Wither skill (which explodes after afflicting a character or monster), and its chase-down potential with its dash attacks and grappling hook. It's a perfect mix between a flanking assassin and an aggressive brawler, making the Withered Knight scary to face head-on. The July 30 update also fixes a plethora of issues that've cropped up. This includes things like adjusting the visual discrepancies with the Sorcerer's Flameblade, addressing connection problems for console players, ironing out game crashes, and fixing unresponsive keys when quickly closing the guide UI. They're all very welcome fixes for a game that has the potential to expand the extraction genre. At the time of writing, almost 30,000 people are playing the game on Steam, suggesting that there's a possible desire for more games in the genre that aren't just shooters. You can check the full patch notes for Mistfall Hunter's July 30 update below. Mistfall Hunter's July 30 Update Patch Notes Class Balance Adjustments Withered Knight — Polearm and Shield: Charged Dash: Energy drain during the shield-raising charge phase has been slightly reduced, and the turning performance of a Tier-1 charged dash has been slightly improved. Basic Attack: Damage of the 1st and 3rd thrust hits has been slightly increased. Spear Barrage: Damage multiplier slightly increased. Rainbow Piercer: Energy cost slightly reduced, and cooldown slightly reduced. Block: Energy cost reduced. Key Bug Fixes Fixed incorrect key prompts in the Sorcerer's spellcasting tutorial in the beginner guide for certain languages. Fixed a mismatch between the visual effect range and actual damage range of the Sorcerer's Flameblade. Fixed an issue where repeatedly entering and exiting the area around a Soul Tree while summoning an extraction point would incorrectly consume an extra Soul of Return. Fixed an issue where items could not be split via the secondary menu. Fixed an issue where some matches on console platforms could not reconnect after a disconnect. Fixed an occasional impassable-area anomaly in the \"General Harald\" challenge. Fixed an issue where some keys would occasionally become unresponsive when the guide UI was closed very quickly. Fixed a game crash caused by moving the cursor to specific regions with the stick on the Seasonal Leaderboard screen while using a controller. Fixed an issue where equipment could not be unequipped from the Loadout system while using a controller. Fixed an issue where certain gem slots could not be selected via the D-pad in the Auction House while using a controller. Fixed an incorrect pop-up shown when exiting the game on the Xbox PC platform. Fixed an occasional display anomaly on the deck screen on PS5--the issue can be resolved by restarting the game. Fixed an issue where the public Training Room settings could not be opened while using a controller. Fixed missing audio for the Execution Animation: Execute--Voidflame Requiem. Fixed an incorrect description for the Sorcerer talent Chant Guard. The correct description reads: Increases Chanting Speed for Stardust spells. When chanting Stardust spells, the first attack received will not interrupt chanting (Stardust Torrent's casting phase also benefits from this effect). This effect has a cooldown.",
-    "link": "https://www.gamespot.com/articles/mistfall-hunters-best-class-just-got-even-better/",
-    "thumbnail": "",
-    "pubDate": "2026-07-31T15:59:48+00:00"
+    "title": "Spaghetti With Pomodoro Sauce",
+    "description": "This streamlined Italian tomato sauce makes magic out of a handful of pantry ingredients.",
+    "link": "https://www.bonappetit.com/recipe/basically-spaghetti-pomodoro",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a6bbe5467976fc455c13ec4/master/pass/20260714_BA_03_Pomodoro%20Sauce_031_FINAL_HORIZONTAL.jpg",
+    "pubDate": "2026-07-31T17:32:39+00:00"
   }
 ]
