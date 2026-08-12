@@ -1,5 +1,404 @@
 [
   {
+    "title": "Trump sued over Truth Social advance access sale",
+    "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+    "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108136645-1745583271265-gettyimages-2211177567-AFP_43EV4JC.jpeg?v=1745583305&w=1920&h=1080",
+    "pubDate": "2026-08-12T16:20:22+00:00"
+  },
+  {
+    "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
+    "description": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
+    "link": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108346718-1786117758853-gettyimages-2289481501-090a0493_1f6togd5.jpeg?v=1786549817&w=1920&h=1080",
+    "pubDate": "2026-08-12T16:17:39+00:00"
+  },
+  {
+    "title": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
+    "description": "Solana-based DoubleZero looks to meet institutional demands by adding prediction market Kalshi’s order book to its low-latency market data feed.",
+    "link": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/1752c4b99c4e3953d426b655225dc48327ad8e7b-1920x1244.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-12T16:14:49+00:00"
+  },
+  {
+    "title": "Israeli settlers besieging Palestinian families in West Bank village",
+    "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
+    "pubDate": "2026-08-12T16:14:08+00:00"
+  },
+  {
+    "title": "LA Lakers to be sold in record $12.5bn deal",
+    "description": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+    "pubDate": "2026-08-12T16:11:04+00:00"
+  },
+  {
+    "title": "Kontoor Brands Boosts 2026 Outlook on Wrangler, Helly Hansen Strength",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kontoor-brands-boosts-2026-outlook-160832513.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/A705892992E7D5955ABF2162A005541450168D29BF22DFA68E26704F1079785B/subgraphmysterio/resizefill_w1200_h1602;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2F19c3cb1c30580679612df9e18adca49c.jpg",
+    "pubDate": "2026-08-12T16:08:32+00:00"
+  },
+  {
+    "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+    "description": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
+    "link": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-plans-to-become-hong-kongs-first-crypto-ipo-1.jpg",
+    "pubDate": "2026-08-12T16:07:59+00:00"
+  },
+  {
+    "title": "‘Honest alcohol’ company closes last physical locations",
+    "description": "",
+    "link": "https://finance.yahoo.com/small-business/articles/honest-alcohol-company-closes-last-160729979.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/007B42BBF49EA7EAB3EBD46D697A9D558DF55226225F2A79EAA8B763BB87D868/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F435bb513d4d3866d65bc6ddddd27612f.jpg",
+    "pubDate": "2026-08-12T16:07:29+00:00"
+  },
+  {
+    "title": "Inflation Eased Slightly in July, but Prices Remain Elevated as War Drags On",
+    "description": "Though energy prices fell last month after their spring surge, other factors pushed up costs as the Fed considers raising interest rates.",
+    "link": "https://www.nytimes.com/2026/08/12/business/economy/cpi-report-july-inflation-data.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-12T16:04:38+00:00"
+  },
+  {
+    "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+    "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+    "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108252590-1768419744214-gettyimages-2249570520-338_12052025_lakers_celtics_babineau_00930.jpeg?v=1768419853&w=1920&h=1080",
+    "pubDate": "2026-08-12T16:02:40+00:00"
+  },
+  {
+    "title": "Stock Of The Day: Boeing, Airbus Supplier Soars 15% On Earnings, Flashing Buy Signals",
+    "description": "",
+    "link": "https://www.investors.com/research/ibd-stock-of-the-day/boeing-supplier-astronics-stock-earnings-buy-signals/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/08/sotd-for-08-12-2026-desktop.png",
+    "pubDate": "2026-08-12T15:59:12+00:00"
+  },
+  {
+    "title": "National Vision Raises Outlook as Higher-Value Customers Fuel Breakout Quarter",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/national-vision-raises-outlook-higher-155813048.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/86EB4C0CD8A806739A7AA6548D44C388B4B5FEBC4964B8C43A9AB07DAF0944A9/subgraphmysterio/resizefill_w1200_h633;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fexec_edge_220%2Fdd22f026b6fb166349612bfc03490390.jpg",
+    "pubDate": "2026-08-12T15:58:13+00:00"
+  },
+  {
+    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+    "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
+    "pubDate": "2026-08-12T15:57:18+00:00"
+  },
+  {
+    "title": "Stock Market Today: Nasdaq Advances In Mixed Trade As Two Restaurant Names Head Higher (Live Coverage)",
+    "description": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-cpi-inflation-nvidia-partner-coreweave/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2024/09/Stock-wallstreetflags-10-adobe.jpg",
+    "pubDate": "2026-08-12T15:56:46+00:00"
+  },
+  {
+    "title": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way",
+    "description": "For investors who suspect Amazon could be range-bound for the next seven weeks, consider a “jade lizard.”",
+    "link": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108341734-1785334177351-gettyimages-2287498019-AMAZON_EARNS.jpeg?v=1785334197&w=1920&h=1080",
+    "pubDate": "2026-08-12T15:53:24+00:00"
+  },
+  {
+    "title": "Eurovision Song Contest changes rules for countries at war",
+    "description": "Organisers say countries engaged in armed conflict will be automatically disqualified from hosting.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx7pv300vwo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b9a/live/bc9b3b40-9661-11f1-a654-971f565de941.jpg",
+    "pubDate": "2026-08-12T15:49:37+00:00"
+  },
+  {
+    "title": "Europe prepares for first total solar eclipse in 27 years",
+    "description": "Europe is gearing up for its first total solar eclipse in 27 years.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-16.36.33-1786549094.png?resize=1200%2C630",
+    "pubDate": "2026-08-12T15:40:24+00:00"
+  },
+  {
+    "title": "Colombia declares three days of mourning after deadly earthquake",
+    "description": "Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.",
+    "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7c828f-1786544783.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-12T15:39:37+00:00"
+  },
+  {
+    "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
+    "description": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
+    "link": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/104073179-RTR4ABX2.jpg?v=1529452171&w=1920&h=1080",
+    "pubDate": "2026-08-12T15:37:25+00:00"
+  },
+  {
+    "title": "Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement",
+    "description": "Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.",
+    "link": "https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-12T15:37:00+00:00"
+  },
+  {
+    "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+    "description": "A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/web-1786548955.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-08-12T15:36:33+00:00"
+  },
+  {
+    "title": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz",
+    "description": "Even if a cease-fire materializes, Gulf exporters recognize that relying strictly on the Strait of Hormuz is a risk they can no longer take.",
+    "link": "https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-12T15:34:05+00:00"
+  },
+  {
+    "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
+    "description": "The US health secretary has spent years saying the MMR vaccine caused autism despite no medical evidence.",
+    "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c5ffc8add-1786535932.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-12T15:30:18+00:00"
+  },
+  {
+    "title": "Iran remains defiant as it vows to fight US until demands met",
+    "description": "IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.",
+    "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260808__C48X6WC__v1__HighRes__IranUsIsraelWar-1786299449_f954f1-1786359851.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-08-12T15:29:20+00:00"
+  },
+  {
+    "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
+    "description": "After the incidents in Bab el-Mandeb and the Gulf of Oman, President Donald Trump on Truth Social wrote of the Strait of Hormuz, \"I THINK WE WILL KEEP IT!\"",
+    "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108348369-1786535819692-gettyimages-2289282447-AFP_C4BX3CQ.jpeg?v=1786535856&w=1920&h=1080",
+    "pubDate": "2026-08-12T15:27:38+00:00"
+  },
+  {
+    "title": "Here's the inflation breakdown for July 2026 — in one chart",
+    "description": "Costs remain elevated for consumers, however inflation is showing some signs of easing, economists say.",
+    "link": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108345963-1786023481238-gettyimages-2286426173-US_GAS.jpeg?v=1786023501&w=1920&h=1080",
+    "pubDate": "2026-08-12T15:13:18+00:00"
+  },
+  {
+    "title": "US consumer inflation slows in July as energy prices briefly retreat",
+    "description": "Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.",
+    "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7b4cf06ad23-1786465520.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-12T15:08:31+00:00"
+  },
+  {
+    "title": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
+    "description": "Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.",
+    "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c8b1b6ba5-1786546971-e1786548111212.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-12T15:07:41+00:00"
+  },
+  {
+    "title": "RFK Jr. Stirred Vaccine Fears in Pennsylvania Years Before Measles Outbreak",
+    "description": "At a speech in Lancaster County, Robert F. Kennedy mocked the threat of measles. Now local officials are racing to contain one of the largest outbreaks in the country.",
+    "link": "https://www.nytimes.com/2026/08/12/well/measles-pennsylvania-kennedy-vaccines.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-12T15:06:45+00:00"
+  },
+  {
+    "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+    "description": "Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support.",
+    "link": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-2.jpg",
+    "pubDate": "2026-08-12T15:00:10+00:00"
+  },
+  {
+    "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+    "description": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.",
+    "link": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/463ee8c8dbdfa6b99128660e3e64d57fcf21b9af-1920x1080.jpg?auto=format&q=75",
+    "pubDate": "2026-08-12T15:00:00+00:00"
+  },
+  {
+    "title": "Crypto Long &amp; Short:",
+    "description": "In this week's Crypto Long &amp; Short, LMAX Group's Jenna Wright argues that markets break down not from too little capital but from capital stuck in the wrong place, trapped by settlement cycles while risk reprices by the minute. She makes the case that stablecoins and tokenization are quietly becoming the plumbing that lets money move as fast as the risk it supports.",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9f0cf2bf8208fb2fc29b3923719014cd9c42ffeb-5721x3816.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-12T14:51:12+00:00"
+  },
+  {
+    "title": "Takeaways From the Wisconsin, Minnesota and South Carolina Primaries",
+    "description": "A moderate won the closely fought Democratic primary for governor in Wisconsin, the latest contest between the party’s progressive and moderate wings.",
+    "link": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-12T14:42:37+00:00"
+  },
+  {
+    "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+    "description": "The legislation will 'exceptionally' reduce certain prison terms, says Lebanon's parliament speaker.",
+    "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7c6545a530-1786537285.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-12T14:26:45+00:00"
+  },
+  {
+    "title": "Double killer and rapist given whole life sentence",
+    "description": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/948c/live/3de99fa0-965a-11f1-a7ab-8b30adf0800a.jpg",
+    "pubDate": "2026-08-12T14:25:00+00:00"
+  },
+  {
+    "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
+    "description": "The killers of PC Andrew Harper had been set to partake in early release scheme as prison system on verge of collapse.",
+    "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7c5dbb0b5d-1786535355.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-12T14:23:34+00:00"
+  },
+  {
+    "title": "Iran is not anti-imperialist. It is a state calculating survival",
+    "description": "Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.",
+    "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/AA-20260803-42132826-42132824-GIANT_ANTIUS_BILLBOARD_IN_TEHRAN-1785786446.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-12T14:23:13+00:00"
+  },
+  {
+    "title": "PM warned of Iran war impact on UK growth next year",
+    "description": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg",
+    "pubDate": "2026-08-12T14:17:26+00:00"
+  },
+  {
+    "title": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase",
+    "description": "The latest Consumer Price Index report helped to reinforce the patient approach adopted by many officials at the Federal Reserve about raising rates, but it has not resolved the debate altogether.",
+    "link": "https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-12T14:08:32+00:00"
+  },
+  {
+    "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+    "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+    "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
+    "pubDate": "2026-08-12T14:00:01+00:00"
+  },
+  {
+    "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
+    "description": "Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero’s dedicated fiber network to bolster institutional data access.",
+    "link": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-comparison-us-elections-2.jpg",
+    "pubDate": "2026-08-12T13:58:41+00:00"
+  },
+  {
+    "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+    "description": "",
+    "link": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f1592166cb8281373325dbe29d66cc4b5939ac79-1280x720.png?auto=format&q=75",
+    "pubDate": "2026-08-12T13:39:31+00:00"
+  },
+  {
+    "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
+    "description": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
+    "link": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-storing-your-cryptocurrency-mica-eu-license.jpg",
+    "pubDate": "2026-08-12T13:31:54+00:00"
+  },
+  {
+    "title": "Burnham considers disposable BBQ ban over wildfire risks",
+    "description": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
+    "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d95/live/66741100-9662-11f1-a7ab-8b30adf0800a.jpg",
+    "pubDate": "2026-08-12T13:31:51+00:00"
+  },
+  {
+    "title": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
+    "description": "Five years after El Salvador made Bitcoin legal tender, the experiment has fallen short of its original promises for locals, but it’s been great for Bitcoin’s global profile.",
+    "link": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/have-bitcoiners-gone-soft-on-authoritarianism.jpg",
+    "pubDate": "2026-08-12T13:30:00+00:00"
+  },
+  {
+    "title": "Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report",
+    "description": "Wintermute will reportedly invest $1 billion in AI infrastructure and high-frequency trading as part of its expansion into traditional finance.",
+    "link": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-project-explained-a-global-initiative-for-asset-tokenization.jpg",
+    "pubDate": "2026-08-12T13:23:57+00:00"
+  },
+  {
+    "title": "China’s answer to Boeing and Airbus makes first international flight — could COMAC challenge the aviation duopoly?",
+    "description": "China’s C919 has made its first scheduled international commercial flight, a milestone in COMAC’s bid to challenge Boeing and Airbus globally.",
+    "link": "https://www.cnbc.com/2026/08/12/china-comac-boeing-airbus.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108151651-1748481689555-gettyimages-679015258-CHINA_COMAC_C919.jpeg?v=1748499402&w=1920&h=1080",
+    "pubDate": "2026-08-12T13:15:36+00:00"
+  },
+  {
+    "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+    "description": "HashKey Exchange and OSL Group are now authorized distributors, enabling institutional and professional investors to mint and redeem HKDAP tokens.",
+    "link": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/df9f1a75636b8bc1ae82ee873b7d7a30e1b25182-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-12T13:13:49+00:00"
+  },
+  {
+    "title": "America doesn’t need a second-class payments system",
+    "description": "If an institution qualifies to participate in America’s banking system, it should have a clear path to America’s payment system, argues Anchorage Digital's Rachel Anderika.",
+    "link": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/ce4c5660367e807ef4f3aad9060755e87d8b6731-5808x3872.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-12T13:00:00+00:00"
+  },
+  {
+    "title": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
+    "description": "Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.",
+    "link": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/89c5e8657bef13a22f62dd2509e13866cab91b45-909x524.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-12T12:44:39+00:00"
+  },
+  {
+    "title": "Fidelity files with SEC to add staking to Ethereum ETF",
+    "description": "Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.",
+    "link": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg",
+    "pubDate": "2026-08-12T12:42:58+00:00"
+  },
+  {
+    "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
+    "description": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b7/live/d8894d30-9646-11f1-9d8e-b1efdebf2f99.jpg",
+    "pubDate": "2026-08-12T12:32:24+00:00"
+  },
+  {
+    "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
+    "description": "The flight-tracking company voluntarily dismissed, without prejudice and without sharing a motive for its decision. However, the flight cancellation market never took off with Kalshi users.",
+    "link": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9f0cf2bf8208fb2fc29b3923719014cd9c42ffeb-5721x3816.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-12T11:44:10+00:00"
+  },
+  {
+    "title": "Daily Spotlight: Profit Margins Widening",
+    "description": "",
+    "link": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+    "pubDate": "2026-08-12T11:43:47+00:00"
+  },
+  {
+    "title": "River Danube's low water levels reveal remains of WWII soldiers and motorcycle",
+    "description": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde6/live/0ce8a9c0-963a-11f1-b809-7db91972344e.png",
+    "pubDate": "2026-08-12T11:28:05+00:00"
+  },
+  {
+    "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+    "description": "Non-qualified investors face a 300,000-ruble (approx. $3,600) annual purchase limit per intermediary, while qualified investors have no cap.",
+    "link": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3ed99ad8e1d2af4b11b0bb301a546dddccbf65e4-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-08-12T11:19:32+00:00"
+  },
+  {
+    "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
+    "description": "Your day-ahead look for Aug. 12, 2026",
+    "link": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a609b9f3ab71fef5656539dcbecaf286254da50c-1920x1080.jpg?auto=format&q=75",
+    "pubDate": "2026-08-12T11:15:00+00:00"
+  },
+  {
     "title": "Sydney Sweeney's Forgotten R-Rated 89-Minute Thriller Is Officially Streaming on Netflix",
     "description": "Sydney Sweeney stars in Immaculate, one of her passion projects as a producer, trailing a nun trapped in a terrifying convent. It's now on Netflix.",
     "link": "https://www.polygon.com/sydney-sweeney-immaculate-netflix-horror-movie/",
@@ -25,28 +424,7 @@
     "description": "Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
     "link": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-battle.png",
-    "pubDate": "2026-08-12T10:18:18+00:00"
-  },
-  {
-    "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
-    "description": "The BOE-led Digital Pound Lab will test trade-finance interoperability, in which exporters receive stablecoins while importers settle in a potential digital pound.",
-    "link": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d0f2ce76b24fc52dc907f21f8e125cf83a23b559-4418x2945.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T10:17:05+00:00"
-  },
-  {
-    "title": "Coreweave surges 18% in premarket after a 'cleaner quarter'. Here's what's happening",
-    "description": "AI cloud giant Coreweave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-    "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108271054-17722088882026-02-27t161124z_343131313_rc2dujajql90_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
-    "pubDate": "2026-08-12T10:14:35+00:00"
-  },
-  {
-    "title": "Clive Owen expands corporate finance team with executive appointment",
-    "description": "",
-    "link": "https://finance.yahoo.com/small-business/articles/clive-owen-expands-corporate-finance-101143729.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2EAE63036C0571A2DF426C8957BC392AA28D15FD895869002B9E2BEA29C3F86A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finternational_accounting_bulletin_542%2Fd25b06492f53e005e327692429c37f66.jpg",
-    "pubDate": "2026-08-12T10:11:43+00:00"
+    "pubDate": "2026-08-12T10:21:00+00:00"
   },
   {
     "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
@@ -70,48 +448,6 @@
     "pubDate": "2026-08-12T10:00:11+00:00"
   },
   {
-    "title": "Key Takeaways From This Week’s Primaries, and the Deportees Stuck in ‘No Man’s Land’",
-    "description": "Plus, why new Alzheimer’s tests are causing distress.",
-    "link": "https://www.nytimes.com/2026/08/12/podcasts/the-headlines/takeaways-primaries-deportees-eswatini.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-12T10:00:07+00:00"
-  },
-  {
-    "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-    "description": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
-    "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108252961-1768489131206-gettyimages-2244520893-NYC_MAYORAL_RACE.jpeg?v=1768489150&w=1920&h=1080",
-    "pubDate": "2026-08-12T10:00:01+00:00"
-  },
-  {
-    "title": "Best CD rates today, Wednesday, August 12, 2026: Earn up to 4.30% APY",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-12-2026-earn-up-to-430-apy-100000560.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/63BFC0EE05290BCD9769F415273A9BC0AE9746BC0D76C84448F443E1F6860165/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47af0d2-4f64-11ef-8ffb-deebdbfd96c8",
-    "pubDate": "2026-08-12T10:00:00+00:00"
-  },
-  {
-    "title": "Tech stocks are getting cheaper even as earnings stay strong: Chart of the Day",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/article/tech-stocks-are-getting-cheaper-even-as-earnings-stay-strong-chart-of-the-day-100000044.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/360E0C962D3749D328DB93525AE2F919B708A824744B5DB51C93040FD48AA690/subgraphmysterio/resizefill_w1200_h804;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fbda2c5d3-7172-45d8-8b95-d37206b27c30",
-    "pubDate": "2026-08-12T10:00:00+00:00"
-  },
-  {
-    "title": "Mortgage and refinance interest rates today, Wednesday, August 12, 2026: Fixed rates move higher",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-12-2026-fixed-rates-move-higher-100000633.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/292C63C867FDCC3635135EF87E9DC4BF402D0F677AFF61A8B161461EC447426D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0",
-    "pubDate": "2026-08-12T10:00:00+00:00"
-  },
-  {
-    "title": "Cleveland Fed's Beth Hammack warns one rate hike won't cut it as inflation swallows workers' wage gains",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/cleveland-feds-beth-hammack-warns-100000049.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/32D0CB06F102D25EAFB64DA122103432F7A1BD59DD3476FB20FE2368033C37A6/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F1daf17ff1497d16ae33b82713ba890f3.png",
-    "pubDate": "2026-08-12T10:00:00+00:00"
-  },
-  {
     "title": "Why Nier: Automata has one of the best soundtracks ever",
     "description": "Nier: Automata is a game about robots and androids that want nothing more than to be human. That theme is revealed through the game's incredible soundtrack. Read more about Polygon's pick for the best games of 2017:",
     "link": "https://www.polygon.com/video/why-nier-automata-has-one-of-the-best-soundtracks-ever/",
@@ -124,13 +460,6 @@
     "link": "https://www.polygon.com/video/i-fixed-fallout-s-music-by-creating-a-totally-new-genre-unraveled/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/i-fixed-fallout-s-music-by-creating-a-totally-new-genre-1.jpg?w=1200&h=675&fit=crop",
     "pubDate": "2026-08-12T09:50:42+00:00"
-  },
-  {
-    "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
-    "description": "Booming AI demand sends CRWV up 16% and lifts IREN and CIFR as investors favor computing infrastructure over crypto.",
-    "link": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/56e051157de1e47ff1176c56836958da1d5bb3d5-2252x1736.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T09:41:52+00:00"
   },
   {
     "title": "Crystal Chronicles Has the Best Final Fantasy Music",
@@ -147,27 +476,6 @@
     "pubDate": "2026-08-12T09:30:40+00:00"
   },
   {
-    "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
-    "description": "The fund would keep 85% of gross staking rewards, with the remaining 15% going to service providers.",
-    "link": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?auto=format&q=75",
-    "pubDate": "2026-08-12T09:30:20+00:00"
-  },
-  {
-    "title": "More than 100 passengers rescued after Indonesia ferry fire",
-    "description": "More than 100 passengers rescued after Indonesia ferry fire",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/indo-ferry-fire-Horizontal-1786526705.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-08-12T09:26:45+00:00"
-  },
-  {
-    "title": "Pogba suffers new injury setback with Monaco future now in doubt",
-    "description": "Former France and Manchester United star Paul Pogba suffers latest injury setback, sparking rumours about Monaco future.",
-    "link": "https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260809__C4A72MX__v1__HighRes__776527817-1786523539_b90ef7-1786526577.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-08-12T09:24:59+00:00"
-  },
-  {
     "title": "How The Sims Made New-Age Jazz Piano the Soundtrack of Our Lives",
     "description": "The Sims soundtrack is an iconic piece of video game music, and the build mode's minimalist new age jazz piano songs are undoubtedly among it's most famous tracks. We spoke to Jerry Martin, the composer of the soundtrack, to find out how and why new age jazz piano became the sound of The Sims.",
     "link": "https://www.polygon.com/video/how-the-sims-made-new-age-jazz-piano-the-soundtrack-of-our-lives/",
@@ -175,14 +483,7 @@
     "pubDate": "2026-08-12T09:23:14+00:00"
   },
   {
-    "title": "Zambia’s president rallies for second term ahead of election",
-    "description": "Zambia's president rallies for second term ahead of election",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/ZAMBIA-PRESIDENT-1786526166.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-08-12T09:16:22+00:00"
-  },
-  {
-    "title": "Stock market today: Dow and S&amp;P 500 futures muted ahead of CPI data, Nasdaq rises",
+    "title": "Stock market today: Dow, S&amp;P 500, Nasdaq rise after CPI data cools slightly",
     "description": "",
     "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
     "thumbnail": "https://s.yimg.com/lo/mysterio/api/DDC4900067F9D6D612BCB25D311E47080D8C81C0A9C49C577120FC21ADF4472E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-2286551787_1034.jpg",
@@ -196,81 +497,11 @@
     "pubDate": "2026-08-12T09:11:27+00:00"
   },
   {
-    "title": "A hydrogen-powered vehicle sets new land speed record",
-    "description": "A hydrogen-powered vehicle sets new land speed record",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/a-hydrogen-powered-vehicle-sets-new-land-speed-record?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786525826.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-08-12T09:10:40+00:00"
-  },
-  {
-    "title": "How a Reporter Interviewed Deportees Sent to a Prison in Africa by the Trump Administration",
-    "description": "A Times reporter spoke with detainees in southern Africa using a cellphone one of them obtained after a hunger strike.",
-    "link": "https://www.nytimes.com/2026/08/12/insider/interview-deportees-eswatini-africa-trump.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-12T09:03:22+00:00"
-  },
-  {
     "title": "Crypto companies urge AI firms to give Bitcoin developers early access",
     "description": "The Bitcoin Policy Institute and other industry participants urged AI companies to offer early access to their frontier models to aid Bitcoin and open-source developers in their cybersecurity efforts.",
     "link": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/blockchain-city-people-future-ai.jpg",
     "pubDate": "2026-08-12T09:03:01+00:00"
-  },
-  {
-    "title": "Heat Kills Hundreds of Workers Each Year. A Postal Carrier Was One.",
-    "description": "About half a dozen states explicitly protect workers from excessive heat. And some others, like Texas, prevent local governments from passing their own laws.",
-    "link": "https://www.nytimes.com/2026/08/12/business/extreme-heat-worker-deaths.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-12T09:01:56+00:00"
-  },
-  {
-    "title": "He Was Deported to Eswatini in Southern Africa. He May Never Go Free.",
-    "description": "As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.",
-    "link": "https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-12T09:00:31+00:00"
-  },
-  {
-    "title": "8 Takeaways from Tuesday’s Primaries",
-    "description": "A moderate won the closely fought Democratic primary for governor in Wisconsin, the latest contest between the party’s progressive and moderate wings.",
-    "link": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-12T08:58:32+00:00"
-  },
-  {
-    "title": "Early release scheme risks more serious crimes, probation chief warns",
-    "description": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
-    "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c1/live/1d42c130-9620-11f1-a7ab-8b30adf0800a.jpg",
-    "pubDate": "2026-08-12T08:57:44+00:00"
-  },
-  {
-    "title": "One overlooked group has added $1.78 billion of selling pressure to bitcoin market",
-    "description": "Public miners are an underappreciated source of supply hitting the market right at the margin.",
-    "link": "https://www.coindesk.com/markets/2026/08/12/one-overlooked-group-has-added-usd1-78-billion-of-selling-pressure-to-bitcoin-market",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/5a1c20851ae32daabe4820e89ae7049b9efddc85-1000x563.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T08:53:23+00:00"
-  },
-  {
-    "title": "Rybakina defeats Osaka, advances to Canadian Open semifinals to play Gauff",
-    "description": "Elena Rybakina stages a huge comeback to beat Naomi Osaka and will now play Coco Gauff for a place in the final.",
-    "link": "https://www.aljazeera.com/sports/2026/8/12/rybakina-defeats-osaka-advances-to-canadian-open-semifinals-to-play-gauff?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-12T023636Z_235762361_MT1USATODAY29564125_RTRMADP_3_TENNIS-NATIONAL-BANK-OPEN-1786522098_17fc40-1786524843.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-08-12T08:45:46+00:00"
-  },
-  {
-    "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
-    "description": "The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across 60 countries.",
-    "link": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108093964-1738146257078-gettyimages-2195922457-NORWAY_NBIM.jpeg?v=1754981239&w=1920&h=1080",
-    "pubDate": "2026-08-12T08:45:20+00:00"
-  },
-  {
-    "title": "Wisconsin race tight: Key takeaways from US primary election results",
-    "description": "Trump-backed candidates both win and lose: Results from Wisconsin, Minnesota, South Carolina and Alabama.",
-    "link": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c1a599ac2-1786518105.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-12T08:45:00+00:00"
   },
   {
     "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
@@ -280,181 +511,6 @@
     "pubDate": "2026-08-12T08:43:46+00:00"
   },
   {
-    "title": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
-    "description": "The IEA expects oil demand to fall by 1.6 million barrels a day in 2026 as high fuel prices and Strait of Hormuz disruptions weigh on consumption.",
-    "link": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108299367-1777486230540-gettyimages-2273131674-AFP_A9DB6RX.jpeg?v=1777486342&w=1920&h=1080",
-    "pubDate": "2026-08-12T08:31:06+00:00"
-  },
-  {
-    "title": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?",
-    "description": "The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.",
-    "link": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-07T063131Z_854733327_RC2UJMA13214_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-WILDBERRIES-1786459377.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-12T08:19:05+00:00"
-  },
-  {
-    "title": "Clacton by-election: Farage may win the town, but can he win the country?",
-    "description": "Reform UK leader is set to claim victory over the seaside town that adores him, but the party's popularity is in doubt.",
-    "link": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-07T094029Z_282944369_RC294LASL2S2_RTRMADP_3_BRITAIN-POLITICS-ELECTIONS-1778149005.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-12T08:14:07+00:00"
-  },
-  {
-    "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
-    "description": "The Government will meet to discuss this summer's record-breaking heat as the tally for days above 30C in the UK is broken.",
-    "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bae/live/4ec79cd0-962f-11f1-a7ab-8b30adf0800a.jpg",
-    "pubDate": "2026-08-12T08:08:43+00:00"
-  },
-  {
-    "title": "Taiwan’s Foxconn reports 35 percent rise in profit on AI demand",
-    "description": "World's largest contract electronics maker forecasts strong growth in 2026 amid AI boom.",
-    "link": "https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26042482522561-1786518848.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-12T07:58:04+00:00"
-  },
-  {
-    "title": "Four killed in overnight attacks in southern Russia, Ukraine",
-    "description": "Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor.",
-    "link": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7c1af23bb33-1786518258.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-12T07:49:22+00:00"
-  },
-  {
-    "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-    "description": "Progressive Democrats keep their winning streak rolling in Minnesota.",
-    "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108348331-1786532234084-gettyimages-2289948374-157a0618_copy_araoomkz.jpeg?v=1786532260&w=1920&h=1080",
-    "pubDate": "2026-08-12T07:40:42+00:00"
-  },
-  {
-    "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-    "description": "Suspected North Koreans IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
-    "link": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.jpg",
-    "pubDate": "2026-08-12T07:34:58+00:00"
-  },
-  {
-    "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-    "description": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
-    "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
-    "pubDate": "2026-08-12T07:30:16+00:00"
-  },
-  {
-    "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-    "description": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
-    "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256804-1769399144405-gettyimages-1434221345-y_r_7071.jpeg?v=1770775676&w=1920&h=1080",
-    "pubDate": "2026-08-12T07:20:31+00:00"
-  },
-  {
-    "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
-    "description": "Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.",
-    "link": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/ef1cc3bd6f16d5534a7053ae4508215b2e910c20-1435x731.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T07:04:53+00:00"
-  },
-  {
-    "title": "Serious failings found in new military crimes unit, leaked report finds",
-    "description": "A leaked internal review warns of concerns about a new unit investigating the most serious crimes.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047d/live/2ad461e0-959a-11f1-b2ab-0dd01740f9f6.jpg",
-    "pubDate": "2026-08-12T06:32:52+00:00"
-  },
-  {
-    "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-    "description": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
-    "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108348369-1786535819692-gettyimages-2289282447-AFP_C4BX3CQ.jpeg?v=1786535856&w=1920&h=1080",
-    "pubDate": "2026-08-12T06:30:07+00:00"
-  },
-  {
-    "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-    "description": "Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platforms.",
-    "link": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-top-hacks-so-far-4.jpg",
-    "pubDate": "2026-08-12T06:02:52+00:00"
-  },
-  {
-    "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-    "description": "The exchange is joining a tokenized stock market that has grown 600% in a year, though its products offer price exposure rather than share ownership.",
-    "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/be7752e9f6c560cecc67cb3cce5515acebbe447d-1500x1008.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T06:00:00+00:00"
-  },
-  {
-    "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
-    "description": "Bitcoin and ether are stuck in a tight range ahead of the CPI. Here’s how savvy traders are positioning for the pivotal release.",
-    "link": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0ec1a5091188e08cb020c5859560aebbdf1ad5c7-3000x2001.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T05:26:55+00:00"
-  },
-  {
-    "title": "Watch: British driver who broke sound barrier sets new speed record",
-    "description": "Andy Green set the fastest time ever recorded in a hydrogen-powered car, reaching 406mph (654km/h).",
-    "link": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1d/live/08dff490-95ff-11f1-a7ab-8b30adf0800a.jpg",
-    "pubDate": "2026-08-12T05:24:53+00:00"
-  },
-  {
-    "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
-    "description": "Harmony said in Asian morning hours it is working with exchanges to freeze funds and preparing a software fix.",
-    "link": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c97bd815dbaa4d0c149b3c9a15cc76b83b6dab51-720x406.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T05:18:40+00:00"
-  },
-  {
-    "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
-    "description": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
-    "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
-    "pubDate": "2026-08-12T05:00:01+00:00"
-  },
-  {
-    "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
-    "description": "DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.",
-    "link": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a1c824c302f2e2a70e1929e52d4a11dfbfc494e8-2970x1478.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T04:53:46+00:00"
-  },
-  {
-    "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-    "description": "The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.",
-    "link": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/cftc-vs-binance.png",
-    "pubDate": "2026-08-12T04:53:26+00:00"
-  },
-  {
-    "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-    "description": "An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.",
-    "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c0aa21182d52630cd0374bc45f523521cbad0b54-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-08-12T04:33:25+00:00"
-  },
-  {
-    "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-    "description": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
-    "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbb/live/73523b30-9613-11f1-870d-5d08c49babb2.jpg",
-    "pubDate": "2026-08-12T04:29:02+00:00"
-  },
-  {
-    "title": "In Europe, the Total Solar Eclipse Is Hours Away",
-    "description": "Sky watchers have flocked to places, from Iceland to Spain, where the moon will completely block the sun.",
-    "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-12T04:01:13+00:00"
-  },
-  {
-    "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-    "description": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-    "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e32/live/76fded00-9632-11f1-b2ab-0dd01740f9f6.jpg",
-    "pubDate": "2026-08-12T03:44:55+00:00"
-  },
-  {
     "title": "See How Trump’s Secret Air Force One Swap Unfolded",
     "description": "The extraordinary subterfuge was aimed at protecting an American president who has been in Iran’s cross hairs for years.",
     "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html",
@@ -462,53 +518,11 @@
     "pubDate": "2026-08-12T02:51:57+00:00"
   },
   {
-    "title": "Iran Said to Have Known Details of Trump’s Stay at NATO Summit",
-    "description": "The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.",
-    "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-12T02:09:20+00:00"
-  },
-  {
     "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
     "description": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
     "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108291072-17761734872026-04-14t090502z_1765770947_rc2sokaecd2n_rtrmadp_0_tesla-china.jpeg?v=1776173500&w=1920&h=1080",
     "pubDate": "2026-08-12T01:20:13+00:00"
-  },
-  {
-    "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-    "description": "Mining pools controlling most of Ravencoin’s hash rate are building a competing chain that could trigger a three-day reorganization.",
-    "link": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-how-220m-was-stolen-in-minutes-understanding-the-cetus-dex-exploit-on-sui.jpg",
-    "pubDate": "2026-08-12T01:11:51+00:00"
-  },
-  {
-    "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
-    "description": "Regulators allege Goliath promised crypto liquidity-pool returns but instead paid earlier investors and funded its founder’s luxury spending.",
-    "link": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-the-most-famous-financial-pyramids-in-the-crypto-world.png",
-    "pubDate": "2026-08-12T00:07:41+00:00"
-  },
-  {
-    "title": "Woman attacked by Simon Levy feels betrayed he was allowed to attack more women",
-    "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
-    "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fea/live/fae678b0-9634-11f1-b2ab-0dd01740f9f6.jpg",
-    "pubDate": "2026-08-11T21:00:46+00:00"
-  },
-  {
-    "title": "SEC to address crypto regulations in absence of CLARITY passage",
-    "description": "The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.",
-    "link": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-court-case-crypto-vs-sec.jpg",
-    "pubDate": "2026-08-11T20:59:07+00:00"
-  },
-  {
-    "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-    "description": "The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.",
-    "link": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks-2.png",
-    "pubDate": "2026-08-11T20:55:58+00:00"
   },
   {
     "title": "The Elder Scrolls 6 Might Have An 8-Letter Subtitle",
@@ -530,13 +544,6 @@
     "link": "https://www.gamespot.com/articles/battlefield-6-trailer-shows-off-new-version-of-wake-island-and-it-looks-incredible/",
     "thumbnail": "",
     "pubDate": "2026-08-11T18:47:24+00:00"
-  },
-  {
-    "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
-    "description": "The consumer price index is expected to show only a modest increase for July.",
-    "link": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108347227-1786365048812-gettyimages-2289076429-FOOD_PRICES.jpeg?v=1786365114&w=1920&h=1080",
-    "pubDate": "2026-08-11T18:34:41+00:00"
   },
   {
     "title": "Halo: Campaign Evolved’s Biggest Competition Might Be Halo",
@@ -581,13 +588,6 @@
     "pubDate": "2026-08-11T15:04:00+00:00"
   },
   {
-    "title": "How the weather will affect your viewing",
-    "description": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many.",
-    "link": "https://www.bbc.co.uk/weather/articles/c23592z7gppo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f2/live/aadbab90-9627-11f1-a7ab-8b30adf0800a.jpg",
-    "pubDate": "2026-08-11T15:02:33+00:00"
-  },
-  {
     "title": "Job Simulator Is Finally Giving Your VR Headset The Day Off",
     "description": "Job Simulator has long been one of the best reasons to own a VR headset, and it might be bringing the glory days of working behind a counter--or cubicle hell--to a flat screen near you. Homeworld: Vast Reaches developer FarBridge has announced Job Simulator: Human Relations, which will see up to four players work together to complete tasks during their virtual eight-hour shift, like competing for resources or surviving natural disasters to appease their robot overlords. While you won't be playing as squishy humans in this co-op chaos game, you will be piloting several robots attempting to navigate the human workplace. The project is seeking crowdfunding to help make it a reality, as FarBridge has launched a Kickstarter campaign for it. If the studio successfully raises $150,000, the funds will be used to support the game's development. Backers can expect invites to private playtests, exclusive development, and VIP Discord access as they contribute to the game. An \"employment package\" starts at $10, and higher tiers will include a Steam copy of the completed game, in-game recognition, and an opportunity to design a JobBot face or corporate motivational poster. If stretch goals are met, the game will expand with additional disasters, customization options, jobs, and more. https://youtu.be/xu--JYZ6RIY?si=lDzCaaJ5htxPBkQL \"Job Simulator has always been good at finding the joke in the everyday nonsense of work,\" FarBridge CEO and founder Patrick Curry said in a press statement. \"With Job Simulator: Human Relations, we started wondering what that would look like if you had to deal with all of it alongside your friends. That idea opened up a lot of possibilities, and we don’t want to figure them all out behind closed doors. Kickstarter gives us a way to keep building the game with players involved from the beginning.\" Owlchemy Labs CEOwl--no, really, that's their title--Andrew Eiche added that with Job Simulator turning 10 this year, the studio wanted to grow the cult-classic. FarBridge was a natural fit, given that they had already worked alongside Owlchemy on several projects and gelled with the developer's vibe. \"They get our sense of humor, they understand how we build playful systems, and we trust them to bring that spirit to a new kind of experience for fans new and old,\" Eiche said. If you haven't played it yet, Job Simulator is set in 2050 and casts you as a living exhibit in the Museum of Human Employment. Aiming to recreate human working conditions, robots have gleaned information from social media posts, corporate training videos, and toxic productivity gurus, resulting in an inaccurate nine-to-five environment. Your role in all this? Do your job and hit production goals while avoiding the chaos erupting around you, all so that you can earn some sweet promotions and gameplay perks.",
     "link": "https://www.gamespot.com/articles/job-simulator-is-finally-giving-your-vr-headset-the-day-off/",
@@ -595,38 +595,10 @@
     "pubDate": "2026-08-11T15:00:00+00:00"
   },
   {
-    "title": "Daily Spotlight: Sovereign Debt Yields",
-    "description": "",
-    "link": "https://finance.yahoo.com/research/reports/ARGUS_47879_MarketOutlook_1786447655000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "thumbnail": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-    "pubDate": "2026-08-11T11:27:35+00:00"
-  },
-  {
     "title": "Musical Manuscripts Are Intimate and Transporting. See Why.",
     "description": "Franz Welser-Möst, the Cleveland Orchestra’s music director, takes us on a tour through the handwritten score of Mahler’s “Resurrection” Symphony.",
     "link": "https://www.nytimes.com/2026/08/11/arts/music/mahler-manuscript-cleveland.html",
     "thumbnail": "",
     "pubDate": "2026-08-11T09:00:38+00:00"
-  },
-  {
-    "title": "Billionaire sues ex-employee over alleged theft",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-sues-ex-employee-over-005000617.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/C50739918AEDCB92D24059FDED08F107F5CE74CA6B1641A4CDCCDAEA43BB72A0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F7fb1939e6681d14726e3640559d3957c",
-    "pubDate": "2026-08-11T00:50:00+00:00"
-  },
-  {
-    "title": "HELOC and home equity loan rates today, Wednesday, August 12, 2026: Why locking in a low rate matters",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-wednesday-august-12-2026-why-locking-in-a-low-rate-matters-100000351.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/24A2FEFFB60F16579510556B5C812A6E75B1A56A47B0D741F7484DE3D16FD6DE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F92704b90-40d5-11f0-bbfd-0abdc0412cbb_3461.png",
-    "pubDate": "2026-08-10T10:00:00+00:00"
-  },
-  {
-    "title": "Best high-yield savings interest rates today, Wednesday, August 12, 2026: Earn up to 4.15% APY",
-    "description": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-august-12-2026-earn-up-to-415-apy-100000399.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/BAC17CE19E438EDBB0DC6A1C76C97DCB524950DE6E59B8ABABB9AFDC3C90DF0C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F4_6489.png",
-    "pubDate": "2026-08-10T10:00:00+00:00"
   }
 ]
