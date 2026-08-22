@@ -1,1 +1,632 @@
-[]
+[
+  {
+    "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
+    "description": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
+    "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T16:33:59+00:00"
+  },
+  {
+    "title": "Carney faces crucial test after walking away from Trump's deal",
+    "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+    "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg",
+    "pubDate": "2026-08-22T16:20:51+00:00"
+  },
+  {
+    "title": "Mark Carney Speaks to Canadians After Trade Talks With U.S. Collapse",
+    "description": "Prime Minister Mark Carney addressed Canadians on Saturday morning, hours after he ordered negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
+    "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T16:14:22+00:00"
+  },
+  {
+    "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+    "description": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
+    "pubDate": "2026-08-22T16:05:04+00:00"
+  },
+  {
+    "title": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
+    "description": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F693EF4FEAD7FCC97B08EBDB9F7E31453D4424451AEBB7727863FB7E82292064/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Feed0fcaa92063f9ac35d6b8cdbd58cf8.jpg",
+    "pubDate": "2026-08-22T16:00:00+00:00"
+  },
+  {
+    "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+    "description": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+    "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108351356-1787125838744-gettyimages-2281261895-AFP_B79K3Z3.jpeg?v=1787125848&w=1920&h=1080",
+    "pubDate": "2026-08-22T15:59:29+00:00"
+  },
+  {
+    "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+    "description": "Designed to stop heatstroke in its tracks, the \"Do Hiemon Box\" delivers rapid, targeted cooling during extreme weather.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787413630.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-08-22T15:48:27+00:00"
+  },
+  {
+    "title": "Did DOGE cuts make America’s food safety problem worse?",
+    "description": "The US has recorded more than 160 food recalls this year, as a Cyclospora outbreak has sickened nearly 11,000 people.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787413272.jpg?resize=1612%2C1080&quality=80",
+    "pubDate": "2026-08-22T15:46:48+00:00"
+  },
+  {
+    "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+    "description": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787413495.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-08-22T15:45:40+00:00"
+  },
+  {
+    "title": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
+    "description": "As Republicans have embraced tough measures to clear the streets, no group has led the way more than the Cicero Institute, founded by the venture capitalist Joe Lonsdale.",
+    "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T15:38:21+00:00"
+  },
+  {
+    "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+    "description": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
+    "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26213324967077-1787000120.jpg?resize=1200%2C675",
+    "pubDate": "2026-08-22T15:30:49+00:00"
+  },
+  {
+    "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+    "description": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2024/03/Stock-Nvidia-JensenHuangCEO-04-company.jpg",
+    "pubDate": "2026-08-22T15:25:48+00:00"
+  },
+  {
+    "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+    "description": "The exchange has hired White &amp; Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+    "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T15:16:41+00:00"
+  },
+  {
+    "title": "When he dies, Warren Buffett wants 90% of wife’s inheritance put into 1 investment. Here’s what it is, and how to get it",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/43E2AC847FCED3F8D9E606A631420C67F7767356ED4388625AE53B0CEFF95EDD/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F480d7bd443a2ceabbf9a8c388f2cb0f8.jpg",
+    "pubDate": "2026-08-22T15:05:00+00:00"
+  },
+  {
+    "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+    "description": "Syria condemns attack in southwest as a 'flagrant violation of sovereignty' and a 'blatant breach of international law'.",
+    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/Syria-1787403295.webp?resize=1200%2C675",
+    "pubDate": "2026-08-22T14:37:40+00:00"
+  },
+  {
+    "title": "AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires",
+    "description": "",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/4257EC4867A6B4C7A5F01371E52314C285298EBC6C99176A96DC03864FBB818C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fd65cdeae86b6b812e9dea5a1f4368140.jpg",
+    "pubDate": "2026-08-22T14:30:00+00:00"
+  },
+  {
+    "title": "Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/article/tariff-refunds-are-hitting-retailers-wallets-heres-what-theyre-doing-with-the-money-142951738.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/B3E1C6012B8218DF0AA7201574CEBB77129D325CFF696F7E13C3A81D9D3ABC85/subgraphmysterio/resizefill_w1200_h830;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F3b795395-f798-46e1-8fd3-a3691f57f37b",
+    "pubDate": "2026-08-22T14:29:51+00:00"
+  },
+  {
+    "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+    "description": "Iran says production is ongoing, but details will not be revealed during war conditions.",
+    "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a89a3b9db3b-1787405241.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-22T14:19:06+00:00"
+  },
+  {
+    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+    "description": "The Sandbox disabled bridging on affected networks to isolate tokens and warned users not to trade SAND on Base and BNB, citing an impact of under 0.01% of supply.",
+    "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T14:10:17+00:00"
+  },
+  {
+    "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+    "description": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
+    "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
+    "pubDate": "2026-08-22T14:10:05+00:00"
+  },
+  {
+    "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
+    "description": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
+    "link": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108352958-1787344743741-stav5_2.jpg?v=1787345001&w=1920&h=1080",
+    "pubDate": "2026-08-22T14:00:01+00:00"
+  },
+  {
+    "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+    "description": "Fairmint CEO Joris Delanoue warns tokenized stocks risk recreating Wall Street’s 1960s paper crisis through fragmented systems and standards.",
+    "link": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T14:00:00+00:00"
+  },
+  {
+    "title": "BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' — and urges Americans to invest",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-ceo-larry-fink-says-140000827.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/63C423C84E89DB738ADCD3F63C58A6DE19F7FEAAE98D6D7E3EAE7E7720FF0F26/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F4de9644940e249a3a981986c3bddf97f.jpg",
+    "pubDate": "2026-08-22T14:00:00+00:00"
+  },
+  {
+    "title": "Man Utd humiliated at Hull to open Premier League account",
+    "description": "Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-22T121150Z_671259701_UP1EM8M0XVOF8_RTRMADP_3_SOCCER-ENGLAND-HUL-MUN-1787404572.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-22T13:54:02+00:00"
+  },
+  {
+    "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
+    "description": "Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-21T203410Z_810368876_UP1EM8L1L4X5L_RTRMADP_3_SOCCER-GERMANY-MAN-FCK-1787405166.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-22T13:44:02+00:00"
+  },
+  {
+    "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+    "description": "Fires between January and July burned more than 200,000 hectares of land, says the government.",
+    "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7ac2e2085f6-1786430178.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-22T13:35:57+00:00"
+  },
+  {
+    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+    "description": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
+    "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg",
+    "pubDate": "2026-08-22T13:30:00+00:00"
+  },
+  {
+    "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+    "description": "Washington state is cut off for Kalshi customers while the company combats the development in court and its federal regulator keeps pursuing new rules.",
+    "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T13:30:00+00:00"
+  },
+  {
+    "title": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
+    "description": "",
+    "link": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
+    "thumbnail": "https://www.investors.com/wp-content/uploads/2018/03/stock-steel-07-adobe.jpg",
+    "pubDate": "2026-08-22T13:26:57+00:00"
+  },
+  {
+    "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+    "description": "Low-cost S&amp;P 500 index funds are the foundation of many portfolios to grow wealth, but investors should add assets to diversify and lower volatility.",
+    "link": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353032-1787395101542-gettyimages-2289192280-mms15340_f7byyguf.jpeg?v=1787395129&w=1920&h=1080",
+    "pubDate": "2026-08-22T13:26:14+00:00"
+  },
+  {
+    "title": "Is Trump making Latin America great again?",
+    "description": "A right-wing wave is sweeping through the region and that is not good news.",
+    "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-25T192708Z_1572487204_RC241MAOO9M6_RTRMADP_3_COLOMBIA-ELECTION-1782487430.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-22T13:23:56+00:00"
+  },
+  {
+    "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+    "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
+    "pubDate": "2026-08-22T13:13:16+00:00"
+  },
+  {
+    "title": "The Best New Card From Magic's Hobbit Set Made My Dr. Eggman Deck Unstoppable",
+    "description": "See how pairing Fateful Discovery with Dr. Eggman creates an unstoppable, self-sustaining assembly line of heavy machinery and endless card draw.",
+    "link": "https://www.polygon.com/magic-mtg-hobbit-card-dr-eggman-deck/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-preview-panel-magiccon_-las-vegas-2026-9-13-screenshot.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T13:00:15+00:00"
+  },
+  {
+    "title": "Why Polling Chaos Could Create Big Problems for American Politics",
+    "description": "Bad polls. Misleading betting odds. Surveys meant to shape narratives. Ahead of the midterms and 2028, there is suddenly serious confusion about candidate strength and voter sentiment.",
+    "link": "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T12:50:24+00:00"
+  },
+  {
+    "title": "India Leaves the Door Ajar for China’s Investors",
+    "description": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/india-leaves-door-ajar-china-123300050.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/F0CFCE646E6BF77C70BFF5DA1122FBB3D113BE5901F819F3B3E078D80BE1ED13/subgraphmysterio/resizefill_w1200_h1490;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Ff14512dea096a95ecebc8c46de812d36.jpg",
+    "pubDate": "2026-08-22T12:33:00+00:00"
+  },
+  {
+    "title": "HBO Max's R-Rated 116-Minute Action Sci-Fi Sequel Is Officially a Streaming Smash Hit",
+    "description": "The No.1 movie streaming on HBO Max right now is Mortal Kombat 2, giving fans hope for that Mortal Kombat 3 will finally get the greenlight.",
+    "link": "https://www.polygon.com/mortal-kombat-2-karl-urban-streaming-success-mk3-hbo/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mk2-streaming.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T12:30:14+00:00"
+  },
+  {
+    "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+    "description": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
+    "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108298316-1777383492077-gettyimages-2207562352-AFP_38UZ4BA.jpeg?v=1777383527&w=1920&h=1080",
+    "pubDate": "2026-08-22T12:12:03+00:00"
+  },
+  {
+    "title": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
+    "description": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.",
+    "link": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108140428-1746279549833-untitled-337-199.jpg?v=1770232722&w=1920&h=1080",
+    "pubDate": "2026-08-22T12:06:37+00:00"
+  },
+  {
+    "title": "Prime Video's $175M Action Fantasy Flop Is Officially Soaring on Global Streaming",
+    "description": "Masters of the Universe is surging on Prime Video, giving the $175 million He-Man reboot a major second life with global viewers.",
+    "link": "https://www.polygon.com/masters-of-the-universe-streaming-success-prime-video-august-2026/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/motu-streaming-hit.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T12:00:15+00:00"
+  },
+  {
+    "title": "GTA 6 Leak and Wolverine Rage Are Symptoms of Gaming's Summer of Hate",
+    "description": "A lot bad news and a lack of major game releases has fed a poisonous atmosphere in gaming; Gamescom and the September releases can't come soon enough",
+    "link": "https://www.polygon.com/patch-notes-gta-6-leak-wolverine-summer/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_safehouse_vehicles_03.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T12:00:15+00:00"
+  },
+  {
+    "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+    "description": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
+    "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108352277-1787245835671-Coca-Cola_Mixology.JPG?v=1787245933&w=1920&h=1080",
+    "pubDate": "2026-08-22T12:00:01+00:00"
+  },
+  {
+    "title": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
+    "description": "Schools and increasingly teen employers are drawing a hard line against phone use. The benefits for teens can be profound.",
+    "link": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108349863-1786723956977-DSC06853.png?v=1786729115&w=1920&h=1080",
+    "pubDate": "2026-08-22T12:00:01+00:00"
+  },
+  {
+    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
+    "description": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pushed deeper into stablecoins.",
+    "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T12:00:00+00:00"
+  },
+  {
+    "title": "30 Years Ago, One Console and Two Games Changed My Life",
+    "description": "Without Nintendo's SNES, and Super Mario World and Super Mario Kart, I would never have fully understood the potential of video games",
+    "link": "https://www.polygon.com/switchboard-snes-personal-history-super-mario-world-kart/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9319983/snes-classic-pre-review-01_2400.0.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T11:00:14+00:00"
+  },
+  {
+    "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+    "description": "U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations.",
+    "link": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353031-1787394498553-gettyimages-2290522587-nikoubazl-commemor260818_npyfJ.jpeg?v=1787394519&w=1920&h=1080",
+    "pubDate": "2026-08-22T10:34:23+00:00"
+  },
+  {
+    "title": "7 Years Later, One 'Vinland Saga' Line Remains Anime’s Greatest Lesson About Violence",
+    "description": "Vinland Saga disguises a powerful anti-violence story as a viking epic, asking what it really means to live without enemies.",
+    "link": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23403755/11811844.jpg?w=1200&h=675&fit=crop",
+    "pubDate": "2026-08-22T10:00:14+00:00"
+  },
+  {
+    "title": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
+    "description": "Race preparations have snarled traffic, rerouted flights and forced the National Gallery of Art to conduct vibration tests.",
+    "link": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T09:03:59+00:00"
+  },
+  {
+    "title": "How a Progressive Democrat in Florida Gave Her Party New Hope — and New Fears",
+    "description": "Angie Nixon, a state lawmaker from Jacksonville, shocked Democrats in red Florida by soundly defeating her centrist primary opponent. Now comes the hard part.",
+    "link": "https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T09:03:47+00:00"
+  },
+  {
+    "title": "The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks.",
+    "description": "After roughly two decades of ultralow interest rates, a period of rapid readjustment is ahead for the United States, the world’s largest economy and most important financial system.",
+    "link": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T09:02:32+00:00"
+  },
+  {
+    "title": "Gen Z Is Building Wealth By Investing Instead of Buying Homes",
+    "description": "When it comes to building wealth, Gen Z is more focused on investment apps and their retirement accounts than they are in building equity in a home.",
+    "link": "https://www.nytimes.com/2026/08/22/business/gen-z-houses-investing.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T09:01:46+00:00"
+  },
+  {
+    "title": "League of Legends Spinoff Cancellation Leaves Players Fuming",
+    "description": "Riot Games has pulled the plug on its League of Legends fighting game '2XKO,' and players aren’t happy.",
+    "link": "https://www.polygon.com/riot-games-2xko-cancellation-reactions/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/2xko-vi.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T09:00:15+00:00"
+  },
+  {
+    "title": "19 Years Later, Doctor Who Officially Has a Chance to Fix Its Worst Mistake",
+    "description": "In an interview about the Tenth Doctor's latest Doctor Who adventures, David Tennant revealed the companion he wants more stories with.",
+    "link": "https://www.polygon.com/doctor-who-big-finish-martha-jones/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/1-1.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T09:00:15+00:00"
+  },
+  {
+    "title": "Taylor Sheridan Meets 'Breaking Bad' in FX's Near-Perfect 10-Part Detective Thriller Series",
+    "description": "Season 2 of Fargo is the best-ever season of the FX drama/comedy mostly because of Kirstin Dunst",
+    "link": "https://www.polygon.com/fargo-season-2-binge-watch/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ted-danson-fargo.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T08:01:15+00:00"
+  },
+  {
+    "title": "Nintendo Blurred the Lines Between Handhelds and Consoles Decades Before the Switch",
+    "description": "With a special hardware accessory for the SNES, Game Boy games thrived on TV sets around the world.",
+    "link": "https://www.polygon.com/super-game-boy-retrospective/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-08-22T08:01:15+00:00"
+  },
+  {
+    "title": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
+    "description": "President Trump was in South Carolina to stump for Darline Graham, sister of Lindsey. But his own political future was on his mind, too.",
+    "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T07:12:01+00:00"
+  },
+  {
+    "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+    "description": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
+    "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T05:37:43+00:00"
+  },
+  {
+    "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+    "description": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearish.",
+    "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T05:05:13+00:00"
+  },
+  {
+    "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+    "description": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
+    "link": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108339511-1784838355906-gettyimages-2286702595-AFP_C3233TH.jpeg?v=1784838383&w=1920&h=1080",
+    "pubDate": "2026-08-22T05:00:01+00:00"
+  },
+  {
+    "title": "Bill Gates pulls $818M from Berkshire to buy this giant",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-pulls-818m-berkshire-030700591.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/DBA77ECA89E7FDC089EDA4B1EB5BE56ADB458528BD58A825A3AEE28C998859B1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F9889577a5c8d92dd5ab19f3c6575c46f.jpg",
+    "pubDate": "2026-08-22T03:07:00+00:00"
+  },
+  {
+    "title": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+    "description": "The plan complies with President Trump’s executive order to restrict mail voting, which was blocked by federal courts and is under review at the Supreme Court.",
+    "link": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-22T02:37:15+00:00"
+  },
+  {
+    "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+    "description": "They will not be working royals when they come back. So what could they be doing instead?",
+    "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg",
+    "pubDate": "2026-08-22T00:03:10+00:00"
+  },
+  {
+    "title": "How this 1960s ex-council house is managing to stay cool without air con",
+    "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+    "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg",
+    "pubDate": "2026-08-21T23:56:48+00:00"
+  },
+  {
+    "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+    "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
+    "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ae/live/441fda80-9a77-11f1-b68f-817a5a696299.jpg",
+    "pubDate": "2026-08-21T23:41:33+00:00"
+  },
+  {
+    "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+    "description": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
+    "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc9d/live/861576b0-9d89-11f1-b109-879e35c24276.jpg",
+    "pubDate": "2026-08-21T23:13:00+00:00"
+  },
+  {
+    "title": "More students planning to live at home for university over 'insane' living costs",
+    "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/f132db30-97db-11f1-bb4c-d758974ed97b.jpg",
+    "pubDate": "2026-08-21T23:01:58+00:00"
+  },
+  {
+    "title": "These bookshops let Chinese readers question their country, now the doors are closing",
+    "description": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
+    "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975a/live/cdbc9370-9c5f-11f1-aed2-8d6da8d75094.jpg",
+    "pubDate": "2026-08-21T22:26:25+00:00"
+  },
+  {
+    "title": "Crypto advocates join in suing Illinois over digital asset tax",
+    "description": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
+    "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T22:10:28+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "pubDate": "2026-08-21T20:48:48+00:00"
+  },
+  {
+    "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+    "description": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
+    "link": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
+    "pubDate": "2026-08-21T20:26:16+00:00"
+  },
+  {
+    "title": "Call Of Duty’s Most Controversial Item Is Back In Modern Warfare 4, But With Some Major Changes",
+    "description": "One of the most infamous and controversial items in Call of Duty is the Riot Shield. Some love it. Some hate it. Well, it's back in Call of Duty: Modern Warfare 4, but with a few key changes. With MW4's beta now live, we're seeing the game in action and learning more about it. This includes new details on the Riot Shield, including how it's now destructible. Not only that, but the new Riot Shield can be placed on the ground to allow players to create their own cover, wherever they are. What's more, the Riot Shield is now unlocked as a field upgrade as opposed to occupying a weapon slot. https://twitter.com/InfinityWard/status/2090852829409763502 \"In use, the shield provides frontal protection while advancing or holding a position. It can also be used offensively, with a new heavy melee attack that knocks enemies down and creates space in close quarters,\" Activision said. When planted in the ground, players can mount their weapons to it for improved stability. The Riot Shield can also be used strategically in MW4's objective-based modes where players hunker down in one particular spot. To balance things out, Activision made the Riot Shield destructible in MW4. In the past, it could soak up bullets like a sponge, and people loved and hated that. In MW4, it's \"durable enough to support a push or cover a retreat.\" However, it will eventually break, and Activision said that should encourage players to use it strategically as opposed to opting for \"sustained use.\" The MW4 beta is going on now for people who preordered the game. An open beta, meanwhile, runs August 28-September 1, and that doesn't require any preorder. The beta includes not just multiplayer, but also a campaign mission, Entrenched, and a glimpse at the future of Call of Duty: Warzone. MW4 launches in full on October 23 for PS5, Xbox Series X|S, PC, and Switch 2. It's the first game since 2013's Call of Duty: Ghosts to be released on a Nintendo platform.",
+    "link": "https://www.gamespot.com/articles/call-of-dutys-most-controversial-item-is-back-in-modern-warfare-4-but-with-some-major-changes/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T20:02:01+00:00"
+  },
+  {
+    "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+    "description": "The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.",
+    "link": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/interviewray-dalio.jpg",
+    "pubDate": "2026-08-21T20:00:47+00:00"
+  },
+  {
+    "title": "GTA 6 Leaker Has Not Been Identified Yet – Report",
+    "description": "One of the biggest stories in gaming this week has been the ongoing GTA 6 gameplay leaks, which are all about hyping up a memecoin for profit. A new report provides insight into how Rockstar is handling the situation internally. Bloomberg reported that Rockstar has yet to identify the party responsible, or how such a breach happened. One top executive at Rockstar sent a memo to staff this week \"denouncing the leaker and promising the incident wouldn't detract from the excellent work they've done,\" the report said. Additionally, it was reported that Rockstar is not planning to change its marketing plans for GTA 6 due to the leak. Some had theorized that the leak might have some effect on the planned reveal on Netflix on August 27, but that's apparently not going to be the case. After GTA 6's first trailer leaked in December 2023, Rockstar responded in real time and released the trailer ahead of schedule, so there is precedent to Rockstar altering plans based on leaks. GTA 6 suffered a massive leak in 2022. At the time, Take-Two boss Strauss Zelnick said it was “really frustrating and upsetting,” but the leaks had no financial impact on the company. Take-Two lost more than $2 billion in its total value this week since the latest leaks began, but there could be any number of different reasons for that apart from the leaks. It has also come to light that Take-Two, which owns Rockstar and the GTA franchise, subpoenaed Microsoft and Discord as part of its effort to hunt down the party or parties responsible for the leak. GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S.",
+    "link": "https://www.gamespot.com/articles/gta-6-leaker-has-not-been-identified-yet-report/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T19:29:14+00:00"
+  },
+  {
+    "title": "Onchain, in court: What happened in crypto legal news this week",
+    "description": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
+    "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance-1280x853.webp",
+    "pubDate": "2026-08-21T19:19:27+00:00"
+  },
+  {
+    "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+    "description": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.",
+    "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg",
+    "pubDate": "2026-08-21T19:10:47+00:00"
+  },
+  {
+    "title": "CoD: MW4 DLC Honors Real-Life Medal Of Honor Recipient Who Lost His Eye And Teeth In Grenade Blast",
+    "description": "Activision has announced that Call of Duty: Modern Warfare 4 will have day-one DLC, and like in years past, it will focus on a real-life military hero, with proceeds going to charity. The Call of Duty Endowment Valor Pack, launching on October 23 alongside the game, adds the real-life Medal of Honor recipient Kyle Carpenter to the game as a playable character. Carpenter was in Marjah, Afghanistan, when, on November 21, 2010, he put himself in front of a grenade to help save the life of his fellow Marine, Nick Eufrazio. Carpenter sustained serious injuries from the grenade blast. He was unconscious for five weeks, had his teeth stripped from his mouth, and lost an eye. He sustained numerous other life-threatening injuries in the blast. Carpenter received the Medal of Honor from President Barack Obama in 2014. \"No matter how wrecked your world gets, the world keeps spinning,\" Carpenter said in the video below. https://twitter.com/CODE4Vets/status/2090856990872650127 The Call of Duty Endowment is Activision's charity that supports military veterans and specifically helping soldiers find jobs after leaving the service. Proceeds from this new Valor Pack will benefit the endowment. There have been numerous other DLC packs for Call of Duty games supporting the endowment. A previous DLC pack for Black Ops 7 brought the real-life soldier Chris Cassidy to the game; he was among those hunting down Osama bin Laden immediately after 9/11, and then he became a NASA astronaut. Modern Warfare 4 launches on October 23, but the game's beta is going on right now for those who preordered the game. An open beta for everyone will be held August 28-September 1.",
+    "link": "https://www.gamespot.com/articles/cod-mw4-dlc-honors-real-life-medal-of-honor-recipient-who-lost-his-eye-and-teeth-in-grenade-blast/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T19:05:17+00:00"
+  },
+  {
+    "title": "Pass the Clarity Act",
+    "description": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
+    "link": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T19:00:00+00:00"
+  },
+  {
+    "title": "Mortal Shell 2’s Latest Update Alleviates One Of The Game’s Biggest Headaches",
+    "description": "Developer Cold Symmetry has released its latest souls-like action-RPG, Mortal Shell 2, on August 20 for PC, PlayStation 5, and Xbox Series X|S. And not even a day after launch, the studio already dropped a patch that makes some welcome tweaks, including addressing one of the game's most annoying issues: gold farming. On August 20, Cold Symmetry shared a breakdown on the game's subreddit and Steam page of what Balance Patch 1 does. A welcome adjustment is a refund of the Glimpses--a rare currency used to bond with and unlock memories of your shell--you might've spent to discover a shell's location. You get whatever you spent back, and now, instead of costing that rare currency, buying a shell map costs Gloom, this game's version of Runes or Souls. A big change is a nerf to a handful of bosses and enemies. As Cold Symmetry put it, \"all enemies featured in the beta were restored to their beta HP values.\" This means that the starting area of Mortal Shell 2 has been tuned down to match what was in the beta, which I found quite easy when compared to the full release. Maybe the most major tweak, however, is an increase to the amount of gold you find now. As a result of this patch, gold drops from enemies have been \"significantly increased,\" especially in the second zone. This lets you upgrade your weapons more often, as gold discovery should be in line with the materials you find everywhere. There are a handful of other changes that came with Balance Patch 1. This includes Tarstones--items that grant passive bonuses or modify melee attacks--and weapons getting buffed, addressing crashes and fixing bugs, and reducing the cost to unlevel your weapons via smelting. Balance Patch 1 is available now for PC. There's no release date for PlayStation 5 and Xbox Series X|S versions yet, but Cold Symmetry said it'll arrive on those platforms \"shortly.\" For now, check out the update notes for Balance Patch 1 below. Mortal Shell 2 Balance Patch 1 Economy Shell map locations now cost Gloom, and we’re refunding any Glimpses spent on shell maps. Refunded Glimpses are found in the Shell Keeper’s alcove in Blackmarrow. “Finding your favorite shell shouldn’t cost you the ability to bond with them.” Gold drops from enemies have been significantly increased. Notably, enemies in Mammon now drop double the gold. “This brings the gold economy more in line with the weapon crafting item discovery.” Smelting a weapon at the Tarforge costs 75% less gloom. “Our goal with the smelt capability was to enable switching weapons without the need to spend hours grinding through NG+ runs, but the Gloom costs were set exorbitantly high.” Enemies &amp; Bosses All enemies featured in the beta were restored to their beta HP values, except the Caerinid (Spider) in Magdalena’s area, which we wanted to retain its role as a threatening enemy which doesn’t respawn once defeated. Bosses The Lost Child Base Damage: (-10%) Max Health: (-15%) Monolith Base Damage: (-19%) Max Health: (-10%) Some Monolith Attacks were retimed to be more fair, as well. Enemies Cultist (mace) Max Health: (-21.1%) Caerinid Spider Max Health: (-33.3%) Infested Stalker Max Health: (-52.4%) Rusted Knave (Halberd) Max Health: (-20.8%) Fixed hit detection for overhead strike. Weapons Great Martyr’s Blade Attack Damage +20% Troubadour's Lute Attack Damage +100% Caged Hystrix and Triarch Repeater no longer have minimum resolve requirements to fire. Improved tracking for Axatana, Black Needle, and Clockwork Scythe light attacks. Seals Guard can now be used while walking. Tarstones Parasitic Stone Buffed Grudge Stone Buffed Bulwark Stone Damage Reduction Increased Significantly Clerik's Stone Buffed Squall Stone Buffed Miscellaneous Misc. Crash Fixes, Bug Fixes &amp; Performance Updates",
+    "link": "https://www.gamespot.com/articles/mortal-shell-2s-latest-update-alleviates-one-of-the-games-biggest-headaches/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T18:40:53+00:00"
+  },
+  {
+    "title": "Why some of America's biggest brands are losing ground in China",
+    "description": "Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market.",
+    "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108225358-1763036722236-gettyimages-2244585430-AFP_833D7WD.jpeg?v=1787310624&w=1920&h=1080",
+    "pubDate": "2026-08-21T18:31:41+00:00"
+  },
+  {
+    "title": "Naughty Dog’s Intergalactic Adds An Actor From The Last Of Us And Uncharted",
+    "description": "Another actor has joined the cast for Naughty Dog's upcoming new IP Intergalactic: The Heretic Prophet. Robin Atkin Downes, who played Robert in Naughty Dog's The Last of Us and multiple characters in the studio's Uncharted games, said on social media that he's set to appear in Intergalactic. He didn't say who he is playing, but as you can tell from the video below, he's obviously very excited about it. https://twitter.com/Robin_A_Downes/status/2090646298718597618 Downes is a prolific video game actor, having lent his voice to dozens of games over the years. He also voiced the Medic in Team Fortress 2, Travis Touchdown in No More Heroes, and Spider in Destiny 2: Forsaken. Additionally, Downes voiced Ballistic in Apex Legends. Intergalactic is in the works now for PS5, but we still don't know much about it, or when it may release. The game, which takes place thousands of years in the future, stars Tati Gabrielle as Jordan A. Mun, a bounty hunter who becomes stranded on a faraway planet called Sempira. https://www.youtube.com/watch?v=VLGy63pt9vA The game has been in development since 2020, and also features Trent Reznor and Atticus Ross scoring the soundtrack. Some of the other actors confirmed for Intergalactic include Kumail Nanjiani, Tony Dalton, Troy Baker, and Merle Dandridge.",
+    "link": "https://www.gamespot.com/articles/naughty-dogs-intergalactic-adds-an-actor-from-the-last-of-us-and-uncharted/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T17:49:10+00:00"
+  },
+  {
+    "title": "Your Mortal Shell 2 Weapons Don’t Have To Get You Killed",
+    "description": "Cold Symmetry's Mortal Shell 2 is finally out on PC, PlayStation 5, and Xbox Series X|S. Maybe you've been bodying bosses while collecting shells and leveling up your character. Or maybe you've been getting bodied as bosses pummel you into the dirt and your weapons betray you. I can't help you with the former, but I do have some tips and tricks to alleviate the latter. When you start your Mortal Shell 2 journey, a handful of settings are on by default. A couple of these settings make your weapons an enemy magnet, which is good since you want your bullets and your swings to hit your targets. However, when you go in shooting and swinging wantonly, you may find yourself blown to smitherens--just like Redditor xkukazu50, who posted a video on August 21 of their character getting burnt to a crisp. https://www.reddit.com/r/MortalShell/comments/1vuddap/love_this_game_but_something_has_to_be_done_about/ The problem here, as xkukazu50 noted, is the weapon tracking. Whenever you pull out your sidearm or swing with your primary weapon, the game's technology pulls your attacks toward the nearest enemy like a vortex. But if you tweak some settings, your life will be made a lot easier. Make your Mortal Shell 2 weapons fight for you. Press pause, toggle over to \"Game\" in the Settings menu, and check out the \"Target Steering\" and \"Enable Free Aim\" options. \"Target Steering,\" which is set to \"Default,\" makes your melee attacks prioritize the nearest enemy you're aiming at. Changing this setting to \"Light\" or \"Off\" makes your melee attacks much less sticky so that you can swing at whatever you want without getting sucked to the closest enemy--or environmental hazard--you're looking at. \"Enable Free Aim\" is exactly what it sounds like. Set to \"No\" by default, it automatically locks your reticle onto the nearest enemy you point your gun at. If you change this to \"Yes,\" then you can freely aim your gun without that snappy auto-lock on, but if you press the right trigger in with \"Enable Free Aim\" on, you can still lock onto a target and change your target's lock. That way, you won't accidentally shoot an explosive barrel or something like that. Outside of this, there are two more settings I recommend you change in Mortal Shell 2. The first is setting the \"Auto Pick Up Gold\" option to \"Yes\" to save your thumb from breaking the interact button--A on Xbox or X on PlayStation--on your controller, since you'll be picking up gold all the time. The second is changing the \"Camera Style\" from Immersive to Action, which pulls the camera farther back so you can see more on the screen. This gives you a greater field of view; that way, you know what's coming. There are many more settings to test as you whoop ass or get your ass whooped in Mortal Shell 2. However, these are the handful of settings I suggest you change to make your combat feel more responsive as you tackle the game's very gross bosses.",
+    "link": "https://www.gamespot.com/articles/your-mortal-shell-2-weapons-dont-have-to-get-you-killed/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T17:29:43+00:00"
+  },
+  {
+    "title": "Compulsion Games Is Now Officially An Ex-Xbox Studio",
+    "description": "Compulsion Games, the Canadian game developer behind South of Midnight and We Happy Few, has officially parted ways with Microsoft. After Microsoft confirmed that Compulsion was one of five Xbox studios it was divesting of, Compulsion boss Guillaume Provost has now confirmed it's a done deal. This was hinted at recently when the Steam page for South of Midnight listed Compulsion as the developer and publisher. Now, it's official, with Provost confirming to Games Beat that its management team acquired the studio and staff, while Microsoft transferred the developer's IP back to the studio. What this means in practice is that if you buy a Steam copy of South of Midnight--one of 2025's best games--the money goes to Compulsion, not Xbox. Provost said it will take some time before the change gets implemented on other storefronts. Provost did not disclose the specific terms of the deal, but he said staffers at Compulsion really wanted to stick together. “I did this deal for the team first and foremost. I asked the team, ‘Do you want to stay together?’ The team told me we would rather eat rocks and drink gasoline rather than be split up,” Provost said. Some Compulsion developers opted to leave the studio after Provost warned staff that the company was at risk of closure. However, Provost said the majority of senior staff stayed on. Provost went on to say that part of Compulsion's team is now working on an unannounced game that was already in the works before it split off from Xbox. Microsoft was the financial backer of Compulsion and its projects, so Provost is now taking meetings with various, unnamed parties to secure its financial future. “I just want to make sure that we’re setting the team up for success,” Provost said. “We’re going to take things slow. We’re going to meet with everyone. Everything is relative. Compared to all of us losing our jobs on July 6, this is a pretty good deal. I would say the exit was gracious on Microsoft’s part.\" The other four studios that Microsoft divested from included Double Fine, Ninja Theory, Undead Labs, and Arkane. Double Fine, led by Tim Schafer, regained its independence like Compulsion did, and Schafer will discuss the company's future outlook during a livestream today, April 21. Ninja Theory and Undead Labs, meanwhile, were sold to unnamed buyers. Arkane is entering a period of consultation with respect to its home country of France's local laws. This all happened as part of a \"reset\" of the Xbox business under new CEO Asha Sharma. She also laid off 1,600 people in July, with another 1,600 set to lose their jobs this fiscal year.",
+    "link": "https://www.gamespot.com/articles/compulsion-games-is-now-officially-an-ex-xbox-studio/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T16:46:00+00:00"
+  },
+  {
+    "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
+    "description": "The RISE program would use the Canton Network to combine and distribute state-administered benefits across three US states beginning in 2027.",
+    "link": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
+    "pubDate": "2026-08-21T16:25:29+00:00"
+  },
+  {
+    "title": "Nintendo’s War On Switch Emulators Continues With 400 More GitHub Takedowns",
+    "description": "Nintendo is doing what Nintendo does: issuing DMCA takedown notices to anyone who illegally offers access to any of the company's games. That's exactly what happened earlier this week, as Nintendo wiped out over 400 Switch emulators from GitHub. According to an August 21 TorrentFreak report, the Mario maker sent the proprietary developer platform seven DMCA takedown notices targeting Nintendo Switch emulator repositories. This includes Suyu (the Yuzu successor that became popular after Yuzu shut down in March 2024), the Android emulator Skyline, and a few lingering Yuzu forks. In total, some 401 repositories were nuked off GitHub, with 311 of them being Suyu. Now that they're removed, if you attempt to visit the repository on GitHub, you'll receive either a 404 error or a pop-up notification that it's been taken down. In the DMCA pop-up notification, Nintendo states that the targeted repositories \"offer, link to, or otherwise provide access to Nintendo Switch emulators.\" The company said these emulators violate Technological Protection Measures (TPMs), which act as digital locks controlled by copyright owners to prevent copying data illegally. \"Specifically, these Nintendo Switch emulators illegally circumvent Nintendo's TPMs in order to run illegal copies of Nintendo Switch games,\" the notice reads. \"Nintendo Switch games are encrypted using proprietary cryptographic keys (prod.keys) which protect against unauthorized access to and copying of the copyrighted games. During operation, the emulators at the reported repositories necessarily use unauthorized copies of these cryptographic keys to decrypt unauthorized copies of Nintendo Switch games, or ROMs, at or immediately before runtime without Nintendo's authorization.\" With Nintendo summoning the Eye of Mario on 401 repositories earlier this week, and over 8,500 repositories in May 2024, this brings the company's repository death count to almost 9,000 on GitHub alone. And with Nintendo filing a lawsuit against Yuzu creator Tropic Haze in February 2024, which resulted in The Legend of Zelda: Tears of the Kingdom being pirated over one million times before it launched, the company's war on emulators continues.",
+    "link": "https://www.gamespot.com/articles/nintendos-war-on-switch-emulators-continues-with-400-more-github-takedowns/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T16:17:40+00:00"
+  },
+  {
+    "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
+    "description": "Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaan, Strive and Metaplanet posting double-digit gains as crypto stocks surged.",
+    "link": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
+    "pubDate": "2026-08-21T16:11:07+00:00"
+  },
+  {
+    "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+    "description": "ENA is rallying on a $1 billion FalconX deal, while HYPE tests its record, though flat dominance shows this is no broad alt season.",
+    "link": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T16:10:37+00:00"
+  },
+  {
+    "title": "Grand Theft Auto 6 Leaks Are Fueling A Crypto Pump-And-Dump Scheme",
+    "description": "As Grand Theft Auto 6 continues to leak via small snippets of gameplay, you might be wondering why each video is plastered with watermarks for a meme coin? It turns out while you're enjoying the early look at Rockstar's latest project, others are literally profiting off of the virality. Each of the leaked gameplay videos have advertised a meme coin called CYBERLEEK, named after the supposed leaker and hosted on the Solana blockchain. This coin seemingly appeared on August 16, just two days before the first gameplay leak occurred. It didn't take long for the price of the coin to skyrocket afterwards, as viewers curious enough to go looking started accumulating vast amounts of it. In the space of a day, the price of the coin increased by more than 5,000%, allowing some early holders to quickly cash out before most were able to react. It's a textbook pump-and-dump scheme that is ongoing, with the price still swinging wildly with new drops of gameplay and new buyers being lured in. It's not uncommon for memecoins to be promoted by exploiting trending topics on X. https://youtu.be/mwgi4ECJwic The extent of this scheme is, however, probably smaller than you might imagine. According to tracking on CoinMarketCap, several buyers have made some modest profit, with the largest coming in at over $22,000 (a 2,000% profit over what was invested). There are similarly large losses as well, with several instances of duped buyers who have lost nearly $10,000 each. This pales in comparison to far wider-reaching meme coins. Take MELANIA, a coin marketed by Melania Trump, which has profits and losses in the several millions as just one example of how quickly thousands of people are willing to bet on short-term investments, Still, it shows an entirely different intent behind these leaks that contradicts the front-facing consumer-friendly goals of the group behind them. There are still a handful of accounts, holding the large majority of CYBERLEEK, that haven't made any sales. Perhaps they're just waiting for things to get really out of hand before walking away with their profits. Grand Theft Auto 6 launches on November 12, with its first gameplay showcase debuting on Netflix on August 27.",
+    "link": "https://www.gamespot.com/articles/grand-theft-auto-6-leaks-are-fueling-a-crypto-pump-and-dump-scheme/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T16:01:07+00:00"
+  },
+  {
+    "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
+    "description": "Bitcoin rallied as Treasury bond buybacks fueled the “not-QE” trade, while Metaplanet expanded to the US and Cypherpunk made a $33 million Zcash mining bet.",
+    "link": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
+    "pubDate": "2026-08-21T15:50:08+00:00"
+  },
+  {
+    "title": "Diablo 4 Isn’t Being Subtle About Who The Game’s Next Villain Is",
+    "description": "Those reaching the end of Diablo 4 Season 14's seasonal storyline are being treated to some major teases about what's next for Blizzard's ARPG, though those eagerly anticipating the return of the Lord of Terror himself might be disappointed. Spoilers for Diablo 4 Season 14 below. Season 14, titled Death's Awakening, sees players combating a death cult looking to end Sanctuary's suffering in the wake of Mephisto's defeat. That eventually leads players to none other than the Pandemonium Fortress, previously seen in Diablo 2 and Diablo 3's Reaper of Souls expansion, where they encounter the corrupted angel Seraziel. Upon their defeat, Seraziel leaves players with an ominous warning: \"He is coming.\" That \"he\" in question is likely Malthael, whom Seraziel serves and players previously defeated in Reaper of Souls. That's not exactly a surprise given the \"death\" theme of the season, but the return of the Pandemonium Fortress (where Malthael was last seen and slain) and Seraziel does make it all the more explicit what Blizzard is setting up. But that's not all players have to go on. As broken down by Diablo content creator LoatheBurger, after Seraziel's defeat, players encounter a mysterious stranger who says there is nothing that can be done against Death itself. When asked who they are, the stranger simply replies \"I am no one, brave child. And for all your might, neither are you.\" Talking to the questgiver Dannica about the odd encounter afterwards, players can select a dialogue option that states \"There was something familiar about that old man,\" with the player character specifically saying their voice sounded familiar. That seems to imply it's someone Diablo 4 players have previously encountered, but who this stranger is remains to be seen. Some long lost Horadrim? Lorath (somehow?) back from the dead? The triumphant return of Deckard Cain? Only time will tell. All of this happening in a seasonal storyline is new territory for Diablo 4. Previous seasons were largely self-contained stories that had little to do with the overarching game's plot, and certainly weren't used to tee up possible future expansions. In an interview with GameSpot ahead of Season 14, Dan Tanguay, Diablo 4's design director for live services, said it was an intentional choice to have the season relate more directly to the events of the game's main story. He also said the season was a chance to get more story-focused players involved. \"We know there's a group of players who are really invested in the lore, probably more so than resetting power chases,\" Tanguay said. \"They don't tend to play seasons as much. Here, we said 'Well, they've gotten a really good conclusion to the Mephisto arc, and now it's an opportunity to see if we can take them along on this ride with us.'\" Following the end of the Lord of Hatred expansion, many players assumed Blizzard would be building towards the return of villains like Baal, the Lord of Destruction, or Diablo himself. Now, it looks like Malthael is instead taking center stage, though Blizzard does at least have options when it comes to what major villain to bring back next. Thankfully, players won't have to wait long to learn more about Diablo 4's future, as BlizzCon is right around the corner on September 12-13. A Switch 2 version of Diablo 4 could be announced at the show, and while Blizzard has already shared some information about what's in store for Diablo 4 Season 15 (like the ability to use the same character each season and the return of iconic items from past Diablo games), more details will be shared at BlizzCon.",
+    "link": "https://www.gamespot.com/articles/diablo-4-isnt-being-subtle-about-who-the-games-next-villain-is/",
+    "thumbnail": "",
+    "pubDate": "2026-08-21T15:19:13+00:00"
+  },
+  {
+    "title": "Solana cuts blockchain slot time to 350 milliseconds",
+    "description": "Solana reduced its slot time for the first time since genesis as it works toward a 200-millisecond target aimed at reducing network latency.",
+    "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg",
+    "pubDate": "2026-08-21T13:45:13+00:00"
+  },
+  {
+    "title": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
+    "description": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/4EDE286F85ED15EE94D7609CD45C840AE073076D8BDB5806D8ABB05830C157A5/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fa8d38bb8c593a6e4824d5f7b76eb6fad.jpg",
+    "pubDate": "2026-08-21T11:21:06+00:00"
+  }
+]
