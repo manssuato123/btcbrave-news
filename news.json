@@ -1,10 +1,185 @@
 [
   {
+    "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
+    "description": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
+    "link": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108351250-1787093366694-gettyimages-2290477851-FLORIDA_PRIMARY.jpeg?v=1787093461&w=1920&h=1080",
+    "pubDate": "2026-08-25T22:43:08+00:00"
+  },
+  {
+    "title": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
+    "description": "While the president remains the most dominant figure in the world, other leaders and institutions are pushing back more vigorously than at the beginning of his second term.",
+    "link": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T22:11:09+00:00"
+  },
+  {
+    "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+    "description": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+    "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108339153-1784809147521-gettyimages-2286629926-mathalone-notitle260722_npJI3.jpeg?v=1784809187&w=1920&h=1080",
+    "pubDate": "2026-08-25T22:09:01+00:00"
+  },
+  {
+    "title": "Why can’t America agree on what time it is?",
+    "description": "Why can’t America agree on what time it is?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/3_2-Website-1787695487.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-08-25T22:05:42+00:00"
+  },
+  {
+    "title": "The Evening: Canada Retaliates With New U.S. Tariffs",
+    "description": "Plus, Dolly Parton dies at 80. Here’s the latest at the end of Tuesday.",
+    "link": "https://www.nytimes.com/2026/08/25/briefing/tariffs-dolly-parton-cte.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T22:04:10+00:00"
+  },
+  {
+    "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+    "description": "The \"BankChain Alliance\" is aiming for a 2027 launch, and would foster stablecoins, payments and tokenized deposits inside the banking system's regulatory sphere.",
+    "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T21:56:57+00:00"
+  },
+  {
+    "title": "Zerohash back for second effort at OCC trust bank charter",
+    "description": "The crypto infrastructure firm failed to get approval when it first sought a U.S. charter, and the company is quickly back with what it said would be a narrower effort.",
+    "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T21:38:28+00:00"
+  },
+  {
+    "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+    "description": "The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.",
+    "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8e012c2d89a-1787691308.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-25T21:32:00+00:00"
+  },
+  {
+    "title": "Who was the ‘Queen of Country’ Dolly Parton?",
+    "description": "‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787693324.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-08-25T21:29:11+00:00"
+  },
+  {
+    "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+    "description": "Health Ministry warns of 'complete collapse of the basic necessities of life' in Gaza as Israel's attacks continue.",
+    "link": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8df1397971-1787687225.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-25T21:26:25+00:00"
+  },
+  {
+    "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+    "description": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+    "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353935-1787671662745-108353935-1787670688033-gettyimages-2290840317-AFP_C69Q2X9.jpeg?v=1787671682&w=1920&h=1080",
+    "pubDate": "2026-08-25T21:26:01+00:00"
+  },
+  {
+    "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
+    "description": "An OpenAI spokesperson said the company \"recently reorganized our infrastructure organization to support the scale and pace of our work.\"",
+    "link": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108229968-1763739290840-gettyimages-2236733569-STARGATE_DATA_CENTER.jpeg?v=1770838644&w=1920&h=1080",
+    "pubDate": "2026-08-25T21:26:00+00:00"
+  },
+  {
+    "title": "Trump says all mines cleared from Strait of Hormuz",
+    "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e344/live/b6975340-a0a3-11f1-84a9-276d1a8e5a22.jpg",
+    "pubDate": "2026-08-25T21:23:41+00:00"
+  },
+  {
+    "title": "US soldier who called for Trump impeachment facing military charges",
+    "description": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
+    "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/14166504-1-1787689086.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-25T21:16:43+00:00"
+  },
+  {
+    "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
+    "description": "Known for her outsize persona, appearance and talent, she rose from rural poverty to become a top-selling singer, songwriter and entrepreneur.",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T21:12:46+00:00"
+  },
+  {
+    "title": "US lawmakers urge Trump team to free of American student held by Israel",
+    "description": "Congress members call on Marco Rubio to 'use every tool' at his disposal to secure release of 20-year-old Sama Safi.",
+    "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-14T082842Z_1294921662_RC28YMAPUWGI_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-SETTLEMENT-1787688893.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-25T21:09:35+00:00"
+  },
+  {
+    "title": "Syrian Democratic Forces announce their dissolution",
+    "description": "The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787692133.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-08-25T21:09:05+00:00"
+  },
+  {
+    "title": "Is the K-shaped economy ending? Finance pros weigh in",
+    "description": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.",
+    "link": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108198065-17576820892025-09-12t124714z_1004487324_rc2bqga9sjlj_rtrmadp_0_usa-economy.jpeg?v=1757682121&w=1920&h=1080",
+    "pubDate": "2026-08-25T21:05:27+00:00"
+  },
+  {
+    "title": "Dolly Parton’s Bedazzled, Bewigged and Bodacious Style",
+    "description": "A wild mountain rose, she used her clothes and her body to subvert expectations.",
+    "link": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T20:51:07+00:00"
+  },
+  {
+    "title": "Investor competition for commercial real estate sees strongest growth in a year",
+    "description": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
+    "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353286-1787579553282-gettyimages-2251106936-20250720-dji_20250720163755_0072_d.jpeg?v=1787674117&w=1920&h=1080",
+    "pubDate": "2026-08-25T20:44:51+00:00"
+  },
+  {
+    "title": "Real Madrid vs Sociedad: La Liga – prediction, team news, lineups",
+    "description": "Kylian Mbappe and Jude Bellingham headline against Sociedad as Real seek consecutive wins to open La Liga season.",
+    "link": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/14233260-1787654599.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-25T20:41:50+00:00"
+  },
+  {
+    "title": "Nigeria launches operation to rescue 600 kidnapped victims",
+    "description": "Nigerian President Bola Ahmed Tinubu announced a rescue operation on Tuesday for victims of 600-person mass abduction.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787690273.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2026-08-25T20:37:42+00:00"
+  },
+  {
+    "title": "World Liberty Financial launches USD1 natively on Canton Network",
+    "description": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data.",
+    "link": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu.png",
+    "pubDate": "2026-08-25T20:35:10+00:00"
+  },
+  {
+    "title": "New US sanctions signal Trump desperation on Iran, experts say",
+    "description": "Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts.",
+    "link": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a8dd7d411aa-1787680724.jpg?resize=1920%2C1440",
+    "pubDate": "2026-08-25T20:34:49+00:00"
+  },
+  {
     "title": "Final Fantasy 7 Revelation Shows Off Its Reimagined Superboss Battles in New Trailer",
     "description": "Square Enix release a new trailer for Final Fantasy 7 Revelation at Gamescom Opening Night Live",
     "link": "https://www.polygon.com/final-fantasy-7-revelation-weapons-trailer-gamescom/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ffvii_revelation_switch_2_june_screenshots_-3-1.png?w=1600&h=900&fit=crop",
     "pubDate": "2026-08-25T20:17:06+00:00"
+  },
+  {
+    "title": "Hegseth’s Purge of Top Generals Leaves the Army Rudderless",
+    "description": "The leadership vacuum comes as the Army is trying to adapt to a new kind of war dominated by deadly drones.",
+    "link": "https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T20:14:34+00:00"
   },
   {
     "title": "'The Witcher 3' New DLC Gameplay Trailer Marks The End of an Era For The Epic RPG",
@@ -42,11 +217,67 @@
     "pubDate": "2026-08-25T19:51:05+00:00"
   },
   {
+    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+    "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
+    "pubDate": "2026-08-25T19:50:57+00:00"
+  },
+  {
+    "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+    "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
+    "pubDate": "2026-08-25T19:48:14+00:00"
+  },
+  {
+    "title": "Dolly Parton: Hear 15 Essential Songs",
+    "description": "The singer-songwriter rose from poverty to become a chart-topping performer whose earnest character allowed her to span genres.",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-songs.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T19:43:53+00:00"
+  },
+  {
+    "title": "Bond rout ending? Massive bets on bond rally dominate options market",
+    "description": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.",
+    "link": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353950-1787671978490-Traders-20260825-AS-PRESS-1.jpg?v=1787672206&w=1920&h=1080",
+    "pubDate": "2026-08-25T19:42:17+00:00"
+  },
+  {
+    "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+    "description": "The $22 billion trading company worked with Olea and Intain on the transaction, following an Injective pilot with LG CNS last month.",
+    "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T19:40:00+00:00"
+  },
+  {
+    "title": "Man dies in crash after police pursuit",
+    "description": "Two women are also hurt and one remains in hospital in critical condition.",
+    "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb17/live/bd7f3990-a09c-11f1-8a1f-314a01485cf4.png",
+    "pubDate": "2026-08-25T19:39:44+00:00"
+  },
+  {
+    "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
+    "description": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July.",
+    "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ca/live/34f847c0-a0b4-11f1-8229-b91d73b62f74.jpg",
+    "pubDate": "2026-08-25T19:11:40+00:00"
+  },
+  {
     "title": "Pragmata is Finally, Officially a 'Mega Man Game'",
     "description": "Pragmata and Mega Man are finally connected — just not in the way fans expected.",
     "link": "https://www.polygon.com/pragmata-dlc-mega-man-skin-dual-override-gamescom/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/pragmata-switch-2-1.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-08-25T19:06:53+00:00"
+  },
+  {
+    "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+    "description": "Investors shrugged off the latest developments in the U.S.-Iran war.",
+    "link": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108347821-1786452090144-gettyimages-2289259661-img_8455.jpeg?v=1786452116&w=1920&h=1080",
+    "pubDate": "2026-08-25T19:00:07+00:00"
   },
   {
     "title": "Dungeons &amp; Dragons' Big Gamble Warlock Re-emerges in First Gameplay Trailer",
@@ -70,6 +301,55 @@
     "pubDate": "2026-08-25T18:48:58+00:00"
   },
   {
+    "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+    "description": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.",
+    "link": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T18:42:58+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "pubDate": "2026-08-25T18:34:20+00:00"
+  },
+  {
+    "title": "Dolly Parton: The life of an iconic country singer",
+    "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+    "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c959/live/6c358400-a0b4-11f1-a291-b542ee92de7c.jpg",
+    "pubDate": "2026-08-25T18:27:22+00:00"
+  },
+  {
+    "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+    "description": "CryptoQuant says Bitcoin’s 24% rally has flipped key market indicators bullish, though rising profit-taking could bring near-term turbulence.",
+    "link": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-lazer-eyes-and-bull-run-graph-5.jpg",
+    "pubDate": "2026-08-25T18:13:11+00:00"
+  },
+  {
+    "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
+    "description": "Tokenized real-world assets on Solana are nearing $4 billion as network activity accelerates alongside a broader recovery in crypto markets.",
+    "link": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-solana-coin.jpg",
+    "pubDate": "2026-08-25T18:08:58+00:00"
+  },
+  {
+    "title": "Father's house rammed before son died in A66 crash",
+    "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+    "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d1/live/7d19a870-a099-11f1-b109-879e35c24276.jpg",
+    "pubDate": "2026-08-25T17:30:40+00:00"
+  },
+  {
+    "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+    "description": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
+    "link": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353987-1787674686467-gettyimages-2178039860-STANLEY_DRUCKENMILLER_INTERVIEW.jpeg?v=1787677397&w=1920&h=1080",
+    "pubDate": "2026-08-25T17:15:50+00:00"
+  },
+  {
     "title": "Gamescom Opening Night Live 2026: All The Biggest Announcements, Games, And Trailers",
     "description": "Gamescom Opening Night Live is here, and once again, we're expecting a bumper night full of new game reveals, gameplay deep-dives, and more from Geoff Keighley's second big show of the year. As usual, we'll be keeping tabs on the event--and the preshow hosted by Kyle Bosman that starts at 10:30 AM PT / 1:30 PM ET--so if you don't have time to sit down for all of the announcements, you can check back here for updates on all the big announcements. Taking place from the Gamescom showfloor, Gamescom Opening Night Live kicks off at 11 AM PT / 2 PM ET, and Keighley has already dropped a few big game names for this year's edition. Gears of War: E-Day, Metro 2039, and Final Fantasy 7 Revelation are some of the biggest games being shown off, and they'll be joined by new looks at Tides of Annihilation, Ananta, Game of Thrones: War for Westeros, Warlock: Dungeons &amp; Dragons, and The Witcher 3: Songs of the Past. Worms: Galactic Tactics And we're kicking things off with the preshow! Presented by the Final Bosman himself, our first trailer is for a new Worms tactics game that takes a page from the XCOM playbook. It looks like the original Worms is also coming back in some form. Train Sim World 7 The next chapter in the longrunning Train Sim World series launches on September 15. Roller Coaster Tycoon Wonderworks Think you have what it takes to run the ultimate theme park? You can put your skills to the test when Roller Coaster Tycoon Wonderworks launches in early access soon.",
     "link": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-all-the-biggest-announcements-games-and-trailers/",
@@ -91,11 +371,25 @@
     "pubDate": "2026-08-25T16:55:47+00:00"
   },
   {
+    "title": "Where to Eat in New York City Right Now",
+    "description": "Our favorite restaurants of the moment in the city that never stops eating.",
+    "link": "https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html",
+    "thumbnail": "",
+    "pubDate": "2026-08-25T16:52:21+00:00"
+  },
+  {
     "title": "What Does the Pizza Hut Sale Mean for Yum! Brands (YUM)?",
     "description": "",
     "link": "https://finance.yahoo.com/markets/stocks/articles/does-pizza-hut-sale-mean-165124600.html",
     "thumbnail": "https://s.yimg.com/lo/mysterio/api/bccc5eaee097eebfc6f3790d50a68fdcf6de56476df16afec4b8499e61c27b5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff5df1db9d515fe523967ea6d54ebb10b.jpg",
     "pubDate": "2026-08-25T16:51:24+00:00"
+  },
+  {
+    "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+    "description": "Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.",
+    "link": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/regulation-office-document-paper-strategyb.jpg",
+    "pubDate": "2026-08-25T16:47:40+00:00"
   },
   {
     "title": "Why Nvidia rival AMD may see a 40% rip in its stock",
@@ -126,11 +420,11 @@
     "pubDate": "2026-08-25T16:37:02+00:00"
   },
   {
-    "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-    "description": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.",
-    "link": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T16:34:25+00:00"
+    "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
+    "description": "Bitwise’s new portfolios automatically rebalance Coinbase tokenized stocks while allowing eligible non-US investors to keep the assets in their own wallets.",
+    "link": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-project-explained-a-global-initiative-for-asset-tokenization.png",
+    "pubDate": "2026-08-25T16:32:00+00:00"
   },
   {
     "title": "McDonald’s Halo: Campaign Evolved Skin Has Me Loathin’ It",
@@ -147,25 +441,11 @@
     "pubDate": "2026-08-25T16:28:41+00:00"
   },
   {
-    "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-    "description": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
-    "link": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353987-1787674686467-gettyimages-2178039860-STANLEY_DRUCKENMILLER_INTERVIEW.jpeg?v=1787677397&w=1920&h=1080",
-    "pubDate": "2026-08-25T16:27:34+00:00"
-  },
-  {
     "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
     "description": "The trading infrastructure runs on LayerZero's Zero blockchain, backed by Citadel Securities with DTCC and ICE exploring institutional market applications.",
     "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
     "thumbnail": "",
     "pubDate": "2026-08-25T16:22:47+00:00"
-  },
-  {
-    "title": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
-    "description": "Zach Witkoff, CEO of Trump-linked World Liberty Financial, said conflict-of-interest concerns related to the Trump family are misplaced.",
-    "link": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108350002-1786739811963-gettyimages-2284745660-TSCHNEIDER_68654_World_Liberty_Financial_P8676440.jpeg?v=1786739852&w=1920&h=1080",
-    "pubDate": "2026-08-25T16:15:06+00:00"
   },
   {
     "title": "Dispatch Is Getting The Physical Edition Fans Have Been Waiting For, Plus A Vinyl Soundtrack",
@@ -175,53 +455,11 @@
     "pubDate": "2026-08-25T16:15:00+00:00"
   },
   {
-    "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-    "description": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-    "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353935-1787671662745-108353935-1787670688033-gettyimages-2290840317-AFP_C69Q2X9.jpeg?v=1787671682&w=1920&h=1080",
-    "pubDate": "2026-08-25T16:11:02+00:00"
-  },
-  {
-    "title": "CIA chief in Moscow for unannounced talks, US media reports",
-    "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
-    "pubDate": "2026-08-25T16:08:26+00:00"
-  },
-  {
-    "title": "Man dies in crash after police pursuit",
-    "description": "Two women are also hurt and one remains in hospital in critical condition.",
-    "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb17/live/bd7f3990-a09c-11f1-8a1f-314a01485cf4.png",
-    "pubDate": "2026-08-25T16:06:56+00:00"
-  },
-  {
-    "title": "Students clash with police in India in a new protest over exam leaks",
-    "description": "Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787673816.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-08-25T16:04:25+00:00"
-  },
-  {
-    "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-    "description": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
-    "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108306883-1778770220615-108306883-1778759349633-gettyimages-2275560543-CHINA-US-DIPLOMACY.jpg?v=1778770231&w=1920&h=1080",
-    "pubDate": "2026-08-25T16:00:40+00:00"
-  },
-  {
     "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
     "description": "DGAI nearly doubled in its first day of trading as DGrid expands its distributed AI inference network and rolls out hardware for its personal AI agent.",
     "link": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-happens-when-chatgpt-becomes-the-front-door-to-crypto.png",
     "pubDate": "2026-08-25T15:53:05+00:00"
-  },
-  {
-    "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
-    "description": "The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.",
-    "link": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8da197f1a7-1787666840.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-25T15:52:42+00:00"
   },
   {
     "title": "Trump discloses over 1,000 new stock trades as Democrats highlight his profitable oil sector holdings",
@@ -231,81 +469,11 @@
     "pubDate": "2026-08-25T15:52:32+00:00"
   },
   {
-    "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
-    "description": "Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men's world record set by ​Usain Bolt in 100m.",
-    "link": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-25T140020Z_306375905_RC2N5NAUM00N_RTRMADP_3_CHINA-TECH-ROBOT-GAMES-1787670945.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-25T15:42:43+00:00"
-  },
-  {
-    "title": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
-    "description": "Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.",
-    "link": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-23T192114Z_521380084_RC2J4NAR5755_RTRMADP_3_FRANCE-SAUDI-1787651505.jpg?resize=1920%2C1440",
-    "pubDate": "2026-08-25T15:42:21+00:00"
-  },
-  {
-    "title": "Father's house rammed before son died in A66 crash",
-    "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
-    "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d1/live/7d19a870-a099-11f1-b109-879e35c24276.jpg",
-    "pubDate": "2026-08-25T15:26:11+00:00"
-  },
-  {
-    "title": "Nine years of Rohingya refugee crisis",
-    "description": "Nine years of Rohingya refugee crisis",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/ROHINGYA-1787671458.jpg?resize=1920%2C1417",
-    "pubDate": "2026-08-25T15:24:31+00:00"
-  },
-  {
-    "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
-    "description": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787671372.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-08-25T15:23:17+00:00"
-  },
-  {
-    "title": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
-    "description": "Nearly 30 percent of voters nationwide use mail ballots. President Trump is seeking greater federal control of mail voting.",
-    "link": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T15:17:57+00:00"
-  },
-  {
-    "title": "Qatar says US sanctions on Iran are unilateral",
-    "description": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787671000.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-08-25T15:17:05+00:00"
-  },
-  {
-    "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
-    "description": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
-    "link": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106908805-1625838553592-gettyimages-1303388530-yn_silver_026.jpeg?v=1711239442&w=1920&h=1080",
-    "pubDate": "2026-08-25T15:16:02+00:00"
-  },
-  {
     "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
     "description": "Bitcoin bulls battled for control of the $80,000 zone as gold came off its highest levels since mid-May on falling US bond yields.",
     "link": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-btc-price.jpg",
     "pubDate": "2026-08-25T15:15:35+00:00"
-  },
-  {
-    "title": "US launches Economic war on Iran",
-    "description": "The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran",
-    "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T15:12:00+00:00"
-  },
-  {
-    "title": "One year since Gaza journalist killed by Israel",
-    "description": "It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787622426.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-08-25T15:09:10+00:00"
   },
   {
     "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
@@ -315,25 +483,11 @@
     "pubDate": "2026-08-25T15:04:52+00:00"
   },
   {
-    "title": "No, the Democratic Party is not shifting on Israel",
-    "description": "The Democratic establishment is still firmly in the pro-Israeli camp while trying to appeal to its pro-Palestine voters.",
-    "link": "https://www.aljazeera.com/opinions/2026/8/25/no-the-democratic-party-is-not-shifting-on-israel?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP25316824007608-1784644177_ea9737-1784713446.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-08-25T15:03:46+00:00"
-  },
-  {
     "title": "The Lord Of The Rings Extended Trilogy Is Massively Discounted Just After Surprise Game Re-Release",
     "description": "If the recent re-release of The Lord of the Rings: War in the North got you excited about the fantasy franchise and looking for more, Amazon currently has a great deal going for the Peter Jackson movies. The retailer is selling a digital copy of the three-movie extended-edition bundle for just $15. It normally goes for $45, so this is quite a deal, at least if you're OK owning the movies digitally. https://www.youtube.com/watch?v=zckJCxYxn1g 2026 is the 25th anniversary of the films, as The Fellowship of the Ring debuted in 2001. The sequels The Two Towers and The Return of the King followed in 2002 and 2003, respectively. They were all big hits critically and commercially. Return of the King, for its part, swept at the Oscars in 2004, winning all 11 of the awards it was nominated for, including Best Picture and Best Director for Jackson. There are more The Lord of the Rings movies now in the works, including The Hunt for Gollum in 2027. As for the game series, recent entries like The Lord of the Rings: Gollum and Tales of the Shire left a lot to be desired. There are new games now in the works, including a \"deeply immersive\" game from Kingdom Come studio Warhorse. Additionally, Tomb Raider studio Crystal Dynamics is said to be working on its own The Lord of the Rings game. There will also be more re-releases of \"classic\" The Lord of the Rings games coming up.",
     "link": "https://www.gamespot.com/articles/the-lord-of-the-rings-extended-trilogy-is-massively-discounted-just-after-surprise-game-re-release/",
     "thumbnail": "",
     "pubDate": "2026-08-25T15:01:43+00:00"
-  },
-  {
-    "title": "China Pushes Back After Trump Tightens the Screws on Iran",
-    "description": "The Trump administration risks a clash with Beijing as it tries to cut off Iran’s economic lifelines without upending a fragile U.S.-China truce.",
-    "link": "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T14:59:39+00:00"
   },
   {
     "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
@@ -350,20 +504,6 @@
     "pubDate": "2026-08-25T14:42:25+00:00"
   },
   {
-    "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
-    "description": "The former Jeffrey Epstein accomplice loses her latest effort to be released from prison.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zrey17qno?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c294/live/fffcf3c0-a088-11f1-aed2-8d6da8d75094.jpg",
-    "pubDate": "2026-08-25T14:42:17+00:00"
-  },
-  {
-    "title": "Young people leaving care have death rate four times higher than national average",
-    "description": "Those leaving care have a death rate around four times higher than the general population, a new review reveals.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a48/live/51e34860-a07a-11f1-a291-b542ee92de7c.jpg",
-    "pubDate": "2026-08-25T14:41:47+00:00"
-  },
-  {
     "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
     "description": "Prosecutors argue Tate and his brother Tristan are a flight risk and should not be released on bail.",
     "link": "https://www.bbc.co.uk/news/articles/c4grxr0e5gdo?at_medium=RSS&at_campaign=rss",
@@ -378,18 +518,11 @@
     "pubDate": "2026-08-25T14:20:33+00:00"
   },
   {
-    "title": "At Least 1 in 4 NFL Players Gets CTE, Major New Study Finds",
+    "title": "Major Study Finds at Least 1 in 4 NFL Players Gets CTE",
     "description": "The actual prevalence, researchers said, may be much higher.",
     "link": "https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html",
     "thumbnail": "",
     "pubDate": "2026-08-25T14:06:57+00:00"
-  },
-  {
-    "title": "Inspectors to assess police after Henry Nowak murder",
-    "description": "Hampshire Police officers initially arrested the student and placed him in handcuffs as he lay dying.",
-    "link": "https://www.bbc.co.uk/news/articles/cly4w05x4p6o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2571/live/8b2d0a90-a087-11f1-a291-b542ee92de7c.jpg",
-    "pubDate": "2026-08-25T14:04:20+00:00"
   },
   {
     "title": "Why GTA Games Are A “Stab In The Heart,” But Also Amazing, For Ex-Dishonored Dev",
@@ -415,16 +548,9 @@
   {
     "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
     "description": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
-    "link": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "link": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/wp-cover-30445-creating-good-agi-that-wont-kill-us-all-with-crypto-artifici-960x540.webp",
     "pubDate": "2026-08-25T13:30:00+00:00"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "pubDate": "2026-08-25T13:19:39+00:00"
   },
   {
     "title": "New Mario Kart World Switch 2 Bundle Coming In September, And It’s $50 More Expensive Than The Original",
@@ -432,34 +558,6 @@
     "link": "https://www.gamespot.com/articles/two-new-switch-2-bundles-announced-just-before-price-hike/",
     "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-9.10.10-AM-1.png?w=636",
     "pubDate": "2026-08-25T13:11:37+00:00"
-  },
-  {
-    "title": "Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace",
-    "description": "Bitcoin briefly surged past $81,000 as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
-    "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
-    "pubDate": "2026-08-25T13:09:31+00:00"
-  },
-  {
-    "title": "Many N.F.L. Players Get Brain Disease. Why Hasn’t OSHA Intervened?",
-    "description": "“We never see things that are this dire,” a former chief scientist of the agency said about rates of C.T.E. in former players.",
-    "link": "https://www.nytimes.com/2026/08/25/us/nfl-cte-osha.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T13:07:23+00:00"
-  },
-  {
-    "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-    "description": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said.",
-    "link": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107032892-16476175322022-03-18t152944z_468709615_rc2z4t90ne2j_rtrmadp_0_apple-products.jpeg?v=1647617616&w=1920&h=1080",
-    "pubDate": "2026-08-25T13:00:01+00:00"
-  },
-  {
-    "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
-    "description": "Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.",
-    "link": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/magnifier-coin-bitcoin-search22.png",
-    "pubDate": "2026-08-25T13:00:00+00:00"
   },
   {
     "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
@@ -476,39 +574,11 @@
     "pubDate": "2026-08-25T13:00:00+00:00"
   },
   {
-    "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-    "description": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.",
-    "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T12:39:20+00:00"
-  },
-  {
-    "title": "India plans first tokenized bonds using wholesale CBDC: Report",
-    "description": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.",
-    "link": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-business-environment-for-crypto-like-in-india2.jpg",
-    "pubDate": "2026-08-25T12:09:15+00:00"
-  },
-  {
     "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
     "description": "One wallet bought heavily into a yield token, which pushed the price of its paired principal token down just enough to trigger liquidations across borrowers using it as collateral.",
     "link": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
     "thumbnail": "",
     "pubDate": "2026-08-25T12:03:55+00:00"
-  },
-  {
-    "title": "Shipyard winds down IPFS work after Protocol Labs ends funding",
-    "description": "The funding loss leaves InterPlanetary File System software without dedicated maintainers and puts the future of key public services in Protocol Labs’ hands.",
-    "link": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-ipfs-explained.jpg",
-    "pubDate": "2026-08-25T11:57:33+00:00"
-  },
-  {
-    "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-    "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
-    "pubDate": "2026-08-25T11:53:36+00:00"
   },
   {
     "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
@@ -518,67 +588,11 @@
     "pubDate": "2026-08-25T11:46:18+00:00"
   },
   {
-    "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
-    "description": "Your day-ahead look for Aug. 25, 2026",
-    "link": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T11:15:02+00:00"
-  },
-  {
-    "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
-    "description": "Falling open interest and subdued funding rates suggest the rally remains structurally healthy.",
-    "link": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T10:57:02+00:00"
-  },
-  {
-    "title": "Bitcoin extends 7-day advance to roughly 25%",
-    "description": "Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%.",
-    "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T10:52:03+00:00"
-  },
-  {
-    "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
-    "description": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.",
-    "link": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-relative-strength-index-rsi2.jpg",
-    "pubDate": "2026-08-25T10:49:43+00:00"
-  },
-  {
-    "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-    "description": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.",
-    "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T10:47:25+00:00"
-  },
-  {
-    "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
-    "description": "Thailand’s SEC opened consultations on local Bitcoin and Ether ETF rules and qualification standards for foreign digital asset custodians.",
-    "link": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-thailand-and-blockchain-etf.jpg",
-    "pubDate": "2026-08-25T10:20:14+00:00"
-  },
-  {
     "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
     "description": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.",
     "link": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e208/live/38ee7710-a086-11f1-a291-b542ee92de7c.jpg",
     "pubDate": "2026-08-25T10:06:04+00:00"
-  },
-  {
-    "title": "Your Child Plays Football. How Can You Minimize Risk of C.T.E.?",
-    "description": "Researchers say it’s all about reducing the total number of blows to the head.",
-    "link": "https://www.nytimes.com/2026/08/25/us/cte-prevention-youth-football.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T09:33:03+00:00"
-  },
-  {
-    "title": "Dragon Ball Z theme park gets $7 billion green light",
-    "description": "French President Emmanuel Macron and Saudi Arabia's Crown Prince Mohammed bin Salman agree on a $7 bn investment in the anime theme park.",
-    "link": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353707-1787642781088-gettyimages-2239938416-AFP_78FG2WN.jpeg?v=1787642807&w=1920&h=1080",
-    "pubDate": "2026-08-25T08:53:08+00:00"
   },
   {
     "title": "Stock market today: Dow, S&amp;P 500, Nasdaq hold steady as US-Canada trade tensions heat up",
@@ -593,20 +607,6 @@
     "link": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-start-time-how-to-watch-and-what-to-expect/",
     "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4644161-game-showcases-2026.jpg?w=636",
     "pubDate": "2026-08-25T06:59:00+00:00"
-  },
-  {
-    "title": "Supreme Court Allows Trump to Pursue Mail Voting Limits, for Now",
-    "description": "The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.",
-    "link": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
-    "thumbnail": "",
-    "pubDate": "2026-08-25T00:09:09+00:00"
-  },
-  {
-    "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-    "description": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
-    "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108238393-1765214232072-108238393-1765211822234-gettyimages-2250111360-PARAMOUNT_NYSE.jpeg?v=1770743687&w=1920&h=1080",
-    "pubDate": "2026-08-25T00:05:29+00:00"
   },
   {
     "title": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
