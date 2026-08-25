@@ -31,7 +31,7 @@
     "title": "The Evening: Canada Retaliates With New U.S. Tariffs",
     "description": "Plus, Dolly Parton dies at 80. Here’s the latest at the end of Tuesday.",
     "link": "https://www.nytimes.com/2026/08/25/briefing/tariffs-dolly-parton-cte.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/25/multimedia/25evening-nl-trump-news/25trump-news-header-start-vtph-facebookJumbo.jpg",
+    "thumbnail": "",
     "pubDate": "2026-08-25T22:04:10+00:00"
   },
   {
@@ -40,6 +40,13 @@
     "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
     "thumbnail": "",
     "pubDate": "2026-08-25T21:56:57+00:00"
+  },
+  {
+    "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/fe88783dffc53475008d19b7f1f2a68f9231a874ff28687905bf5f1455e24860/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fd4aa96587d97dfd0194f2f2482acc4c5.jpg",
+    "pubDate": "2026-08-25T21:47:00+00:00"
   },
   {
     "title": "Zerohash back for second effort at OCC trust bank charter",
@@ -178,7 +185,7 @@
     "title": "Hegseth’s Purge of Top Generals Leaves the Army Rudderless",
     "description": "The leadership vacuum comes as the Army is trying to adapt to a new kind of war dominated by deadly drones.",
     "link": "https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/26/multimedia/26dc-army-hegseth-hlqj/26dc-army-hegseth-hlqj-facebookJumbo-v2.jpg",
+    "thumbnail": "",
     "pubDate": "2026-08-25T20:14:34+00:00"
   },
   {
@@ -357,20 +364,6 @@
     "pubDate": "2026-08-25T17:15:00+00:00"
   },
   {
-    "title": "Western Digital vs. Seagate Technology: Which Data Storage Stock Is the Better Buy?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-vs-seagate-technology-165900804.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/ee3bfa0cf061583d940f58b23bd77ac661a9619dfafb2ba9e5f9319d4308bd8f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fdd414e2aa66f3718e22001aae3ce9891.jpg",
-    "pubDate": "2026-08-25T16:59:00+00:00"
-  },
-  {
-    "title": "This Business Travel Software Stock Flies High. What Will Be Its Next Move?",
-    "description": "",
-    "link": "https://www.investors.com/research/software-company-business-travel-navan-stock-navn/?src=A00220&yptr=yahoo",
-    "thumbnail": "https://www.investors.com/wp-content/uploads/2026/06/Stock-Travel-Business-Adobe.jpg",
-    "pubDate": "2026-08-25T16:55:47+00:00"
-  },
-  {
     "title": "Where to Eat in New York City Right Now",
     "description": "Our favorite restaurants of the moment in the city that never stops eating.",
     "link": "https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html",
@@ -378,32 +371,11 @@
     "pubDate": "2026-08-25T16:52:21+00:00"
   },
   {
-    "title": "What Does the Pizza Hut Sale Mean for Yum! Brands (YUM)?",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/does-pizza-hut-sale-mean-165124600.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/bccc5eaee097eebfc6f3790d50a68fdcf6de56476df16afec4b8499e61c27b5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff5df1db9d515fe523967ea6d54ebb10b.jpg",
-    "pubDate": "2026-08-25T16:51:24+00:00"
-  },
-  {
     "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
     "description": "Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.",
     "link": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/regulation-office-document-paper-strategyb.jpg",
     "pubDate": "2026-08-25T16:47:40+00:00"
-  },
-  {
-    "title": "Why Nvidia rival AMD may see a 40% rip in its stock",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-rival-amd-may-see-a-40-rip-in-its-stock-164720676.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/f2928e08743f38f91e3cef769e8a4cc2ef263c67e2fb9fb1717245ac96b4bc14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F925b0e16-75c3-4b85-9d09-44bbfc5fc77c",
-    "pubDate": "2026-08-25T16:47:20+00:00"
-  },
-  {
-    "title": "Citi Trends, Inc. Q2 2026 Earnings Call Summary",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/citi-trends-inc-q2-2026-164654875.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/03166b2ff2fa5c3b52cad97e01365bbd3759becdeada68f17f6f85266c26c44f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fb1c65ae531ade0b92cdce29313a85c2c.png",
-    "pubDate": "2026-08-25T16:46:54+00:00"
   },
   {
     "title": "Cash is no longer king in home sales",
@@ -434,13 +406,6 @@
     "pubDate": "2026-08-25T16:31:08+00:00"
   },
   {
-    "title": "Gold's rally just hit a wall — how to play a tactical pullback with limited risk: Alpha Options Playbook",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/options/article/golds-rally-just-hit-a-wall--how-to-play-a-tactical-pullback-with-limited-risk-alpha-options-playbook-162841841.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/637b2664af4c35ebcade853c2def251e0e7af0d517849a077f3e911765c226ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F15400089-6b23-4e9f-9beb-ee661b6649d2_4b2d42f8972bd711775a0b2dd8984c25edded49da24e45c6024cc23031faf9ec.jpg",
-    "pubDate": "2026-08-25T16:28:41+00:00"
-  },
-  {
     "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
     "description": "The trading infrastructure runs on LayerZero's Zero blockchain, backed by Citadel Securities with DTCC and ICE exploring institutional market applications.",
     "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
@@ -460,13 +425,6 @@
     "link": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/hi-what-happens-when-chatgpt-becomes-the-front-door-to-crypto.png",
     "pubDate": "2026-08-25T15:53:05+00:00"
-  },
-  {
-    "title": "Trump discloses over 1,000 new stock trades as Democrats highlight his profitable oil sector holdings",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/article/trump-discloses-over-1000-new-stock-trades-as-democrats-highlight-his-profitable-oil-sector-holdings-155232209.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0fcbd9790793870a1d6c3a48b2608bdff9b33893c08ef331c2fbed8057f48a20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F195a61a7-b972-480f-8a08-2dfcb9788200",
-    "pubDate": "2026-08-25T15:52:32+00:00"
   },
   {
     "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
@@ -595,13 +553,6 @@
     "pubDate": "2026-08-25T10:06:04+00:00"
   },
   {
-    "title": "Stock market today: Dow, S&amp;P 500, Nasdaq hold steady as US-Canada trade tensions heat up",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/CpqCXWNS15VUgdxgsDfnzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-08/cefc2d50-80b6-40be-91f5-e599ec8368fb",
-    "pubDate": "2026-08-25T08:05:27+00:00"
-  },
-  {
     "title": "Gamescom Opening Night Live 2026: Start Time, How To Watch, And What To Expect",
     "description": "The second of Geoff Keighley's big three shows, Gamescom Opening Night Live, kicks off in a few hours, and it's looking to be another big livestream full of new game trailers and reveals. Like previous years, ONL will be livestreamed directly from Germany, following a 30-minute preshow. Multiple games have already been teased, and if you're looking to tune in, here's how you can do so. We'll also have an Opening Night Live recap that we update live throughout the event if you can't watch. How to watch Gamescom Opening Night Live 2026 https://www.youtube.com/watch?v=V0rCUootNUs Gamescom Opening Night Live and the preshow will be livestreamed through the official YouTube and Twitch channels. You can also watch it live via the official Gamescom website. YouTube YouTube (GameSpot) Twitch Gamescom Opening Night Live 2026 start time You can start watching the preshow at 10:30 AM PT / 1:30 PM PT on August 25, and the big Gamescom Opening Night Live show will start immediately after at 11 AM PT / 2 PM PT. Gamescom Opening Night Live is scheduled to run for around two hours. 11 AM PT 2 PM ET 7 PM BST 8PM CET 4 AM AET (August 26) What to expect Gamescom Opening Night Live host Geoff Keighley has already confirmed several games for the show: The Witcher 3: Songs of the Past Final Fantasy 7 Revelation Gears of War: E-Day Ananta Tides of Annihilation Metro 2039 Game of Thrones: War for Westeros Warlock: Dungeons &amp; Dragons That's a pretty stacked lineup, and with the next couple of months looking to feature a chunky selection of titles looking to avoid being caught in GTA 6's wake when it launches in November, we could be in for an especially packed edition of Gamescom Opening Night Live this year. A new look at Final Fantasy 7 Revelation comes just a few months after it was shown off in detail at Keighley's other show, Summer Games Fest, and we'll likely get our first look at the real-time strategy gameplay for Game of Thrones: War for Westeros. While we've already seen plenty of it, more Gears of War: E-Day is never a bad thing, as Microsoft isn't wasting any time in hyping up its big holiday season blockbuster. Then you've got The Witcher 3 legacy expansion, Songs of the Past, Tides of Annihilation continues to look like an exciting twist on Arthurian legend, and Metro 2039 might just be the bleakest entry in the franchise yet. But those games are only going to soak up a small chunk of ONL's time, leaving plenty of room for other reveals. Other big upcoming games like Marvel's Wolverine, Onimusha: Way of the Sword, and Control Resonant could also be shown off, and we expect smaller--but ambitious--titles to also be in the spotlight between the biggest trailers. And that's just Tuesday night, as the rest of this week is going to be very busy. Ahead of the GTA 6 Extended Preview on August 27, there's also the Future Games Show on August 26, the Gamecom Awesome Indies Show on August 27, and two Xbox livestreams from the Gamescom show floor on Wednesday, August 26, and Thursday, August 27. Microsoft says that viewers can expect a mix of interviews, gameplay reveals, new trailers, and more. Upcoming 2026 Video Game Showcases: Gamescom, The Game Awards, And More View Images",
     "link": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-start-time-how-to-watch-and-what-to-expect/",
@@ -623,10 +574,59 @@
     "pubDate": "2026-08-24T19:01:36+00:00"
   },
   {
-    "title": "Tech stocks today: All eyes on Nvidia earnings, as Apple debuts new Mac Mini, Mac Studio aimed at AI developers",
+    "title": "Elevance Health Stock Outlook: Is Wall Street Bullish or Bearish?",
     "description": "",
-    "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-earnings-as-apple-debuts-new-mac-mini-mac-studio-aimed-at-ai-developers-125406169.html",
-    "thumbnail": "https://s.yimg.com/ny/api/res/1.2/TDn4f5.stU.cFnAUxwWL1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-08/b9db0cf5-f666-45e0-a398-bf2ad63f3ac2",
-    "pubDate": "2026-08-24T12:54:06+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/elevance-health-stock-outlook-wall-152400991.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/14392e3ebed8ff5ff2a74a4f97111af821ed484a700df6e1920fcebb3ada5cd8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fbcda785740ca9b71861ed87109710793.jpg",
+    "pubDate": "2026-08-24T15:24:00+00:00"
+  },
+  {
+    "title": "Rout in Chipmakers Weighs on Broader Market",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rout-chipmakers-weighs-broader-market-151143186.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/fed46ef7823d9608f52438ac8ab6a0287ee527633efa7228dbff9c97d7ab6df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Ff5650663b22ff6c046f216a8665badb0.jpg",
+    "pubDate": "2026-08-24T15:11:43+00:00"
+  },
+  {
+    "title": "Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-investors-145743521.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/bbc30f8cd0b5d6fb34f246fb0122c8148396410b0a95303ddc1ace5ee24134a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffdcdf8f640d2a061df0d838d6ea917d4.jpg",
+    "pubDate": "2026-08-24T14:57:43+00:00"
+  },
+  {
+    "title": "Cattle Prices Struggle but Get Some Bullish USDA Data; Lean Hog Prices Mired at 12-Month Low",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/cattle-prices-struggle-bullish-usda-145144527.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/5ac1710c3c57a6fde64d5cb2f64223b248b28c58fa5e63b3e70ebf4e4024ce87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fae218c82f563fb09d7104b43b3776dab.jpg",
+    "pubDate": "2026-08-24T14:51:44+00:00"
+  },
+  {
+    "title": "Make This 1 Trade Now as Inflation Still Runs Hot",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/options/articles/1-trade-now-inflation-still-144025344.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/b344d925ed3b82b6ef21cde2f27dbcb33cee11ec8aabd52560c169fb9a510303/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F6572c8ec764e692feb34471602509410.jpg",
+    "pubDate": "2026-08-24T14:40:25+00:00"
+  },
+  {
+    "title": "McKesson Stock Outlook: Is Wall Street Bullish or Bearish?",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mckesson-stock-outlook-wall-street-143920869.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/97cb5be603761edff5a88b7e75a1b451d93c0f55cbebf6d284833c9dba80046d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F96bd41950d39005a1c7038977db8e163.jpg",
+    "pubDate": "2026-08-24T14:39:20+00:00"
+  },
+  {
+    "title": "ADNOC Awards McDermott $1 Billion-Plus Contract for Major Offshore Gas Project",
+    "description": "",
+    "link": "https://finance.yahoo.com/energy/articles/adnoc-awards-mcdermott-1-billion-143422737.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/de6c368bdbcd992a8257483b935705b925a330460ad55a1d6877b7709f667e0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fca7ced4219af667ec434216b1857067b.jpg",
+    "pubDate": "2026-08-24T14:34:22+00:00"
+  },
+  {
+    "title": "Why gold and silver prices have added $5 trillion in value",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/commodities/article/why-gold-and-silver-prices-have-added-5-trillion-in-value-092246961.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/70a4a44941514150508acea8cedc908fa4a24a4b1be29e704d3bbacd7bd5cbe7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Ffdd30303-4a12-4ce8-9327-4bb7d5bfb194",
+    "pubDate": "2026-08-24T09:22:46+00:00"
   }
 ]
