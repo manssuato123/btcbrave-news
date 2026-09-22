@@ -1,66 +1,290 @@
 [
   {
-    "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
-    "description": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
-    "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108279891-1773862310304-gettyimages-2266699875-AFP_A3TV89F.jpeg?v=1773862435&w=1920&h=1080",
-    "pubDate": "2026-09-21T23:03:04+00:00"
+    "title": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dog-sled outpost and reopen Cold War base: report",
+    "description": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
+    "link": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108256548-1769198310705-gettyimages-2257829943-2s4a4978_f5t6ftkr.jpeg?v=1769198363&w=1920&h=1080",
+    "pubDate": "2026-09-22T05:00:18+00:00"
   },
   {
-    "title": "Flights at major US airports delayed after cable cut by construction workers",
-    "description": "Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".",
-    "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d4/live/c9f5d180-b608-11f1-b1d1-571ed4d7ff2c.jpg",
-    "pubDate": "2026-09-21T22:54:49+00:00"
+    "title": "Anya Taylor-Joy's Near-Perfect Breakout Folk Thriller Is Officially Leaving Netflix",
+    "description": "Anya Taylor-Joy's breakout role in The Witch gave horror a different kind of heroine. The Robert Eggers film leaves Netflix on Oct. 1.",
+    "link": "https://www.polygon.com/anya-taylor-joy-the-witch-horror-heroine/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdnemu_h3018.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-09-22T05:00:15+00:00"
+  },
+  {
+    "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+    "description": "A wave of forced buying that cost short sellers $844 million has run its course, leaving the largest cryptocurrency flat over the past hour and ZEC the only major token in the red.",
+    "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2dcd10662003a0022d93984b817a9c73360589f8-1510x862.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-09-22T04:33:11+00:00"
+  },
+  {
+    "title": "Trump’s U.N. Speech Comes at a Time of Tumult",
+    "description": "The president, who has been dogged by the war in Iran and eroding alliances, is also expected to sign a security deal on Greenland and meet with world leaders.",
+    "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-22T04:26:03+00:00"
+  },
+  {
+    "title": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
+    "description": "Oil rose Tuesday, amid concerns of growing Iran-U.S. tensions. after U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday.",
+    "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108364363-1789650417851-gettyimages-2294896333-AA_15092026_2952042.jpeg?v=1789650470&w=1920&h=1080",
+    "pubDate": "2026-09-22T04:22:20+00:00"
+  },
+  {
+    "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+    "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises regional security.",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de9/live/2f1c8fd0-b63c-11f1-b5fe-031254885cd0.jpg",
+    "pubDate": "2026-09-22T04:21:11+00:00"
+  },
+  {
+    "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+    "description": "The official x402 kit now includes Cardano tools for apps and AI agents to pay with ADA and other network tokens, though the facilitator has so far only been tested on pre-production.",
+    "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/18b8027bca92c296bd2b336e8381bbcab4d923e3-2981x1677.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-09-22T04:15:45+00:00"
+  },
+  {
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "description": "Trueo said Base was the right choice when it launched, as Ethereum gas fees were higher, but said mainnet now offers greater integration potential.",
+    "link": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33KTK93MZM3BCWENYNYT64S/ethereum.jpg",
+    "pubDate": "2026-09-22T04:03:00+00:00"
+  },
+  {
+    "title": "Earl Spencer Book Blasts Diana’s Treatment by UK Royal Family",
+    "description": "The decades have not lessened Earl Spencer’s anger over the House of Windsor’s treatment of the former Princess of Wales. King Charles comes in for special vitriol.",
+    "link": "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-22T04:01:12+00:00"
+  },
+  {
+    "title": "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
+    "description": "The $2.3 billion NSE IPO, India's largest public share sale issue so far this year, has drawn strong interest from investors, with bids of more than $10 billion.",
+    "link": "https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108365976-1790044367129-gettyimages-2293925074-INDIA_NSE.jpeg?v=1790044395&w=1920&h=1080",
+    "pubDate": "2026-09-22T04:00:28+00:00"
+  },
+  {
+    "title": "Stephen King's Most Unhinged Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube",
+    "description": "Stephen King's 1982 novel was adapted a few years later into one of Arnold Schwarzenegger's campiest movies.",
+    "link": "https://www.polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-running-man-5.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-09-22T04:00:20+00:00"
+  },
+  {
+    "title": "US strikes on alleged drug boats may be ‘crimes against humanity’, UN says",
+    "description": "UN expert says US forces have killed 223 people in 68 attacks in the Caribbean and the Pacific in the past year.",
+    "link": "https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-02-14T014234Z_1785730630_RC2DLJA6LAOD_RTRMADP_3_USA-TRUMP-STRIKE-1790043155.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-22T03:52:23+00:00"
+  },
+  {
+    "title": "20 countries propose global oversight body to manage AI dangers",
+    "description": "Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.",
+    "link": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T161851Z_11785766_RC2SNNA174UA_RTRMADP_3_UN-ASSEMBLY-SECURITY-1790035742_58a1b5-1790042361.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-09-22T03:42:02+00:00"
+  },
+  {
+    "title": "India vs Sri Lanka live: Asian Games – Women’s cricket final",
+    "description": "Follow our live build-up, team news, score and text commentary stream from the match in Nisshin, Japan, at 05:00 GMT.",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C8Y23Z7__v1__HighRes__CricketAsiad2026IndSri-1790055436.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-22T03:22:09+00:00"
+  },
+  {
+    "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+    "description": "Kakao Pay and KakaoBank are exploring digital asset opportunities with Fireblocks, including infrastructure for stablecoins.",
+    "link": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33H6YCTPMYT71NXRZW9M9KM/sk-mou.png",
+    "pubDate": "2026-09-22T03:13:22+00:00"
+  },
+  {
+    "title": "Brazil election: Lula and Flavio Bolsonaro tied in latest polls",
+    "description": "Luiz Inacio Lula da Silva is running in October's election for a fourth non-consecutive term as Brazil's president.",
+    "link": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26234638219983-1788627762.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-22T03:03:54+00:00"
+  },
+  {
+    "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+    "description": "British Columbia lawsuit implicates ChatGPT, claiming tech firm ignored deadly threats and demanding safety overhauls.",
+    "link": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T215939Z_2033624676_RC2KKJALN6OJ_RTRMADP_3_OPENAI-CANADA-LAWSUIT-1790032747.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-22T02:44:51+00:00"
+  },
+  {
+    "title": "Here's who we know is going to the Trump-Xi dinner so far",
+    "description": "Very little is known about which Chinese business executives, if any, are expected to attend.",
+    "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108365965-1790040833024-gettyimages-2276188819-aw1a6841_a7fixlwp.jpeg?v=1790040881&w=1920&h=1080",
+    "pubDate": "2026-09-22T02:41:10+00:00"
+  },
+  {
+    "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
+    "description": "The investigation is examining whether Binance knowingly allowed trading that violated US sanctions on Iran, months after reports first revealed a Justice Department probe.",
+    "link": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg",
+    "pubDate": "2026-09-22T02:22:59+00:00"
+  },
+  {
+    "title": "Japan Meets With Trump, Hoping to Get His Help on China",
+    "description": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-22T02:01:04+00:00"
+  },
+  {
+    "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+    "description": "Facing an American president constrained by war and politics, China’s leader may seek to lock in a tactical truce while he shores up a fragile economy at home.",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-22T02:00:10+00:00"
+  },
+  {
+    "title": "China’s Continued Control of Rare Earths Looms Over Trump-Xi Meeting",
+    "description": "Manufacturers are struggling with constrained supplies as U.S. and Chinese officials negotiate over export restrictions with consequences for global industry.",
+    "link": "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-22T02:00:06+00:00"
+  },
+  {
+    "title": "Mamdani challenges Trump over White House press ban during meeting",
+    "description": "President Trump met New York Mayor Zohran Mamdani at his official residence, one day before Trump speaks to the UNGA.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/mamdani-challenges-trump-over-white-house-press-ban-during-meeting?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/thumb-1790042225.png?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-09-22T01:57:51+00:00"
+  },
+  {
+    "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+    "description": "The Treasury Secretary said that Washington was pressuring Iran \"like never before\"",
+    "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108365583-1789993348352-Besent1.jpg?v=1790002374&w=1920&h=1080",
+    "pubDate": "2026-09-22T01:51:44+00:00"
+  },
+  {
+    "title": "Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal",
+    "description": "A boycott of the White House press pool by the major networks deprives the president of the oxygen of screen time. But he is still finding ways to get on the air.",
+    "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-22T01:47:47+00:00"
+  },
+  {
+    "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+    "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+    "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d1d/live/107f0730-b608-11f1-b1d1-571ed4d7ff2c.jpg",
+    "pubDate": "2026-09-22T01:31:29+00:00"
+  },
+  {
+    "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+    "description": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+    "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108214917-17610711142025-10-21t151421z_1752053458_rc2eghal0g9v_rtrmadp_0_jpmorgan-new-york.jpeg?v=1761071152&w=1920&h=1080",
+    "pubDate": "2026-09-22T01:30:01+00:00"
+  },
+  {
+    "title": "Influencers Jake and Logan Paul visit the Pentagon",
+    "description": "Influencers Logan and Jake Paul visited the Pentagon and addressed US troops, praising them for serving the country.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790039816.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-09-22T01:17:09+00:00"
+  },
+  {
+    "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+    "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7a/live/4b4ac290-b622-11f1-a430-4d16ee157c41.jpg",
+    "pubDate": "2026-09-22T01:04:16+00:00"
+  },
+  {
+    "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+    "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/7803b480-b600-11f1-a9e9-23cf66fffff0.jpg",
+    "pubDate": "2026-09-22T00:58:52+00:00"
+  },
+  {
+    "title": "Here’s what to pay attention to at the UNGA",
+    "description": "World leaders arrive for UNGA 81 as wars multiply and trust erodes in global institutions. Emma Withrow explains.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/3_2-Website-1790037360.png?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-09-22T00:36:12+00:00"
+  },
+  {
+    "title": "Trump returns to the UN, what will he say?",
+    "description": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/16_9-Thumbnail-1790037084.png?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-09-22T00:31:56+00:00"
+  },
+  {
+    "title": "UK to refuel Saudi jets to help counter Houthi attacks",
+    "description": "British Prime Minister Andy Burnham says he has agreed to a request for 'defensive' air-to-air refuelling of Saudi jets.",
+    "link": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T151207Z_1653303163_RC2QNNA37YH7_RTRMADP_3_BRITAIN-POLITICS-1790030991_2e61a2-1790035297.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-09-22T00:29:28+00:00"
   },
   {
     "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-    "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+    "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
     "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aa1/live/5ce86ed0-b60e-11f1-a054-8fb9a369004b.jpg",
-    "pubDate": "2026-09-21T22:48:33+00:00"
+    "pubDate": "2026-09-22T00:16:06+00:00"
   },
   {
-    "title": "Technical Problems Ground Flights at Major East Coast Airports",
-    "description": "Operations had resumed by Monday evening, with delays. The incident revived concerns about the Federal Aviation Administration’s aging air traffic control infrastructure.",
-    "link": "https://www.nytimes.com/2026/09/21/us/east-coast-flights-ground-stop-communication-failure.html",
+    "title": "Trump and Mamdani Show Their Unlikely Rapport, This Time in New York",
+    "description": "Mayor Zohran Mamdani invited the president to his official residence in Manhattan, where the two spoke about policing, immigration and affordable housing.",
+    "link": "https://www.nytimes.com/2026/09/21/nyregion/trump-mamdani-meeting-nyc.html",
     "thumbnail": "",
-    "pubDate": "2026-09-21T22:48:31+00:00"
+    "pubDate": "2026-09-22T00:10:51+00:00"
   },
   {
-    "title": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
-    "description": "Data centers have been a flash point in the 2026 midterm elections, including Abbott's bid for reelection against Democratic state Rep. Gina Hinojosa.",
-    "link": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108365917-1790027017328-gettyimages-2293395218-data_center_protest_1215.jpeg?v=1790027051&w=1920&h=1080",
-    "pubDate": "2026-09-21T22:46:26+00:00"
+    "title": "Pokémon Winds and Winds Leaks Tease A Pokédex Too Massive To Finish",
+    "description": "Pokémon Winds and Waves leaks suggest 300 Pokémon could be added in Gen 10. Even taken with a grain of salt, that's too many new Pokémon.",
+    "link": "https://www.polygon.com/pokemon-winds-waves-big-new-pokedex/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-winds-and-waves.png?w=1600&h=900&fit=crop",
+    "pubDate": "2026-09-22T00:05:09+00:00"
   },
   {
-    "title": "Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger",
-    "description": "By resolving a lawsuit filed by a group of states, the media mogul David Ellison removed the last major hurdle he faced in buying Warner Bros. Discovery.",
-    "link": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-21T22:04:38+00:00"
+    "title": "9 Bonkers Video Game DLCs That Completely Rewrote Expectations",
+    "description": "From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they were attached to",
+    "link": "https://www.polygon.com/best-video-game-dlcs/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23377462/The_Witcher_3_Wild_Hunt_Hearts_of_Stone_Nobody_puts_Geralt_in_a_corner_RGB.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-09-22T00:00:15+00:00"
   },
   {
-    "title": "CNN’s Future Will Include an Editorial Oversight Board",
-    "description": "The looming ownership of the network by David Ellison has caused anxiety in its newsroom for months.",
-    "link": "https://www.nytimes.com/2026/09/21/business/media/cnn-cbs-paramount-david-ellison.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-21T21:56:00+00:00"
+    "title": "Martha's Rule rolled out at every A&amp;E department in England",
+    "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d0/live/df827690-b5c5-11f1-abb5-85e9be42cb76.jpg",
+    "pubDate": "2026-09-21T23:38:57+00:00"
   },
   {
-    "title": "Paramount Cleared to Buy Warner Bros.",
-    "description": "Plus, news outlets sue Trump over White House ban. Here’s the latest at the end of Monday.",
-    "link": "https://www.nytimes.com/2026/09/21/briefing/paramount-cnn-houthis.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-21T21:54:51+00:00"
+    "title": "'My army dream was ended by childhood eye surgery'",
+    "description": "Some 114,000 Army application were rejected on medical grounds in the past five years, Freedom of Information figures show.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg7k5nv4kpo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8f7/live/5dadd8f0-b5d2-11f1-b1d1-571ed4d7ff2c.jpg",
+    "pubDate": "2026-09-21T23:19:10+00:00"
   },
   {
-    "title": "After Crucial Paramount Agreement Come Relief, Anger and Concern",
-    "description": "Few seem totally satisfied by the settlement that will let Paramount’s $111 billion acquisition of Warner Bros. Discovery move forward.",
-    "link": "https://www.nytimes.com/2026/09/21/movies/paramount-agreement-reaction.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-21T21:52:37+00:00"
+    "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
+    "description": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
+    "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108307508-1778845788952-108307508-1778845294977-gettyimages-2275744006-CHINA-USA.jpg?v=1790031878&w=1920&h=1080",
+    "pubDate": "2026-09-21T23:18:30+00:00"
+  },
+  {
+    "title": "Vet prescription fees capped under rule changes",
+    "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342d/live/bc86a7d0-b5dc-11f1-8c16-65d8f060d73f.jpg",
+    "pubDate": "2026-09-21T23:01:18+00:00"
   },
   {
     "title": "When is the point of no return in Fire Emblem Fortune's Weave",
@@ -68,13 +292,6 @@
     "link": "https://www.polygon.com/fire-emblem-fortunes-weave-point-of-no-return-recruitment-cutoff/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-point-of-no-return.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-09-21T21:37:28+00:00"
-  },
-  {
-    "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
-    "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/7803b480-b600-11f1-a9e9-23cf66fffff0.jpg",
-    "pubDate": "2026-09-21T21:36:39+00:00"
   },
   {
     "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
@@ -91,11 +308,11 @@
     "pubDate": "2026-09-21T21:14:49+00:00"
   },
   {
-    "title": "How thousands of migrants stranded in Ceuta are surviving",
-    "description": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790024674.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-09-21T21:04:44+00:00"
+    "title": "Spectre of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
+    "description": "Diplomats, dignitaries and tech experts gathered amid the United Nations General Assembly to debate how to address the threats and harness the potential of artificial intelligence.",
+    "link": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-21T21:08:36+00:00"
   },
   {
     "title": "YouTuber Logan Paul's Latest Pokémon Scheme Was A Total Flop",
@@ -112,39 +329,11 @@
     "pubDate": "2026-09-21T21:00:15+00:00"
   },
   {
-    "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
-    "description": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule.",
-    "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260115__92TM27Q__v1__HighRes__GambiaMediaCrimeTrial-1-1790017763.jpg?resize=1920%2C1440",
-    "pubDate": "2026-09-21T20:57:43+00:00"
-  },
-  {
-    "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
-    "description": "Jacob Coxon's post nearly two weeks ago that Anthropic and OpenAI were \"gambling with our lives\" set off a global debate about AI safety.",
-    "link": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108357924-1788371101960-gettyimages-2292626724-g20_6273.jpeg?v=1790021169&w=1920&h=1080",
-    "pubDate": "2026-09-21T20:51:11+00:00"
-  },
-  {
     "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
     "description": "Bitcoin has broken out to $86,000, but analysts say the next leg depends on whether spot buyers continue to show up as leverage builds.",
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9a1e2f13205efa97cb4ae861806260e274408e8f-1920x1080.png?auto=format&q=75",
     "pubDate": "2026-09-21T20:39:39+00:00"
-  },
-  {
-    "title": "Trump speech inaudible as US networks boycott White House event",
-    "description": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-at-21.30.19-1790022834.png?resize=1200%2C675",
-    "pubDate": "2026-09-21T20:38:51+00:00"
-  },
-  {
-    "title": "What Is the White House Press Pool, and Why Did It Suspend TV Coverage of Trump?",
-    "description": "By barring CNN, the White House has thrown a staple of TV news coverage into disarray.",
-    "link": "https://www.nytimes.com/2026/09/21/business/white-house-press-pool-trump.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-21T20:37:58+00:00"
   },
   {
     "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
@@ -176,31 +365,10 @@
   },
   {
     "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-    "description": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+    "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
     "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc4/live/2a039960-b5d0-11f1-b1d1-571ed4d7ff2c.jpg",
     "pubDate": "2026-09-21T20:21:18+00:00"
-  },
-  {
-    "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
-    "description": "Victory of United Russia party strengthens Putin's hand even as the war with Ukraine grows more unpopular.",
-    "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab188784868-1790019704.jpg?resize=1920%2C1440",
-    "pubDate": "2026-09-21T20:17:39+00:00"
-  },
-  {
-    "title": "Investors discover their new favorite consumer AI play in Meta. Options volume is surging",
-    "description": "Shares of the social media giant surged 12% Monday.",
-    "link": "https://www.cnbc.com/2026/09/21/meta-investors-discover-new-ai-play.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108365810-1790016218118-gettyimages-2293792097-boivin-photoill260909_npSGu.jpeg?v=1790016244&w=1920&h=1080",
-    "pubDate": "2026-09-21T20:13:33+00:00"
-  },
-  {
-    "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-    "description": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
-    "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108292812-17763704442026-04-16t200446z_1569477726_rc2hqkakfjbx_rtrmadp_0_film-cinemacon.jpeg?v=1776370477&w=1920&h=1080",
-    "pubDate": "2026-09-21T20:13:15+00:00"
   },
   {
     "title": "Demon Slayer: Infinity Castle Gets New Official Streaming Home Next Week",
@@ -210,20 +378,6 @@
     "pubDate": "2026-09-21T20:07:29+00:00"
   },
   {
-    "title": "UN Chief Guterres calls for ban on ‘killer robots’",
-    "description": "In this episode of On the Record, UN Secretary-General António Guterres calls for ban on autonomous ‘killer robots’.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-GUTERRES-1790021189.png?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-09-21T20:07:23+00:00"
-  },
-  {
-    "title": "US man convicted in 2023 shooting of three Palestinian students in Vermont",
-    "description": "Jason Eaton faces up to life in prison after a jury rejected his insanity defence.",
-    "link": "https://www.aljazeera.com/news/2026/9/21/us-man-convicted-in-2023-shooting-of-three-palestinian-students-in-vermont?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-11-27T144731Z_2118195621_RC2LL4AL33IV_RTRMADP_3_VERMONT-SHOOTING-1701696386.jpg?resize=1200%2C675",
-    "pubDate": "2026-09-21T20:05:07+00:00"
-  },
-  {
     "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
     "description": "Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.",
     "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
@@ -231,74 +385,11 @@
     "pubDate": "2026-09-21T20:04:39+00:00"
   },
   {
-    "title": "FAA halts flights to major US East Coast airports amid outage",
-    "description": "FAA halts East Coast flights due to equipment outage, affecting major US airports like JFK, Newark, and Philadelphia.",
-    "link": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab18325-1790018341.jpg?resize=1920%2C1440",
-    "pubDate": "2026-09-21T20:01:37+00:00"
-  },
-  {
-    "title": "Fire Emblem Fortune's Weave's Support Conversations Are Terrific, Actually",
-    "description": "Fire Emblem Fortune's Weave support conversations might be fewer in number compared to Three Houses, but they focus on what matters most",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weaves-support-conversations/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-support-conversations.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-09-21T20:00:15+00:00"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "pubDate": "2026-09-21T19:53:04+00:00"
-  },
-  {
-    "title": "Infantino says he is open to Fifa reform",
-    "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76a/live/7932d8f0-b5f0-11f1-8f79-396899948b9b.jpg",
-    "pubDate": "2026-09-21T19:50:57+00:00"
-  },
-  {
-    "title": "Embattled Gianni Infantino says he is open to talks over FIFA reform",
-    "description": "FIFA president proposes 'consultation' with members to reform world football governing body's decision-making process.",
-    "link": "https://www.aljazeera.com/sports/2026/9/21/embattled-gianni-infantino-says-he-is-open-to-talks-over-fifa-reform?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab185cfb3ff2-1790019023_cdbc04-1790020188.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-09-21T19:50:13+00:00"
-  },
-  {
-    "title": "UK prosecutors charge first person for Rwanda genocide",
-    "description": "Vincent Brown is 'alleged to have directed and incited acts of murder and genocide carried out by others'.",
-    "link": "https://www.aljazeera.com/news/2026/9/21/uk-prosecutors-charge-first-person-for-rwanda-genocide?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a917d33a129b-1787919667.jpg?resize=1920%2C1440",
-    "pubDate": "2026-09-21T19:48:58+00:00"
-  },
-  {
-    "title": "Fire Emblem: Fortune’s Weave Does One Thing Far Better Than Three Houses",
-    "description": "Fire Emblem: Fortune’s Weave has a more plainspoken, direct approach to romance and identity than Three Houses",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-sex-queerness-romance/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/nintendoswitch2_fefw_scrn_04.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-09-21T19:47:45+00:00"
-  },
-  {
-    "title": "Where to find enrietto in Fire Emblem Fortune's Weave",
-    "description": "Here's where you can find enrietto in Fire Emblem: Fortune's Weave and where you can buy it to complete the \"Energy Nuts\" side quest",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-enrietto-where-to-find-location-energy-nuts/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_enrietto_lead2.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-09-21T19:46:59+00:00"
-  },
-  {
-    "title": "Retailer Revolve announces partnership with Donatella Versace",
-    "description": "REVOLVE's partnership with Donatella Versace is the retailer's latest bid to create for young consumers.",
-    "link": "https://www.cnbc.com/2026/09/21/revolve-partnership-donatella-versace.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108365785-1790014169708-gettyimages-2266750205-dia15409_sqxvsbus.jpeg?v=1790014199&w=1920&h=1080",
-    "pubDate": "2026-09-21T19:44:52+00:00"
-  },
-  {
-    "title": "Persona 4 Revival Is Bringing Back One of the Rpg’s Most Important Actors",
-    "description": "Atlus has revealed Persona 4 Revival will see Johnny Yong Bosch return to the role of Adachi",
-    "link": "https://www.polygon.com/persona-4-revival-cast-announced-adachi/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/adachi-hed-cropped.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-09-21T19:36:38+00:00"
   },
   {
     "title": "Here’s Why A Nightmare On Elm Street Game Hasn’t Happened In Decades",
@@ -315,25 +406,11 @@
     "pubDate": "2026-09-21T19:30:00+00:00"
   },
   {
-    "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
-    "description": "Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-at-20.14.41-1790018327.png?resize=1200%2C675",
-    "pubDate": "2026-09-21T19:22:15+00:00"
-  },
-  {
     "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
     "description": "TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.",
     "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6ae66c07fe3a2ee0c2b80924fc58d5fde4340dc5-8192x5464.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
     "pubDate": "2026-09-21T19:08:40+00:00"
-  },
-  {
-    "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-    "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9b/live/c1bab7b0-b595-11f1-a430-4d16ee157c41.png",
-    "pubDate": "2026-09-21T19:01:36+00:00"
   },
   {
     "title": "Ondo lets institutions convert stocks directly into tokenized shares",
@@ -357,27 +434,6 @@
     "pubDate": "2026-09-21T18:15:22+00:00"
   },
   {
-    "title": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
-    "description": "Beyond warm meetings between their leaders, the countries are engaging in tit-for-tat measures that call into question the stability of their arrangement.",
-    "link": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-21T18:00:12+00:00"
-  },
-  {
-    "title": "First UK charges brought over 1994 Rwanda genocide",
-    "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-    "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/517f/live/051f1c30-b5e1-11f1-aff1-eb6baa3fda4f.jpg",
-    "pubDate": "2026-09-21T17:48:23+00:00"
-  },
-  {
-    "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-    "description": "Four members of the same family and a married couple on a motorbike died in the 2024 collision.",
-    "link": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c3/live/1750b4f0-b5d6-11f1-a190-17e7f3a0cd42.jpg",
-    "pubDate": "2026-09-21T17:01:32+00:00"
-  },
-  {
     "title": "Are A.I. Models Being Misled to Act Too Human?",
     "description": "A corporate spat between two tech giants last week was just the latest volley in a conflict over whether dangerous mistakes are being made in A.I. training.",
     "link": "https://www.nytimes.com/2026/09/21/science/ai-anthropomorphism-consciousness.html",
@@ -390,13 +446,6 @@
     "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg",
     "pubDate": "2026-09-21T16:56:53+00:00"
-  },
-  {
-    "title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
-    "description": "Artificial intelligence is a race solely between two rival powers with the rest of the world largely on the sidelines, foreign policy experts said.",
-    "link": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-21T16:55:39+00:00"
   },
   {
     "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
@@ -462,6 +511,13 @@
     "pubDate": "2026-09-21T14:42:40+00:00"
   },
   {
+    "title": "Bank of America says buy tumbling shares of aviation giant",
+    "description": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/30b026996876fd45c3653492beb9e61c356c77be963dbb9029f4d11af814a8a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F8e2bdec37388b4259ea4e90d0fa1d030.jpg",
+    "pubDate": "2026-09-21T14:37:00+00:00"
+  },
+  {
     "title": "We Can Take A Small Bite Of Castlevania: Belmont’s Curse Early",
     "description": "Konami has revealed that a free demo for Castlevania: Belmont's Curse will become available on October 1. Even better, progress from this early taste of the metroidvania title will carry over to the game's full launch, which is on October 15. The Castlevania: Belmont's Curse demo will offer up the opening chapter, according to Konami. That likely means we see Rose and Trevor Belmont arrive in the burning city of Paris, before being split up. Then it's up to Rose to utilize her sword and magical tarot cards to take on classic franchise foes, like zombies and probably skeletons. The game will also let you turn tough bosses into powerful friends. This small bite of Castlevania: Belmont's Curse will take up between 3GB and 6GB of storage space, depending on your platform. The smaller size is for Switch, while the largest is for PS5. However, the game will only run at 30fps on Nintendo's hybrid console; meanwhile, it runs at 60fps on Sony's system as well as Xbox Series X|S and PC. Here's hoping a Switch 2 version is in the works, though there's nothing official on that front. Evil Empire Studio and Motion Twin are behind this newest entry in the Castlevania series, with the former previously working on the franchise with Dead Cells: Return to Castlevania. The latest project from Evil Empire was The Rogue Prince of Persia. However, even with this pedigree, Castlevania: Belmont's Curse isn't a roguelite. Last month, Konami announced the voice cast for Castlevania: Belmont's Curse. Dracula will sound familiar to fans of the Netflix Castlevania series, since Graham McTavish is reprising his role as the elder vampire. Best Castlevania Games: Ranking The Top 15 Entries View Images",
     "link": "https://www.gamespot.com/articles/we-can-take-a-small-bite-of-castlevania-belmonts-curse-early/",
@@ -476,25 +532,11 @@
     "pubDate": "2026-09-21T14:20:48+00:00"
   },
   {
-    "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-    "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd3/live/e6442550-b5c0-11f1-abb5-85e9be42cb76.jpg",
-    "pubDate": "2026-09-21T14:14:16+00:00"
-  },
-  {
     "title": "Hideo Kojima Doesn’t Know If Physint Will Be Xbox Exclusive",
     "description": "In a big twist, Sony just dropped Hideo Kojima's new spy game Physint, with Xbox swooping in to pick it up. But will Physint be exclusive to Xbox? Kojima himself said in a new interview with IGN that he does not know. \"That would be a question for Xbox. But I don't know for sure,\" he said. Under former Xbox CEO Phil Spencer's leadership, Microsoft began releasing some of its major games on rival platforms. Even Halo is on PlayStation today. New CEO Asha Sharma has signaled a return to exclusives. Choices about exclusivity will be made case by case. Kojima said Microsoft’s ambition is to help its games reach the largest possible audience. \"In previous updates from Xbox, I thought that they have this kind of stance where they want to deliver to as many gamers as possible, no matter what the platform is,\" Kojima said. \"I think all of that will be announced at a later time. I'm not sure yet, and I can't really say.\" https://twitter.com/HIDEO_KOJIMA_EN/status/2099387994188939599 Xbox is publishing not only Physint, but also Kojima's horror game OD. Both games will feature celebrities. Bill Skarsgard will star in Physint, while OD features Hunter Schafer, Sophia Lillis, and the late Udo Kier. Physint was reportedly over budget and late, which contributed to Sony's decision to abandon it. Kojima Productions released a statement in response, saying people should treat the report with skepticism, though the company did not deny or refute the reporting. Kojima himself said he was \"shocked\" when he was informed on a Zoom call that Sony was dropping the game, especially because he believed it could be his best-selling game ever. It is still early days for both Physint and OD, as neither game has a release date or much in the way of concrete information.",
     "link": "https://www.gamespot.com/articles/hideo-kojima-doesnt-know-if-physint-will-be-xbox-exclusive/",
     "thumbnail": "",
     "pubDate": "2026-09-21T13:56:26+00:00"
-  },
-  {
-    "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
-    "description": "Multicoin Capital co-founder Samani expects SOL to surpass Ether’s market capitalization “this market cycle” and argues that “today, no one really uses Ethereum.”",
-    "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30R5TSC95SZGESPDXXCRR22/kyle-samani.png",
-    "pubDate": "2026-09-21T13:30:00+00:00"
   },
   {
     "title": "007 First Light Dev Says It Had “No Choice” But To Delay The Game’s Switch 2 Edition Again",
@@ -511,13 +553,6 @@
     "pubDate": "2026-09-21T13:11:15+00:00"
   },
   {
-    "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
-    "description": "Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and spent another $174 million repurchasing its STRC preferred stock.",
-    "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31XS0NMWAFA2WAAJKR59VQ7/hi-strategyb-buys-bitcoin-1.jpg",
-    "pubDate": "2026-09-21T12:48:21+00:00"
-  },
-  {
     "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
     "description": "Bessent pushed back against a bearish assessment of the U.S. economy highlighting strong growth, foreign demand for American assets and continued dollar dominance.",
     "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
@@ -532,27 +567,6 @@
     "pubDate": "2026-09-21T12:17:48+00:00"
   },
   {
-    "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-    "description": "It's the first week of bitcoin purchases for Strategy in about three weeks.",
-    "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-09-21T12:08:02+00:00"
-  },
-  {
-    "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-    "description": "Your day-ahead look for Sept. 21, 2026",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/eab60955ba93e8536f337c1f5fdd3e3c0327575b-5616x3744.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-09-21T11:36:11+00:00"
-  },
-  {
-    "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
-    "description": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-    "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31SZBB8Q9BGS5MAPPJDRVD8/hi-the-digital-token-how-it-will-impact-the-current-financial-system-ecb-2.jpg",
-    "pubDate": "2026-09-21T11:27:00+00:00"
-  },
-  {
     "title": "Burger chain cancels breakfast at hundreds of restaurants",
     "description": "",
     "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
@@ -560,73 +574,59 @@
     "pubDate": "2026-09-21T04:15:19+00:00"
   },
   {
-    "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-    "description": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
-    "link": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108230204-17637585472025-11-21t205337z_1143851817_rc271ia6cvye_rtrmadp_0_usa-trump-mamdani.jpeg?v=1763758583&w=1920&h=1080",
-    "pubDate": "2026-09-20T19:06:16+00:00"
+    "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
+    "description": "",
+    "link": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/523a1620206a35f91960cd2287620b3ab68d00362472967b362c5fe75adb4437/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F71311f52645b482ed376ec994539f00d.jpg",
+    "pubDate": "2026-09-20T19:00:00+00:00"
   },
   {
-    "title": "Jim Cramer sends strong signal to Apple stock investors",
+    "title": "Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns?",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-163300406.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/6f88d3e2be1ff41d1150032f1ff6c159eda952530ff6c5cd90995d919ca5e901/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fa5bd8494ba2116985e06c9d71860ecae.jpg",
-    "pubDate": "2026-09-20T16:33:00+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-lind-buys-white-185653752.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/ffe39196b58c6241dd8697a77cbd14eb54a648f8b0825cdad66ff6ac5393a673/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe6bd99d9f58ca49b08edad891302fb2d.jpg",
+    "pubDate": "2026-09-20T18:56:53+00:00"
   },
   {
-    "title": "How to Play AAPL Stock Amid Reports Apple Is Building Its Own AI Server",
+    "title": "Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?",
     "description": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/play-aapl-stock-amid-reports-130641806.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/81f826ce3ea5fbec9a82a13c82a6c43a2f373049bea36c4db27c778213effc41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F13eeb713efd52d28173dcbb6d9c7c567.jpg",
-    "pubDate": "2026-09-20T13:06:41+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/a7b43ba097bff356ea71da35d7543b9236d7bc71f06d7a490cfbacf7c46e3a5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffc8a5f90efa431e812d1c677cfd54411.jpg",
+    "pubDate": "2026-09-20T18:51:54+00:00"
   },
   {
-    "title": "Are you ‘secretly broke’? Here are the 7 worst habits keeping Americans in the red",
+    "title": "SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/articles/secretly-broke-7-worst-habits-130500678.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/8b4d71bcca860e9d7641014d8d2c8e976f781723666a2064447de7e3741323f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F7e3e2700c452852ea7c672ed37816ff7.jpg",
-    "pubDate": "2026-09-20T13:05:00+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/85c9a86cd67f82afa0976720a8d53f0a17e990d6358a2b6c1aee807253d7d9b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fee380b1d024341f5c76d07b40b8bbdaa.jpg",
+    "pubDate": "2026-09-20T18:45:11+00:00"
   },
   {
-    "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock",
+    "title": "LifeMD (LFMD) Secures AT&amp;T Partnership. Can Free Memberships Produce Paying Patients?",
     "description": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-could-missing-130002359.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/1e19be769057426c734936fff65b7b90799890e4287910dad37eebe0fd273770/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F171dc6622d8d84ee61616310bed1d7c5.jpg",
-    "pubDate": "2026-09-20T13:00:02+00:00"
+    "link": "https://finance.yahoo.com/healthcare/articles/lifemd-lfmd-secures-t-partnership-184302502.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/eb69c5f6b894193678e983b8ad69df8d82d6073e944fd3d7e4a41990d6b90930/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F04605a8da8159cdfe67e104f669fd27f.jpg",
+    "pubDate": "2026-09-20T18:43:02+00:00"
   },
   {
-    "title": "Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff",
+    "title": "Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure?",
     "description": "",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/scott-bessent-helped-george-soros-130000046.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/033533ba9c4ef05a6c1ff09710a152609c9607d85f96d044f09a2651c7015dec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fce3cf3efe21202124dba7f7949cf8375.jpg",
-    "pubDate": "2026-09-20T13:00:00+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-books-rmb5-183136873.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/adc05d8f7268844fef090b2653f61a428557405244b77a86898c9e7e9fab8f51/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb87e36960d38ae25526d2a50e086212b.jpg",
+    "pubDate": "2026-09-20T18:31:36+00:00"
   },
   {
-    "title": "Dick Portillo sold his restaurant empire for nearly $1B, but says he was happier before the deal",
+    "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
     "description": "",
-    "link": "https://finance.yahoo.com/small-business/articles/dick-portillo-sold-restaurant-empire-130000099.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/2c164d45390cff5b0b636232ed9a946731895ce020ea1f6ad31ab545dd2f3834/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F807e35bce023fc68cb83ab3d1c32ae24.jpg",
-    "pubDate": "2026-09-20T13:00:00+00:00"
+    "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/5e12db6d7f171dd5cf5ffa6917259265316b6f95dc255996f3a80e7e7c8a07c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd15130425b806b509938ee3278c36175.jpg",
+    "pubDate": "2026-09-20T18:30:08+00:00"
   },
   {
-    "title": "Is 63 the ideal age of retirement Americans think it is? Probably not — here’s why",
+    "title": "CoreWeave Rises After Going Live With Vera Rubin Racks. What This Means for CRWV Stock.",
     "description": "",
-    "link": "https://finance.yahoo.com/small-business/articles/63-ideal-age-retirement-americans-124500294.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/cb9f9a5823c9e98973330ef4449118877acf9b8a52496dbdb126de61ec463175/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F80f92644ef76338c18aedf7d0a8e40a1.jpg",
-    "pubDate": "2026-09-20T12:45:00+00:00"
-  },
-  {
-    "title": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
-    "description": "",
-    "link": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0fb049302af23e3178e87418f6c9862aabf2cf9765135543675b02cb9994e73c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Ff367b932-4227-4a98-ab4f-ac1813bb2653",
-    "pubDate": "2026-09-20T12:34:00+00:00"
-  },
-  {
-    "title": "Michael Burry says he only invests in ‘three-legged dogs’ — though five legs would be even better",
-    "description": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-only-invests-123000511.html",
-    "thumbnail": "https://s.yimg.com/lo/mysterio/api/0031a3f6fe81393857d7749506b27f9d0fc2d722e2b6e9f3a4b6228dc38f5de3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fe24d6e56798a518eaa64cdfa4b65e162.jpg",
-    "pubDate": "2026-09-20T12:30:00+00:00"
+    "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-rises-going-live-vera-183002237.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/406156fe0147480b49cb8a35fa3e3f92d3f599ff310bb7dfe89f94ecddf63392/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fe16f16e4ebde8d2d9bbaa3616d2c00ee.jpg",
+    "pubDate": "2026-09-20T18:30:02+00:00"
   }
 ]
