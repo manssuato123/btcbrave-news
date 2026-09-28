@@ -1,17 +1,241 @@
 [
   {
-    "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
-    "description": "Let's unpack this.",
-    "link": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
-    "pubDate": "2026-09-27T23:20:37+00:00"
+    "title": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
+    "description": "At least 14 people have been killed and 11 remain missing after heavy rain triggered floods and landslides across Nepal.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790570639.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-09-28T04:44:12+00:00"
+  },
+  {
+    "title": "Tom Kean Jr. Backs Trump on Iran and Tariffs, if Not Local Issues",
+    "description": "In a debate with the Democrat Rebecca Bennett, the New Jersey Republican said he was willing to take on the president over funding for a Hudson River tunnel project.",
+    "link": "https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-28T04:31:38+00:00"
+  },
+  {
+    "title": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+    "description": "Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.",
+    "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
+    "pubDate": "2026-09-28T04:16:27+00:00"
+  },
+  {
+    "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+    "description": "Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.",
+    "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
+    "pubDate": "2026-09-28T04:12:20+00:00"
+  },
+  {
+    "title": "Nor’easter Weakens but Remains a Threat",
+    "description": "The weekend’s storm is expected to continue to bring rain and the threat of floods to parts of the northern East Coast through the beginning of the week.",
+    "link": "https://www.nytimes.com/2026/09/27/well/noreaster-weakens-but-remains-a-threat.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-28T04:05:57+00:00"
+  },
+  {
+    "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+    "description": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
+    "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108359543-1788833216665-gettyimages-2292683397-img_8748.jpeg?v=1788833249&w=1920&h=1080",
+    "pubDate": "2026-09-28T04:04:16+00:00"
+  },
+  {
+    "title": "35 Years Later, the '90s Remake of a Cult Classic Thriller Is Officially Free to Watch on YouTube",
+    "description": "A '90s remake of one of the most famous vampire soap operas does a better job at introducing the story to newcomers.",
+    "link": "https://www.polygon.com/dark-shadows-revival-free-youtube-september-2026/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dark-shadows.jpeg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-09-28T04:00:21+00:00"
+  },
+  {
+    "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
+    "description": "Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.",
+    "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c76047d96bfdc52edf0fb1572c41862de3f9f133-2183x1153.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-09-28T03:58:52+00:00"
+  },
+  {
+    "title": "Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal",
+    "description": "Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields.",
+    "link": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108368554-1790566717315-gettyimages-2164908454-AUS_NORTHERN_STAR.jpeg?v=1790566800&w=1920&h=1080",
+    "pubDate": "2026-09-28T03:50:22+00:00"
+  },
+  {
+    "title": "Protesters disperse after blocking contentious Orange Order parade",
+    "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f45/live/01fd3ec0-baef-11f1-8350-e58913ee2065.jpg",
+    "pubDate": "2026-09-28T03:27:56+00:00"
+  },
+  {
+    "title": "The Definitive ’90s Sci-Fi Action Blockbuster Is Officially Streaming for Free on YouTube",
+    "description": "As one of the best '90s action sci-fi adventures, Stargate serves as an unforgettable trip into the past.",
+    "link": "https://www.polygon.com/stargate-movie-streaming-free-youtube-september-2026/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/merc8196210c4d1db04614d6db9f3e4fstargate1020-1024x580-1.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-09-28T03:17:15+00:00"
+  },
+  {
+    "title": "2024's Best RPG Is a Must-Play for Fire Emblem Fans",
+    "description": "Metaphor ReFantazio has a lot in common with Fortune's Weave, like calendar management, world map exploration, and a reputation mechanic",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-metaphor-refantazio/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/metaphor-refantazio-giant-baby.jpg?w=1200&h=675&fit=crop",
+    "pubDate": "2026-09-28T03:00:15+00:00"
+  },
+  {
+    "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
+    "description": "Private dinner will be the first one-on-one meeting between the two men, according to reports.",
+    "link": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP24325666568913-1790561963_996dd6-1790562176.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-09-28T02:57:28+00:00"
+  },
+  {
+    "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+    "description": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
+    "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108368523-1790555833450-gettyimages-2296994711-kbd21875_2op2pdja.jpeg?v=1790556666&w=1920&h=1080",
+    "pubDate": "2026-09-28T02:49:10+00:00"
+  },
+  {
+    "title": "Venezuelans rally for opposition leader’s return and presidential elections",
+    "description": "Nobel laureate Maria Corina Machado has been living in exile, with plans to return to Venezuela spoiled multiple times.",
+    "link": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26270667532092-1790559365.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-28T02:36:00+00:00"
+  },
+  {
+    "title": "Newsom signs California ban on public officials issuing memecoins",
+    "description": "The law also restricts crypto companies from offering certain memecoins tied to public officials to California residents and takes effect for tokens issued from Jan. 1, 2027.",
+    "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JX3KVEP7E99FBBRT94FX62/regulation-office-document-paper-california.jpg",
+    "pubDate": "2026-09-28T02:23:42+00:00"
+  },
+  {
+    "title": "Palestine Action protesters arrested outside UK Labour Party conference",
+    "description": "Demonstrators protest against UK government's proscription of Palestine Action as a 'terrorist' organisation.",
+    "link": "https://www.aljazeera.com/news/2026/9/28/palestine-action-protesters-arrested-outside-uk-labour-party-conference?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260927__C9GQ7RP__v1__HighRes__BritainPoliticsLabourConferencePalestineConflic-1790556488.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-28T02:23:30+00:00"
+  },
+  {
+    "title": "'Lanterns' Episode 7 Ending Explained: Antaan, Sinestro, and Who Killed Hal Jordan?",
+    "description": "Hal’s mysterious vault sends John Stewart through a portal and deepens the mystery surrounding his death.",
+    "link": "https://www.polygon.com/lanterns-episode-7-ending-explained-what-planet-is-sinestro-on/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lanterns-_-midseason-trailer-_-hbo-max-1-10-screenshot.png?w=1200&h=675&fit=crop",
+    "pubDate": "2026-09-28T02:00:26+00:00"
+  },
+  {
+    "title": "HBO Just Officially Changed a Fundamental Rule of Green Lantern Canon",
+    "description": "Lanterns hinted that John Stewart was special already, but this changes things entire",
+    "link": "https://www.polygon.com/hbo-lanterns-episode-7-john-stewart-powers-green-lantern/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/aaron-pierre_2.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-09-28T02:00:26+00:00"
+  },
+  {
+    "title": "Late September warmth before wind and rain returns this week",
+    "description": "Temperatures remain above the average at the start of the week but wetter conditions are on the way for some",
+    "link": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72cd/live/09921e40-ba35-11f1-bc1f-3f186ca4140c.jpg",
+    "pubDate": "2026-09-28T01:46:35+00:00"
+  },
+  {
+    "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+    "description": "Ireland scored a 3-0 victory over Israel in a politically-charged UEFA Nations League match played in Hungary.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790559403.jpg?resize=1445%2C1080&quality=80",
+    "pubDate": "2026-09-28T01:39:02+00:00"
+  },
+  {
+    "title": "UK Foreign Secretary confronted by activists over Palestine Action ban",
+    "description": "UK Foreign Secretary Ed Miliband was confronted by activists at a restaurant over the proscription of Palestine Action.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-foreign-secretary-confronted-by-activists-over-palestine-action-ban?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790559251.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-09-28T01:37:27+00:00"
+  },
+  {
+    "title": "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
+    "description": "Israel’s security minister Itamar Ben-Gvir has released a video in which he is seen threatening to kill Hassan Salameh.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790559188.jpg?resize=1200%2C675",
+    "pubDate": "2026-09-28T01:33:52+00:00"
+  },
+  {
+    "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+    "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+    "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e696/live/63efb740-bad9-11f1-bd21-bdf910f2cec6.jpg",
+    "pubDate": "2026-09-28T01:16:18+00:00"
+  },
+  {
+    "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+    "description": "The Zano blockchain has been restarted at the block height that came immediately before Hard Fork 6, which introduced Gateway Addresses.",
+    "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JREXHTP98GQ5DQZXPMZ889/zano-rollback.jpg",
+    "pubDate": "2026-09-28T01:09:22+00:00"
+  },
+  {
+    "title": "9 Classic 'Far Side' Comics About Cats Being the Worst",
+    "description": "In many of Gary Larson's Far Side comics, cats are depicted as the villains. Did he have something against cats?",
+    "link": "https://www.polygon.com/best-far-side-comics-about-cats/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screen-shot-2026-09-24-at-5-08-23-pm.jpg?w=1200&h=675&fit=crop",
+    "pubDate": "2026-09-28T01:00:15+00:00"
+  },
+  {
+    "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
+    "description": "Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.",
+    "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-Anti-immigration-deadline-1782847767.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-28T00:29:25+00:00"
+  },
+  {
+    "title": "South African police discover body of 11th woman near Johannesburg",
+    "description": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
+    "link": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aae7928c3bb-1789819176.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-28T00:25:12+00:00"
+  },
+  {
+    "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
+    "description": "Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T171103Z_777393107_RC2ORNADPDDR_RTRMADP_3_IRAN-CRISIS-1790552079.jpg?resize=1920%2C1440",
+    "pubDate": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+    "description": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.",
+    "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JEK5KXMZ1A92DZ2YW9Y7A9/cover-collage-revised.png",
+    "pubDate": "2026-09-27T23:43:18+00:00"
+  },
+  {
+    "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+    "description": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+    "thumbnail": "",
+    "pubDate": "2026-09-27T23:33:39+00:00"
+  },
+  {
+    "title": "My hometown shows that high streets have to change or die",
+    "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/7686be90-b8cb-11f1-a430-4d16ee157c41.jpg",
+    "pubDate": "2026-09-27T23:05:53+00:00"
   },
   {
     "title": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
     "description": "Washington State voters will get a chance to accept or reject the 9.9 percent income tax on millionaires approved by the Legislature, which broke the state’s taboo against levying income taxes.",
     "link": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html",
     "thumbnail": "",
-    "pubDate": "2026-09-27T23:02:12+00:00"
+    "pubDate": "2026-09-27T23:02:13+00:00"
+  },
+  {
+    "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+    "description": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+    "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ef/live/05e9aa10-bac1-11f1-b327-372771fd59f2.jpg",
+    "pubDate": "2026-09-27T23:01:47+00:00"
   },
   {
     "title": "Jason Statham’s 113-Minute Action Thriller Blasts Back Onto Streaming",
@@ -28,25 +252,11 @@
     "pubDate": "2026-09-27T22:20:17+00:00"
   },
   {
-    "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
-    "description": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
-    "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-27T22:12:24+00:00"
-  },
-  {
     "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
     "description": "The ad, which ethics experts said could violate federal law, shows Mr. Trump vowing to “expel the warmongers” from the government and fight the “deep state,” even as he wages a war with Iran.",
     "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
     "thumbnail": "",
     "pubDate": "2026-09-27T22:12:22+00:00"
-  },
-  {
-    "title": "Ireland defeats Israel in controversial UEFA Nations League match",
-    "description": "Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
-    "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab97e986851-1790541464.jpg?resize=1920%2C1440",
-    "pubDate": "2026-09-27T21:41:59+00:00"
   },
   {
     "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
@@ -56,13 +266,6 @@
     "pubDate": "2026-09-27T21:38:59+00:00"
   },
   {
-    "title": "Alleged rape on campus sparks violent protest at Indian university",
-    "description": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-college-violence-1790543776.png?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-09-27T21:17:05+00:00"
-  },
-  {
     "title": "Inside Yemen's front-line city as Houthis battle for control",
     "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
     "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
@@ -70,25 +273,11 @@
     "pubDate": "2026-09-27T21:16:31+00:00"
   },
   {
-    "title": "Floods inundate roads in southeastern Algeria",
-    "description": "Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542954.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-09-27T21:03:47+00:00"
-  },
-  {
-    "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
-    "description": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.",
-    "link": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab982a7784e-1790542503_36e0be-1790542954.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-09-27T21:02:48+00:00"
-  },
-  {
-    "title": "Deadly strike hits market in Yemen’s Taiz",
-    "description": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542745.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-09-27T21:00:55+00:00"
+    "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+    "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+    "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3483/live/dd945aa0-ba85-11f1-bd21-bdf910f2cec6.jpg",
+    "pubDate": "2026-09-27T21:00:06+00:00"
   },
   {
     "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?",
@@ -98,46 +287,11 @@
     "pubDate": "2026-09-27T20:57:44+00:00"
   },
   {
-    "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
-    "description": "An Israeli Apache helicopter struck a commercial centre near Mayfadoun in Southern Lebanon.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542582.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-09-27T20:57:38+00:00"
-  },
-  {
-    "title": "Five arrested near UK RAF base over suspected explosives ‘terror’ plot",
-    "description": "Five men have been arrested near RAF Fairford in the UK on suspicion of explosives and terrorism offences.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/five-arrested-near-uk-raf-base-over-suspected-explosives-terror-plot?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T064542Z_1242454410_RC2IRNAX7BHD_RTRMADP_3_BRITAIN-USA-FAIRFORD-1790542296.jpg?resize=1920%2C1440",
-    "pubDate": "2026-09-27T20:52:07+00:00"
-  },
-  {
-    "title": "Ethiopian army reportedly recaptures strategic town as fighting spreads",
-    "description": "Ethiopia’s army has reportedly recaptured the strategic town of Sekota from Tigrayan forces as fighting spreads.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-ethiopia-tigray-escalation-sv-mp4?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790541790.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-09-27T20:44:50+00:00"
-  },
-  {
-    "title": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
-    "description": "Police say the US shooting followed an altercation at an after-hours venue, and four people are in hospital.",
-    "link": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-13T161632Z_120661481_RC23DMARWCBK_RTRMADP_3_USA-MIGRATION-MAINE-SHOOTING-1790537697.jpg?resize=1920%2C1440",
-    "pubDate": "2026-09-27T20:44:40+00:00"
-  },
-  {
-    "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
-    "description": "Cuba's deputy foreign minister slams US sanctions, labelling them 'equivalent to genocide'.",
-    "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab96fc3043e-1790537667.jpg?resize=1920%2C1440",
-    "pubDate": "2026-09-27T20:34:09+00:00"
-  },
-  {
     "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
     "description": "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
     "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
     "thumbnail": "",
-    "pubDate": "2026-09-27T20:20:19+00:00"
+    "pubDate": "2026-09-27T20:20:20+00:00"
   },
   {
     "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
@@ -182,60 +336,11 @@
     "pubDate": "2026-09-27T18:00:15+00:00"
   },
   {
-    "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
-    "description": "Ms. Peltola, the Democratic Senate candidate in Alaska, has complicated politics: She is pro-gun, pro-oil and pro-gas — but also pro-environment and especially pro-fish.",
-    "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-27T17:17:43+00:00"
-  },
-  {
     "title": "Control Resonant's Completely Ignores The Most Interesting Character",
     "description": "Control Resonant takes the next big step in the series, but it leaves the Oldest House behind — and along with it, the first game's scary aura.",
     "link": "https://www.polygon.com/control-resonant-biggest-issue-oldest-house/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/controlresonant_feature_lead2.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-09-27T17:00:15+00:00"
-  },
-  {
-    "title": "England win series as Banton delivers on potential",
-    "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e59/live/32202790-ba89-11f1-8b67-d15ca96e4c99.jpg",
-    "pubDate": "2026-09-27T16:49:38+00:00"
-  },
-  {
-    "title": "Witcher Dev Reveals Why CD Projekt Red Doesn't Do Crossovers In Its Own Games",
-    "description": "A CD Projekt Red dev told Polygon that while a Geralt-inspired skin is coming to Diablo 4, don't expect Diablo characters in The Witcher 3 Remastered",
-    "link": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-3-songs-of-the-past-key-art-cropped.png?w=1600&h=900&fit=crop",
-    "pubDate": "2026-09-27T16:31:42+00:00"
-  },
-  {
-    "title": "Xbox Almost Spoiled the Best Time of Year for Games",
-    "description": "The Xbox layoffs and Halo move to Activision sounded a bum note, but fall game season always brings joy",
-    "link": "https://www.polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/ace-combat-8.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-09-27T16:00:18+00:00"
-  },
-  {
-    "title": "Avengers: Endgame Encore's Success Sets The Stage For Doomsday",
-    "description": "Avengers: Endgame Encore beat Resident Evil, Primetime, and Heart of the Beast in theaters this weekend",
-    "link": "https://www.polygon.com/avengers-endgame-encore-box-office/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/steve-and-peggy-avengers-endgame.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-09-27T15:42:23+00:00"
-  },
-  {
-    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-    "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
-    "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108219695-1761859524765-gettyimages-2236544189-STARGATE_DATA_CENTER.jpeg?v=1790259549&w=1920&h=1080",
-    "pubDate": "2026-09-27T15:35:34+00:00"
-  },
-  {
-    "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
-    "description": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
-    "link": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/102978971-GettyImages-458697482.jpg?v=1789181305&w=1920&h=1080",
-    "pubDate": "2026-09-27T15:22:03+00:00"
   },
   {
     "title": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
@@ -245,74 +350,11 @@
     "pubDate": "2026-09-27T15:16:23+00:00"
   },
   {
-    "title": "The Real Budget Of Hideo Kojima's Physint Remains A Mystery",
-    "description": "It's unlikely that Kojima Productions' Physint has a budget of $400 million after Xbox decided to publsih it",
-    "link": "https://www.polygon.com/physint-budget-controversy/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/physint.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-09-27T14:43:45+00:00"
-  },
-  {
-    "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-    "description": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
-    "link": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
-    "pubDate": "2026-09-27T14:33:22+00:00"
-  },
-  {
     "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
     "description": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
     "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
     "pubDate": "2026-09-27T14:29:13+00:00"
-  },
-  {
-    "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-    "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg",
-    "pubDate": "2026-09-27T14:24:46+00:00"
-  },
-  {
-    "title": "Two mass shootings in South Africa leave 27 dead",
-    "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
-    "pubDate": "2026-09-27T14:09:22+00:00"
-  },
-  {
-    "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
-    "description": "The dispute over the controversial parade is a reminder that the peace process is not over.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf2e/live/10d4e110-ba76-11f1-8d03-cba75b2c1d34.jpg",
-    "pubDate": "2026-09-27T14:07:17+00:00"
-  },
-  {
-    "title": "Flying a Helicopter Is 2026’s Most Stressful Gaming Experience",
-    "description": "Being a helicopter pilot in Wardogs is ridiculously anxiety-inducing, and here's why.",
-    "link": "https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/wardogs-playtest-reactions.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-09-27T14:00:17+00:00"
-  },
-  {
-    "title": "Burnham proposes NHS-style social care system for England",
-    "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
-    "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c144/live/7dc7def0-ba65-11f1-b1d1-571ed4d7ff2c.jpg",
-    "pubDate": "2026-09-27T13:48:05+00:00"
-  },
-  {
-    "title": "Star Wars Episode 10 Has Found Its Director",
-    "description": "Jon Watts has come on board to direct Simon Kinberg's Star Wars movie, which is expected to be Star Wars: Episode 10",
-    "link": "https://www.polygon.com/star-wars-episode-10-director/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/epmikkglpgvelwdwdsgfkb.jpg?w=1200&h=675&fit=crop",
-    "pubDate": "2026-09-27T13:43:55+00:00"
-  },
-  {
-    "title": "Ten NHS staff removed over Noah Woods data breach",
-    "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
-    "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0867/live/18be96e0-ba36-11f1-a238-613d75ce6f97.jpg",
-    "pubDate": "2026-09-27T13:25:27+00:00"
   },
   {
     "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
@@ -369,13 +411,6 @@
     "link": "https://www.gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more/",
     "thumbnail": "",
     "pubDate": "2026-09-26T17:30:00+00:00"
-  },
-  {
-    "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-    "description": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
-    "link": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&w=1920&h=1080",
-    "pubDate": "2026-09-26T16:57:57+00:00"
   },
   {
     "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
@@ -441,13 +476,6 @@
     "pubDate": "2026-09-26T09:02:22+00:00"
   },
   {
-    "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-    "description": "A scrappy science project led to a significant discovery: two new species of a rare organism that could elucidate a fundamental transition in the history of life on our planet.",
-    "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-    "thumbnail": "",
-    "pubDate": "2026-09-26T09:00:52+00:00"
-  },
-  {
     "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
     "description": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
     "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -483,39 +511,11 @@
     "pubDate": "2026-09-25T22:17:38+00:00"
   },
   {
-    "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-    "description": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
-    "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-09-25T21:17:30+00:00"
-  },
-  {
-    "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-    "description": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks.",
-    "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D0WG4ZAYJTG27YA8SJYJ5F/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2-2.png",
-    "pubDate": "2026-09-25T20:37:21+00:00"
-  },
-  {
-    "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-    "description": "Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities regulator.",
-    "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
-    "pubDate": "2026-09-25T20:26:40+00:00"
-  },
-  {
     "title": "This Diablo 4 Trick Lets You Become Stronger Than Ever, But It Might Not Be Intended",
     "description": "Diablo 4 players are decking themselves out in full sets of Mythic Unique gear as part of Season 15, resulting in characters that are more powerful than ever before. Whether that was Blizzard's goal, or this is simply a mistake of some kind, is currently up for debate. It's about as big of a change from one season to the next that Diablo 4 has ever experienced. Back in Season 14, Blizzard added the \"crafted\" item tag to Mythic Uniques made via the Horadric Cube, Blacksmith, or Jeweler, with a limit of only one crafted Mythic being equippable at a time. Even if you had the Resplendent Sparks resource needed to make more Mythics, you couldn't use them. Instead, you had to rely on good old-fashioned luck to find natural Mythic drops without the crafted tag. The changes weren't popular, so Blizzard walked it back mid-season, and has made further improvements as part of the latest season, Hell's Legacy. Mythics made by the Blacksmith or Jeweler are no longer considered \"crafted,\" while ones made via the cube still are. Once again, players could have several Mythics of your own creation equipped at once, much like the previous seasons. However, for players with more sparks than they know what to do with, there is technically a way to get around the \"crafted\" tag. It takes combining three of the same Mythic Unique (not exactly an easy task) in the cube using the Recycle Uniques recipe, resulting in a new version of that same item. While the item will have all new stat rolls, the key here is that this recycled Mythic Unique won't have the \"crafted\" tag, letting players equip as many of them as they can create. The result is players running around with full sets of Mythic gear, something we've never seen before in Diablo 4. This would be a huge problem and could completely break the game in many ways, if it weren't harder to do than it sounds. https://www.youtube.com/watch?v=u9IHlOYCrbg Considering it costs 15 Resplendent Sparks to just create one Mythic Unique this way, it's definitely a huge time investment. To do this trick with all 12 gear slots would cost an enormous 180 Sparks, something that seems nearly impossible for an average player and would require an ungodly amount of grinding and farming. That hasn't stopped some of the game's most dedicated content creators from doing exactly that, however, as highlighted by Wudijo. Whether the ability to create non-crafted Mythic Uniques this way is an intentional choice on Blizzard's part or an oversight remains to be seen. Diablo 4's next update is slated for September 29, but the 3.2.2 patch notes make no mention of this trick and instead are mostly bug fixes. Overall, Season 15 seems to have been well-received by players after the largely unpopular Season 14. The season finally added Diablo to Diablo 4, as players relive past Prime Evil encounters from previous Diablo games and rub shoulders with none other than the legendary Deckard Cain. Diablo 4 won't receive new expansions going forward, but it is set to receive a new class, the Amazon, in the first half of next year. Meanwhile, Blizzard is hard at work on Diablo 5, set to release in 2029, and has already revealed three of its playable classes.",
     "link": "https://www.gamespot.com/articles/this-diablo-4-trick-lets-you-become-stronger-than-ever-but-it-might-not-be-intended/",
     "thumbnail": "",
     "pubDate": "2026-09-25T19:30:52+00:00"
-  },
-  {
-    "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-    "description": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.",
-    "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg",
-    "pubDate": "2026-09-25T18:56:53+00:00"
   },
   {
     "title": "Yes, Beyond Good &amp; Evil 2 Is Somehow Still In Development",
