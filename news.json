@@ -1,10 +1,381 @@
 [
   {
+    "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
+    "description": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
+    "link": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108249039-1767735279750-gettyimages-2254968033-dji_20260106114613_0557_d_iywbkfqk.jpeg?v=1790956803&w=1920&h=1080",
+    "pubDate": "2026-10-02T17:20:33+00:00"
+  },
+  {
+    "title": "Men are losing ground in the labor market. Here's why",
+    "description": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+    "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108368239-1790358451627-Over_50_Employers_Look_To_Hire_At_South_Florida_Jo-2297111592-Getty.jpg?v=1790959897&w=1920&h=1080",
+    "pubDate": "2026-10-02T17:12:19+00:00"
+  },
+  {
+    "title": "American starts letting customers mix cash and miles for tickets",
+    "description": "American is joining other carriers that allow customers to book with a combination of points and miles.",
+    "link": "https://www.cnbc.com/2026/10/02/american-airlines-tickets-cash-miles.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108310665-1784815439644-108310665-1779380007938-IMG_9160_1.jpg?v=1784815450&w=1920&h=1080",
+    "pubDate": "2026-10-02T16:49:55+00:00"
+  },
+  {
+    "title": "U.S. Labor Market Shifts to a Lower Gear",
+    "description": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.",
+    "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T16:40:17+00:00"
+  },
+  {
+    "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+    "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d36/live/09d5ba60-be7c-11f1-a64c-550be9e3c66b.jpg",
+    "pubDate": "2026-10-02T16:38:22+00:00"
+  },
+  {
+    "title": "How the Banco Master scandal injected chaos into Brazil’s presidential race",
+    "description": "Figures across Brazil's political spectrum have been linked to the scandal in the midst of a key election.",
+    "link": "https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-03-21T215143Z_56809845_RC279KA4K1HJ_RTRMADP_3_BRAZIL-POLITICS-1790914575.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-02T16:36:38+00:00"
+  },
+  {
+    "title": "Your health insurance premiums may take a big jump in 2027 — here's why",
+    "description": "Many consumers are likely on the hook for an increase of about 10% or more in 2027, experts said.",
+    "link": "https://www.cnbc.com/2026/10/02/health-insurance-premiums-2027-inflation-aca-obamacare.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108371886-1790953530561-gettyimages-2191871211-4045_30_2024_3720_ry.jpeg?v=1790953545&w=1920&h=1080",
+    "pubDate": "2026-10-02T16:26:57+00:00"
+  },
+  {
+    "title": "Riot police clash with students as education protests rage in France",
+    "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc31/live/6cb00130-be6e-11f1-8a45-cd59664d243b.jpg",
+    "pubDate": "2026-10-02T16:26:09+00:00"
+  },
+  {
+    "title": "Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters",
+    "description": "Taiwan’s Coast Guard used a water cannon to drive two Chinese fishing boats away from waters near the Dongsha Islands.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790958172.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-10-02T16:23:02+00:00"
+  },
+  {
+    "title": "10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
+    "description": "U.S. Treasury yields rose despite a September jobs report came in much weaker than expected.",
+    "link": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080",
+    "pubDate": "2026-10-02T16:21:51+00:00"
+  },
+  {
+    "title": "US job growth slows as unemployment rises before midterm elections",
+    "description": "The US economy added 29,000 jobs in September, with unemployment rising to 4.2 percent, according to Labor Department.",
+    "link": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfccd3e38b8-1790954707.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-02T16:20:46+00:00"
+  },
+  {
+    "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
+    "description": "A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.",
+    "link": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKMQ9ZKPKNFEAPV81NBPWJ/blockchainweek2020uk1.png",
+    "pubDate": "2026-10-02T16:20:24+00:00"
+  },
+  {
+    "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
+    "description": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
+    "link": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T16:17:19+00:00"
+  },
+  {
+    "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+    "description": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
+    "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108366830-1790952472171-108366830-1790172152390-gettyimages-2294263524-US_DIESEL.jpg?v=1790952480&w=1920&h=1080",
+    "pubDate": "2026-10-02T16:13:37+00:00"
+  },
+  {
+    "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+    "description": "World Food Programme warns of 'devastating' impact as conflict displaces thousands and cuts off food supplies.",
+    "link": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfcf7439000-1790955380.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-02T16:06:25+00:00"
+  },
+  {
+    "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
+    "description": "The possible selection comes amid increasing calls for the government to intervene in the rapidly developing technology.",
+    "link": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abfc8d1a1b8-1790953681.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-02T16:06:15+00:00"
+  },
+  {
+    "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
+    "description": "US university Cornell’s handling of sexual assault allegations is under scrutiny.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/thumbnail_H-1790956853.png?resize=1200%2C630",
+    "pubDate": "2026-10-02T16:02:39+00:00"
+  },
+  {
+    "title": "Alison Hammond has heart check-up in hospital after leaving TV's This Morning",
+    "description": "The host says she is \"fine\" but getting checked after leaving midway through Friday's This Morning.",
+    "link": "https://www.bbc.co.uk/news/articles/c60rlwgx9n9go?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92f/live/140bc0a0-be7d-11f1-8a45-cd59664d243b.jpg",
+    "pubDate": "2026-10-02T16:00:18+00:00"
+  },
+  {
+    "title": "In 5 Years, Will Netflix Still Be In Gaming? Here’s What The CEO Said",
+    "description": "Netflix has been experimenting with video games for a while, but is the streaming giant going to eventually drop out of gaming? That's the question Bloomberg's Lucas Shaw put to Netflix co-CEO Ted Sarandos at the Screentime event this week. Regarding whether Netflix will still host games in five years, Sarandos said, \"I think so.\" He said Netflix's push into mobile gaming was \"a gateway to cloud gaming,\" which is something Netflix is \"much more interested in.\" https://www.youtube.com/watch?v=1lsV9I2NDO8 Netflix hosts a variety of mobile games, including Red Dead Redemption, Sonic Mania Plus, and RollerCoaster Tycoon Touch, just to name a few. The games are included with a Netflix membership and have no ads. Netflix also hosts streaming games that can be played on your TV, and they are more family- and party-focused. Netflix's gaming ambitions have bounced around over the years. At one point, the company wanted to make big, AAA games, and hired some big names to get it done. However, Netflix later wound down these efforts, closing studios and laying off staff in the process, leading many to wonder what Netflix's ambition for video games actually was. Sarandos said cloud gaming makes more sense for Netflix \"in a post-console world.\" He didn't elaborate here, but it sounds like he's talking about a future where more and more people play games without dedicated hardware like a PlayStation, Xbox, or Switch console. All of those systems have gone up in price in recent times due to AI-fueled component and memory issues, along with bigger global macroeconomic trends. The cloud gaming market hasn't popped the way some have predicted, but Sarandos isn't the only person who is optimistic about the future potential. Strauss Zelnick, the head of GTA 6 owner Take-Two recently said, \"I think we'll be in commercial streaming mode within three years.\" Sarandos said there will be \"all kinds of opportunities for gaming on the television,\" and the executive said Netflix wanted to be \"early invested in that.\" \"I like it for IP extension. I certainly like it for brand value, for people who want to spend time on that screen gaming instead of watching, then we have an option for them,\" he said. Also in the interview, Sarandos was asked if Netflix would again reach into its coffers to buy a large-scale gaming company to help its gaming ambitions become realized faster. The interviewer asked if Netflix could buy Take-Two or Xbox, and Sarandos said it doesn't have any specific plans to buy more gaming studios, though he's not ruling anything out either. For what it's worth, Xbox CEO Asha Sharma recently said Xbox is not for sale, while Take-Two selling itself would be shocking. Sarandos said Netflix prefers to grow organically instead of buying companies to spur growth. Of course, this isn't a hard-and-fast rule, as evidenced by Netflix offering to buy Warner Bros. Discover for many billions of dollars before Paramount swooped in and made a deal. He said Netflix went after WBD because the company was \"so clean\" and contained only the elements and assets of the business that Netflix actually wanted, and that was rare. Netflix will look at other opportunities to buy game studios if they complement the company's wider business goals, Sarandos said. In other news about cloud gaming, Microsoft has reportedly canceled its new controller for it, ahead of price hikes to the service soon. Netflix has also said it's still very early days for its gaming output, saying the company has “tons more work to do.\" Netflix's financial investment in gaming is minuscule relative to its other business areas, and management sees gaming as a \"significant market opportunity.\" Netflix investors no doubt want to see Netflix find new ways to make money; after all, Netflix stock has crashed more than 25% in 2026 so far.",
+    "link": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T15:55:59+00:00"
+  },
+  {
+    "title": "LIVE: France vs Italy – UEFA Nations League",
+    "description": "Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T182248Z_1719992520_UP1EMA21F1YR3_RTRMADP_3_SOCCER-UEFANATIONS-FRA-ITA-1790966171.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-02T15:45:55+00:00"
+  },
+  {
+    "title": "Truckers Are ‘Just Trying to Hang On’ When a Fill-Up Tops $1,000",
+    "description": "Truckers are among the hardest hit by the soaring cost of diesel fuel. High prices are forcing some to stay on the road for months and others to park their rigs.",
+    "link": "https://www.nytimes.com/2026/10/02/us/truckers-diesel-costs.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T15:43:20+00:00"
+  },
+  {
+    "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+    "description": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
+    "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T15:43:17+00:00"
+  },
+  {
+    "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal with Scotland",
+    "description": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay.",
+    "link": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7d2/live/0c2648d0-be76-11f1-8a45-cd59664d243b.jpg",
+    "pubDate": "2026-10-02T15:40:31+00:00"
+  },
+  {
+    "title": "Why U.S. Diesel Is So Important to Major Trading Partners",
+    "description": "Economies in Latin America and Europe rely on American diesel. Stopping exports could tip some countries into recession, hurting trade with the United States.",
+    "link": "https://www.nytimes.com/2026/10/02/world/americas/us-diesel-ban-trump-mexico-europe-brazil.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T15:39:08+00:00"
+  },
+  {
+    "title": "Crypto’s billions are back, but the premiums aren’t",
+    "description": "Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.",
+    "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKXXV4WP8TTTRPX217ZDQQ/bitcoin-investment-pump-1.jpg",
+    "pubDate": "2026-10-02T15:32:53+00:00"
+  },
+  {
+    "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+    "description": "Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs.",
+    "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YJCPAEGNQQMRKZHXC717XH/hi-bitcoins-hidden-messages-bitcoin-price-960x640.webp",
+    "pubDate": "2026-10-02T15:27:31+00:00"
+  },
+  {
+    "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
+    "description": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately.",
+    "link": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T15:25:05+00:00"
+  },
+  {
+    "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
+    "description": "Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes.",
+    "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328219-1782751789876-gettyimages-2279484892-64393_48_ms_4772.jpeg?v=1782751835&w=1920&h=1080",
+    "pubDate": "2026-10-02T15:20:29+00:00"
+  },
+  {
+    "title": "London Fire Brigade named in Met's evidence file on Grenfell fire",
+    "description": "The brigade is among 20 organisations the police have compiled evidence against since 2017.",
+    "link": "https://www.bbc.co.uk/news/articles/crz98wpqglkeo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/77854e50-be67-11f1-b36c-81ad410b221e.jpg",
+    "pubDate": "2026-10-02T15:09:18+00:00"
+  },
+  {
+    "title": "Watch: Why students in France are protesting",
+    "description": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
+    "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde5/live/ed9f2d90-be71-11f1-a64c-550be9e3c66b.jpg",
+    "pubDate": "2026-10-02T15:02:15+00:00"
+  },
+  {
+    "title": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
+    "description": "Both decrees to tackle housing affordability crisis shot down as critics say measures would tighten the housing market.",
+    "link": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfbcdbce297-1790950619.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-02T15:01:08+00:00"
+  },
+  {
+    "title": "Sony’s Revised PS5 Slim Could Be Getting Cheaper To Make, But Not To Buy",
+    "description": "It looks like Sony has quietly revised the PS5 console once again, with new internal changes across the (mother)board. It's not clear when these new models came into service, but they seem to have entered circulation around the same time Sony released limited-edition Marvel's Wolverine PS5 consoles. Spotted by Modyfikator89, longevity and repairability appear to be the key areas that Sony has focused on. The redesigned motherboard offers easier access to the CR2023 battery, the streamlined internal layout makes repairs less risky, and the hardware takes a page from the PS5 Pro playbook with refined liquid-metal containment and revised heatsink materials. In theory, the updated barrier around the processor die should keep the liquid metal better contained over time, ensuring stable thermal transfer performance even under intensive loads. https://twitter.com/Modyfikator89/status/2105382987755814984 Sony has also moved to a newer, lower-cost HDMI retimer chip, which likely cuts down bill-of-materials costs and improves display signal stability. Overall, this will likely lower production costs while maintaining higher assembly yields, at a time when sourcing components has become more challenging. Companies routinely make stealth revisions to cut manufacturing costs, but unlike previous console generations that shrank and became cheaper over time, the PS5 has only gotten more expensive since it launched in November 2020. When it first launched, the entry-level PS5 Digital Edition had an MSRP of $400, but in 2026, you can expect to pay $600 for one. The base model PS5 with a disc drive has increased from $500 to $650, while the PS5 Pro has shot up from $700 to $900. Sony is aiming to make the PS5 a better value proposition as it heads into the lucrative holiday season, after recently launching a new AI-upscaling technology for its base-model PS5s. Only two of its exclusive games support it currently--Marvel's Wolverine and Ghost of Yotei--and the technology will be released to more developers soon. By enabling the base PS5 to deliver sharper visuals through Quick Spectral Super Resolution, Sony offers a visual upgrade in select games without having to splash out on the more expensive PS5 Pro.",
+    "link": "https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T14:17:50+00:00"
+  },
+  {
+    "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
+    "description": "Macron says G7 will release 100 million barrels over four months; diesel release to be 'frontloaded'.",
+    "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6abfbce8ae8a-1790950632.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-02T14:14:18+00:00"
+  },
+  {
+    "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+    "description": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
+    "link": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YC9K50TRYWAJRWVJW83TNN/euro-and-dollar-characters-1.png",
+    "pubDate": "2026-10-02T14:12:48+00:00"
+  },
+  {
+    "title": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
+    "description": "It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.",
+    "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108269226-17719528722025-12-12t004427z_472690380_rc2ybia27vet_rtrmadp_0_usa-trump-kennedy-center.jpeg?v=1790963698&w=1920&h=1080",
+    "pubDate": "2026-10-02T14:05:29+00:00"
+  },
+  {
+    "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+    "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ef/live/da6012e0-be70-11f1-a64c-550be9e3c66b.png",
+    "pubDate": "2026-10-02T14:01:09+00:00"
+  },
+  {
+    "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
+    "description": "Parton's niece Jada Star and Welsh singer Bronwen Lewis say the country artist was proud to sing in Welsh.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07c1/live/0f993500-be61-11f1-b36c-81ad410b221e.jpg",
+    "pubDate": "2026-10-02T14:00:38+00:00"
+  },
+  {
+    "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
+    "description": "Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan.",
+    "link": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfa7fd657af-1790945277.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-02T13:53:24+00:00"
+  },
+  {
+    "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
+    "description": "The IRS and Treasury issued a warning this week on an ETF strategy wealthy investors have been using to shield capital gains income from taxes.",
+    "link": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108366941-17901794762026-09-23t160042z_1309580215_rc24pnadya0l_rtrmadp_0_usa-china-bessent-he.jpeg?v=1790182158&w=1920&h=1080",
+    "pubDate": "2026-10-02T13:48:40+00:00"
+  },
+  {
+    "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+    "description": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+    "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108368238-1790358261069-gettyimages-2297111436-jr_18591_wq7j0ohd.jpeg?v=1790358312&w=1920&h=1080",
+    "pubDate": "2026-10-02T13:45:58+00:00"
+  },
+  {
+    "title": "Why Prosecutors May Face Legal Hurdles in the Cornell Investigation",
+    "description": "Experts in sexual assault cases said it may not be easy to win a conviction on the rape allegations that Jane Doe has made against fraternity members.",
+    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T13:41:12+00:00"
+  },
+  {
+    "title": "NBA’s Miami Heat Will Wear GTA 6 Jerseys And Play On A Branded Court The Day Before Release",
+    "description": "The NBA's Miami Heat have announced that they will wear GTA 6-inspired jerseys when they host the Milwaukee Bucks on November 18, a day before the game releases. Additionally, the game will take place on a \"never-before-seen court,\" and it'll be inspired by GTA 6 and Vice City. The Heat play at the Kaseya Center in Miami, which was recently adorned with \"Vice City\" signage, airlifted in by helicopter. The game will air on ESPN on November 18. Tickets are on sale now. https://twitter.com/MiamiHEAT/status/2106007519545974792 There will also be \"special activities\" and \"unique game night activations\" on November 18 that the team will detail later. The new Heat jerseys and court design will also be revealed later. As for what's available now, the Heat have rolled out a \"Vice City Collection\" of merch, including a $55 t-shirt that says, \"Went to Vice City and all I got was this lousy t-shirt\" and a $45 shirt that says, \"I love Vice City.\" You can see the full collection at the Heat's online store. The November 18 matchup is also notable because Heat star Giannis Antetokounmpo is playing against his former team, the Bucks, where he had spent his entire career until this season. Rockstar is spending big money to advertise GTA 6 in Miami, and some local officials have expressed concerns. GTA 6 launches on November 19 for PS5 and Xbox Series X|S. The game has reportedly already sold close to 6 million copies, generating more than $570 million in pre-sales. Also this week, Rockstar revealed that GTA 6 will have more than 170 animal species, including cane toads and monkeys. We also learned that GTA 6 has a new dynamic weather system.",
+    "link": "https://www.gamespot.com/articles/nbas-miami-heat-will-wear-gta-6-jerseys-and-play-on-a-branded-court-the-day-before-release/",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T13:38:28+00:00"
+  },
+  {
+    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+    "description": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
+    "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V8TZXTY569YW4G499PZ1BJ/magazine-bi-weekly-cybersecurity2.jpg",
+    "pubDate": "2026-10-02T13:30:00+00:00"
+  },
+  {
+    "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
+    "description": "It is incumbent upon us to continue Commissioner Peirce’s mission, writes Will Schwartz, policy associate at the Blockchain Association.",
+    "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/d74fff0a557caad0b099c56a8e403b375c1441b3-8192x5464.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-10-02T13:22:19+00:00"
+  },
+  {
+    "title": "Blizzard Might Finally Be Serious About WoW: Forever Gold Buying, Bans Streamer For Promoting It",
+    "description": "A prominent World of Warcraft: Forever streamer has been banned following comments made on stream encouraging his viewers to buy gold on his behalf. Forever, which is currently in beta ahead of the MMORPG's full launch in November, is currently mired in a gold buying and real-money transaction (RMT) controversy. Players buying gold from third-party websites that use bots to farm the game's primary currency has been a problem for the entirety of WoW's existence and has always been against the game's terms of service. What's changed is that developer Blizzard has made comments that it's looking to more aggressively punish gold buyers in Forever, even going as far to admit its been too \"lenient\" on the matter in the past. That more hardline stance against gold buyers was put to the test earlier this week when WoW: Forever streamer Ziqo was seen on stream accepting suspiciously large amounts of gold from strangers in the lead-up to a $100,000 prize pool PvP tournament he and many other streamers will be competing in. Given the huge sums of gold being traded, many believed there was little chance the gold had been acquired naturally through farming and was likely bought by a third party and then given to Ziqo as a gift. https://youtu.be/dvueCoFTkCk?si=YqPAFYzvWt5J5WiC Almost immediately, the Forever community was up in arms demanding Blizzard take action. In a forum post seemingly issued in response to the Ziqo controversy, Blizzard stated that it would increasingly punish not only gold sellers, its standard practice, but also those buying the gold. In addition, accounts accepting large amounts of questionable gold could also be punished by having the illicit gold removed, their account suspended, or even permanently banned. Blizzard encouraged players not to accept \"suspicious\" transactions to avoid these consequences. Even if Ziqo wasn't the buyer, according to Blizzard's own words, he could in theory be punished for taking what many viewed to be ill-gained gold. That same gold in question was later removed from Ziqo's account by Blizzard, though the streamer was not banned or suspended, as many players called for. https://www.reddit.com/r/classicwow/comments/1wtnmfr/i_never_hid_the_fact_that_i_wanted_my_chat_to_buy/?share_id=zh96vvQnxd9xojUBRfqN7&amp;utm_content=share_button&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_source=share&amp;utm_term=1 The same can't be said for another WoW streamer looking to participate in the game's upcoming tournament, Payo. Amidst the Ziqo drama, Payo said on stream he hadn't been shy about the fact he is more than okay with members of his community buying gold on his behalf. \"I never hid the fact I want my chat to use their credit cards to fill my bags,\" Payo said on stream. Those comments look to have caught Blizzard's ire, as it was only a few days later that Payo's account had been banned from the game. He has since apologized and said he's never bought gold personally. He said he was \"happy\" about the ban, because it shows Blizzard is serious about the RMT problem. Though his main account was banned, Payo was not banned permanently and was allowed to create another account and continue streaming Forever. \"I learned from my mistake, and I will never ever promote gold buying again, that's for sure,\" Payo said. https://www.youtube.com/watch?v=XKtc_UCcmZA In the wake of Payo's ban, Blizzard issued another warning shot of a forum post. Community manager Kaivax in a post on October 1 said Blizzard has continued to take action against botting accounts and those who have bought or \"knowingly received illicit gold.\" In addition, Kaivax announced Blizzard will be adding a warning to Forever that will appear when trading with strangers. The warning that will appear is as follows: \"Be wary of accepting gold from unknown or suspicious sources. If the provider is engaged in Real Money Transactions, you could put your account at risk of closure.\" Kaivax concludes by making Blizzard's stance on RMT \"crystal clear:\" \"Any account belonging to any player that is found to have participated in generating, selling, buying, or receiving illicit gold is subject to the gold being removed, account suspensions, or permanent account closers.\" Some players on places like the WoW Classic subreddit are still skeptical. Blizzard has always talked a big game about banning bots, for example, but as any WoW Classic player can tell you, botting is still a major issue. More than a few in the community point to the fact that Payo and Ziqo weren't permanently banned as Blizzard still being too lenient, especially towards streamers. For others, Blizzard going as far as adding an actual in-game warning about the dangerous consequences of engaging with RMT is a major escalation in the war against gold buyers and sellers. \"Players are being given plenty of warning,\" user Dessiato said in a post discussing Kaivax's forum post. \"I look forward to the reckoning.\" Whether Blizzard lives up to its word remains to be seen, but there's no doubt the Forever beta is putting WoW in the spotlight in a way that hasn't been seen since the launch of WoW Classic in 2019. Blizzard developers have commented that the Forever beta is breaking records, with the Forever beta population cap needing to be raised multiple times since its launch on September 17. The beta, which requires the purchase of the $60 Skyborne Heroic pack in order to gain access, will run until October 21. WoW: Forever launches in full November 4.",
+    "link": "https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T13:13:31+00:00"
+  },
+  {
+    "title": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
+    "description": "One juicy gaming rumor that continues to swirl is that The Walt Disney Company could buy Epic Games and Fortnite. It remains to be seen if such a deal may materialize, and now a top boss at the House of Mouse has directly responded. Speaking at Bloomberg's Screentime event this week, Disney executive Dana Walden reminded everyone that Disney already invested more than $1.5 billion into Epic for an equity stake. But could talks progress to a full acquisition? \"Those are not the conversations we're having right now,\" Walden said. \"But we have a great partnership.\" Disney and Epic are working together to create “transformational” new games. So far, they have showed up in Fortnite in a variety of ways, including the recent integration of Fortnite at Disney's real-world parks. https://www.youtube.com/watch?v=Yf2bRcSIUsE Walden said people can look forward to even more to come in the next few years. \"A number of launches coming up over the next two years ... are going to demonstrate the value of this partnership,\" she said. Kevin Mayer–a former Disney and TikTok executive who now runs Candle Media–said Disney's new CEO, Josh D’Amaro, will need to take “bold steps” to help Disney make more money and grow its stock price. One part of this could be buying Epic Games or another game studio, he said. Technology reporter Alex Heath recently said on Matthew Belloni’s podcast, The Town, that he knows “for a fact” that some senior executives at Disney want to buy Epic Games and are waiting for the right moment. Other executives at Disney believe it would be a bad idea, Heath said. Epic Games is a founder-controlled company, with CEO Tim Sweeney retaining full voting stock control. He has the ability to make unilateral decisions to control and secure Epic's future. Epic would not be Disney’s first potential acquisition target. In 2023, it was reported that Disney was interested in pursuing a purchase of Electronic Arts, but nothing ever came of that, and now EA has been sold to Saudi Arabia's PIF. Beyond Disney's investment in Epic for Fortnite, some of Disney's shows, like The Mandalorian, use Epic’s Unreal Engine to project scenes onto LED screens surrounding the physical set. D'Amaro is a big believer in video games and has said he wants to do more in gaming going forward. Wall Street is looking for some kind of catalyst for Disney's stock, and many have said further investments into tech and gaming could be a way to help get Disney's stock price out of its 10-year slump. Disney stock exploded during COVID, but is actually lower today than it was a decade ago. D'Amaro has floated numerous ideas for further Disney integration into Fortnite, including giving players the ability to book Disney cruises or watch a Disney movie on the platform. Fortnite is a big push from Disney in gaming, but it's just one small piece. Disney today has nine gaming franchises that have individually earned more than $1 billion.",
+    "link": "https://www.gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games/",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T13:08:05+00:00"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "pubDate": "2026-10-02T13:00:00+00:00"
+  },
+  {
+    "title": "The Street Fighter Movie’s Most Obscure Easter Egg Is For True Fighting Game Nerds",
+    "description": "Ahead of its release later this month, marketing for the Street Fighter movie has focused on deep references to the long-running fighting game series. How deep? We already knew that fighting game legend Justin Wong--alongside Michael \"IFC Yipes\" Mendoza--was making a cameo as one of the inmates who watches Ryu take on Blanka in a prison fight, but even his prisoner costume hides one heck of an Easter egg. Any fighting game fan will instantly recognize it: on Wong's neck, you can spot the number 37, a reference to the legendary Evo Moment 37. In a new behind-the-scenes video, Wong detailed the time he spent on the Street Fighter movie set getting fake dirt and dressing up for his cameo. If you're unfamiliar with the significance of the fake 37 tattoo his character sports, it's a deep-cut nod to what many consider one of the greatest fighting game comebacks in history. Back in 2004, Wong faced off against Daigo Umehara, and with his chosen brawler, Chun-Li, down to just a sliver of health and backed into a corner, Wong parried over a dozen attacks from Umehara's Ken Masters and found the perfect window to counter the onslaught. https://youtu.be/ssipFrggf58 It's a moment that has yet to be equaled within the fighting game community, with the clip earning an obscene number of views over the decades. This is just the tip of the iceberg when it comes to the accuracy the Street Fighter movie is aiming for, as the film embraces the unique look of the Capcom games with its choice of costumes, special attacks, and goofy hairstyles that double as the perfect popcorn bucket. Chun-Li actress Callina Liang even went the extra mile to get into fighting shape for the movie, focusing on conditioning her thighs to look impressively muscular and memorizing Chun-Li's various attacks. On the audio side, composers Leo Birenberg and Zach Robinson (Cobra Kai) have even used classic video game soundtracks for the film's score, including a new version of Guile's theme that fits everything. Street Fighter hits theaters on October 16. Street Fighter Movie: Release Date, Cast, And Everything We Know So Far View Images",
+    "link": "https://www.gamespot.com/articles/the-street-fighter-movie-most-obscure-easter-egg-is-for-true-fighting-game-nerds/",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T12:45:47+00:00"
+  },
+  {
+    "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+    "description": "Bitcoin held earlier gains following the report, up more than 2% over the past 24 hours and just below $87,000.",
+    "link": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/59dd9a8001cc0c11ecbde288ea682dea99b4da1e-1920x1080.png?auto=format&q=75",
+    "pubDate": "2026-10-02T12:31:53+00:00"
+  },
+  {
+    "title": "Activision Could Be Giving Halo Something It Hasn’t Had In Years: A Clean Slate",
+    "description": "Halo has a new home at Activision following recent changes at Xbox, and while it's still early days, Activision has reportedly proposed a total reboot for the series. This would be a fresh start, moving away from the convoluted Halo lore built up over the last 25 years through various games and spin-off media. That's according to sources who spoke to Rebs Gaming, who also stressed that nothing is concrete right now. Call of Duty developer Sledgehammer Games presented conceptual prototypes for a free-to-play multiplayer game and a story campaign built in the Infinity Ward engine, and it's believed the studio will lead development. \"Activision is building a development team for the next Halo game, and based on my information, that team could be built within Sledgehammer Games. I'm also told they created the prototypes in the Infinity Ward engine. This doesn't confirm the game will be developed in Call of Duty's engine instead of Unreal Engine, but the prototypes indicate it's definitely possible. Apparently, Activision's idea for the campaign project was a soft reboot that doesn't follow Halo Infinite's story, but also doesn't retcon established canon,\" Rebs Gaming said. \"However, it sounds like plans are changing. I'm told they discarded their original project ideas for a full Halo game.\" https://youtu.be/wPWqTRrCgX0 Rebs Gaming added that this means a sequel to Halo Infinite is unlikely and that \"at least some of Halo's story\" will be rebooted. One major criticism of Halo after its original developer, Bungie, left the franchise and handed it over to 343 Industries/Halo Studios was that the franchise shifted away from telling standalone stories. Halo books and media were supplementary material that added to the franchise, but weren't essential to the overall narrative. But with Halo Studios, there was a period of mandatory homework for fans as novels, comics, and spin-off games featured crucial plot points and new characters. For example, the Forerunner history in Halo 4 and the appearance of Blue Team in Halo 5 required outside reading to understand what was going on, while later games jettisoned major villains like the Didact and Jul 'Mdama, resulting in a messy lore with abrupt resets. In related Halo news, former franchise director Frank O’Connor offered plenty of advice to Activision as it builds the new game, including pitfalls it should avoid.",
+    "link": "https://www.gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate/",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T12:26:54+00:00"
+  },
+  {
+    "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+    "description": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
+    "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
+    "pubDate": "2026-10-02T12:25:56+00:00"
+  },
+  {
+    "title": "Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack",
+    "description": "Capt. Smit Machchhar, who was stabbed by his co-pilot midair between Dubai and Tel Aviv, said he “had to act” to prevent a crash despite serious injuries.",
+    "link": "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-02T12:16:54+00:00"
+  },
+  {
     "title": "Star Wars: Galactic Racer is the Best Arcade Racing Game in a Generation",
     "description": "The PS5, Xbox, and PC game blends roguelikes with Burnout, Wipeout, and F-Zero to brutal and brilliant effect",
     "link": "https://www.polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/swgr_pr_10.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-10-02T12:00:15+00:00"
+  },
+  {
+    "title": "Woman who killed abusive partner has murder conviction overturned",
+    "description": "The Court of Appeal ruled that jurors were misdirected on Julie Ann McIlwaine's loss of control defence to the killing of James Joseph Crossley.",
+    "link": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6574/live/b1276cb0-be53-11f1-babe-4199b0e7ccea.jpg",
+    "pubDate": "2026-10-02T11:52:00+00:00"
   },
   {
     "title": "Evil Dead and Get Out Directors Will Bring Another Internet Horror Sensation to the Big Screen",
@@ -14,11 +385,25 @@
     "pubDate": "2026-10-02T11:43:18+00:00"
   },
   {
-    "title": "Big Pharma turns to China for new drugs as patent cliff drives multibillion-dollar deals",
-    "description": "Western biopharma companies are increasingly turning to China to source innovation, as pharma's dreaded \"patent cliff\" draws closer.",
-    "link": "https://www.cnbc.com/2026/10/02/novartis-abogen-china-biotech-deal.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108328514-1782803221665-gettyimages-2152722520-dsc00854.jpeg?v=1782803282&w=1920&h=1080",
-    "pubDate": "2026-10-02T11:18:16+00:00"
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "description": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
+    "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
+    "pubDate": "2026-10-02T11:40:21+00:00"
+  },
+  {
+    "title": "Cboe wants to turn VIX into a never-ending trade",
+    "description": "Your day-ahead look for Oct. 2, 2026",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-10-02T11:30:00+00:00"
+  },
+  {
+    "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
+    "description": "Bond yields also suffered a major whipsaw, turning higher by the afternoon after early declines.",
+    "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e906bed335a93dcf38345b8e9962795bae610591-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-10-02T11:22:40+00:00"
   },
   {
     "title": "New Pokémon Merch Is Literally out of This World",
@@ -35,39 +420,11 @@
     "pubDate": "2026-10-02T11:00:15+00:00"
   },
   {
-    "title": "Burger King is betting on local franchisees to fuel its U.S. comeback",
-    "description": "Burger King is refranchising hundreds of its company-owned restaurants as part of its turnaround, while prioritizing local operators.",
-    "link": "https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108346884-1786133357383-gettyimages-2274828794-_73a1058_97frlf1o.jpeg?v=1786134020&w=1920&h=1080",
-    "pubDate": "2026-10-02T11:00:01+00:00"
-  },
-  {
-    "title": "Why Prosecutors May Face Legal Hurdles in the Cornell Investigation",
-    "description": "Experts in sexual assault cases said it may not be easy to win a conviction on the rape allegations that Jane Doe has made against fraternity members.",
-    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-02T10:58:00+00:00"
-  },
-  {
-    "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
-    "description": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d82/live/328104a0-bd9c-11f1-a64c-550be9e3c66b.jpg",
-    "pubDate": "2026-10-02T10:47:07+00:00"
-  },
-  {
-    "title": "The secret signs the bond sell-off might be ending",
-    "description": "A big options bet involving the utility sector could indicate a top in yields.",
-    "link": "https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108370318-1790781020672-Traders-Photo-20260929-KK-PRESS-002.jpg?v=1790781195&w=1920&h=1080",
-    "pubDate": "2026-10-02T10:37:26+00:00"
-  },
-  {
-    "title": "Protests disrupt Ireland football match with ‘Palestine tennis balls’",
-    "description": "Protesters interrupted Ireland’s match against Austria with tennis balls and Palestine flags.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-sv-ireland-austria-game-tennis-balls-ie?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790937349.jpg?resize=1512%2C1080&quality=80",
-    "pubDate": "2026-10-02T10:35:21+00:00"
+    "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+    "description": "Strategy’s scale and cash reserves give it an edge over treasury rivals, according to Saifedean Ammous, author of “The Bitcoin Standard.”",
+    "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y0CB1X2FGXJEE6QVA6ZCTS/saifedean-ammous.png",
+    "pubDate": "2026-10-02T10:54:33+00:00"
   },
   {
     "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
@@ -84,62 +441,6 @@
     "pubDate": "2026-10-02T10:29:35+00:00"
   },
   {
-    "title": "How can Jordan respond to Israel’s escalation across the West Bank?",
-    "description": "Settlement expansion, displacement and growing Israeli control would have direct consequences for Jordan.",
-    "link": "https://www.aljazeera.com/opinions/2026/10/2/how-can-jordan-respond-to-israels-escalation-across-the-west-bank?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abf83d4a560-1790936020.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-02T10:17:23+00:00"
-  },
-  {
-    "title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway",
-    "description": "Nike's shares plummeted in premarket trading, continuing a second straight day of declines after it reported falling revenue and plans to lay off staff.",
-    "link": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108368266-1790359794492-gettyimages-2279041096-img_9363.jpeg?v=1790359907&w=1920&h=1080",
-    "pubDate": "2026-10-02T10:11:09+00:00"
-  },
-  {
-    "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
-    "description": "By the end of November, three US aircraft carriers and two amphibious landing groups will be positioned near Iran.",
-    "link": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-14T195145Z_1967065111_RC21HNAPZ3Q6_RTRMADP_3_IRAN-CRISIS-USS-GEORGE-WASHINGTON-1789438354.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-02T10:06:21+00:00"
-  },
-  {
-    "title": "'Dark cloud' hangs over Cornell campus as anger at frat rape investigation grows",
-    "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d63/live/bac2f6c0-be4b-11f1-babe-4199b0e7ccea.jpg",
-    "pubDate": "2026-10-02T10:00:24+00:00"
-  },
-  {
-    "title": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments",
-    "description": "Plus, the Friday news quiz.",
-    "link": "https://www.nytimes.com/2026/10/02/podcasts/voters-abandoning-trump-new-cancer-treatments.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-02T10:00:14+00:00"
-  },
-  {
-    "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-    "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108266487-1771358653704-gettyimages-2262167514-emaz-1_em21067.jpeg?v=1790895472&w=1920&h=1080",
-    "pubDate": "2026-10-02T10:00:01+00:00"
-  },
-  {
-    "title": "Democratic Texas AG candidate vows to probe Deloitte's role in voter registration delay",
-    "description": "Texas is working through a backlog of nearly 200,000 unprocessed voter registration applications, thanks to a software error involving state contractor Deloitte.",
-    "link": "https://www.cnbc.com/2026/10/02/texas-ag-deloitte-voter-registration.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108371155-1790872250651-gettyimages-2229995371-quorum_break_mlc_1445.jpeg?v=1790892841&w=1920&h=1080",
-    "pubDate": "2026-10-02T10:00:01+00:00"
-  },
-  {
-    "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-    "description": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
-    "link": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1fd/live/edad3980-0012-11f1-a8b8-bdd2c5f9bcad.jpg",
-    "pubDate": "2026-10-02T09:51:23+00:00"
-  },
-  {
     "title": "GTA 6 Rating Officially Confirms Sex Will Indeed Be in the Game",
     "description": "Grand Theft Auto 6 has received its rating across several countries, giving players interesting information about its explicit content.",
     "link": "https://www.polygon.com/grand-theft-auto-gta-6-sex-scenes-rating-mature/",
@@ -147,158 +448,32 @@
     "pubDate": "2026-10-02T09:40:20+00:00"
   },
   {
-    "title": "Bitcoin reaches for $87K as short liquidations top $120M",
-    "description": "Bitcoin buyers broke through a wall of ask liquidity to reach new October BTC price highs near $87,800, with the area immediately above now a new resistance hurdle.",
-    "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVAAGW8Q0D84XWS8J7794K/behind-bitcoins-1k-bounce-1-1280x853.webp",
-    "pubDate": "2026-10-02T09:37:06+00:00"
-  },
-  {
-    "title": "Oil prices fall over 3% on report of potential diesel, crude stock release; Brent back below $100",
-    "description": "It comes after Reuters reported that EU nations were discussing a proposal to release diesel reserves following pressure from the Trump administration.",
-    "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108369309-1790685904761-gettyimages-2297099853-US_DIESEL.jpeg?v=1790685980&w=1920&h=1080",
-    "pubDate": "2026-10-02T09:34:33+00:00"
-  },
-  {
-    "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-    "description": "Aave founder Stani Kulechov said Aave v3 was unaffected after an attacker exploited a third-party adapter to drain about $305,000 from two Safe multisig wallets.",
-    "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png",
-    "pubDate": "2026-10-02T09:30:49+00:00"
-  },
-  {
-    "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-    "description": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival.",
-    "link": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4eb/live/28f7e520-be28-11f1-bc2e-018d645d8d21.jpg",
-    "pubDate": "2026-10-02T09:28:32+00:00"
-  },
-  {
-    "title": "NBA closes sole Africa training academy in blow to young players",
-    "description": "NBA says its focus is on new global academy opening in Abu Dhabi as Africa, Mexico and Australia hit by closures.",
-    "link": "https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6abf67af-1790928816.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-02T09:26:14+00:00"
-  },
-  {
-    "title": "Arab party leader forced to withdraw from Israeli elections",
-    "description": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
-    "link": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abf09742cf6a-1790904692.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-02T09:25:23+00:00"
-  },
-  {
-    "title": "Manchester City to launch appeal as financial breach fallout grows",
-    "description": "Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.",
-    "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-30T193552Z_1656494468_RC2STNA197GJ_RTRMADP_3_SOCCER-ENGLAND-MCI-1790930659.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-02T09:24:48+00:00"
-  },
-  {
-    "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
-    "description": "Israel’s top court told Palestinian politician Sami Abu Shehadeh to withdraw from the election or face disqualification.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790932977.jpg?resize=1638%2C1080&quality=80",
-    "pubDate": "2026-10-02T09:24:39+00:00"
-  },
-  {
-    "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
-    "description": "Porsche is winding down its Web3 project and Pioneers Circle community as trading activity in its 911 NFT collection falls sharply from early levels.",
-    "link": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg",
-    "pubDate": "2026-10-02T09:18:52+00:00"
-  },
-  {
-    "title": "Why rising perpetual funding rates signal growing bullish leverage as bitcoin crosses $86,500",
+    "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
     "description": "Rising open interest and funding rates signal renewed demand for bullish bitcoin exposure.",
     "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/26c6dd7dda161d93ae92859dbd66ad026ff0ee53-2752x978.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
     "pubDate": "2026-10-02T09:14:21+00:00"
   },
   {
-    "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-    "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2949/live/36f31670-be39-11f1-a64c-550be9e3c66b.jpg",
-    "pubDate": "2026-10-02T09:08:06+00:00"
-  },
-  {
-    "title": "Tennessee Botches One Execution After Another, Despite Repeated Warnings",
-    "description": "The failed attempt with Christa Pike has intensified bipartisan concerns about Tennessee’s ability to effectively carry out lethal injections.",
-    "link": "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html",
+    "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
+    "description": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.",
+    "link": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
     "thumbnail": "",
-    "pubDate": "2026-10-02T09:04:13+00:00"
+    "pubDate": "2026-10-02T09:03:43+00:00"
   },
   {
-    "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
-    "description": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States.",
-    "link": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-02T09:04:05+00:00"
-  },
-  {
-    "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
-    "description": "Police investigate 'possible foreign state involvement' as sixth man arrested over RAF Fairford incident.",
-    "link": "https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6abf5ecb-1790926539.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-02T09:03:21+00:00"
-  },
-  {
-    "title": "AIPAC Is Spending Millions to Elect Friends. It’s Also Making Enemies.",
-    "description": "The American Israel Public Affairs Committee has increasingly become a campaign issue unto itself. Some candidates have worn opposition from AIPAC as a badge of honor or made a point of rejecting the group’s support.",
-    "link": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-02T09:00:39+00:00"
-  },
-  {
-    "title": "Man City verdict has 'significant implications for integrity of the game', says FA",
-    "description": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250e/live/77b09c80-be45-11f1-a64c-550be9e3c66b.jpg",
-    "pubDate": "2026-10-02T08:50:24+00:00"
-  },
-  {
-    "title": "Cornell Students Call for Change at Fiery Public Meeting",
-    "description": "Through tears, some students shared stories of assaults they had experienced, while others spoke out to criticize administrators and demand improved training on consent.",
-    "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-public-hearing.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-02T08:47:30+00:00"
-  },
-  {
-    "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+    "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
     "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
     "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba1c/live/ef0f91d0-be42-11f1-a64c-550be9e3c66b.png",
     "pubDate": "2026-10-02T08:46:37+00:00"
   },
   {
-    "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+    "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
     "description": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.",
     "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e07c69590f7f7f2e9e623b9982bee1c60be69440-1636x1122.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
     "pubDate": "2026-10-02T08:28:19+00:00"
-  },
-  {
-    "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
-    "description": "Amid threats from China, Taipai is growing concerned about the Trump administration's commitment to arming the island.",
-    "link": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abf534cc5a1-1790923596.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-02T08:26:22+00:00"
-  },
-  {
-    "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
-    "description": "Bitcoin ETFs returned to inflows with $103 million, while Ether funds recorded a third straight day of net outflows.",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XRGDB871CK08HQ8XV7P478/hi-is-the-bitcoin-halving-likely-to-change-perception-around-crypto.jpg",
-    "pubDate": "2026-10-02T08:20:08+00:00"
-  },
-  {
-    "title": "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
-    "description": "Shrinking resources for refugee support groups in Malaysia collide with increasing hostility towards the Rohingya.",
-    "link": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-28T022651Z_1758124644_RC2CMMA6WGXQ_RTRMADP_3_MALAYSIA-REFUGEE-1790681810.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-02T08:14:18+00:00"
   },
   {
     "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
@@ -315,88 +490,11 @@
     "pubDate": "2026-10-02T08:00:17+00:00"
   },
   {
-    "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
-    "description": "The U.S. is reportedly sending a third aircraft carrier strike group to the Middle East, as Trump weighs resuming bombing Iran after the midterms.",
-    "link": "https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108367941-1790326873884-gettyimages-2293738554-AA_09092026_2944252.jpeg?v=1790326911&w=1920&h=1080",
-    "pubDate": "2026-10-02T06:51:41+00:00"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "pubDate": "2026-10-02T06:00:00+00:00"
-  },
-  {
-    "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-    "description": "South Korean crypto exchange operating profits fell 78% in the first half of 2026 as trading volumes, market capitalization and customer deposits declined.",
-    "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XHV0FC144KSRRK1DF5EHGE/south-korea-flag-stocks.png",
-    "pubDate": "2026-10-02T05:53:27+00:00"
-  },
-  {
     "title": "Buffy Meets Hannibal In the Cult Classic Detective Series Streaming Free on YouTube",
     "description": "iZombie is free to stream on YouTube, making now the perfect time to revisit this creative twist on the zombie genre.",
     "link": "https://www.polygon.com/izombie-streaming-free-youtube-october-2026/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/zmb509a_0633b.jpg?w=1200&h=675&fit=crop",
     "pubDate": "2026-10-02T05:45:15+00:00"
-  },
-  {
-    "title": "'I was terrified': Alex Ferguson on brain haemorrhage and games that shaped his life",
-    "description": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a31/live/d7e8e0c0-bd51-11f1-b976-539055889f76.png",
-    "pubDate": "2026-10-02T05:25:13+00:00"
-  },
-  {
-    "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-    "description": "South Korea’s financial regulator proposed detailed rules for tokenized securities, including capital requirements, OTC trading licenses and retail investment limits.",
-    "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XE74WBH0J6TWS0FYDKCWPS/south-korea-tokenization.png",
-    "pubDate": "2026-10-02T05:08:32+00:00"
-  },
-  {
-    "title": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback",
-    "description": "The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain.",
-    "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XFTC4Y1X9C4TEN43SCBMC8/coins.jpg",
-    "pubDate": "2026-10-02T05:02:23+00:00"
-  },
-  {
-    "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
-    "description": "Britain voted to leave the European Union in 2016.",
-    "link": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107372713-1707821086281-gettyimages-1968040821-20240131-dsc_3484.jpeg?v=1752206336&w=1920&h=1080",
-    "pubDate": "2026-10-02T05:00:01+00:00"
-  },
-  {
-    "title": "Core Lightning warns attackers are targeting unpatched nodes",
-    "description": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
-    "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XCTY0H5CWTX6KGY7GT99ER/lightning-network.jpg",
-    "pubDate": "2026-10-02T04:18:43+00:00"
-  },
-  {
-    "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe",
-    "description": "The scheme is part of Russia’s larger strategy for sowing discord in the West, if more subtle than other recent operations blamed on the Kremlin.",
-    "link": "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-02T04:01:10+00:00"
-  },
-  {
-    "title": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine",
-    "description": "Ukraine showed European partners what it said were intercepted Russian plans to cut off major cities from power, heat and water this winter.",
-    "link": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-02T04:00:49+00:00"
-  },
-  {
-    "title": "Hochul Names Letitia James as Special Prosecutor in Cornell Case",
-    "description": "Gov. Kathy Hochul appointed the state attorney general to investigate a former Cornell University student’s allegation of rape. The woman has sued seven men in connection with the alleged assault.",
-    "link": "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-02T02:21:55+00:00"
   },
   {
     "title": "'Digger' Ending Explained: A Spoiler-Filled Breakdown of Tom Cruise's Wild New Movie",
@@ -413,20 +511,6 @@
     "pubDate": "2026-10-02T00:00:15+00:00"
   },
   {
-    "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-    "description": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-    "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
-    "pubDate": "2026-10-01T23:45:06+00:00"
-  },
-  {
-    "title": "Colleen Slemmer Was a Vibrant and Generous Presence, Her Mother Says",
-    "description": "Ms. Slemmer was killed in 1995 by Christa Pike, whose execution in Tennessee was botched on Wednesday. Her family celebrated what would have been her 51st birthday last month.",
-    "link": "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-01T23:05:34+00:00"
-  },
-  {
     "title": "Gears of War: E-Day Is 100x More Fun Playing Co-op",
     "description": "Gears of War: E-Day is the rare modern game that features a local co-op campaign. The Coalition devs tell Polygon it was mandatory.",
     "link": "https://www.polygon.com/gears-war-e-day-co-op-interview/",
@@ -434,11 +518,11 @@
     "pubDate": "2026-10-01T23:00:15+00:00"
   },
   {
-    "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-    "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4ac/live/3102c5a0-be37-11f1-babe-4199b0e7ccea.jpg",
-    "pubDate": "2026-10-01T22:28:45+00:00"
+    "title": "How The New York Times Is Reporting on the Cornell Rape Investigation",
+    "description": "Times editors explore the thinking behind our coverage of the explosive allegations that have roiled a campus and the country.",
+    "link": "https://www.nytimes.com/2026/10/01/insider/cornell-rape-investigation-news-reporting.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-01T22:27:44+00:00"
   },
   {
     "title": "SEC proposes new crypto custody rules for investment advisers and funds",
@@ -455,13 +539,6 @@
     "pubDate": "2026-10-01T19:19:51+00:00"
   },
   {
-    "title": "The September jobs report will be released Friday. Here's what to expect",
-    "description": "Wall Street is looking for job growth of 84,000 to close out the summer.",
-    "link": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108368226-1790357107689-gettyimages-2297111114-jr_18726_qicaeixs.jpeg?v=1790357497&w=1920&h=1080",
-    "pubDate": "2026-10-01T18:55:02+00:00"
-  },
-  {
     "title": "Another Trump memecoin dinner advertised for token's top investors",
     "description": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\"",
     "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
@@ -472,7 +549,7 @@
     "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
     "description": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems. Rockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studio's weather system to \"make everything more more localized and persistent.\" He said the goal was to make the weather in GTA 6's setting of Leonida--a stand-in for Florida--feel \"dynamically solid and achieve a sense of scale\" that the studio has never done before. GTA 6 launches on November 19.What that means in practice is that GTA 6 will have \"fully dynamic cloudscapes that roll across the map\" to provide a \"broad spectrum of weather\" in the game. Florida is known for its heat and humidity, along with its localized and fast-moving rain systems. Look one direction and you may see bright sunshine. Look the other and you could see a downpour. GTA 6 will replicate this with localized rain showers, along with rainbows that appear. Additionally, places where it recently rained in the game will remain wet, with puddles also popping up. GTA 6 also has a new wind system that includes \"offshore breezes after sunset, convectional updrafts, and occlusion from buildings,” Shepherd said. “Hair and debris will swirl around on rooftops; gusts of wind will blow ripples over the water surface and bend the grass in swamps.” GTA 6 will also include tropical storms and hurricanes, along with thunder and lightning. Shepherd did not, however, get into how GTA 6's new weather systems could affect gameplay. Florida is known to experience devastating hurricanes, but it remains to be seen if, for example, a hurricane could knock down structures or trees. GTA 6 launches on November 19 for PS5 and Xbox Series X|S, priced at $80 for its standard edition and $100 for the Ultimate Edition. Rockstar is also selling a $400 collector's edition that includes a bunch of physical goodies, but not the game.",
     "link": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/10/Vice_City_02.jpg?w=636",
+    "thumbnail": "",
     "pubDate": "2026-10-01T18:30:55+00:00"
   },
   {
@@ -481,75 +558,5 @@
     "link": "https://www.gamespot.com/articles/blizzard-isnt-fixing-diablo-4-season-15s-biggest-bug/",
     "thumbnail": "",
     "pubDate": "2026-10-01T17:53:29+00:00"
-  },
-  {
-    "title": "PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet",
-    "description": "The base PS5 console is no slouch when it comes to games, but compared to the PS5 Pro, it doesn't pack the same visual punch. That could change soon, as Sony has unveiled a new AI-upscaling upgrade for the older machine called Spectral Super Resolution (QSSR). Like PlayStation Spectral Super Resolution (PSSR), it is designed to make games look sharper and maximize performance. While PSSR will still remain the \"gold standard\" for what Sony games can look like on PS5 Pro, QSSR looks like it'll offer a noticeable improvement on PS5. A result of the AI graphics collaboration with AMD, Sony says that it offers a \"streamlined neural network architecture\" for games. The only catch? For now, only two PS5 games will support it: Marvel's Wolverine and Ghost of Yotei--which is getting a new Complete Edition this month. Here are a few samples of it in action: https://youtu.be/RcFYsDKbAIk https://www.youtube.com/watch?v=E929-XwrS_Q \"QSSR adds more pixel-level clarity and stability to our environments, bringing out extra detail amidst the busy streets of Madripoor, the dense alleyways of Shinjuku, and many other areas across Logan's epic journey. It’s a perfect companion to the launch of Marvel's Wolverine, and it brings a great taste of the PS5 Pro experience to our players on PS5,\" head of technology at Insomniac Games, Mike Fitzgerald, wrote in a PS Blog post. Jasmin Patry, lead rendering engineer at Ghost of Yotei developer Sucker Punch Productions, added that QSSR excels at \"resolving the fine details\" in characters and environments that previously wasn't possible on the base PS5. Both PS5 exclusives are receiving a patch today to add QSSR as an additional graphics option, and Sony says it will be offered to all PlayStation developers soon. If it's implemented widely and across many more games, QSSR could become a big selling point for the PS5, as the console will be six years old in November. Price hikes have made it more expensive to jump into the current console generation, and for anyone who can afford the $900 PS5 Pro, stock seems increasingly harder to find as demand begins to outpace supply. In Japan, potential consumers are now being asked to enter a lottery system and prove they've played at least 60 hours over the last two years on their current PS5 console. In comparison, an improved gaming experience on a regular PS5 console sounds like it makes financial sense--even if the console was much cheaper when it first launched in 2020.",
-    "link": "https://www.gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet/",
-    "thumbnail": "",
-    "pubDate": "2026-10-01T17:04:53+00:00"
-  },
-  {
-    "title": "The Xbox Cloud Gaming Controller Is Dead, Apparently",
-    "description": "Microsoft agreed to several big changes to appease regulators in its effort to get the blockbuster $75.4 billion deal to buy Activision Blizzard approved, including tweaks to its cloud-gaming projects. Now, more than a year later, we're still learning more about this, including a new claim from The New York Times that Microsoft canceled plans for a new Xbox controller \"devoted to cloud gaming.\" A spokesperson for Microsoft denied that the controller concept was abandoned due to the regulatory process, but did not provide a reason. Microsoft never formally announced or unveiled any controller for cloud gaming, but an image of it leaked this year, prompting raised eyebrows for its ... unique design. Microsoft cut deals with a variety of companies--including Ubisoft, Nware, EE, Boosteroid, Ubitus, and Nvidia--to help mitigate concerns from the UK's Competition &amp; Markets Authority (CMA) that Microsoft might give preferential treatment to its own cloud gaming networks. Former Xbox CEO Phil Spencer, who led Xbox during the sale process, said such deals freed up one of the concerns the CMA had and helped bring more games to more people. The Xbox cloud-gaming service showed some initial signs of growth, but the program suffered a setback recently when Microsoft announced that it will soon put limits on how much people can use the service, and then charge them more to keep playing. Additionally, Windows Central recently discovered that the dedicated cloud gaming app for older Samsung TVs will go away soon due to a compatibility issue. Access to cloud gaming is one of the perks of Xbox Game Pass Ultimate, allowing people to stream their games. Later this year, people will be able to buy game time for cloud gaming on Xbox without a Game Pass membership. One of the appeals of cloud gaming, at least in theory, is that it requires no expensive local hardware like an Xbox or PC, both of which are more expensive than ever due to the AI-fueled demand for memory and components. People need a consistent and fast internet connection for the best experience. In other Xbox news, CEO Asha Sharma recently stressed that Xbox is \"not for sale,\" following rumors and reports that Microsoft could unload the struggling company.",
-    "link": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
-    "thumbnail": "",
-    "pubDate": "2026-10-01T16:25:57+00:00"
-  },
-  {
-    "title": "Gears Of War: E-Day Has A Clever Solution To One Of PC Gaming’s Biggest Annoyances",
-    "description": "Early access for Gears of War: E-Day has kicked off for anyone who bought the Premium Edition, and if you're on PC, you're probably dreading the traditional shader compilation wait that comes with it. There's good news, as Gears of War: E-Day supports a neat feature on this platform that cuts down on that process significantly. Called Advanced Shader Delivery (ASD), it addresses how modern games rely on shaders to calculate how light, shadows, reflections, and textures should look on screen. This usually involves you sitting for a while when you first boot up a game after installing it, resulting in the infamous \"Compiling Shaders\" loading bar. In comparison, ASD is like buying a Gundam model kit that's already assembled, right out of the box. https://www.youtube.com/watch?v=xTxwN-Ck1Zw ASD pre-translates and delivers shader files directly to your device ahead of time, so you wait mere seconds. It also works across a wide variety of systems, and while I haven't installed Gears of War: E-Day on my main PC yet, I did load it up on my Asus Xbox ROG Ally X. The shader compilation waiting time was around 20 seconds, far better than waiting up to 15 minutes as I've experienced with other new games. It's also worth noting that ASD works with multiple hardware configurations, including devices powered by AMD, Intel, Nvidia, and Qualcomm. Gears of War: E-Day will be the first game to support ASD across Windows devices, and it's currently available for users with AMD graphics cards. Owners of Nvidia GPUs will receive ASD-compatible drivers shortly after E-Day launches. I was slaying the Locust, not my patience.While our impression of the multiplayer portion of Gears of War: E-Day is still coming, the campaign is a mostly solid excuse to take cover and pop some Locust heads. \"For better or worse, E-Day is distinctly Gears, and I had a good time with it, even if the story is disappointing and the open areas are fairly dull,\" Richard Wakeling wrote in GameSpot's Gears of War: E-Day review. \"But that’s all it is: a good game, propped up by combat that hasn’t changed all that much over the past 20 years. That’s enough to skate by, but I wish Gears of War would dig deeper.\"",
-    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-has-a-clever-solution-to-one-of-pc-gamings-biggest-annoyances/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/10/Gears-E-Day-PC.jpg?w=636",
-    "pubDate": "2026-10-01T16:13:46+00:00"
-  },
-  {
-    "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
-    "description": "Rockstar's games are known for their impressive attention to detail, along with their massive scopes, and GTA 6 is seemingly going to up the ante in that regard. Rockstar boss Aaron Garbut said in an interview that a developer might compromise scale for detail or detail for interaction \"but not with this project.\" \"We went the other way,\" he told Game Informer. \"Everything is dialed up--detail, scope, breadth, scale, interaction, and density.\" He went on to say Rockstar has never \"created anything close to this before.\" \"As the pressure for us on this project is huge, we dealt with that by doing our best to overdeliver,\" Garbut said. Lucia and Jason in GTA 6.No game can have everything, though, and GTA 6 is no different. The game takes place in Florida stand-in Leonida but doesn't feature Walt Disney World, for example, but Rockstar says the game will deliver the \"full Florida experience.\" GTA 6 launches on November 19 for PS5 and Xbox Series X|S. The game has reportedly already sold close to 6 million copies, generating more than $570 million in pre-sales. Also this week, Rockstar revealed that GTA 6 will have more than 170 animal species, including cane toads and monkeys. We also learned that GTA 6 has a new dynamic weather system.",
-    "link": "https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_08.jpg?w=636",
-    "pubDate": "2026-10-01T15:38:13+00:00"
-  },
-  {
-    "title": "Former Steelers Head Coach Reveals Minecraft City He’s Been Building For 12 Years",
-    "description": "Mike Tomlin served as head coach of the Pittsburgh Steelers from 2007-2025, which is a remarkably long tenure in the NFL. During more than half of that time, Tomlin was secretly working on a massive Minecraft city, and he's now revealing it to the general public. In the first episode of his deep dive into the Minecraft city--and the first video on his YouTube channel--Tomlin shared how the city began, initially with his kids' participation, but as they grew older, it became more and more of a focus for him alone. Much like the Steelers' roster changed every season, Tomlin remained the constant. https://www.youtube.com/watch?v=_h_pQ1-5iQg As you can see in the video, Mike Tomlin put an enormous amount of effort and time into building this city, not only creating the skyscrapers and nearby neighborhoods, but also sports stadiums. He said in the first episode that he'd go into more detail on these stadiums later, but the city includes a baseball field and a soccer pitch, alongside the obvious football field. His son Mayce also shared that Tomlin would sometimes take his PlayStation, presumably due to a sudden creative spark. https://twitter.com/maycetomlin/status/2105457694148821231 Tomlin has a lot more time to focus on Minecraft since resigning as the Steelers' head coach following the 2025 season. During his tenure, the team famously never had a losing season, which might just change this year with a grandfather at quarterback and a defense that has major issues stopping the run. Pittsburgh native Mike McCarthy is the team's new head coach, and it's unclear if he plays Minecraft.",
-    "link": "https://www.gamespot.com/articles/former-steelers-head-coach-reveals-minecraft-city-hes-been-building-for-12-years/",
-    "thumbnail": "",
-    "pubDate": "2026-10-01T15:12:49+00:00"
-  },
-  {
-    "title": "PUBG: Black Budget Canceled, Joining Live-Service Graveyard",
-    "description": "PUBG publisher Krafton has pulled the plug on its extraction shooter spin-off PUBG: Black Budget. Announced less than a year ago and already through several closed alpha tests, the publisher's reasoning for the cancellation is simple: it believes Black Budget simply wasn't fun enough to keep potential players engaged. \"After reviewing the project's development status and future direction, we concluded that its current direction would not allow us to deliver an experience players could enjoy over the long term,\" Krafton wrote in a Steam update. \"We have therefore made the difficult decision to end development of PUBG: Black Budget. PUBG Studios will carry what we learned from development and testing into future projects, continuing to listen to players as we explore new gameplay experiences.\" Black Budget is the second PUBG spin-off to get the axe, following the demise of the tactical shooter PUBG: Blindspot in March. While the game launched in early access, Krafton closed it down after two months, saying it was \"no longer able to sustainably provide the level of experience\" it set out to deliver. PUBG: Black BudgetKrafton's reasons for cancelling Black Budget aren't without merit. If it had been fully released, Black Budget would likely have faced an uphill battle, as the extraction shooter genre is perceived as a niche market dominated by a handful of games, while the live-service video game graveyard is full of recent projects that failed to find an audience. Many games launch with strong momentum, but they struggle to retain those initial player numbers, and their audiences shrink quickly. Just look at Highguard, as the free-to-play shooter lasted just over a month before it shut down. PUBG franchise director Taeseok Jang recently reflected on the struggles of Highguard and other live-service games, commenting on how hard it is to succeed in that space. Krafton has another PUBG spin-off in the works, the grindhouse-themed multiplayer shooter Ded.Net. Announced back in August during Gamescom, it's currently being developed by Krafton's Wisconsin-based studio PUBG Madison.",
-    "link": "https://www.gamespot.com/articles/pubg-black-budget-canceled-joining-live-service-graveyard/",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/10/Black-Budget.jpg?w=636",
-    "pubDate": "2026-10-01T15:08:15+00:00"
-  },
-  {
-    "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-    "description": "",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/dd2e230e2cb94447ac56eee45d7f45ea34771c7d-5184x3456.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-10-01T15:00:00+00:00"
-  },
-  {
-    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-    "description": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.",
-    "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-10-01T14:18:14+00:00"
-  },
-  {
-    "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
-    "description": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
-    "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3ae8ca3aef18f4e1e70cd0b60827f8a6cef47da1-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-10-01T11:59:17+00:00"
-  },
-  {
-    "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
-    "description": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.",
-    "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/edd10316fa7620a12d0bce0492520092d00802b5-4752x3168.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.4151&fp-y=0.327&w=1920&h=1080&q=75",
-    "pubDate": "2026-10-01T11:58:00+00:00"
   }
 ]
