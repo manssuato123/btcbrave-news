@@ -1,5 +1,250 @@
 [
   {
+    "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+    "description": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
+    "link": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/107299760-1694581931995-gettyimages-1613681732-China_Entered_A_Moderately_Aging_Society.jpeg?v=1694582867&w=1920&h=1080",
+    "pubDate": "2026-10-05T05:00:01+00:00"
+  },
+  {
+    "title": "US removes all bombers from RAF Fairford base",
+    "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc8f/live/fbf333b0-c037-11f1-86a1-ad5985eac783.jpg",
+    "pubDate": "2026-10-05T04:58:56+00:00"
+  },
+  {
+    "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro",
+    "description": "Neither President Luiz Inácio Lula da Silva nor Flávio Bolsonaro, the son of a former president, won the first round, but Mr. Bolsonaro took more votes.",
+    "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-05T04:52:32+00:00"
+  },
+  {
+    "title": "France closes up to 500 schools Monday over student protests",
+    "description": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+    "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/a9a0ba20-c022-11f1-ae5f-052d2eebe3b9.jpg",
+    "pubDate": "2026-10-05T04:49:14+00:00"
+  },
+  {
+    "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+    "description": "Bitcoin came within about $500 of its late-September peak before sellers pushed it back under $86,000. It's the second rally in a week to stall.",
+    "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a17752186ff0623fb937e54d56cd8fc0c03c654e-1512x846.png?auto=format&q=75",
+    "pubDate": "2026-10-05T04:23:25+00:00"
+  },
+  {
+    "title": "Protesters scuffle with police as migrants brought ashore on south coast",
+    "description": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
+    "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336b/live/1ff5a360-c029-11f1-bef3-2128f412928e.png",
+    "pubDate": "2026-10-05T04:23:08+00:00"
+  },
+  {
+    "title": "Russia hospitalizes almost 200 people after researcher's death from plague: reports",
+    "description": "Nearly 200 people are under medical observation in Russia’s Irkutsk region over suspected exposure to plague, according to local media reports.",
+    "link": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108104554-17399940012025-02-19t190630z_1659693833_rc2pxcayfk6y_rtrmadp_0_russia-cityscape.jpeg?v=1739994051&w=1920&h=1080",
+    "pubDate": "2026-10-05T04:16:25+00:00"
+  },
+  {
+    "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
+    "description": "A California woman allegedly sent photos and videos of President Lai's son and his family to Chinese officials.",
+    "link": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac3119d-1791168925.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-05T04:13:20+00:00"
+  },
+  {
+    "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
+    "description": "A Russian agency links the lab worker's death to 'pneumonia of unknown' origin.",
+    "link": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac30793-1791166355.jpg?resize=1920%2C1371",
+    "pubDate": "2026-10-05T04:07:51+00:00"
+  },
+  {
+    "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
+    "description": "The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?",
+    "link": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-05T04:01:07+00:00"
+  },
+  {
+    "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+    "description": "Ether beat bitcoin in the third quarter, but its market liquidity got thinner, according to Coingecko.",
+    "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/865e0a79557ab206724c582c19cacad0159fa27f-3846x2552.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "pubDate": "2026-10-05T03:50:29+00:00"
+  },
+  {
+    "title": "Singapore turns matchmaker amid rock-bottom birthrate",
+    "description": "City-state launches dating platform for government workers, drawing curiosity, amusement and scorn.",
+    "link": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP23307597739541-1791161846_33e058-1791168837.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-10-05T03:48:17+00:00"
+  },
+  {
+    "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+    "description": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation.",
+    "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
+    "pubDate": "2026-10-05T03:47:19+00:00"
+  },
+  {
+    "title": "Potty training scheme to roll out to 20 more areas",
+    "description": "The government wants 75% of children to end their first year of school with a good level of development by 2028.",
+    "link": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e6/live/b1922250-be88-11f1-b38c-a564d86910bc.jpg",
+    "pubDate": "2026-10-05T03:45:37+00:00"
+  },
+  {
+    "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+    "description": "The stock trading platform seeks to offer tokenized shares in more than 60 US-listed companies under the SEC’s recently introduced innovation exemption.",
+    "link": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4525XQ0CWP5J7P1KKQ3CD7J/stock-trading.jpg",
+    "pubDate": "2026-10-05T03:44:09+00:00"
+  },
+  {
+    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+    "description": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+    "pubDate": "2026-10-05T03:37:41+00:00"
+  },
+  {
+    "title": "Bosnian Serb nationalist claims party victory in Bosnia elections",
+    "description": "Bosnian Serb nationalist Milorad Dodik claimed victory for his party in Bosnia’s elections.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bosnian-serb-nationalist-claims-party-victory-in-bosnia-elections?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791171365.jpg?resize=1918%2C1080&quality=80",
+    "pubDate": "2026-10-05T03:36:13+00:00"
+  },
+  {
+    "title": "US coastguard suspends search for six on board crashed medical jet",
+    "description": "Debris found off Nantucket island after the air ambulance disappeared while flying from Bermuda to Boston.",
+    "link": "https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-04T062436Z_1533483136_RC24WNAD0WTO_RTRMADP_3_USA-PLANE-MISSING-1791166765.jpg?resize=1445%2C1080&quality=80",
+    "pubDate": "2026-10-05T03:22:32+00:00"
+  },
+  {
+    "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+    "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ea/live/56a0e6c0-c053-11f1-babe-4199b0e7ccea.png",
+    "pubDate": "2026-10-05T03:16:16+00:00"
+  },
+  {
+    "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+    "description": "Greenfield Capital said it sought changes to Safe Ecosystem Foundation’s board for months before turning to the Swiss regulator.",
+    "link": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M450M7X1NSRM61WXEJS579ZE/governance.jpg",
+    "pubDate": "2026-10-05T03:12:21+00:00"
+  },
+  {
+    "title": "Yemen gov’t forces commence major combat operation against Houthis",
+    "description": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/WIDE-THUMB-YEMEN-LATEST-0410-1791169809.png?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-10-05T03:11:03+00:00"
+  },
+  {
+    "title": "After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life",
+    "description": "As the weekend arrived, much of the nightlife in the upstate New York college town was subdued. But there were still some students looking to cut loose.",
+    "link": "https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-05T03:05:49+00:00"
+  },
+  {
+    "title": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
+    "description": "Ireland and Israel drew 1-1 in a second ill-tempered Nations League match.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791167816.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-10-05T02:28:48+00:00"
+  },
+  {
+    "title": "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
+    "description": "Treasury yields above 5% are raising fears that higher borrowing costs could fuel a debt spiral.",
+    "link": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108357831-1788364301709-Traders-OB-20260902-ACJ-PRESS-5.jpg?v=1788364539&w=1920&h=1080",
+    "pubDate": "2026-10-05T02:24:07+00:00"
+  },
+  {
+    "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
+    "description": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
+    "link": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108173276-17527542942025-07-17t045113z_65797734_rc2omfaxv7jh_rtrmadp_0_japan-politics-tariffs-mazda.jpeg?v=1752754349&w=1920&h=1080",
+    "pubDate": "2026-10-05T02:15:12+00:00"
+  },
+  {
+    "title": "Brazil’s presidential race: Three key takeaways from the first round",
+    "description": "Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.",
+    "link": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2f409b700-1791161353.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-05T01:55:50+00:00"
+  },
+  {
+    "title": "Can the KKK find a new foothold in the US?",
+    "description": "The infamous hate group is trying to rebrand itself as the 'Knights Party' in an attempt to grow its base.",
+    "link": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a498796-1783203734.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-05T01:47:13+00:00"
+  },
+  {
+    "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+    "description": "Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.",
+    "link": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2d12694f2-1791152422.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-05T01:08:44+00:00"
+  },
+  {
+    "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
+    "description": "Japan’s century-old businesses face mounting pressures from rising costs, labor shortages, a shrinking market and succession challenges.",
+    "link": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108372234-1791028670141-gettyimages-2287024535-1s6a9921_7iofpazt.jpeg?v=1791028699&w=1920&h=1080",
+    "pubDate": "2026-10-05T01:08:10+00:00"
+  },
+  {
+    "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+    "description": "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.",
+    "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108372306-1791159129782-gettyimages-2297947516-090a3383_0fhdk7dm.jpeg?v=1791159153&w=1920&h=1080",
+    "pubDate": "2026-10-05T00:47:47+00:00"
+  },
+  {
+    "title": "Zcash gets a Washington lobbyist to push crypto policy",
+    "description": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.",
+    "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg",
+    "pubDate": "2026-10-05T00:35:34+00:00"
+  },
+  {
+    "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+    "description": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.",
+    "link": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-05T00:18:12+00:00"
+  },
+  {
+    "title": "Fire Emblem Fans Need to Play 2017's Stellar Revenge-Saga RPG",
+    "description": "Fire Emblem has taken Leda players on a path of revenge. Yet another game is perfect for those who enjoy supporting women's wrongs.",
+    "link": "https://www.polygon.com/fire-emblem-tales-of-berseria/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-which-character-4.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-10-05T00:00:15+00:00"
+  },
+  {
+    "title": "Pokémon's Official Halloween Collection is Live and Full of Incredible Merch",
+    "description": "The Pokémon Center released its Halloween 2026 merchandise collection with Pokémon yard statues, Gengar sleepwear, and more.",
+    "link": "https://www.polygon.com/pokemon-center-official-halloween-2026-collection-merch/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-halloween-merch.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-10-04T23:38:17+00:00"
+  },
+  {
+    "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
+    "description": "A mysterious call last Sunday near a military base used by the U.S. set in motion a huge counterterrorism response and days of uncertainty in Britain.",
+    "link": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-04T23:03:25+00:00"
+  },
+  {
     "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
     "description": "The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.",
     "link": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
@@ -14,20 +259,6 @@
     "pubDate": "2026-10-04T22:31:12+00:00"
   },
   {
-    "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-    "description": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
-    "link": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-04T22:30:27+00:00"
-  },
-  {
-    "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
-    "description": "The abrupt redeployment to the US comes after several 'terrorism-related' arrests were made outside RAF Fairford.",
-    "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-04T22:23:30+00:00"
-  },
-  {
     "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
     "description": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
     "link": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
@@ -35,11 +266,11 @@
     "pubDate": "2026-10-04T22:08:34+00:00"
   },
   {
-    "title": "US removes all bombers from RAF Fairford base",
-    "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc8f/live/fbf333b0-c037-11f1-86a1-ad5985eac783.jpg",
-    "pubDate": "2026-10-04T21:57:32+00:00"
+    "title": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
+    "description": "President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.",
+    "link": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-04T21:53:42+00:00"
   },
   {
     "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
@@ -49,20 +280,6 @@
     "pubDate": "2026-10-04T21:46:15+00:00"
   },
   {
-    "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
-    "description": "New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.",
-    "link": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T000819Z_957798880_RC2LUNACUZQF_RTRMADP_3_USA-CRIME-CORNELL-1791117885.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-04T21:39:55+00:00"
-  },
-  {
-    "title": "Protesters gather as migrants brought ashore on south coast",
-    "description": "A dinghy was believed to be carrying 120 migrants, according to French media.",
-    "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336b/live/1ff5a360-c029-11f1-bef3-2128f412928e.png",
-    "pubDate": "2026-10-04T21:37:03+00:00"
-  },
-  {
     "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
     "description": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
     "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
@@ -70,46 +287,11 @@
     "pubDate": "2026-10-04T21:35:30+00:00"
   },
   {
-    "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
-    "description": "Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.",
-    "link": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26277680526272-1791146807.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-04T21:30:22+00:00"
-  },
-  {
-    "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-    "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a59/live/bee37260-c036-11f1-a64c-550be9e3c66b.png",
-    "pubDate": "2026-10-04T21:11:49+00:00"
-  },
-  {
-    "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-    "description": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.",
-    "link": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-04T21:11:09+00:00"
-  },
-  {
-    "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
-    "description": "Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo's absence.",
-    "link": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-04T205453Z_2005152978_UP1EMA41L60LI_RTRMADP_3_SOCCER-UEFANATIONS-POR-NOR-1791147592.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-04T21:10:00+00:00"
-  },
-  {
-    "title": "Green Party members back 'Zionism is racism' motion",
+    "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
     "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
     "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/6d89be10-bfdc-11f1-b4e6-d96c2bf27b65.jpg",
     "pubDate": "2026-10-04T20:51:36+00:00"
-  },
-  {
-    "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
-    "description": "Israel's president declared that the 'antisemitic lie' deliberately endangers Jews and Israelis.",
-    "link": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac29a62-1791138402.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-04T20:38:56+00:00"
   },
   {
     "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
@@ -119,39 +301,11 @@
     "pubDate": "2026-10-04T20:28:47+00:00"
   },
   {
-    "title": "Debris found near Nantucket believed to be from missing medical plane",
-    "description": "The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791144473.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-10-04T20:21:09+00:00"
-  },
-  {
-    "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
-    "description": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac1552b9e3b-1791055147.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-04T20:00:05+00:00"
-  },
-  {
-    "title": "Imran Khan’s party launches march to Islamabad demanding his release",
-    "description": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-04-at-20.48.25-1791143510.png?resize=1200%2C675",
-    "pubDate": "2026-10-04T19:53:55+00:00"
-  },
-  {
-    "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
-    "description": "Balkan nation seeks EU membership, but divisions threaten that goal.",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2a9333481-1791142195.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-04T19:46:34+00:00"
-  },
-  {
-    "title": "France to shutter up to 500 schools as more student protests called",
-    "description": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
-    "link": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2853100e5-1791132977.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-04T19:41:04+00:00"
+    "title": "8 Video Game Villains With Motives You Can't Argue With",
+    "description": "From Renoir to Andrew Ryan, these 8 video game villains perhaps had a point…buried under the body count",
+    "link": "https://www.polygon.com/video-game-villains-who-were-right/",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22989776/ss_4b2b412307b72a21f68148c32fab7a278875d139.jpg?w=1600&h=900&fit=crop",
+    "pubDate": "2026-10-04T20:00:15+00:00"
   },
   {
     "title": "25 Years Later, Ridley Scott’s Most Controversial Thriller Is Officially Free on Youtube",
@@ -159,27 +313,6 @@
     "link": "https://www.polygon.com/ridley-scott-hannibal-2001-controversy/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/3.jpg?w=1600&h=900&fit=crop",
     "pubDate": "2026-10-04T19:00:16+00:00"
-  },
-  {
-    "title": "France to close up to 500 schools on Monday over student protests",
-    "description": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
-    "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/a9a0ba20-c022-11f1-ae5f-052d2eebe3b9.jpg",
-    "pubDate": "2026-10-04T18:52:36+00:00"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "pubDate": "2026-10-04T18:51:50+00:00"
-  },
-  {
-    "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
-    "description": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.",
-    "link": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-04T18:47:12+00:00"
   },
   {
     "title": "There's an election next month: State of Crypto",
@@ -194,6 +327,13 @@
     "link": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
     "thumbnail": "",
     "pubDate": "2026-10-04T18:29:01+00:00"
+  },
+  {
+    "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+    "description": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
+    "link": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e40/live/b6f332e0-c034-11f1-bc2e-018d645d8d21.jpg",
+    "pubDate": "2026-10-04T18:25:50+00:00"
   },
   {
     "title": "Nintendo's Zelda: Ocarina of Time Remake Gets Official Instrument Support and More",
@@ -224,32 +364,11 @@
     "pubDate": "2026-10-04T16:51:30+00:00"
   },
   {
-    "title": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.",
-    "description": "Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.",
-    "link": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-04T16:32:20+00:00"
-  },
-  {
-    "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-    "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg",
-    "pubDate": "2026-10-04T16:24:48+00:00"
-  },
-  {
     "title": "Tom Cruise Just Experienced His Worst Opening Weekend In Nearly 20 Years",
     "description": "Digger did not do very well in theaters during its opening weekend, hitting a grossing low Tom Cruise hasn't seen in almost 20 years",
     "link": "https://www.polygon.com/digger-tom-cruise-box-office/",
     "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/digger-tom-cruise.jpg?w=1200&h=675&fit=crop",
     "pubDate": "2026-10-04T16:22:10+00:00"
-  },
-  {
-    "title": "I'm a classic old school Conservative, says Kemi Badenoch",
-    "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
-    "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db7/live/b48108f0-c009-11f1-babe-4199b0e7ccea.jpg",
-    "pubDate": "2026-10-04T16:20:02+00:00"
   },
   {
     "title": "Link And GTA 6's Jason Get Into A Heated Debate In Hilarious SNL Weekend Update Bit",
@@ -266,27 +385,6 @@
     "pubDate": "2026-10-04T16:00:15+00:00"
   },
   {
-    "title": "Man of Tomorrow Passed An Important Post-Production Milestone",
-    "description": "The assembly cut of Superman sequel Man of Tomorrow is complete, according to director James Gunn",
-    "link": "https://www.polygon.com/man-of-tomorrow-assembly-cut/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/man-of-tomorrow-lex-luthor.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-10-04T15:21:35+00:00"
-  },
-  {
-    "title": "Ghost of Yotei DLC’s Best Boss Fight Stars Giant Murder Bears",
-    "description": "Ghost of Yōtei Echoes of Sekigahara features one of the best boss fights in the game, thanks to a pair of deadly bears.",
-    "link": "https://www.polygon.com/ghost-of-yotei-echoes-of-sekigahara-best-boss-fight/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ghost-of-yotei-echoes-of-sekigahara-screenshot-cropped-10.jpeg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-10-04T15:00:16+00:00"
-  },
-  {
-    "title": "A Beloved Critical Role Cast Member Will Officially Miss Campaign 4 for a Long Time",
-    "description": "Critical Role Campaign 4's next arc is only a few days away, but it looks like one cast member probably won't be involved.",
-    "link": "https://www.polygon.com/critical-role-campaign-4-travis-willingham-return/",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/critical-role-matthew-mercer.jpg?w=1600&h=900&fit=crop",
-    "pubDate": "2026-10-04T14:37:17+00:00"
-  },
-  {
     "title": "Crypto poured years into new products. The next challenge is keeping users",
     "description": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge.",
     "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
@@ -301,25 +399,11 @@
     "pubDate": "2026-10-04T13:48:48+00:00"
   },
   {
-    "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-    "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7355/live/9ef2eba0-bffc-11f1-a6d2-b3be352f49ed.jpg",
-    "pubDate": "2026-10-04T13:45:24+00:00"
-  },
-  {
     "title": "Starting a watch collection? What beginners should know before buying",
     "description": "Watch experts explain how beginners can start a collection, what tends to hold value, when to buy used and how to avoid costly mistakes.",
     "link": "https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html",
     "thumbnail": "https://image.cnbcfm.com/api/v1/image/108372243-1791043419874-gettyimages-106782478-62439149.jpeg?v=1791043434&w=1920&h=1080",
     "pubDate": "2026-10-04T13:44:31+00:00"
-  },
-  {
-    "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-    "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-    "link": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1767751175&w=1920&h=1080",
-    "pubDate": "2026-10-04T13:22:39+00:00"
   },
   {
     "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
@@ -329,25 +413,11 @@
     "pubDate": "2026-10-04T13:00:00+00:00"
   },
   {
-    "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-    "description": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
-    "link": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108364462-1789661081569-gettyimages-1480254699-pi-2596866.jpeg?v=1789758001&w=1920&h=1080",
-    "pubDate": "2026-10-04T12:57:45+00:00"
-  },
-  {
     "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
     "description": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions.",
     "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43EQ7PEEE3Z1JRGK2E12RMJ/hi-crypto-offers-russia-no-way-out-from-western-sanctions2.png",
     "pubDate": "2026-10-04T12:42:00+00:00"
-  },
-  {
-    "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-    "description": "E.l.f. Beauty released an album titled \"Mirror Mix\" as the brand plans to increase its marketing spend for the rest of the year.",
-    "link": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108372126-1790972093987-image.png?v=1790972133&w=1920&h=1080",
-    "pubDate": "2026-10-04T12:00:01+00:00"
   },
   {
     "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
@@ -357,18 +427,11 @@
     "pubDate": "2026-10-04T09:40:00+00:00"
   },
   {
-    "title": "Who Owns the Moon?",
-    "description": "A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.",
-    "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
+    "title": "How Everything Became Gambling",
+    "description": "It’s not just DraftKings and Polymarket — the logic of gambling undergirds everything coming out of Silicon Valley.",
+    "link": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
     "thumbnail": "",
-    "pubDate": "2026-10-04T09:06:41+00:00"
-  },
-  {
-    "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-    "description": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
-    "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-04T09:00:29+00:00"
+    "pubDate": "2026-10-04T09:01:00+00:00"
   },
   {
     "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
@@ -378,25 +441,11 @@
     "pubDate": "2026-10-04T07:18:00+00:00"
   },
   {
-    "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-    "description": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
-    "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108371730-1790941885757-gettyimages-2270934858-ukrinform-ukrainia260410_np94s.jpeg?v=1790941939&w=1920&h=1080",
-    "pubDate": "2026-10-04T05:00:01+00:00"
-  },
-  {
     "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
     "description": "Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.",
     "link": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html",
     "thumbnail": "",
     "pubDate": "2026-10-04T02:43:03+00:00"
-  },
-  {
-    "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
-    "description": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap.",
-    "link": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108372135-1790973236319-gettyimages-1373763464-dsc_1810.jpeg?v=1790973256&w=1920&h=1080",
-    "pubDate": "2026-10-03T17:57:40+00:00"
   },
   {
     "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
@@ -420,13 +469,6 @@
     "pubDate": "2026-10-03T15:00:00+00:00"
   },
   {
-    "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
-    "description": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume.",
-    "link": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108350672-1787003285285-Novig.jpg?v=1787003338&w=1920&h=1080",
-    "pubDate": "2026-10-03T13:30:48+00:00"
-  },
-  {
     "title": "Crypto's Sisyphean struggle",
     "description": "Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei.",
     "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
@@ -448,27 +490,6 @@
     "pubDate": "2026-10-03T11:59:10+00:00"
   },
   {
-    "title": "Community banks sue OCC over trust bank charters of crypto firms",
-    "description": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.",
-    "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png",
-    "pubDate": "2026-10-03T09:28:00+00:00"
-  },
-  {
-    "title": "In ‘One Helluva Ride,’ Michael Douglas Recalls Life in the Spotlight",
-    "description": "At 82, the famously roguish leading man has written a memoir, “One Helluva Ride,” that’s as candid and intimate as it is feisty.",
-    "link": "https://www.nytimes.com/2026/10/03/books/review/michael-douglas-memoir-one-helluva-ride-interview.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-03T09:00:13+00:00"
-  },
-  {
-    "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
-    "description": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs.",
-    "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M408YEEABFWBFJG6GQ567JX7/hi-china-own-ai.png",
-    "pubDate": "2026-10-03T07:09:00+00:00"
-  },
-  {
     "title": "End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch",
     "description": "I spent a few days playing Section 9 Interactive's creepy metroidvania and writing my End of Abyss review, and ultimately concluded it was a fun but inconsistent experience hindered by a few particular issues. Now, just a day after it launched on PlayStation 5, Xbox Series X|S, and PC via the Epic Games Store, the studio has already cleared up most of those issues with a newly released patch. If you missed the review, my main concern was how the in-game map would sometimes share incorrect information, like telling me a door was locked when I had unlocked it, or failing to signify when I'd found the key to a particular door. In a metroidvania, this means a whole lot. End of Abyss is a game about exploration, including lots of backtracking via roundabout paths, so when I'd plan long treks across the world based on a faulty map, it was really frustrating to find out too late that I'd essentially been lied to. But a patch has fixed that, among other problems, and it presents an uncommon issue for me. My review only went out two days ago. The game only launched yesterday. Now much of my review is already outdated. In this era of live-service games and post-launch updates, it's common for games to change shape over time, but for End of Abyss's patch to fix many of its lesser parts essentially right after the deadline isn't normally how it goes. Usually big, important changes happen in one of two ways: In one common scenario, a game that critics are playing for review may be patched during that pre-release review period. It's often the case that critics are made aware of bugs we might see, and we're usually told when they've been patched out, or that those fixes are in the \"day one\" patch that comes with the game's public launch, leaving us to confirm as much once the patch drops. This even applies to End of Abyss. I bumped into a few bugs during my time with the game, and the very worst of them--in which a boss failed to drop a quest item--was patched just a few hours before I had to write my review, allowing me to beat the game on time. This made the issue irrelevant to my review, and thus I didn't even specifically call it out. If the public wasn't going to experience it, then I take it as my job to basically erase it from my memory of the experience--or at least, if I do mention it, I should explain how it's no longer a concern for players jumping in at launch. In another common scenario, a game changes shape much later in its lifespan, and probably over the course of several updates. Games like Sea of Thieves, Overwatch, and Fallout 76 are great examples. These kinds of games often become the subject of re-reviews years later. But it's not just multiplayer games that do this. Games such as Starfield, Mass Effect 3, and Cyberpunk 2077 have been affected by such major changes that they merited follow-ups, too. But End of Abyss is a much rarer case. The game just came out. My review could only speak to my experience, and so it does, but I'd planned to revisit it once my biggest problems with it were addressed and write something like what I've written here--something that says, \"Hey, it's better now!\" when I could recommend it with more confidence. I just didn't expect that would be a mere 48 hours after I published my thoughts on the game. Section 9's debut landed in a weird gray area, where some important fixes came neither early enough for my review to consider them, nor late enough for my review to feel like it accurately reflected the experience of playing the game for a reasonable period of time. As it stands, only the players who jumped in yesterday--likely a relative few compared to the many more who will play the game over the next several years--bumped into the map issue I had during my time with it. No one else will ever have to deal with it. That's good for players, and good for the studio, even if it leaves reviews like mine feeling more swiftly outdated than anything I can remember writing.",
     "link": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/",
@@ -476,32 +497,11 @@
     "pubDate": "2026-10-02T23:26:26+00:00"
   },
   {
-    "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-    "description": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
-    "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/26bc7ac9cd7444c2c14bec14b2e397a0fb35c8aa-6000x3376.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-10-02T21:23:20+00:00"
-  },
-  {
-    "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-    "description": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
-    "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png",
-    "pubDate": "2026-10-02T20:40:47+00:00"
-  },
-  {
     "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
     "description": "A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarantino's 1994 crime movie Pulp Fiction. The image was shared by Love magazine on Instagram. The GTA 6 Countdown social media account put it next to the diner scene from Pulp Fiction, and the similarities are there, especially in the framing. In Pulp Fiction, Tim Roth and Amanda Plummer's characters, Pumpkin and Honey Bunny, go on to rob the diner, and given that Lucia and Jason are criminals as well, it's not a stretch to think that could happen in GTA 6. Maybe they're just enjoying breakfast, but that seems unlikely given the image clearly shows both gripping their pistols, with Lucia seemingly ready to fill the empty duffel bag next to her with cash and other valuables. https://twitter.com/GTAVI_Countdown/status/2106042257443049741 GTA 6 tells a Bonnie and Clyde-style story of two lovers who are also criminals. Things did not end well for them, and many are speculating as to how GTA 6's story could wrap up for both Lucia and Jason. It also wouldn't be surprising to see GTA 6 reference Pulp Fiction given how GTA games in the past have featured very overt references to movies, like how Vice City had Scarface references and GTA 5 had nods to Heat. \"We wanted both protagonists to be vulnerable, tough, flawed, right sometimes, wrong sometimes, able to learn from each other,”GTA 6 writer Elizabeth Gauvey-Kern told Love magazine. “That’s what we felt made them authentic, and a great team.” Jason and Lucia in GTA 6.Another GTA 6 game writer, Alexa D’Agostino, told the magazine, “When you are focusing on writing a fully realized person with their own wants, you’re going to get something perfectly imperfect--with clichés, but also undeniably real.” GTA 6 launches on November 19 for PS5 and Xbox Series X|S. On November 18, the Miami Heat will wear GTA 6-inspired jerseys and play on a court that references Vice City, the game's setting, and a stand-in for Miami. GTA 6 will take players outside of Miami to other places in Florida, just don't expect to go to Rockstar's version of Walt Disney World.",
     "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
     "thumbnail": "",
     "pubDate": "2026-10-02T19:41:02+00:00"
-  },
-  {
-    "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-    "description": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
-    "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "pubDate": "2026-10-02T17:34:40+00:00"
   },
   {
     "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
