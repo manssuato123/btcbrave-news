@@ -6,7 +6,8 @@
   <meta name="theme-color" content="#05060a">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>BTCBRAVE – New </title>
+  <title>BTCBRAVE News | Crypto, Markets & World</title>
+  <meta name="description" content="BTCBRAVE News: crypto, financial markets, world news, gaming and cooking, updated throughout the day.">
   <style>
     :root {
       --bg-main: #05060a;
@@ -282,7 +283,24 @@
       transform: translateY(-1px);
     }
 
+    .news-status { max-width:1600px; margin:0 auto; padding:6px 18px; font-size:12px; color:var(--text-muted); }
+    .load-more-wrap { text-align:center; margin:12px 0 32px; }
+    .load-more-btn { background:var(--accent); color:#05060a; border:0; border-radius:999px; padding:12px 28px; font-weight:750; cursor:pointer; }
+    .load-more-btn:hover { background:var(--accent-soft); }
+    .empty-state { text-align:center; padding:28px; color:var(--text-muted); }
+    .card-img-placeholder { width:100%; height:180px; display:flex; justify-content:center; align-items:center; background:linear-gradient(135deg,#192036,#0b0e15); font-size:13px; letter-spacing:.18em; color:#d4af37; }
+    .grid > .card:nth-child(15n + 1) .card-img-placeholder,
+    .grid > .card:nth-child(15n + 13) .card-img-placeholder { height:100%; position:absolute; inset:0; }
     .card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
+    @media (max-width:650px) {
+      .grid { grid-template-columns:minmax(0,1fr); gap:12px; padding:12px; }
+      .grid > .card { grid-column:span 1 !important; }
+      header { padding:12px; }
+      .article-view { padding:20px 12px; }
+      .article-inner { padding:20px 14px; }
+      .article-close { top:78px; left:8px; }
+      .logo a { margin-left:0!important; }
+    }
     .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08); }
     .card-img-large { height:200px; width:100%; object-fit:cover; }
 
@@ -445,7 +463,7 @@
       </form>
 
       <p class="btcbrave-login-footnote">
-        By continuing, you agree to BTCBRAVE Terms of Use and Privacy Policy.
+        Please check your inbox after subscribing. To unsubscribe, use the link in any BTCBRAVE email.
       </p>
     </div>
   </div>
@@ -517,6 +535,7 @@
   <div class="filter-bar">
     <button class="filter-btn active" data-filter="all">All</button>
     <button class="filter-btn" data-filter="crypto">Crypto</button>
+    <button class="filter-btn" data-filter="finance">Finance</button>
     <button class="filter-btn" data-filter="world">World</button>
     <button class="filter-btn" data-filter="games">Games</button>
     <button class="filter-btn" data-filter="food">Cooking</button>
@@ -533,658 +552,488 @@
     </div>
   </div>
 
-  <div id="loadingNews" class="loading-news">Carregando as últimas notícias...</div>
+  <div id="loadingNews" class="loading-news" role="status">Loading the latest news...</div>
+  <div id="newsStatus" class="news-status" role="status" aria-live="polite"></div>
 
   <!-- Um único grid para tudo (News + Blog intercalados) -->
   <div id="newsGrid" class="btcbrave-grid grid"></div>
+  <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
+    <button type="button" id="loadMoreBtn" class="load-more-btn">Load more news</button>
+  </div>
+  <p id="emptyState" class="empty-state" style="display:none;">No articles found in this category.</p>
   <!-- blogGrid fica só como reserva, mas vazio/sem uso visual -->
   <div id="blogGrid" class="btcbrave-grid grid" style="display:none;"></div>
 
-  <!-- variáveis globais para posts do Blog e reader infinito -->
+  <!-- NEWS + BLOG: leitor, categorias, proteção do HTML e atualização a cada 10 minutos -->
   <script>
+    const newsGrid = document.getElementById('newsGrid');
+    const blogGrid = document.getElementById('blogGrid');
+    const loading = document.getElementById('loadingNews');
+    const newsStatus = document.getElementById('newsStatus');
+    const emptyState = document.getElementById('emptyState');
+    const loadMoreWrap = document.getElementById('loadMoreWrap');
+    const loadMoreBtn = document.getElementById('loadMoreBtn');
+    const articleView = document.getElementById('articleView');
+    const articleTitle = document.getElementById('articleTitle');
+    const articleBody = document.getElementById('articleBody');
+    const articleClose = document.getElementById('articleClose');
+    const articleImageBox = document.getElementById('articleImage');
+    const BLOG_POSTS_URL = 'https://blog.btcbrave.store/posts.json';
+    const NEWS_REFRESH_MS = 10 * 60 * 1000;
+    const RENDER_BATCH_SIZE = 60;
+    const BLOG_BATCH_SIZE = 10;
     let globalBlogItems = [];
     let blogReaderActive = false;
     let blogReaderOffset = 0;
-    const BLOG_BATCH_SIZE = 10;
-  </script>
-
-  <!-- SCRIPT 1: Clique no card / articleView -->
-  <script>
-    const articleView = document.getElementById('articleView');
-    const articleTitle = document.getElementById('articleTitle');
-    const articleBody  = document.getElementById('articleBody');
-    const articleClose = document.getElementById('articleClose');
-    const articleImageBox = document.getElementById('articleImage');
     let lastScrollY = 0;
+    let refreshInProgress = false;
+    let lastCheckAt = 0;
+    let lastFingerprint = '';
+    let storedNews = [];
+    let storedBlog = [];
+    let allCombined = [];
+    let filteredCombined = [];
+    let renderOffset = 0;
+    let currentFilter = 'all';
 
-    function renderBlogBatch(reset = false) {
-      if (!globalBlogItems || !globalBlogItems.length) return;
-      if (blogReaderOffset >= globalBlogItems.length) return;
-
-      if (reset) {
-        articleBody.innerHTML = '';
-      }
-
-      const slice = globalBlogItems.slice(blogReaderOffset, blogReaderOffset + BLOG_BATCH_SIZE);
-
-      slice.forEach((post, idx) => {
-        const t = post.title || '';
-        const bodyPost = post.fullText || post.description || '';
-        const pubDate = new Date(post.pubDate || Date.now()).toLocaleDateString();
-        const thumb = post.thumbnail && post.thumbnail.startsWith('http')
-          ? post.thumbnail
-          : '';
-
-        articleBody.innerHTML += `
-          <article style="margin-bottom:24px;">
-            ${thumb ? `
-              <img src="${thumb}"
-                   alt="${t}"
-                   style="width:100%; border-radius:10px; margin-bottom:8px; max-height:260px; object-fit:cover;" />
-            ` : ``}
-            <h3 style="
-              font-size:18px;
-              margin:${reset && idx === 0 ? '0 0 8px' : '16px 0 8px'};
-              font-weight:700;
-              color:#111827;
-            ">
-              ${t}
-            </h3>
-            <div style="margin-bottom:4px; font-size:12px; color:#4b5563;">
-              ${pubDate}
-            </div>
-            <div style="margin-bottom:4px;">
-              ${bodyPost}
-            </div>
-          </article>
-          <hr style="border:none; border-top:1px solid #e5e7eb; margin:0 0 16px;" />
-        `;
-      });
-
-      blogReaderOffset += slice.length;
-
-      if (blogReaderOffset >= globalBlogItems.length) {
-        articleBody.innerHTML += `
-          <div style="text-align:center; margin-top:10px; font-size:12px; color:#6b7280;">
-            No more blog posts for now.
-          </div>
-        `;
-      }
-    }
-
-    document.addEventListener('click', (event) => {
-      const card = event.target.closest('.card');
-      if (!card) return;
-
-      lastScrollY = window.scrollY;
-
-      const externalUrl = card.getAttribute('data-external');
-      const full = card.getAttribute('data-full') || '';
-      const category = (card.dataset.category || '').toLowerCase();
-      const isBlog = (card.dataset.source || '').toLowerCase() === 'blog' || category === 'blog';
-
-      // NEWS normal: se não tem texto interno → vai pra fonte original
-      if (!isBlog && externalUrl && !full) {
-        window.location.href = externalUrl;
-        return;
-      }
-
-      // BLOG: reader com várias notícias (10 em 10) + começando do card clicado
-      if (isBlog && globalBlogItems && globalBlogItems.length) {
-        blogReaderActive = true;
-
-        const idxFromCard = parseInt(card.dataset.blogIndex || '0', 10);
-        blogReaderOffset = isNaN(idxFromCard) ? 0 : idxFromCard;
-
-        articleImageBox.innerHTML = '';
-        articleTitle.innerHTML = '';
-
-        renderBlogBatch(true);
-
-        articleView.classList.add('open');
-        articleView.scrollIntoView({
-          behavior: 'smooth',
-          block: 'start'
-        });
-
-        return;
-      }
-
-      // Modo padrão (News ou Blog sem lista) – imagem menor e inteira
-      const title = card.querySelector('.title')?.innerHTML || '';
-      const desc  = card.querySelector('.desc')?.innerHTML || '';
-
-      const imgSrc = card.querySelector('img')?.src || '';
-      articleImageBox.innerHTML = imgSrc
-        ? `<img src="${imgSrc}" style="width:100%; max-height:420px; object-fit:contain; border-radius:12px; margin-bottom:20px; background:#000;" />`
-        : '';
-
-      articleTitle.innerHTML = title;
-      articleBody.innerHTML  = full || desc;
-
-      articleView.classList.add('open');
-
-      articleView.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start'
-      });
-    });
-
-    articleClose.addEventListener('click', () => {
-      articleView.classList.remove('open');
-      blogReaderActive = false;
-      blogReaderOffset = 0;
-      window.scrollTo(0, lastScrollY);
-    });
-
-    articleView.addEventListener('click', (e) => {
-      if (e.target === articleView) {
-        articleView.classList.remove('open');
-        blogReaderActive = false;
-        blogReaderOffset = 0;
-        window.scrollTo(0, lastScrollY);
-      }
-    });
-
-    // Infinite scroll dentro do reader do Blog (rola a página → carrega mais 10)
-    window.addEventListener('scroll', () => {
-      if (!blogReaderActive) return;
-      if (!articleView.classList.contains('open')) return;
-      if (!globalBlogItems || !globalBlogItems.length) return;
-      if (blogReaderOffset >= globalBlogItems.length) return;
-
-      const rect = articleBody.getBoundingClientRect();
-      const distanceToBottom = rect.bottom - window.innerHeight;
-
-      if (distanceToBottom < 400) {
-        renderBlogBatch(false);
-      }
-    });
-  </script>
-
-  <!-- SCRIPT 2: Carrega news + intercala NEWS / BLOG no mesmo grid -->
-  <script>
-    const newsGrid   = document.getElementById('newsGrid');
-    const blogGrid   = document.getElementById('blogGrid');
-    const loading    = document.getElementById('loadingNews');
-    const BLOG_POSTS_URL = "https://blog.btcbrave.store/posts.json";
-
-    // slug global (único) para news + blog
-    const slugCount = {};
-
-    function createSlug(title) {
-      if (!title) return "";
-      return title
-        .toLowerCase()
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .replace(/[^a-z0-9 ]/g, "")
-        .trim()
-        .replace(/\s+/g, "-");
-    }
-
-    function assignSlug(item, fallbackIndex) {
-      let base =
-        (item.slug || item.id || item.guid || item.title || ('post-' + fallbackIndex))
-          .toString()
-          .toLowerCase();
-
-      base = base
-        .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-        .replace(/[^a-z0-9]+/g, '-')
-        .replace(/(^-|-$)/g, '');
-
-      if (!base) base = 'post-' + fallbackIndex;
-
-      const count = (slugCount[base] || 0) + 1;
-      slugCount[base] = count;
-
-      item._slug = count > 1 ? `${base}-${count}` : base;
-    }
-
-    function getSourceName(url) {
-      if (!url) return 'NEWS';
+    function safeHttpUrl(value) {
       try {
-        const u = new URL(url);
-        const host = u.hostname.replace('www.', '').toLowerCase();
-
-        if (host.includes('cointelegraph'))  return 'Cointelegraph';
-        if (host.includes('cryptonews'))     return 'CryptoNews';
-        if (host.includes('coindesk'))       return 'CoinDesk';
-        if (host.includes('yahoo'))          return 'Yahoo Finance';
-        if (host.includes('investors.com'))  return 'Investors.com';
-        if (host.includes('wsj.com'))        return 'WSJ';
-        if (host.includes('investing.com'))  return 'Investing.com';
-        if (host.includes('marketwatch'))    return 'MarketWatch';
-        if (host.includes('bloomberg'))      return 'Bloomberg';
-        if (host.includes('cnbc'))           return 'CNBC';
-        if (host.includes('forbes'))         return 'Forbes';
-
-        if (host.includes('bbc'))            return 'BBC News';
-        if (host.includes('cnn'))            return 'CNN';
-        if (host.includes('reuters'))        return 'Reuters';
-        if (host.includes('aljazeera'))      return 'Al Jazeera';
-        if (host.includes('msn'))            return 'MSN News';
-        if (host.includes('apnews'))         return 'AP News';
-        if (host.includes('nytimes'))        return 'The New York Times';
-        if (host.includes('washingtonpost')) return 'The Washington Post';
-
-        if (host.includes('gamespot'))       return 'GameSpot';
-        if (host.includes('polygon'))        return 'Polygon';
-
-        if (host.includes('allrecipes'))     return 'AllRecipes';
-        if (host.includes('thespruceeats'))  return 'The Spruce Eats';
-        if (host.includes('bonappetit'))     return 'Bon Appétit';
-
-        if (host.includes('blog.btcbrave.store')) {
-          return 'BTCBRAVE Blog';
-        }
-
-        return host.toUpperCase();
-      } catch (e) {
-        return 'NEWS';
-      }
+        if (!plainText(value).trim()) return '';
+        const u = new URL(plainText(value).trim(), location.href);
+        return ['http:', 'https:'].includes(u.protocol) ? u.href : '';
+      } catch (_) { return ''; }
     }
 
-    function getCategory(url) {
-      if (!url) return 'all';
-      try {
-        const u = new URL(url);
-        const host = u.hostname.replace('www.', '').toLowerCase();
-
-        if (
-          host.includes('cointelegraph')  ||
-          host.includes('cryptonews')     ||
-          host.includes('coindesk')       ||
-          host.includes('yahoo')          ||
-          host.includes('investors.com')  ||
-          host.includes('wsj.com')        ||
-          host.includes('investing.com')  ||
-          host.includes('marketwatch')    ||
-          host.includes('bloomberg')      ||
-          host.includes('cnbc')           ||
-          host.includes('forbes')
-        ) {
-          return 'crypto';
-        }
-
-        if (host.includes('gamespot') || host.includes('polygon')) {
-          return 'games';
-        }
-
-        if (host.includes('bonappetit') || host.includes('thespruceeats') || host.includes('allrecipes')) {
-          return 'food';
-        }
-
-        if (
-          host.includes('reuters')       ||
-          host.includes('bbc')           ||
-          host.includes('cnn')           ||
-          host.includes('aljazeera')     ||
-          host.includes('msn')           ||
-          host.includes('apnews')        ||
-          host.includes('nytimes')       ||
-          host.includes('washingtonpost')
-        ) {
-          return 'world';
-        }
-
-        if (host.includes('blog.btcbrave.store')) {
-          return 'blog';
-        }
-
-        return 'all';
-      } catch (e) {
-        return 'all';
-      }
+    function plainText(value) {
+      return String(value == null ? '' : value);
     }
 
     function parseDate(value) {
-      if (!value) return new Date();
+      if (!value) return new Date(0);
       const d = new Date(value);
-      if (isNaN(d.getTime())) return new Date();
-      return d;
+      return Number.isFinite(d.getTime()) ? d : new Date(0);
     }
 
-    function buildCard(item, isBlog) {
-      const pub        = parseDate(item.pubDate);
-      const hasImage   = item.thumbnail && item.thumbnail.startsWith('http');
-      const sourceName = item.sourceOverride || getSourceName(item.link || '');
+    function getSourceName(link) {
+      let host = '';
+      try { host = new URL(link).hostname.toLowerCase().replace(/^www\./, ''); }
+      catch (_) { return 'NEWS'; }
+      const names = {
+        'cointelegraph.com':'Cointelegraph', 'cryptonews.com':'CryptoNews',
+        'coindesk.com':'CoinDesk', 'yahoo.com':'Yahoo Finance',
+        'investors.com':'Investors.com', 'wsj.com':'WSJ',
+        'investing.com':'Investing.com', 'marketwatch.com':'MarketWatch',
+        'bloomberg.com':'Bloomberg', 'cnbc.com':'CNBC', 'forbes.com':'Forbes',
+        'bbc.co.uk':'BBC News', 'bbc.com':'BBC News', 'cnn.com':'CNN',
+        'reuters.com':'Reuters', 'aljazeera.com':'Al Jazeera',
+        'msn.com':'MSN News', 'apnews.com':'AP News', 'nytimes.com':'The New York Times',
+        'washingtonpost.com':'The Washington Post', 'gamespot.com':'GameSpot',
+        'polygon.com':'Polygon', 'allrecipes.com':'Allrecipes',
+        'thespruceeats.com':'The Spruce Eats', 'bonappetit.com':'Bon Appétit'
+      };
+      const match = Object.keys(names).find(domain => host === domain || host.endsWith('.' + domain));
+      return match ? names[match] : host.toUpperCase();
+    }
 
-      const categoryFromField = (item.category || '').toLowerCase();
-      const categoryDetected  = getCategory(item.link || '');
-      let category = 'all';
+    function getCategory(link) {
+      const name = getSourceName(link);
+      if (['Cointelegraph','CryptoNews','CoinDesk'].includes(name)) return 'crypto';
+      if (['Yahoo Finance','Investors.com','WSJ','Investing.com','MarketWatch','Bloomberg','CNBC','Forbes'].includes(name)) return 'finance';
+      if (['GameSpot','Polygon'].includes(name)) return 'games';
+      if (['Allrecipes','The Spruce Eats','Bon Appétit'].includes(name)) return 'food';
+      if (['BBC News','CNN','Reuters','Al Jazeera','MSN News','AP News','The New York Times','The Washington Post'].includes(name)) return 'world';
+      return 'all';
+    }
 
-      // BLOG → usa a categoria do JSON (ou "blog" se não tiver)
-      if (isBlog) {
-        category = categoryFromField || 'blog';
-      } else {
-        // NEWS → categoria do JSON, senão detecta pelo link
-        category = categoryFromField || categoryDetected || 'all';
+    function createSlug(title) {
+      return plainText(title).toLowerCase().normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-|-$/g, '').slice(0, 72) || 'article';
+    }
+
+    function stableHash(text) {
+      let h = 2166136261;
+      for (const c of plainText(text)) {
+        h ^= c.charCodeAt(0);
+        h = Math.imul(h, 16777619);
       }
+      return (h >>> 0).toString(36);
+    }
 
-      category = category.toLowerCase();
+    function assignSlug(item, idx) {
+      const base = createSlug(item.slug || item.id || item.guid || item.title || 'post-' + idx);
+      item._slug = `${base}-${stableHash(item.link || item.title || idx)}`;
+    }
 
-      const fullText   = item.fullText || '';
-      const titleSafe  = (item.title || '').replace(/'/g, "\\'");
-      const basicSlug  = item.slug || createSlug(item.title || '');
+    // Só permite tags de formatação e links/imagens HTTP(S) vindos dos posts.
+    // Impede scripts, eventos onclick, iframes, estilos perigosos e URLs javascript:.
+    const allowedTags = new Set(['p','div','span','br','strong','b','em','i','u',
+      'h2','h3','h4','h5','ul','ol','li','blockquote','a','img','pre','code','hr']);
+    const forbiddenTags = new Set(['script','style','svg','math','iframe','object','embed',
+      'form','input','button','textarea','select','link','meta','base']);
 
-      let finalLink = '';
-
-      if (item.link && item.link.trim()) {
-        finalLink = item.link.trim();
-      } else if (basicSlug && isBlog) {
-        finalLink = `https://blog.btcbrave.store/${basicSlug}.html`;
+    function appendSafeNode(parent, source) {
+      if (source.nodeType === Node.TEXT_NODE) {
+        parent.appendChild(document.createTextNode(source.textContent || ''));
+        return;
       }
+      if (source.nodeType !== Node.ELEMENT_NODE) return;
+      const tag = source.tagName.toLowerCase();
+      if (forbiddenTags.has(tag)) return;
+      if (!allowedTags.has(tag)) {
+        Array.from(source.childNodes).forEach(c => appendSafeNode(parent, c));
+        return;
+      }
+      const out = document.createElement(tag);
+      if (tag === 'a') {
+        const href = safeHttpUrl(source.getAttribute('href'));
+        if (href) {
+          out.href = href;
+          out.target = '_blank';
+          out.rel = 'noopener noreferrer';
+        }
+      }
+      if (tag === 'img') {
+        const src = safeHttpUrl(source.getAttribute('src'));
+        if (!src) return;
+        out.src = src;
+        out.alt = source.getAttribute('alt') || '';
+        out.loading = 'lazy';
+        out.style.maxWidth = '100%';
+        out.style.height = 'auto';
+      }
+      Array.from(source.childNodes).forEach(c => appendSafeNode(out, c));
+      parent.appendChild(out);
+    }
 
-      const slugUnique = item._slug || basicSlug || '';
-      const permUrl = slugUnique
-        ? `https://news.btcbrave.store/?post=${encodeURIComponent(slugUnique)}`
-        : '';
+    function appendSafeHtml(parent, markup) {
+      const source = new DOMParser().parseFromString('<div>' + plainText(markup) + '</div>', 'text/html');
+      const root = source.body.firstElementChild;
+      if (root) Array.from(root.childNodes).forEach(c => appendSafeNode(parent, c));
+    }
 
-      const originalUrl = finalLink || permUrl || '';
+    function makeImage(url, title) {
+      const src = safeHttpUrl(url);
+      const placeholder = document.createElement('div');
+      placeholder.className = 'card-img-placeholder';
+      placeholder.textContent = 'BTCBRAVE NEWS';
+      if (!src) return placeholder;
+      const img = document.createElement('img');
+      img.className = 'card-img-medium';
+      img.src = src;
+      img.alt = title;
+      img.loading = 'lazy';
+      img.decoding = 'async';
+      img.addEventListener('error', () => img.replaceWith(placeholder), {once:true});
+      return img;
+    }
 
+    function buildCard(item, isBlog, blogIndex) {
+      const title = plainText(item.title);
+      const link = safeHttpUrl(item.link);
+      const category = plainText(item.category || (isBlog ? 'blog' : getCategory(link))).toLowerCase();
       const card = document.createElement('article');
-      card.classList.add('card');
+      card.className = 'card';
+      card.dataset.category = category;
+      card.dataset.source = isBlog ? 'blog' : 'news';
+      card.dataset.slug = item._slug || '';
+      card.dataset.blogIndex = String(blogIndex ?? 0);
+      card.dataset.external = !isBlog ? link : '';
+      card.dataset.full = isBlog ? '' : plainText(item.fullText);
+      card.tabIndex = 0;
+      card.setAttribute('role', 'link');
+      card.setAttribute('aria-label', title);
+      card.appendChild(makeImage(item.thumbnail, title));
 
-      card.setAttribute('data-url', originalUrl);
-
-      if (!isBlog && originalUrl) {
-        card.setAttribute('data-external', originalUrl);
-      } else if (isBlog && !fullText && originalUrl) {
-        card.setAttribute('data-external', originalUrl);
+      if (isBlog) {
+        const share = document.createElement('button');
+        share.type = 'button';
+        share.className = 'share-btn';
+        share.textContent = '↗ Share';
+        Object.assign(share.style, {position:'absolute', top:'12px', right:'12px', zIndex:'5',
+          background:'#111',padding:'8px 12px',borderRadius:'10px',cursor:'pointer',
+          border:'1px solid #333',color:'#fff'});
+        share.addEventListener('click', e => {
+          e.stopPropagation();
+          const url = link || `https://news.btcbrave.store/?post=${encodeURIComponent(item._slug || '')}`;
+          shareBlogPost(url, title);
+        });
+        card.appendChild(share);
       }
 
-      card.dataset.pubdate  = pub.toISOString();
-      card.dataset.category = category || 'all';
-      card.dataset.slug     = slugUnique;
-      card.dataset.source   = isBlog ? 'blog' : 'news';
-
-      if (fullText) {
-        card.setAttribute('data-full', fullText);
-      }
-
-      const shareUrl     = originalUrl || permUrl || '';
-      const shareUrlSafe = shareUrl.replace(/'/g, "\\'");
-
-      card.innerHTML = `
-        ${hasImage
-          ? `<img src="${item.thumbnail}" class="card-img-medium" />`
-          : `<div class="card-img-medium" style="background:#05060a;"></div>`}
-
-        ${isBlog ? `
-        <button class="share-btn"
-             type="button"
-             onclick="event.stopPropagation(); shareBlogPost('${shareUrlSafe}', '${titleSafe}')"
-             style="
-              position:absolute;
-              top:12px;
-              right:12px;
-              z-index:5;
-              background:#111;
-              padding:6px 12px;
-              border-radius:10px;
-              font-size:13px;
-              cursor:pointer;
-              border:1px solid #333;
-              color:#fff;
-              display:flex;
-              align-items:center;
-              gap:6px;
-             ">
-             <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
-                  viewBox="0 0 24 24" fill="none" stroke="white"
-                  stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-               <path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path>
-               <polyline points="16 6 12 2 8 6"></polyline>
-               <line x1="12" y1="2" x2="12" y2="15"></line>
-             </svg>
-             Share
-        </button>
-        ` : ``}
-
-        <div class="card-body">
-          <div class="title"><strong>${item.title || ''}</strong></div>
-          <div class="desc">${(item.description || '').substring(0, 120)}...</div>
-          <div class="meta-row">
-            <span>${pub.toLocaleDateString()} • ${sourceName}</span>
-          </div>
-        </div>
-      `;
-
+      const body = document.createElement('div');
+      body.className = 'card-body';
+      const heading = document.createElement('div');
+      heading.className = 'title';
+      const strong = document.createElement('strong');
+      strong.textContent = title;
+      heading.appendChild(strong);
+      const desc = document.createElement('div');
+      desc.className = 'desc';
+      const summary = plainText(item.description);
+      desc.textContent = summary.length > 120 ? summary.slice(0, 120) + '…' : summary;
+      const meta = document.createElement('div');
+      meta.className = 'meta-row';
+      const date = parseDate(item.pubDate);
+      const dateText = date.getTime() ? date.toLocaleDateString() : '';
+      meta.textContent = `${dateText} • ${isBlog ? 'BTCBRAVE Blog' : getSourceName(link)}`;
+      body.append(heading, desc, meta);
+      card.appendChild(body);
+      card.addEventListener('click', e => openArticle(item, isBlog, blogIndex, card, e));
+      card.addEventListener('keydown', e => {
+        if (e.key === 'Enter' && e.target === card) {
+          e.preventDefault();
+          openArticle(item, isBlog, blogIndex, card, e);
+        }
+      });
       return card;
     }
 
-    async function loadAllNews() {
-      if (loading) loading.style.display = 'block';
-
-      try {
-        const now = new Date();
-
-        const [rssResp, blogResp] = await Promise.all([
-          fetch('news.json?_=' + Date.now()),
-          fetch(BLOG_POSTS_URL + '?_=' + Date.now())
-        ]);
-
-        let newsItems = [];
-        let blogItems = [];
-
-        if (rssResp.ok) {
-          const rssItems = await rssResp.json();
-          newsItems = rssItems.map((it, idx) => {
-            const url = (it.link && it.link.trim()) ? it.link.trim() : '';
-            const cat = it.category || getCategory(url);
-
-            const item = {
-              ...it,
-              link: url,
-              category: cat || 'all',
-              isBlog: false,
-              sourceOverride: null
-            };
-
-            assignSlug(item, idx);
-            return item;
-          });
+    function renderBlogBatch(reset = false) {
+      if (reset) articleBody.replaceChildren();
+      if (!globalBlogItems.length || blogReaderOffset >= globalBlogItems.length) return;
+      const slice = globalBlogItems.slice(blogReaderOffset, blogReaderOffset + BLOG_BATCH_SIZE);
+      const fragment = document.createDocumentFragment();
+      slice.forEach(post => {
+        const article = document.createElement('article');
+        article.style.marginBottom = '24px';
+        const thumb = safeHttpUrl(post.thumbnail);
+        if (thumb) {
+          const img = document.createElement('img');
+          img.src = thumb;
+          img.alt = plainText(post.title);
+          img.loading = 'lazy';
+          Object.assign(img.style, {width:'100%',maxHeight:'260px',objectFit:'cover',borderRadius:'10px'});
+          article.appendChild(img);
         }
-
-        if (blogResp.ok) {
-          let jsonBlog = await blogResp.json();
-          blogItems = jsonBlog.map((it, idx) => {
-            const url = (it.link && it.link.trim()) ? it.link.trim() : '';
-
-            const item = {
-              ...it,
-              link: url,
-              isBlog: true,
-              category: it.category || 'blog',
-              sourceOverride: 'BTCBRAVE Blog'
-            };
-
-            assignSlug(item, 10000 + idx); // evitar clash
-            return item;
-          });
-        }
-
-        // filtra só passado/agora
-        newsItems = newsItems.filter(it => parseDate(it.pubDate) <= now);
-        blogItems = blogItems.filter(it => parseDate(it.pubDate) <= now);
-
-        // ordena por data desc (mantemos ordenação por data dentro de cada lista)
-        newsItems.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
-        blogItems.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
-
-        // salva posts do blog na variável global para o reader infinito
-        globalBlogItems = blogItems;
-
-        // limpa grids
-        if (newsGrid) newsGrid.innerHTML = '';
-        if (blogGrid) blogGrid.innerHTML = '';
-
-        // INTERCALAR: 1 do blog, 1 de news, e assim por diante
-        let combined = [];
-        let ni = 0, bi = 0;
-        while (ni < newsItems.length || bi < blogItems.length) {
-          if (bi < blogItems.length) {
-            combined.push({ item: blogItems[bi], isBlog: true, blogIndex: bi });
-            bi++;
-          }
-          if (ni < newsItems.length) {
-            combined.push({ item: newsItems[ni], isBlog: false });
-            ni++;
-          }
-        }
-
-        combined.forEach(({ item, isBlog, blogIndex }) => {
-          const card = buildCard(item, isBlog);
-          if (isBlog && typeof blogIndex !== 'undefined') {
-            card.dataset.blogIndex = blogIndex;
-          }
-          newsGrid.appendChild(card);
-        });
-
-        // aplica filtro atual no único grid
-        const activeBtn = document.querySelector('.filter-btn.active');
-        const currentFilter = activeBtn ? activeBtn.dataset.filter : 'all';
-        applyFilter(currentFilter);
-
-        // ?post=slug → procura no grid
-        const params = new URLSearchParams(window.location.search);
-        const targetSlug = params.get('post');
-        if (targetSlug) {
-          const targetCard = document.querySelector(
-            '#newsGrid .card[data-slug="' + targetSlug + '"]'
-          );
-          if (targetCard) {
-            targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            targetCard.click();
-          }
-        }
-
-      } catch (e) {
-        console.log('NEWS MERGE ERROR', e);
-      } finally {
-        if (loading) loading.style.display = 'none';
-      }
+        const heading = document.createElement('h3');
+        heading.textContent = plainText(post.title);
+        heading.style.color = '#111827';
+        article.appendChild(heading);
+        const date = document.createElement('div');
+        date.style.cssText = 'font-size:12px;color:#4b5563;margin-bottom:8px;';
+        const d = parseDate(post.pubDate);
+        date.textContent = d.getTime() ? d.toLocaleDateString() : '';
+        article.appendChild(date);
+        const text = document.createElement('div');
+        // fullText é HTML do blog; sanitizado antes de inserir no leitor.
+        appendSafeHtml(text, post.fullText || post.description || '');
+        article.appendChild(text);
+        fragment.appendChild(article);
+        fragment.appendChild(document.createElement('hr'));
+      });
+      articleBody.appendChild(fragment);
+      blogReaderOffset += slice.length;
     }
 
-    const filterBar = document.querySelector('.filter-bar');
+    function openArticle(item, isBlog, blogIndex, card, event) {
+      if (event?.target?.closest('.share-btn')) return;
+      lastScrollY = window.scrollY;
+      if (!isBlog && card.dataset.external && !item.fullText) {
+        window.location.href = card.dataset.external;
+        return;
+      }
+      articleImageBox.replaceChildren();
+      articleTitle.textContent = isBlog ? '' : plainText(item.title);
+      if (isBlog && globalBlogItems.length) {
+        blogReaderActive = true;
+        blogReaderOffset = Number.isInteger(blogIndex) ? blogIndex : 0;
+        renderBlogBatch(true);
+      } else {
+        blogReaderActive = false;
+        articleBody.replaceChildren();
+        if (safeHttpUrl(item.thumbnail)) {
+          const img = document.createElement('img');
+          img.src = safeHttpUrl(item.thumbnail);
+          img.alt = plainText(item.title);
+          img.style.cssText = 'width:100%;max-height:420px;object-fit:contain;border-radius:12px;margin-bottom:20px;';
+          articleImageBox.appendChild(img);
+        }
+        appendSafeHtml(articleBody, item.fullText || item.description || '');
+      }
+      articleView.classList.add('open');
+      articleView.scrollIntoView({behavior:'smooth',block:'start'});
+    }
+
+    function closeArticle() {
+      articleView.classList.remove('open');
+      blogReaderActive = false;
+      blogReaderOffset = 0;
+      window.scrollTo({top:lastScrollY,behavior:'auto'});
+    }
+    articleClose.addEventListener('click', closeArticle);
+    articleView.addEventListener('click', e => { if (e.target === articleView) closeArticle(); });
+    window.addEventListener('scroll', () => {
+      if (!blogReaderActive || !articleView.classList.contains('open')) return;
+      if (blogReaderOffset >= globalBlogItems.length) return;
+      if (articleBody.getBoundingClientRect().bottom - window.innerHeight < 450) renderBlogBatch();
+    }, {passive:true});
+
+    function rebuildCombined() {
+      const news = storedNews.map((item, i) => {
+        const n = {...item, category:item.category || getCategory(item.link)};
+        assignSlug(n, i);
+        return n;
+      }).filter(x => parseDate(x.pubDate).getTime() <= Date.now());
+      const blog = storedBlog.map((item, i) => {
+        const n = {...item, category:item.category || 'blog'};
+        assignSlug(n, i + 10000);
+        return n;
+      }).filter(x => parseDate(x.pubDate).getTime() <= Date.now());
+      news.sort((a,b) => parseDate(b.pubDate) - parseDate(a.pubDate));
+      blog.sort((a,b) => parseDate(b.pubDate) - parseDate(a.pubDate));
+      globalBlogItems = blog;
+      allCombined = [];
+      let ni = 0, bi = 0;
+      // Mantém o visual original: 1 notícia do blog, 1 notícia externa.
+      while (ni < news.length || bi < blog.length) {
+        if (bi < blog.length) allCombined.push({item:blog[bi],isBlog:true,blogIndex:bi++});
+        if (ni < news.length) allCombined.push({item:news[ni++],isBlog:false});
+      }
+      applyFilter(currentFilter);
+    }
+
+    function renderNextBatch() {
+      if (renderOffset >= filteredCombined.length) {
+        loadMoreWrap.style.display = 'none';
+        return;
+      }
+      const frag = document.createDocumentFragment();
+      const end = Math.min(renderOffset + RENDER_BATCH_SIZE, filteredCombined.length);
+      while (renderOffset < end) {
+        const {item, isBlog, blogIndex} = filteredCombined[renderOffset++];
+        frag.appendChild(buildCard(item, isBlog, blogIndex));
+      }
+      newsGrid.appendChild(frag);
+      loadMoreWrap.style.display = renderOffset < filteredCombined.length ? 'block' : 'none';
+    }
 
     function applyFilter(filter) {
-      const cards = document.querySelectorAll('#newsGrid .card');
+      currentFilter = filter;
+      filteredCombined = allCombined.filter(({item,isBlog}) =>
+        filter === 'all' || (filter === 'blog' ? isBlog :
+          (plainText(item.category || getCategory(item.link)).toLowerCase() === filter)));
+      newsGrid.replaceChildren();
+      renderOffset = 0;
+      emptyState.style.display = filteredCombined.length ? 'none' : 'block';
+      renderNextBatch();
+    }
+    loadMoreBtn.addEventListener('click', renderNextBatch);
+    document.querySelector('.filter-bar').addEventListener('click', e => {
+      const btn = e.target.closest('.filter-btn');
+      if (!btn) return;
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b === btn));
+      applyFilter(btn.dataset.filter || 'all');
+    });
 
-      cards.forEach(card => {
-        const cat    = (card.dataset.category || 'other').toLowerCase();
-        const source = (card.dataset.source || 'news').toLowerCase();
-
-        let show = false;
-
-        if (filter === 'all') {
-          show = true;
-        } else if (filter === 'blog') {
-          // Botão BLOG → só posts do blog
-          show = (source === 'blog');
-        } else {
-          // Crypto, World, Games, Cooking → pela categoria
-          show = (cat === filter.toLowerCase());
-        }
-
-        card.style.display = show ? '' : 'none';
-      });
+    // Ao chegar perto do fim da lista visível, carrega mais cards sem criar milhares de nós.
+    if ('IntersectionObserver' in window) {
+      const observer = new IntersectionObserver(entries => {
+        if (entries.some(e => e.isIntersecting) && !articleView.classList.contains('open')) renderNextBatch();
+      }, {rootMargin:'500px'});
+      observer.observe(loadMoreWrap);
     }
 
-    if (filterBar) {
-      filterBar.addEventListener('click', (e) => {
-        const btn = e.target.closest('.filter-btn');
-        if (!btn) return;
+    async function fetchJson(url) {
+      const target = url + (url.includes('?') ? '&' : '?') + '_=' + Date.now();
+      const response = await fetch(target, {cache:'no-store'});
+      if (!response.ok) throw new Error('HTTP ' + response.status);
+      const json = await response.json();
+      if (!Array.isArray(json)) throw new Error('JSON inválido (esperado array)');
+      return json;
+    }
 
-        const filter = btn.dataset.filter || 'all';
+    async function loadAllNews() {
+      if (refreshInProgress) return;
+      refreshInProgress = true;
+      if (!lastCheckAt) loading.style.display = 'block';
+      try {
+        const outcomes = await Promise.allSettled([fetchJson('news.json'), fetchJson(BLOG_POSTS_URL)]);
+        const okNews = outcomes[0].status === 'fulfilled';
+        const okBlog = outcomes[1].status === 'fulfilled';
+        if (okNews) storedNews = outcomes[0].value;
+        if (okBlog) storedBlog = outcomes[1].value;
+        const fingerprint = JSON.stringify([storedNews, storedBlog]);
+        if (fingerprint !== lastFingerprint) {
+          lastFingerprint = fingerprint;
+          rebuildCombined();
+        }
+        if (okNews || okBlog) {
+          const clock = new Date().toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
+          newsStatus.textContent = (okNews && okBlog ? 'Last checked: ' : 'Some sources unavailable. Last checked: ') + clock;
+        } else {
+          newsStatus.textContent = 'Unable to refresh. Showing the last available news.';
+          console.warn('News fetch failed:', outcomes[0].reason, outcomes[1].reason);
+        }
+        lastCheckAt = Date.now();
 
-        document.querySelectorAll('.filter-btn').forEach(b => {
-          b.classList.toggle('active', b === btn);
-        });
-
-        applyFilter(filter);
-      });
+        // Link permanente ao artigo: tenta achar no lote, mesmo quando não está visível.
+        const targetSlug = new URLSearchParams(location.search).get('post');
+        if (targetSlug && !window._btcbravePermalinkOpened) {
+          const idx = allCombined.findIndex(x => x.item._slug === targetSlug);
+          if (idx >= 0) {
+            window._btcbravePermalinkOpened = true;
+            if (currentFilter !== 'all') applyFilter('all');
+            while (renderOffset <= idx && renderOffset < filteredCombined.length) renderNextBatch();
+            const card = Array.from(newsGrid.querySelectorAll('.card'))[idx];
+            if (card) { card.scrollIntoView({block:'center'}); card.click(); }
+          }
+        }
+      } catch (e) {
+        console.error('BTCBRAVE refresh error', e);
+        newsStatus.textContent = 'Unable to refresh. Check your internet connection.';
+      } finally {
+        refreshInProgress = false;
+        loading.style.display = 'none';
+      }
     }
 
     loadAllNews();
-    setInterval(loadAllNews, 86400000);
+    setInterval(loadAllNews, NEWS_REFRESH_MS);
+    document.addEventListener('visibilitychange', () => {
+      if (!document.hidden && Date.now() - lastCheckAt > NEWS_REFRESH_MS / 2) loadAllNews();
+    });
   </script>
 
   <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const overlay  = document.getElementById('btcbraveLoginOverlay');
+    document.addEventListener('DOMContentLoaded', () => {
+      const overlay = document.getElementById('btcbraveLoginOverlay');
       const closeBtn = document.getElementById('btcbraveLoginClose');
-      const floatBtn = document.getElementById('floating-subscribe');
-      const form     = document.getElementById('btcbraveLoginForm');
-      const emailInp = document.getElementById('btcbraveLoginEmail');
-
-      if (!overlay) return;
-
-      function openLogin() {
-        overlay.style.display = 'flex';
-      }
-
-      function closeLogin() {
-        overlay.style.display = 'none';
-      }
-
-      function isValidEmail(email) {
-        return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-      }
-
-      const isSubscribed = localStorage.getItem('btcbraveSubscribed') === 'true';
-
-      if (!isSubscribed) {
-        setTimeout(openLogin, 1500);
-      }
-
-      if (floatBtn) {
-        floatBtn.addEventListener('click', function () {
-          if (localStorage.getItem('btcbraveSubscribed') === 'true') {
-            const confirmUnsub = confirm(
-              "You are already subscribed.\nDo you want to unsubscribe?"
-            );
-
-            if (confirmUnsub) {
-              localStorage.removeItem('btcbraveSubscribed');
-              alert('You are now unsubscribed.');
-            }
-          } else {
-            openLogin();
-          }
-        });
-      }
-
-      if (closeBtn) {
-        closeBtn.addEventListener('click', closeLogin);
-      }
-
-      overlay.addEventListener('click', function (e) {
-        if (e.target === overlay) {
-          closeLogin();
-        }
+      const bell = document.getElementById('floating-subscribe');
+      const form = document.getElementById('btcbraveLoginForm');
+      const email = document.getElementById('btcbraveLoginEmail');
+      const iframe = document.querySelector('iframe[name="hiddenBrevoFrame"]');
+      if (!overlay || !form) return;
+      const open = () => { overlay.style.display = 'flex'; };
+      const close = () => { overlay.style.display = 'none'; };
+      const previousRequest = Number(localStorage.getItem('btcbraveSubscribeRequestAt') || 0);
+      const recentlySubmitted = previousRequest && Date.now() - previousRequest < 30 * 86400000;
+      // Legado: evita mostrar o formulário repetidamente a visitantes antigos.
+      const legacy = localStorage.getItem('btcbraveSubscribed') === 'true';
+      if (!recentlySubmitted && !legacy) setTimeout(open, 1500);
+      closeBtn.addEventListener('click', close);
+      overlay.addEventListener('click', e => { if (e.target === overlay) close(); });
+      // Sem integração com a API do Brevo não é possível remover a inscrição por aqui.
+      // O cancelamento real é feito pelo link unsubscribe de cada email.
+      bell?.addEventListener('click', open);
+      let submitted = false;
+      iframe?.addEventListener('load', () => {
+        if (!submitted) return;
+        submitted = false;
+        alert('Subscription request sent. Please check your inbox for confirmation.');
+        close();
       });
-
-      if (form && emailInp) {
-        form.addEventListener('submit', function (e) {
-          const email = emailInp.value.trim();
-
-          if (!isValidEmail(email)) {
-            e.preventDefault();
-            alert('Please enter a valid email address.');
-            return;
-          }
-
-          localStorage.setItem('btcbraveSubscribed', 'true');
-
-          setTimeout(function () {
-            alert('Subscribed! Please check your inbox to confirm.');
-            closeLogin();
-          }, 800);
-        });
-      }
+      form.addEventListener('submit', event => {
+        const value = email.value.trim();
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) {
+          event.preventDefault();
+          alert('Please enter a valid email address.');
+          return;
+        }
+        // Indica somente envio do formulário, NÃO confirmação de inscrição.
+        localStorage.setItem('btcbraveSubscribeRequestAt', String(Date.now()));
+        submitted = true;
+      });
     });
   </script>
 
