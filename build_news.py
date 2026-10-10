@@ -1,208 +1,337 @@
+"""BTCBRAVE News: RSS/Atom direto, com fallback rss2json e retenção segura.
+
+Dependências: pip install requests beautifulsoup4
+Opcional: segredo RSS2JSON_API_KEY no GitHub Actions.
+"""
+from __future__ import annotations
+
 import json
+import os
 import re
-import requests
+import html
+import tempfile
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
-from urllib.parse import urljoin
+from pathlib import Path
+from urllib.parse import urljoin, urlparse
+import xml.etree.ElementTree as ET
+
+import requests
 from bs4 import BeautifulSoup
 
-# Lista de feeds convertidos via rss2json
 RSS_FEEDS = [
-    # CRYPTO NEWS
-    "https://api.rss2json.com/v1/api.json?rss_url=https://cointelegraph.com/rss",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://Xryptonews.com/news/feed",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.coindesk.com/arc/outboundfeeds/rss/",
-
-    # FINANCE / BUSINESS
-    "https://api.rss2json.com/v1/api.json?rss_url=https://finance.yahoo.com/news/rssindex",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.Xnvesting.com/rss/news.rss",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.marketwatch.com/feeds/topstories",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.bloomberg.com/feed/podcast/businessweek.xml",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.cnbc.com/id/100003114/device/rss/rss.html",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.investors.com/news/feed/",
-
-    # WORLD NEWS
-    "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/rss.xml",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://rss.cnn.com/rss/edition.rss",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.reutersagency.com/feed/?best-topics=conflict&post_type=best",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.aljazeera.com/xml/rss/all.xml",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://rss.msn.com/en-us/",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://apnews.com/hub/apf-topnews?output=xml",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://Xeeds.washingtonpost.com/rss/national",
-
+    # CRYPTO
+    ('https://cointelegraph.com/rss', 'crypto'),
+    ('https://cryptonews.com/news/feed', 'crypto'),
+    ('https://www.coindesk.com/arc/outboundfeeds/rss/', 'crypto'),
+    # FINANCE / MARKETS
+    ('https://finance.yahoo.com/news/rssindex', 'finance'),
+    ('https://www.investing.com/rss/news_14.rss', 'finance'),
+    ('https://www.marketwatch.com/feeds/topstories', 'finance'),
+    ('https://www.bloomberg.com/feed/podcast/businessweek.xml', 'finance'),
+    ('https://www.cnbc.com/id/100003114/device/rss/rss.html', 'finance'),
+    ('https://www.investors.com/news/feed/', 'finance'),
+    # WORLD
+    ('https://feeds.bbci.co.uk/news/rss.xml', 'world'),
+    ('https://rss.cnn.com/rss/edition.rss', 'world'),
+    ('https://www.reutersagency.com/feed/?best-topics=conflict&post_type=best', 'world'),
+    ('https://www.aljazeera.com/xml/rss/all.xml', 'world'),
+    ('https://rss.msn.com/en-us/', 'world'),
+    ('https://apnews.com/hub/apf-topnews?output=xml', 'world'),
+    ('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 'world'),
+    ('https://feeds.washingtonpost.com/rss/national', 'world'),
     # GAMES
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.gamespot.com/feeds/news/",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.polygon.com/rss/index.xml",
-
-    # FOOD / COOKING
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.bonappetit.com/feed/rss",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.allrecipes.com/feed/",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.thespruceeats.com/rss",
-
-    # EXTRA (opcionais)
-    "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.feedburner.com/forbes/business",
-    "https://api.rss2json.com/v1/api.json?rss_url=https://www.wsj.com/xml/rss/3_7014.xml"
+    ('https://www.gamespot.com/feeds/news/', 'games'),
+    ('https://www.polygon.com/rss/index.xml', 'games'),
+    # FOOD
+    ('https://www.bonappetit.com/feed/rss', 'food'),
+    ('https://www.allrecipes.com/feed/', 'food'),
+    ('https://www.thespruceeats.com/rss', 'food'),
+    # EXTRAS
+    ('https://feeds.feedburner.com/forbes/business', 'finance'),
+    ('https://www.wsj.com/xml/rss/3_7014.xml', 'finance'),
 ]
 
-HEADERS = {
-    "User-Agent": "BTCBRAVE-NewsBot/1.0 (+https://btcbrave.store)"
-}
+OUTPUT = Path(__file__).resolve().parent / 'news.json'
+MAX_AGE = timedelta(days=7)
+MAX_PER_FEED = 200
+MAX_TOTAL = 3000
+MAX_IMAGE_LOOKUPS = 18
+HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; BTCBRAVE-NewsBot/2.0; +https://btcbrave.store)',
+           'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'}
+RSS2JSON_KEY = os.environ.get('RSS2JSON_API_KEY', '').strip()
 
-def parse_pubdate(s, now):
-    """Converte texto de data do RSS em datetime (UTC)."""
-    if not s:
-        return now
 
-    s = s.strip()
+def http_url(url):
+    if not isinstance(url, str):
+        return ''
+    url = html.unescape(url.strip())
+    p = urlparse(url)
+    return url if p.scheme in ('http', 'https') and p.netloc else ''
 
-    # 1) Formato mais comum do rss2json: "2025-11-21 23:41:07"
-    for fmt in ("%Y-%m-%d %H:%M:%S",
-                "%Y-%m-%dT%H:%M:%S",
-                "%Y-%m-%dT%H:%M:%S%z",
-                "%Y-%m-%dT%H:%M:%S.%f%z"):
-        try:
-            dt = datetime.strptime(s, fmt)
-            if dt.tzinfo is None:
-                dt = dt.replace(tzinfo=timezone.utc)
-            else:
-                dt = dt.astimezone(timezone.utc)
-            return dt
-        except Exception:
-            pass
 
-    # 2) Tenta o parser padrão (formato tipo: "Fri, 21 Nov 2025 12:34:56 GMT")
+def parse_pubdate(value):
+    """Devolve datetime UTC ou None (nunca inventa data atual)."""
+    if not value:
+        return None
+    value = str(value).strip()
     try:
-        dt = parsedate_to_datetime(s)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        else:
-            dt = dt.astimezone(timezone.utc)
-        return dt
-    except Exception:
-        # 3) Se nada funcionar, cai pro "agora" como último recurso
-        return now
+        dt = datetime.fromisoformat(value.replace('Z', '+00:00'))
+    except ValueError:
+        try:
+            dt = parsedate_to_datetime(value)
+        except (ValueError, TypeError, IndexError):
+            try:
+                dt = datetime.strptime(value, '%Y-%m-%d %H:%M:%S')
+            except ValueError:
+                return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
 
-def clean_html(text):
-    """Remove tags HTML básicas da descrição."""
-    if not text:
-        return ""
-    text = re.sub(r"<[^>]+>", "", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
+
+def clean_html(value, max_length=440):
+    if not value:
+        return ''
+    text = BeautifulSoup(str(value), 'html.parser').get_text(' ', strip=True)
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text[:max_length].rstrip()
+
+
+def first_img_markup(value, base):
+    if not value:
+        return ''
+    soup = BeautifulSoup(str(value), 'html.parser')
+    for img in soup.find_all('img'):
+        src = img.get('src') or img.get('data-src') or ''
+        result = http_url(urljoin(base, src)) if src else ''
+        if result:
+            return result
+    return ''
+
+
+def node_text(node, names):
+    for child in node:
+        tag = child.tag.rsplit('}', 1)[-1].lower()
+        if tag in names and child.text and child.text.strip():
+            return child.text.strip()
+    return ''
+
+
+def node_link(node):
+    for child in node:
+        if child.tag.rsplit('}', 1)[-1].lower() == 'link':
+            if child.get('href') and child.get('rel', 'alternate') in ('alternate', ''):
+                return child.get('href', '')
+            if child.text and child.text.strip():
+                return child.text.strip()
+    return ''
+
+
+def node_image(node, base, summary):
+    for child in node.iter():
+        tag = child.tag.rsplit('}', 1)[-1].lower()
+        if tag in ('thumbnail', 'content', 'enclosure'):
+            src = child.attrib.get('url') or ''
+            mime = child.attrib.get('type', '')
+            if tag == 'enclosure' and mime and not mime.startswith('image/'):
+                continue
+            if tag == 'content' and mime and not mime.startswith('image/'):
+                continue
+            result = http_url(urljoin(base, src)) if src else ''
+            if result:
+                return result
+    return first_img_markup(summary, base)
+
+
+def parse_xml_feed(content, base, category):
+    root = ET.fromstring(content)
+    nodes = [node for node in root.iter() if node.tag.rsplit('}', 1)[-1].lower() in ('item', 'entry')]
+    if not nodes:
+        raise ValueError('Feed sem elementos RSS/Atom')
+    out = []
+    for node in nodes[:MAX_PER_FEED]:
+        title = clean_html(node_text(node, {'title'}), 300)
+        link = http_url(urljoin(base, node_link(node)))
+        date = node_text(node, {'pubdate', 'published', 'updated', 'date', 'issued'})
+        pub = parse_pubdate(date)
+        if not title or not link or not pub:
+            continue
+        raw_desc = node_text(node, {'description', 'summary', 'encoded', 'content'})
+        thumb = node_image(node, link, raw_desc)
+        out.append({'title': title, 'description': clean_html(raw_desc), 'link': link,
+                    'thumbnail': thumb, 'pubDate': pub.isoformat(), 'category': category})
+    return out
+
+
+def parse_json_feed(data, category):
+    if data.get('status') != 'ok':
+        raise ValueError(f"rss2json status: {data.get('message', data.get('status', 'unknown'))}")
+    out = []
+    for item in data.get('items', [])[:MAX_PER_FEED]:
+        pub = parse_pubdate(item.get('pubDate') or item.get('published'))
+        title = clean_html(item.get('title'), 300)
+        link = http_url(item.get('link'))
+        if not pub or not title or not link:
+            continue
+        raw = item.get('description') or item.get('content') or ''
+        enclosure = item.get('enclosure') or {}
+        enclosure_link = enclosure.get('link', '') if isinstance(enclosure, dict) else ''
+        thumbnail = http_url(item.get('thumbnail') or enclosure_link)
+        if not thumbnail:
+            thumbnail = first_img_markup(raw, link)
+        out.append({'title': title, 'description': clean_html(raw), 'link': link,
+                    'thumbnail': thumbnail, 'pubDate': pub.isoformat(), 'category': category})
+    return out
+
+
+def fetch_feed(feed):
+    url, category = feed
+    errors = []
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=(5, 12))
+        resp.raise_for_status()
+        items = parse_xml_feed(resp.content, url, category)
+        if items:
+            return (url, items, None)
+        errors.append('RSS direto: nenhuma matéria com data válida')
+    except Exception as exc:
+        errors.append(f'RSS direto: {exc}')
+
+    # Fallback: sem chave, rss2json limita a 10 posts por feed.
+    params = {'rss_url': url}
+    if RSS2JSON_KEY:
+        params.update(api_key=RSS2JSON_KEY, count=100)
+    try:
+        resp = requests.get('https://api.rss2json.com/v1/api.json', params=params,
+                            headers=HEADERS, timeout=(5, 12))
+        resp.raise_for_status()
+        items = parse_json_feed(resp.json(), category)
+        if items:
+            return (url, items, None)
+        errors.append('rss2json: nenhuma matéria com data válida')
+    except Exception as exc:
+        errors.append(f'rss2json: {exc}')
+    return (url, [], '; '.join(errors))
+
 
 def fetch_article_image(link):
-    """
-    Tenta pegar a imagem principal da página:
-    1) <meta property="og:image">
-    2) <meta name="twitter:image">
-    3) primeira <img>
-    """
-    if not link:
-        return ""
-
     try:
-        resp = requests.get(link, timeout=60, headers=HEADERS)
-        resp.raise_for_status()
-    except Exception as e:
-        print("Error fetching article HTML:", link, e)
-        return ""
+        response = requests.get(link, headers=HEADERS, timeout=(4, 7),
+                                allow_redirects=True, stream=True)
+        response.raise_for_status()
+        # Evita transferir artigos muito grandes. Basta o HTML inicial.
+        chunks = []
+        total = 0
+        for chunk in response.iter_content(8192):
+            chunks.append(chunk)
+            total += len(chunk)
+            if total >= 300_000:
+                break
+        response.close()
+        soup = BeautifulSoup(b''.join(chunks), 'html.parser')
+        for attrs in ({'property': 'og:image'}, {'name': 'twitter:image'}):
+            meta = soup.find('meta', attrs=attrs)
+            if meta and meta.get('content'):
+                url = http_url(urljoin(link, meta['content']))
+                if url:
+                    return url
+        for img in soup.find_all('img'):
+            url = http_url(urljoin(link, img.get('src', '')))
+            if url:
+                return url
+    except requests.RequestException:
+        pass
+    return ''
 
-    html = resp.text
-    soup = BeautifulSoup(html, "html.parser")
 
-    # 1) og:image
-    og = soup.find("meta", property="og:image")
-    if og and og.get("content"):
-        src = og["content"].strip()
-        if src.startswith("//"):
-            src = "https:" + src
-        if src.startswith("/"):
-            src = urljoin(link, src)
-        if src.startswith("http"):
-            return src
+def load_old():
+    if not OUTPUT.exists():
+        return []
+    try:
+        raw = json.loads(OUTPUT.read_text(encoding='utf-8'))
+        return raw if isinstance(raw, list) else []
+    except (ValueError, OSError):
+        return []
 
-    # 2) twitter:image
-    tw = soup.find("meta", attrs={"name": "twitter:image"})
-    if tw and tw.get("content"):
-        src = tw["content"].strip()
-        if src.startswith("//"):
-            src = "https:" + src
-        if src.startswith("/"):
-            src = urljoin(link, src)
-        if src.startswith("http"):
-            return src
 
-    # 3) primeira <img>
-    img = soup.find("img")
-    if img and img.get("src"):
-        src = img["src"].strip()
-        if src.startswith("//"):
-            src = "https:" + src
-        if src.startswith("/"):
-            src = urljoin(link, src)
-        if src.startswith("http"):
-            return src
+def valid_recent(item, now):
+    if not isinstance(item, dict):
+        return False
+    d = parse_pubdate(item.get('pubDate'))
+    return bool(d and now - MAX_AGE <= d <= now + timedelta(minutes=5)
+                and http_url(item.get('link')) and item.get('title'))
 
-    return ""
 
 def main():
-    all_items = []
-    seen_links = set()
     now = datetime.now(timezone.utc)
-    max_age = timedelta(days=7)
+    previous = load_old()
+    fresh = []
+    ok_sources = 0
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures = [pool.submit(fetch_feed, feed) for feed in RSS_FEEDS]
+        for future in as_completed(futures):
+            url, items, err = future.result()
+            if err:
+                print(f'[WARN] {url}: {err}', flush=True)
+            else:
+                ok_sources += 1
+                print(f'[OK] {url}: {len(items)} artigos', flush=True)
+                fresh.extend(items)
 
-    for url in RSS_FEEDS:
-        print("Fetching RSS:", url)
-        try:
-            r = requests.get(url, timeout=25, headers=HEADERS)
-            r.raise_for_status()
-            data = r.json()
-        except Exception as e:
-            print("Error fetching RSS:", url, e)
+    if ok_sources == 0:
+        raise RuntimeError('Nenhum feed respondeu. news.json anterior foi PRESERVADO.')
+
+    # Notícias novas prevalecem; notícias anteriores protegem contra falhas temporárias.
+    # Ordenar primeiro faz priorizar a versão mais nova do mesmo link.
+    fresh.sort(key=lambda i: i['pubDate'], reverse=True)
+    combined = {}
+    for item in fresh + previous:
+        if not valid_recent(item, now):
             continue
+        key = item['link'].split('#', 1)[0]
+        old = combined.get(key)
+        if old is not None:
+            if not old.get('thumbnail') and item.get('thumbnail'):
+                old['thumbnail'] = http_url(item['thumbnail'])
+            continue
+        # Normalização mantém compatibilidade com o arquivo antigo e o site.
+        canonical = {k: item.get(k, '') for k in ('title', 'description', 'link', 'thumbnail', 'pubDate')}
+        canonical['title'] = clean_html(canonical['title'], 300)
+        canonical['description'] = clean_html(canonical['description'])
+        canonical['thumbnail'] = http_url(canonical['thumbnail'])
+        canonical['pubDate'] = parse_pubdate(canonical['pubDate']).isoformat()
+        category = item.get('category')
+        if category in {'crypto', 'finance', 'world', 'games', 'food'}:
+            canonical['category'] = category
+        combined[key] = canonical
 
-        items = data.get("items", [])[:300]
+    articles = sorted(combined.values(), key=lambda i: (i['pubDate'], i['link']), reverse=True)[:MAX_TOTAL]
 
-        for item in items:
-            pub_raw = item.get("pubDate")
-            pub_dt = parse_pubdate(pub_raw, now)
+    # Só tenta imagens principais das matérias recentes ainda sem fotografia.
+    needs_images = [item for item in articles if not item['thumbnail']][:MAX_IMAGE_LOOKUPS]
+    if needs_images:
+        with ThreadPoolExecutor(max_workers=6) as pool:
+            found = list(pool.map(fetch_article_image, [item['link'] for item in needs_images]))
+        for item, thumb in zip(needs_images, found):
+            if thumb:
+                item['thumbnail'] = thumb
 
-            # descarta notícia velha demais
-            if now - pub_dt > max_age:
-                continue
+    if not articles:
+        raise RuntimeError('Nenhuma notícia recente válida. news.json anterior foi PRESERVADO.')
 
-            link = item.get("link", "").strip()
-            if not link or link in seen_links:
-                continue
-            seen_links.add(link)
+    payload = json.dumps(articles, ensure_ascii=False, indent=2) + '\n'
+    if OUTPUT.exists() and OUTPUT.read_text(encoding='utf-8') == payload:
+        print(f'Sem alteração: {len(articles)} notícias; {ok_sources}/{len(RSS_FEEDS)} feeds disponíveis')
+        return
+    with tempfile.NamedTemporaryFile('w', dir=OUTPUT.parent, prefix='.news-', suffix='.json',
+                                     delete=False, encoding='utf-8') as tmp:
+        tmp.write(payload)
+        temp_path = Path(tmp.name)
+    temp_path.replace(OUTPUT)
+    print(f'Atualizado: {len(articles)} notícias; {ok_sources}/{len(RSS_FEEDS)} feeds disponíveis')
 
-            # thumbnail vinda do RSS
-            thumb = (item.get("thumbnail") or "").strip()
 
-            # se não for uma URL http válida, tenta buscar da página
-            if not (thumb.startswith("http://") or thumb.startswith("https://")):
-                print("  No valid thumbnail in RSS, fetching from article:", link)
-                thumb = fetch_article_image(link)
-
-            all_items.append({
-                "title": item.get("title", "").strip(),
-                "description": clean_html(item.get("description", "")),
-                "link": link,
-                "thumbnail": thumb,
-                "pubDate": pub_dt.isoformat()
-            })
-
-    # ordena por data (mais recente primeiro)
-    all_items.sort(key=lambda x: x["pubDate"], reverse=True)
-
-    # limita a no máximo 1000 notícias
-    all_items = all_items[:3000]
-
-    with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(all_items, f, ensure_ascii=False, indent=2)
-
-    print("Saved", len(all_items), "items into news.json")
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
