@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#05060a">
 <link rel="manifest" href="/manifest.json">
 <title>BTCBRAVE News | Crypto, Markets & World</title>
-<meta name="description" content="Crypto, markets, world news, games and cooking on BTCBRAVE News.">
+<meta name="description" content="Crypto, finance, technology, AI, world news, games and cooking on BTCBRAVE News.">
 <style>
 :root{--bg:#05060a;--card:#111318;--gold:#d4af37;--ink:#f5f5f5;--muted:#a0a4b8}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at top,#151827 0,#05060a 45%,#020308 100%);color:var(--ink);font-family:system-ui,Arial,sans-serif}
@@ -57,6 +57,8 @@ header{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-
   <button class="filter-btn active" data-filter="all">All</button>
   <button class="filter-btn" data-filter="crypto">Crypto</button>
   <button class="filter-btn" data-filter="finance">Finance</button>
+  <button class="filter-btn" data-filter="technology">Technology</button>
+  <button class="filter-btn" data-filter="ai">AI</button>
   <button class="filter-btn" data-filter="world">World</button>
   <button class="filter-btn" data-filter="games">Games</button>
   <button class="filter-btn" data-filter="food">Cooking</button>
@@ -83,7 +85,7 @@ function safeUrl(value){try{const s=str(value).trim();if(!s)return '';const u=ne
 function parsed(value){const d=new Date(value);return Number.isFinite(+d)?d:new Date(0)}
 function domain(url){try{return new URL(url).hostname.toLowerCase().replace(/^www\./,'')}catch{return ''}}
 function source(url){const h=domain(url),names={
- 'cointelegraph.com':'Cointelegraph','cryptonews.com':'CryptoNews','coindesk.com':'CoinDesk',
+ 'cointelegraph.com':'Cointelegraph','cryptonews.com':'CryptoNews','coindesk.com':'CoinDesk','decrypt.co':'Decrypt',
  'finance.yahoo.com':'Yahoo Finance','yahoo.com':'Yahoo Finance','investors.com':'Investors.com',
  'wsj.com':'WSJ','investing.com':'Investing.com','marketwatch.com':'MarketWatch',
  'bloomberg.com':'Bloomberg','cnbc.com':'CNBC','forbes.com':'Forbes',
@@ -91,11 +93,11 @@ function source(url){const h=domain(url),names={
  'aljazeera.com':'Al Jazeera','msn.com':'MSN News','apnews.com':'AP News',
  'nytimes.com':'The New York Times','washingtonpost.com':'The Washington Post',
  'gamespot.com':'GameSpot','polygon.com':'Polygon','allrecipes.com':'Allrecipes',
- 'thespruceeats.com':'The Spruce Eats','bonappetit.com':'Bon Appétit'};
+ 'thespruceeats.com':'The Spruce Eats','bonappetit.com':'Bon Appétit','serious eats.com':'Serious Eats','seriouseats.com':'Serious Eats','theguardian.com':'The Guardian','npr.org':'NPR','theverge.com':'The Verge','techcrunch.com':'TechCrunch','arstechnica.com':'Ars Technica','wired.com':'WIRED','engadget.com':'Engadget','technologyreview.com':'MIT Technology Review','cnet.com':'CNET'};
  const key=Object.keys(names).find(k=>h===k||h.endsWith('.'+k));return key?names[key]:h.toUpperCase()||'NEWS'}
-function category(url){const s=source(url);if(['Cointelegraph','CryptoNews','CoinDesk'].includes(s))return 'crypto';
+function category(url){const s=source(url);if(['Cointelegraph','CryptoNews','CoinDesk','Decrypt'].includes(s))return 'crypto';
  if(['Yahoo Finance','Investors.com','WSJ','Investing.com','MarketWatch','Bloomberg','CNBC','Forbes'].includes(s))return 'finance';
- if(['GameSpot','Polygon'].includes(s))return 'games';if(['Allrecipes','The Spruce Eats','Bon Appétit'].includes(s))return 'food';if(['BBC News','CNN','Reuters','Al Jazeera','MSN News','AP News','The New York Times','The Washington Post'].includes(s))return 'world';return 'all'}
+ if(['GameSpot','Polygon'].includes(s))return 'games';if(['Allrecipes','The Spruce Eats','Bon Appétit','Serious Eats'].includes(s))return 'food';if(['BBC News','CNN','Reuters','Al Jazeera','MSN News','AP News','The New York Times','The Washington Post'].includes(s))return 'world';return 'all'}
 function slug(t){return str(t).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,72)||'article'}
 function hash(t){let n=2166136261;for(const ch of str(t)){n^=ch.charCodeAt(0);n=Math.imul(n,16777619)}return(n>>>0).toString(36)}
 function normalize(items,isBlog){return items.map((p,i)=>({...p,isBlog,category:isBlog?(p.category||'blog'):(p.category||category(p.link)),_slug:slug(p.slug||p.title)+'-'+hash(p.link||p.title||i)}))
