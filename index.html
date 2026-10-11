@@ -27,7 +27,38 @@ header{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-
 .card-body{padding:16px 18px}.card.no-image .card-body{padding-top:18px}.title{font-size:19px;font-weight:750;line-height:1.3;margin:0 0 8px}.desc{font-size:14px;color:var(--muted);line-height:1.5;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}.meta{margin-top:12px;font-size:12px;color:var(--muted)}
 .share-btn{position:absolute;top:10px;right:10px;border:1px solid #444;border-radius:9px;background:#111;color:#fff;padding:7px 11px;cursor:pointer}.card{position:relative}.card.no-image .share-btn{position:static;margin:12px 0 0 14px}
 .more-wrap{text-align:center;padding:10px 0 36px}.more{border:0;border-radius:30px;background:var(--gold);color:#05060a;font-weight:750;padding:12px 24px;cursor:pointer}.empty{text-align:center;padding:28px;color:var(--muted)}
-.reader{display:none;max-width:980px;margin:18px auto;padding:18px}.reader.open{display:block}.reader-inner{border:1px solid #d4af3766;border-radius:18px;background:#05060a;padding:20px;box-shadow:0 20px 40px #0008}.reader-title{font-size:28px;font-weight:800;margin:16px 0}.reader-body{color:#111;background:#fffcf2;border-radius:12px;padding:20px;line-height:1.7;overflow-wrap:anywhere}.reader-body img{max-width:100%;height:auto}.reader-body a{overflow-wrap:anywhere}.reader-close{position:sticky;top:calc(var(--header-height,68px) + 8px);z-index:31;width:42px;height:42px;border:1px solid #333;border-radius:50%;background:#fff;color:#000;font-size:28px;cursor:pointer}
+/* Continuous, editorial-style Blog reader: no Next Article button. */
+.reader{display:none;max-width:1030px;margin:12px auto 34px;padding:12px 18px 24px;scroll-margin-top:calc(var(--header-height,68px) + 10px)}
+.reader.open{display:block}
+body.reader-mode .status,body.reader-mode #newsGrid,body.reader-mode #moreWrap,body.reader-mode #emptyState{display:none!important}
+body.reader-mode .filter-bar{display:none!important}
+.reader-top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:18px}
+.reader-close{position:relative;top:auto;z-index:1;border:1px solid #d4af3770;border-radius:999px;background:#fff;color:#141923;font-size:14px;font-weight:750;padding:10px 17px;cursor:pointer;box-shadow:0 5px 15px #0006}
+.reader-close:hover{background:#f5e4b7}
+.reader-identity{font-size:12px;font-weight:800;letter-spacing:.15em;color:#e7d6a5}
+.reader-inner{border:0;background:transparent;padding:0;box-shadow:none}
+.reader-title{font-family:Georgia,'Times New Roman',serif;font-size:clamp(26px,4vw,42px);font-weight:800;margin:14px 0 22px;line-height:1.14}
+.reader-body{display:flex;flex-direction:column;gap:30px;color:var(--ink);background:transparent;border-radius:0;padding:0;line-height:1.75;overflow-wrap:anywhere}
+.reader-body img{max-width:100%;height:auto}
+.reader-body a{overflow-wrap:anywhere}
+.blog-story{width:100%;background:#fff;color:#191c25;border:1px solid #dadfe8;border-radius:17px;overflow:hidden;box-shadow:0 16px 36px #0006}
+.blog-story__header{padding:32px 38px 0}
+.blog-story__category{font-weight:800;color:#7c5c21;letter-spacing:.12em;font-size:12px;text-transform:uppercase}
+.blog-story__title{font-family:Georgia,'Times New Roman',serif;font-size:clamp(27px,4vw,43px);font-weight:800;line-height:1.15;letter-spacing:-.02em;margin:12px 0 16px;color:#111827}
+.blog-story__meta{display:flex;align-items:center;flex-wrap:wrap;gap:9px 14px;color:#687386;font-size:13px;padding-bottom:4px}
+.blog-story__share{margin-left:auto;background:#111827;color:white;border:0;border-radius:999px;padding:8px 13px;font-weight:700;cursor:pointer}
+.blog-story__share:hover{background:#3a475d}
+.blog-story__hero{margin:22px 0 0;background:#101827;display:flex;align-items:center;justify-content:center}
+.blog-story__hero img{width:100%;height:auto;max-height:620px;object-fit:contain;display:block}
+.blog-story__content{max-width:860px;margin:0 auto;padding:29px 38px 32px;font-size:18px;line-height:1.85}
+.blog-story__content p{margin:0 0 17px}
+.blog-story__content p:last-child{margin-bottom:0}
+.blog-story__content a{color:#2557a7;text-decoration:underline;text-underline-offset:3px}
+.blog-story__content blockquote{border-left:3px solid #d4af37;margin:18px 0;padding:8px 20px;background:#f7f8fa;color:#334155}
+.blog-story__content blockquote p{margin:0}
+/* Prevent cutting the text inside automatically generated Blog covers on the cards. */
+.card.blog-card .card-img{height:auto!important;aspect-ratio:16/9;object-fit:contain;background:#101827}
+@media(max-width:620px){.reader{padding:8px 10px 20px}.reader-top{margin-bottom:12px}.reader-identity{font-size:10px}.reader-close{padding:9px 13px}.blog-story__header{padding:23px 21px 0}.blog-story__title{font-size:29px}.blog-story__content{font-size:17px;padding:23px 21px 27px}.reader-body{gap:30px}}
 .overlay{position:fixed;inset:0;background:#000b;display:none;align-items:center;justify-content:center;z-index:100;padding:16px}.subscribe{position:relative;background:#fff;color:#111827;border-radius:12px;max-width:420px;width:100%;padding:28px;box-shadow:0 22px 50px #0009}.subscribe h2{margin:0 0 10px}.subscribe p{font-size:13px;line-height:1.5;color:#4b5563}.subscribe input[type=email]{width:100%;padding:12px;border:1px solid #ccc;border-radius:8px}.subscribe button[type=submit]{width:100%;margin-top:12px;border:0;padding:12px;border-radius:30px;background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);color:white;font-weight:700;cursor:pointer}.close-sub{position:absolute;top:8px;right:12px;border:0;background:none;font-size:23px;cursor:pointer}
 @media(max-width:1380px){.grid{column-count:3}}@media(max-width:960px){.grid{column-count:2}}@media(max-width:620px){header{padding:10px 12px}.brand{font-size:17px}.brand img{width:35px;height:35px}.mail{font-size:10px;margin-left:45px}.grid{column-count:1;padding:10px 12px}.filter-bar{padding:10px 12px;gap:6px}.filter-btn{padding:6px 11px}.reader{padding:10px}.reader-title{font-size:23px}}
 </style>
@@ -64,9 +95,16 @@ header{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-
   <button class="filter-btn" data-filter="food">Cooking</button>
   <button class="filter-btn" data-filter="blog">Blog</button>
 </nav>
-<section class="reader" id="reader">
-  <button class="reader-close" id="readerClose" aria-label="Close article">×</button>
-  <div class="reader-inner"><div id="readerImage"></div><h1 class="reader-title" id="readerTitle"></h1><div class="reader-body" id="readerBody"></div></div>
+<section class="reader" id="reader" aria-label="BTCBRAVE article reader">
+  <div class="reader-top">
+    <button class="reader-close" id="readerClose" aria-label="Back to news">← Back to news</button>
+    <span class="reader-identity">BTCBRAVE · STORIES</span>
+  </div>
+  <div class="reader-inner">
+    <div id="readerImage"></div>
+    <h1 class="reader-title" id="readerTitle"></h1>
+    <div class="reader-body" id="readerBody"></div>
+  </div>
 </section>
 <div class="status" id="status" role="status">Loading the latest news...</div>
 <main class="grid" id="newsGrid"></main>
@@ -77,9 +115,9 @@ header{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-
 const $=id=>document.getElementById(id);
 const grid=$('newsGrid'),bar=$('filterBar'),reader=$('reader'),body=$('readerBody'),status=$('status');
 const BLOG_URL='https://blog.btcbrave.store/posts.json';
-const REFRESH_MS=10*60*1000,BATCH=60,BLOG_BATCH=10;
+const REFRESH_MS=10*60*1000,BATCH=60,BLOG_BATCH=5;
 let news=[],blog=[],merged=[],visible=[],count=0,filter='all',busy=false,checked=0;
-let readerBlog=false,blogOffset=0,scrollBefore=0,fingerprint='';
+let readerBlog=false,blogOffset=0,readerPosts=[],scrollBefore=0,fingerprint='';
 const str=v=>String(v??'');
 function safeUrl(value){try{const s=str(value).trim();if(!s)return '';const u=new URL(s,location.href);return ['https:','http:'].includes(u.protocol)?u.href:''}catch{return ''}}
 function parsed(value){const d=new Date(value);return Number.isFinite(+d)?d:new Date(0)}
@@ -105,7 +143,7 @@ function normalize(items,isBlog){return items.map((p,i)=>({...p,isBlog,category:
 function combine(){const n=normalize(news,false),b=normalize(blog,true);window.blogPosts=b;merged=[];
  for(let i=0,j=0;i<n.length||j<b.length;){if(j<b.length)merged.push({...b[j],blogIndex:j++});if(i<n.length)merged.push(n[i++])}setFilter(filter)}
 function imageFor(url,title){const src=safeUrl(url);if(!src)return null;const img=document.createElement('img');img.className='card-img';img.src=src;img.alt=str(title);img.loading='lazy';img.decoding='async';img.onerror=()=>{const card=img.closest('.card');img.remove();card?.classList.add('no-image')};return img}
-function cardFor(p){const card=document.createElement('article');card.className='card';card.tabIndex=0;card.role='link';card.setAttribute('aria-label',str(p.title));card.dataset.slug=p._slug;
+function cardFor(p){const card=document.createElement('article');card.className=p.isBlog?'card blog-card':'card';card.tabIndex=0;card.role='link';card.setAttribute('aria-label',str(p.title));card.dataset.slug=p._slug;
  const img=imageFor(p.thumbnail,p.title);if(img)card.append(img);else card.classList.add('no-image');
  if(p.isBlog){const share=document.createElement('button');share.className='share-btn';share.textContent='↗ Share';share.onclick=e=>{e.stopPropagation();sharePost(p)};card.append(share)}
  const content=document.createElement('div');content.className='card-body';
@@ -127,19 +165,67 @@ function safeAppend(parent,node){if(node.nodeType===Node.TEXT_NODE){parent.appen
  if(tag==='img'){const u=safeUrl(node.getAttribute('src'));if(!u)return;out.src=u;out.alt=node.getAttribute('alt')||'';out.loading='lazy'}
  [...node.childNodes].forEach(n=>safeAppend(out,n));parent.append(out)}
 function safeHtml(el,html){const doc=new DOMParser().parseFromString('<div>'+str(html)+'</div>','text/html');[...doc.body.firstElementChild.childNodes].forEach(n=>safeAppend(el,n))}
-function blogBatch(reset=false){if(reset)body.replaceChildren();const posts=window.blogPosts||[],frag=document.createDocumentFragment();for(const p of posts.slice(blogOffset,blogOffset+BLOG_BATCH)){
- const article=document.createElement('article');article.style.marginBottom='24px';const u=safeUrl(p.thumbnail);if(u){const img=document.createElement('img');img.src=u;img.alt=str(p.title);img.loading='lazy';article.append(img)}
- const h=document.createElement('h3');h.textContent=str(p.title);article.append(h);const d=document.createElement('small');d.textContent=parsed(p.pubDate).toLocaleDateString();article.append(d);
- const content=document.createElement('div');safeHtml(content,p.fullText||p.description||'');article.append(content);frag.append(article,document.createElement('hr'))}
- body.append(frag);blogOffset+=BLOG_BATCH}
-function openArticle(p){scrollBefore=scrollY;if(!p.isBlog&&!p.fullText&&safeUrl(p.link)){location.href=safeUrl(p.link);return}
- $('readerImage').replaceChildren();$('readerTitle').textContent=p.isBlog?'':str(p.title);body.replaceChildren();readerBlog=!!p.isBlog;
- if(readerBlog){blogOffset=p.blogIndex||0;blogBatch(true)}else{const u=safeUrl(p.thumbnail);if(u){const img=document.createElement('img');img.src=u;img.alt=str(p.title);img.style.cssText='max-width:100%;max-height:420px;object-fit:contain';$('readerImage').append(img)}safeHtml(body,p.fullText||p.description||'')}
- reader.classList.add('open');reader.scrollIntoView({behavior:'smooth',block:'start'})}
-$('readerClose').onclick=()=>{reader.classList.remove('open');readerBlog=false;window.scrollTo({top:scrollBefore,behavior:'instant'})};
+function blogBatch(reset=false){
+ if(reset){body.replaceChildren();blogOffset=0}
+ if(!readerBlog||blogOffset>=readerPosts.length)return;
+ const fragment=document.createDocumentFragment();
+ const until=Math.min(blogOffset+BLOG_BATCH,readerPosts.length);
+ for(let i=blogOffset;i<until;i++){
+  const p=readerPosts[i];
+  const article=document.createElement('article');article.className='blog-story';
+  const head=document.createElement('div');head.className='blog-story__header';
+  const categoryLabel=document.createElement('div');categoryLabel.className='blog-story__category';
+  categoryLabel.textContent='BTCBRAVE BLOG · '+str(p.category||'News').toUpperCase();
+  const h=document.createElement('h2');h.className='blog-story__title';h.textContent=str(p.title);
+  const meta=document.createElement('div');meta.className='blog-story__meta';
+  const date=document.createElement('span');const parsedDate=parsed(p.pubDate);
+  date.textContent=+parsedDate?parsedDate.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'}):'BTCBRAVE Blog';
+  const sourceName=document.createElement('span');
+  sourceName.textContent='Source: '+str(p.source||(safeUrl(p.sourceLink)?source(p.sourceLink):'BTCBRAVE Blog'));
+  const share=document.createElement('button');share.type='button';share.className='blog-story__share';
+  share.textContent='↗ Share';share.setAttribute('aria-label','Share '+str(p.title));
+  share.onclick=()=>sharePost(p);
+  meta.append(date,sourceName,share);head.append(categoryLabel,h,meta);article.append(head);
+  const url=safeUrl(p.thumbnail);
+  if(url){
+   const figure=document.createElement('figure');figure.className='blog-story__hero';
+   const image=document.createElement('img');image.src=url;image.alt='Illustration: '+str(p.title);
+   image.loading=i===0?'eager':'lazy';image.decoding='async';
+   image.onerror=()=>figure.remove();figure.append(image);article.append(figure);
+  }
+  const content=document.createElement('div');content.className='blog-story__content';
+  safeHtml(content,p.fullText||p.description||'');article.append(content);
+  fragment.append(article);
+ }
+ body.append(fragment);blogOffset=until;
+}
+function openArticle(p){
+ scrollBefore=window.scrollY;
+ if(!p.isBlog&&!p.fullText&&safeUrl(p.link)){location.href=safeUrl(p.link);return}
+ readerBlog=!!p.isBlog;
+ $('readerImage').replaceChildren();$('readerTitle').textContent=readerBlog?'':str(p.title);
+ body.replaceChildren();
+ if(readerBlog){
+  readerPosts=(window.blogPosts||[]).slice(p.blogIndex||0);
+  blogBatch(true);
+ }else{
+  readerPosts=[];
+  const u=safeUrl(p.thumbnail);
+  if(u){const img=document.createElement('img');img.src=u;img.alt=str(p.title);img.style.cssText='width:100%;max-height:500px;object-fit:contain';$('readerImage').append(img)}
+  safeHtml(body,p.fullText||p.description||'');
+ }
+ document.body.classList.add('reader-mode');
+ reader.classList.add('open');
+ reader.scrollIntoView({behavior:'auto',block:'start'});
+}
+$('readerClose').onclick=()=>{
+ reader.classList.remove('open');document.body.classList.remove('reader-mode');
+ readerBlog=false;readerPosts=[];body.replaceChildren();
+ window.scrollTo({top:scrollBefore,behavior:'auto'});
+};
 function sharePost(p){const url=safeUrl(p.link)||'https://news.btcbrave.store/?post='+encodeURIComponent(p._slug);const text='Check this article on BTCBRAVE News: '+p.title;
  if(navigator.share){navigator.share({title:p.title,text,url}).catch(()=>{});return}if(/Android|iPhone|iPad/i.test(navigator.userAgent)){window.open('https://wa.me/?text='+encodeURIComponent(text+' '+url),'_blank');return}prompt('Copy this link:',url)}
-window.addEventListener('scroll',()=>{if(readerBlog&&reader.classList.contains('open')&&blogOffset<(window.blogPosts||[]).length&&body.getBoundingClientRect().bottom-innerHeight<450)blogBatch()},{passive:true});
+window.addEventListener('scroll',()=>{if(readerBlog&&reader.classList.contains('open')&&blogOffset<readerPosts.length&&body.getBoundingClientRect().bottom-innerHeight<550)blogBatch()},{passive:true});
 // Barra reaparece quando se sobe um pouco e some ao descer.
 let previousY=scrollY,up=0,down=0;
 function stickyBar(){document.documentElement.style.setProperty('--header-height',$('header').offsetHeight+'px');const y=scrollY,delta=y-previousY;
