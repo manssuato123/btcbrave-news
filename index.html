@@ -1,1076 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <link rel="manifest" href="/manifest.json">
-  <meta name="theme-color" content="#05060a">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>BTCBRAVE News | Crypto, Markets & World</title>
-  <meta name="description" content="BTCBRAVE News: crypto, financial markets, world news, gaming and cooking, updated throughout the day.">
-  <style>
-    :root {
-      --bg-main: #05060a;
-      --bg-card: #111318;
-      --accent: #d4af37;
-      --accent-soft: #ffdd70;
-      --text-main: #f5f5f5;
-      --text-muted: #a0a4b8;
-      --border-soft: #252837;
-    }
-     
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-      background: radial-gradient(circle at top, #151827 0, #05060a 40%, #020308 100%);
-      color: var(--text-main);
-    }
-     
-    header {
-      background: rgba(5, 6, 10, 0.96);
-      padding: 10px 24px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      border-bottom: 1px solid var(--border-soft);
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      backdrop-filter: blur(14px);
-    }
-
-    .logo {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      font-weight: 800;
-      letter-spacing: 0.06em;
-      text-transform: none;
-      color: var(--accent);
-      font-size: 18px;
-    }
-
-    .logo-badge {
-      width: 30px;
-      height: 30px;
-      border-radius: 999px;
-      border: 2px solid var(--accent);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 16px;
-    }
-
-    header nav a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: var(--text-muted);
-      font-weight: 500;
-      font-size: 14px;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      padding-bottom: 4px;
-      border-bottom: 2px solid transparent;
-      transition: 0.2s;
-    }
-
-    header nav a:hover {
-      color: var(--accent-soft);
-      border-bottom-color: var(--accent);
-    }
-
-    .filter-bar {
-      max-width: 1600px;
-      margin: 10px auto 0;
-      padding: 8px 18px 0;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-    }
-
-    .filter-btn {
-      background: #111318;
-      color: var(--text-muted);
-      border: 1px solid var(--border-soft);
-      border-radius: 999px;
-      padding: 6px 14px;
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      cursor: pointer;
-      transition: 0.18s ease;
-    }
-
-    .filter-btn:hover {
-      border-color: var(--accent-soft);
-      color: var(--accent-soft);
-    }
-
-    .filter-btn.active {
-      background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899, #f97316);
-      color: #ffffff;
-      border-color: transparent;
-    }
-
-    .loading-news {
-      max-width: 1600px;
-      margin: 16px auto 0;
-      padding: 8px 18px;
-      font-size: 13px;
-      color: var(--text-muted);
-      display: none;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(5, minmax(0, 1fr));
-      gap: 16px;
-      padding: 18px;
-      max-width: 1600px;
-      margin: 10px auto 0;
-    }
-
-    @media (max-width: 1100px) {
-      .grid {
-        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      }
-      .grid > .card {
-        grid-column: span 1 !important;
-      }
-    }
-
-    .grid > .card {
-      min-height: 240px;
-    }
-
-    .grid > .card:nth-child(15n + 1),
-    .grid > .card:nth-child(15n + 13) {
-      grid-column: span 2;
-    }
-
-    .card {
-      background: radial-gradient(circle at top left, #202538 0, #111318 45%, #05060a 100%);
-      border-radius: 14px;
-      overflow: hidden;
-      box-shadow: 0 22px 40px rgba(0,0,0,0.6);
-      border: 2px solid rgba(255,255,255,0.18);
-      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
-      position: relative;
-      cursor: pointer;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 30px 60px rgba(0,0,0,0.8);
-      border-color: rgba(255, 221, 112, 0.4);
-    }
-
-    .card-body {
-      padding: 16px 18px 18px;
-      background: transparent;
-      margin-top: auto;
-    }
-
-    .title {
-      font-size: 19px;
-      font-weight: 700;
-      margin-bottom: 6px;
-      color: #fdfdfd;
-    }
-
-    .desc {
-      color: var(--text-muted);
-      font-size: 14px;
-      line-height: 1.5;
-      max-height: 72px;
-      overflow: hidden;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-    }
-
-    .meta-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 10px;
-      font-size: 12px;
-      color: var(--text-muted);
-    }
-
-    .badge-live {
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      background: rgba(220, 53, 69, 0.96);
-      color: #fff;
-      font-size: 10px;
-      padding: 3px 8px;
-      border-radius: 999px;
-      text-transform: uppercase;
-      letter-spacing: 0.16em;
-    }
-
-    .article-view {
-      width: 100%;
-      background: radial-gradient(circle at top, #111318 0, #05060a 40%, #020308 100%);
-      display: none;
-      flex-direction: column;
-      padding: 40px 18px 32px;
-      position: relative;
-    }
-
-    .article-view.open {
-      display: flex;
-    }
-
-    .article-inner {
-      max-width: 960px;
-      margin: 0 auto;
-      background: #05060a;
-      border-radius: 18px;
-      padding: 28px 22px 26px;
-      border: 1px solid rgba(212, 175, 55, 0.4);
-      box-shadow: 0 30px 70px rgba(0,0,0,0.9);
-    }
-
-    .article-title {
-      font-size: 28px;
-      line-height: 1.3;
-      font-weight: 800;
-      margin-bottom: 12px;
-      color: #ffffff;
-    }
-
-    .article-body {
-      font-size: 14px;
-      line-height: 1.7;
-      background: #fffcf2 !important;
-      color: #000000 !important;
-      padding: 20px;
-      border-radius: 12px;
-      margin-top: 15px;
-    }
-
-    .article-close {
-      position: fixed;
-      top: 120px;
-      left: 18px;
-      background: #ffffff;
-      border: 2px solid rgba(0,0,0,0.7);
-      color: #000;
-      border-radius: 999px;
-      width: 40px;
-      height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      font-size: 30px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.7);
-      z-index: 9999;
-    }
-
-    .article-close:hover {
-      background: #ffe891;
-      transform: translateY(-1px);
-    }
-
-    .news-status { max-width:1600px; margin:0 auto; padding:6px 18px; font-size:12px; color:var(--text-muted); }
-    .load-more-wrap { text-align:center; margin:12px 0 32px; }
-    .load-more-btn { background:var(--accent); color:#05060a; border:0; border-radius:999px; padding:12px 28px; font-weight:750; cursor:pointer; }
-    .load-more-btn:hover { background:var(--accent-soft); }
-    .empty-state { text-align:center; padding:28px; color:var(--text-muted); }
-    .card-img-placeholder { width:100%; height:180px; display:flex; justify-content:center; align-items:center; background:linear-gradient(135deg,#192036,#0b0e15); font-size:13px; letter-spacing:.18em; color:#d4af37; }
-    .grid > .card:nth-child(15n + 1) .card-img-placeholder,
-    .grid > .card:nth-child(15n + 13) .card-img-placeholder { height:100%; position:absolute; inset:0; }
-    .card-img-small { height:50px; width:100%; object-fit:contain; object-position:bottom; }
-    @media (max-width:650px) {
-      .grid { grid-template-columns:minmax(0,1fr); gap:12px; padding:12px; }
-      .grid > .card { grid-column:span 1 !important; }
-      header { padding:12px; }
-      .article-view { padding:20px 12px; }
-      .article-inner { padding:20px 14px; }
-      .article-close { top:78px; left:8px; }
-      .logo a { margin-left:0!important; }
-    }
-    .card-img-medium { width:100%; height:180px; object-fit:cover; display:block; border-bottom:1px solid rgba(255,255,255,0.08); }
-    .card-img-large { height:200px; width:100%; object-fit:cover; }
-
-    .btcbrave-login-overlay {
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,0.75);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      z-index: 12000;
-    }
-
-    .btcbrave-login-card {
-      background: #ffffff;
-      color: #111827;
-      width: 100%;
-      max-width: 420px;
-      border-radius: 8px;
-      padding: 28px 30px 24px;
-      box-shadow: 0 25px 60px rgba(0,0,0,0.5);
-      position: relative;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-    }
-
-    .btcbrave-login-close {
-      position: absolute;
-      top: 10px;
-      right: 12px;
-      border: none;
-      background: transparent;
-      font-size: 18px;
-      cursor: pointer;
-    }
-
-    .btcbrave-login-title {
-      margin: 0 0 8px;
-      font-size: 20px;
-      font-weight: 700;
-      text-align: center;
-    }
-
-    .btcbrave-login-subtitle {
-      margin: 0 0 18px;
-      font-size: 13px;
-      line-height: 1.4;
-      text-align: center;
-      color: #4b5563;
-    }
-
-    .btcbrave-login-footnote {
-      margin: 8px 0 0;
-      font-size: 11px;
-      color: #6b7280;
-      text-align: center;
-    }
-
-    .grid > .card:nth-child(15n + 1),
-    .grid > .card:nth-child(15n + 13) {
-      position: relative;
-    }
-
-    .grid > .card:nth-child(15n + 1) .card-img-medium,
-    .grid > .card:nth-child(15n + 13) .card-img-medium {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center;
-      border-bottom: none;
-    }
-
-    .grid > .card:nth-child(15n + 1)::before,
-    .grid > .card:nth-child(15n + 13)::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(
-        to top,
-        rgba(0, 0, 0, 0.9) 0%,
-        rgba(0, 0, 0, 0.4) 50%,
-        rgba(0, 0, 0, 0.0) 100%
-      );
-      z-index: 1;
-    }
-
-    .grid > .card:nth-child(15n + 1) .card-body,
-    .grid > .card:nth-child(15n + 13) .card-body {
-      position: absolute;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      margin-top: 0;
-      z-index: 2;
-      padding: 18px 20px 20px;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#05060a">
+<link rel="manifest" href="/manifest.json">
+<title>BTCBRAVE News | Crypto, Markets & World</title>
+<meta name="description" content="Crypto, markets, world news, games and cooking on BTCBRAVE News.">
+<style>
+:root{--bg:#05060a;--card:#111318;--gold:#d4af37;--ink:#f5f5f5;--muted:#a0a4b8}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at top,#151827 0,#05060a 45%,#020308 100%);color:var(--ink);font-family:system-ui,Arial,sans-serif}
+header{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-content:space-between;padding:10px 22px;background:#05060af5;border-bottom:1px solid #252837;backdrop-filter:blur(14px)}
+.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:21px;letter-spacing:.05em;background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f59e0b);color:transparent;background-clip:text}
+.brand img{width:40px;height:40px;border:2px solid var(--gold);border-radius:50%;object-fit:cover}
+.mail{display:block;margin-left:50px;font-size:12px;color:var(--muted);text-decoration:none}.bell{cursor:pointer;border:0;background:#fff;border-radius:50%;width:32px;height:32px;font-size:16px}
+.filter-bar{max-width:1600px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px;padding:10px 18px;position:sticky;top:var(--header-height,68px);z-index:29;background:#080b12ef;backdrop-filter:blur(14px);border-bottom:1px solid #252837;transition:transform .22s ease,opacity .22s ease}
+.filter-bar.hidden-on-scroll{transform:translateY(-150%);opacity:0;pointer-events:none}
+.filter-btn{background:#111318;color:var(--muted);border:1px solid #252837;border-radius:30px;padding:7px 14px;text-transform:uppercase;font-size:12px;letter-spacing:.05em;cursor:pointer}
+.filter-btn:hover{border-color:var(--gold);color:#ffdd70}.filter-btn.active{background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);border-color:transparent;color:#fff}
+.status{max-width:1600px;margin:8px auto;padding:0 18px;color:var(--muted);font-size:12px}
+.grid{max-width:1600px;margin:0 auto;padding:12px 18px;column-count:4;column-gap:16px}
+.card{width:100%;display:inline-block;break-inside:avoid;-webkit-column-break-inside:avoid;vertical-align:top;margin:0 0 16px;overflow:hidden;border:2px solid #ffffff30;border-radius:15px;background:radial-gradient(circle at top left,#202538,#111318 55%,#05060a);box-shadow:0 14px 32px #0009;cursor:pointer;transition:transform .18s,border-color .18s}
+.card:hover{transform:translateY(-3px);border-color:#ffdd7088}.card:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.card-img{display:block;width:100%;height:190px;object-fit:cover;background:#0c1018}
+.card:nth-child(9n + 1) .card-img{height:285px}.card:nth-child(9n + 4) .card-img,.card:nth-child(9n + 8) .card-img{height:240px}.card:nth-child(9n + 2) .card-img,.card:nth-child(9n + 6) .card-img{height:150px}
+.card-body{padding:16px 18px}.card.no-image .card-body{padding-top:18px}.title{font-size:19px;font-weight:750;line-height:1.3;margin:0 0 8px}.desc{font-size:14px;color:var(--muted);line-height:1.5;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}.meta{margin-top:12px;font-size:12px;color:var(--muted)}
+.share-btn{position:absolute;top:10px;right:10px;border:1px solid #444;border-radius:9px;background:#111;color:#fff;padding:7px 11px;cursor:pointer}.card{position:relative}.card.no-image .share-btn{position:static;margin:12px 0 0 14px}
+.more-wrap{text-align:center;padding:10px 0 36px}.more{border:0;border-radius:30px;background:var(--gold);color:#05060a;font-weight:750;padding:12px 24px;cursor:pointer}.empty{text-align:center;padding:28px;color:var(--muted)}
+.reader{display:none;max-width:980px;margin:18px auto;padding:18px}.reader.open{display:block}.reader-inner{border:1px solid #d4af3766;border-radius:18px;background:#05060a;padding:20px;box-shadow:0 20px 40px #0008}.reader-title{font-size:28px;font-weight:800;margin:16px 0}.reader-body{color:#111;background:#fffcf2;border-radius:12px;padding:20px;line-height:1.7;overflow-wrap:anywhere}.reader-body img{max-width:100%;height:auto}.reader-body a{overflow-wrap:anywhere}.reader-close{position:sticky;top:calc(var(--header-height,68px) + 8px);z-index:31;width:42px;height:42px;border:1px solid #333;border-radius:50%;background:#fff;color:#000;font-size:28px;cursor:pointer}
+.overlay{position:fixed;inset:0;background:#000b;display:none;align-items:center;justify-content:center;z-index:100;padding:16px}.subscribe{position:relative;background:#fff;color:#111827;border-radius:12px;max-width:420px;width:100%;padding:28px;box-shadow:0 22px 50px #0009}.subscribe h2{margin:0 0 10px}.subscribe p{font-size:13px;line-height:1.5;color:#4b5563}.subscribe input[type=email]{width:100%;padding:12px;border:1px solid #ccc;border-radius:8px}.subscribe button[type=submit]{width:100%;margin-top:12px;border:0;padding:12px;border-radius:30px;background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);color:white;font-weight:700;cursor:pointer}.close-sub{position:absolute;top:8px;right:12px;border:0;background:none;font-size:23px;cursor:pointer}
+@media(max-width:1380px){.grid{column-count:3}}@media(max-width:960px){.grid{column-count:2}}@media(max-width:620px){header{padding:10px 12px}.brand{font-size:17px}.brand img{width:35px;height:35px}.mail{font-size:10px;margin-left:45px}.grid{column-count:1;padding:10px 12px}.filter-bar{padding:10px 12px;gap:6px}.filter-btn{padding:6px 11px}.reader{padding:10px}.reader-title{font-size:23px}}
+</style>
 </head>
 <body>
-
-  <iframe name="hiddenBrevoFrame" style="display:none;"></iframe>
-
-  <div id="btcbraveLoginOverlay" class="btcbrave-login-overlay" style="display:none;">
-    <div class="btcbrave-login-card">
-      <button id="btcbraveLoginClose" class="btcbrave-login-close">×</button>
-
-      <h2 class="btcbrave-login-title">Create your BTCBRAVE alerts</h2>
-      <p class="btcbrave-login-subtitle">
-        Get price moves, news alerts and updates directly in your inbox.
-      </p>
-
-      <form
-        id="btcbraveLoginForm"
-        action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA=="
-        method="POST"
-        target="hiddenBrevoFrame"
-        novalidate
-      >
-        <label for="btcbraveLoginEmail" style="display:block; font-size:12px; font-weight:600; margin-bottom:4px; color:#374151;">
-          Email address
-        </label>
-
-        <input
-          type="email"
-          id="btcbraveLoginEmail"
-          name="EMAIL"
-          placeholder="Enter your email"
-          required
-          style="
-            width:100%;
-            padding:10px;
-            border-radius:6px;
-            border:1px solid #d1d5db;
-            font-size:14px;
-            box-sizing:border-box;
-          "
-        />
-
-        <button
-          type="submit"
-          style="
-            width:100%;
-            margin-top:10px;
-            padding:10px 0;
-            border-radius:999px;
-            border:none;
-            background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);
-            color:#ffffff;
-            font-size:14px;
-            font-weight:700;
-            cursor:pointer;
-          "
-        >
-          Continue
-        </button>
-
-        <input type="text" name="email_address_check" value="" style="display:none;">
-        <input type="hidden" name="locale" value="en">
-      </form>
-
-      <p class="btcbrave-login-footnote">
-        Please check your inbox after subscribing. To unsubscribe, use the link in any BTCBRAVE email.
-      </p>
-    </div>
+<iframe name="hiddenBrevoFrame" style="display:none" title="Subscription response"></iframe>
+<div class="overlay" id="subscribeOverlay">
+  <div class="subscribe">
+    <button class="close-sub" id="closeSubscribe" aria-label="Close">×</button>
+    <h2>Create your BTCBRAVE alerts</h2>
+    <p>Get price moves, news alerts and updates directly in your inbox.</p>
+    <form id="subscribeForm" action="https://2c3bfeb6.sibforms.com/serve/MUIFAKgSltnznFnj2zjaw4q0uanLuPr2YkDp8mCKOGx7h6wryGbcOg1E9mFahRvBm-kOBCKJOtMy9KAr8gMRb5wpQ6inGj09IQ58wRykX6PTnBjKQa7BQbWUIMTEIc54CEooAtFJHCiYZsoGRvag8I6YxWeVxSqiv_dCO4fEwcbslj8RbwoeIRN9V_5L3R8BiSU8D_unfJRG8BsjcA==" method="POST" target="hiddenBrevoFrame">
+      <label for="email">Email address</label>
+      <input id="email" name="EMAIL" type="email" placeholder="Enter your email" required>
+      <input type="text" name="email_address_check" value="" style="display:none">
+      <input type="hidden" name="locale" value="en">
+      <button type="submit">Continue</button>
+    </form>
+    <p>Check your inbox after subscribing. To unsubscribe, use the link in a BTCBRAVE email.</p>
   </div>
-
-  <header>
-    <div class="logo" style="display:flex; flex-direction:column; justify-content:center;">
-
-      <div style="display:flex; align-items:center; gap:10px;">
-        <div class="logo-badge" 
-             style="width:40px; height:40px; border-radius:999px; border:2px solid var(--accent); 
-                    display:flex; align-items:center; justify-content:center; padding:0;">
-          <img src="borboleta.png" 
-               alt="BTCBRAVE Butterfly Logo" 
-               style="width:38px; height:38px; border-radius:50%; object-fit:cover; 
-                      object-position:center; background:var(--bg-main);" />
-        </div>
-
-        <span style="
-            background: linear-gradient(90deg,#1d4ed8,#7c3aed,#ec4899,#f59e0b);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            font-weight: 800;
-            font-size: 22px;
-            text-shadow: 0 0 6px rgba(255,255,255,0.2);">
-          BTCBRAVE News
-        </span>
-      </div>
-
-      <a href="mailto:news@btcbrave.store"
-         style="
-           margin-left:80px;
-           margin-top:2px;
-           font-size:12px;
-           color:var(--text-muted);
-           text-decoration:none;
-           display:flex;
-           align-items:center;
-           gap:6px;">
-        <span style="font-size:14px;">📩</span>
-        news@btcbrave.store
-      </a>
-
-    </div>
-
-    <div id="floating-subscribe" 
-      style="
-        position:absolute;
-        right:24px;
-        top:12px;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        width:24px;
-        height:24px;
-        background:#fff;
-        border-radius:999px;
-        font-size:12px;
-        font-weight:700;
-        letter-spacing:0.5px;
-        box-shadow:0 8px 20px rgba(0,0,0,0.6);
-        cursor:pointer;
-        border:1px solid rgba(255,255,255,0.25);">
-      🔔
-    </div>
-
-    <nav style="display:none;"></nav>
-  </header>
-
-  <div class="filter-bar">
-    <button class="filter-btn active" data-filter="all">All</button>
-    <button class="filter-btn" data-filter="crypto">Crypto</button>
-    <button class="filter-btn" data-filter="finance">Finance</button>
-    <button class="filter-btn" data-filter="world">World</button>
-    <button class="filter-btn" data-filter="games">Games</button>
-    <button class="filter-btn" data-filter="food">Cooking</button>
-    <button class="filter-btn" data-filter="blog">Blog</button>
-  </div>
-
-  <!-- Reader -->
-  <div class="article-view" id="articleView">
-    <button class="article-close" id="articleClose">×</button>
-    <div class="article-inner">
-      <div id="articleImage"></div>
-      <div class="article-title" id="articleTitle"></div>
-      <div class="article-body" id="articleBody"></div>
-    </div>
-  </div>
-
-  <div id="loadingNews" class="loading-news" role="status">Loading the latest news...</div>
-  <div id="newsStatus" class="news-status" role="status" aria-live="polite"></div>
-
-  <!-- Um único grid para tudo (News + Blog intercalados) -->
-  <div id="newsGrid" class="btcbrave-grid grid"></div>
-  <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
-    <button type="button" id="loadMoreBtn" class="load-more-btn">Load more news</button>
-  </div>
-  <p id="emptyState" class="empty-state" style="display:none;">No articles found in this category.</p>
-  <!-- blogGrid fica só como reserva, mas vazio/sem uso visual -->
-  <div id="blogGrid" class="btcbrave-grid grid" style="display:none;"></div>
-
-  <!-- NEWS + BLOG: leitor, categorias, proteção do HTML e atualização a cada 10 minutos -->
-  <script>
-    const newsGrid = document.getElementById('newsGrid');
-    const blogGrid = document.getElementById('blogGrid');
-    const loading = document.getElementById('loadingNews');
-    const newsStatus = document.getElementById('newsStatus');
-    const emptyState = document.getElementById('emptyState');
-    const loadMoreWrap = document.getElementById('loadMoreWrap');
-    const loadMoreBtn = document.getElementById('loadMoreBtn');
-    const articleView = document.getElementById('articleView');
-    const articleTitle = document.getElementById('articleTitle');
-    const articleBody = document.getElementById('articleBody');
-    const articleClose = document.getElementById('articleClose');
-    const articleImageBox = document.getElementById('articleImage');
-    const BLOG_POSTS_URL = 'https://blog.btcbrave.store/posts.json';
-    const NEWS_REFRESH_MS = 10 * 60 * 1000;
-    const RENDER_BATCH_SIZE = 60;
-    const BLOG_BATCH_SIZE = 10;
-    let globalBlogItems = [];
-    let blogReaderActive = false;
-    let blogReaderOffset = 0;
-    let lastScrollY = 0;
-    let refreshInProgress = false;
-    let lastCheckAt = 0;
-    let lastFingerprint = '';
-    let storedNews = [];
-    let storedBlog = [];
-    let allCombined = [];
-    let filteredCombined = [];
-    let renderOffset = 0;
-    let currentFilter = 'all';
-
-    function safeHttpUrl(value) {
-      try {
-        if (!plainText(value).trim()) return '';
-        const u = new URL(plainText(value).trim(), location.href);
-        return ['http:', 'https:'].includes(u.protocol) ? u.href : '';
-      } catch (_) { return ''; }
-    }
-
-    function plainText(value) {
-      return String(value == null ? '' : value);
-    }
-
-    function parseDate(value) {
-      if (!value) return new Date(0);
-      const d = new Date(value);
-      return Number.isFinite(d.getTime()) ? d : new Date(0);
-    }
-
-    function getSourceName(link) {
-      let host = '';
-      try { host = new URL(link).hostname.toLowerCase().replace(/^www\./, ''); }
-      catch (_) { return 'NEWS'; }
-      const names = {
-        'cointelegraph.com':'Cointelegraph', 'cryptonews.com':'CryptoNews',
-        'coindesk.com':'CoinDesk', 'yahoo.com':'Yahoo Finance',
-        'investors.com':'Investors.com', 'wsj.com':'WSJ',
-        'investing.com':'Investing.com', 'marketwatch.com':'MarketWatch',
-        'bloomberg.com':'Bloomberg', 'cnbc.com':'CNBC', 'forbes.com':'Forbes',
-        'bbc.co.uk':'BBC News', 'bbc.com':'BBC News', 'cnn.com':'CNN',
-        'reuters.com':'Reuters', 'aljazeera.com':'Al Jazeera',
-        'msn.com':'MSN News', 'apnews.com':'AP News', 'nytimes.com':'The New York Times',
-        'washingtonpost.com':'The Washington Post', 'gamespot.com':'GameSpot',
-        'polygon.com':'Polygon', 'allrecipes.com':'Allrecipes',
-        'thespruceeats.com':'The Spruce Eats', 'bonappetit.com':'Bon Appétit'
-      };
-      const match = Object.keys(names).find(domain => host === domain || host.endsWith('.' + domain));
-      return match ? names[match] : host.toUpperCase();
-    }
-
-    function getCategory(link) {
-      const name = getSourceName(link);
-      if (['Cointelegraph','CryptoNews','CoinDesk'].includes(name)) return 'crypto';
-      if (['Yahoo Finance','Investors.com','WSJ','Investing.com','MarketWatch','Bloomberg','CNBC','Forbes'].includes(name)) return 'finance';
-      if (['GameSpot','Polygon'].includes(name)) return 'games';
-      if (['Allrecipes','The Spruce Eats','Bon Appétit'].includes(name)) return 'food';
-      if (['BBC News','CNN','Reuters','Al Jazeera','MSN News','AP News','The New York Times','The Washington Post'].includes(name)) return 'world';
-      return 'all';
-    }
-
-    function createSlug(title) {
-      return plainText(title).toLowerCase().normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-')
-        .replace(/^-|-$/g, '').slice(0, 72) || 'article';
-    }
-
-    function stableHash(text) {
-      let h = 2166136261;
-      for (const c of plainText(text)) {
-        h ^= c.charCodeAt(0);
-        h = Math.imul(h, 16777619);
-      }
-      return (h >>> 0).toString(36);
-    }
-
-    function assignSlug(item, idx) {
-      const base = createSlug(item.slug || item.id || item.guid || item.title || 'post-' + idx);
-      item._slug = `${base}-${stableHash(item.link || item.title || idx)}`;
-    }
-
-    // Só permite tags de formatação e links/imagens HTTP(S) vindos dos posts.
-    // Impede scripts, eventos onclick, iframes, estilos perigosos e URLs javascript:.
-    const allowedTags = new Set(['p','div','span','br','strong','b','em','i','u',
-      'h2','h3','h4','h5','ul','ol','li','blockquote','a','img','pre','code','hr']);
-    const forbiddenTags = new Set(['script','style','svg','math','iframe','object','embed',
-      'form','input','button','textarea','select','link','meta','base']);
-
-    function appendSafeNode(parent, source) {
-      if (source.nodeType === Node.TEXT_NODE) {
-        parent.appendChild(document.createTextNode(source.textContent || ''));
-        return;
-      }
-      if (source.nodeType !== Node.ELEMENT_NODE) return;
-      const tag = source.tagName.toLowerCase();
-      if (forbiddenTags.has(tag)) return;
-      if (!allowedTags.has(tag)) {
-        Array.from(source.childNodes).forEach(c => appendSafeNode(parent, c));
-        return;
-      }
-      const out = document.createElement(tag);
-      if (tag === 'a') {
-        const href = safeHttpUrl(source.getAttribute('href'));
-        if (href) {
-          out.href = href;
-          out.target = '_blank';
-          out.rel = 'noopener noreferrer';
-        }
-      }
-      if (tag === 'img') {
-        const src = safeHttpUrl(source.getAttribute('src'));
-        if (!src) return;
-        out.src = src;
-        out.alt = source.getAttribute('alt') || '';
-        out.loading = 'lazy';
-        out.style.maxWidth = '100%';
-        out.style.height = 'auto';
-      }
-      Array.from(source.childNodes).forEach(c => appendSafeNode(out, c));
-      parent.appendChild(out);
-    }
-
-    function appendSafeHtml(parent, markup) {
-      const source = new DOMParser().parseFromString('<div>' + plainText(markup) + '</div>', 'text/html');
-      const root = source.body.firstElementChild;
-      if (root) Array.from(root.childNodes).forEach(c => appendSafeNode(parent, c));
-    }
-
-    function makeImage(url, title) {
-      const src = safeHttpUrl(url);
-      const placeholder = document.createElement('div');
-      placeholder.className = 'card-img-placeholder';
-      placeholder.textContent = 'BTCBRAVE NEWS';
-      if (!src) return placeholder;
-      const img = document.createElement('img');
-      img.className = 'card-img-medium';
-      img.src = src;
-      img.alt = title;
-      img.loading = 'lazy';
-      img.decoding = 'async';
-      img.addEventListener('error', () => img.replaceWith(placeholder), {once:true});
-      return img;
-    }
-
-    function buildCard(item, isBlog, blogIndex) {
-      const title = plainText(item.title);
-      const link = safeHttpUrl(item.link);
-      const category = plainText(item.category || (isBlog ? 'blog' : getCategory(link))).toLowerCase();
-      const card = document.createElement('article');
-      card.className = 'card';
-      card.dataset.category = category;
-      card.dataset.source = isBlog ? 'blog' : 'news';
-      card.dataset.slug = item._slug || '';
-      card.dataset.blogIndex = String(blogIndex ?? 0);
-      card.dataset.external = !isBlog ? link : '';
-      card.dataset.full = isBlog ? '' : plainText(item.fullText);
-      card.tabIndex = 0;
-      card.setAttribute('role', 'link');
-      card.setAttribute('aria-label', title);
-      card.appendChild(makeImage(item.thumbnail, title));
-
-      if (isBlog) {
-        const share = document.createElement('button');
-        share.type = 'button';
-        share.className = 'share-btn';
-        share.textContent = '↗ Share';
-        Object.assign(share.style, {position:'absolute', top:'12px', right:'12px', zIndex:'5',
-          background:'#111',padding:'8px 12px',borderRadius:'10px',cursor:'pointer',
-          border:'1px solid #333',color:'#fff'});
-        share.addEventListener('click', e => {
-          e.stopPropagation();
-          const url = link || `https://news.btcbrave.store/?post=${encodeURIComponent(item._slug || '')}`;
-          shareBlogPost(url, title);
-        });
-        card.appendChild(share);
-      }
-
-      const body = document.createElement('div');
-      body.className = 'card-body';
-      const heading = document.createElement('div');
-      heading.className = 'title';
-      const strong = document.createElement('strong');
-      strong.textContent = title;
-      heading.appendChild(strong);
-      const desc = document.createElement('div');
-      desc.className = 'desc';
-      const summary = plainText(item.description);
-      desc.textContent = summary.length > 120 ? summary.slice(0, 120) + '…' : summary;
-      const meta = document.createElement('div');
-      meta.className = 'meta-row';
-      const date = parseDate(item.pubDate);
-      const dateText = date.getTime() ? date.toLocaleDateString() : '';
-      meta.textContent = `${dateText} • ${isBlog ? 'BTCBRAVE Blog' : getSourceName(link)}`;
-      body.append(heading, desc, meta);
-      card.appendChild(body);
-      card.addEventListener('click', e => openArticle(item, isBlog, blogIndex, card, e));
-      card.addEventListener('keydown', e => {
-        if (e.key === 'Enter' && e.target === card) {
-          e.preventDefault();
-          openArticle(item, isBlog, blogIndex, card, e);
-        }
-      });
-      return card;
-    }
-
-    function renderBlogBatch(reset = false) {
-      if (reset) articleBody.replaceChildren();
-      if (!globalBlogItems.length || blogReaderOffset >= globalBlogItems.length) return;
-      const slice = globalBlogItems.slice(blogReaderOffset, blogReaderOffset + BLOG_BATCH_SIZE);
-      const fragment = document.createDocumentFragment();
-      slice.forEach(post => {
-        const article = document.createElement('article');
-        article.style.marginBottom = '24px';
-        const thumb = safeHttpUrl(post.thumbnail);
-        if (thumb) {
-          const img = document.createElement('img');
-          img.src = thumb;
-          img.alt = plainText(post.title);
-          img.loading = 'lazy';
-          Object.assign(img.style, {width:'100%',maxHeight:'260px',objectFit:'cover',borderRadius:'10px'});
-          article.appendChild(img);
-        }
-        const heading = document.createElement('h3');
-        heading.textContent = plainText(post.title);
-        heading.style.color = '#111827';
-        article.appendChild(heading);
-        const date = document.createElement('div');
-        date.style.cssText = 'font-size:12px;color:#4b5563;margin-bottom:8px;';
-        const d = parseDate(post.pubDate);
-        date.textContent = d.getTime() ? d.toLocaleDateString() : '';
-        article.appendChild(date);
-        const text = document.createElement('div');
-        // fullText é HTML do blog; sanitizado antes de inserir no leitor.
-        appendSafeHtml(text, post.fullText || post.description || '');
-        article.appendChild(text);
-        fragment.appendChild(article);
-        fragment.appendChild(document.createElement('hr'));
-      });
-      articleBody.appendChild(fragment);
-      blogReaderOffset += slice.length;
-    }
-
-    function openArticle(item, isBlog, blogIndex, card, event) {
-      if (event?.target?.closest('.share-btn')) return;
-      lastScrollY = window.scrollY;
-      if (!isBlog && card.dataset.external && !item.fullText) {
-        window.location.href = card.dataset.external;
-        return;
-      }
-      articleImageBox.replaceChildren();
-      articleTitle.textContent = isBlog ? '' : plainText(item.title);
-      if (isBlog && globalBlogItems.length) {
-        blogReaderActive = true;
-        blogReaderOffset = Number.isInteger(blogIndex) ? blogIndex : 0;
-        renderBlogBatch(true);
-      } else {
-        blogReaderActive = false;
-        articleBody.replaceChildren();
-        if (safeHttpUrl(item.thumbnail)) {
-          const img = document.createElement('img');
-          img.src = safeHttpUrl(item.thumbnail);
-          img.alt = plainText(item.title);
-          img.style.cssText = 'width:100%;max-height:420px;object-fit:contain;border-radius:12px;margin-bottom:20px;';
-          articleImageBox.appendChild(img);
-        }
-        appendSafeHtml(articleBody, item.fullText || item.description || '');
-      }
-      articleView.classList.add('open');
-      articleView.scrollIntoView({behavior:'smooth',block:'start'});
-    }
-
-    function closeArticle() {
-      articleView.classList.remove('open');
-      blogReaderActive = false;
-      blogReaderOffset = 0;
-      window.scrollTo({top:lastScrollY,behavior:'auto'});
-    }
-    articleClose.addEventListener('click', closeArticle);
-    articleView.addEventListener('click', e => { if (e.target === articleView) closeArticle(); });
-    window.addEventListener('scroll', () => {
-      if (!blogReaderActive || !articleView.classList.contains('open')) return;
-      if (blogReaderOffset >= globalBlogItems.length) return;
-      if (articleBody.getBoundingClientRect().bottom - window.innerHeight < 450) renderBlogBatch();
-    }, {passive:true});
-
-    function rebuildCombined() {
-      const news = storedNews.map((item, i) => {
-        const n = {...item, category:item.category || getCategory(item.link)};
-        assignSlug(n, i);
-        return n;
-      }).filter(x => parseDate(x.pubDate).getTime() <= Date.now());
-      const blog = storedBlog.map((item, i) => {
-        const n = {...item, category:item.category || 'blog'};
-        assignSlug(n, i + 10000);
-        return n;
-      }).filter(x => parseDate(x.pubDate).getTime() <= Date.now());
-      news.sort((a,b) => parseDate(b.pubDate) - parseDate(a.pubDate));
-      blog.sort((a,b) => parseDate(b.pubDate) - parseDate(a.pubDate));
-      globalBlogItems = blog;
-      allCombined = [];
-      let ni = 0, bi = 0;
-      // Mantém o visual original: 1 notícia do blog, 1 notícia externa.
-      while (ni < news.length || bi < blog.length) {
-        if (bi < blog.length) allCombined.push({item:blog[bi],isBlog:true,blogIndex:bi++});
-        if (ni < news.length) allCombined.push({item:news[ni++],isBlog:false});
-      }
-      applyFilter(currentFilter);
-    }
-
-    function renderNextBatch() {
-      if (renderOffset >= filteredCombined.length) {
-        loadMoreWrap.style.display = 'none';
-        return;
-      }
-      const frag = document.createDocumentFragment();
-      const end = Math.min(renderOffset + RENDER_BATCH_SIZE, filteredCombined.length);
-      while (renderOffset < end) {
-        const {item, isBlog, blogIndex} = filteredCombined[renderOffset++];
-        frag.appendChild(buildCard(item, isBlog, blogIndex));
-      }
-      newsGrid.appendChild(frag);
-      loadMoreWrap.style.display = renderOffset < filteredCombined.length ? 'block' : 'none';
-    }
-
-    function applyFilter(filter) {
-      currentFilter = filter;
-      filteredCombined = allCombined.filter(({item,isBlog}) =>
-        filter === 'all' || (filter === 'blog' ? isBlog :
-          (plainText(item.category || getCategory(item.link)).toLowerCase() === filter)));
-      newsGrid.replaceChildren();
-      renderOffset = 0;
-      emptyState.style.display = filteredCombined.length ? 'none' : 'block';
-      renderNextBatch();
-    }
-    loadMoreBtn.addEventListener('click', renderNextBatch);
-    document.querySelector('.filter-bar').addEventListener('click', e => {
-      const btn = e.target.closest('.filter-btn');
-      if (!btn) return;
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b === btn));
-      applyFilter(btn.dataset.filter || 'all');
-    });
-
-    // Ao chegar perto do fim da lista visível, carrega mais cards sem criar milhares de nós.
-    if ('IntersectionObserver' in window) {
-      const observer = new IntersectionObserver(entries => {
-        if (entries.some(e => e.isIntersecting) && !articleView.classList.contains('open')) renderNextBatch();
-      }, {rootMargin:'500px'});
-      observer.observe(loadMoreWrap);
-    }
-
-    async function fetchJson(url) {
-      const target = url + (url.includes('?') ? '&' : '?') + '_=' + Date.now();
-      const response = await fetch(target, {cache:'no-store'});
-      if (!response.ok) throw new Error('HTTP ' + response.status);
-      const json = await response.json();
-      if (!Array.isArray(json)) throw new Error('JSON inválido (esperado array)');
-      return json;
-    }
-
-    async function loadAllNews() {
-      if (refreshInProgress) return;
-      refreshInProgress = true;
-      if (!lastCheckAt) loading.style.display = 'block';
-      try {
-        const outcomes = await Promise.allSettled([fetchJson('news.json'), fetchJson(BLOG_POSTS_URL)]);
-        const okNews = outcomes[0].status === 'fulfilled';
-        const okBlog = outcomes[1].status === 'fulfilled';
-        if (okNews) storedNews = outcomes[0].value;
-        if (okBlog) storedBlog = outcomes[1].value;
-        const fingerprint = JSON.stringify([storedNews, storedBlog]);
-        if (fingerprint !== lastFingerprint) {
-          lastFingerprint = fingerprint;
-          rebuildCombined();
-        }
-        if (okNews || okBlog) {
-          const clock = new Date().toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
-          newsStatus.textContent = (okNews && okBlog ? 'Last checked: ' : 'Some sources unavailable. Last checked: ') + clock;
-        } else {
-          newsStatus.textContent = 'Unable to refresh. Showing the last available news.';
-          console.warn('News fetch failed:', outcomes[0].reason, outcomes[1].reason);
-        }
-        lastCheckAt = Date.now();
-
-        // Link permanente ao artigo: tenta achar no lote, mesmo quando não está visível.
-        const targetSlug = new URLSearchParams(location.search).get('post');
-        if (targetSlug && !window._btcbravePermalinkOpened) {
-          const idx = allCombined.findIndex(x => x.item._slug === targetSlug);
-          if (idx >= 0) {
-            window._btcbravePermalinkOpened = true;
-            if (currentFilter !== 'all') applyFilter('all');
-            while (renderOffset <= idx && renderOffset < filteredCombined.length) renderNextBatch();
-            const card = Array.from(newsGrid.querySelectorAll('.card'))[idx];
-            if (card) { card.scrollIntoView({block:'center'}); card.click(); }
-          }
-        }
-      } catch (e) {
-        console.error('BTCBRAVE refresh error', e);
-        newsStatus.textContent = 'Unable to refresh. Check your internet connection.';
-      } finally {
-        refreshInProgress = false;
-        loading.style.display = 'none';
-      }
-    }
-
-    loadAllNews();
-    setInterval(loadAllNews, NEWS_REFRESH_MS);
-    document.addEventListener('visibilitychange', () => {
-      if (!document.hidden && Date.now() - lastCheckAt > NEWS_REFRESH_MS / 2) loadAllNews();
-    });
-  </script>
-
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const overlay = document.getElementById('btcbraveLoginOverlay');
-      const closeBtn = document.getElementById('btcbraveLoginClose');
-      const bell = document.getElementById('floating-subscribe');
-      const form = document.getElementById('btcbraveLoginForm');
-      const email = document.getElementById('btcbraveLoginEmail');
-      const iframe = document.querySelector('iframe[name="hiddenBrevoFrame"]');
-      if (!overlay || !form) return;
-      const open = () => { overlay.style.display = 'flex'; };
-      const close = () => { overlay.style.display = 'none'; };
-      const previousRequest = Number(localStorage.getItem('btcbraveSubscribeRequestAt') || 0);
-      const recentlySubmitted = previousRequest && Date.now() - previousRequest < 30 * 86400000;
-      // Legado: evita mostrar o formulário repetidamente a visitantes antigos.
-      const legacy = localStorage.getItem('btcbraveSubscribed') === 'true';
-      if (!recentlySubmitted && !legacy) setTimeout(open, 1500);
-      closeBtn.addEventListener('click', close);
-      overlay.addEventListener('click', e => { if (e.target === overlay) close(); });
-      // Sem integração com a API do Brevo não é possível remover a inscrição por aqui.
-      // O cancelamento real é feito pelo link unsubscribe de cada email.
-      bell?.addEventListener('click', open);
-      let submitted = false;
-      iframe?.addEventListener('load', () => {
-        if (!submitted) return;
-        submitted = false;
-        alert('Subscription request sent. Please check your inbox for confirmation.');
-        close();
-      });
-      form.addEventListener('submit', event => {
-        const value = email.value.trim();
-        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) {
-          event.preventDefault();
-          alert('Please enter a valid email address.');
-          return;
-        }
-        // Indica somente envio do formulário, NÃO confirmação de inscrição.
-        localStorage.setItem('btcbraveSubscribeRequestAt', String(Date.now()));
-        submitted = true;
-      });
-    });
-  </script>
-
-  <script>
-    function shareBlogPost(url, title) {
-      const text = `Check this article on BTCBRAVE News:\n${title}\n${url}`;
-
-      if (navigator.share) {
-        navigator.share({
-          title: title,
-          text: text,
-          url: url
-        }).catch(err => {
-          console.log("Share failed", err);
-        });
-        return;
-      }
-
-      if (/Android|iPhone|iPad/i.test(navigator.userAgent)) {
-        const whatsUrl = `https://wa.me/?text=${encodeURIComponent(text)}`;
-        window.open(whatsUrl, '_blank');
-        return;
-      }
-
-      prompt("Copy this link to share:", url);
-    }
-  </script>
-
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function() {
-        navigator.serviceWorker.register('/service-worker.js')
-          .then(() => console.log("✅ Service Worker registrado com sucesso"))
-          .catch((err) => console.error("❌ Erro ao registrar o Service Worker:", err));
-      });
-    }
-  </script>
-
+</div>
+<header id="header">
+  <div><div class="brand"><img src="borboleta.png" alt="BTCBRAVE butterfly">BTCBRAVE News</div><a class="mail" href="mailto:news@btcbrave.store">✉ news@btcbrave.store</a></div>
+  <button class="bell" id="subscribeBell" title="Subscribe" aria-label="Subscribe">🔔</button>
+</header>
+<nav class="filter-bar" id="filterBar" aria-label="News categories">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="crypto">Crypto</button>
+  <button class="filter-btn" data-filter="finance">Finance</button>
+  <button class="filter-btn" data-filter="world">World</button>
+  <button class="filter-btn" data-filter="games">Games</button>
+  <button class="filter-btn" data-filter="food">Cooking</button>
+  <button class="filter-btn" data-filter="blog">Blog</button>
+</nav>
+<section class="reader" id="reader">
+  <button class="reader-close" id="readerClose" aria-label="Close article">×</button>
+  <div class="reader-inner"><div id="readerImage"></div><h1 class="reader-title" id="readerTitle"></h1><div class="reader-body" id="readerBody"></div></div>
+</section>
+<div class="status" id="status" role="status">Loading the latest news...</div>
+<main class="grid" id="newsGrid"></main>
+<div class="more-wrap" id="moreWrap" hidden><button class="more" id="moreBtn">Load more news</button></div>
+<p class="empty" id="emptyState" hidden>No articles in this category.</p>
+<script>
+'use strict';
+const $=id=>document.getElementById(id);
+const grid=$('newsGrid'),bar=$('filterBar'),reader=$('reader'),body=$('readerBody'),status=$('status');
+const BLOG_URL='https://blog.btcbrave.store/posts.json';
+const REFRESH_MS=10*60*1000,BATCH=60,BLOG_BATCH=10;
+let news=[],blog=[],merged=[],visible=[],count=0,filter='all',busy=false,checked=0;
+let readerBlog=false,blogOffset=0,scrollBefore=0,fingerprint='';
+const str=v=>String(v??'');
+function safeUrl(value){try{const s=str(value).trim();if(!s)return '';const u=new URL(s,location.href);return ['https:','http:'].includes(u.protocol)?u.href:''}catch{return ''}}
+function parsed(value){const d=new Date(value);return Number.isFinite(+d)?d:new Date(0)}
+function domain(url){try{return new URL(url).hostname.toLowerCase().replace(/^www\./,'')}catch{return ''}}
+function source(url){const h=domain(url),names={
+ 'cointelegraph.com':'Cointelegraph','cryptonews.com':'CryptoNews','coindesk.com':'CoinDesk',
+ 'finance.yahoo.com':'Yahoo Finance','yahoo.com':'Yahoo Finance','investors.com':'Investors.com',
+ 'wsj.com':'WSJ','investing.com':'Investing.com','marketwatch.com':'MarketWatch',
+ 'bloomberg.com':'Bloomberg','cnbc.com':'CNBC','forbes.com':'Forbes',
+ 'bbc.co.uk':'BBC News','bbc.com':'BBC News','cnn.com':'CNN','reuters.com':'Reuters',
+ 'aljazeera.com':'Al Jazeera','msn.com':'MSN News','apnews.com':'AP News',
+ 'nytimes.com':'The New York Times','washingtonpost.com':'The Washington Post',
+ 'gamespot.com':'GameSpot','polygon.com':'Polygon','allrecipes.com':'Allrecipes',
+ 'thespruceeats.com':'The Spruce Eats','bonappetit.com':'Bon Appétit'};
+ const key=Object.keys(names).find(k=>h===k||h.endsWith('.'+k));return key?names[key]:h.toUpperCase()||'NEWS'}
+function category(url){const s=source(url);if(['Cointelegraph','CryptoNews','CoinDesk'].includes(s))return 'crypto';
+ if(['Yahoo Finance','Investors.com','WSJ','Investing.com','MarketWatch','Bloomberg','CNBC','Forbes'].includes(s))return 'finance';
+ if(['GameSpot','Polygon'].includes(s))return 'games';if(['Allrecipes','The Spruce Eats','Bon Appétit'].includes(s))return 'food';if(['BBC News','CNN','Reuters','Al Jazeera','MSN News','AP News','The New York Times','The Washington Post'].includes(s))return 'world';return 'all'}
+function slug(t){return str(t).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,72)||'article'}
+function hash(t){let n=2166136261;for(const ch of str(t)){n^=ch.charCodeAt(0);n=Math.imul(n,16777619)}return(n>>>0).toString(36)}
+function normalize(items,isBlog){return items.map((p,i)=>({...p,isBlog,category:isBlog?(p.category||'blog'):(p.category||category(p.link)),_slug:slug(p.slug||p.title)+'-'+hash(p.link||p.title||i)}))
+ .filter(p=>parsed(p.pubDate)<=new Date()).sort((a,b)=>parsed(b.pubDate)-parsed(a.pubDate))}
+function combine(){const n=normalize(news,false),b=normalize(blog,true);window.blogPosts=b;merged=[];
+ for(let i=0,j=0;i<n.length||j<b.length;){if(j<b.length)merged.push({...b[j],blogIndex:j++});if(i<n.length)merged.push(n[i++])}setFilter(filter)}
+function imageFor(url,title){const src=safeUrl(url);if(!src)return null;const img=document.createElement('img');img.className='card-img';img.src=src;img.alt=str(title);img.loading='lazy';img.decoding='async';img.onerror=()=>{const card=img.closest('.card');img.remove();card?.classList.add('no-image')};return img}
+function cardFor(p){const card=document.createElement('article');card.className='card';card.tabIndex=0;card.role='link';card.setAttribute('aria-label',str(p.title));card.dataset.slug=p._slug;
+ const img=imageFor(p.thumbnail,p.title);if(img)card.append(img);else card.classList.add('no-image');
+ if(p.isBlog){const share=document.createElement('button');share.className='share-btn';share.textContent='↗ Share';share.onclick=e=>{e.stopPropagation();sharePost(p)};card.append(share)}
+ const content=document.createElement('div');content.className='card-body';
+ const title=document.createElement('h2');title.className='title';title.textContent=str(p.title);
+ const desc=document.createElement('div');desc.className='desc';const t=str(p.description);desc.textContent=t.length>120?t.slice(0,120)+'…':t;
+ const meta=document.createElement('div');meta.className='meta';const d=parsed(p.pubDate);meta.textContent=(+d?d.toLocaleDateString():'')+' • '+(p.isBlog?'BTCBRAVE Blog':source(p.link));
+ content.append(title,desc,meta);card.append(content);card.onclick=()=>openArticle(p);card.onkeydown=e=>{if(e.key==='Enter'&&e.target===card){e.preventDefault();openArticle(p)}};return card}
+function addBatch(){if(count>=visible.length){$('moreWrap').hidden=true;return}const frag=document.createDocumentFragment(),end=Math.min(count+BATCH,visible.length);
+ while(count<end)frag.append(cardFor(visible[count++]));grid.append(frag);$('moreWrap').hidden=count>=visible.length}
+function setFilter(name){filter=name;visible=merged.filter(p=>name==='all'||(name==='blog'?p.isBlog:str(p.category).toLowerCase()===name));grid.replaceChildren();count=0;$('emptyState').hidden=visible.length>0;addBatch()}
+bar.onclick=e=>{const b=e.target.closest('[data-filter]');if(!b)return;bar.querySelectorAll('.filter-btn').forEach(x=>x.classList.toggle('active',x===b));setFilter(b.dataset.filter)};
+$('moreBtn').onclick=addBatch;
+if('IntersectionObserver'in window)new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)&&!reader.classList.contains('open'))addBatch()},{rootMargin:'400px'}).observe($('moreWrap'));
+const allowed=new Set('p div span br strong b em i u h2 h3 h4 h5 ul ol li blockquote a img pre code hr'.split(' '));
+const forbidden=new Set('script style svg math iframe object embed form input button textarea select link meta base'.split(' '));
+function safeAppend(parent,node){if(node.nodeType===Node.TEXT_NODE){parent.append(document.createTextNode(node.textContent));return}if(node.nodeType!==Node.ELEMENT_NODE)return;
+ const tag=node.tagName.toLowerCase();if(forbidden.has(tag))return;if(!allowed.has(tag)){[...node.childNodes].forEach(n=>safeAppend(parent,n));return}
+ const out=document.createElement(tag);if(tag==='a'){const u=safeUrl(node.getAttribute('href'));if(u){out.href=u;out.target='_blank';out.rel='noopener noreferrer'}}
+ if(tag==='img'){const u=safeUrl(node.getAttribute('src'));if(!u)return;out.src=u;out.alt=node.getAttribute('alt')||'';out.loading='lazy'}
+ [...node.childNodes].forEach(n=>safeAppend(out,n));parent.append(out)}
+function safeHtml(el,html){const doc=new DOMParser().parseFromString('<div>'+str(html)+'</div>','text/html');[...doc.body.firstElementChild.childNodes].forEach(n=>safeAppend(el,n))}
+function blogBatch(reset=false){if(reset)body.replaceChildren();const posts=window.blogPosts||[],frag=document.createDocumentFragment();for(const p of posts.slice(blogOffset,blogOffset+BLOG_BATCH)){
+ const article=document.createElement('article');article.style.marginBottom='24px';const u=safeUrl(p.thumbnail);if(u){const img=document.createElement('img');img.src=u;img.alt=str(p.title);img.loading='lazy';article.append(img)}
+ const h=document.createElement('h3');h.textContent=str(p.title);article.append(h);const d=document.createElement('small');d.textContent=parsed(p.pubDate).toLocaleDateString();article.append(d);
+ const content=document.createElement('div');safeHtml(content,p.fullText||p.description||'');article.append(content);frag.append(article,document.createElement('hr'))}
+ body.append(frag);blogOffset+=BLOG_BATCH}
+function openArticle(p){scrollBefore=scrollY;if(!p.isBlog&&!p.fullText&&safeUrl(p.link)){location.href=safeUrl(p.link);return}
+ $('readerImage').replaceChildren();$('readerTitle').textContent=p.isBlog?'':str(p.title);body.replaceChildren();readerBlog=!!p.isBlog;
+ if(readerBlog){blogOffset=p.blogIndex||0;blogBatch(true)}else{const u=safeUrl(p.thumbnail);if(u){const img=document.createElement('img');img.src=u;img.alt=str(p.title);img.style.cssText='max-width:100%;max-height:420px;object-fit:contain';$('readerImage').append(img)}safeHtml(body,p.fullText||p.description||'')}
+ reader.classList.add('open');reader.scrollIntoView({behavior:'smooth',block:'start'})}
+$('readerClose').onclick=()=>{reader.classList.remove('open');readerBlog=false;window.scrollTo({top:scrollBefore,behavior:'instant'})};
+function sharePost(p){const url=safeUrl(p.link)||'https://news.btcbrave.store/?post='+encodeURIComponent(p._slug);const text='Check this article on BTCBRAVE News: '+p.title;
+ if(navigator.share){navigator.share({title:p.title,text,url}).catch(()=>{});return}if(/Android|iPhone|iPad/i.test(navigator.userAgent)){window.open('https://wa.me/?text='+encodeURIComponent(text+' '+url),'_blank');return}prompt('Copy this link:',url)}
+window.addEventListener('scroll',()=>{if(readerBlog&&reader.classList.contains('open')&&blogOffset<(window.blogPosts||[]).length&&body.getBoundingClientRect().bottom-innerHeight<450)blogBatch()},{passive:true});
+// Barra reaparece quando se sobe um pouco e some ao descer.
+let previousY=scrollY,up=0,down=0;
+function stickyBar(){document.documentElement.style.setProperty('--header-height',$('header').offsetHeight+'px');const y=scrollY,delta=y-previousY;
+ if(y<120){bar.classList.remove('hidden-on-scroll');up=down=0}
+ else if(delta<0){up+=-delta;down=0;if(up>5){bar.classList.remove('hidden-on-scroll');up=0}}
+ else if(delta>0){down+=delta;up=0;if(down>18){bar.classList.add('hidden-on-scroll');down=0}}previousY=y}
+window.addEventListener('scroll',stickyBar,{passive:true});window.addEventListener('resize',stickyBar);stickyBar();
+async function getJSON(url){const r=await fetch(url+(url.includes('?')?'&':'?')+'_='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const obj=await r.json();if(!Array.isArray(obj))throw Error('Expected array');return obj}
+async function refresh(){if(busy)return;busy=true;try{const results=await Promise.allSettled([getJSON('news.json'),getJSON(BLOG_URL)]);
+ const a=results[0].status==='fulfilled',b=results[1].status==='fulfilled';if(a)news=results[0].value;if(b)blog=results[1].value;
+ const sig=JSON.stringify([news,blog]);if(sig!==fingerprint){fingerprint=sig;combine()}
+ status.textContent=(!a&&!b?'Unable to refresh; showing earlier news.':!a||!b?'Some sources unavailable. Last checked: ':'Last checked: ')+new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
+ checked=Date.now();const target=new URLSearchParams(location.search).get('post');if(target&&!window._openedPost){const i=merged.findIndex(p=>p._slug===target);if(i!==-1){window._openedPost=true;bar.querySelector('[data-filter="all"]').click();while(count<=i&&count<visible.length)addBatch();grid.querySelectorAll('.card')[i]?.click()}}}
+ catch(e){console.error(e);status.textContent='Unable to load news; please try again.'}finally{busy=false}}
+refresh();setInterval(refresh,REFRESH_MS);document.addEventListener('visibilitychange',()=>{if(!document.hidden&&Date.now()-checked>REFRESH_MS/2)refresh()});
+// Inscrição Brevo — não promete remover ou confirmar uma inscrição sem resposta do serviço.
+const overlay=$('subscribeOverlay');function showSubscribe(){overlay.style.display='flex'}function closeSubscribe(){overlay.style.display='none'}
+$('subscribeBell').onclick=showSubscribe;$('closeSubscribe').onclick=closeSubscribe;overlay.onclick=e=>{if(e.target===overlay)closeSubscribe()};
+const prev=Number(localStorage.getItem('btcbraveSubscribeRequestAt')||0);
+if(!localStorage.getItem('btcbraveSubscribed')&&(!prev||Date.now()-prev>30*86400000))setTimeout(showSubscribe,1500);
+let submitted=false;$('subscribeForm').onsubmit=e=>{const inp=$('email');if(!inp.validity.valid){e.preventDefault();inp.reportValidity();return}localStorage.setItem('btcbraveSubscribeRequestAt',String(Date.now()));submitted=true};
+document.querySelector('[name="hiddenBrevoFrame"]').addEventListener('load',()=>{if(submitted){submitted=false;alert('Request sent. Please check your inbox for confirmation.');closeSubscribe()}});
+if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('/service-worker.js').catch(console.error));
+</script>
 </body>
 </html>
