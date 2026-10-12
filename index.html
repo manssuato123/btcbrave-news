@@ -20,10 +20,12 @@ header{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-
 .filter-btn:hover{border-color:var(--gold);color:#ffdd70}.filter-btn.active{background:linear-gradient(90deg,#3b82f6,#8b5cf6,#ec4899,#f97316);border-color:transparent;color:#fff}
 .status{max-width:1600px;margin:8px auto;padding:0 18px;color:var(--muted);font-size:12px}
 .grid{max-width:1600px;margin:0 auto;padding:12px 18px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;align-items:start}
+/* Original masonry effect: each column stacks cards independently, without empty rows. */
+.news-column{min-width:0;display:flex;flex-direction:column;gap:16px}
 .card{width:100%;display:inline-block;break-inside:avoid;-webkit-column-break-inside:avoid;vertical-align:top;margin:0;overflow:hidden;border:2px solid #ffffff30;border-radius:15px;background:radial-gradient(circle at top left,#202538,#111318 55%,#05060a);box-shadow:0 14px 32px #0009;cursor:pointer;transition:transform .18s,border-color .18s}
 .card:hover{transform:translateY(-3px);border-color:#ffdd7088}.card:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
 .card-img{display:block;width:100%;height:190px;object-fit:cover;background:#0c1018}
-.card:nth-child(9n + 1) .card-img{height:285px}.card:nth-child(9n + 4) .card-img,.card:nth-child(9n + 8) .card-img{height:240px}.card:nth-child(9n + 2) .card-img,.card:nth-child(9n + 6) .card-img{height:150px}
+.card.image-tall .card-img{height:285px}.card.image-medium .card-img{height:240px}.card.image-short .card-img{height:150px}
 .card-body{padding:16px 18px}.card.no-image .card-body{padding-top:18px}.title{font-size:19px;font-weight:750;line-height:1.3;margin:0 0 8px}.desc{font-size:14px;color:var(--muted);line-height:1.5;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}.meta{margin-top:12px;font-size:12px;color:var(--muted)}
 .share-btn{position:absolute;top:10px;right:10px;border:1px solid #444;border-radius:9px;background:#111;color:#fff;padding:7px 11px;cursor:pointer}.card{position:relative}.card.no-image .share-btn{position:static;margin:12px 0 0 14px}
 .more-wrap{text-align:center;padding:10px 0 36px}.more{border:0;border-radius:30px;background:var(--gold);color:#05060a;font-weight:750;padding:12px 24px;cursor:pointer}.empty{text-align:center;padding:28px;color:var(--muted)}
@@ -147,7 +149,9 @@ function combine(){const n=normalize(news,false),b=normalize(blog,true);window.b
   .sort((a,b)=>parsed(b.pubDate)-parsed(a.pubDate));
  setFilter(filter)}
 function imageFor(url,title){const src=safeUrl(url);if(!src)return null;const img=document.createElement('img');img.className='card-img';img.src=src;img.alt=str(title);img.loading='lazy';img.decoding='async';img.onerror=()=>{const card=img.closest('.card');img.remove();card?.classList.add('no-image')};return img}
-function cardFor(p){const card=document.createElement('article');card.className=p.isBlog?'card blog-card':'card';card.tabIndex=0;card.role='link';card.setAttribute('aria-label',str(p.title));card.dataset.slug=p._slug;
+function cardFor(p,index){const card=document.createElement('article');card.className=p.isBlog?'card blog-card':'card';
+ const pattern=index%9;if(pattern===0)card.classList.add('image-tall');else if(pattern===3||pattern===7)card.classList.add('image-medium');else if(pattern===1||pattern===5)card.classList.add('image-short');
+ card.tabIndex=0;card.role='link';card.setAttribute('aria-label',str(p.title));card.dataset.slug=p._slug;
  const img=imageFor(p.thumbnail,p.title);if(img)card.append(img);else card.classList.add('no-image');
  if(p.isBlog){const share=document.createElement('button');share.className='share-btn';share.textContent='↗ Share';share.onclick=e=>{e.stopPropagation();sharePost(p)};card.append(share)}
  const content=document.createElement('div');content.className='card-body';
@@ -155,9 +159,43 @@ function cardFor(p){const card=document.createElement('article');card.className=
  const desc=document.createElement('div');desc.className='desc';const t=str(p.description);desc.textContent=t.length>120?t.slice(0,120)+'…':t;
  const meta=document.createElement('div');meta.className='meta';const d=parsed(p.pubDate);meta.textContent=(+d?d.toLocaleDateString():'')+' • '+(p.isBlog?'BTCBRAVE Blog':source(p.link));
  content.append(title,desc,meta);card.append(content);card.onclick=()=>openArticle(p);card.onkeydown=e=>{if(e.key==='Enter'&&e.target===card){e.preventDefault();openArticle(p)}};return card}
-function addBatch(){if(count>=visible.length){$('moreWrap').hidden=true;return}const frag=document.createDocumentFragment(),end=Math.min(count+BATCH,visible.length);
- while(count<end)frag.append(cardFor(visible[count++]));grid.append(frag);$('moreWrap').hidden=count>=visible.length}
-function setFilter(name){filter=name;visible=merged.filter(p=>name==='all'||(name==='blog'?p.isBlog:str(p.category).toLowerCase()===name));grid.replaceChildren();count=0;$('emptyState').hidden=visible.length>0;addBatch()}
+// Distribuição horizontal dos artigos por ordem de publicação, mantendo os cards em colunas
+// independentes (o visual "masonry" de antes, sem espaços vazios sob os menores).
+let columns=[],displayedCards=[],layoutCount=0;
+function columnsAtWidth(){
+ const w=window.innerWidth;
+ return w<=620?1:w<=960?2:w<=1380?3:4;
+}
+function layoutColumns(){
+ const needed=columnsAtWidth();
+ if(layoutCount===needed&&columns.length)return;
+ const frag=document.createDocumentFragment();
+ const next=[];
+ for(let i=0;i<needed;i++){
+  const col=document.createElement('div');col.className='news-column';next.push(col);frag.append(col);
+ }
+ displayedCards.forEach((card,i)=>next[i%needed].append(card));
+ grid.replaceChildren(frag);columns=next;layoutCount=needed;
+}
+function addBatch(){
+ layoutColumns();
+ if(count>=visible.length){$('moreWrap').hidden=true;return}
+ const end=Math.min(count+BATCH,visible.length);
+ while(count<end){
+  const card=cardFor(visible[count],count);
+  displayedCards.push(card);
+  columns[count%layoutCount].append(card);
+  count++;
+ }
+ $('moreWrap').hidden=count>=visible.length;
+}
+function setFilter(name){
+ filter=name;
+ visible=merged.filter(p=>name==='all'||(name==='blog'?p.isBlog:str(p.category).toLowerCase()===name));
+ count=0;columns=[];displayedCards=[];layoutCount=0;grid.replaceChildren();
+ $('emptyState').hidden=visible.length>0;addBatch();
+}
+window.addEventListener('resize',()=>{if(layoutCount&&columnsAtWidth()!==layoutCount)layoutColumns()});
 bar.onclick=e=>{const b=e.target.closest('[data-filter]');if(!b)return;bar.querySelectorAll('.filter-btn').forEach(x=>x.classList.toggle('active',x===b));setFilter(b.dataset.filter)};
 $('moreBtn').onclick=addBatch;
 if('IntersectionObserver'in window)new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)&&!reader.classList.contains('open'))addBatch()},{rootMargin:'400px'}).observe($('moreWrap'));
@@ -242,7 +280,7 @@ async function refresh(){if(busy)return;busy=true;try{const results=await Promis
  const a=results[0].status==='fulfilled',b=results[1].status==='fulfilled';if(a)news=results[0].value;if(b)blog=results[1].value;
  const sig=JSON.stringify([news,blog]);if(sig!==fingerprint){fingerprint=sig;combine()}
  status.textContent=(!a&&!b?'Unable to refresh; showing earlier news.':!a||!b?'Some sources unavailable. Last checked: ':'Last checked: ')+new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
- checked=Date.now();const target=new URLSearchParams(location.search).get('post');if(target&&!window._openedPost){const i=merged.findIndex(p=>p._slug===target);if(i!==-1){window._openedPost=true;bar.querySelector('[data-filter="all"]').click();while(count<=i&&count<visible.length)addBatch();grid.querySelectorAll('.card')[i]?.click()}}}
+ checked=Date.now();const target=new URLSearchParams(location.search).get('post');if(target&&!window._openedPost){const i=merged.findIndex(p=>p._slug===target);if(i!==-1){window._openedPost=true;bar.querySelector('[data-filter="all"]').click();while(count<=i&&count<visible.length)addBatch();displayedCards[i]?.click()}}}
  catch(e){console.error(e);status.textContent='Unable to load news; please try again.'}finally{busy=false}}
 refresh();setInterval(refresh,REFRESH_MS);document.addEventListener('visibilitychange',()=>{if(!document.hidden&&Date.now()-checked>REFRESH_MS/2)refresh()});
 // Inscrição Brevo — não promete remover ou confirmar uma inscrição sem resposta do serviço.
