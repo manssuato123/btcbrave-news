@@ -1,5 +1,981 @@
 [
   {
+    "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+    "description": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
+    "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108405223-1791925334593-picture1credit.png?v=1791926262&w=1920&h=1080",
+    "pubDate": "2026-10-13T23:56:04+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
+    "description": "Ms. Zacharia spent eight minutes reading from a script, called on only three reporters and made an awkward slip-up.",
+    "link": "https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-press-secretary-ckgw/13dc-press-secretary-ckgw-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T23:49:54+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Australian politics live: Hanson dismisses ‘shamed and stoned’ remark as ‘heat of moment’; PM extends ‘thoughts and prayers’ to pope",
+    "description": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won’t properly tax the resource. We’re giving away billions in resource wealth while families struggle to pay the rent,",
+    "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+    "thumbnail": "https://i.guim.co.uk/img/media/89abba2191f407c67386c069bd00bb78e6d3900a/0_0_5583_4469/master/5583.jpg?width=140&quality=85&auto=format&fit=max&s=3fdbb1ce9f61ad105b176affa5bf6bba",
+    "pubDate": "2026-10-13T23:49:33+00:00",
+    "category": "world"
+  },
+  {
+    "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
+    "description": "President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.",
+    "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-guilfoyle-fall-wlzv/13dc-guilfoyle-fall-wlzv-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T23:44:50+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+    "description": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
+    "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ace95f8bfd6c-1791923704.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-13T23:42:57+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg",
+    "pubDate": "2026-10-13T23:42:22+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
+    "description": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
+    "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f34b/live/ee29dc10-c75e-11f1-a64c-550be9e3c66b.jpg",
+    "pubDate": "2026-10-13T23:42:15+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
+    "description": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald Trump’s public schedule every day, and monitored his Truth Social, and made sure she was on-air when she assumed he might be watching, according to Politico , citing a",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+    "thumbnail": "https://i.guim.co.uk/img/media/fdc829e2ba42f9e9228083c2ac99ea816bbb7cc5/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=9144afb7b36516ab175bf943ce719e3a",
+    "pubDate": "2026-10-13T23:38:40+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Apple’s HomeView ad is confusing to everyone except parents",
+    "description": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those […]",
+    "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/family_hero.jpg?quality=90&strip=all&crop=0%2C3.1236540099735%2C100%2C93.752691980053&w=1200",
+    "pubDate": "2026-10-13T23:32:57+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Zimbabwean author denies using AI to write award-winning story",
+    "description": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e42/live/dc1ac240-c723-11f1-9a39-31b474234113.jpg",
+    "pubDate": "2026-10-13T23:31:10+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Is Mini DisplayPort becoming obsolete?",
+    "description": "Mini DisplayPort was on lots of computers for a time, but it's not nearly as common now thanks to more modern standards.",
+    "link": "https://www.engadget.com/2282398/mini-displayport-becoming-obsolete",
+    "thumbnail": "https://www.engadget.com/img/gallery/is-mini-displayport-becoming-obsolete/l-intro-1791563878.jpg",
+    "pubDate": "2026-10-13T23:30:00+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+    "description": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
+    "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VRR79KQN4B5CCVR567DB5T/ledger.jpg",
+    "pubDate": "2026-10-13T23:28:19+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+    "description": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+    "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2688a309ccf027625e4bf19277b7e78cfc32859f-2123x1084.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "pubDate": "2026-10-13T23:23:05+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "description": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office",
+    "thumbnail": "https://media.wired.com/photos/6aceab66cc5b61e4cd2bfb17/master/pass/Man-Arrested-for-Listening-Device-in-OpenAI-Office-Security.jpg",
+    "pubDate": "2026-10-13T23:17:59+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+    "pubDate": "2026-10-13T23:13:31+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
+    "pubDate": "2026-10-13T23:05:34+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "How long will humans be needed for translation?",
+    "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+    "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg",
+    "pubDate": "2026-10-13T23:05:29+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+    "description": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108401223-1791858322674-gettyimages-1247324330-porzycki-dailylif230209_npB7v.jpeg?v=1791859003&w=1920&h=1080",
+    "pubDate": "2026-10-13T23:05:12+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Is it OK for jobseekers or employers to use AI?",
+    "description": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+    "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+    "pubDate": "2026-10-13T23:04:39+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Royal Mail losing 400 postal workers a week, says union",
+    "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg",
+    "pubDate": "2026-10-13T23:03:59+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Saka responds to Arteta's challenge with 'huge impact'",
+    "description": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg",
+    "pubDate": "2026-10-13T23:03:04+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Fostering in crisis: can flexible care models fix England’s child placement shortfall?",
+    "description": "New recruitment campaign to target adults in their 30s and 40s in bid to create 10,000 new foster care places Viennetta Basterfield, 67, spent two decades fostering more than 100 children in her west London home before she and her husband handed in the reins during Covid. Her own mother had died when she was nine and she was brought up by another woman who took her in. There was no doubt in her mind that she wanted to dedicate her life",
+    "link": "https://www.theguardian.com/society/2026/oct/14/fostering-in-crisis-can-flexible-care-models-fix-englands-child-placement-shortfall",
+    "thumbnail": "https://i.guim.co.uk/img/media/0014492a58ead1f95fdc67295f9e6362ae103309/365_0_4587_3669/master/4587.jpg?width=140&quality=85&auto=format&fit=max&s=810fc5f818e76ae9ad501c98a1068b55",
+    "pubDate": "2026-10-13T23:01:39+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
+    "description": "Former investor alleges BitMEX sold products in UK despite not being regulated by Financial Conduct Authority A cryptocurrency exchange founded by the billionaire Reform UK donor Ben Delo is being sued for £20m over claims that the company mis-sold financial products in the UK. Lewis Barber, who is a software engineer, alleges that BitMEX offered crypto derivative products to investors in the UK, despite not being regulated or approved",
+    "link": "https://www.theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
+    "thumbnail": "https://i.guim.co.uk/img/media/efa07eae7656ea0e8ac40f4217cbe03d652ec9e0/109_203_1022_817/master/1022.jpg?width=140&quality=85&auto=format&fit=max&s=9b1a8949572db218ae8c524165abc046",
+    "pubDate": "2026-10-13T23:01:38+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Stop making sense: focus on sounds to help learn a language, study suggests",
+    "description": "Research shows that the best linguists process unfamiliar foreign speech sounds more like non-speech sounds If you want to get really good at French, Arabic or Hungarian, don’t start with rote learning vocabulary and grammar, focus on how they sound instead, research suggests. A new study of how humans learn modern languages has found that the brains of the most talented linguists hear foreign terms as random noise, not words. Continue",
+    "link": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
+    "thumbnail": "https://i.guim.co.uk/img/media/674da4764b855a56341ef688b8fc791939c52df7/545_292_4814_3851/master/4814.jpg?width=140&quality=85&auto=format&fit=max&s=1da72d98f4037dce15fb57b11410c8c7",
+    "pubDate": "2026-10-13T23:01:37+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Rules, London’s oldest restaurant, donated to National Trust",
+    "description": "Historic eatery in capital’s theatreland given to heritage charity after changing hands only three times in 228 years When Thomas Rule served his first oyster to diners on Maiden Lane in London’s Covent Garden, “mad” George III was on the throne of England, John Adams was US president and William Pitt the Younger had just come up with a wheeze called income tax to pay for the Napoleonic wars. More than two centuries later, Rules , the r",
+    "link": "https://www.theguardian.com/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust",
+    "thumbnail": "https://i.guim.co.uk/img/media/17b8ddd9a55cd44b9fa61b1b160f6e4a33242b3b/311_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=47fb3deb8217a62ab9d19c066fa191f4",
+    "pubDate": "2026-10-13T23:01:37+00:00",
+    "category": "world"
+  },
+  {
+    "title": "The 9 Best TV Shows to Stream This Month (October 2026)",
+    "description": "Crystal Lake, Tip Toe, and Carrie are just a few of the shows you should be watching right now.",
+    "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now",
+    "thumbnail": "https://media.wired.com/photos/6ace6f6bd04b6454bd09a710/master/pass/Show-Guide-Crystal-Lake-Culture-NUP_211121_00008.jpg",
+    "pubDate": "2026-10-13T23:00:40+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "11 Magic: The Gathering Marvel Cards That Perfectly Capture Their Characters",
+    "description": "Some of the best cards from Magic's Marvel Super Heroes set perfectly encapsulate their characters on cardboard.",
+    "link": "https://www.polygon.com/mtg-best-marvel-card-designs-magic-the-gathering-super-heroes",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-mind-stone-art.jpg",
+    "pubDate": "2026-10-13T23:00:16+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?",
+    "description": "The 2026 model is faster and can hear you from afar, but the 2022 box gets Siri AI as well.",
+    "link": "https://www.engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase",
+    "thumbnail": "https://www.engadget.com/img/gallery/apple-tv-4k-2022-vs-2026-whats-new-and-is-it-worth-the-100-jump/l-intro-1791931548.jpg",
+    "pubDate": "2026-10-13T23:00:00+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "How to improve your online privacy and security in Google Chrome",
+    "description": "Google has much to gain by collecting data from you through your activity on Chrome, but you can make it harder.",
+    "link": "https://www.engadget.com/2282288/how-to-improve-online-privacy-security-google-chrome",
+    "thumbnail": "https://www.engadget.com/img/gallery/how-to-improve-your-online-privacy-and-security-in-google-chrome/l-intro-1791560982.jpg",
+    "pubDate": "2026-10-13T23:00:00+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
+    "pubDate": "2026-10-13T23:00:00+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "OpenAI employee arrested after recording device found in office",
+    "description": "Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI. One of its employees has been arrested. In a statement on Tuesday, the San Francisco-based AI company said it discovered the “sophisticated recording device” and used one of its “models to understand the device and wh",
+    "link": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device",
+    "thumbnail": "https://i.guim.co.uk/img/media/7b5088f5e0909e5150ddb0e2ef56a16db65c1165/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=7a6f69f3bc8d4cfd932fd88ac3831d21",
+    "pubDate": "2026-10-13T22:59:55+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Manchester United’s Martinez blasts board’s lack of investment",
+    "description": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club's failure to invest in team.",
+    "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2299529869-1791931256.jpg?resize=1200%2C675",
+    "pubDate": "2026-10-13T22:57:56+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Bank of America Pays $1.8 Billion Fine for Lax Money-Laundering Oversight",
+    "description": "Federal regulators said the bank had waved through suspicious transactions without proper care.",
+    "link": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-bank-america-fine-vcfm/13biz-bank-america-fine-vcfm-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T22:57:46+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds",
+    "description": "Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.",
+    "link": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2299540926-1791929038.jpg?resize=1200%2C675",
+    "pubDate": "2026-10-13T22:56:24+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+    "description": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
+    "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+    "pubDate": "2026-10-13T22:54:21+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+    "description": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+    "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg",
+    "pubDate": "2026-10-13T22:48:12+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Police Identify 42-Year Old Man Killed at Six Flags Over Georgia",
+    "description": "The police identified the 42-year-old man who died at Six Flags Over Georgia on Monday. The company said it was temporarily closing multiple rides in the U.S. and Canada as a precaution.",
+    "link": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/12/multimedia/12xp-roller-coaster-fhzp-alert/12xp-roller-coaster-fhzp-alert-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T22:47:17+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+    "description": "CNBC’s Jim Cramer said investors should hold off on buying newly public AI infrastructure company Accelevation Holdings.",
+    "link": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108370435-1790788367225-gettyimages-2297349173-ACCELEVATION_HOLDINGS_IPO.jpeg?v=1790788421&w=1920&h=1080",
+    "pubDate": "2026-10-13T22:47:07+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Man who died in Six Flags rollercoaster fall in Georgia was a father and educator",
+    "description": "Hassan Jihad Ibn Kariem was a father of 10-year-old daughter, and overcame two bouts of cancer, his family says Police on Tuesday identified the victim of the fatal accident at Six Flags Over Georgia as 42-year-old Hassan Jihad Ibn Kariem of Atlanta. Kariem fell to his death after being ejected from his seat and several others were injured in an incident involving a rollercoaster at the theme park. Continue reading...",
+    "link": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death",
+    "thumbnail": "https://i.guim.co.uk/img/media/315537ddb95c1593ed116f7a8fd1143bf205de51/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6d7e9437869c8e7d44421d9da403aff0",
+    "pubDate": "2026-10-13T22:46:08+00:00",
+    "category": "world"
+  },
+  {
+    "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+    "description": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
+    "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T22:45:09+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Grok AI Predicts Hyperliquid to Surge 20x by 2027",
+    "description": "Elon Musk’s Grok AI predicts that Hyperliquid (HYPE) could reach $1,500 by January 1, 2027, assuming a full-blown crypto bull market returns and a landmark catalyst turbocharges it. HYPE currently trades near $80–$82 as of October 13, 2026, and a run to four figures would mean around 20x returns from current levels.The scenario assumes a […] The post Grok AI Predicts Hyperliquid to Surge 20x by 2027 appeared first on Cryptonews .",
+    "link": "https://cryptonews.com/news/grok-ai-predicts-hyperliquid-150x-surge",
+    "thumbnail": "https://cryptonews.com/wp-content/uploads/2026/10/1791893764-screenshot-2026-10-13-at-13-15-52.jpg",
+    "pubDate": "2026-10-13T22:45:00+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Mauritius imposes curfew after night of unrest over police shooting",
+    "description": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.",
+    "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20240115__34EW32M__v2__HighRes__MauritiusEconomyUrbanism-1791924179.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-13T22:41:59+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Justice Dept. Issues Subpoenas in Ilhan Omar Investigation",
+    "description": "After years of investigation, the Justice Department appears to be intensifying a criminal inquiry into the immigration history of Ilhan Omar, a Minnesota Democrat, and her family.",
+    "link": "https://www.nytimes.com/2026/10/13/us/politics/justice-dept-ilhan-omar-subpoenas.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/dc-omar-2-pfbv/dc-omar-2-pfbv-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T22:40:20+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Trump Aids Putin, Feuds With Ukraine",
+    "description": "Plus, the G.O.P. plays defense in red states. Here’s the latest at the end of Tuesday.",
+    "link": "https://www.nytimes.com/2026/10/13/briefing/putin-guilfoyle-gop.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/12/multimedia/13evening-nl-int-ukraine-economy/13evening-nl-int-ukraine-economy-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T22:38:10+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T22:36:59+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Fed Governor Cook’s lawyer denounces Trump’s latest attempt to remove her",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/lawyer-for-feds-cook-denounces-trumps-latest-attempt-to-remove-her-4947611",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1XN_L.jpg",
+    "pubDate": "2026-10-13T22:36:26+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Cornell bans fraternity houses from hosting parties as rape investigation continues",
+    "description": "The Ivy League university’s president announced the ban as administrators address allegations of a 2024 gang rape at a fraternity house.",
+    "link": "https://www.washingtonpost.com/education/2026/10/13/cornell-bans-fraternity-houses-hosting-parties-rape-investigation-continues",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T22:34:42+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+    "description": "At least 23 protesters have been arrested in demonstrations in the capital.",
+    "link": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T22:33:50+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Can Vibe Coded Apps Replace Adobe and Microsoft? These AI Apps Hope So",
+    "description": "The AI-made apps highlight people’s frustration with AI-bloated programs and increasingly expensive subscriptions.",
+    "link": "https://www.cnet.com/tech/services-and-software/ai-vibe-code-apps-replace-adobe-microsoft-news",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_2058804934.jpeg",
+    "pubDate": "2026-10-13T22:33:00+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Are Chromebooks still worth buying after the Googlebooks release?",
+    "description": "Googlebooks represent a huge upgrade over Chromebooks, but the older devices still have their place.",
+    "link": "https://www.engadget.com/2282244/are-chromebooks-worth-buying-after-googlebooks-release",
+    "thumbnail": "https://www.engadget.com/img/gallery/are-chromebooks-still-worth-buying-after-the-googlebooks-release/l-intro-1791559713.jpg",
+    "pubDate": "2026-10-13T22:30:00+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg",
+    "pubDate": "2026-10-13T22:29:55+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+    "description": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+    "link": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T22:29:26+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Pope Leo Has Lung Cancer, Vatican Says",
+    "description": "The surgeons removed the lower lobe of the pope’s right lung after finding a cancerous nodule.",
+    "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-pope-surgery-lwgk/13int-pope-surgery-lwgk-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T22:19:30+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
+    "description": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.",
+    "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T22:17:26+00:00",
+    "category": "world"
+  },
+  {
+    "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+    "description": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg",
+    "pubDate": "2026-10-13T22:15:44+00:00",
+    "category": "world"
+  },
+  {
+    "title": "US trial begins for Rwandan-American accused of role in genocide",
+    "description": "Eric Nshimiye, a US citizen, says the evidence against him consists of unreliable eyewitness accounts.",
+    "link": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T22:15:44+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg",
+    "pubDate": "2026-10-13T22:14:33+00:00",
+    "category": "world"
+  },
+  {
+    "title": "No Man’s Sky Headlines Apple’s New Wave of iPhone and iPad Games",
+    "description": "Sifu, Vampire Crawler and Dome Keeper also hit the App Store.",
+    "link": "https://www.cnet.com/tech/gaming/no-mans-sky-headlines-apples-new-wave-of-iphone-and-ipad-games",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/No-Mans-Sky_Gameplay-Screenshot_2420x1668_02.png",
+    "pubDate": "2026-10-13T22:11:08+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie",
+    "description": "The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.",
+    "link": "https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie",
+    "thumbnail": "https://media.wired.com/photos/6ac90dd815a533466f61dc9f/master/pass/MCDDIGG_WB006.jpg",
+    "pubDate": "2026-10-13T22:08:44+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+    "description": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+    "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4202/live/342a9360-c707-11f1-9783-ed95709f9dec.jpg",
+    "pubDate": "2026-10-13T22:07:40+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+    "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+    "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d5/live/41c477c0-c74d-11f1-b4d5-87f9c6c95a29.jpg",
+    "pubDate": "2026-10-13T22:07:06+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Pete Hegseth’s Bloodlust Doesn’t Hide His Military Failures",
+    "description": "The secretary of defense is banking on a sadistic public.",
+    "link": "https://www.nytimes.com/2026/10/13/opinion/hegseth-livestream-firing-squad-execution.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13klay-gptv/13klay-gptv-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T22:04:12+00:00",
+    "category": "world"
+  },
+  {
+    "title": "What to Know About Pope Leo’s Lung Cancer Diagnosis",
+    "description": "The cancer has a high survival rate if caught in the early stages.",
+    "link": "https://www.nytimes.com/2026/10/13/well/pope-leo-lung-cancer-adenocarcinoma.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13WELL-POPE-EXPLAINER-tbhv/13WELL-POPE-EXPLAINER-tbhv-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T22:03:02+00:00",
+    "category": "world"
+  },
+  {
+    "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+    "description": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b864/live/f45a9340-c74a-11f1-a64c-550be9e3c66b.jpg",
+    "pubDate": "2026-10-13T22:02:09+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Who's to blame for the toxic smog choking South East Asia?",
+    "description": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+    "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7867/live/0f1da240-c6fa-11f1-b4dd-e786ec6f11b1.jpg",
+    "pubDate": "2026-10-13T22:01:43+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Why the lonely in China are hiring 'temporary children'",
+    "description": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+    "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg",
+    "pubDate": "2026-10-13T22:00:20+00:00",
+    "category": "world"
+  },
+  {
+    "title": "5 clever ways Gemini can automate everyday tasks",
+    "description": "If you're not using some of these skills, you're missing out on a chance to streamline your days, keep up to date and more.",
+    "link": "https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks",
+    "thumbnail": "https://www.engadget.com/img/gallery/5-clever-ways-gemini-can-automate-everyday-tasks/l-intro-1791468895.jpg",
+    "pubDate": "2026-10-13T22:00:00+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+    "description": "Jurrien Timber, Eberechi Eze and Bukayo Saka score as Arsenal overcome Lille in UEFA Champions League.",
+    "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:59:39+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
+    "description": "Ms. Guilfoyle was asked to quit by the White House after a string of damaging reports, including that she had asked a Republican donor to pay off a credit card.",
+    "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-guilfoyle-2-plzk/13dc-guilfoyle-2-plzk-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T21:56:15+00:00",
+    "category": "world"
+  },
+  {
+    "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+    "description": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+    "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg",
+    "pubDate": "2026-10-13T21:55:49+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
+    "description": "A lawyer for Lisa Cook raised “significant concerns” over the “objectivity and fitness of the committee” assembled by President Trump as a way to remove her as a governor at the Federal Reserve.",
+    "link": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-cook-jkph/13dc-cook-jkph-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T21:55:45+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+    "description": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharing Ukraine received no early warning from its partners about a second night of Russian ballistic missile strikes on civilian infrastructure in Kyiv, including a critical power plant struck after dark, Volodymyr Zelenskyy said on Tuesday. The Ukrainian president had earlier described an attack involving five missiles on Monday",
+    "link": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
+    "thumbnail": "https://i.guim.co.uk/img/media/0bdf9ed7b96dc65009d999f39b3c6db73527da07/532_0_4808_3848/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=5f8a681e5385f4dd16ec7eb015810fe0",
+    "pubDate": "2026-10-13T21:54:12+00:00",
+    "category": "world"
+  },
+  {
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "description": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+    "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/1df79087776a232721826d2559a0e7004de05895-2724x1532.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "pubDate": "2026-10-13T21:52:00+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "3 Excellent Hot Chocolate Mixes, According to Our Taste Test",
+    "description": "From nostalgic hot cocoa to a seriously chocolatey splurge.",
+    "link": "https://www.bonappetit.com/story/best-hot-chocolate-mix",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a1f04bff22352294d89e33e/master/pass/best-hot-chocolate-mix-taste-test_LEDE_V1_052026_14436_VOG_final.jpg",
+    "pubDate": "2026-10-13T21:49:11+00:00",
+    "category": "food"
+  },
+  {
+    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+    "description": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black letters. […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200",
+    "pubDate": "2026-10-13T21:48:23+00:00",
+    "category": "ai"
+  },
+  {
+    "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+    "description": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
+    "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+    "pubDate": "2026-10-13T21:46:04+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+    "description": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f810/live/6b054b60-c756-11f1-8157-e5961116a2ed.jpg",
+    "pubDate": "2026-10-13T21:43:09+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+    "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/194/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png",
+    "pubDate": "2026-10-13T21:42:49+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Lena Dunham’s ‘Girls’ to Return to HBO for 5 New Episodes",
+    "description": "HBO announced that the show created by Lena Dunham will begin production on five new episodes next year, 10 years after the finale.",
+    "link": "https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:38:31+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "description": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:36:13+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "OpenAI says it found a 'sophisticated recording device' hidden in its offices",
+    "description": "The company asked its AI models to figure out what the device was.",
+    "link": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices",
+    "thumbnail": "https://www.engadget.com/img/gallery/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/l-intro-1791926918.jpg",
+    "pubDate": "2026-10-13T21:34:17+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Topgolf saved over $11.3 million after leaving VMware",
+    "description": "Topgolf and VMware \"ran deep\" before the migration.",
+    "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
+    "pubDate": "2026-10-13T21:33:43+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Zelensky and Burnham to meet in Downing Street",
+    "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+    "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfb/live/4dfc3380-c724-11f1-b881-4391ac746e04.png",
+    "pubDate": "2026-10-13T21:31:30+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
+    "description": "Prime minister reiterates UK backing after the Ukrainian president’s latest round of difficulties with Donald Trump Andy Burnham will host Volodymyr Zelenskyy at Downing Street on Wednesday as the UK seeks to further underline its support for the Ukrainian president, in contrast to his difficulties with Donald Trump. The UK prime minister said his message to Zelenskyy and his country would be: “We are with you for as long as it takes.”",
+    "link": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+    "thumbnail": "https://i.guim.co.uk/img/media/bd56f99f083394fc778ce997855ce42ce481d469/90_0_4419_3538/master/4419.jpg?width=140&quality=85&auto=format&fit=max&s=11a6fc48bb963bd08f55a1d3c161a3c6",
+    "pubDate": "2026-10-13T21:30:35+00:00",
+    "category": "world"
+  },
+  {
+    "title": "World stocks dip on AI spending concerns; Brent settles lower",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/asian-stocks-dive-as-focus-on-earnings-geopolitics-4945310",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9C03K_L.jpg",
+    "pubDate": "2026-10-13T21:30:34+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+    "description": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes. The remnants of Tropical Storm Rachel hit Mexico’s Baja California over the weekend as well as southern California and Las Vegas. While me",
+    "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+    "thumbnail": "https://i.guim.co.uk/img/media/0c1255d69f930de984c5e7bdf16b2169f0b84082/524_0_5236_4189/master/5236.jpg?width=140&quality=85&auto=format&fit=max&s=1179ae39cc7dbb6ca39681ada76370da",
+    "pubDate": "2026-10-13T21:29:08+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Cornell Bans Fraternity Parties and Adds Sexual Assault Investigators",
+    "description": "The expansive changes to campus life, including working closely with the state police, come in the wake of the national uproar caused by allegations of a gang rape at a fraternity house.",
+    "link": "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13hfo-met-cornell-moratorium-tvfp/13hfo-met-cornell-moratorium-tvfp-mediumSquareAt3X-v2.jpg",
+    "pubDate": "2026-10-13T21:27:39+00:00",
+    "category": "world"
+  },
+  {
+    "title": "We Know How to Fix Homelessness. Why Don’t More Cities Do It?",
+    "description": "It takes doing things conservatives and progressives both dislike.",
+    "link": "https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13lopez-cftk/13lopez-cftk-mediumSquareAt3X-v2.jpg",
+    "pubDate": "2026-10-13T21:26:43+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Florida officials say six people dead from Hurricane Isaias",
+    "description": "Governor Ron DeSantis says death toll ‘sad’ but praises work of local officials for helping to minimize storm’s impact Six deaths have been confirmed in Florida in the aftermath of Hurricane Isaias. In a press conference on Tuesday, Florida governor Ron DeSantis praised the work of local officials for minimizing the impact of the storm, which made landfall late on Friday, ⁠bringing strong winds, rain, flash floods and tornado ​threats a",
+    "link": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
+    "thumbnail": "https://i.guim.co.uk/img/media/14ef395302deb4e47ce909b499e656ce066e2d66/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4abad19200a28e91beae608094a1ebae",
+    "pubDate": "2026-10-13T21:25:37+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
+    "description": "The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung.",
+    "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:25:04+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+    "description": "Michael Carrick's Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League.",
+    "link": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:24:19+00:00",
+    "category": "world"
+  },
+  {
+    "title": "PC Gamers, Rejoice: GTA 6 PC Port Could See Release in Early 2027, Report Says",
+    "description": "The console release is still slated for next month, and a PC port might be coming sooner than anyone previously thought.",
+    "link": "https://www.cnet.com/tech/gaming/grand-theft-auto-gta-6-pc-port-release-timing",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/9d9e5854-54a8-4958-b2f9-409cfe8941af.jpg",
+    "pubDate": "2026-10-13T21:22:45+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
+    "description": "Critical infrastructure has been targeted in a wave of cyberattacks, which experts say are rising because of artificial intelligence.",
+    "link": "https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-japan-cyberattack-bzmh/13int-japan-cyberattack-bzmh-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T21:22:06+00:00",
+    "category": "world"
+  },
+  {
+    "title": "James Dolan, a Former Hochul Supporter, Goes All In on Her G.O.P. Rival",
+    "description": "The Knicks owner is urging New York’s business elite to abandon Gov. Kathy Hochul, highlighting her support of Mayor Zohran Mamdani. Mr. Dolan has spent millions to back her opponent, Bruce Blakeman.",
+    "link": "https://www.nytimes.com/2026/10/13/nyregion/james-dolan-bruce-blakeman-governor-hochul.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13met-dolan-pglm/13met-dolan-pglm-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T21:19:09+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/ai-models-may-soon-selfreplicate-without-access-to-data-centers-anthropic-warns-4945449",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0CL_L.jpg",
+    "pubDate": "2026-10-13T21:18:39+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Six Flags shares decline following deadly roller coaster incident",
+    "description": "One person died and several others were injured in an incident involving the Goliath roller coaster at Six Flags Over Georgia, according to reports.",
+    "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108401214-1791856960680-gettyimages-1234869682-PGONCHAR_W2379.jpeg?v=1791856986&w=1920&h=1080",
+    "pubDate": "2026-10-13T21:18:03+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Florida executes inmate with same method Tennessee used in botched Pike case",
+    "description": "James Robertson’s execution, Florida’s 17th this year, came less than two weeks after Christa Pike survived two doses of pentobarbital.",
+    "link": "https://www.washingtonpost.com/nation/2026/10/13/florida-executes-inmate-with-same-method-tennessee-used-botched-pike-case",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:17:41+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
+    "description": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.",
+    "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-ukraine-intelligence-01-jfzh/13int-ukraine-intelligence-01-jfzh-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-13T21:17:34+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+    "description": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
+    "link": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png@png",
+    "pubDate": "2026-10-13T21:16:04+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
+    "description": "Ex-FEMA CFO Mary Comans' name was cleared by a federal judge after Elon Musk and other government officials falsely accused her of criminal actions in 2025.",
+    "link": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108152734-1748630508403-gettyimages-2217853855-kd109006_szxxglfj.jpeg?v=1748630538&w=1920&h=1080",
+    "pubDate": "2026-10-13T21:15:32+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+    "description": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+    "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:15:00+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Latest GTA 6 Leak of Nude Character Is a Bad Crypto Scheme Fundraiser",
+    "description": "The leaker group is threatening to post the game’s full storyline ahead of its Nov. 19 release.",
+    "link": "https://www.cnet.com/tech/gaming/gta-6-cyberleek-leak-nudity-rockstar-crypto-scheme",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2291403585.jpg",
+    "pubDate": "2026-10-13T21:14:19+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Man charged with murder after boy, 12, shot in the face and neck in Sydney last month",
+    "description": "A 19-year-old man was arrested and charged at Silverwater correctional facility on Tuesday Get our breaking news email , free app or daily news podcast A man has been charged with murder over the shooting death of a boy, 12, in Sydney’s north in September. Police were called to a unit in Norwest on 21 September 2026 after reports of a shooting. Continue reading...",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
+    "thumbnail": "https://i.guim.co.uk/img/media/3ffdc3759066b25f34a057b255d9589730bea27e/282_0_2816_2253/master/2816.jpg?width=140&quality=85&auto=format&fit=max&s=0ebcdcd25eac4e1c4a58b0f66bb13a22",
+    "pubDate": "2026-10-13T21:09:19+00:00",
+    "category": "world"
+  },
+  {
+    "title": "New Xbox Labs Team Officially Announced",
+    "description": "Xbox CEO Asha Sharma announces Xbox Labs, a new team that will focus on AI-inspired experiments, ports and mash-ups that have radically changed gaming",
+    "link": "https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24431666/VyNhTqYhwJXU8rJpH5rBDL.jpeg",
+    "pubDate": "2026-10-13T21:08:30+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Trading Day: Earnings season debuts to mixed reviews",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/trading-day-earnings-season-debuts-to-mixed-reviews-4947582",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1WW_L.jpg",
+    "pubDate": "2026-10-13T21:06:22+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Vatican confirms Pope Leo’s surgery was successful",
+    "description": "The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:05:07+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+    "description": "Yemeni government forces are encircled by the Houthis in Taiz, where blockades on road routes have worsened shortages.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:04:44+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+    "description": "New footage shows the moment 48-year-old Miguel Parra-Hernandez was hit by an ICE officer’s car in Houston, Texas.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T21:03:40+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+    "description": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+    "link": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&w=1920&h=1080",
+    "pubDate": "2026-10-13T21:02:52+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Resident Evil 4 Remake On Switch 2 Is Capcom’s First Disappointment This Year",
+    "description": "Resident Evil 4 remake's Switch 2 port is fuzzy and stuttery in handheld mode, though it runs much more smoothly while docked",
+    "link": "https://www.polygon.com/resident-evil-4-remake-switch-2-impressions",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/resident-evil-4-switch-2.jpg",
+    "pubDate": "2026-10-13T21:00:16+00:00",
+    "category": "games"
+  },
+  {
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "description": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+    "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:59:11+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
+    "description": "Researchers say ‘AI worms’ could soon infiltrate internet-connected devices amid calls for increased guardrails Anthropic is warning that some of its artificial intelligence models could soon become “self-replicating” and find ways to infiltrate internet-connected devices, such as smart fridges and automatic vacuum cleaners. Once this happens, the company said, the models could power themselves within these devices without the need of d",
+    "link": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
+    "thumbnail": "https://i.guim.co.uk/img/media/93cc0e130431b9824f3c533c1d51b2d82c72ae3d/543_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e93557714a90f4a8c06d2c5f81fc26dc",
+    "pubDate": "2026-10-13T20:55:04+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
+    "description": "TIPS are looking attractive but they aren't the only way to get inflation protection.",
+    "link": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:52:22+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Confusion delayed aid to Christa Pike after botched execution, 911 calls show",
+    "description": "Emergency responders were not let into the Tennessee prison for at least a half hour after an initial emergency call.",
+    "link": "https://www.washingtonpost.com/nation/2026/10/13/confusion-delayed-aid-christa-pike-after-botched-execution-911-calls-show",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:50:20+00:00",
+    "category": "world"
+  },
+  {
+    "title": "BBC asks judge to force Trump to sit for deposition as part of his $10bn lawsuit",
+    "description": "BBC asks US federal judge to compel Trump’s lawyers to schedule deposition after his team canceled initial session The BBC is asking a federal judge in Florida to force Donald Trump to sit for a deposition as part of the president’s $10bn defamation lawsuit against the British broadcaster. According to a Tuesday filing, the BBC and Trump’s legal team had agreed for him to be deposed on Friday. The BBC’s lawyers wrote to the judge that t",
+    "link": "https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition",
+    "thumbnail": "https://i.guim.co.uk/img/media/48df2fe29208c0c5035017777e1fa224757de109/560_0_4553_3642/master/4553.jpg?width=140&quality=85&auto=format&fit=max&s=132a0a655a1a75f57e00b3d87e2d8e8b",
+    "pubDate": "2026-10-13T20:49:53+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Rivian partner Mind Robotics hires Doug Field as president",
+    "description": "Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. […]",
+    "link": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:49:48+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Samsung Smart Glasses Unveiled, and They’re Superlight",
+    "description": "They might be called Galaxy Glasses, and they’re coming in November.",
+    "link": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+    "pubDate": "2026-10-13T20:49:05+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+    "description": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:48:37+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Tupac Shakur killer sentenced to 40 years in prison",
+    "description": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:46:22+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+    "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
+    "pubDate": "2026-10-13T20:46:06+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Bank of America fined $1.2 billion over money-laundering violations",
+    "description": "The action by the Treasury Department was announced less than a day before Bank of America reports quarterly earnings.",
+    "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108398334-1791812879148-gettyimages-2299307996-BOFA_EARNS.jpeg?v=1791812893&w=1920&h=1080",
+    "pubDate": "2026-10-13T20:45:01+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex",
+    "description": "Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. \"It suddenly became a little easier to breathe on many social platforms,\" Zelenskyy said Monday. \"There was less hate, less division, and fewer provocations.\" Zelenskyy isn't the first to assert that the […]",
+    "link": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:40:54+00:00",
+    "category": "technology"
+  },
+  {
     "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
     "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
     "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
@@ -8,12 +984,20 @@
     "category": "technology"
   },
   {
-    "title": "Bank of America fined $1.2 billion over money-laundering violations",
-    "description": "",
-    "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108398334-1791812879148-gettyimages-2299307996-BOFA_EARNS.jpeg?v=1791812893&w=1920&h=1080",
-    "pubDate": "2026-10-13T20:34:28+00:00",
-    "category": "finance"
+    "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+    "description": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:33:10+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Pope Leo diagnosed with lung cancer as growth removed during surgery",
+    "description": "Vatican says pontiff had lower lobe of right lung removed in ‘successful, on schedule and as planned’ operation in Rome Pope Leo has lung cancer, the Vatican said late on Tuesday. Leo, 71, underwent an operation and had the lower lobe of his right lung removed, with tests confirming a diagnosis of lung adenocarcinoma, the Vatican said in a medical bulletin, which followed an earlier statement saying the pope’s operation had concluded “s",
+    "link": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+    "thumbnail": "https://i.guim.co.uk/img/media/c2674eabec31afc324233fadb79e96fffdfde20e/222_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=c53902ad1fa1eb73494fca2664dd878a",
+    "pubDate": "2026-10-13T20:32:36+00:00",
+    "category": "world"
   },
   {
     "title": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
@@ -22,14 +1006,6 @@
     "thumbnail": "",
     "pubDate": "2026-10-13T20:31:14+00:00",
     "category": "world"
-  },
-  {
-    "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
-    "description": "Ex-FEMA CFO Mary Comans' name was cleared by a federal judge after Elon Musk and other government officials falsely accused her of criminal actions in 2025.",
-    "link": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108152734-1748630508403-gettyimages-2217853855-kd109006_szxxglfj.jpeg?v=1748630538&w=1920&h=1080",
-    "pubDate": "2026-10-13T20:30:08+00:00",
-    "category": "finance"
   },
   {
     "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
@@ -48,14 +1024,6 @@
     "category": "finance"
   },
   {
-    "title": "Australian politics live: Chalmers urges against mocking, cancelling or talking down to One Nation supporters",
-    "description": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast PM says he intervened on ATO credit card ban Yesterday the prime minister said the ATO’s credit card ban was delayed just 24 hours after Andrew McKellar , head of the Australian Chamber of Commerce and Industry (ACCI) texted him asking him to interview. My door is always open. Andrew [McKellar] did text me last Thursday morning and by Friday morning",
-    "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-    "thumbnail": "https://i.guim.co.uk/img/media/d2a9c75ba8dbf2060687cfd2fc41a50f400832a2/24_0_5132_4106/master/5132.jpg?width=140&quality=85&auto=format&fit=max&s=1a6ddd6793512b908fec3c5941df09f1",
-    "pubDate": "2026-10-13T20:24:36+00:00",
-    "category": "world"
-  },
-  {
     "title": "Shopify opens its catalog up to more AI agents",
     "description": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists […]",
     "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
@@ -64,36 +1032,12 @@
     "category": "technology"
   },
   {
-    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-    "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
-    "pubDate": "2026-10-13T20:22:23+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-    "description": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black letters. […]",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200",
-    "pubDate": "2026-10-13T20:21:06+00:00",
-    "category": "ai"
-  },
-  {
     "title": "The New Yorker Cartoonist P.C. Vey Has Died",
     "description": "His work for The New Yorker savaged the absurdities of everyday life. He has died at 70.",
     "link": "https://www.nytimes.com/2026/10/13/business/media/peter-christopher-pc-vey-dead.html",
     "thumbnail": "",
     "pubDate": "2026-10-13T20:20:28+00:00",
     "category": "finance"
-  },
-  {
-    "title": "Man charged with murder over shooting death of boy, 12, in Sydney apartment last month",
-    "description": "A 19-year-old man was arrested and charged at Silverwater correctional facility on Tuesday Get our breaking news email , free app or daily news podcast A man has been charged with murder over the shooting death of a boy, 12, in Sydney’s north in September. Police were called to a unit on Fairway Drive, Norwest, on 21 September 2026 after reports of a shooting. Continue reading...",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
-    "thumbnail": "https://i.guim.co.uk/img/media/3ffdc3759066b25f34a057b255d9589730bea27e/282_0_2816_2253/master/2816.jpg?width=140&quality=85&auto=format&fit=max&s=0ebcdcd25eac4e1c4a58b0f66bb13a22",
-    "pubDate": "2026-10-13T20:19:46+00:00",
-    "category": "world"
   },
   {
     "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
@@ -128,6 +1072,14 @@
     "category": "finance"
   },
   {
+    "title": "Fed’s Collins sees another rate hike on the table before end of 2026",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/feds-collins-sees-another-rate-hike-on-the-table-before-end-of-2026-4947448",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1TR_L.jpg",
+    "pubDate": "2026-10-13T20:12:28+00:00",
+    "category": "finance"
+  },
+  {
     "title": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition",
     "description": "South Korean stocks tumbled in particular, as reports of a breakthrough by a Chinese chip rival heightened concerns about competition.",
     "link": "https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html",
@@ -152,11 +1104,11 @@
     "category": "technology"
   },
   {
-    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-    "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg",
-    "pubDate": "2026-10-13T20:02:15+00:00",
+    "title": "What an economics Nobel Prize winner knows about pricing",
+    "description": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
+    "link": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+    "thumbnail": "",
+    "pubDate": "2026-10-13T20:03:35+00:00",
     "category": "world"
   },
   {
@@ -216,12 +1168,12 @@
     "category": "finance"
   },
   {
-    "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
-    "description": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald Trump’s public schedule every day, and monitored his Truth Social, and made sure she was on-air when she assumed he might be watching, according to Politico , citing a",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-    "thumbnail": "https://i.guim.co.uk/img/media/fdc829e2ba42f9e9228083c2ac99ea816bbb7cc5/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=9144afb7b36516ab175bf943ce719e3a",
-    "pubDate": "2026-10-13T19:50:30+00:00",
-    "category": "world"
+    "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+    "description": "US attorney apologized to court, said government has stopped running Trump ads.",
+    "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-1152x648-1790710215.jpg",
+    "pubDate": "2026-10-13T19:50:37+00:00",
+    "category": "technology"
   },
   {
     "title": "Man sentenced to 40 years to life in prison for Tupac Shakur’s murder",
@@ -277,14 +1229,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels",
     "thumbnail": "",
     "pubDate": "2026-10-13T19:40:51+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Cornell bans fraternity houses from hosting parties as rape investigation continues",
-    "description": "The Ivy League university’s president announced the ban as administrators address allegations of a 2024 gang rape at a fraternity house.",
-    "link": "https://www.washingtonpost.com/education/2026/10/13/cornell-bans-fraternity-houses-hosting-parties-rape-investigation-continues",
-    "thumbnail": "",
-    "pubDate": "2026-10-13T19:40:42+00:00",
     "category": "world"
   },
   {
@@ -360,14 +1304,6 @@
     "category": "world"
   },
   {
-    "title": "Pope Leo Undergoes Successful Surgery to Remove Lung Nodule, Vatican Says",
-    "description": "The Vatican has said that the pontiff is expected to spend about a week recovering in the hospital.",
-    "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-pope-surgery-lwgk/13int-pope-surgery-lwgk-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-13T19:27:43+00:00",
-    "category": "world"
-  },
-  {
     "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
     "description": "Advances in self-driving technology have made it easier to traverse distant worlds.",
     "link": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
@@ -409,7 +1345,7 @@
   },
   {
     "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-    "description": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+    "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
     "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f6d/live/ecd9e6d0-c73a-11f1-a64c-550be9e3c66b.jpg",
     "pubDate": "2026-10-13T19:23:28+00:00",
@@ -432,35 +1368,11 @@
     "category": "finance"
   },
   {
-    "title": "Pope Leo undergoes surgery to remove growth on lung",
-    "description": "Vatican says operation concluded ‘successfully, on schedule and as planned’ at hospital in Rome Pope Leo underwent an operation on Tuesday to remove a small growth from his lung, which the Vatican said concluded “successfully, on schedule and as planned”. In a rare moment of Vatican transparency, Leo, 71, said during his angelus prayer on Sunday that doctors had found a small nodule on his lung during a checkup , adding that it was “wel",
-    "link": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
-    "thumbnail": "https://i.guim.co.uk/img/media/c2674eabec31afc324233fadb79e96fffdfde20e/222_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=c53902ad1fa1eb73494fca2664dd878a",
-    "pubDate": "2026-10-13T19:18:23+00:00",
-    "category": "world"
-  },
-  {
-    "title": "World stocks slip as AI spending worries hit chipmakers",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/asian-stocks-dive-as-focus-on-earnings-geopolitics-4945310",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9C03K_L.jpg",
-    "pubDate": "2026-10-13T19:18:23+00:00",
-    "category": "finance"
-  },
-  {
     "title": "There’s Worlds Out There More Habitable Than Earth",
     "description": "Scientists believe there are planets outside our solar system where life is even more abundant and sustainable.",
     "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
     "thumbnail": "",
     "pubDate": "2026-10-13T19:16:49+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Cornell Bans Fraternity Parties and Adds Sexual Assault Investigators",
-    "description": "The expansive changes to campus life, including working closely with the state police, come in the wake of the national uproar caused by allegations of a gang rape at a fraternity house.",
-    "link": "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13hfo-met-cornell-moratorium-tvfp/13hfo-met-cornell-moratorium-tvfp-mediumSquareAt3X-v2.jpg",
-    "pubDate": "2026-10-13T19:13:34+00:00",
     "category": "world"
   },
   {
@@ -494,14 +1406,6 @@
     "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4V7NT6A2R3BAJ7Y8P67T68T/hi-wallets.jpg",
     "pubDate": "2026-10-13T19:07:04+00:00",
     "category": "crypto"
-  },
-  {
-    "title": "Police Identify 42-Year Old Man Killed at Six Flags Over Georgia",
-    "description": "The police identified the 42-year-old man who died at Six Flags Over Georgia on Monday. The company said it was temporarily closing multiple rides in the U.S. and Canada as a precaution.",
-    "link": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/12/multimedia/12xp-roller-coaster-fhzp-alert/12xp-roller-coaster-fhzp-alert-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-13T19:06:19+00:00",
-    "category": "finance"
   },
   {
     "title": "Battlefield 6 Now Lets You Instantly Unlock All Guns At 100% Mastery For $30",
@@ -608,28 +1512,12 @@
     "category": "world"
   },
   {
-    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-    "description": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-13T18:46:27+00:00",
-    "category": "finance"
-  },
-  {
     "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
     "description": "Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.",
     "link": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case",
     "thumbnail": "",
     "pubDate": "2026-10-13T18:45:51+00:00",
     "category": "world"
-  },
-  {
-    "title": "Rivian spinoff Mind Robotics hires Doug Field as president",
-    "description": "Rivian spinoff Mind Robotics announced the appointment of Doug Field as president in a major coup for the EV company's secretive robotics startup. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had […]",
-    "link": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
-    "thumbnail": "",
-    "pubDate": "2026-10-13T18:45:15+00:00",
-    "category": "technology"
   },
   {
     "title": "Who killed Tupac?",
@@ -696,14 +1584,6 @@
     "category": "finance"
   },
   {
-    "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex",
-    "description": "Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. \"It suddenly became a little easier to breathe on many social platforms,\" Zelenskyy said Monday. \"There was less hate, less division, and fewer provocations.\" Zelenskyy isn't the first to assert that the […]",
-    "link": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy",
-    "thumbnail": "",
-    "pubDate": "2026-10-13T18:31:31+00:00",
-    "category": "technology"
-  },
-  {
     "title": "Despite Huge Changes For The Series, Halo Fest 2026 Is Going Forward, And News Is Coming Soon",
     "description": "The big Halo Fest event planned for December is going ahead as planned, despite mass layoffs and other major changes at developer Halo Studios. Halo Studios director of competitive engagement, Tashi, confirmed this and said there will be news about Halo Fest this week. Additionally, Halo Studios will release materials \"celebrating the community and 25 years of Halo,\" while fans can also look forward to \"relevant game info\" about in-mark",
     "link": "https://www.gamespot.com/articles/despite-huge-changes-for-the-series-halo-fest-2026-is-going-forward-and-news-is-coming-soon",
@@ -744,14 +1624,6 @@
     "category": "world"
   },
   {
-    "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
-    "description": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes. The remnants of Tropical Storm Rachel hit Mexico’s Baja California over the weekend as well as southern California and Las Vegas. While me",
-    "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-    "thumbnail": "https://i.guim.co.uk/img/media/0c1255d69f930de984c5e7bdf16b2169f0b84082/524_0_5236_4189/master/5236.jpg?width=140&quality=85&auto=format&fit=max&s=1179ae39cc7dbb6ca39681ada76370da",
-    "pubDate": "2026-10-13T18:25:06+00:00",
-    "category": "world"
-  },
-  {
     "title": "The DIY Descaling Solution I Use All Over My Kitchen",
     "description": "It’s cheap, easy, and super-safe to make at home.",
     "link": "https://www.bonappetit.com/story/diy-descaling-solution-clean-enough",
@@ -773,7 +1645,7 @@
     "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech",
     "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-1024x648.jpg",
     "pubDate": "2026-10-13T18:23:33+00:00",
-    "category": "ai"
+    "category": "technology"
   },
   {
     "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
@@ -918,6 +1790,14 @@
     "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0I5_L.jpg",
     "pubDate": "2026-10-13T18:06:37+00:00",
     "category": "finance"
+  },
+  {
+    "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+    "description": "The higher prices are said to be unrelated to the Skydance merger.",
+    "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1238343880-1024x648.jpg",
+    "pubDate": "2026-10-13T18:06:06+00:00",
+    "category": "technology"
   },
   {
     "title": "The latest inflation data is expected to show price increases are accelerating",
@@ -1160,14 +2040,6 @@
     "category": "technology"
   },
   {
-    "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-    "description": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharing Ukraine received no early warning from its partners about a Russian ballistic missile strike on Kyiv in which five missiles hit civilian infrastructure, Volodymyr Zelenskyy said on Tuesday. The Ukrainian president described the attack on Monday as “particularly vile”. He emphasised that receiving intelligence from Ukraine’",
-    "link": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-    "thumbnail": "https://i.guim.co.uk/img/media/0bdf9ed7b96dc65009d999f39b3c6db73527da07/532_0_4808_3848/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=5f8a681e5385f4dd16ec7eb015810fe0",
-    "pubDate": "2026-10-13T17:17:13+00:00",
-    "category": "world"
-  },
-  {
     "title": "Arsenal vs. Lille: Livestream 2026 Champions League Soccer From Anywhere",
     "description": "The Gunners look to make it two UCL wins from two as they host the Ligue 1 outfit at the Emirates.",
     "link": "https://www.cnet.com/tech/services-and-software/arsenal-vs-lille-livestream-2026-champions-league-soccer-from-anywhere",
@@ -1184,15 +2056,7 @@
     "category": "games"
   },
   {
-    "title": "Confusion delayed aid to Christa Pike after botched execution, 911 calls show",
-    "description": "Emergency responders were not let into the Tennessee prison for at least a half-hour after an initial emergency call.",
-    "link": "https://www.washingtonpost.com/nation/2026/10/13/confusion-delayed-aid-christa-pike-after-botched-execution-911-calls-show",
-    "thumbnail": "",
-    "pubDate": "2026-10-13T17:13:30+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+    "title": "Horrified witnesses recount fatal rollercoaster incident at US amusement park",
     "description": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
     "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb02/live/12f052c0-c6c6-11f1-a64c-550be9e3c66b.jpg",
@@ -1240,7 +2104,7 @@
     "category": "world"
   },
   {
-    "title": "Inside Katie Zacharia's very brief White House briefing",
+    "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
     "description": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
     "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4614/live/b81d5210-c726-11f1-9a39-31b474234113.jpg",
@@ -1334,6 +2198,14 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/571a/live/c41d2dc0-c725-11f1-b881-4391ac746e04.jpg",
     "pubDate": "2026-10-13T16:56:47+00:00",
     "category": "world"
+  },
+  {
+    "title": "​FTC and seven states seek contempt ruling against Shkreli over pharma ban",
+    "description": "Martin Shkreli’s 2022 release conditions bar him from participating in the pharmaceutical industry, including ownership stakes or business decisions The Federal Trade Commission (FTC) and seven US states have alleged that pharmaceutical executive Martin Shkreli repeatedly violated a lifetime ban on participating in the pharmaceutical industry, and they are asking a judge to hold him in contempt. In a motion filed on Tuesday in US distri",
+    "link": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
+    "thumbnail": "https://i.guim.co.uk/img/media/9484c1d0c4f9e41b627a9aabef8f799caa87b6f0/596_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=b4776a5f141bdb75985665fd13fa831d",
+    "pubDate": "2026-10-13T16:54:11+00:00",
+    "category": "finance"
   },
   {
     "title": "EPA proposes higher biofuel blending for large refiners",
@@ -1518,14 +2390,6 @@
     "thumbnail": "https://www.engadget.com/img/gallery/discovery-gets-a-price-bump-just-a-week-after-the-skydance-merger/l-intro-1791907595.jpg",
     "pubDate": "2026-10-13T16:07:34+00:00",
     "category": "technology"
-  },
-  {
-    "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
-    "description": "Ms. Guilfoyle was asked to quit by the White House after a string of damaging reports, including that she had asked a Republican donor to pay off a credit card.",
-    "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-guilfoyle-2-plzk/13dc-guilfoyle-2-plzk-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-13T16:04:10+00:00",
-    "category": "world"
   },
   {
     "title": "Hundreds of early-release prisoners in England and Wales not being tagged, say MPs",
@@ -1792,14 +2656,6 @@
     "category": "finance"
   },
   {
-    "title": "We Know How to Fix Homelessness. Why Don’t More Cities Do It?",
-    "description": "It takes doing things conservatives and progressives both dislike.",
-    "link": "https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13lopez-cftk/13lopez-cftk-mediumSquareAt3X-v2.jpg",
-    "pubDate": "2026-10-13T15:02:50+00:00",
-    "category": "world"
-  },
-  {
     "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
     "description": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
     "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between",
@@ -1832,7 +2688,7 @@
     "category": "technology"
   },
   {
-    "title": "Family and sexual violence rates against Australian children rise sharply as researchers warn of ‘manosphere’",
+    "title": "‘Manosphere’ warnings as rates of family and sexual violence against Australian children rise sharply",
     "description": "Study authors say increase cannot be attributed to any one factor and list income inequality and reporting increases due to growing awareness as other likely reasons Get our breaking news email , free app or daily news podcast The sexual assault of Australian children has accelerated sharply since the pandemic, surprising researchers who expected rates to have fallen but instead found attacks on boys had risen 15.7%. Researchers expecte",
     "link": "https://www.theguardian.com/australia-news/2026/oct/14/family-and-sexual-violence-rates-against-australian-children-rise-sharply-as-researchers-warn-of-manosphere",
     "thumbnail": "https://i.guim.co.uk/img/media/399e2b19f0eec407e2619e26dbe7d93ecc2d21a3/422_0_4202_3363/master/4202.jpg?width=140&quality=85&auto=format&fit=max&s=d202435e65c32a3415c3fa154fe7b5df",
@@ -1846,14 +2702,6 @@
     "thumbnail": "https://www.engadget.com/img/gallery/framework-laptop-12-2026-upgrade-review-intels-core-series-3-fixes-a-key-flaw/l-intro-1790623659.jpg",
     "pubDate": "2026-10-13T15:00:00+00:00",
     "category": "technology"
-  },
-  {
-    "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-    "description": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
-    "link": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&w=1920&h=1080",
-    "pubDate": "2026-10-13T14:55:51+00:00",
-    "category": "finance"
   },
   {
     "title": "BA’s Best Chocolate Chip Cookies",
@@ -1894,14 +2742,6 @@
     "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/08/New-Xbox-Series-X_S-Console-Options-Family_NoText-65586e62c31bf0eee51f.jpg?w=300",
     "pubDate": "2026-10-13T14:49:57+00:00",
     "category": "games"
-  },
-  {
-    "title": "Six Flags shares decline following deadly roller coaster incident",
-    "description": "One person died and several others were injured in an incident involving the Goliath roller coaster at Six Flags Over Georgia, according to reports.",
-    "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108401214-1791856960680-gettyimages-1234869682-PGONCHAR_W2379.jpeg?v=1791856986&w=1920&h=1080",
-    "pubDate": "2026-10-13T14:49:32+00:00",
-    "category": "finance"
   },
   {
     "title": "Farage denies Reform would let troops shoot small boats after Jenrick’s ‘lethal force’ claim",
@@ -2072,14 +2912,6 @@
     "category": "finance"
   },
   {
-    "title": "Zelensky Comment Raises Fear That U.S. Is Cutting Intelligence Sharing",
-    "description": "The Ukrainian leader said Kyiv had no early warning from its Western partners before a Russian ballistic missile attack. But some such attacks do go undetected.",
-    "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-ukraine-intelligence-01-jfzh/13int-ukraine-intelligence-01-jfzh-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-13T14:05:18+00:00",
-    "category": "world"
-  },
-  {
     "title": "Palestinians dream of returning home after Israel raids West Bank camps",
     "description": "Palestinians have been displaced from their homes in Tulkarem refugee camp and dream of returning home.",
     "link": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps",
@@ -2112,7 +2944,7 @@
     "category": "world"
   },
   {
-    "title": "AFL tells Sportsbet to stop using players in AI generated content",
+    "title": "AFL tells Sportsbet to stop using players in AI-generated content",
     "description": "Exclusive: Gambling firm working with AFL ‘on the evolving use of AI in our content’ as it deletes video depicting Lachie Neale saying ‘I want to thank me for believing in me’ Get our breaking news email , free app or daily news podcast The AFL has told its official gambling partner, Sportsbet, to stop featuring its high-profile athletes in AI-generated social media content without player permission. Sportsbet has also been told to dele",
     "link": "https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content",
     "thumbnail": "https://i.guim.co.uk/img/media/da4ea25084485353b9189695120198ae84ce7050/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e145cb2fe400af54a5ebb0114d21a2ed",
@@ -2125,7 +2957,7 @@
     "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1",
     "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
     "pubDate": "2026-10-13T14:00:00+00:00",
-    "category": "technology"
+    "category": "ai"
   },
   {
     "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
@@ -2181,7 +3013,7 @@
     "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription",
     "thumbnail": "",
     "pubDate": "2026-10-13T13:50:19+00:00",
-    "category": "technology"
+    "category": "ai"
   },
   {
     "title": "Apple TV 4K Gains Onboard Mics and Better Processor, but Whoa, That Price",
@@ -3982,14 +4814,6 @@
     "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/258fde2a890610da540aa7917cf8961f2467c1f7-1386x772.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "pubDate": "2026-10-13T05:27:17+00:00",
     "category": "crypto"
-  },
-  {
-    "title": "AI models may soon self-replicate without access to data centers, Anthropic warns",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/ai-models-may-soon-selfreplicate-without-access-to-data-centers-anthropic-warns-4945449",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0CL_L.jpg",
-    "pubDate": "2026-10-13T05:24:33+00:00",
-    "category": "finance"
   },
   {
     "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
@@ -7205,7 +8029,7 @@
     "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
     "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-1152x648.jpg",
     "pubDate": "2026-10-12T12:43:10+00:00",
-    "category": "technology"
+    "category": "ai"
   },
   {
     "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
@@ -7429,7 +8253,7 @@
     "link": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
     "thumbnail": "https://i.guim.co.uk/img/media/9b1bc334f5fc5243721e7b1a8d59c7c49217b34c/326_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=84187bd51cc0b5c5f914dbb263ecbdb4",
     "pubDate": "2026-10-12T11:23:55+00:00",
-    "category": "world"
+    "category": "finance"
   },
   {
     "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
@@ -16977,37 +17801,5 @@
     "thumbnail": "https://static01.nyt.com/images/2026/10/05/multimedia/05biz-paramount-closure-1-pmvl/05biz-paramount-closure-1-pmvl-mediumSquareAt3X.jpg",
     "pubDate": "2026-10-07T00:45:57+00:00",
     "category": "finance"
-  },
-  {
-    "title": "29 Stuffing Recipes That Make Thanksgiving Thanksgiving",
-    "description": "Calabrian chile and chorizo, cornbread and biscuit dressing, and more stuffings to be thankful for.",
-    "link": "https://www.bonappetit.com/entertaining-style/holidays/slideshow/thanksgiving-stuffing-slideshow",
-    "thumbnail": "https://assets.bonappetit.com/photos/6169bb2f5aaa5cd5b26fd7d2/master/pass/Chorizo-and-Calabrian-Chile-Stuffing.jpg",
-    "pubDate": "2026-10-06T23:50:17+00:00",
-    "category": "food"
-  },
-  {
-    "title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
-    "description": "For some, a hangover can start an anxious spiral. We spoke to experts about the reasons why.",
-    "link": "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a311/live/7151d980-c214-11f1-babe-4199b0e7ccea.jpg",
-    "pubDate": "2026-10-06T23:31:52+00:00",
-    "category": "world"
-  },
-  {
-    "title": "S&P 500 Hits Record High Amid Rising Interest Rates and Elevated Oil Prices",
-    "description": "The S&P 500 rose 0.6 percent on Tuesday, exceeding its previous peak set in August and taking its gain this year to more than 14 percent.",
-    "link": "https://www.nytimes.com/2026/10/06/business/stock-market-record.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-06T21:12:30+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-    "description": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-    "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
-    "pubDate": "2026-10-06T20:50:32+00:00",
-    "category": "ai"
   }
 ]
