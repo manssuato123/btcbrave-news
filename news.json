@@ -1,5 +1,981 @@
 [
   {
+    "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+    "description": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into the safety of government bonds.",
+    "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108127588-1744035702007-gettyimages-2208435872-AFP_39EE9AF.jpeg?v=1752747996&w=1920&h=1080",
+    "pubDate": "2026-10-23T20:20:58+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+    "description": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+    "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108441771-1792585938123-gettyimages-2204055550-UKRAINE_STARLINK.jpeg?v=1792783422&w=1920&h=1080",
+    "pubDate": "2026-10-23T20:20:08+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+    "description": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+    "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+    "pubDate": "2026-10-23T20:19:55+00:00",
+    "category": "ai"
+  },
+  {
+    "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
+    "description": "The charges intensified the administration’s efforts to go after the law enforcement and intelligence personnel who cast doubt on unsubstantiated claims that Joseph R. Biden Jr. engaged in corrupt dealings in Ukraine.",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-fbi-bglz/23dc-fbi-bglz-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T20:19:46+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+    "description": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+    "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg",
+    "pubDate": "2026-10-23T20:18:13+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+    "description": "Sen. Richard Blumenthal demanded Tether’s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines.",
+    "link": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
+    "pubDate": "2026-10-23T20:16:02+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "White House says the US is lifting tariffs on some Canadian goods",
+    "description": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
+    "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+    "pubDate": "2026-10-23T20:09:45+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Investors are starting to find opportunities in the battered bond market",
+    "description": "Some market participants see reason for hope in a market bludgeoned this year.",
+    "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108432899-1792422851485-Traders-OB-20261019-ACJ-043-PRESS-8.jpg?v=1792423170&w=1920&h=1080",
+    "pubDate": "2026-10-23T20:09:36+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Embattled Susan Collins announces exemptions for Maine from Trump Canada tariffs",
+    "description": "Republican facing tough re-election battle in state where Trump’s trade war with neighbor has stirred outrage Susan Collins, the embattled Republican senator for Maine, announced that several industries crucial to her state would be exempted from American tariffs on Canada, a notable win for her as she faces a tight re-election campaign that will help determine whether Democrats can flip control of Congress. In a statement on X, Collins",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+    "thumbnail": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
+    "pubDate": "2026-10-23T20:07:52+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+    "description": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
+    "link": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108452991-1792785695662-gettyimages-2301644326-28.jpeg?v=1792785781&w=1920&h=1080",
+    "pubDate": "2026-10-23T20:06:37+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
+    "description": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
+    "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
+    "pubDate": "2026-10-23T20:03:29+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "description": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+    "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+    "pubDate": "2026-10-23T20:03:14+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+    "description": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792785773.jpg?resize=1414%2C1080&quality=80",
+    "pubDate": "2026-10-23T20:02:21+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Trump’s broken promises: economy, war and ICE",
+    "description": "Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.",
+    "link": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792785673.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-10-23T20:01:21+00:00",
+    "category": "world"
+  },
+  {
+    "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO, and Hulu (October 23-25)",
+    "description": "In this week's TV column, we have the return of different shows, including one featuring Chris Pratt and an anime based on a video game.",
+    "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-23-25",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-terminal-list.jpg",
+    "pubDate": "2026-10-23T20:01:19+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
+    "description": "Dan S Sullivan, the incumbent, will face Dan J Sullivan, a retired schoolteacher who is also a registered Republican. On stage, Trump claimed again that this is a move orchestrated to boost Democrat Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly A",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+    "thumbnail": "https://i.guim.co.uk/img/media/58c314d732502141068520030573dac31b810c8f/668_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=97353bfbd96d4ab98b990f78453b2d6a",
+    "pubDate": "2026-10-23T19:59:41+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Tigray official urges rebels to disarm",
+    "description": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia's Tigray capital.",
+    "link": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac67aaa7fc7-1791392426.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-23T19:55:44+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+    "description": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
+    "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108373149-1791286265422-gettyimages-2298202572-AFP_D2BR273.jpeg?v=1791286290&w=1920&h=1080",
+    "pubDate": "2026-10-23T19:53:13+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
+    "description": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police said a gunman had opened fire in Trappes, in the Yvelines, and neighbouring La Verriere. The gunman was later arrested in nearby",
+    "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+    "thumbnail": "https://i.guim.co.uk/img/media/ace22324730cef3ddc927de0d454abf728aaa232/301_0_1414_1132/master/1414.jpg?width=140&quality=85&auto=format&fit=max&s=63cd75431194c6bb3518fcb753e59fb2",
+    "pubDate": "2026-10-23T19:51:21+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+    "description": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+    "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108441642-1792585770300-gettyimages-2300463140-ukrinform-ukrainia261016_npze8.jpeg?v=1792585811&w=1920&h=1080",
+    "pubDate": "2026-10-23T19:50:26+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Stocks mixed, day after AI-related selloff; oil prices rise again",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M038_L.jpg",
+    "pubDate": "2026-10-23T19:48:25+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
+    "pubDate": "2026-10-23T19:46:30+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Ecuador judge orders pre-trial detention of leftist presidential candidate",
+    "description": "Luisa Gonzalez, who lost to right-wing president Daniel Noboa in 2023, has called the arrest political persecution.",
+    "link": "https://www.aljazeera.com/news/2026/10/23/ecuador-judge-orders-pre-trial-detention-of-leftist-presidential-candidate",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbaf324b44-1792782130.jpg?resize=1920%2C1440",
+    "pubDate": "2026-10-23T19:45:26+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+    "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
+    "pubDate": "2026-10-23T19:42:08+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Ahead of Tight Race, Trump Exempts Some Canadian Goods From Tariffs",
+    "description": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
+    "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-collins-tariffs-tkwm/23dc-collins-tariffs-tkwm-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T19:39:21+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "7 iPhone Duo Apps That Take Full Advantage of the New Foldable Phone",
+    "description": "Apple’s iPhone Duo brings iOS to a bigger tablet-like display, and these creative apps are already optimized to make the most of it.",
+    "link": "https://www.cnet.com/tech/mobile/iphone-duo-apps-full-advantage-new-foldable-phone",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/DSC01118.jpeg",
+    "pubDate": "2026-10-23T19:38:54+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Call Of Duty: Modern Warfare 4’s First DLC Is Out Now, Honors A Real Soldier Who Sustained Gruesome Injuries",
+    "description": "Call of Duty: Modern Warfare 4 released today, October 23, and the game's first DLC pack is available now. In keeping with Call of Duty tradition, the day-one DLC is a Call of Duty Endowment (CODE) pack , with proceeds going to Activision's charity that supports military veterans find new jobs after they leave the service. The CODE Valor Pack adds the real-life Medal of Honor recipient Kyle Carpenter to the game as a playable character.",
+    "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/10/kyle.png?w=300",
+    "pubDate": "2026-10-23T19:37:03+00:00",
+    "category": "games"
+  },
+  {
+    "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+    "description": "SpaceX’s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its “controlling shareholder.”",
+    "link": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png@png",
+    "pubDate": "2026-10-23T19:36:02+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+    "description": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot […]",
+    "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&strip=all&crop=0,9.1765918577712,100,81.646816284458",
+    "pubDate": "2026-10-23T19:35:15+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "description": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T19:32:39+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+    "description": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T19:31:15+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Euro sinks on French debt worries, yen gains for week on AI rout",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/yen-shines-as-ai-jitters-spur-safehaven-rush-4967941",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M044_L.jpg",
+    "pubDate": "2026-10-23T19:30:25+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
+    "pubDate": "2026-10-23T19:30:19+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+    "description": "Democrats have worked to contrast economic hardship with President Trump's surging net worth and his family's lucrative business dealings.",
+    "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T19:26:17+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
+    "description": "Meta shares just had their worst week in four years. Here's why Mike Khouw is buying now",
+    "link": "https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T19:25:18+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+    "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+    "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T19:25:13+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+    "description": "Gunman opens fire from car in Trappes and Verrière, killing one and injuring five others, including a 12-year-old girl Emmanuel Macron has condemned racism in French society after a gunman opened fire from a car west of Paris on Friday, killing one person, wounding a 12-year-old girl and injuring four others in what the president called a “racist terrorist attack”. Macron arrived at the scene of the drive-by shooting in Trappes, a town",
+    "link": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+    "thumbnail": "https://i.guim.co.uk/img/media/ed52b753a2b75c6d81fae075e1edfac4bc26ed44/438_0_4377_3502/master/4377.jpg?width=140&quality=85&auto=format&fit=max&s=f82d54c7ed9adfca5f49c60e6cf22489",
+    "pubDate": "2026-10-23T19:23:14+00:00",
+    "category": "world"
+  },
+  {
+    "title": "GP says she was forced out of job after raising concerns about gender treatment",
+    "description": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
+    "link": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f9/live/dbfea4d0-ce20-11f1-906e-e3128518d85d.jpg",
+    "pubDate": "2026-10-23T19:23:10+00:00",
+    "category": "world"
+  },
+  {
+    "title": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
+    "description": "College students are spending less time socializing, which has implications for later in life and the workplace.",
+    "link": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108366911-1790177426791-Charlie_Harker.jpeg?v=1790177524&w=1920&h=1080",
+    "pubDate": "2026-10-23T19:21:38+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
+    "description": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
+    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108347816-1792755651648-108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpg?v=1792755661&w=1920&h=1080",
+    "pubDate": "2026-10-23T19:21:12+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
+    "description": "Sarah Longwell has conducted hundreds of focus groups with Trump voters, and many of them are feeling betrayed.",
+    "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/opinion/23eks-longwell-image01/23eks-longwell-image01-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T19:19:54+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+    "description": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquefied natural gas exporters.",
+    "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T19:19:08+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T19:06:23+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "US expected to lift 50% tariffs on select Canadian agricultural imports, WSJ says",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/us-expected-to-lift-50-tariffs-on-select-canadian-agricultural-imports-wsj-says-4970240",
+    "thumbnail": "https://content-media.investing.com/news/moved_LYNXMPEL2A0ZP_L.jpg",
+    "pubDate": "2026-10-23T19:03:18+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "description": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T18:57:48+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
+    "description": "Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.",
+    "link": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T18:55:18+00:00",
+    "category": "world"
+  },
+  {
+    "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+    "description": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+    "link": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
+    "pubDate": "2026-10-23T18:54:55+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
+    "description": "The U.S. will issue tariff exemptions on several categories of Canadian imports, Sen. Susan Collins announced Friday.",
+    "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T18:54:16+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "I Tested 22 Milk Frothers To Find The Best for Barista-Quality Foam (2026)",
+    "description": "Here are the ones I trust for barista-quality clouds of foam at home.",
+    "link": "https://www.bonappetit.com/story/best-milk-frothers",
+    "thumbnail": "https://assets.bonappetit.com/photos/6a074910cc87006f585f54a5/master/pass/Milk%20frothers%202026%202x.jpg",
+    "pubDate": "2026-10-23T18:52:42+00:00",
+    "category": "food"
+  },
+  {
+    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+    "description": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
+    "pubDate": "2026-10-23T18:52:17+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Esper locations in Final Fantasy Resonance",
+    "description": "Here's where to find each Esper location in Final Fantasy Resonance and how to recruit them",
+    "link": "https://www.polygon.com/final-fantasy-resonance-esper-locations",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-espers.jpg",
+    "pubDate": "2026-10-23T18:51:59+00:00",
+    "category": "games"
+  },
+  {
+    "title": "CrowdStrike CEO's alarming prediction — plus, the sell-off spreads beyond tech",
+    "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "link": "https://www.cnbc.com/investingclub/2026/10/23/crowdstrikes-alarming-prediction-plus-sell-off-spreads-beyond-tech.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T18:49:56+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+    "description": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. “I no longer think we’re going to be able to patch all bugs,” said Sam Altman",
+    "link": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+    "thumbnail": "https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=22240fd63146e88296ce67fe0124324c",
+    "pubDate": "2026-10-23T18:48:48+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+    "description": "Millions remain under yellow weather warnings for wind and rain, with a second storm expected to hit Scotland and parts of northern England on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg",
+    "pubDate": "2026-10-23T18:48:18+00:00",
+    "category": "world"
+  },
+  {
+    "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
+    "description": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
+    "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/25/business/25bizsun-Crash-Again-illo/25bizsun-Crash-Again-illo-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T18:46:44+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Bodycam clip released in fatal police shooting of Mississippi one-year-old",
+    "description": "The family lawyer says an allegation of shoplifting \"does not warrant the death\" of a child.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wv9p0p9e3o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cc2/live/caa5ab30-cf0f-11f1-8de3-9dfec70eb8fa.jpg",
+    "pubDate": "2026-10-23T18:45:47+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Mysterious ‘black triangles’ spotted over sensitive US site, new Pentagon UFO files reveal",
+    "description": "Unidentified object vanished suddenly and silently, anonymous senior military observers claim Two senior military observers say they watched a mysterious black triangular object flying at an extraordinarily high speed over a sensitive site in the western US earlier this year, in the latest tranche of reported UFO sightings released on Friday by the Trump administration. The unidentified object showed none of the characteristics of a con",
+    "link": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
+    "thumbnail": "https://i.guim.co.uk/img/media/c255e45cbb5a92b35df29ef8b5f694912d96dfaa/177_0_1379_1104/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=3645f351c883b008ce0becf7f05f8f21",
+    "pubDate": "2026-10-23T18:45:43+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+    "description": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]",
+    "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T18:43:30+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Epstein-linked billionaire Glenn Dubin stepped down from Mount Sinai board earlier this year",
+    "description": "The board change is the latest development for the renowned New York hospital plagued by revelations related to Jeffrey Epstein The hedge fund billionaire Glenn Dubin, one of several Wall Street figures whose relationship with Jeffrey Epstein is facing scrutiny, has stepped down from the board of Mount Sinai hospital, according to sources close to the renowned New York institution. The revelation follows news earlier this year that Moun",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links",
+    "thumbnail": "https://i.guim.co.uk/img/media/4adc31e8f3dfe295bfe97f1955a67eeaf041a187/220_0_2561_2049/master/2561.jpg?width=140&quality=85&auto=format&fit=max&s=dfdc8bc8b68805e783b479f827ab787d",
+    "pubDate": "2026-10-23T18:42:41+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Watch: Prince William on how he once dreamed of becoming 'DJ Xara'",
+    "description": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize.",
+    "link": "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8d/live/4397eab0-cf0d-11f1-b441-2b33b063138f.jpg",
+    "pubDate": "2026-10-23T18:42:38+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Leclerc sets Austin practice pace from Verstappen",
+    "description": "Ferrari's Charles Leclerc is fastest from Red Bull's Max Verstappen in first practice at the United States Grand Prix.",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c89/live/b1f0ca10-cf10-11f1-8de3-9dfec70eb8fa.jpg",
+    "pubDate": "2026-10-23T18:41:21+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+    "description": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+    "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
+    "pubDate": "2026-10-23T18:39:02+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Israel locks down occupied West Bank after Hebron shooting",
+    "description": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T18:38:26+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Mass Effect 5 Pitched as 'John Wick and James Bond' in Space, Report Says",
+    "description": "New Mass Effect: Universe details have surfaced. Reportedly it would have been a spy thriller inspired by John Wick and James Bond.",
+    "link": "https://www.polygon.com/mass-effect-5-leaked-plot-details-john-wick-james-bond-in-space",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/malequarian.JPG",
+    "pubDate": "2026-10-23T18:34:46+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Celebrated Irish musician Dónal Lunny dies aged 79",
+    "description": "A founding member of three renowned bands - The Bothy Band, Planxty and Moving Hearts - he was widely credited for the revival and growth of Irish traditional music.",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgdjrzx13o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1eb/live/5de153b0-cefa-11f1-93e1-3b657b665bcf.jpg",
+    "pubDate": "2026-10-23T18:31:41+00:00",
+    "category": "world"
+  },
+  {
+    "title": "US to remove 50% tariffs on some Canadian goods to help Republicans in midterms, WSJ reports",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/us-to-remove-50-tariffs-on-some-canadian-goods-to-help-republicans-in-midterms-wsj-reports-4970225",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1PJ_L.jpg",
+    "pubDate": "2026-10-23T18:30:53+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+    "description": "Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T18:30:00+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Italy's Looming Food Shortage May be the Tip of the Iceberg",
+    "description": "Plus the reason chocolate tastes bad now, 3D-printed meat, and Abdul El-Sayed on shawarma law.",
+    "link": "https://www.bonappetit.com/story/italys-looming-food-shortage",
+    "thumbnail": "https://assets.bonappetit.com/photos/6adba0a82a8c9187ce0db4dc/master/pass/GettyImages-2300853664.jpg",
+    "pubDate": "2026-10-23T18:30:00+00:00",
+    "category": "food"
+  },
+  {
+    "title": "Best Visions to use in Final Fantasy Resonance",
+    "description": "The best Visions in Final Fantasy Resonance combine excellent skills with universally useful mastery abilities",
+    "link": "https://www.polygon.com/final-fantasy-resonance-best-visions",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-best-visions.jpg",
+    "pubDate": "2026-10-23T18:27:34+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
+    "description": "The brand’s lovely selection of hand-knotted and handwoven wool rugs at reasonable prices make it a WIRED-staff favorite.",
+    "link": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026",
+    "thumbnail": "https://media.wired.com/photos/6adba57525db5ec905073c5e/master/pass/New%20Revival%20Birthday%20Sale%20102026%20top%20art%20SOURCE%20Revival.jpg",
+    "pubDate": "2026-10-23T18:27:32+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "The iPhone Duo Is Here, and Only That Device Will Run iOS 27.1",
+    "description": "Apple said update has features built specifically for the foldable iPhone.",
+    "link": "https://www.cnet.com/tech/mobile/apple-iphone-duo-ios-27-1",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/P1001769.jpeg",
+    "pubDate": "2026-10-23T18:25:50+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+    "description": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
+    "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T18:22:51+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Criminals recruiting children to damage Greater Manchester HMOs, police believe",
+    "description": "Houses being targeted because they are thought to hold immigrants, with dozens of properties affected in recent weeks Criminals are recruiting vulnerable people, including children, to damage houses suspected of being HMOs, police in Manchester believe. In recent weeks, dozens of properties have been targeted across Greater Manchester, mostly in Salford, but also in Stockport and Tameside. Continue reading...",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
+    "thumbnail": "https://i.guim.co.uk/img/media/06255a9e2eb8bc92d7a776638178e3018c0ffa7b/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=5589ccce844bd1e6a4b26b6be42dc49b",
+    "pubDate": "2026-10-23T18:19:43+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
+    "description": "Senators have warned the White House they will withhold confirmation votes until the administration ensures the restoration of communications capabilities used by Ukraine’s military.",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-cong-ukraine-01-qmlt/23dc-cong-ukraine-01-qmlt-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T18:18:46+00:00",
+    "category": "world"
+  },
+  {
+    "title": "The Best Gifts for the Baker in Your Life (2026)",
+    "description": "Play your cards right and you’ll be repaid in brownies.",
+    "link": "https://www.bonappetit.com/story/best-baking-gifts-2026",
+    "thumbnail": "https://assets.bonappetit.com/photos/6adba28ee150854936c1f71c/master/pass/Baker%20gifts-22.jpg",
+    "pubDate": "2026-10-23T18:18:04+00:00",
+    "category": "food"
+  },
+  {
+    "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+    "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ae/live/13ebb490-cedb-11f1-b441-2b33b063138f.jpg",
+    "pubDate": "2026-10-23T18:17:06+00:00",
+    "category": "world"
+  },
+  {
+    "title": "The 25 Best Nintendo Switch 2 Games in 2026",
+    "description": "What are the best Nintendo Switch 2 games? From Fire Emblem: Fortune's Weave to Nintendo Switch Sports Resort, here are our favorites",
+    "link": "https://www.polygon.com/best-switch-2-games-nintendo",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fire-emblem-fortune-s-weave-anatolia.jpg",
+    "pubDate": "2026-10-23T18:07:16+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Shepard Actor Reacts To Leaked Mass Effect Trailer, Is “Holding Hope” The Game Will Live On",
+    "description": "Prolific and veteran gaming actor Jennifer Hale, who is known for voicing Commander Shepard in the Mass Effect series, has reacted to the closure of BioWare and the cancellation of the next game in the series. After footage of the new project, Mass Effect Universe , was released, Hale said , \"It's extraordinary.\" She added: \"I’m holding hope for magic to happen. This community and you incredible vevs deserve that and more.\" A \"Save Mass",
+    "link": "https://www.gamespot.com/articles/shepard-actor-reacts-to-leaked-mass-effect-trailer-is-holding-hope-the-game-will-live-on",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/10/masseffect-Large-2.jpeg?w=300",
+    "pubDate": "2026-10-23T18:01:01+00:00",
+    "category": "games"
+  },
+  {
+    "title": "4 Years Ago, 'Doctor Who’s Biggest Failure Was Just the Beginning of the End",
+    "description": "Doctor Who has faced problems for years, and it all traces back to one specific finale.",
+    "link": "https://www.polygon.com/doctor-who-the-power-of-the-doctor-failed-jodie-whittaker-4th-anniversary",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jodie-whittaker-potd.jpg",
+    "pubDate": "2026-10-23T18:00:20+00:00",
+    "category": "games"
+  },
+  {
+    "title": "All 23 BioWare Games, Ranked",
+    "description": "From Shattered Steel to Mass Effect 2, we ranked all 23 BioWare games, remasters and mobile spin-offs included, as EA closes the studio.",
+    "link": "https://www.polygon.com/bioware-games-ranked",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-age-origins-party.jpg",
+    "pubDate": "2026-10-23T18:00:20+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Taylor Sheridan's Call of Duty Adaptation Will Have 'Soul,' Director Says",
+    "description": "2028's Call of Duty movie adaptation from Peter Berg and Taylor Sheridan won't be a \"popcorn\" action thriller — it will have \"soul\" director says.",
+    "link": "https://www.polygon.com/call-of-duty-taylor-sheridan-movie-peter-berg",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/call-of-duty.jpg",
+    "pubDate": "2026-10-23T17:59:57+00:00",
+    "category": "games"
+  },
+  {
+    "title": "The 25 Best Games on Xbox Game Pass in 2026",
+    "description": "The best games on Game Pass Ultimate, Premium, and Essential across Xbox console and PC",
+    "link": "https://www.polygon.com/best-game-pass-games-xbox",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/assets_2026_06_1780855026_16_gow_eday_marcusscowl_4k.png",
+    "pubDate": "2026-10-23T17:59:21+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Trump administration sues to block possible Democratic win in Alaska",
+    "description": "President Donald Trump took credit for the action amid growing concerns the US government could meddle in midterm races.",
+    "link": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:57:54+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+    "description": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to […]",
+    "link": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:55:03+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Trump says Canada ’working very hard’ to make a deal with US",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/trump-says-canada-working-very-hard-to-make-a-deal-with-us-4970061",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1I8_L.jpg",
+    "pubDate": "2026-10-23T17:54:16+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
+    "description": "Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI.",
+    "link": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/photo-collage.png-1-gID_7.png@png",
+    "pubDate": "2026-10-23T17:53:29+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Many feared trapped after multistorey building collapses in Kenya",
+    "description": "Officials say building in Nairobi's Eastleigh area had no occupation certificate, but ground floor was in use.",
+    "link": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:49:04+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
+    "description": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.",
+    "link": "https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:47:20+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Bayern coach Kompany taken to hospital after collapsing during training",
+    "description": "The Belgian had been ​nursing a virus in recent days and had ⁠missed some of his team's training sessions.",
+    "link": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:44:05+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "description": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more.",
+    "link": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/well/23Well-CANCER-VAX/23Well-CANCER-VAX-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T17:43:05+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+    "description": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
+    "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MWKYVWPGFNQZJ4EMBSGH91/hi-probe-crypto-senator.jpg",
+    "pubDate": "2026-10-23T17:42:12+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Elon Musk’s dangerous grip on outer space",
+    "description": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure […]",
+    "link": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:35:15+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+    "description": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:35:14+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Where to find the Netshin Tech Complex in DMZ in Modern Warfare 4",
+    "description": "This guide explains where to find the Netshin Tech Complex location in DMZ in Modern Warfare 4.",
+    "link": "https://www.polygon.com/mw4-modern-warfare-4-netshin-tech-complex-location",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-dmz-netshin-tech-complex-header.jpg",
+    "pubDate": "2026-10-23T17:35:07+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Crows can evaluate visual info twice as fast as mammals",
+    "description": "Birds' compact nervous system seems to help them handle tasks very quickly.",
+    "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg",
+    "pubDate": "2026-10-23T17:32:58+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "The Next Mass Effect Sounded Like John Wick In Space",
+    "description": "After news broke that EA would be shutting down BioWare , more details on the studio's in-development Mass Effect have begun to trickle out. A trailer for Mass Effect Universe hinted that the next game in the series would have a completely different tone, moving away from the galactic warfare that defined the first three games and toward covert ops, espionage, and the occasional barroom shootout. Gaming content creator and YouTuber Dant",
+    "link": "https://www.gamespot.com/articles/the-next-mass-effect-sounded-like-john-wick-in-space",
+    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/10/Mass-Wick.jpg?w=300",
+    "pubDate": "2026-10-23T17:31:41+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+    "description": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:30:51+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Our best tips for using the iPhone Duo",
+    "description": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands […]",
+    "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:29:34+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Meghan statement offers answers after years of questions about her relationship with father",
+    "description": "Today, without exactly using the word, Meghan claimed vindication.",
+    "link": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a54/live/2b12a510-cf0e-11f1-93e1-3b657b665bcf.png",
+    "pubDate": "2026-10-23T17:27:50+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Trump says Burnham 'getting it done' after Jackdaw decision",
+    "description": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field.",
+    "link": "https://www.bbc.co.uk/news/articles/cry4x7n5yje0o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfdd/live/e8088930-cefc-11f1-accf-3309656ad0bb.jpg",
+    "pubDate": "2026-10-23T17:27:20+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+    "description": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 108, specifically rewriting […]",
+    "link": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:26:32+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "The first broken iPhone Duos are here",
+    "description": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]",
+    "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0%2C29.064535392392%2C100%2C41.870929215215&w=1200",
+    "pubDate": "2026-10-23T17:26:23+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "US consumer sentiment hits a near-record low before midterm elections",
+    "description": "Independent voters’ economic anxieties highlight political implications of plummeting US consumer sentiment.",
+    "link": "https://www.aljazeera.com/economy/2026/10/23/us-consumer-sentiment-hits-a-near-record-low-before-midterm-elections",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:26:21+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Romania blames Russia after drone sinks ship in the Black Sea",
+    "description": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters.",
+    "link": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:26:13+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+    "description": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
+    "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:26:12+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
+    "description": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism.",
+    "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/24/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T17:24:53+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+    "description": "Benjamin Netanyahu and ministers promise demolitions and forced displacement after deadly gunfight Israel has launched a campaign of collective punishment against Palestinians in Hebron after gunmen killed two Israeli soldiers and injured three near a checkpoint outside the city. Benjamin Netanyahu announced a siege on Hebron and neighbouring Halhul and said residents of the gunmen’s home neighbourhoods would all be forced out. He promi",
+    "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+    "thumbnail": "https://i.guim.co.uk/img/media/15b08426d4d1d04bcd2303817e34d7f49ab08850/539_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=b792a1b3608b64f3b7a1426fc251544d",
+    "pubDate": "2026-10-23T17:22:11+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Why Chinese families are rushing to buy gold",
+    "description": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:20:22+00:00",
+    "category": "world"
+  },
+  {
+    "title": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
+    "description": "“You shouldn’t overbeat scrambled eggs.”",
+    "link": "https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/podcasts/23hardfork-billy-evans-holmes/23hardfork-billy-evans-holmes-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T17:19:38+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "US and Israel are warned against launching fresh strikes on Iran",
+    "description": "Multinational ‘anti-war bloc’ uses Istanbul summit to call for a diplomatic solution to Middle East crisis Foreign ministers at a summit of eight European and Middle Eastern countries have urged the US and Israel not to renews their attacks on Iran, warning a fresh outbreak of fighting would spread conflict and push oil prices even higher. The development of a new multinational “anti-war bloc” represents a challenge to the increasingly",
+    "link": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+    "thumbnail": "https://i.guim.co.uk/img/media/6ac9cf9fbfcf811f0a3f36368ba9e219fcb7b7de/367_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=1e443ca4d1f01758bcb52a8d08db6dbd",
+    "pubDate": "2026-10-23T17:18:34+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+    "description": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+    "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
+    "pubDate": "2026-10-23T17:18:31+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+    "description": "Developers will now backport fixes and cut releases immediately for flaws flagged as “easily discoverable,” abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
+    "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png@png",
+    "pubDate": "2026-10-23T17:16:03+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
+    "description": "Six melanoma specialists said the Moderna and Merck vaccine results represent a clinically meaningful result for melanoma patients who underwent surgery.",
+    "link": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108250093-17678956902026-01-08t180322z_237136326_rc28ldawa07r_rtrmadp_0_usa-vaccines-hpv.jpeg?v=1767895707&w=1920&h=1080",
+    "pubDate": "2026-10-23T17:15:08+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
+    "description": "President Trump says Venezuela is not ready for elections, and he focuses instead on its oil. But Secretary of State Marco Rubio is nudging talks between opposing politicians.",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X-v2.jpg",
+    "pubDate": "2026-10-23T17:15:02+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Tommy Robinson ‘threatened people and acted like a bully’, jury told",
+    "description": "Prosecution says Robinson guilty of harassment of Daily Mail journalists because we do not live in a ‘vigilante world’ Tommy Robinson is guilty of harassing two journalists because we do not live in a “vigilante world”, jurors have been told, as the prosecution sought to use the far-right activist’s words against him. Robinson had posted a video in which he told Daily Mail journalists he would find them after they wrote about his allege",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world",
+    "thumbnail": "https://i.guim.co.uk/img/media/91b637c6e3a63c1c25ca7130356319d392bd452c/910_374_2159_1728/master/2159.jpg?width=140&quality=85&auto=format&fit=max&s=d71879c9bc17f7c36b021bbb24f6fc30",
+    "pubDate": "2026-10-23T17:14:59+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
+    "description": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-dems-power-01-cvlh/23dc-dems-power-01-cvlh-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T17:14:19+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+    "description": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police. Meghan issued a statement after the Sun newspaper published claims that her h",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+    "thumbnail": "https://i.guim.co.uk/img/media/cb82f430a06dc8d31acbdb8d325a697d131baec9/41_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e69836a0430bf383d737234400018d19",
+    "pubDate": "2026-10-23T17:14:16+00:00",
+    "category": "world"
+  },
+  {
+    "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+    "description": "SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access to […]",
+    "link": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:14:06+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+    "description": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
+    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X-v2.jpg",
+    "pubDate": "2026-10-23T17:11:13+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
+    "description": "New data have prompted questions about changes in teens’ sexual orientations. But researchers disagree on how much the numbers can really tell us.",
+    "link": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/science/23SCI-LGB-TEENS/23SCI-LGB-TEENS-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T17:09:05+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/bank-of-canada-to-raise-rates-to-250-on-october-28-and-once-again-by-endmarch-reuters-poll-4970116",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1JH_L.jpg",
+    "pubDate": "2026-10-23T17:07:08+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "UK children just as likely to have suffered harm on social media despite crackdown",
+    "description": "Campaigners call lack of progress ‘staggering’, as Ofcom also admits little change in severity of harm to children encountering unsafe content Landmark online safety measures have failed to limit the proportion of children suffering harm from social media, the UK’s online regulator has admitted, in an assessment branded “staggering” by campaigners. The proportion of children being fed unsafe content that often left them frightened, conf",
+    "link": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
+    "thumbnail": "https://i.guim.co.uk/img/media/d8ca7107a32ae75c0414d1c2341b3ee1dd62c0ff/761_0_6147_4918/master/6147.jpg?width=140&quality=85&auto=format&fit=max&s=dc0b267477bb221eb70863df86fda2fe",
+    "pubDate": "2026-10-23T17:06:04+00:00",
+    "category": "world"
+  },
+  {
     "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
     "description": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
     "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
@@ -8,19 +984,27 @@
     "category": "finance"
   },
   {
-    "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
-    "description": "Six melanoma specialists said the Moderna and Merck vaccine results represent a clinically meaningful result for melanoma patients who underwent surgery.",
-    "link": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108250093-17678956902026-01-08t180322z_237136326_rc28ldawa07r_rtrmadp_0_usa-vaccines-hpv.jpeg?v=1767895707&w=1920&h=1080",
-    "pubDate": "2026-10-23T17:02:56+00:00",
-    "category": "finance"
-  },
-  {
     "title": "Glasgow museums remove mummified remains from public view over ethical concerns",
     "description": "Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns.",
     "link": "https://www.bbc.co.uk/news/articles/c862yv953x04o",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f392/live/b1ca2050-cef1-11f1-accf-3309656ad0bb.jpg",
     "pubDate": "2026-10-23T17:01:26+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Many feared trapped after Kenya building collapse",
+    "description": "Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:01:05+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Indonesia seizes more than a tonne of ketamine from tanker",
+    "description": "Indonesian authorities seized 1.16 tonnes of ketamine from a Malaysian vessel in the Strait of Malacca.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T17:00:22+00:00",
     "category": "world"
   },
   {
@@ -40,12 +1024,12 @@
     "category": "technology"
   },
   {
-    "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-    "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
-    "pubDate": "2026-10-23T16:59:51+00:00",
-    "category": "world"
+    "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
+    "description": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
+    "link": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg",
+    "pubDate": "2026-10-23T16:58:39+00:00",
+    "category": "technology"
   },
   {
     "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
@@ -64,30 +1048,6 @@
     "category": "finance"
   },
   {
-    "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
-    "description": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police said a gunman had opened fire in Trappes, in the Yvelines, and neighbouring La Verriere. The gunman was later arrested in nearby",
-    "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-    "thumbnail": "https://i.guim.co.uk/img/media/ace22324730cef3ddc927de0d454abf728aaa232/301_0_1414_1132/master/1414.jpg?width=140&quality=85&auto=format&fit=max&s=63cd75431194c6bb3518fcb753e59fb2",
-    "pubDate": "2026-10-23T16:54:58+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Trump’s justice department sues to block Senate race certification in Alaska if Republican loses – live",
-    "description": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly America. They break",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-    "thumbnail": "https://i.guim.co.uk/img/media/5ca05f9727e9b38ecd0e09a4928c1e5e2fd58de2/658_0_4583_3669/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=222c75e2b50e0160922d2712b8023d4f",
-    "pubDate": "2026-10-23T16:54:07+00:00",
-    "category": "world"
-  },
-  {
-    "title": "The first broken iPhone Duos are here",
-    "description": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]",
-    "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0%2C29.064535392392%2C100%2C41.870929215215&w=1200",
-    "pubDate": "2026-10-23T16:53:49+00:00",
-    "category": "technology"
-  },
-  {
     "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
     "description": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
     "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
@@ -104,12 +1064,12 @@
     "category": "games"
   },
   {
-    "title": "Tommy Robinson guilty of harassment because this is not a vigilante world, jury told",
-    "description": "Prosecution says Robinson ‘threatened people and acted like a bully’ towards Daily Mail journalists Tommy Robinson is guilty of harassing two journalists because we do not live in a “vigilante world”, jurors have been told, as the prosecution sought to use the far-right activist’s words against him. Robinson had posted a video in which he told Daily Mail journalists he would find them after they wrote about his alleged role influencing",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world",
-    "thumbnail": "https://i.guim.co.uk/img/media/91b637c6e3a63c1c25ca7130356319d392bd452c/910_374_2159_1728/master/2159.jpg?width=140&quality=85&auto=format&fit=max&s=d71879c9bc17f7c36b021bbb24f6fc30",
-    "pubDate": "2026-10-23T16:51:55+00:00",
-    "category": "world"
+    "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
+    "description": "Corporate phishing tests are common, but this one was especially cruel.",
+    "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-1152x648-1792772606.jpg",
+    "pubDate": "2026-10-23T16:51:59+00:00",
+    "category": "technology"
   },
   {
     "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
@@ -144,51 +1104,27 @@
     "category": "world"
   },
   {
-    "title": "Reform braces for Farage standards verdict over undeclared £5m gift",
-    "description": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findings Nigel Farage’s Reform is braced for a negative report from the standards commissioner over his failure to declare a £5m gift from crypto billionaire Christopher Harborne, and plans to appeal against any adverse findings. The party is on tenterhooks over the report, with multiple Reform insiders saying they are readyin",
+    "title": "Reform UK braces for Farage standards verdict over undeclared £5m gift",
+    "description": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findings Nigel Farage’s Reform is braced for a negative report from the standards commissioner over his failure to declare a £5m gift from the crypto billionaire Christopher Harborne and plans to appeal against any adverse findings. The party is on tenterhooks over the report, with multiple Reform insiders saying they are read",
     "link": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
     "thumbnail": "https://i.guim.co.uk/img/media/4e3894392038014b4158c1acbb3a04cefe0364cb/871_0_7975_6384/master/7975.jpg?width=140&quality=85&auto=format&fit=max&s=ef9dd10f4c3788f7a4893846e621be20",
     "pubDate": "2026-10-23T16:45:14+00:00",
     "category": "world"
   },
   {
-    "title": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
-    "description": "College students are spending less time socializing, which has implications for later in life and the workplace.",
-    "link": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108366911-1790177426791-Charlie_Harker.jpeg?v=1790177524&w=1920&h=1080",
-    "pubDate": "2026-10-23T16:44:35+00:00",
-    "category": "finance"
-  },
-  {
     "title": "Chimps Steal Less Often From Their Friends, Even When Offered Pineapple",
     "description": "The discovery may hint at the roots of human norms around fairness and friendship.",
     "link": "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html",
     "thumbnail": "https://static01.nyt.com/images/2026/10/19/science/00SCI-TB-STEALING-CHIMPS-02/00SCI-TB-STEALING-CHIMPS-02-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-23T16:44:20+00:00",
+    "pubDate": "2026-10-23T16:44:21+00:00",
     "category": "world"
   },
   {
-    "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
-    "description": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
-    "link": "https://www.nytimes.com/2026/10/23/us/politics/democratic-agenda.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-dems-power-01-cvlh/23dc-dems-power-01-cvlh-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-23T16:43:54+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Stocks mixed, day after AI-related selloff; oil prices rise again",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M038_L.jpg",
-    "pubDate": "2026-10-23T16:43:01+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-    "description": "The Israeli military said two soldiers and two attackers had been killed, and Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
-    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X-v2.jpg",
-    "pubDate": "2026-10-23T16:41:01+00:00",
+    "title": "Brazil’s right has already changed the balance of power",
+    "description": "Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency.",
+    "link": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T16:41:09+00:00",
     "category": "world"
   },
   {
@@ -208,6 +1144,14 @@
     "category": "world"
   },
   {
+    "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+    "description": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
+    "link": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village",
+    "thumbnail": "",
+    "pubDate": "2026-10-23T16:37:59+00:00",
+    "category": "world"
+  },
+  {
     "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
     "description": "The first lady, who is positioning herself as an intermediary between two warring nations as her husband sides with Russia, said the agreement would allow residents to evacuate.",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
@@ -224,12 +1168,12 @@
     "category": "world"
   },
   {
-    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-    "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
-    "pubDate": "2026-10-23T16:33:11+00:00",
-    "category": "world"
+    "title": "Everybody panic: A Valve developer said \"HLX\" in public",
+    "description": "Sound designer lets Half Life-related codename slip at a conference.",
+    "link": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg",
+    "pubDate": "2026-10-23T16:35:00+00:00",
+    "category": "technology"
   },
   {
     "title": "Prime Video's New Fallout TV Series Sets 2027 Release Date",
@@ -265,7 +1209,7 @@
   },
   {
     "title": "Thousands of homes without power as Storm Austen hits south-west England",
-    "description": "Dozens of schools in Cornwall also affected as another storm heads for Scotland, Northern Ireland and the north of England Thousands of homes are without power and schools were closed as the first named storm of the year hit UK shores. Storm Austen brought severe conditions to parts of the south-west, with a gust of 76mph recorded at St Mary’s airport on the Isles of Scilly on Friday morning. Just before 11am, more than 16,000 homes in",
+    "description": "Dozens of schools in Cornwall also affected as Storm Boelo heads for Scotland, Northern Ireland and north of England Thousands of homes are without power and schools were closed as the first named storm of the year hit UK shores. Storm Austen brought severe conditions to parts of the south-west, with a gust of 76mph recorded at St Mary’s airport on the Isles of Scilly on Friday morning. Just before 11am, more than 16,000 homes in the so",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
     "thumbnail": "https://i.guim.co.uk/img/media/defb52d17a98c272784c56e832b7b215dc0c188f/0_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=ba60e43974dcfc54f9652ad7c3d48f26",
     "pubDate": "2026-10-23T16:30:39+00:00",
@@ -273,7 +1217,7 @@
   },
   {
     "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-    "description": "A further escalation would 'create nothing but losers', the French foreign minister warns after joint Istanbul meeting .",
+    "description": "An escalation would 'create nothing but losers', French foreign minister says as US official warns of possible strike.",
     "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks",
     "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-23T133358Z_672226840_RC219OAF0C9W_RTRMADP_3_IRAN-CRISIS-TURKEY-1792770191.jpg?resize=1920%2C1440",
     "pubDate": "2026-10-23T16:29:51+00:00",
@@ -320,44 +1264,12 @@
     "category": "world"
   },
   {
-    "title": "Trump says Canada ’working very hard’ to make a deal with US",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/trump-says-canada-working-very-hard-to-make-a-deal-with-us-4970061",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1I8_L.jpg",
-    "pubDate": "2026-10-23T16:24:24+00:00",
-    "category": "finance"
-  },
-  {
     "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
     "description": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
     "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors",
     "thumbnail": "",
     "pubDate": "2026-10-23T16:20:28+00:00",
     "category": "technology"
-  },
-  {
-    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-    "description": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
-    "pubDate": "2026-10-23T16:19:36+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/bank-of-canada-to-raise-rates-to-250-on-october-28-and-once-again-by-endmarch-reuters-poll-4970116",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1JH_L.jpg",
-    "pubDate": "2026-10-23T16:18:39+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-    "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
-    "pubDate": "2026-10-23T16:17:02+00:00",
-    "category": "world"
   },
   {
     "title": "Which is really England’s oldest pub? Tree-ring dating helps settle debate",
@@ -379,17 +1291,9 @@
     "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
     "description": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one.",
     "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-23T16:14:55+00:00",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/TECHFIX-phone-2-bwcf/TECHFIX-phone-2-bwcf-mediumSquareAt3X.jpg",
+    "pubDate": "2026-10-23T16:14:56+00:00",
     "category": "world"
-  },
-  {
-    "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
-    "description": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
-    "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
-    "pubDate": "2026-10-23T16:14:44+00:00",
-    "category": "finance"
   },
   {
     "title": "Why Has This Teenager Tracked Down 11,377 Moths Since April?",
@@ -427,7 +1331,7 @@
     "title": "Meta is charging government and nonprofit pages to post links on Facebook",
     "description": "The new restrictions are a test which is explicitly not supposed to impact these entities.",
     "link": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook",
-    "thumbnail": "https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg",
+    "thumbnail": "https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg",
     "pubDate": "2026-10-23T16:09:39+00:00",
     "category": "technology"
   },
@@ -440,7 +1344,7 @@
     "category": "crypto"
   },
   {
-    "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+    "title": "One killed as Elysee calls Paris area shooting ‘racist, terrorist attack’",
     "description": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl.",
     "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris",
     "thumbnail": "",
@@ -664,14 +1568,6 @@
     "category": "finance"
   },
   {
-    "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-    "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ae/live/13ebb490-cedb-11f1-b441-2b33b063138f.jpg",
-    "pubDate": "2026-10-23T15:35:28+00:00",
-    "category": "world"
-  },
-  {
     "title": "Plan to Save BioWare and Mass Effect Proposed by Canadian Politician",
     "description": "The leader of Canada's NDP party, Avi Lewis, wrote on X that the government should help BioWare purchase itself back from EA.",
     "link": "https://www.polygon.com/bioware-mass-effect-canadian-government-bailout",
@@ -720,44 +1616,12 @@
     "category": "games"
   },
   {
-    "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-    "description": "The 10-year Treasury yield stayed below 5% Friday after AI-driven tech selling sent investors into government bonds.",
-    "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-23T15:27:33+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-    "description": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 108, specifically rewriting […]",
-    "link": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-    "thumbnail": "",
-    "pubDate": "2026-10-23T15:24:45+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-    "description": "SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access […]",
-    "link": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-    "thumbnail": "",
-    "pubDate": "2026-10-23T15:20:56+00:00",
-    "category": "technology"
-  },
-  {
     "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
     "description": "Demonstrations are expected to continue this weekend in Paris and other French cities. Some museums and tourist sites will be closed, and visitors should expect a strong police presence.",
     "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
     "thumbnail": "https://static01.nyt.com/images/2026/10/20/multimedia/20Trav-France-Riots-01-mpgj/20Trav-France-Riots-01-mpgj-mediumSquareAt3X.jpg",
     "pubDate": "2026-10-23T15:19:00+00:00",
     "category": "finance"
-  },
-  {
-    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-    "description": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police. Meghan issued a statement after the Sun newspaper published claims that her h",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-    "thumbnail": "https://i.guim.co.uk/img/media/cb82f430a06dc8d31acbdb8d325a697d131baec9/41_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e69836a0430bf383d737234400018d19",
-    "pubDate": "2026-10-23T15:16:14+00:00",
-    "category": "world"
   },
   {
     "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
@@ -800,14 +1664,6 @@
     "category": "world"
   },
   {
-    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-    "description": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
-    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-23T15:04:33+00:00",
-    "category": "finance"
-  },
-  {
     "title": "Every Sport in Nintendo Switch Sports Resort, Ranked From Worst to Best",
     "description": "Nintendo Switch Sports Resort contains 12 minigames that rank from meh to amazing. Here's how they stack up.",
     "link": "https://www.polygon.com/nintgendo-switch-sports-resort-minigames-ranked",
@@ -832,14 +1688,6 @@
     "category": "technology"
   },
   {
-    "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
-    "description": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
-    "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/25/business/25bizsun-Crash-Again-illo/25bizsun-Crash-Again-illo-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-23T14:58:35+00:00",
-    "category": "finance"
-  },
-  {
     "title": "US justice department investigating Corey Lewandowski over DHS role",
     "description": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
     "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o",
@@ -862,14 +1710,6 @@
     "thumbnail": "",
     "pubDate": "2026-10-23T14:56:05+00:00",
     "category": "world"
-  },
-  {
-    "title": "Euro sinks on French debt worries; yen gains on AI rout",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/yen-shines-as-ai-jitters-spur-safehaven-rush-4967941",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9M044_L.jpg",
-    "pubDate": "2026-10-23T14:55:00+00:00",
-    "category": "finance"
   },
   {
     "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
@@ -904,10 +1744,10 @@
     "category": "technology"
   },
   {
-    "title": "Poulter leaves LIV as exodus of big names continues",
-    "description": "Ian Poulter wants to help his sons become professional golfers and develop his YouTube channel as he announces his exit from LIV Golf.",
+    "title": "Poulter & Hatton leave LIV as exodus continues",
+    "description": "Englishmen Ian Poulter and Tyrrell Hatton are the latest star names to confirm they are quitting LIV Golf - leaving the breakaway tour's future looking increasingly uncertain.",
     "link": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5220/live/1dc8cbc0-cee4-11f1-bdca-23c64447299f.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba47/live/f53f6b00-cf0b-11f1-b95c-310d5f3c558a.png",
     "pubDate": "2026-10-23T14:41:19+00:00",
     "category": "world"
   },
@@ -926,14 +1766,6 @@
     "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/10/Money-pweeese.jpg?w=300",
     "pubDate": "2026-10-23T14:35:44+00:00",
     "category": "games"
-  },
-  {
-    "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-    "description": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
-    "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-23T14:34:37+00:00",
-    "category": "finance"
   },
   {
     "title": "Nobody Wants This creator says she disagrees with Adam Brody’s ‘free Palestine’ comments",
@@ -976,14 +1808,6 @@
     "category": "finance"
   },
   {
-    "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-    "description": "Two soldiers and two Palestinians killed in exchange of fire outside Hebron, where Israeli military says it thwarted ‘terror attack’ Benjamin Netanyahu has ordered the army to prepare for a “very extensive” operation in the occupied West Bank after two Israeli soldiers and two Palestinians were killed in an exchange of fire near a checkpoint in Hebron. The Israeli prime minister said the military would go house to house and demolish hom",
-    "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-    "thumbnail": "https://i.guim.co.uk/img/media/15b08426d4d1d04bcd2303817e34d7f49ab08850/539_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=b792a1b3608b64f3b7a1426fc251544d",
-    "pubDate": "2026-10-23T14:19:30+00:00",
-    "category": "world"
-  },
-  {
     "title": "PSG v Lyon moved as Paris prepares for more protests",
     "description": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
     "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po",
@@ -1008,7 +1832,7 @@
     "category": "world"
   },
   {
-    "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+    "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
     "description": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
     "thumbnail": "",
@@ -1118,14 +1942,6 @@
     "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "pubDate": "2026-10-23T13:52:15+00:00",
     "category": "games"
-  },
-  {
-    "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-    "description": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108347816-1792755651648-108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpg?v=1792755661&w=1920&h=1080",
-    "pubDate": "2026-10-23T13:50:46+00:00",
-    "category": "finance"
   },
   {
     "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
@@ -1450,7 +2266,7 @@
   {
     "title": "The iPhone Duo Hit Stores Friday. Next Came Long Lines, Sellouts and Resellers",
     "description": "Crowds camped outside of stores before Apple’s first folding phone became available.",
-    "link": "https://www.cnet.com/tech/mobile/iphone-duo-lines-at-apple-store-sold-out-2",
+    "link": "https://www.cnet.com/tech/mobile/iphone-duo-lines-at-apple-store-sold-out",
     "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/first-iPhone-Duo.webp",
     "pubDate": "2026-10-23T12:33:45+00:00",
     "category": "technology"
@@ -1888,14 +2704,6 @@
     "category": "technology"
   },
   {
-    "title": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
-    "description": "“You shouldn’t overbeat scrambled eggs.”",
-    "link": "https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/23/podcasts/23hardfork-billy-evans-holmes/23hardfork-billy-evans-holmes-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-23T11:00:05+00:00",
-    "category": "technology"
-  },
-  {
     "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
     "description": "A Tesla-SpaceX merger may be in the works, but the companies face a long road of negotiations and regulatory reviews.",
     "link": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
@@ -2120,14 +2928,6 @@
     "category": "crypto"
   },
   {
-    "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
-    "description": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism.",
-    "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-23T10:11:50+00:00",
-    "category": "world"
-  },
-  {
     "title": "What Type of Mattress Is Right for You? (2026)",
     "description": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
     "link": "https://www.wired.com/story/mattress-types-explained-2026",
@@ -2174,14 +2974,6 @@
     "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/Onyx-Bike-10.jpg",
     "pubDate": "2026-10-23T10:00:02+00:00",
     "category": "technology"
-  },
-  {
-    "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
-    "description": "Democrats have worked to contrast economic hardship with President Trump's surging net worth and his family's lucrative business dealings.",
-    "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-23T10:00:01+00:00",
-    "category": "finance"
   },
   {
     "title": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
@@ -2280,8 +3072,8 @@
     "category": "world"
   },
   {
-    "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-    "description": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.",
+    "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
+    "description": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
     "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
     "thumbnail": "",
     "pubDate": "2026-10-23T09:37:38+00:00",
@@ -2446,14 +3238,6 @@
     "thumbnail": "https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg",
     "pubDate": "2026-10-23T09:01:01+00:00",
     "category": "technology"
-  },
-  {
-    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-    "description": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more.",
-    "link": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/23/well/23Well-CANCER-VAX/23Well-CANCER-VAX-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-23T09:00:39+00:00",
-    "category": "finance"
   },
   {
     "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
@@ -3374,14 +4158,6 @@
     "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23nat-income-disparities2-tzpf/23nat-income-disparities2-tzpf-mediumSquareAt3X.jpg",
     "pubDate": "2026-10-23T01:04:08+00:00",
     "category": "world"
-  },
-  {
-    "title": "Our best tips for using the iPhone Duo",
-    "description": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands […]",
-    "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-    "thumbnail": "",
-    "pubDate": "2026-10-23T01:00:51+00:00",
-    "category": "technology"
   },
   {
     "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
@@ -5077,7 +5853,7 @@
     "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
     "thumbnail": "",
     "pubDate": "2026-10-22T18:43:53+00:00",
-    "category": "technology"
+    "category": "ai"
   },
   {
     "title": "Christa Pike’s IV team warned vein might be ‘blowing’ before failed execution",
@@ -6213,7 +6989,7 @@
     "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
     "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg",
     "pubDate": "2026-10-22T15:25:02+00:00",
-    "category": "technology"
+    "category": "ai"
   },
   {
     "title": "When Do Rules on Historic Preservation Go Too Far?",
@@ -7289,7 +8065,7 @@
   },
   {
     "title": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
-    "description": "New study reveals dramatic population drops in fish, cephalopods and more after the Deepwater Horizon spill Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovered, according to a new study . The April 2010 explosion of an offshore drilling unit 50 miles off the Louisiana coast triggered the largest marine oil spill in history, releasing 134m gallons of oil i",
+    "description": "New study reveals dramatic population drops in fish, cephalopods and more after Deepwater Horizon disaster Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovered, according to a new study . The April 2010 explosion of an offshore drilling unit 50 miles off the Louisiana coast triggered the largest marine oil spill in history, releasing 134m gallons of oil in",
     "link": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
     "thumbnail": "https://i.guim.co.uk/img/media/06d6648ebcb5d32f8276d2ee1f6831bc4f7d64f5/336_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=0c381d2a7e133ab057d560de6405a03f",
     "pubDate": "2026-10-22T12:00:44+00:00",
@@ -9862,14 +10638,6 @@
     "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9K213_L.jpg",
     "pubDate": "2026-10-21T21:12:44+00:00",
     "category": "finance"
-  },
-  {
-    "title": "The iPhone Duo Will Run iOS 27.1 at Launch on Friday",
-    "description": "Apple said update has features built specifically for the new iPhone design.",
-    "link": "https://www.cnet.com/tech/mobile/apple-iphone-duo-ios-27-1",
-    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo.png",
-    "pubDate": "2026-10-21T21:09:45+00:00",
-    "category": "technology"
   },
   {
     "title": "Rice strikes to earn Arsenal draw at Bayern",
@@ -23230,773 +23998,5 @@
     "thumbnail": "",
     "pubDate": "2026-10-19T12:58:03+00:00",
     "category": "finance"
-  },
-  {
-    "title": "How Did Life Arise? Three Turning Points in Early Evolution",
-    "description": "Where did it start? How did it grow complex? Why did it get big? Three moments in Earth’s early history when evolution suddenly, inexplicably turned up the dial.",
-    "link": "https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/19/multimedia/19SCI-UNKNOWNS-ORIGINS-top-gbkw/19SCI-UNKNOWNS-ORIGINS-top-gbkw-mediumSquareAt3X-v2.jpg",
-    "pubDate": "2026-10-19T12:56:26+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-    "description": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
-    "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:56:14+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Richard Heart Fallout? HEX Tanks 60% as PulseX and PLS Suffer Heavy Losses",
-    "description": "Richard Heart’s reported detention in Istanbul sent HEX, PulseX and PLS sharply lower, highlighting founder risk without proving protocol failure. The post Richard Heart Fallout? HEX Tanks 60% as PulseX and PLS Suffer Heavy Losses appeared first on Cryptonews .",
-    "link": "https://cryptonews.com/news/richard-heart-token-fall-hex-plsx-pls-crypto",
-    "thumbnail": "https://cryptonews.com/wp-content/uploads/2026/10/1792410946-screenshot-2026-10-19-at-6-55-19pm.jpg",
-    "pubDate": "2026-10-19T12:56:00+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
-    "description": "The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order.",
-    "link": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-france-right-assess-jclh/19int-france-right-assess-jclh-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-19T12:55:13+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Home sellers cut asking prices on 3,000 properties a day",
-    "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-    "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f3e/live/90ae7a90-cb97-11f1-9a39-31b474234113.jpg",
-    "pubDate": "2026-10-19T12:54:03+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
-    "description": "Local authorities say armed group launched ballistic missiles at camp in southern governorate during training exercise.",
-    "link": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:51:46+00:00",
-    "category": "world"
-  },
-  {
-    "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-    "description": "The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing. The company announced it would commit the shares, worth around $48bn (£36bn) at its latest valuation in May, subject to shareholder approval",
-    "link": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
-    "thumbnail": "https://i.guim.co.uk/img/media/2790d74966de266025ee31e1975f1f2ce9024d36/387_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=16ba666f47897a1a79435713e2ff8af3",
-    "pubDate": "2026-10-19T12:51:04+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "6 unexpected uses for your old PlayStation 3",
-    "description": "The PlayStation 3 arrived in 2006 and shouldn't have any right finding a place in a modern media center. Here's a number of reasons why it should make a return.",
-    "link": "https://www.engadget.com/2287344/unexpected-uses-old-playstation-3",
-    "thumbnail": "https://www.engadget.com/img/gallery/6-unexpected-uses-for-your-old-playstation-3/l-intro-1792057635.jpg",
-    "pubDate": "2026-10-19T12:45:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-    "description": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
-    "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:42:55+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
-    "description": "President Volodymyr Zelensky said he didn’t want to believe that Washington wanted an end to the war at Ukraine’s expense. “But that’s how it looks,” he added.",
-    "link": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-zelensky-trump-01-kwtp/19int-zelensky-trump-01-kwtp-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-19T12:39:50+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Democrats think cracking down on AI could give them an edge",
-    "description": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]",
-    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:37:05+00:00",
-    "category": "ai"
-  },
-  {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-    "description": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/106310265-1577120438176gettyimages-488164285.jpeg?v=1765554150&w=1920&h=1080",
-    "pubDate": "2026-10-19T12:34:01+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "DIY VR: How to build your own headset, and why you probably won't want to",
-    "description": "A primer on the joys and pains of building your own head-mounted display.",
-    "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DIY-VR-header-1152x648.jpg",
-    "pubDate": "2026-10-19T12:33:34+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-    "description": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
-    "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:33:07+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "The night watch: Palestinians protecting their homes from settler pogroms",
-    "description": "Palestinians in the occupied West Bank are organising to protect themselves from settler attacks.",
-    "link": "https://www.aljazeera.com/features/2026/10/19/the-night-watch-palestinians-protecting-their-homes-from-settler-pogroms",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:30:22+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:30:00+00:00",
-    "category": "ai"
-  },
-  {
-    "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
-    "description": "Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC shares and boosted its preferred stock buyback program to $3 billion.",
-    "link": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31XS0NMWAFA2WAAJKR59VQ7/hi-strategyb-buys-bitcoin-1.jpg",
-    "pubDate": "2026-10-19T12:30:00+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
-    "description": "Wyze announced a new version of its Ultra BodyScan smart scale that debuted nearly a year ago with additional electrodes on a retractable handle, allowing it to provide a breakdown of various health metrics across your arms, legs, and torso. With the new Ultra BodyScan Plus, Wyze is introducing a redesign that moves the scale's […]",
-    "link": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:29:09+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
-    "description": "Analysis of map coordinates and timelines raises doubts over official Israeli accounts of West Bank settler pogrom.",
-    "link": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:28:27+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
-    "description": "The original “Black Monday” occurred 39 years ago today. Is history about to repeat itself?",
-    "link": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
-    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
-    "pubDate": "2026-10-19T12:19:39+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-    "description": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
-    "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/18b8027bca92c296bd2b336e8381bbcab4d923e3-2981x1677.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-10-19T12:16:58+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "What's the point of the 2.5G Ethernet port on your router?",
-    "description": "Most routers have several 1 Gbps ports, but yours might have one or more 2.5 Gbps options that are great for speeding up compatible devices.",
-    "link": "https://www.engadget.com/2287123/ethernet-2-5-g-port-router-what-it-does",
-    "thumbnail": "https://www.engadget.com/img/gallery/whats-the-point-of-the-2-5g-ethernet-port-on-your-router/l-intro-1792014156.jpg",
-    "pubDate": "2026-10-19T12:15:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
-    "description": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
-    "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e12d/live/c8077f90-cbc0-11f1-bc2e-018d645d8d21.jpg",
-    "pubDate": "2026-10-19T12:12:02+00:00",
-    "category": "world"
-  },
-  {
-    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,…",
-    "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T12:10:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "‘Terrifying Precedent’: Dutch Hand US Data From Seized Anti-Fascist Server",
-    "description": "Police seized the Autistici/Inventati server under a 1981 treaty after the U.S. designated the Italian activist group “global terrorists.”",
-    "link": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server",
-    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
-    "pubDate": "2026-10-19T12:07:46+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Brook says he has 'learned a lot' from off-field issues",
-    "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef54/live/0ab15d60-cbae-11f1-9a39-31b474234113.jpg",
-    "pubDate": "2026-10-19T12:00:54+00:00",
-    "category": "world"
-  },
-  {
-    "title": "NBA Arenas Get a Massive AT&T Network Upgrade to Boost Fan Experiences",
-    "description": "Exclusive: Basketball venues are facing increasing broadcaster and fan demands, so the NBA, WNBA and AT&T are upgrading arenas with all-new communications equipment.",
-    "link": "https://www.cnet.com/culture/sports/nba-wnba-att-network-upgrade",
-    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/nba-command-center-02550-2.jpg",
-    "pubDate": "2026-10-19T12:00:01+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Sam Altman’s Worldcoin: How VanEck, MrBeast, and Wall Street Capitalize on Exploited Biometrics",
-    "description": "Sam Altman Worldcoin targets banks after paying people to scan their eyes. Was the bargain ever fair to participants and token holders? The post Sam Altman’s Worldcoin: How VanEck, MrBeast, and Wall Street Capitalize on Exploited Biometrics appeared first on Cryptonews .",
-    "link": "https://cryptonews.com/news/sam-altman-worldcoin-banks-exploitative",
-    "thumbnail": "https://cryptonews.com/wp-content/uploads/2026/10/1792405382-screenshot-2026-10-19-at-5-22-16pm.jpg",
-    "pubDate": "2026-10-19T12:00:00+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-    "description": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
-    "link": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59YSQ28A26ADD8VD1ZH7KKN/usd1.png",
-    "pubDate": "2026-10-19T11:57:58+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Qatar to unveil regional defence partnership",
-    "description": "Qatar to unveil regional defence partnership",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T11:51:01+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Anthropic’s I.P.O. Charity",
-    "description": "The artificial intelligence giant plans to contribute 5 percent of its stock into a philanthropic fund. But its generosity depends on the A.I. boom continuing.",
-    "link": "https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/19/multimedia/19db-anthropic-bjft/19db-anthropic-bjft-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-19T11:47:58+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Personal attacks fire up debate before Brazil's run-off vote",
-    "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-    "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/fbd9f9b0-cb98-11f1-93a7-b36f3083f4d3.jpg",
-    "pubDate": "2026-10-19T11:41:24+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
-    "description": "Bain Capital, VanEck and Pantera Capital are among design partners for the offering, which also lets users delegate proofs to AI agents.",
-    "link": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk",
-    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/world-worldcoin-wld-orb-decrypt-style-1-gID_7.jpg@png",
-    "pubDate": "2026-10-19T11:40:40+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-    "description": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
-    "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T11:38:43+00:00",
-    "category": "world"
-  },
-  {
-    "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
-    "description": "In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn't been tough enough.",
-    "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T11:35:52+00:00",
-    "category": "world"
-  },
-  {
-    "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
-    "description": "ESMA’s latest MiCA register update includes BingX, YouHodler and Banco Santander’s Openbank, bringing the total to 375 unique CASPs.",
-    "link": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59PRYYJ0CH73MJP40F9FCA9/news-crypto-studio-mica-eu-1.jpg",
-    "pubDate": "2026-10-19T11:32:00+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
-    "description": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.",
-    "link": "https://www.wired.com/story/nathan-fielder-tells-us-everything",
-    "thumbnail": "https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg",
-    "pubDate": "2026-10-19T11:30:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Even Realities G2 review: Smart glasses, stupid controls",
-    "description": "Even Realities makes one of the best smart glasses on the market, but controlling its growing feature set is harder than it should be.",
-    "link": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review",
-    "thumbnail": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/l-intro-1792155926.jpg",
-    "pubDate": "2026-10-19T11:30:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Italy plans tougher security measures after violent protests",
-    "description": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/3cdb5c00-cba4-11f1-9ee2-f74dfb8e54e5.jpg",
-    "pubDate": "2026-10-19T11:23:36+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Ethereum Price Prediction: JPMorgan Brings Wall Street Closer to ETH",
-    "description": "JPMorgan’s Ethereum deposit-token launch adds an institutional use case as ETH tests resistance near $2,448 and traders watch $2,600. The post Ethereum Price Prediction: JPMorgan Brings Wall Street Closer to ETH appeared first on Cryptonews .",
-    "link": "https://cryptonews.com/news/ethereum-price-prediction-jpmorgan-brings-wall-street",
-    "thumbnail": "https://cryptonews.com/wp-content/uploads/2026/08/ethereum-price-glamsterdam-test.webp",
-    "pubDate": "2026-10-19T11:16:27+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-    "description": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.",
-    "link": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T11:15:43+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-    "description": "Your day-ahead look for Oct. 19, 2026",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/9d7dc01ea956e60442b048c18dfb2d650f3d09fe-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-10-19T11:15:00+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "How Penélope Cruz Masterminded One of the Most Versatile Careers in Hollywood",
-    "description": "As a young actor, she was determined to avoid being typecast as a “sex bomb.” Thirty years later, she’s in total control of the women she plays.",
-    "link": "https://www.nytimes.com/2026/10/19/magazine/penelope-cruz-acting-career.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-cruz-02/01mag-cruz-02-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-19T11:14:52+00:00",
-    "category": "world"
-  },
-  {
-    "title": "‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
-    "description": "Anthony Albanese says his thoughts are with Indi MP after arrest of driver in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? What we know so far Get our new political email , free app or daily news podcast The independent MP Helen Haines has been critically injured in an alleged attack involving a vehicle outside her electorate office in Wangaratta, in regional Victoria. The prime minister, Anthony Albanese, conf",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
-    "thumbnail": "https://i.guim.co.uk/img/media/af7a18145b9b3f25efba897270d22f65cd9071a9/879_228_2007_1605/master/2007.jpg?width=140&quality=85&auto=format&fit=max&s=179722cbcc82954c39188c1372ae6e88",
-    "pubDate": "2026-10-19T11:10:09+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
-    "description": "Indonesia battles worst forest fires and toxic haze in 11 years",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T11:05:57+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-    "description": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount.",
-    "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T11:05:54+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-    "description": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
-    "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Sceye-ST1-Launch-from-outside-1152x648.jpg",
-    "pubDate": "2026-10-19T11:05:49+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class-action suit",
-    "description": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’ Workers at a HelloFresh facility in Newark, New Jersey , have claimed in court documents that they were verbally and physically abused and denied regular bathroom breaks, with one former worker telling the Guardian he experienced incontinence issues as a result. The newly proposed amended complaint comes in a class-action lawsuit",
-    "link": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
-    "thumbnail": "https://i.guim.co.uk/img/media/0552c296f7bf3a94eaffdf63946659ebf425abc4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=7cd11514cc52d1e8c59f3c92c250e080",
-    "pubDate": "2026-10-19T11:00:55+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look",
-    "description": "Layers of people certify that gold is free from rights abuses and criminality. Nobody makes them leave their desks.",
-    "link": "https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/16/multimedia/00int-dirty-gold-takeaways-1-tpvl/00int-dirty-gold-takeaways-1-tpvl-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-19T10:59:55+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Spotify’s new podcast memberships let you pay for extra perks",
-    "description": "Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, […]",
-    "link": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
-    "thumbnail": "",
-    "pubDate": "2026-10-19T10:50:06+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Premier ‘deeply appalled’ after Indi MP Haines injured – as it happened",
-    "description": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament What we know so far Get our new political email , free app or daily news podcast ‘No ongoing threat to community’: Victoria police Mason tells journalists there is “nothing to indicate at this stage” that the two parties are known to each other, but police are sti",
-    "link": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
-    "thumbnail": "https://i.guim.co.uk/img/media/d3c06ff51861fd776fd4f0b94d461ddd7f5bfc1d/1352_0_6027_4822/master/6027.jpg?width=140&quality=85&auto=format&fit=max&s=058086dfe841acb3960287787a0823ba",
-    "pubDate": "2026-10-19T10:44:09+00:00",
-    "category": "world"
-  },
-  {
-    "title": "A Bad Combination",
-    "description": "We take a look at the human face of America’s utility bill crisis.",
-    "link": "https://www.nytimes.com/2026/10/19/briefing/utility-bills.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/18/multimedia/19themorning-nl-OKC2/19themorning-nl-OKC2-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-19T10:38:38+00:00",
-    "category": "world"
-  },
-  {
-    "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
-    "description": "The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.",
-    "link": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
-    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png@png",
-    "pubDate": "2026-10-19T10:31:09+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "How the Xbox’s Disc-to-Digital Program Works",
-    "description": "Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.",
-    "link": "https://www.wired.com/story/xbox-disc-to-digital",
-    "thumbnail": "https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg",
-    "pubDate": "2026-10-19T10:30:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories",
-    "description": "In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.",
-    "link": "https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories",
-    "thumbnail": "https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg",
-    "pubDate": "2026-10-19T10:30:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-    "description": "Bitcoin rose 0.8% to around $82,700 as China’s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains.",
-    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/28283ebba4d1a7241694e2613ffbdcd1d9845ea2-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-10-19T10:26:33+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
-    "description": "France’s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration.",
-    "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59SSVV6QT83TT37RVGQG9M0/hi-what-can-other-algorithmic-stablecoins-learn-for-tougher-limits-france.jpg",
-    "pubDate": "2026-10-19T10:22:30+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Xbox Game Pass Is Losing 8 More Games In October",
-    "description": "It's that time of month when Xbox updates the Game Pass library, and, as usual, a few more games are leaving the subscription service in a few weeks. On October 31, you can say goodbye to 8 more games, including a few LucasArts classics, a diggy-diggy blast of co-op fun, and one of the biggest Lego Star Wars games of all time. With Double Fine no longer part of the Xbox Game Studios family, it looks like two of the studio's best remaste",
-    "link": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-october",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1595/15950357/3688648-lego%20star%20wars.jpg?w=300",
-    "pubDate": "2026-10-19T10:22:22+00:00",
-    "category": "games"
-  },
-  {
-    "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
-    "description": "Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week’s losses.",
-    "link": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg",
-    "pubDate": "2026-10-19T10:20:00+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-    "description": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
-    "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
-    "thumbnail": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
-    "pubDate": "2026-10-19T10:11:21+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "England manager Wiegman signs contract extension",
-    "description": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/75035850-cba2-11f1-9ee2-f74dfb8e54e5.jpg",
-    "pubDate": "2026-10-19T10:08:01+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
-    "description": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hur",
-    "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
-    "thumbnail": "https://i.guim.co.uk/img/media/70eac97d7dd3289ac3b0e22b1638ee5d18d2b9fa/733_0_5413_4333/master/5413.jpg?width=140&quality=85&auto=format&fit=max&s=226623feb468484203ad6ae55e796a05",
-    "pubDate": "2026-10-19T10:07:09+00:00",
-    "category": "world"
-  },
-  {
-    "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-    "description": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
-    "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/3f6583d261d45cb78f830c786e9a0cf1931cdc32-4000x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-10-19T10:03:47+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "One of 2026's Best Horror Movies Is Officially Headed to Netflix Soon",
-    "description": "Curry Barker's box office horror hit, Obsession, is coming to Netflix this November.",
-    "link": "https://www.polygon.com/obsession-netflix-streaming-release-date",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bear-obsession.jpg",
-    "pubDate": "2026-10-19T10:00:32+00:00",
-    "category": "games"
-  },
-  {
-    "title": "28 Years Ago, a Near-Perfect Zombie Thriller Resurrected a Beloved Franchise From the Dead",
-    "description": "What makes a perfect zombie film is subjective, but this 1998 Warner Bros. classic may have settled that classic debate.",
-    "link": "https://www.polygon.com/scooby-doo-zombie-thriller-halloween",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/scooby-doo.jpg",
-    "pubDate": "2026-10-19T10:00:18+00:00",
-    "category": "games"
-  },
-  {
-    "title": "Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market",
-    "description": "Plus, the search for “superhabitable” planets.",
-    "link": "https://www.nytimes.com/2026/10/19/podcasts/the-headlines/israel-elections-gold-global-market.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/19/multimedia/19headlines-audio-promo-gbqt/19headlines-audio-promo-gbqt-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-19T10:00:08+00:00",
-    "category": "world"
-  },
-  {
-    "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-    "description": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imagery In December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high school was making AI-generated pornographic material using the daughter’s image. He was using an artificial intelligence image-editing app called Movely to create sexual videos fro",
-    "link": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
-    "thumbnail": "https://i.guim.co.uk/img/media/1b5ce85190e6d89e4db3acb2c4d28f253a101ac3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c420bb546a20a703516798696d6332b8",
-    "pubDate": "2026-10-19T10:00:05+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "We must tax the wealth of billionaires, not just income. California can lead the way | Ro Khanna",
-    "description": "Will California stand with the working class or the oligarchs in the vote this November? The Democratic party has a choice to make. Are we going to be New Deal Democrats or corporate Democrats? Are we standing with the working class or the tech oligarchs? Proposition 40, California’s billionaire tax, is the most important ballot initiative in America and a fight for the soul of our party. Rohit Khanna is aUS congressman and attorney ser",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california",
-    "thumbnail": "https://i.guim.co.uk/img/media/2629e359cb7d8edb68029571b27eb8bb7a602a90/491_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ee8e212fe48c8f3b97dbab2b28d6cbb5",
-    "pubDate": "2026-10-19T10:00:05+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "The Story of Billy Evans and ‘Theranos 2.0’",
-    "description": "Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?",
-    "link": "https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20",
-    "thumbnail": "https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg",
-    "pubDate": "2026-10-19T10:00:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "How Elizabeth Holmes Tricked WIRED—and Everyone Else",
-    "description": "WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.",
-    "link": "https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else",
-    "thumbnail": "https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg",
-    "pubDate": "2026-10-19T10:00:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Broiled Salmon Teriyaki",
-    "description": "A fam-favorite, 30-minute dinner we have on repeat.",
-    "link": "https://www.bonappetit.com/recipe/broiled-salmon-teriyaki",
-    "thumbnail": "https://assets.bonappetit.com/photos/6a9b4bf5b7adec1f83b3f652/master/pass/teriyaki-salmon_RECIPE_V1_090326_6235_VOG_final.jpg",
-    "pubDate": "2026-10-19T10:00:00+00:00",
-    "category": "food"
-  },
-  {
-    "title": "China’s central bank studies making overnight rate its main policy rate",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/chinas-central-bank-studies-making-overnight-rate-its-main-policy-rate-4956792",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0OJ_L.jpg",
-    "pubDate": "2026-10-19T09:54:51+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
-    "description": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famine This winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food Programme (WFP) to end support for more than half a million people each month, the agency’s director for Palestine said. More than a year after a Trump-brokered ceasefire came into force, promised reconstruction has no",
-    "link": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
-    "thumbnail": "https://i.guim.co.uk/img/media/472565e869a7fe663310c8d89eaa99c64de9b14c/956_535_4931_3945/master/4931.jpg?width=140&quality=85&auto=format&fit=max&s=fa666245cafaa1e90596f1f61ab56761",
-    "pubDate": "2026-10-19T09:54:33+00:00",
-    "category": "world"
-  },
-  {
-    "title": "MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch",
-    "description": "BTC exchange deposits linked to MARA moved 1,000 BTC worth $82.8 million, but on-chain data does not confirm a sale. Sale speculation persists. The post MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch appeared first on Cryptonews .",
-    "link": "https://cryptonews.com/news/btc-exchange-deposits-mara-bitcoin-selling",
-    "thumbnail": "https://cryptonews.com/wp-content/uploads/2024/05/1715313490-1715309679684_processed.jpg",
-    "pubDate": "2026-10-19T09:54:22+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "People playing loud music on buses could face £100 fine",
-    "description": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-    "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/9c756160-cb95-11f1-a64c-550be9e3c66b.jpg",
-    "pubDate": "2026-10-19T09:49:58+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "What are the new faces coming to UK bank notes?",
-    "description": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
-    "link": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d1/live/4fb6c520-cba0-11f1-bc2e-018d645d8d21.jpg",
-    "pubDate": "2026-10-19T09:48:35+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
-    "description": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0melgpre23o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb1f/live/137139a0-cb47-11f1-95cf-bdf5fa1b56da.jpg",
-    "pubDate": "2026-10-19T09:39:21+00:00",
-    "category": "world"
-  },
-  {
-    "title": "15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
-    "description": "Bring the gift everyone will want to win from this year’s holiday party, from a cute jacket for a beer can to magnets they’ll wish they could eat.",
-    "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2026",
-    "thumbnail": "https://media.wired.com/photos/6ad4cf4d095df99b382d7bff/master/pass/White%20Elephant%20Gifts%20You%E2%80%99d%20Actually%20Want%20to%20Open%20102026%20top%20art%20SOURCE%20PopSockets-Verloop-Chronicle%20Books.jpg",
-    "pubDate": "2026-10-19T09:39:00+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Musk and Anthropic pledge public share giveaways",
-    "description": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075f/live/77a0d170-cba0-11f1-9ee2-f74dfb8e54e5.jpg",
-    "pubDate": "2026-10-19T09:38:25+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-    "description": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
-    "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-10-19T09:32:38+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Pregnant women face workplace hostility and ‘sham redundancies’, Australian human rights report finds",
-    "description": "Sex discrimination commissioner says too often ‘it’s the woman who has the burden of bringing a complaint’ in parental discrimination cases Get our new political email , free app or daily news podcast Women are being forced out of employment through “sham redundancies”, losing shifts and facing hostile work environments after having a baby, according to a report by the Australian Human Rights Commission , which warns parental discrimina",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/19/pregnant-women-being-forced-out-of-employment-through-sham-redundancies-australian-human-rights-report-finds",
-    "thumbnail": "https://i.guim.co.uk/img/media/8596620321d59172498cbc2955b31cd5fd26f154/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ff6700c9e5643a7eb4252d0021f98e3c",
-    "pubDate": "2026-10-19T09:30:03+00:00",
-    "category": "world"
-  },
-  {
-    "title": "China’s economy grows faster than forecast after AI boom boosts exports",
-    "description": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up",
-    "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-    "thumbnail": "https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=140&quality=85&auto=format&fit=max&s=ff640566f6eec2c8677076e94db84d22",
-    "pubDate": "2026-10-19T09:27:04+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Hong Kong regulator sees rise in listing of young growth firms",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/hong-kong-regulator-sees-rise-in-listing-of-young-growth-firms-4956745",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0PO_L.jpg",
-    "pubDate": "2026-10-19T09:24:25+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-    "description": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks. The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the…",
-    "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon",
-    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/h_00000221444739-e1792169743670.jpg?resize=1200,600",
-    "pubDate": "2026-10-19T09:22:17+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
-    "description": "Four Gemini 4 Argon agents beat Minecraft's Ender Dragon with no human intervention by sharing tips, threats and mistakes.",
-    "link": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention",
-    "thumbnail": "https://www.engadget.com/img/gallery/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/l-intro-1792401444.jpg",
-    "pubDate": "2026-10-19T09:19:19+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
-    "description": "Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.",
-    "link": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-11.39.31-AM-copy-1792399284.jpg?resize=1920%2C1440",
-    "pubDate": "2026-10-19T09:18:24+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Is the UK energy shock yet to hit the economy? UBS warns of risks",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/is-the-uk-energy-shock-yet-to-hit-the-economy-ubs-warns-of-risks-4956736",
-    "thumbnail": "https://content-media.investing.com/news/LYNXMPEM37199_1200_L.jpg",
-    "pubDate": "2026-10-19T09:16:52+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
-    "description": "The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.",
-    "link": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-f16-plfv/14int-ukraine-f16-plfv-mediumSquareAt3X.jpg",
-    "pubDate": "2026-10-19T09:15:28+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-    "description": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s.",
-    "link": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-10-19T09:15:00+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-    "description": "Your look at what's coming in the week starting Oct. 19.",
-    "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/b119fde813835a73b12fcb4cb0e3a811abe61149-1500x1021.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-10-19T09:12:39+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "How a grass fire at a Canadian military base killed four soldiers",
-    "description": "Cause of grass fire remains unknown as PM Carney calls it one of the worst peacetime tragedies for Canadian military.",
-    "link": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad5cd888509-1792396680.jpg?resize=1920%2C1331",
-    "pubDate": "2026-10-19T09:12:31+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Five things to watch in markets in the week ahead",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/five-things-to-watch-in-markets-in-the-week-ahead-4956730",
-    "thumbnail": "https://content-media.investing.com/news/moved_LYNXMPEM721DY_1200_L.jpg",
-    "pubDate": "2026-10-19T09:11:45+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-    "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3478/live/aeec8b30-c4d2-11f1-b8e5-dd3682886df5.png",
-    "pubDate": "2026-10-19T09:11:42+00:00",
-    "category": "world"
-  },
-  {
-    "title": "More than half of UK first-time buyers paying more for mortgage than they did for rent",
-    "description": "Hamptons says figure of 56% is highest in at least a decade, with mortgage rates rising since start of Iran war A majority of first-time UK buyers now pay more towards their monthly mortgage bills than they used to pay in rent, the estate agent Hamptons has found. Last month 56% of first-time buyers said their monthly mortgage bills exceeded their previous rent, the highest proportion in at least a decade, according to Hamptons. They pa",
-    "link": "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent",
-    "thumbnail": "https://i.guim.co.uk/img/media/052beff0318e5412b88e4776329248d1617f4d1b/100_37_4490_3591/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=1ade78f485452feaf5874fd7c34ad4ae",
-    "pubDate": "2026-10-19T09:10:41+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
-    "description": "Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhere There is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo, in western Japan, was carrying a giant",
-    "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
-    "thumbnail": "https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=140&quality=85&auto=format&fit=max&s=041bad95b09a97eb1df97fbe1d15a632",
-    "pubDate": "2026-10-19T09:08:34+00:00",
-    "category": "world"
-  },
-  {
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "description": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
-    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
-    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-    "pubDate": "2026-10-19T09:08:05+00:00",
-    "category": "technology"
   }
 ]
