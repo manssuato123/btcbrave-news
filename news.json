@@ -1,5 +1,669 @@
 [
   {
+    "title": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
+    "description": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House.",
+    "link": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/20/multimedia/20cli-permitting-senate-HFO2-qlhz/20cli-permitting-senate-HFO2-qlhz-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T04:16:42+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Amid Outcry, Army Delays its Plan to Blow Up Toxic Ammunition in Iowa",
+    "description": "The Army had planned to detonate a cache of dangerous explosives on Friday, potentially creating a plume of toxic lead dust stretching for 60 miles. The explosion is now set for Monday.",
+    "link": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/18/multimedia/00CLI-LEAD-EXPLOSION-vfpg/00CLI-LEAD-EXPLOSION-vfpg-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T04:08:12+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+    "description": "Advocates raised concerns about the Tim Horton’s app and consumer privacy and data-sharing.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795147339.jpg?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-11-20T04:05:17+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+    "description": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+    "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108251945-1768333647231-gettyimages-2256116889-dji_20260113072220_0857_d_cxyqgr0q.jpeg?v=1795128651&w=1920&h=1080",
+    "pubDate": "2026-11-20T03:56:17+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
+    "description": "The Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republican, lost narrowly in his bid for re-election. Critics had called the suit meritless.",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-alaska-suit-tkqp/19pol-alaska-suit-tkqp-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T03:47:05+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+    "description": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+    "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
+    "pubDate": "2026-11-20T03:38:07+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+    "description": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
+    "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
+    "pubDate": "2026-11-20T03:33:22+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+    "description": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average.",
+    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fb21374687550e965340d083e61b5214aabddd3c-2182x1213.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "pubDate": "2026-11-20T03:32:30+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Top White House Cybersecurity Official Is Replaced",
+    "description": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T03:31:41+00:00",
+    "category": "world"
+  },
+  {
+    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+    "description": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+    "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
+    "pubDate": "2026-11-20T03:30:34+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+    "description": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D8394LN__v1__HighRes__ColombiaPoliticsTaxProtest-1795139757.jpg?resize=1920%2C1440",
+    "pubDate": "2026-11-20T03:26:23+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
+    "description": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.",
+    "link": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-1/19xp-fiona-1-mediumSquareAt3X-v2.jpg",
+    "pubDate": "2026-11-20T03:25:05+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+    "description": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6affa1dfbe0b-1795138015.jpg?resize=1920%2C1440",
+    "pubDate": "2026-11-20T03:24:49+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Asian shares head for worst week since 2020 as AI rout deepens",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ045_L.jpg",
+    "pubDate": "2026-11-20T03:24:35+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+    "description": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no avail Fiona the hippo, one of America’s most famous zoo animals, has died after efforts to remove a knitted hat that she swallowed after it fell into her enclosure proved unsuccessful. “It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets",
+    "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+    "thumbnail": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8",
+    "pubDate": "2026-11-20T03:05:59+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Is it time to change the UK age of consent? – podcast",
+    "description": "After Russell Brand’s conviction and accusations against David Walliams, campaigners are calling for a staggered age of consent. Nosheen Iqbal speaks to the columnist Polly Hudson and the educator Michael Conroy about what needs to change Send your comments and questions to tif.questions@theguardian.com Anger, disgust, shame. In the last couple of weeks, as news of famous older men being convicted and accused of crimes against very youn",
+    "link": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
+    "thumbnail": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/279_0_2743_2194/master/2743.jpg?width=140&quality=85&auto=format&fit=max&s=2fde40fab665284f26134b498c504f71",
+    "pubDate": "2026-11-20T03:00:19+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened",
+    "description": "This live blog is now closed. Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the New York Times. The Times reports that employees at the NSA’s Maryland headquarters are under “code or",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+    "thumbnail": "https://i.guim.co.uk/img/media/54a728ed2e975155848c4f3d8c0cb7d40a67f7c8/363_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=648414a471444d167dded33dcc654c66",
+    "pubDate": "2026-11-20T02:58:52+00:00",
+    "category": "world"
+  },
+  {
+    "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+    "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
+    "pubDate": "2026-11-20T02:54:40+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+    "description": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+    "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26230077681365-1795137729_4d634f-1795140801.jpg?resize=1200%2C630&quality=80",
+    "pubDate": "2026-11-20T02:54:22+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Hippo Fiona dies days after swallowing visitor’s hat",
+    "description": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-FIONA-1795143033.png?resize=1920%2C1080&quality=80",
+    "pubDate": "2026-11-20T02:51:44+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
+    "description": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administered Texas executed Reinaldo Dennes on Thursday in a procedure that took over an hour as prison staffers struggled to find a suitable vein for the two intravenous needles carrying a lethal dose of pentobarbital, a sedative. Dennes, who was found guilty of capital murder in the death of Janos Szucs, a diamond dealer found shot",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+    "thumbnail": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706",
+    "pubDate": "2026-11-20T02:50:29+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Judge Allows Trump’s $15 Billion Case Against The Times to Proceed",
+    "description": "Mr. Trump accused the news organization and the book publisher Penguin Random House of disparaging his reputation as a successful businessman.",
+    "link": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T02:48:52+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
+    "description": "Gregory Jensen, a hedge-fund billionaire, invested early in Anthropic and OpenAI. But to fund a succession plan at his firm, he told colleagues that he sold his OpenAI stake.",
+    "link": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T02:44:43+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
+    "description": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan In a legal filing on Thursday, the Trump administration asked a federal appeals court to dismiss the lawsuit it filed before the midterm elections seeking to block the certification of the US Senate race in Alaska should Democrat Mary Peltola win. The legal challenge centered around the presence on the ballot of a second candidate",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
+    "thumbnail": "https://i.guim.co.uk/img/media/137c92397a23570d7587a4de4e41c0a66edf7caf/461_0_4610_3688/master/4610.jpg?width=140&quality=85&auto=format&fit=max&s=a0291bc53b201f1b3b538ecb36f5dd22",
+    "pubDate": "2026-11-20T02:43:33+00:00",
+    "category": "world"
+  },
+  {
+    "title": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
+    "description": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "pubDate": "2026-11-20T02:40:49+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+    "description": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
+    "link": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo",
+    "thumbnail": "https://media.wired.com/photos/6aff6de3747e1608ed3c9a9a/master/pass/RIP-Fiona-the-Hippo-Business-1230298782.jpg",
+    "pubDate": "2026-11-20T02:39:47+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+    "description": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the public health risks. The army was set to blow up about 5 tons of lead azide in Middletown, Iowa, at noon on Friday, a move it described as the safest way to dispose of the highly sensitive compound.",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+    "thumbnail": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=badb0991f687de78267f9b4ae0eb9338",
+    "pubDate": "2026-11-20T02:30:10+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+    "description": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795141505.jpg?resize=1620%2C1080&quality=80",
+    "pubDate": "2026-11-20T02:25:33+00:00",
+    "category": "world"
+  },
+  {
+    "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
+    "description": "A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes.",
+    "link": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/20/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
+    "pubDate": "2026-11-20T02:23:28+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Delaware Regulator Says It Was ‘Misled’ About Mark Walter’s Insurance Assets",
+    "description": "The state’s insurance agency rejected criticism of its oversight of Mr. Walter’s insurance firms that has been raised by some industry analysts.",
+    "link": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-delaware-insurance-wgcv/19biz-delaware-insurance-wgcv-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T02:13:05+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+    "description": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T02:10:57+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+    "description": "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah Get our breaking news email , free app or daily news podcast Right now, the prime minister faces a choice. Does he stand with Jimmy Barnes and the Working Class Man or does he stand with Big AI? This week, some of the biggest names in Australian music, publishing, journalism and art have th",
+    "link": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
+    "thumbnail": "https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=140&quality=85&auto=format&fit=max&s=ec31418de2ee6aa3a2433d6d06ad0d05",
+    "pubDate": "2026-11-20T02:00:18+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
+    "description": "The recent spate of tech disruptions has forced Americans to reckon with how dependent they have become on worldwide computer networks.",
+    "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T01:52:38+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "description": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108555014-1795079642832-gettyimages-2215845730-AFP_47TW9CP.jpeg?v=1795079673&w=1920&h=1080",
+    "pubDate": "2026-11-20T01:49:03+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Dollar near 19-month peak as AI jitters sap risk appetite",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/dollar-near-19month-peak-as-ai-jitters-sap-risk-appetite-5040494",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ048_L.jpg",
+    "pubDate": "2026-11-20T01:48:28+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
+    "description": "The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent.",
+    "link": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T01:44:36+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Does our ethnicity change how we experience dying?",
+    "description": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
+    "link": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/eeca2fc0-e2b2-11f1-8226-87dfa5049e9a.jpg",
+    "pubDate": "2026-11-20T01:29:43+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+    "description": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affa5c2-1795139010.jpg?resize=1920%2C1440",
+    "pubDate": "2026-11-20T01:29:28+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+    "description": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.",
+    "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T01:13:37+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+    "description": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\".",
+    "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7d/live/acdc01e0-e467-11f1-99b6-a35a62fa4264.jpg",
+    "pubDate": "2026-11-20T01:12:45+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
+    "description": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration",
+    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP18284469601975-1795136726.jpg?resize=1920%2C1440",
+    "pubDate": "2026-11-20T01:10:06+00:00",
+    "category": "world"
+  },
+  {
+    "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+    "description": "Motorists and businesses struggle as shortages disrupt daily life.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos",
+    "thumbnail": "",
+    "pubDate": "2026-11-20T01:06:15+00:00",
+    "category": "world"
+  },
+  {
+    "title": "'The bravest woman in Britain' and 'Silence is not an option'",
+    "description": "Joanne Young, whose husband drugged and advertised her for sex online, is pictured on a number of front pages.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wr0dg9vwxo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ca/live/0bdf2d60-e478-11f1-99b6-a35a62fa4264.jpg",
+    "pubDate": "2026-11-20T01:05:29+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Tinto Brass Has Died. He Directed the Erotic Epic ‘Caligula.’",
+    "description": "“The moments of lust and desire” in his movies, he said, grew “out of the stories themselves,” transcending pornography. He was 93.",
+    "link": "https://www.nytimes.com/2026/11/19/movies/tinto-brass-dead.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19obits-brass-hqcl/19obits-brass-hqcl-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T01:01:14+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Controversial GTA 6 Easter Egg Will Annoy Millions of Gamers",
+    "description": "GTA 6 has an early moment when Jason and his friend play a physical video game. Ironically enough, that's impossible to do with GTA 6 itself.",
+    "link": "https://www.polygon.com/gta-6-physical-disc-spoof-game",
+    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-gt-6-cal-and-jaosn-playing-games-2.jpeg",
+    "pubDate": "2026-11-20T01:00:17+00:00",
+    "category": "games"
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+    "thumbnail": "",
+    "pubDate": "2026-11-20T00:56:01+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "More climate money for Africa? Europe says use what's already pledged",
+    "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+    "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg",
+    "pubDate": "2026-11-20T00:54:50+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+    "description": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+    "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+    "thumbnail": "",
+    "pubDate": "2026-11-20T00:53:55+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+    "pubDate": "2026-11-20T00:50:24+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ025_L.jpg",
+    "pubDate": "2026-11-20T00:48:23+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+    "thumbnail": "",
+    "pubDate": "2026-11-20T00:43:50+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
+    "description": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target.",
+    "link": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e693/live/c254bab0-e42d-11f1-a630-a951c13e48b7.jpg",
+    "pubDate": "2026-11-20T00:38:57+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Uber Is Testing Rides for Kids With Qualified Drivers",
+    "description": "The company is testing a ride option for children ages 10 to 12 in select cities for a limited time.",
+    "link": "https://www.cnet.com/roadshow/uber-testing-rides-for-kids",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/uber-app-GettyImages-2194086206.jpg",
+    "pubDate": "2026-11-20T00:33:42+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Haiti police say 34 gang members killed in capital raid",
+    "description": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid",
+    "thumbnail": "",
+    "pubDate": "2026-11-20T00:31:02+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models",
+    "thumbnail": "",
+    "pubDate": "2026-11-20T00:26:03+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+    "description": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
+    "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T00:25:47+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+    "description": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term",
+    "thumbnail": "",
+    "pubDate": "2026-11-20T00:22:02+00:00",
+    "category": "world"
+  },
+  {
+    "title": "The Funniest GTA 6 Memes Are Running Full Throttle",
+    "description": "Online memes and jokes about the game include cats, grocery shopping and Jensen Huang.",
+    "link": "https://www.cnet.com/tech/best-funniest-gta6-memes-jokes",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2305181227.jpg",
+    "pubDate": "2026-11-20T00:21:22+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
+    "description": "Independent National Security Legislation Monitor says reference to religion has ‘contributed to discrimination and violence against religious minorities’ Get our breaking news email , free app or daily news podcast Religion should be removed from Australia’s terrorism definition and making bomb threats should not result in life imprisonment, the country’s national security laws watchdog has said. The highly anticipated report from the",
+    "link": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb",
+    "thumbnail": "https://i.guim.co.uk/img/media/0e521678d13ec104d5165d17b3b36354293bb89d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=092af5190291bf6042a438104a374dad",
+    "pubDate": "2026-11-20T00:19:57+00:00",
+    "category": "world"
+  },
+  {
+    "title": "UK GfK consumer sentiment edges up after October slump",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/uk-gfk-consumer-sentiment-edges-up-after-october-slump-5040378",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ005_L.jpg",
+    "pubDate": "2026-11-20T00:19:18+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+    "description": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
+    "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108555288-1795100064124-gettyimages-2305893909-mms15553_6d3lb3nz.jpeg?v=1795100087&w=1920&h=1080",
+    "pubDate": "2026-11-20T00:16:30+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
+    "description": "Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus deal Get our breaking news email , free app or daily news podcast Providing nuclear-powered submarines to Australia would diminish the US navy’s own fleet for “many years”, a new report for the US Congress has cautioned, questioning whether Australian-flagged vessels could be compelled into service in a",
+    "link": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years",
+    "thumbnail": "https://i.guim.co.uk/img/media/36abe0c07983d9517697ee58dc02f807e9128811/1204_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=3548f07471c2877947f7690940747826",
+    "pubDate": "2026-11-20T00:16:29+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
+    "description": "Jen O’Malley Dillon, who led the former president’s last two White House bids, is inviting top Democratic operatives to a gathering funded in part by the megadonor Alex Soros.",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-dems-2028-cjpz/19pol-dems-2028-cjpz-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-20T00:16:06+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Why Canada is embracing AI data centres while the US pushes back",
+    "description": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d8/live/7f60e450-df9a-11f1-a9ad-6774a3284d10.png",
+    "pubDate": "2026-11-20T00:13:24+00:00",
+    "category": "world"
+  },
+  {
+    "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+    "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+    "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
+    "pubDate": "2026-11-20T00:13:21+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Apple’s Support Community Shuts Down on Friday, Removing User Discussions",
+    "description": "Even if the site was no longer very useful, it’s still sad to lose free peer support.",
+    "link": "https://www.cnet.com/tech/services-and-software/apple-support-community-shutting-down-diy-advice-dead",
+    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1235391605.jpg",
+    "pubDate": "2026-11-20T00:12:32+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Airbnb's divisive new house rules come into force",
+    "description": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg",
+    "pubDate": "2026-11-20T00:12:28+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+    "description": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge",
+    "thumbnail": "",
+    "pubDate": "2026-11-20T00:10:04+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+    "description": "What is acceptable to eat at your desk, without annoying your colleagues?",
+    "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a2/live/ef6d14f0-d93a-11f1-95ea-8df9a040b6bf.jpg",
+    "pubDate": "2026-11-20T00:08:37+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "AMD dives on short seller report of alleged China exposure",
+    "description": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+    "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108475785-1793209626528-gettyimages-2298419069-SKOREA_AMD.jpeg?v=1793209658&w=1920&h=1080",
+    "pubDate": "2026-11-20T00:08:34+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+    "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+    "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg",
+    "pubDate": "2026-11-20T00:08:22+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+    "description": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools.",
+    "link": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks",
+    "thumbnail": "https://www.engadget.com/img/gallery/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/l-intro-1795132872.jpg",
+    "pubDate": "2026-11-20T00:03:22+00:00",
+    "category": "technology"
+  },
+  {
+    "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+    "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+    "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+    "pubDate": "2026-11-20T00:02:07+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+    "description": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+    "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108556064-1795129228949-gettyimages-2305334314-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
+    "pubDate": "2026-11-20T00:00:38+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+    "description": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital",
+    "thumbnail": "",
+    "pubDate": "2026-11-19T23:58:40+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+    "description": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg",
+    "pubDate": "2026-11-19T23:57:54+00:00",
+    "category": "world"
+  },
+  {
+    "title": "How did Anthropic's stock market debut unfold?",
+    "description": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+    "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/6731c740-e478-11f1-a094-5fdc692f3e33.jpg",
+    "pubDate": "2026-11-19T23:52:25+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Trump posthumously pardons US baseball legend Pete Rose",
+    "description": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg",
+    "pubDate": "2026-11-19T23:51:50+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Japan’s core inflation accelerates in October, cementing rate hike expectations",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations-5040357",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAI2LP_L.jpg",
+    "pubDate": "2026-11-19T23:49:06+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+    "description": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.",
+    "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg",
+    "pubDate": "2026-11-19T23:44:02+00:00",
+    "category": "crypto"
+  },
+  {
+    "title": "Record profits but record outflows: ’Sell Korea’ trade stalks Seoul market",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/analysisrecord-profits-but-record-outflows-sell-korea-trade-stalks-seoul-market-5037911",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAI0LX_L.jpg",
+    "pubDate": "2026-11-19T23:43:35+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Fed’s Paulson says understanding, not guidance, drives effective communication",
+    "description": "",
+    "link": "https://www.investing.com/news/economy-news/feds-paulson-says-understanding-not-guidance-drives-effective-communication-5040341",
+    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAI2LN_L.jpg",
+    "pubDate": "2026-11-19T23:42:31+00:00",
+    "category": "finance"
+  },
+  {
+    "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+    "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg",
+    "pubDate": "2026-11-19T23:40:29+00:00",
+    "category": "world"
+  },
+  {
     "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
     "description": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
     "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones",
@@ -16,12 +680,12 @@
     "category": "finance"
   },
   {
-    "title": "Apple’s Support Community Shuts Down Tomorrow, Removing User Discussions",
-    "description": "Even if the site was no longer very useful, it’s still sad to lose free peer support.",
-    "link": "https://www.cnet.com/tech/services-and-software/apple-support-community-shutting-down-diy-advice-dead",
-    "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1235391605.jpg",
-    "pubDate": "2026-11-19T23:31:44+00:00",
-    "category": "technology"
+    "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+    "description": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to transmit a “practically unblockable” message",
+    "link": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+    "thumbnail": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=c4f4272c390dc53f69e1f5e940abdde3",
+    "pubDate": "2026-11-19T23:30:26+00:00",
+    "category": "world"
   },
   {
     "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
@@ -40,22 +704,6 @@
     "category": "technology"
   },
   {
-    "title": "Army Warns Iowa of Toxic Cloud as It Prepares to Blow Up Old Ammo",
-    "description": "Friday’s explosion will dispose of unstable material used in detonators. A plume of dangerous lead dust could travel up to 60 miles, according to the latest Army estimate.",
-    "link": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/18/multimedia/00CLI-LEAD-EXPLOSION-vfpg/00CLI-LEAD-EXPLOSION-vfpg-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T23:27:09+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
-    "description": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.",
-    "link": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-1/19xp-fiona-1-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T23:24:57+00:00",
-    "category": "world"
-  },
-  {
     "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
     "description": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
     "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
@@ -72,36 +720,20 @@
     "category": "finance"
   },
   {
-    "title": "Trump posthumously pardons US baseball legend Pete Rose",
-    "description": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-    "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg",
-    "pubDate": "2026-11-19T23:18:43+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Anthropic was supposed to save the AI trade. What went wrong?",
-    "description": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
-    "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108556064-1795129228949-gettyimages-2305334314-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
-    "pubDate": "2026-11-19T23:15:58+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Florida to carry out record-breaking 20th execution of the year",
-    "description": "State to execute man convicted of two counts of first-degree murder while Texas also plans to put a man to death Florida is set Thursday to carry out a record-breaking 20th execution of the year on a man convicted of killing a pregnant woman and her husband during a home invasion, while Texas plans to put a man to death for the killing of a Houston jeweler during a $3.6m diamond heist. Thomas Mitchell Overton, 71, was scheduled to recei",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-    "thumbnail": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706",
-    "pubDate": "2026-11-19T23:15:42+00:00",
-    "category": "world"
-  },
-  {
     "title": "Leaked images may show Motorola's answer to the iPhone Duo",
     "description": "We may have our best look yet at Motorola's upcoming foldable.",
     "link": "https://www.engadget.com/2322557/leaked-images-may-show-motorolas-answer-to-the-iphone-duo",
     "thumbnail": "https://www.engadget.com/img/gallery/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/l-intro-1795129766.jpg",
     "pubDate": "2026-11-19T23:13:40+00:00",
     "category": "technology"
+  },
+  {
+    "title": "Watch: Natasha Sarin on Anthropic’s Historic I.P.O. and What’s Next for the Markets",
+    "description": "In a live conversation, the economist Natasha Sarin discussed what a historic I.P.O. means for the markets and much more.",
+    "link": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/opinion/19opinions-sarin-image2/19opinions-sarin-image2-mediumSquareAt3X.png",
+    "pubDate": "2026-11-19T23:13:13+00:00",
+    "category": "world"
   },
   {
     "title": "Apple is hiring engineers to build its own AI agent",
@@ -128,6 +760,14 @@
     "category": "technology"
   },
   {
+    "title": "Six killed in suspected gas explosion at Georgia apartment building",
+    "description": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building",
+    "thumbnail": "",
+    "pubDate": "2026-11-19T23:09:48+00:00",
+    "category": "world"
+  },
+  {
     "title": "Valve Warns of a Possible Steam Machine Price Hike",
     "description": "As computer components get more expensive, Valve warns its Steam Machine might get more expensive as it struggles to meet demand for the 2TB model.",
     "link": "https://www.polygon.com/steam-machine-possible-price-hike",
@@ -144,28 +784,12 @@
     "category": "world"
   },
   {
-    "title": "Record profits but record outflows: ’Sell Korea’ trade stalks Seoul market",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/analysisrecord-profits-but-record-outflows-sell-korea-trade-stalks-seoul-market-5037911",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAI0LX_L.jpg",
-    "pubDate": "2026-11-19T23:06:31+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "California probing whether China improperly acquired Nvidia technology",
+    "title": "California targets Nvidia in China AI chip probe",
     "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
     "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
     "pubDate": "2026-11-19T23:04:30+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
-    "description": "Jen O’Malley Dillon, who led the former president’s last two White House bids, is inviting top Democratic operatives to a gathering funded in part by the megadonor Alex Soros.",
-    "link": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-dems-2028-cjpz/19pol-dems-2028-cjpz-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T22:59:40+00:00",
-    "category": "world"
+    "category": "finance"
   },
   {
     "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
@@ -192,11 +816,11 @@
     "category": "world"
   },
   {
-    "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
-    "description": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the New York Times. The Times reports that employees at the NSA’s Maryland headquar",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-    "thumbnail": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=140&quality=85&auto=format&fit=max&s=c5876a95b1c70551c14f01e06a36bd87",
-    "pubDate": "2026-11-19T22:50:57+00:00",
+    "title": "Girls as young as five and women as old as 87 targeted for upskirting",
+    "description": "Police forces in Wales received 219 complaints over the past three years, with 18 people charged, an FOI request reveals.",
+    "link": "https://www.bbc.co.uk/news/articles/cq808rerxxp3o",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f08e/live/5f4f6740-e472-11f1-9f7f-a5d0553c5edc.jpg",
+    "pubDate": "2026-11-19T22:53:56+00:00",
     "category": "world"
   },
   {
@@ -229,23 +853,7 @@
     "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
     "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-opentrades-sub-1-cvzt/19biz-anthropic-opentrades-sub-1-cvzt-mediumSquareAt3X-v2.jpg",
     "pubDate": "2026-11-19T22:45:17+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Judge Allows Trump’s $15 Billion Case Against The Times to Proceed",
-    "description": "Mr. Trump accused the news organization and the book publisher Penguin Random House of disparaging his reputation as a successful businessman.",
-    "link": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T22:42:41+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
-    "description": "Gregory Jensen, a hedge-fund billionaire, invested early in Anthropic and OpenAI. But to fund a succession plan at his firm, he told colleagues that he sold his OpenAI stake.",
-    "link": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T22:41:19+00:00",
-    "category": "finance"
+    "category": "world"
   },
   {
     "title": "In Florida, More Rain Threatens Flooded Areas and Roads",
@@ -253,6 +861,14 @@
     "link": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
     "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
     "pubDate": "2026-11-19T22:37:05+00:00",
+    "category": "world"
+  },
+  {
+    "title": "Anthropic’s Value Surges in Public Debut",
+    "description": "Also, U.N. court rules that Myanmar committed genocide. Here’s the latest at the end of Thursday.",
+    "link": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19evening-nl-anthropic-ipo-pjml/19evening-nl-anthropic-ipo-pjml-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-19T22:36:06+00:00",
     "category": "world"
   },
   {
@@ -270,22 +886,6 @@
     "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630",
     "pubDate": "2026-11-19T22:33:26+00:00",
     "category": "technology"
-  },
-  {
-    "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-    "description": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.",
-    "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T22:29:09+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "EU-UK talks going down to the wire, says No 10",
-    "description": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbfc/live/34a43100-e423-11f1-9e08-55a8a3b48445.jpg",
-    "pubDate": "2026-11-19T22:26:04+00:00",
-    "category": "world"
   },
   {
     "title": "The Bay Area Wonders: What Will Anthropic Workers Do With Their Wealth?",
@@ -328,14 +928,6 @@
     "category": "technology"
   },
   {
-    "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
-    "description": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
-    "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7d/live/acdc01e0-e467-11f1-99b6-a35a62fa4264.jpg",
-    "pubDate": "2026-11-19T22:17:29+00:00",
-    "category": "world"
-  },
-  {
     "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
     "description": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader Mark Speakman will not contest his seat at the March state election, the latest in a mass exodus of MPs under the Liberal leader who replaced him, Kellie Sloane. In a late-night speech on Thursday, the final sitting day of NS",
     "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
@@ -360,28 +952,12 @@
     "category": "finance"
   },
   {
-    "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
-    "description": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no avail Fiona the hippo, one of America’s most famous zoo animals, has died after efforts to remove a knitted hat that she swallowed after it fell into her enclosure proved unsuccessful. “It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets",
-    "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
-    "thumbnail": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8",
-    "pubDate": "2026-11-19T22:09:55+00:00",
-    "category": "world"
-  },
-  {
     "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
     "description": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully diluted. While the final share value w",
     "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
     "thumbnail": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=1d230408bbae396686d8049961356159",
     "pubDate": "2026-11-19T22:09:18+00:00",
     "category": "finance"
-  },
-  {
-    "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-    "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg",
-    "pubDate": "2026-11-19T22:09:04+00:00",
-    "category": "world"
   },
   {
     "title": "California Storm Sweeps South, Prompting Some Evacuation Warnings in L.A.",
@@ -430,14 +1006,6 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5916/live/037d4680-e459-11f1-9431-9fe383d2f2c7.jpg",
     "pubDate": "2026-11-19T22:02:06+00:00",
     "category": "world"
-  },
-  {
-    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-    "description": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
-    "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T22:01:40+00:00",
-    "category": "finance"
   },
   {
     "title": "Cincinnati Zoo’s beloved hippo, Fiona, dead at 9 years old",
@@ -517,14 +1085,6 @@
     "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
     "thumbnail": "",
     "pubDate": "2026-11-19T21:48:56+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-    "description": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
-    "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-    "thumbnail": "",
-    "pubDate": "2026-11-19T21:43:30+00:00",
     "category": "finance"
   },
   {
@@ -640,14 +1200,6 @@
     "category": "ai"
   },
   {
-    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-    "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-    "pubDate": "2026-11-19T21:21:43+00:00",
-    "category": "world"
-  },
-  {
     "title": "OpenAI’s GPT-6.2 and Sol Are Getting Backlash From Early Testers",
     "description": "The benchmarks for the new models may be better than before, but people aren’t all that happy with the performance in some areas.",
     "link": "https://www.cnet.com/tech/openais-gpt-6-2-sol-backlash-early-testers",
@@ -685,22 +1237,6 @@
     "link": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
     "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-jpmorgan-cyber-wkmv/19biz-jpmorgan-cyber-wkmv-mediumSquareAt3X.jpg",
     "pubDate": "2026-11-19T21:16:51+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-    "description": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
-    "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108555288-1795100064124-gettyimages-2305893909-mms15553_6d3lb3nz.jpeg?v=1795100087&w=1920&h=1080",
-    "pubDate": "2026-11-19T21:16:41+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "AMD dives on short-seller report of alleged China exposure",
-    "description": "AMD closed down over 7% after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
-    "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108475785-1793209626528-gettyimages-2298419069-SKOREA_AMD.jpeg?v=1793209658&w=1920&h=1080",
-    "pubDate": "2026-11-19T21:14:46+00:00",
     "category": "finance"
   },
   {
@@ -833,7 +1369,7 @@
   },
   {
     "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-    "description": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were striving to put the finishing touches to a deal on Thursday night as they provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme. The EU-UK reset talks were going “down to the wire”, sources said, as both sides battled over the nature of the U",
+    "description": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme. It is understood the EU dropped its demands at the last minute that EU students would pay home tuition fees if they attended British u",
     "link": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
     "thumbnail": "https://i.guim.co.uk/img/media/78f4d52aa44fb56369bd027db2731ab2539e3e15/426_0_4300_3440/master/4300.jpg?width=140&quality=85&auto=format&fit=max&s=40b967ab32c7307a2b2a90e3326ee460",
     "pubDate": "2026-11-19T20:52:05+00:00",
@@ -1107,7 +1643,7 @@
     "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
     "description": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
     "link": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/4384ee10-e439-11f1-99b6-a35a62fa4264.jpg",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6fc/live/482060d0-e489-11f1-844f-c7a24d31dcc3.jpg",
     "pubDate": "2026-11-19T20:02:02+00:00",
     "category": "world"
   },
@@ -1480,14 +2016,6 @@
     "category": "technology"
   },
   {
-    "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-    "description": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
-    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T19:07:18+00:00",
-    "category": "world"
-  },
-  {
     "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
     "description": "Recent outages are prompting a rethink of cash. At the very least, your money should be diversified, top advisors say.",
     "link": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
@@ -1516,7 +2044,7 @@
     "description": "Anthropic excluded investment firms from China and Hong Kong from buying shares in advance of its initial public offering.",
     "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-china-hong-kong.html",
     "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-china-fgbw/19biz-anthropic-china-fgbw-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T19:04:37+00:00",
+    "pubDate": "2026-11-19T19:04:38+00:00",
     "category": "finance"
   },
   {
@@ -1560,14 +2088,6 @@
     "category": "technology"
   },
   {
-    "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
-    "description": "A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes.",
-    "link": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/20/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
-    "pubDate": "2026-11-19T18:52:24+00:00",
-    "category": "world"
-  },
-  {
     "title": "France awaits verdict six years after police beat Black music producer",
     "description": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
     "link": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer",
@@ -1582,6 +2102,14 @@
     "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-affordability-earnings-01-bvjf/19biz-affordability-earnings-01-bvjf-mediumSquareAt3X.jpg",
     "pubDate": "2026-11-19T18:51:49+00:00",
     "category": "finance"
+  },
+  {
+    "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
+    "description": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
+    "link": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-linehan-lfcp/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-19T18:50:52+00:00",
+    "category": "world"
   },
   {
     "title": "Palestinians in Gaza face new displacement after Israeli army operation",
@@ -1614,6 +2142,14 @@
     "thumbnail": "",
     "pubDate": "2026-11-19T18:44:34+00:00",
     "category": "finance"
+  },
+  {
+    "title": "Weekly quiz: Which star played cricket with Catherine in India?",
+    "description": "How much attention did you pay to what happened in the world over the past seven days?",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2edq12nno",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae6/live/95169960-e432-11f1-99a1-253766e7ad8b.jpg",
+    "pubDate": "2026-11-19T18:43:15+00:00",
+    "category": "world"
   },
   {
     "title": "Anthropic is now a public company worth more than $1 trillion",
@@ -1813,6 +2349,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg",
     "pubDate": "2026-11-19T17:55:15+00:00",
+    "category": "world"
+  },
+  {
+    "title": "The Permitting Bill Is Splitting the Environmental Movement",
+    "description": "Speeding up approvals for clean energy could help fight global warming — but many green groups fear its other provisions go too far.",
+    "link": "https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-permitting-debate-stillpromo/18cli-permitting-debate-stillpromo-mediumSquareAt3X.jpg",
+    "pubDate": "2026-11-19T17:50:00+00:00",
     "category": "world"
   },
   {
@@ -2204,7 +2748,7 @@
     "description": "As the technology surges ahead, policymakers in Washington have struggled to prepare for potential disruption to workers, businesses and the rest of the economy.",
     "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
     "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-anthropic-policy-01-vzgq/19dc-anthropic-policy-01-vzgq-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T16:39:36+00:00",
+    "pubDate": "2026-11-19T16:39:37+00:00",
     "category": "finance"
   },
   {
@@ -2704,14 +3248,6 @@
     "category": "world"
   },
   {
-    "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
-    "description": "The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent.",
-    "link": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-19T15:16:40+00:00",
-    "category": "technology"
-  },
-  {
     "title": "AI demand will push up interest rates around the world, IMF head warns",
     "description": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. Kristalina Georgieva, the managing director of the Washington-based fund, said demand for AI hardware and related technology",
     "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
@@ -2973,19 +3509,11 @@
     "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
     "thumbnail": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=140&quality=85&auto=format&fit=max&s=477e9e74301ca35bc7164268ef50968e",
     "pubDate": "2026-11-19T14:00:52+00:00",
-    "category": "world"
-  },
-  {
-    "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
-    "description": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to transmit a “practically unblockable” message",
-    "link": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
-    "thumbnail": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=c4f4272c390dc53f69e1f5e940abdde3",
-    "pubDate": "2026-11-19T14:00:50+00:00",
-    "category": "world"
+    "category": "technology"
   },
   {
     "title": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
-    "description": "A network of grassroots campaigners around the country are sharing information to help push back against the development boom Get our breaking news email , free app or daily news podcast When Heather Champion raised a council motion in March opposing a massive new gas plant to power a large datacentre in the southern highlands of New South Wales, it failed to pass. Five months later, when the local councillor for Wingecaribee raised a n",
+    "description": "A network of grassroots campaigners around the country is sharing information to help push back against the development boom Get our breaking news email , free app or daily news podcast When Heather Champion raised a council motion in March opposing a massive new gas plant to power a large datacentre in the southern highlands of New South Wales, it failed to pass. Five months later, when the local councillor for Wingecaribee raised a ne",
     "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
     "thumbnail": "https://i.guim.co.uk/img/media/e90e77dce409ae1737f7a957cdd23366571c08e6/735_307_6367_5096/master/6367.jpg?width=140&quality=85&auto=format&fit=max&s=7f3d300ffbcae89efe55693ab1f6daa6",
     "pubDate": "2026-11-19T14:00:50+00:00",
@@ -3461,7 +3989,7 @@
     "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01c9/live/8b711120-e422-11f1-99b6-a35a62fa4264.jpg",
     "pubDate": "2026-11-19T12:26:39+00:00",
-    "category": "world"
+    "category": "technology"
   },
   {
     "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
@@ -3513,7 +4041,7 @@
   },
   {
     "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
-    "description": "The actress said how stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
+    "description": "The actress said how \"stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
     "link": "https://www.bbc.co.uk/news/articles/cmge37e27r40o",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed67/live/ffc65c00-e437-11f1-a094-5fdc692f3e33.jpg",
     "pubDate": "2026-11-19T12:17:32+00:00",
@@ -5525,7 +6053,7 @@
     "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
     "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200",
     "pubDate": "2026-11-18T23:45:00+00:00",
-    "category": "technology"
+    "category": "ai"
   },
   {
     "title": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
@@ -5589,7 +6117,7 @@
     "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
     "thumbnail": "",
     "pubDate": "2026-11-18T23:25:17+00:00",
-    "category": "technology"
+    "category": "ai"
   },
   {
     "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
@@ -23470,533 +23998,5 @@
     "thumbnail": "",
     "pubDate": "2026-11-15T09:26:02+00:00",
     "category": "finance"
-  },
-  {
-    "title": "What forced the US to ground all planes? A router switch, we now know",
-    "description": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af96248d07d-1794728520.jpg?resize=1920%2C1440",
-    "pubDate": "2026-11-15T09:17:49+00:00",
-    "category": "world"
-  },
-  {
-    "title": "25 Funniest 'Peanuts' Comics from the 1960s That Prove Charles M. Schulz Is Unbeatable",
-    "description": "In 1964, Charles Schulz told a 25-part story that was some of his best work",
-    "link": "https://www.polygon.com/funniest-peanuts-comics-1960s",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/lucy-van-pelt-peanuts.jpg",
-    "pubDate": "2026-11-15T09:00:17+00:00",
-    "category": "games"
-  },
-  {
-    "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-    "description": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of ques",
-    "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-    "thumbnail": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
-    "pubDate": "2026-11-15T08:56:11+00:00",
-    "category": "world"
-  },
-  {
-    "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-    "description": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
-    "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP23020274965956-1683103065.jpg?resize=1920%2C1440",
-    "pubDate": "2026-11-15T08:49:47+00:00",
-    "category": "world"
-  },
-  {
-    "title": "England are favourites against All Blacks, and fearless Wales are an inspiration",
-    "description": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's emphatic 78-15 thrashing of Japan and looks ahead to their match against New Zealand next weekend.",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy41738nv7o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png",
-    "pubDate": "2026-11-15T08:47:46+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Thousands in Portugal protest against surging rental prices",
-    "description": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794732007.jpg?resize=1620%2C1080&quality=80",
-    "pubDate": "2026-11-15T08:40:37+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Why Some Flights Were Exempt From the Ground Stop",
-    "description": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
-    "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-airlines-explainer-topart-kmpz/14xp-airlines-explainer-topart-kmpz-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-15T08:35:03+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
-    "description": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
-    "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108547469-1794318020972-gettyimages-2303987004-AFP_D6ZC9G8.jpeg?v=1794318066&w=1920&h=1080",
-    "pubDate": "2026-11-15T08:34:46+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-    "description": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261114__D7GT2JP__v1__HighRes__FblEurNationsEspTraining-1794728196.jpg?resize=1920%2C1440",
-    "pubDate": "2026-11-15T08:29:18+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Can Your Retirement Income Plan Absorb a 22% Social Security Cut? - Yahoo Finance",
-    "description": "Can Your Retirement Income Plan Absorb a 22% Social Security Cut? Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOG41QXRKbXZGLVFfeTAyOUJqd2I2RlJiR01qWXJHTGwydDI4ZHptcUNkZ1VEbVJwOVlZS0lFeUVheXJIa1FDQlQ1Mk5lTVJjWmVUODdhUHQwRWs2ZHpnaTlVWTd4N2Y1XzNsWXE3Q2hDZTBfM3l4eE5KZGkxUUw3NXNiaHVQbHl5cFhMZ21DTGRReWJsaVpUemxiRHFBQQ?oc=5",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T08:29:02+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Milder day in store before more cold health alerts take effect",
-    "description": "A short-lived milder spell is on the way for Sunday before more cold health alerts come into force.",
-    "link": "https://www.bbc.co.uk/weather/articles/cqe879916895o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61a7/live/9782cb80-df5d-11f1-b441-2b33b063138f.jpg",
-    "pubDate": "2026-11-15T08:24:45+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-    "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-    "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
-    "pubDate": "2026-11-15T08:17:41+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Jordan sentences three men to death by hanging after deadly church attack",
-    "description": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T072839Z_1337625626_RC2H9OAP3SJS_RTRMADP_3_JORDAN-CHURCH-1792845520.jpg?resize=1920%2C1440",
-    "pubDate": "2026-11-15T08:15:04+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Coinone warns of phishing, identity theft after customer data breach",
-    "description": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
-    "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
-    "pubDate": "2026-11-15T08:07:58+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-    "description": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
-    "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794647864.jpg?resize=1920%2C1440",
-    "pubDate": "2026-11-15T08:07:08+00:00",
-    "category": "world"
-  },
-  {
-    "title": "I Can't Wait to Ignore the Main Story of GTA 6",
-    "description": "GTA 6's side activities like mini-golf, parachuting, and working out sound more fun than stealing cars and getting chased by the cops",
-    "link": "https://www.polygon.com/gta-6-main-story-side-activities",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-18-at-10-16-01-am.jpg",
-    "pubDate": "2026-11-15T08:00:17+00:00",
-    "category": "games"
-  },
-  {
-    "title": "Planes collide in Miami a day after a nationwide ground stop. Airlines may owe you nothing for hotels — who pays instead - Yahoo Finance",
-    "description": "Planes collide in Miami a day after a nationwide ground stop. Airlines may owe you nothing for hotels — who pays instead Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0lmMGd1R256NmhvWnh1RjVHLV9pSkZtU2NTcXV0WkdldzNVaWotZGlsQ3lhMmdQejVLdkFVMnVCSHpOczAtRTRlY1JncFZKTFhjZkxjaVRBSC1ldTFGY3I0Qmw3LUU1RGE1ZzlkNmlCTWNiOW1ac2ZEZnVlQjFEbTV1VXFzblJCOVhxN1dHelhhQXdtVno2aWpZcEhBM3lBUWc?oc=5",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T07:35:00+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-    "description": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T133411Z_1587179867_UP1EMBE0TMZWS_RTRMADP_3_SOCCER-MIZUHOCUP-JPN-BRA-1794725995.jpg?resize=1920%2C1440",
-    "pubDate": "2026-11-15T07:30:21+00:00",
-    "category": "world"
-  },
-  {
-    "title": "How Spain's humble superstar Simon became world's best keeper",
-    "description": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg",
-    "pubDate": "2026-11-15T07:29:30+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-    "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg",
-    "pubDate": "2026-11-15T07:19:52+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Nate Silver’s Unscientific, Totally Subjective Breakdown of the Democrats’ Future Stars",
-    "description": "A roundup of uniters and fighters, progressives and moderates.",
-    "link": "https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/15/multimedia/15silver-vfhb/15silver-vfhb-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-15T07:15:56+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Thoughts Near the End of a Life",
-    "description": "More than anything, I am grateful. For life, especially.",
-    "link": "https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T07:14:30+00:00",
-    "category": "world"
-  },
-  {
-    "title": "ASEAN summit: Who’s attending and what’s at stake?",
-    "description": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26028267291630-1791246790_c99e6e-1791246925.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-11-15T07:11:24+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-    "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
-    "pubDate": "2026-11-15T07:10:31+00:00",
-    "category": "world"
-  },
-  {
-    "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
-    "description": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software You are looking for some gifts for Christmas and want to support small businesses when you shop. When you visit the site of one you’ve heard good things about you are asked to verify that you are human. Instead of clicking on a series of images, or typing letters that appear, just as you have seen",
-    "link": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
-    "thumbnail": "https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=3e9246160e867f88ad574ac58ef48a00",
-    "pubDate": "2026-11-15T07:00:06+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-    "description": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
-    "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-11-15T07:00:00+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Israel: Making the Holy Land burn",
-    "description": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-22T070259Z_1448102338_RC264OA6MQFM_RTRMADP_3_ISRAEL-PALESTINIANS-OLIVES-THEFT-1794661177_1cbbb6-1794725498.jpg?resize=1200%2C630&quality=80",
-    "pubDate": "2026-11-15T06:49:14+00:00",
-    "category": "world"
-  },
-  {
-    "title": "The French Republic’s forgotten promise of equality",
-    "description": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T06:44:27+00:00",
-    "category": "world"
-  },
-  {
-    "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
-    "description": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
-    "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
-    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg",
-    "pubDate": "2026-11-15T06:27:26+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-    "description": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine. The three-way summit is planned to take place in Shenzhen, where the leaders will ga",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-    "thumbnail": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf",
-    "pubDate": "2026-11-15T06:22:32+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-    "description": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T06:11:00+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
-    "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
-    "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg",
-    "pubDate": "2026-11-15T06:01:46+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Gymshark in trademark battle that threatens future of small fitness business",
-    "description": "Exclusive: British sportswear firm is seeking to obtain rights to The Conditioning Club, which is also the name of a Gloucestershire gym Gymshark, the £1bn British sportswear firm started in a family garage , is locked in a trademark battle that threatens the future of a small fitness business. Ben Francis, the university dropout who started sewing his own gym clothes in his parents’ garage and is now estimated to be worth £800m, is try",
-    "link": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
-    "thumbnail": "https://i.guim.co.uk/img/media/e1da29897d579d3c5ce54dccb4e07d5ac5515acf/347_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=c1dbdf7133b015d46df76574e9cdf610",
-    "pubDate": "2026-11-15T06:00:07+00:00",
-    "category": "world"
-  },
-  {
-    "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
-    "description": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a mil",
-    "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
-    "thumbnail": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d86f59594943d3e382cf380ea2fd4e71",
-    "pubDate": "2026-11-15T06:00:06+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-    "description": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel The world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minority, in a landmark case that will set a critical 21st-century benchmark for the gravest of all international crimes. The closely watched judgment could become one of the most signi",
-    "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-    "thumbnail": "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=090ff017f584b6c02d4f46319d31927c",
-    "pubDate": "2026-11-15T06:00:05+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Could Budapest be the next digital nomad hotspot?",
-    "description": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
-    "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T06:00:01+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "UK papers: 'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
-    "description": "Russell Brand continues to feature on Sunday's front pages, nearly a week after he was jailed.",
-    "link": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6895/live/d9cc4b40-e086-11f1-93e1-3b657b665bcf.jpg",
-    "pubDate": "2026-11-15T05:16:44+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-    "description": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T05:05:02+00:00",
-    "category": "world"
-  },
-  {
-    "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-    "description": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
-    "link": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-uk-europe-security-new-jlpc/14int-uk-europe-security-new-jlpc-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-15T05:01:20+00:00",
-    "category": "world"
-  },
-  {
-    "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
-    "description": "These sci-fi miniseries accomplish so much within 12 or less episodes.",
-    "link": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mv5bnwyzmda5mjqtzmnlns00nwrllwexmtqtogexowmwnjq2ntexxkeyxkfqcgc-_v1_.jpg",
-    "pubDate": "2026-11-15T05:00:18+00:00",
-    "category": "games"
-  },
-  {
-    "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-    "description": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T04:44:57+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Video shows moment of Brooklyn building collapse from inside",
-    "description": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T04:31:55+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-    "description": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T04:28:45+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Copa Airlines, UPS planes collide while taxiing at Miami airport",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
-    "thumbnail": "https://content-media.investing.com/news/LYNXNPEC9H0RJ_M.jpg",
-    "pubDate": "2026-11-15T04:23:54+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Zimbabwe’s HIV gains face a test among young people",
-    "description": "New prevention tools offer hope, but reaching young people remains a challenge.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T04:13:00+00:00",
-    "category": "world"
-  },
-  {
-    "title": "World leaders head to Asia for back-to-back diplomatic summits",
-    "description": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings World leaders will fly in to Asia for back-to-back high-level summits this week against the backdrop of the tussle for influence between the superpowers China and the US. Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooper",
-    "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-    "thumbnail": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c",
-    "pubDate": "2026-11-15T04:00:02+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
-    "description": "So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.",
-    "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-mediumSquareAt3X.jpg",
-    "pubDate": "2026-11-15T03:49:52+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
-    "description": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones Get our daily political email , free app or daily news podcast Anthony Albanese has apologised for a hot-mic gaffe at the UN climate talks in Turkey, saying he regretted being overheard discussing mobile phone radiation and “dicks” in a candid conversation. “I of course regret that. I apologise,” Albane",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
-    "thumbnail": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=140&quality=85&auto=format&fit=max&s=4d3cdc60bc8855259dcbf1ab9ce5da75",
-    "pubDate": "2026-11-15T03:49:21+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Monkey attacks woman inside residential complex in India",
-    "description": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T03:39:39+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
-    "description": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T03:30:29+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
-    "description": "The latest Tomb Raider remake gameplay deep dive gives a look at controversial RPG elements in Legacy of Atlantis",
-    "link": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tomb-raider-legacy-of-atlantis-lara-croft.jpg",
-    "pubDate": "2026-11-15T03:14:17+00:00",
-    "category": "games"
-  },
-  {
-    "title": "U.S. diesel prices fall below $6 a gallon to two-month low",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/us-diesel-prices-fall-below-6-a-gallon-to-twomonth-low-5027641",
-    "thumbnail": "https://content-media.investing.com/news/LYNXNPEE9I0TQ_M.jpg",
-    "pubDate": "2026-11-15T03:02:25+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
-    "description": "The Legend of Zelda: Ocarina of Time is a good reminder that the Zelda universe has more great villains than Ganon.",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-twinrova-fire.jpg",
-    "pubDate": "2026-11-15T03:00:27+00:00",
-    "category": "games"
-  },
-  {
-    "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
-    "description": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. The game is poised to \"blot out the sun,\" some experts believe, and its release looms so large that other gaming companies are shifting dates for their own games to stay out of the blast radius. Francis Lawrence, the director of the new Hunger Games movie Sunri",
-    "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects",
-    "thumbnail": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17_338c4e.jpg?w=300",
-    "pubDate": "2026-11-15T03:00:00+00:00",
-    "category": "games"
-  },
-  {
-    "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-    "description": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T02:59:06+00:00",
-    "category": "world"
-  },
-  {
-    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-    "description": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-    "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f5ebb4afb940e3439b9bd9944fc26aaedb49540b-2213x1011.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "pubDate": "2026-11-15T02:50:57+00:00",
-    "category": "crypto"
-  },
-  {
-    "title": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
-    "description": "Judge Ana C. Reyes, who has been overseeing combative litigation, said the Trump administration would not be responsible for operating the course while the case proceeded.",
-    "link": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/14/us/14dc-golf-new/14dc-golf-new-mediumSquareAt3X-v3.jpg",
-    "pubDate": "2026-11-15T02:42:57+00:00",
-    "category": "world"
-  },
-  {
-    "title": "US judge again blocks Trump’s makeover plan for DC golf course",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/us-judge-again-blocks-trumps-makeover-plan-for-dc-golf-course-5027633",
-    "thumbnail": "https://content-media.investing.com/trkd-images/LYNXNPEMAE01P_L.jpg",
-    "pubDate": "2026-11-15T02:42:22+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "UK to expand youth job guarantee program amid rising unemployment",
-    "description": "",
-    "link": "https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
-    "thumbnail": "https://content-media.investing.com/news/LYNXMPEABM0FQ_M.jpg",
-    "pubDate": "2026-11-15T02:16:30+00:00",
-    "category": "finance"
-  },
-  {
-    "title": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
-    "description": "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’ Get our breaking news email , free app or daily news podcast The failed federal Liberal candidate Katherine Deves, who campaigned to exclude transgender women from women’s sport, will stand for One Nation at next year’s New South Wales election. Deves was among four NSW Legislative Council candidates announced by One Nation’s NSW",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
-    "thumbnail": "https://i.guim.co.uk/img/media/d047c76f69b28583bdf6ab81399ed4967ef41dda/836_107_1722_1378/master/1722.jpg?width=140&quality=85&auto=format&fit=max&s=5f594cb51867df53603d74544e8a5ab9",
-    "pubDate": "2026-11-15T02:13:20+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
-    "description": "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision Italy’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent. Through the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to Italian users “without obtaining specific consent",
-    "link": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
-    "thumbnail": "https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=140&quality=85&auto=format&fit=max&s=a21d148cf4521bdbbe4b16afaee635cc",
-    "pubDate": "2026-11-15T02:02:01+00:00",
-    "category": "technology"
-  },
-  {
-    "title": "9 Giant-Sized Changes Marvel Made to Ant-Man After Edgar Wright Left",
-    "description": "Wright left Ant-Man in 2015, citing differences with Marvel. Here’s how his film would have been different",
-    "link": "https://www.polygon.com/edgar-wright-ant-man-script-differences",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24465365/AntManWaspAnts.jpeg",
-    "pubDate": "2026-11-15T02:00:17+00:00",
-    "category": "games"
-  },
-  {
-    "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-    "description": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold",
-    "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/04/Iraqi-PM-Horizontal-thumb-1777368476.jpg?resize=1920%2C1080&quality=80",
-    "pubDate": "2026-11-15T01:54:55+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-    "description": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily news podcast Dangerous and severe “supercell” thunderstorms with the potential for giant hail and destructive winds were forecast for parts of New South Wales on Sunday, as volatile weather continued in the eastern states over the weekend. Storms dumped heavy r",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-    "thumbnail": "https://i.guim.co.uk/img/media/0ff1f7cb491d3cea7030874a5781c374e23a49b6/586_0_3258_2608/master/3258.jpg?width=140&quality=85&auto=format&fit=max&s=db2094a4a83783cc718c1ec3227c1976",
-    "pubDate": "2026-11-15T01:52:37+00:00",
-    "category": "world"
-  },
-  {
-    "title": "FAA was warned for years about repair risks leading to nationwide ground stop",
-    "description": "Officials said installation of a new router was behind the cancellation of more than 12,000 flights.",
-    "link": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop",
-    "thumbnail": "",
-    "pubDate": "2026-11-15T01:37:42+00:00",
-    "category": "world"
-  },
-  {
-    "title": "Stephen King’s Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
-    "description": "Stephen King fans rejoice: a Lovecraftian crime-thriller epic is on the way with Crouch End, a new miniseries from Prime Video.",
-    "link": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show",
-    "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1600.jpeg",
-    "pubDate": "2026-11-15T01:36:17+00:00",
-    "category": "games"
   }
 ]
